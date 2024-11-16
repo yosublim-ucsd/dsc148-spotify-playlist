@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Fiona-Lee",
+  "description": "Boss music for boss people. Cover: Sam Fender",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -1540,6 +1540,24 @@
       "duration_ms": 196670,
       "name": "Don't Stop Me",
       "url": "https://open.spotify.com/track/6oTczJENNzHA6MHmX8yyiT"
+    },
+    {
+      "album": {
+        "name": "Don't Be A Stranger",
+        "url": "https://open.spotify.com/album/31LDM8aFFwEcgQmYQqu0qt"
+      },
+      "artists": [
+        {
+          "name": "The Rills",
+          "url": "https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1o9cwnsgKXaYUplrvyxe63"
     },
     {
       "album": {
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 206810,
       "name": "Lady Messiah",
       "url": "https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB"
@@ -4165,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "album": {
         "name": "Perfect Me",
         "url": "https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL"
       },
@@ -4940,7 +4976,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 197319,
       "name": "Stay Up",
       "url": "https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw"
@@ -5610,7 +5646,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183262,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh"
@@ -5920,6 +5956,24 @@
       "duration_ms": 202450,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC"
+    },
+    {
+      "album": {
+        "name": "When I Wake Up I'm Sad",
+        "url": "https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG"
+      },
+      "artists": [
+        {
+          "name": "Fiona-Lee",
+          "url": "https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267301,
+      "name": "When I Wake Up I'm Sad",
+      "url": "https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV"
     },
     {
       "album": {

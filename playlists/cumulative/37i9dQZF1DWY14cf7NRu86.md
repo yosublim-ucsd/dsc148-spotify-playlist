@@ -4,7 +4,7 @@
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-66 songs - 4 hr 36 min
+67 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/track/0SxrBl4M5EeHaC1esNhaRk) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/album/7luz8tQ7C1faPXAhVXsGiB) | 4:53 | 2022-09-23 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/0uc1RuwvJCJxP6SY8wNOWY) | [Ron Brown](https://open.spotify.com/artist/4DxoUVT94G1TrSPWUE6eWS) | [In The Christmas Spirit](https://open.spotify.com/album/2e1qQezB37nL0KrpS5P3uk) | 4:31 | 2021-11-12 |  |
 | [Hark The Herald Angels Sing/Sleighride \- Medley](https://open.spotify.com/track/3OxlUcOdXYwByFmIKjJKv6) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:48 | 2021-11-12 |  |
-| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5ZbZJ4dQWi1JBkyEY3KNSI) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu) | 2:58 | 2023-11-10 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5ZbZJ4dQWi1JBkyEY3KNSI) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu) | 2:58 | 2023-11-10 | 2024-11-16 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1B9xZuBiQ7wOY1gOfFf0vw) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Making Spirits Bright](https://open.spotify.com/album/0pFinwQDc1pWCRdnVMxiZm) | 3:58 | 2021-11-12 |  |
+| [Have Yourself a Merry Little Christmas \- radio](https://open.spotify.com/track/45uiyrjQZ4DLRqFLWy2qUU) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Have Yourself a Merry Little Christmas \(radio\)](https://open.spotify.com/album/1vtnD1uji8QXOI0wd371fm) | 3:20 | 2024-11-15 |  |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3SntjRYVRPJ8NU42uKmnEK) | [Andre Delano](https://open.spotify.com/artist/2gxojbTSW5wXJHXXhsWvqw) | [First Christmas](https://open.spotify.com/album/7umUdxSmcgrNGpg4CMJFVk) | 4:21 | 2021-11-12 |  |
 | [Jesu, Joy of Man's Desiring \(feat\. Steve Oliver\)](https://open.spotify.com/track/2sxzevViHBY78wt3kJomSi) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [California Christmas](https://open.spotify.com/album/52QKQhaaROzT2dFY7Zw3Zv) | 4:05 | 2021-11-12 |  |
 | [Jingle Bells](https://open.spotify.com/track/0yBSUcbfIM3H2CwALrrEnN) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Christmas with You](https://open.spotify.com/album/4yn6KTWcoZ3EvoMJ7qlckf) | 4:02 | 2021-11-12 |  |

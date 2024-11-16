@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "All That the Air Allows",
+        "url": "https://open.spotify.com/album/5xAdKLGG3O1KywUQG9s2Ha"
+      },
+      "artists": [
+        {
+          "name": "Lynn Avery",
+          "url": "https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP"
+        },
+        {
+          "name": "Cole Pulice",
+          "url": "https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302705,
+      "name": "All That the Air Allows",
+      "url": "https://open.spotify.com/track/0jiHm4PhDqu7vWtFkFAbiZ"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/3mhmI2zWMLBmsZHVvhrpeI"
       },
@@ -5476,7 +5498,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 194000,
       "name": "light seeing 3-3",
       "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"

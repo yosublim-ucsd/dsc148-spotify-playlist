@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-197 songs - 8 hr 21 min
+198 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Star Spangled Man](https://open.spotify.com/track/0asWVkzLh4S2n2ft9YJOUp) | [The Captain America Drum Corps](https://open.spotify.com/artist/0IALZLhyLZivzn9tQR7TJk) | [The Falcon and the Winter Soldier: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG) | 1:44 | 2024-01-05 |  |
 | [Star Spangled Man](https://open.spotify.com/track/0U9i80PmEhdWAfDUeOuuWU) | [The Star Spangled Singers](https://open.spotify.com/artist/1wXKJo0lUNDl0bVFX1dVyH) | [Captain America: The First Avenger](https://open.spotify.com/album/0La1Tskamjd6akysepE8r5) | 2:53 | 2024-01-05 |  |
 | [Strange Awakens](https://open.spotify.com/track/2YGTCT7Efw9CNvJTEtc6r0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 0:42 | 2024-01-05 |  |
+| [Sub\-Mariner \(1966 Theme\) \- 2024 Remaster](https://open.spotify.com/track/4hDQvEL3hJlRhvDHsdcay9) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Sub\-Mariner \(1966 Theme\) \[2024 Remaster\]](https://open.spotify.com/album/0zdD8IZCwSXbDrrNgDduHQ) | 0:49 | 2024-11-15 |  |
 | [Sugar Cookies](https://open.spotify.com/track/0ig0QTeIhfSw6eWvoXb2cX) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 1:20 | 2024-05-22 |  |
 | [Summon the Suit](https://open.spotify.com/track/2gniwO6ylK0s2tRZ8gNbMT) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:16 | 2024-01-05 |  |
 | [Swing \(Lofi Version\)](https://open.spotify.com/track/4hCwxMk9WLaXmH4se0KWCL) | [Pendrick](https://open.spotify.com/artist/12WlLXqXCFZ2VTy96t7UtF) | [Marvel's Spider\-Man 2: Lofi](https://open.spotify.com/album/57zKQ5DLqVI7PiEaqUsKFU) | 2:51 | 2024-08-16 |  |
@@ -204,6 +205,6 @@
 | [X\-Men '97 Theme \- From "X\-Men '97"](https://open.spotify.com/track/3GIu4yGiUgvDi9ERewkbIa) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [X\-Men '97 Theme \(From "X\-Men '97"\)](https://open.spotify.com/album/3lpER8BQDPbDsamuZviUaG) | 1:05 | 2024-03-21 | 2024-05-23 |
 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 | 2024-01-05 |  |
 | [You Did Good](https://open.spotify.com/track/34ZpUfJx6XvSvHQUgPbqSq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 1:57 | 2024-01-05 |  |
-| [Árboles Bajo El Mar \- Film Version](https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 6:29 | 2024-01-05 |  |
+| [Árboles Bajo El Mar \- Film Version](https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 6:29 | 2024-01-05 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 159626,
+  "num_followers": 159638,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAAAo0SLsUuPLQpD0nihnl2TP",
+  "snapshot_id": "ZzU9gAAAAACn5noTP4Vl+5tBAySKQoHQ",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 273013,
-      "name": "Change Down",
-      "url": "https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh"
+      "duration_ms": 322373,
+      "name": "Noctuary",
+      "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 322373,
-      "name": "Noctuary",
-      "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
+      "duration_ms": 273013,
+      "name": "Change Down",
+      "url": "https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+      "duration_ms": 376533,
+      "name": "Nothing Owed",
+      "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 376533,
-      "name": "Nothing Owed",
-      "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-288 songs - 16 hr 0 min
+289 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 | 2024-05-17 |  |
 | [Cannibal \- Radical Redemption Remix](https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Cannibal \(Radical Redemption Remix\)](https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq) | 3:07 | 2022-12-08 | 2023-10-26 |
 | [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 | 2024-03-23 |
-| [Coco's Revenge \- Mind Compressor Remix](https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Coco's Revenge \(Mind Compressor Remix\)](https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD) | 3:16 | 2024-05-02 |  |
+| [Coco's Revenge \- Mind Compressor Remix](https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Coco's Revenge \(Mind Compressor Remix\)](https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD) | 3:16 | 2024-05-02 | 2024-11-16 |
 | [CocoNUTS](https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [CocoNUTS](https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu) | 3:22 | 2024-06-20 | 2024-11-09 |
 | [Come for You](https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [Back to Square One](https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb) | 2:48 | 2022-12-08 | 2024-07-24 |
 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 | 2022-12-08 | 2023-09-02 |
@@ -230,6 +230,7 @@
 | [SIUU!](https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dopameme](https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0) | 3:37 | 2023-11-27 | 2024-11-09 |
 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 | 2022-12-08 | 2023-10-26 |
 | [Slaves To The Darkness](https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [Lin was here](https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf) | [Slaves To The Darkness](https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3) | 3:18 | 2023-11-17 | 2024-09-07 |
+| [Sleepless](https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW) | [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Sleepless](https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn) | 3:27 | 2024-11-08 |  |
 | [Slugs 4 Snitches](https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85), [Predator](https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj) | [Slugs 4 Snitches](https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs) | 2:50 | 2023-10-25 | 2024-08-03 |
 | [So Druff \- D\-Fence Remix](https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [So Druff \(D\-Fence Remix\)](https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v) | 2:46 | 2022-12-15 |  |
 | [Somebody Scream](https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Somebody Scream](https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf) | 3:04 | 2022-12-08 | 2023-09-02 |

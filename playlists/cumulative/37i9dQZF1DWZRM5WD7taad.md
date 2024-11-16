@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ms\. Ambar en Portada
 
-341 songs - 17 hr 0 min
+343 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ADRENALINA](https://open.spotify.com/track/1Y7PMEmhBNhwRYdwupj61v) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ADRENALINA](https://open.spotify.com/album/738JDm3WZaOJJUqtCsdDRv) | 3:13 | 2024-08-23 |  |
 | [Agua Salada](https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Agua Salada](https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB) | 3:12 | 2023-04-14 |  |
 | [Aka Plaka](https://open.spotify.com/track/5iIWcCKkoLNRw3kO1Eych3) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1) | [Aka Plaka](https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv) | 2:51 | 2023-01-13 | 2024-02-17 |
-| [Alerta](https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Alerta](https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl) | 3:09 | 2023-09-15 |  |
+| [Alerta](https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Alerta](https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl) | 3:09 | 2023-09-15 | 2024-11-16 |
 | [Aletheia](https://open.spotify.com/track/0HkIlCA0q9HHLGVhRU1tGM) | [Dilema](https://open.spotify.com/artist/3eCEorgAoZkvnAQLdy4x38), [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN) | [Aletheia](https://open.spotify.com/album/27AaB0tquSmq1HvR44he0D) | 3:13 | 2024-04-19 | 2024-10-05 |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-08-03 | 2023-07-01 |
 | [Alto Voltaje](https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Alto Voltaje](https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe) | 2:50 | 2023-04-21 | 2024-07-19 |
@@ -133,6 +133,7 @@
 | [Fuera de Juego](https://open.spotify.com/track/7IZHqbElo3bY7FS8IBon74) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Fuera de Juego](https://open.spotify.com/album/4ohrUceIP0BeRfYJBW8VxQ) | 2:32 | 2023-03-24 | 2023-09-16 |
 | [Furyosa >:\(](https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Furyosa >:\(](https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx) | 2:37 | 2023-11-10 |  |
 | [Fé De Más](https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Fé De Más](https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx) | 2:20 | 2024-03-08 |  |
+| [God Complex](https://open.spotify.com/track/6154fxuOOHUqA7ICDIeM6i) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Flow Pantera](https://open.spotify.com/album/2Aq6PtHMupEhOKQK0Hm6Cp) | 3:24 | 2024-11-15 |  |
 | [Golpe Avisa](https://open.spotify.com/track/6uXdP0a9lZ6fbWJQUcbN2R) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu) | [Golpe Avisa](https://open.spotify.com/album/5wsCUfFhW6pi3iGejBlmNB) | 2:28 | 2023-10-06 |  |
 | [Heredera del Surrealismo](https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [elgaboaraya](https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 2:32 | 2023-11-17 |  |
 | [Hija De P](https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Hija De P](https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9) | 2:05 | 2023-11-10 |  |
@@ -206,6 +207,7 @@
 | [Millonaria](https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 3:36 | 2024-01-19 | 2024-04-19 |
 | [Mira Ma](https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 | 2023-04-07 | 2023-07-29 |
 | [Miss Diablo](https://open.spotify.com/track/0Hurh6a4KCZ7MuCPgYIwP8) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo](https://open.spotify.com/album/4s8SELkg0riptSKUZxidei) | 2:31 | 2024-05-03 |  |
+| [Miss Diablo II](https://open.spotify.com/track/4MqfOq9S5xrYqKlKa2UqvN) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo II](https://open.spotify.com/album/4PvluDGLgxbTbbQkmiNFoi) | 2:53 | 2024-11-15 |  |
 | [Missionsuicida](https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Missionsuicida](https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ) | 1:28 | 2023-05-05 | 2024-10-12 |
 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 | 2024-06-21 |  |
 | [MUA MUA](https://open.spotify.com/track/5NpbR1msaCHFLK4Ey9kszX) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [MUA MUA](https://open.spotify.com/album/1umgvXy4WxvM6QMIJIqfrW) | 1:41 | 2024-07-19 |  |
@@ -252,7 +254,7 @@
 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 | 2021-12-13 | 2023-07-01 |
 | [PULLIN' UP](https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:00 | 2023-09-08 |  |
 | [Punto](https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Punto](https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi) | 2:50 | 2023-06-09 | 2024-01-13 |
-| [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 |  |
+| [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 | 2024-11-16 |
 | [Quasimodo](https://open.spotify.com/track/0j8s3aMzNWribuvPjEyjZW) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/3II4zBlqHfG0rZJ3dfK2Zq) | 2:05 | 2024-03-29 | 2024-04-19 |
 | [Quasimodo](https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX) | 2:05 | 2024-03-15 | 2024-08-24 |
 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 | 2024-02-10 |

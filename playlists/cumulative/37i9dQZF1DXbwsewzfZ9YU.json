@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 119850,
       "name": "Meander",
       "url": "https://open.spotify.com/track/1nt5vUklwwizdkVbM26oTf"
@@ -2772,6 +2772,24 @@
       "duration_ms": 115312,
       "name": "Mental Static",
       "url": "https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh"
+    },
+    {
+      "album": {
+        "name": "Ministerial Cafeteria",
+        "url": "https://open.spotify.com/album/1l9JzOaRISFpNO4lT6KOjP"
+      },
+      "artists": [
+        {
+          "name": "Thirdface",
+          "url": "https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81682,
+      "name": "Midian",
+      "url": "https://open.spotify.com/track/5Sj3S8HyhoEcoq1y2D9LDk"
     },
     {
       "album": {
@@ -3276,6 +3294,24 @@
       "duration_ms": 131013,
       "name": "OK? OK! OK? OK!",
       "url": "https://open.spotify.com/track/2mVEPVf5YF4hukVUWaorF7"
+    },
+    {
+      "album": {
+        "name": "Guilt Is Good",
+        "url": "https://open.spotify.com/album/7utWDQvMIaQ1Hc7tPrPY7T"
+      },
+      "artists": [
+        {
+          "name": "Secret World",
+          "url": "https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199272,
+      "name": "On Show",
+      "url": "https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7"
     },
     {
       "album": {
@@ -4626,7 +4662,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 123386,
       "name": "Temple Of The Worm",
       "url": "https://open.spotify.com/track/6GkEjsXDfAaHUbJoehtnph"

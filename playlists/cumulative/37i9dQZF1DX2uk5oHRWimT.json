@@ -2774,10 +2774,28 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 308216,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/4tKvRSfIjFQyrPMEes4uGd"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/3RwdiNee1Wc6VehBLWhFre"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171386,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/59eCdGhs3wUwnFLrAxiC0k"
     },
     {
       "album": {

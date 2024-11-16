@@ -3481,6 +3481,28 @@
     },
     {
       "album": {
+        "name": "Velho Testamento, Pt. 1",
+        "url": "https://open.spotify.com/album/73ABknW88UEAiJmmZ88qyL"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Lugui",
+          "url": "https://open.spotify.com/artist/1nbEwYG8yBrAnmCHjyLQiP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203498,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7rihSLA92UMpHUElM6nHgo"
+    },
+    {
+      "album": {
         "name": "Copo D'\u00e1gua",
         "url": "https://open.spotify.com/album/3kdAf38u0uSQa4hxhdC7lg"
       },
@@ -6262,7 +6284,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 168196,
       "name": "FNB",
       "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
@@ -9398,6 +9420,36 @@
       "duration_ms": 142564,
       "name": "Metflix - Remix",
       "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
+    },
+    {
+      "album": {
+        "name": "Meu Mundo (feat. Baco Exu do Blues)",
+        "url": "https://open.spotify.com/album/5KxcToFlPpKwTDNN82ftTs"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241846,
+      "name": "Meu Mundo (feat. Baco Exu do Blues)",
+      "url": "https://open.spotify.com/track/6lSzZU3QJsu4x788gfQKNT"
     },
     {
       "album": {
@@ -14518,7 +14570,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186567,
       "name": "Tudo de novo",
       "url": "https://open.spotify.com/track/6WRnEY8WQJGXaigSHnKJfz"

@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 295530,
       "name": "Fara\u00f3 ou Deus?",
       "url": "https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b"
@@ -3336,6 +3336,32 @@
       "duration_ms": 309001,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
+    },
+    {
+      "album": {
+        "name": "Queima o Teu Fogo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GijDbnPuLPz2S0wqdMZZx"
+      },
+      "artists": [
+        {
+          "name": "Daiani Alves",
+          "url": "https://open.spotify.com/artist/1HKllJUpYgIpeePglcBqSw"
+        },
+        {
+          "name": "Alex Xavier",
+          "url": "https://open.spotify.com/artist/3tH56ql87i6AWQzFFtNtsR"
+        },
+        {
+          "name": "Bless Music",
+          "url": "https://open.spotify.com/artist/63FyMy7DzK976h1Hii5ETk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293290,
+      "name": "Queima o Teu Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CtEXDHf1Wrs9zWiZEqPQF"
     },
     {
       "album": {

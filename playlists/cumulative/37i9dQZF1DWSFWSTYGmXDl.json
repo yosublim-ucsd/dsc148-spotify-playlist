@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "winter wishes",
+        "url": "https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162804,
+      "name": "blame it on the snow",
+      "url": "https://open.spotify.com/track/1QZbfQMzfDqWoyAEvXi1jQ"
+    },
+    {
+      "album": {
         "name": "A Very Cozy Christmas",
         "url": "https://open.spotify.com/album/6C4mRN0DaAqdrrZDktAfxJ"
       },

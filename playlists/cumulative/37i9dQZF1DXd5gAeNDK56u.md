@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-112 songs - 4 hr 54 min
+115 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,13 @@
 | [All Good](https://open.spotify.com/track/1IKoX9kt3BSwrTtWlcEXrz) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 5](https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME) | 2:01 | 2023-03-27 |  |
 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2023-03-27 |  |
 | [Army](https://open.spotify.com/track/4ucUpBGCkqOzjkNGA9pG3G) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Army](https://open.spotify.com/album/6HzbQgddqbKLHN10hhUnp9) | 2:27 | 2023-03-27 |  |
+| [Ask Somebody](https://open.spotify.com/track/5fsd2pgZipjq2RqCIiqljd) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [Ask Somebody](https://open.spotify.com/album/4JstE1rhJBLvVo8jfmzjIo) | 2:34 | 2024-11-15 |  |
 | [Askin](https://open.spotify.com/track/2wMLQNBfIvAxx2EiI7GFrv) | [Smith The Mister](https://open.spotify.com/artist/3lklKePqvwfT8azoQpiKnH) | [Askin](https://open.spotify.com/album/36m2j8o4xSn5s6004afjev) | 1:54 | 2023-03-27 | 2024-02-23 |
 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-26 |  |
 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 | 2023-03-27 |  |
 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 | 2023-03-27 |  |
 | [Banished](https://open.spotify.com/track/311GcJHZOdJVGDl1r9LOaO) | [Geppilef](https://open.spotify.com/artist/3YGNGXTZlAgFX71OG2UyZp) | [Banished](https://open.spotify.com/album/1FNudNBnGVzvgcpIS8Fqli) | 2:36 | 2024-02-22 |  |
+| [Barcelona Moon](https://open.spotify.com/track/7Ls3aMAwJgEsNrtqiR57KK) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Barcelona Moon](https://open.spotify.com/album/4igBsTf38ARCOZ4nW6HFCz) | 2:21 | 2024-11-15 |  |
 | [Base de Rap Underground](https://open.spotify.com/track/6STFSBpFdq0CZBp4oxi7oL) | [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5), [Yardin Beats](https://open.spotify.com/artist/5cWMmggtmODCBGwTM8P1iC) | [Base de Rap Underground](https://open.spotify.com/album/47X4Y64j2QsPcN2bjns4oV) | 2:26 | 2023-03-27 |  |
 | [Bella Roma Faster](https://open.spotify.com/track/4qn6KcvhCMNjHXXwPawjnk) | [swagotron](https://open.spotify.com/artist/1ALn7dTGx8RCfSwwulNaGe) | [Bella Roma Faster](https://open.spotify.com/album/7EgEARhXXc7joD20TnfYcW) | 2:44 | 2023-03-27 |  |
 | [Bill It](https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Bill It](https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR) | 2:51 | 2023-03-27 |  |
@@ -92,6 +94,7 @@
 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 | 2023-03-27 |  |
 | [Shaded](https://open.spotify.com/track/7naAfuZwQluhcaSsZV5X9D) | [Bloodmasta Cut](https://open.spotify.com/artist/2rh01sSbOkGqeTUDKunM25), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Shaded](https://open.spotify.com/album/7DvBGb16PZeNo6mAB1AWlF) | 3:08 | 2023-03-27 |  |
 | [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2023-03-27 |  |
+| [Sinking ships](https://open.spotify.com/track/0Zhn2UKdk85ZjJQWgTsN4L) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Sinking ships](https://open.spotify.com/album/4scVxa1K0CXcSY2ecLkDQt) | 2:38 | 2024-11-15 |  |
 | [Spider Ceiling](https://open.spotify.com/track/4NYpYKCKpi2AfaDkKgwV7G) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Cornflakes for Dinner](https://open.spotify.com/album/3k39WOcEpT2xfaDEqYUuAt) | 2:33 | 2023-03-27 |  |
 | [Stardestroyer](https://open.spotify.com/track/0PVE2LWeI2sASeUpK3kTlY) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:51 | 2023-03-27 |  |
 | [Stardust](https://open.spotify.com/track/04P6SptKI4ME31V8DSl9uv) | [ifftic](https://open.spotify.com/artist/3XZ2F5KvNyGPOqAXgGXeLZ) | [Mr Owl](https://open.spotify.com/album/5MwNMogVtJe5GchiEVuY4f) | 1:46 | 2023-03-27 | 2024-02-23 |

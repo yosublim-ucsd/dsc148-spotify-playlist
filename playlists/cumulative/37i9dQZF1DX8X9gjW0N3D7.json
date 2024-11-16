@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Jay Sc\u00f8tt",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: 2Fr\u00e8res",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186818,
       "name": "Chasing Sunsets (V.F)",
       "url": "https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve"
@@ -314,6 +314,24 @@
       "duration_ms": 173080,
       "name": "Coup de poing",
       "url": "https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv"
+    },
+    {
+      "album": {
+        "name": "Science humaine",
+        "url": "https://open.spotify.com/album/0chebHv4zEUnUwycIJEfgD"
+      },
+      "artists": [
+        {
+          "name": "2Fr\u00e8res",
+          "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Croire en nous",
+      "url": "https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob"
     },
     {
       "album": {
@@ -408,7 +426,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l"
@@ -1093,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Le poids",
+        "url": "https://open.spotify.com/album/2UBIOGwKcj4bs8yoMla62U"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Le poids",
+      "url": "https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2"
+    },
+    {
+      "album": {
         "name": "Le reste du temps",
         "url": "https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw"
       },
@@ -1436,7 +1472,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 209191,
       "name": "Notre p'tit refrain",
       "url": "https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14"
@@ -1596,6 +1632,24 @@
       "duration_ms": 185893,
       "name": "Quitter la ville",
       "url": "https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u"
+    },
+    {
+      "album": {
+        "name": "Qu'est-ce qu'on dit ?!",
+        "url": "https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j"
+      },
+      "artists": [
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Qu\u00e9bec Blues",
+      "url": "https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h"
     },
     {
       "album": {

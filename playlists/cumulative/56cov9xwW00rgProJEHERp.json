@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 192701,
       "name": "Back For The Funeral",
       "url": "https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK"
@@ -756,6 +756,24 @@
       "duration_ms": 219956,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
+    },
+    {
+      "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/0basUZafmlXohc5Z1lqnDR"
+      },
+      "artists": [
+        {
+          "name": "Sam Lynch",
+          "url": "https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209402,
+      "name": "Doing My Best",
+      "url": "https://open.spotify.com/track/6sFoThfMeE9rzbArgXomFT"
     },
     {
       "album": {
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
@@ -3658,6 +3676,24 @@
       "duration_ms": 204398,
       "name": "you don't love me anymore",
       "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
+    },
+    {
+      "album": {
+        "name": "&SCENE",
+        "url": "https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216741,
+      "name": "your wedding",
+      "url": "https://open.spotify.com/track/22iySIndsx0HLE4aqN28IV"
     },
     {
       "album": {

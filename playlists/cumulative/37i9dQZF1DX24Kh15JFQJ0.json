@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6Xc07KxNf7b8vNEfDeWUs3"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302813,
+      "name": "California Sky",
+      "url": "https://open.spotify.com/track/1kr4PfL1bKBiybH4VikzSp"
+    },
+    {
+      "album": {
         "name": "Can't Even Get The Blues (Revived)",
         "url": "https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N"
       },
@@ -3582,6 +3600,28 @@
       "duration_ms": 164152,
       "name": "My Stupid Tattoo",
       "url": "https://open.spotify.com/track/0V25FstJKoZu9EUbMiNDXg"
+    },
+    {
+      "album": {
+        "name": "Smoky Mountain DNA: Family, Faith and Fables",
+        "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179389,
+      "name": "My Tennessee Mountain Home",
+      "url": "https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-228 songs - 19 hr 35 min
+229 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Eu Vou na Frente](https://open.spotify.com/track/7IhoNVHiXR4PQcYkV0bEwp) | [Nithael Alves](https://open.spotify.com/artist/7bJNPAbxZjdvFLQqdG0mOd) | [Eu Vou na Frente](https://open.spotify.com/album/2CxfBwzBDXCpgpfYZEtG1Z) | 4:39 | 2023-10-20 | 2023-11-04 |
 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 | 2024-04-19 |  |
 | [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 | 2024-07-13 |
-| [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 |  |
+| [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 | 2024-11-16 |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 |  |
 | [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 | 2022-09-09 | 2024-06-29 |
 | [Foi Livramento](https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Foi Livramento](https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq) | 3:39 | 2023-07-07 |  |
@@ -177,6 +177,7 @@
 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 | 2023-06-23 |  |
 | [Que Grande Amor](https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4) | [Deivison Pires](https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Que Grande Amor](https://open.spotify.com/album/2o5QptigV392N1NttpUZQh) | 6:52 | 2024-08-16 |  |
 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 | 2022-09-09 | 2023-09-26 |
+| [Queima o Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0CtEXDHf1Wrs9zWiZEqPQF) | [Daiani Alves](https://open.spotify.com/artist/1HKllJUpYgIpeePglcBqSw), [Alex Xavier](https://open.spotify.com/artist/3tH56ql87i6AWQzFFtNtsR), [Bless Music](https://open.spotify.com/artist/63FyMy7DzK976h1Hii5ETk) | [Queima o Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/6GijDbnPuLPz2S0wqdMZZx) | 4:53 | 2024-11-15 |  |
 | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 | 2022-09-09 | 2023-02-11 |
 | [Quem Vai Fazer](https://open.spotify.com/track/1KolecLrx2lwNfrE0Kyzz5) | [Martinha](https://open.spotify.com/artist/6etONEQiR3dUCs4IV0kIlE), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Vai Fazer](https://open.spotify.com/album/6yZAbOXP1GvYiuIoAwTQdq) | 4:09 | 2023-04-21 | 2023-05-13 |
 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 | 2022-09-09 | 2023-03-25 |

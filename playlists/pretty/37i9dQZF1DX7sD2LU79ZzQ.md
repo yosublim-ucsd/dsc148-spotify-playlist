@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,040 likes - 130 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,076 likes - 130 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

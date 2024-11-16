@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
+    },
+    {
+      "album": {
         "name": "kame 'n left",
         "url": "https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7"
       },
@@ -848,6 +866,24 @@
       "duration_ms": 174683,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/6n6ke9IsK9Q8YtPH8cSBKq"
+    },
+    {
+      "album": {
+        "name": "expensive taste",
+        "url": "https://open.spotify.com/album/3zx9CZ9vdejdt69rQ9hwsY"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151030,
+      "name": "expensive taste",
+      "url": "https://open.spotify.com/track/5KIkmsIbfteheIR0vCwGK1"
     },
     {
       "album": {
@@ -1432,6 +1468,24 @@
       "duration_ms": 132826,
       "name": "Middle of The Night",
       "url": "https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl"
+    },
+    {
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151489,
+      "name": "Modern Day Suicide",
+      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
     },
     {
       "album": {

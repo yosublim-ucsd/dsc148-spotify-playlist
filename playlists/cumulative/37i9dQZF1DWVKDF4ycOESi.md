@@ -4,7 +4,7 @@
 
 > Capo Plaza in cover + le migliori uscite di questa settimana!
 
-2,582 songs - 5 day 10 hr 29 min
+2,584 songs - 5 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,6 +906,7 @@
 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2024-10-03 | 2024-10-11 |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-07-11 | 2024-07-19 |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2024-10-24 | 2024-11-01 |
+| [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-11-15 |  |
 | [Goodbye](https://open.spotify.com/track/3hAR0R5UTMPRStDNS9eX8J) | [Francesco Tammaro](https://open.spotify.com/artist/0bkTCipITmLTXfQzIYV92d), [centoquaranta](https://open.spotify.com/artist/5OVM8QEKKJIk4DxWBB1xlz) | [Goodbye](https://open.spotify.com/album/3GQTGWDBIAocbw5j3iyrSE) | 3:16 | 2024-07-04 | 2024-07-12 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-10-31 | 2024-11-08 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
@@ -1887,6 +1888,7 @@
 | [Quello che mi resta](https://open.spotify.com/track/6bLYtUqGI4gjSaqgpEqoVl) | [DFWU](https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV) | [Quello che mi resta](https://open.spotify.com/album/5Blef5UwcYrHpc4rvjEXcV) | 2:46 | 2024-05-09 | 2024-05-17 |
 | [Questa Felicità](https://open.spotify.com/track/2F5vE2e3CjLpk0C7B9gdss) | [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Questa Felicità](https://open.spotify.com/album/6IUeIUHAXzTIL5GXD2o6PX) | 2:42 | 2024-10-17 | 2024-10-25 |
 | [QUIERES \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/2yRItriPSSZ76EA3PJqB26) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [QUIERES \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/0rgv2ztq7icRIrwSo0I9X6) | 2:45 | 2024-11-15 |  |
+| [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-11-15 |  |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-06-13 | 2024-06-21 |
 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 | 2024-08-29 | 2024-09-06 |
 | [Ragazza del Mare](https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG) | [Ragazza del Mare](https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ) | 2:45 | 2024-09-26 | 2024-10-04 |

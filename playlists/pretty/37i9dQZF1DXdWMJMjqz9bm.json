@@ -1,13 +1,29 @@
 {
-  "description": "A little bit of pop, a little bit of rap. Cover: Anella Herim",
-  "num_followers": 218839,
+  "description": "A little bit of pop, a little bit of rap. Cover: 347aidan",
+  "num_followers": 218856,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqS2QAAAAANcl4p//xx8vU7pdvSyd7k",
+  "snapshot_id": "ZzbVUAAAAAAlpfllclswLdmy3lw/k6FM",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "EVERYTIME",
+        "url": "https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "EVERYTIME",
+      "url": "https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop"
+    },
     {
       "added_at": "2024-10-18 19:47:48",
       "album": {

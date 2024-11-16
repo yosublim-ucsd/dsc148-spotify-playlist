@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Rachael Fahim
+> The cream of today's Country crop\. Cover: Shaboozey
 
-830 songs - 1 day 21 hr 27 min
+831 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Good Enough](https://open.spotify.com/track/4Wg8wu154gsVjKVa6JoOCe) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Good Enough](https://open.spotify.com/album/43NoHT80dHB7tWnhjdHtnJ) | 3:42 | 2022-08-11 | 2023-01-06 |
 | [Good Enough](https://open.spotify.com/track/064jdewcvmHluciPQ0QsvO) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [Good Enough](https://open.spotify.com/album/1ThEPBGdF3IYzkZwnTlBW4) | 4:30 | 2024-02-09 | 2024-03-15 |
 | [Good Fight](https://open.spotify.com/track/3qJ0l2SKlEwd4ZLg5MBSce) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Good Fight](https://open.spotify.com/album/66tCqC4TP9TKDNZ1htQhHo) | 3:25 | 2022-06-16 | 2022-09-09 |
+| [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-11-15 |  |
 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 | 2024-02-22 | 2024-06-01 |
 | [Good Night](https://open.spotify.com/track/5Eh7vELizk82443ydOK48g) | [Cassidy\-Rae](https://open.spotify.com/artist/5oWZYAyXkZ5Ks8UstmT3uM) | [Good Night](https://open.spotify.com/album/5tpoP5SOLvr4Zf01kxrv3p) | 2:53 | 2024-06-27 | 2024-08-23 |
 | [Good One](https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Good One](https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd) | 2:49 | 2021-12-30 | 2022-04-08 |

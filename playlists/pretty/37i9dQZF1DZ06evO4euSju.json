@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1320,
+  "num_followers": 1321,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAABI5D0ImPcg3DgbtLiNXUk8",
+  "snapshot_id": "ZzU9gAAAAAD65jFRRS2jEhMpyO4wyGLM",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 166943,
-      "name": "Taste Of Gasoline",
-      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+      "duration_ms": 206156,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
     },
     {
       "added_at": null,
@@ -222,15 +222,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
@@ -260,9 +256,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206156,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
+      "duration_ms": 166943,
+      "name": "Taste Of Gasoline",
+      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
     },
     {
       "added_at": null,
@@ -290,11 +286,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Outside of Love",
-      "url": "https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Love (Deluxe)",
         "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 328241,
       "name": "Paloma a.k.a. Ketamine",
       "url": "https://open.spotify.com/track/5w5M2EGtS9F4yqdpNWiWTS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB"
     },
     {
       "added_at": null,

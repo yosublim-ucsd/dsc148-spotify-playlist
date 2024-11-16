@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "ATTACK!",
+        "url": "https://open.spotify.com/album/1vyJeqIQUKXcB6jAmkVUYv"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167421,
+      "name": "ATTACK!",
+      "url": "https://open.spotify.com/track/47DmpGRiVanRnmKHgLo3sU"
+    },
+    {
+      "album": {
         "name": "SYNTHESIZE",
         "url": "https://open.spotify.com/album/3Tz2gpU9451lzGSpeqgc5W"
       },
@@ -3297,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "Call Of Cthulhu",
+        "url": "https://open.spotify.com/album/6RR3AOFBg1YKSnp7zbIQU5"
+      },
+      "artists": [
+        {
+          "name": "Empira",
+          "url": "https://open.spotify.com/artist/52SEFvQng6XqKFfoE4YcbI"
+        },
+        {
+          "name": "Overage",
+          "url": "https://open.spotify.com/artist/3LqSsh2zqt9agTCL7uORzq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204334,
+      "name": "Call Of Cthulhu",
+      "url": "https://open.spotify.com/track/0dMK8lJiejtOthJHCzwrmD"
+    },
+    {
+      "album": {
         "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
@@ -3776,6 +3820,24 @@
       "duration_ms": 162000,
       "name": "Codebreaker",
       "url": "https://open.spotify.com/track/2sDdP6fdMzTcX4PpN9DH9w"
+    },
+    {
+      "album": {
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/3Qz0E28Kj94FGAFcbi41p7"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198152,
+      "name": "Collusion",
+      "url": "https://open.spotify.com/track/0U2seV5ICIOEh5I78hjkZD"
     },
     {
       "album": {
@@ -14467,6 +14529,28 @@
     },
     {
       "album": {
+        "name": "New Perspective",
+        "url": "https://open.spotify.com/album/6C2YhbY9uFaR3ImduCYljs"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152399,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5EO871vyXKMVLTRTCYmjtK"
+    },
+    {
+      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU"
       },
@@ -14530,6 +14614,24 @@
       "duration_ms": 186000,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3pNeIvP6B4yHezrNy8zrSH"
+    },
+    {
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/1a4WXPzjbtfeN8QGpVWhJr"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190451,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/2MWziYsbkIgENef0q8dqtG"
     },
     {
       "album": {
@@ -15178,6 +15280,40 @@
       "duration_ms": 217500,
       "name": "Ode To My Body",
       "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
+    },
+    {
+      "album": {
+        "name": "Off My Face",
+        "url": "https://open.spotify.com/album/4MXVV2AhvqxKEuyLpDwSBg"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Colin Hennerz",
+          "url": "https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF"
+        },
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        },
+        {
+          "name": "3BLOKES",
+          "url": "https://open.spotify.com/artist/1Fu6pK1yz2uHEtDckXDXat"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv"
     },
     {
       "album": {
@@ -16603,6 +16739,28 @@
     },
     {
       "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/6DLccx2pOOMiEwlMZfMN2u"
+      },
+      "artists": [
+        {
+          "name": "Infliction",
+          "url": "https://open.spotify.com/artist/1jlSojJNNkZC35aVF5ifWa"
+        },
+        {
+          "name": "Bmberjck",
+          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136031,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/4UnYuYx9EFHbY19cbvOUjb"
+    },
+    {
+      "album": {
         "name": "Raging Madness",
         "url": "https://open.spotify.com/album/43MJoR0AQTlmP0uyB2aiPB"
       },
@@ -17786,7 +17944,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 264221,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/57uOEl0RYTSpWbd6GZH6Xe"
@@ -18024,6 +18182,28 @@
       "duration_ms": 200516,
       "name": "Rising Up",
       "url": "https://open.spotify.com/track/7il96PYozOtizSQHZqFXBq"
+    },
+    {
+      "album": {
+        "name": "Robot Ravolution",
+        "url": "https://open.spotify.com/album/29ZJULqFan3puJjuEXssW0"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Drean",
+          "url": "https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192635,
+      "name": "Robot Ravolution",
+      "url": "https://open.spotify.com/track/6ZnQGHGcB1LU0X2Tl08bts"
     },
     {
       "album": {
@@ -19777,6 +19957,32 @@
     },
     {
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/6YmoIzZk7UNZ9eRSPJ2JNg"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        },
+        {
+          "name": "So Juice",
+          "url": "https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR"
+        },
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/7wqYyl9WqstDDjStGOc6Ym"
+    },
+    {
+      "album": {
         "name": "Still Happy",
         "url": "https://open.spotify.com/album/5BM35kbaa8dHTfrv7ipt3Y"
       },
@@ -20818,6 +21024,36 @@
       "duration_ms": 152000,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/6BxlQF0gdDOybWTBAcIaA3"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/4vbKMUnzpSdpxsDBrv92EJ"
+      },
+      "artists": [
+        {
+          "name": "Sintica",
+          "url": "https://open.spotify.com/artist/52tz2HSHkvRWTP5IGk8Mjt"
+        },
+        {
+          "name": "The Cleric",
+          "url": "https://open.spotify.com/artist/2HrglV3sYvbiF070W0PK79"
+        },
+        {
+          "name": "Ryan T",
+          "url": "https://open.spotify.com/artist/2E4rfccROlZIzUw66oznGl"
+        },
+        {
+          "name": "BENEMY",
+          "url": "https://open.spotify.com/artist/63aSfnSReVTlV8HwRdpOzP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172069,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/4FQMBi54jBgENC6vaxv0rI"
     },
     {
       "album": {
@@ -24397,6 +24633,28 @@
     },
     {
       "album": {
+        "name": "We Unite (Archive 2024 Anthem)",
+        "url": "https://open.spotify.com/album/75U5AKYBepTzsWtEIuXSPT"
+      },
+      "artists": [
+        {
+          "name": "Solstice",
+          "url": "https://open.spotify.com/artist/6Czf2AVSww2aOhW4M6QNHT"
+        },
+        {
+          "name": "Stef Classens",
+          "url": "https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267839,
+      "name": "We Unite - Archive 2024 Anthem",
+      "url": "https://open.spotify.com/track/259Q6i1SugLVU6TT5BULc4"
+    },
+    {
+      "album": {
         "name": "We Will Be Legends (I AM HARDSTYLE Anthem 2024)",
         "url": "https://open.spotify.com/album/6RimnWmvrsCL0QFxGk6B7z"
       },
@@ -24654,7 +24912,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 153375,
       "name": "WELCOME 2 DA RECORDSHOP",
       "url": "https://open.spotify.com/track/5rg0MR5PFc1gUbI2E9aOxH"
@@ -25578,6 +25836,28 @@
       "duration_ms": 204000,
       "name": "YEAHBOIII",
       "url": "https://open.spotify.com/track/0ylo3XIQYUzPYhTdfPWn4v"
+    },
+    {
+      "album": {
+        "name": "YES SIR!!!",
+        "url": "https://open.spotify.com/album/4r7WuTB0A5SuzRrGMN3spU"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152718,
+      "name": "YES SIR!!!",
+      "url": "https://open.spotify.com/track/5rrSKP2H7mVCJ830dyjLG1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,467 likes - 176 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,512 likes - 176 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 133 | [Sun Turns Cold](https://open.spotify.com/track/0i6XijpG0r3DwoO0LEf5uk) | [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Sun Turns Cold](https://open.spotify.com/album/0LbK7vz0cjdE11KtCWNfGY) | 4:38 |
 | 134 | [One Big Country Song \- RoadHouse Remix](https://open.spotify.com/track/7LQ3fdrgP5ZlkpSFIYFSYq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [RoadHouse](https://open.spotify.com/artist/6Nf3jLrIOWnKsvdpJcup2y) | [One Big Country Song \(RoadHouse Remix\)](https://open.spotify.com/album/7mmzLcJUhdzQfJs1z0FxG1) | 3:10 |
 | 135 | [Dirt Road Anthem \(Remix\) \[feat\. Ludacris\]](https://open.spotify.com/track/4s3Z1svzMAu8OwmhWLUWHw) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Dirt Road Anthem \(Remix\) \[feat\. Ludacris\]](https://open.spotify.com/album/0VLksQeRExDkOfVsmTXtBk) | 3:52 |
-| 136 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
+| 136 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
 | 137 | [GOOD TIME \- Andrelli Remix](https://open.spotify.com/track/7n4UKXvKGFZKSdU1NUw06T) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [GOOD TIME \(Andrelli Remix\)](https://open.spotify.com/album/4IGBxXXi1Mz0y3jLgh0zhf) | 2:44 |
 | 138 | [The Git Up \(feat\. Ciara\) \- Remix](https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/3wRyrZCXZxuj45KThDqe4O) | 3:13 |
 | 139 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |

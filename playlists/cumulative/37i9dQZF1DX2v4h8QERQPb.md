@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-320 songs - 16 hr 11 min
+321 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Es Una Trampa](https://open.spotify.com/track/5ObEhvixPr295RLAEbcFEm) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Jaloner](https://open.spotify.com/artist/6mxuwUdhUgLS5QcCA08Rlz) | [Es Una Trampa](https://open.spotify.com/album/3F2xH5WDopRoGNRuzltHl5) | 3:33 | 2024-06-21 |  |
 | [Estoy fuera \- Freestyle](https://open.spotify.com/track/5JYlNZMxphxneDI8DU8kTX) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Estoy fuera \- Freestyle](https://open.spotify.com/album/6V2frckzXN5aURiPlcWljL) | 2:35 | 2024-08-16 |  |
 | [Estrellas de Rock](https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Estrellas de Rock](https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu) | 2:35 | 2024-07-19 |  |
-| [Faia](https://open.spotify.com/track/4ltescSSscMuPhtW9IHx8M) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [UANTI](https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ) | [Faia](https://open.spotify.com/album/13nSgFANocUG5LR9tbR5rK) | 2:45 | 2024-04-19 |  |
+| [Faia](https://open.spotify.com/track/4ltescSSscMuPhtW9IHx8M) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [UANTI](https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ) | [Faia](https://open.spotify.com/album/13nSgFANocUG5LR9tbR5rK) | 2:45 | 2024-04-19 | 2024-11-16 |
 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 | 2022-04-11 | 2024-06-22 |
 | [Fat Bootys](https://open.spotify.com/track/5pqpyl2TBu9cPsbVxTOK18) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Fat Bootys](https://open.spotify.com/album/2pBzS1nKpmFDID3l0XJSAJ) | 3:22 | 2021-11-26 | 2023-04-29 |
 | [FE](https://open.spotify.com/track/0zZjcXrQRhn0m3UQGx4NU6) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [FE](https://open.spotify.com/album/6wNiEaMZYox4Qgs0KezHCR) | 2:49 | 2024-10-18 |  |
@@ -310,6 +310,7 @@
 | [Todo va a seguir igual](https://open.spotify.com/track/3tdGm2kGNMSbKC7Xwmkset) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Todo va a seguir igual](https://open.spotify.com/album/1xvukhClHNVj4jAgXba5kO) | 2:18 | 2024-02-23 |  |
 | [Traición](https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Traición](https://open.spotify.com/album/1Lir5TBeNDAVUq1mDATIOz) | 3:23 | 2023-04-28 | 2023-10-28 |
 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 | 2023-08-11 |  |
+| [Una Copa](https://open.spotify.com/track/7pXGoroCMyPQVLQmVHCn1z) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Una Copa](https://open.spotify.com/album/1ZUv9gIHhAXpC00sjmAjS3) | 2:56 | 2024-11-15 |  |
 | [Vamos a Fumar](https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Vamos a Fumar](https://open.spotify.com/album/32DlSEQVurR7UvVoBxmiH2) | 3:06 | 2022-03-11 | 2023-04-29 |
 | [Vamos a Ver](https://open.spotify.com/track/0xib5ZjCU56WCDPsQEUJ7D) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Vamos a Ver](https://open.spotify.com/album/79yIirMRAvkjZSjYgOmtWp) | 3:44 | 2024-05-17 |  |
 | [Vamos por todo](https://open.spotify.com/track/68Rlhbme6eKfq2gzIqi1Ib) | [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj), [Mendez](https://open.spotify.com/artist/3tvLEIn7PxHY6IDaUtWM9R) | [Vamos por todo](https://open.spotify.com/album/4pbW5SsWU5x3vsY43CrHo4) | 3:45 | 2024-02-23 | 2024-04-13 |

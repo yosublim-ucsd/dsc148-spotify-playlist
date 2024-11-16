@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211 likes - 67 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 67 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 6 | [When I Wake Up](https://open.spotify.com/track/6URUyQLdPdKgCySVgryLpH) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 2:54 |
 | 7 | [Forgot How to Love](https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Forgot How to Love](https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj) | 2:29 |
 | 8 | [Bella ciao](https://open.spotify.com/track/51frPF1JFad9MBlgI3dg1J) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU) | [Bella ciao](https://open.spotify.com/album/1EQJHpLIrKMFtK8bNmfCQZ) | 3:04 |
-| 9 | [Lose It All](https://open.spotify.com/track/1rLKLphzEdI1YQqHn4n0OD) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Lose It All](https://open.spotify.com/album/4dPAqSKXgdO0YosVpLNbE4) | 2:54 |
-| 10 | [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 9 | [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 10 | [Lose It All](https://open.spotify.com/track/1rLKLphzEdI1YQqHn4n0OD) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Lose It All](https://open.spotify.com/album/4dPAqSKXgdO0YosVpLNbE4) | 2:54 |
 | 11 | [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 |
 | 12 | [Tears In The Morning](https://open.spotify.com/track/3LQcSr9IlOZNrDGq4zmBBP) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Tears In The Morning](https://open.spotify.com/album/1X0BxsZZVRJteTY5avuwUS) | 2:20 |
 | 13 | [Older Now](https://open.spotify.com/track/6bko9xilkuD49EtdKTrnUq) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [klei](https://open.spotify.com/artist/04Tq9kLCxG1auw8xfUD4Mp) | [Older Now](https://open.spotify.com/album/2Y8fhKUzUKhfm6iNRTJH4X) | 3:09 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 66 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 67 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Abhg/gAAAAB/xCyBOQ5QsTvyMN3jULnn`
+Snapshot ID: `AbhmngAAAADvABRnHi3eu26E2n8HrAj8`

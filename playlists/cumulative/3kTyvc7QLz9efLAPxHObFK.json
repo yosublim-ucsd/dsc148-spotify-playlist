@@ -15101,6 +15101,24 @@
     },
     {
       "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/4R4gA0HBU0TRTyJo4yiBpm"
+      },
+      "artists": [
+        {
+          "name": "Getty",
+          "url": "https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "HELIX",
+      "url": "https://open.spotify.com/track/5Db4VuiKtGYoPKedpwICVo"
+    },
+    {
+      "album": {
         "name": "Hell Boy",
         "url": "https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk"
       },
@@ -20266,6 +20284,24 @@
     {
       "album": {
         "name": "Louder",
+        "url": "https://open.spotify.com/album/3ZduC6F9D5VuCbZYFx1d85"
+      },
+      "artists": [
+        {
+          "name": "Matzic",
+          "url": "https://open.spotify.com/artist/5icd9CGTLeERkT6s20imCs"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154570,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/118IF6OKdNVyXbhOsMNF4R"
+    },
+    {
+      "album": {
+        "name": "Louder",
         "url": "https://open.spotify.com/album/5iBuL8meDgVEbLYeVf4AZY"
       },
       "artists": [
@@ -23702,6 +23738,28 @@
       "duration_ms": 201793,
       "name": "Nocturne (feat. mami)",
       "url": "https://open.spotify.com/track/7v14xucmK1mLC0urcJU3HM"
+    },
+    {
+      "album": {
+        "name": "Noise Tempo",
+        "url": "https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Noiseflow",
+          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154833,
+      "name": "Noise Tempo",
+      "url": "https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J"
     },
     {
       "album": {
@@ -32213,6 +32271,24 @@
     },
     {
       "album": {
+        "name": "The Forest",
+        "url": "https://open.spotify.com/album/20ovZTHJ8M5gBUWZ6P0exH"
+      },
+      "artists": [
+        {
+          "name": "Sunhiausa",
+          "url": "https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215413,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/7xYEF0C2n22DpTe2C5N1X5"
+    },
+    {
+      "album": {
         "name": "Thunderdome 2021",
         "url": "https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5"
       },
@@ -36653,6 +36729,24 @@
     },
     {
       "album": {
+        "name": "Whip It Up",
+        "url": "https://open.spotify.com/album/1uFHzPy0fUDYo9kkkkOIXP"
+      },
+      "artists": [
+        {
+          "name": "Bionator Project",
+          "url": "https://open.spotify.com/artist/6IbzmZw1iBjZkVnPXTwyHt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162953,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/3HfCJcQa55Hbys1tc6gYnX"
+    },
+    {
+      "album": {
         "name": "Whispers (Na Na Na)",
         "url": "https://open.spotify.com/album/69g7eHqSv4EoBEJQzbaxXb"
       },
@@ -37372,6 +37466,28 @@
       "duration_ms": 214653,
       "name": "YABBLE-KABBLE",
       "url": "https://open.spotify.com/track/5Q8kX9zJXJRQUPE6cuOo5l"
+    },
+    {
+      "album": {
+        "name": "YES SIR!!!",
+        "url": "https://open.spotify.com/album/4r7WuTB0A5SuzRrGMN3spU"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152718,
+      "name": "YES SIR!!!",
+      "url": "https://open.spotify.com/track/5rrSKP2H7mVCJ830dyjLG1"
     },
     {
       "album": {

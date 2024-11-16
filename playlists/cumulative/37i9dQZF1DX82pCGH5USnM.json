@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 163374,
       "name": "Aguacates Maduros",
       "url": "https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 148000,
       "name": "Blurred Out",
       "url": "https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj"
@@ -2829,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Corals",
+        "url": "https://open.spotify.com/album/2vt2it7Hjfr2TtUv5agGwx"
+      },
+      "artists": [
+        {
+          "name": "Paradise Delay",
+          "url": "https://open.spotify.com/artist/2LC89if4mekjoDOmUqTOoM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Corals",
+      "url": "https://open.spotify.com/track/1eISwnI3L6Pn03hXNdPFI6"
+    },
+    {
+      "album": {
         "name": "Corridors",
         "url": "https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam"
       },
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 149464,
       "name": "Deseable",
       "url": "https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP"
@@ -3474,6 +3492,24 @@
       "duration_ms": 196500,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/5rTy1sH9jfGEHzdZ5oUG3P"
+    },
+    {
+      "album": {
+        "name": "Dirty Paws",
+        "url": "https://open.spotify.com/album/62BoDXDa6cg3urJfwyCclC"
+      },
+      "artists": [
+        {
+          "name": "Lumin",
+          "url": "https://open.spotify.com/artist/3ab5hmLBz9pAkr1hGdLN2R"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162936,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/2Y42Zchxs8XUjAXvRwkN9J"
     },
     {
       "album": {
@@ -4050,7 +4086,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 139084,
       "name": "envelope",
       "url": "https://open.spotify.com/track/4dT3GQBpTmm2c6T6vL7Ig0"
@@ -4912,7 +4948,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 139235,
       "name": "Gardens",
       "url": "https://open.spotify.com/track/3pkH9qYgYpqdMSF2efqAwJ"
@@ -4930,7 +4966,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 171130,
       "name": "Gate F67",
       "url": "https://open.spotify.com/track/60PyrG3oFbyyUXSSlQaFtc"
@@ -5344,7 +5380,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 160862,
       "name": "Growing",
       "url": "https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN"
@@ -6850,7 +6886,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 133461,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/2vKK6rJqYfeFOMMjQlvO7M"
@@ -9012,7 +9048,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 229005,
       "name": "Nox",
       "url": "https://open.spotify.com/track/0TPfMoZCd8IToLykBdRtfH"
@@ -9300,7 +9336,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183272,
       "name": "Out Late",
       "url": "https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v"
@@ -9480,7 +9516,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 166037,
       "name": "Parasol Paradise",
       "url": "https://open.spotify.com/track/0G42P5rpaqBp0dKWxG7OOo"
@@ -10359,6 +10395,24 @@
     },
     {
       "album": {
+        "name": "Red Leaves",
+        "url": "https://open.spotify.com/album/515UeYymWvIzgBywCoFqWt"
+      },
+      "artists": [
+        {
+          "name": "Don Ken",
+          "url": "https://open.spotify.com/artist/2UjitFd07NdNwd8gbHGx2r"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Red Leaves",
+      "url": "https://open.spotify.com/track/1EYZ7NUCDoCUXLX5VNiNQN"
+    },
+    {
+      "album": {
         "name": "Sunday Morning Dub",
         "url": "https://open.spotify.com/album/0QD0AJntZBIYlwSwpLNNmd"
       },
@@ -11220,7 +11274,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 279862,
       "name": "Sepal",
       "url": "https://open.spotify.com/track/6kCjJBSJJEhekXIK8vjhUZ"
@@ -11634,7 +11688,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 177611,
       "name": "skin shimmer",
       "url": "https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5"
@@ -12136,7 +12190,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179590,
       "name": "SPF",
       "url": "https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS"
@@ -12334,7 +12388,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 182267,
       "name": "Still Need People",
       "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
@@ -12406,7 +12460,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183993,
       "name": "Suede",
       "url": "https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg"
@@ -12568,7 +12622,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157633,
       "name": "Sun King",
       "url": "https://open.spotify.com/track/2EezpKbfw5GdDaYZiUEAhH"
@@ -12604,7 +12658,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 154347,
       "name": "Sun Side",
       "url": "https://open.spotify.com/track/6kdmjfrUFLBoXj4DTqBrCe"
@@ -12748,7 +12802,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 128000,
       "name": "Sunrider",
       "url": "https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP"
@@ -13202,7 +13256,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 182504,
       "name": "Telemagenta",
       "url": "https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ"
@@ -13278,6 +13332,24 @@
       "duration_ms": 241818,
       "name": "The C-Train",
       "url": "https://open.spotify.com/track/7snKo0igv9epylzJWlQ2pZ"
+    },
+    {
+      "album": {
+        "name": "The Expert",
+        "url": "https://open.spotify.com/album/0crlR6MVeqAl8veYSInbGP"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180277,
+      "name": "The Expert",
+      "url": "https://open.spotify.com/track/3CWwhdkWm7mbqZ1Jlp5Gm4"
     },
     {
       "album": {
@@ -13731,6 +13803,24 @@
     },
     {
       "album": {
+        "name": "too bright",
+        "url": "https://open.spotify.com/album/7Hdyos0LAXd6ddXj5Lydu3"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "too bright",
+      "url": "https://open.spotify.com/track/3suSesOhgUyg3nMVqqB7Yi"
+    },
+    {
+      "album": {
         "name": "Toyama",
         "url": "https://open.spotify.com/album/11CN73XzqHhOor1vuqIzHt"
       },
@@ -13988,7 +14078,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 144753,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/12cjUe9jUhiAhaqZmgd59O"
@@ -14356,6 +14446,24 @@
       "duration_ms": 164444,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/1WfjJgjKgB1LC10hSVa3Zl"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/0V4mMMJMDk7l5ymweLFwqb"
+      },
+      "artists": [
+        {
+          "name": "La Guy",
+          "url": "https://open.spotify.com/artist/3mNLFv7WxSWmJpknr9yRVh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5FgLhU3A5FA1cA3ftR77NM"
     },
     {
       "album": {
@@ -14946,7 +15054,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 142040,
       "name": "Zanzibar",
       "url": "https://open.spotify.com/track/4kOFxbQua6DmmLopfex76W"

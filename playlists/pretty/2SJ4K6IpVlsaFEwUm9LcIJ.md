@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,108 likes - 13 songs - 38 min 59 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 22,116 likes - 15 songs - 46 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,5 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 11 | [A/B \- 2023 Remaster](https://open.spotify.com/track/3a62IVw5rTTmcjQrvTT89M) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 3:40 |
 | 12 | [Your New Boyfriend](https://open.spotify.com/track/1aNxWiJCgnFWIzsah4HNZ2) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 1:51 |
 | 13 | [Marginalia \#181](https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#181](https://open.spotify.com/album/4hwb1r1XKuxn3gAS3VTr8i) | 3:28 |
+| 14 | [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 |
+| 15 | [The Homecoming Queen's Got a Gun](https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh) | [Julie Brown](https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv) | [Trapped In The Body Of A White Girl](https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2) | 4:38 |
 
-Snapshot ID: `AAALUlP7WjCTows2Wr74UNxQ4JpyXlRg`
+Snapshot ID: `AAALVH2pA+HojdlhcP2eShyJUr0ECJYm`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,511 likes - 137 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,983 likes - 137 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'll Be Home for Christmas](https://open.spotify.com/track/4jbe59AoOM81GJQ8tT8IZy) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [I'll Be Home for Christmas](https://open.spotify.com/album/5bniqKvnu2j876NboUuw0Y) | 2:01 |
 | 2 | [Holy, Holy, Holy](https://open.spotify.com/track/6GjYRXGmP1CQrAb9ORvaFV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:50 |
 | 3 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/6Tq3Dme2AbZJGNqAVu0YNp) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/575hRObiltYxjwWXWryhc2) | 3:35 |
-| 4 | [Silent Night](https://open.spotify.com/track/4tKvRSfIjFQyrPMEes4uGd) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [It's Our Favorite Time of Year](https://open.spotify.com/album/0L9g2oXz83mY783Motpo94) | 5:08 |
+| 4 | [Silent Night](https://open.spotify.com/track/59eCdGhs3wUwnFLrAxiC0k) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Silent Night](https://open.spotify.com/album/3RwdiNee1Wc6VehBLWhFre) | 2:51 |
 | 5 | [O Come All Ye Faithful](https://open.spotify.com/track/4N8C2c5Y8ZRFAEdeogNB10) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4Z0E2zhE6qdsKdrUTKffXn) | 5:27 |
 | 6 | [Silver Bells](https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 4:10 |
 | 7 | [O Holy Night](https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [O Holy Night](https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU) | 2:35 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 136 | [Christmas Wish](https://open.spotify.com/track/7e13koqPdcVWDu1bUYL9V8) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/1ikep3Z5OsNFPi1g1wjHSY) | 2:57 |
 | 137 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `ZtIC5gAAAABW+I+a9UXGKKzxhbMOogCY`
+Snapshot ID: `ZzbVUAAAAABy6ZvQASKmdOF4sdfa+RE7`

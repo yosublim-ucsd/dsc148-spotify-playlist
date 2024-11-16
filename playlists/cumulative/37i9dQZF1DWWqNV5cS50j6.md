@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-1,773 songs - 3 day 13 hr 9 min
+1,774 songs - 3 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,6 +1182,7 @@
 | [poison](https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV), [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [junkie](https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP) | 1:57 | 2022-03-25 | 2022-04-08 |
 | [Politics & Violence](https://open.spotify.com/track/24a9UsAbEK5jB49zZyae58) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Politics & Violence](https://open.spotify.com/album/17PZeiOFJ78sUMsquQYQYR) | 3:17 | 2020-10-13\* | 2021-05-29 |
 | [Polly](https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Polly](https://open.spotify.com/album/43VnVc6hkCYOjFPgzWPgyt) | 2:42 | 2021-05-29 | 2021-10-16 |
+| [POOKIE'S REQUIEM](https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC) | 1:48 | 2024-11-15 |  |
 | [POOL](https://open.spotify.com/track/1jyQFB8qPYz5LklSPP02sn) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [POOL](https://open.spotify.com/album/6CzJdW38fi4F6ICPWygYN8) | 3:35 | 2023-05-26 | 2023-10-06 |
 | [Popeye](https://open.spotify.com/track/5srSyIpAvNZJKBVUlgxcCC) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/45JCuUJde6lC8kjgqZ8Fgp) | 2:54 | 2022-02-28 | 2022-04-10 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-07-17 | 2022-10-26 |

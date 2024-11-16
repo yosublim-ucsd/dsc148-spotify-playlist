@@ -2343,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "An Almost Christmas Story (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2OjIKHPYmoCnsBtdea7PdC"
+      },
+      "artists": [
+        {
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120683,
+      "name": "The Spirit of Christmas",
+      "url": "https://open.spotify.com/track/2TMDXBf8UcxvpECme4cDYa"
+    },
+    {
+      "album": {
         "name": "Phineas and Ferb Holiday Favorites",
         "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
       },

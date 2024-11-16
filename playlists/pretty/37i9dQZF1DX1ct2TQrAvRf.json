@@ -1,15 +1,31 @@
 {
-  "description": "India's Rap Scene. Cover- KR$NA",
-  "num_followers": 351770,
+  "description": "India's Rap Scene. Cover- Raftaar",
+  "num_followers": 351926,
   "original_name": "RAP 91",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyuFSAAAAABjZ0EcGB5b1nNI7sQ/Gdif",
+  "snapshot_id": "ZzenUwAAAAAUSuVpvlKKS3Dj8qP5bkMb",
   "tracks": [
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
+      "album": {
+        "name": "Hard Drive, Vol. 2",
+        "url": "https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "MERA PARICHAY",
+      "url": "https://open.spotify.com/track/5qIktwyEMv6NmfL05lRBTF"
+    },
+    {
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Joota Japani",
         "url": "https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D"
@@ -33,7 +49,7 @@
       "url": "https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "HMM",
         "url": "https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "DNW Vol. 1",
         "url": "https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "For The Day One$",
         "url": "https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT"
@@ -129,7 +145,23 @@
       "url": "https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
+      "album": {
+        "name": "Hard Drive, Vol. 2",
+        "url": "https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "DEHSHAT HO",
+      "url": "https://open.spotify.com/track/54woTHhitonXA8nWL7blMW"
+    },
+    {
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "The Brownprint",
         "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Desi Hood",
         "url": "https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Breakin Boundaries",
         "url": "https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Russian Bandana",
         "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Maharani",
         "url": "https://open.spotify.com/album/6da96K6wuRyf61We22UBPe"
@@ -253,7 +285,23 @@
       "url": "https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
+      "album": {
+        "name": "Hard Drive, Vol. 2",
+        "url": "https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "RAP-TA",
+      "url": "https://open.spotify.com/track/3yrAv4sjiBGRnkCxkXxH5d"
+    },
+    {
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/5jF97N0q1RL2Cn2Ss7Vz4Z"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Taambdi Chaamdi",
         "url": "https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w"
@@ -293,7 +341,7 @@
       "url": "https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "GOAT SHIT",
         "url": "https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Up To U",
         "url": "https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "For The Day One$",
         "url": "https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/6OmQ0LT5nx5qrxoPljf8lv"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Old Money",
         "url": "https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/3HoyK88FbiUoYF6DSZZ4MJ"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "KODAK",
         "url": "https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Ayyayyo",
         "url": "https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "House Of Lies",
         "url": "https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "For The Day One$",
         "url": "https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT"
@@ -501,7 +549,7 @@
       "url": "https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "SHAKTI",
         "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Vazan (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/1AvWSlHsofobJDHirHKrXc"
@@ -537,7 +585,7 @@
       "url": "https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "How Much a Rhyme Costs?",
         "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/55rsHTpDenL0DajypexEI6"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Panthalchant",
         "url": "https://open.spotify.com/album/33dJvXVV2C0DcnVVBdYNz3"
@@ -593,31 +641,7 @@
       "url": "https://open.spotify.com/track/3pdqA52jfLMiIGx6Xma0OT"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
-      "album": {
-        "name": "Dupatta Drill",
-        "url": "https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD"
-      },
-      "artists": [
-        {
-          "name": "Simiran Kaur Dhadli",
-          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
-        },
-        {
-          "name": "Rawme Hooda",
-          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
-        },
-        {
-          "name": "Pranjal Dahiya",
-          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
-        }
-      ],
-      "duration_ms": 150338,
-      "name": "Dupatta Drill",
-      "url": "https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3"
-    },
-    {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "BAWE MAIN CHECK",
         "url": "https://open.spotify.com/album/7HoPrzsCajDulJVJYFl1Jz"
@@ -637,7 +661,7 @@
       "url": "https://open.spotify.com/track/2ytJU54UjdkKJH5QDNi5H7"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -661,7 +685,7 @@
       "url": "https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Ballaatha Jaathi",
         "url": "https://open.spotify.com/album/4N0sSPkeAkvORKcSrL2yuj"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/4tYxGORIOZSPLnZmrSpva7"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Main Hawa Mein Hu",
         "url": "https://open.spotify.com/album/0BwhDzXo2T6ceWGwHN73yi"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/1y80LDw4jNgs5X8o1pSXOY"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "TT",
         "url": "https://open.spotify.com/album/1pxuDycn6c53mE8cBFrS8j"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/0RWx7EB3id2kMmIS9FmxlP"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "DNW Vol. 1",
         "url": "https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Kaathu Mela (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "SHAKTI",
         "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
@@ -781,7 +805,7 @@
       "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/0ehKmlR1wM75ConoUCIDsD"
@@ -797,27 +821,7 @@
       "url": "https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
-      "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Leo Grewal",
-          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
-        }
-      ],
-      "duration_ms": 230111,
-      "name": "Fuck Them",
-      "url": "https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP"
-    },
-    {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "BANDANA",
         "url": "https://open.spotify.com/album/3GFlIBMBEO2g6XALnUk4hW"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/4yi6OcrsOfCKju2Yf8uRdb"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "The Brownprint",
         "url": "https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "KARAM",
         "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
@@ -877,27 +881,7 @@
       "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
-      "album": {
-        "name": "Maan Ja Chhori",
-        "url": "https://open.spotify.com/album/0uInM6EbRS3Y3Yp8SbiFYJ"
-      },
-      "artists": [
-        {
-          "name": "MC SQUARE",
-          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
-        },
-        {
-          "name": "Harjas Harjaayi",
-          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Maan Ja Chhori",
-      "url": "https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ"
-    },
-    {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Beevi",
         "url": "https://open.spotify.com/album/1UntHuZ3am0ChXO2AGjCaB"
@@ -917,7 +901,7 @@
       "url": "https://open.spotify.com/track/6gsqFbSyxOat4aE12BmCUo"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
@@ -937,7 +921,7 @@
       "url": "https://open.spotify.com/track/6xrlfwtDlgVN8M3aox9215"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Attach",
         "url": "https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV"
@@ -961,7 +945,7 @@
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "How Much a Rhyme Costs?",
         "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
@@ -981,7 +965,7 @@
       "url": "https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "RAAJWADI",
         "url": "https://open.spotify.com/album/7gGJoEMtEEYycf94V5UX9i"
@@ -1001,7 +985,7 @@
       "url": "https://open.spotify.com/track/33k8CHdnsbvKITAmiUAdAm"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Junor Kotha",
         "url": "https://open.spotify.com/album/2qUrUqQyW0LW3kn16dbGjE"
@@ -1017,7 +1001,7 @@
       "url": "https://open.spotify.com/track/04SBqjNpWc1h37AAAHSU3A"
     },
     {
-      "added_at": "2024-11-06 15:03:36",
+      "added_at": "2024-11-15 19:56:03",
       "album": {
         "name": "Amra Tomari Kolkata",
         "url": "https://open.spotify.com/album/4a1Ri9m1y9sBwzSc7ujPjh"

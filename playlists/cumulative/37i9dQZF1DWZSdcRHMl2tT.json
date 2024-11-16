@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Akacia",
+        "url": "https://open.spotify.com/album/4w7uK5wglkqwCaVJve7Px9"
+      },
+      "artists": [
+        {
+          "name": "Nima Junior",
+          "url": "https://open.spotify.com/artist/5vzOqNBtEppju5GH6g8phb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Akacia",
+      "url": "https://open.spotify.com/track/7stPv7cEDdfUlRxu7VpXDR"
+    },
+    {
+      "album": {
         "name": "All Now",
         "url": "https://open.spotify.com/album/1qKCsPWmjirPcP8ZHaevgP"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 224908,
       "name": "Blue Gold",
       "url": "https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 146400,
       "name": "Dream Of You",
       "url": "https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 246486,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 161578,
       "name": "Flickering",
       "url": "https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 153786,
       "name": "Follow you to the end",
       "url": "https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 204521,
       "name": "Get in Line",
       "url": "https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201666,
       "name": "Green Leafs",
       "url": "https://open.spotify.com/track/6HlFrgdDGdyz9eKQZzb2UG"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 238048,
       "name": "I Believe in You",
       "url": "https://open.spotify.com/track/4BV9srmcvMsuGglNB4B2pY"
@@ -4108,7 +4126,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 124052,
       "name": "lazy days",
       "url": "https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz"
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 244285,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
@@ -4382,7 +4400,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 187946,
       "name": "Lost Sea",
       "url": "https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D"
@@ -4508,7 +4526,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 164237,
       "name": "Maduix",
       "url": "https://open.spotify.com/track/3fmWdfU1ia3PfAFq106Ysi"
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 175500,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1"
@@ -6111,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/239l7zkHuJvepVL7yJjl1z"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154875,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/51nSSnYZGEWuovCKG2b9j0"
+    },
+    {
+      "album": {
         "name": "Public Pope Smoke",
         "url": "https://open.spotify.com/album/1tS2NhLxePqoWMqq7EcNAJ"
       },
@@ -6446,7 +6482,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 176727,
       "name": "Revival",
       "url": "https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR"
@@ -6786,7 +6822,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 236749,
       "name": "Sea Ya",
       "url": "https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL"
@@ -6858,7 +6894,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 207880,
       "name": "See You There",
       "url": "https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks"
@@ -6952,6 +6988,24 @@
       "duration_ms": 144732,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4"
+    },
+    {
+      "album": {
+        "name": "Show Must Go On",
+        "url": "https://open.spotify.com/album/1J0IlkI1BAD3MbydlIk52p"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167454,
+      "name": "Show Must Go On",
+      "url": "https://open.spotify.com/track/7jQ1oxuiZlsjPcsvNe3Ad3"
     },
     {
       "album": {
@@ -7326,7 +7380,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 131706,
       "name": "Spirit Lovers",
       "url": "https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil"
@@ -7470,7 +7524,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215222,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
@@ -7528,6 +7582,24 @@
       "duration_ms": 195373,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol"
+    },
+    {
+      "album": {
+        "name": "Summer High",
+        "url": "https://open.spotify.com/album/3JhSTgHHTQyftVQ4YkLYEH"
+      },
+      "artists": [
+        {
+          "name": "Palo Santo",
+          "url": "https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Summer High",
+      "url": "https://open.spotify.com/track/0hnTSQUrWBcI4cSAJipBOw"
     },
     {
       "album": {
@@ -7694,6 +7766,24 @@
       "duration_ms": 129494,
       "name": "sunset",
       "url": "https://open.spotify.com/track/3SJGIx6HDlESGSidROT6sY"
+    },
+    {
+      "album": {
+        "name": "Sunset Boulevard",
+        "url": "https://open.spotify.com/album/50QtWRDI2sOwNqgwH4qPYW"
+      },
+      "artists": [
+        {
+          "name": "Carlo Azure",
+          "url": "https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168392,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/2GF9l97s0kODu6zYFzSRGX"
     },
     {
       "album": {

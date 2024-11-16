@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-284 songs - 17 hr 51 min
+285 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Burn It Up](https://open.spotify.com/track/0W22ed8cPRlbyaDEhuBQTB) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:26 | 2022-09-21 | 2023-01-04 |
 | [Burn Me Down](https://open.spotify.com/track/0esLzQSUI4NUOFV1f75AKS) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [Burn Me Down](https://open.spotify.com/album/02dE6aUrvRGG3rkbifZf2u) | 3:51 | 2023-07-07 |  |
 | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU) | 3:37 | 2023-11-17 |  |
+| [Casanova \- From Beyond The Abyss](https://open.spotify.com/track/6pvdo88IZIAQWfr5HafNRa) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Casanova \(From Beyond The Abyss\)](https://open.spotify.com/album/5ypY8X5KX7aGi2PuJVGz1G) | 3:44 | 2024-11-15 |  |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-01-25 | 2024-04-10 |
 | [Classless Act \(feat\. Vince Neil of Motley Crue\)](https://open.spotify.com/track/4ut8tFTcjm9gWPOJNWZ41T) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:14 | 2022-09-21 | 2023-01-04 |
 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 | 2021-08-20 | 2024-04-10 |

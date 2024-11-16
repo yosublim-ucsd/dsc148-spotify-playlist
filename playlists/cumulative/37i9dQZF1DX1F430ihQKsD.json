@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 380386,
       "name": "Corde \u00e0 linge",
       "url": "https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ"
@@ -4769,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Du soleil dans l\u2019oeil",
+        "url": "https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "La montagne",
+      "url": "https://open.spotify.com/track/06EJqWXMilZGmSrHApSs4e"
+    },
+    {
+      "album": {
         "name": "La montagne",
         "url": "https://open.spotify.com/album/1r6YoxqBpwmBO88SHBJd89"
       },
@@ -4780,7 +4798,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 206480,
       "name": "La montagne",
       "url": "https://open.spotify.com/track/1tflDnxP3OHI4neqEY3l6d"
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 146000,
       "name": "N'importe O\u00f9 Sauf Ici",
       "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
@@ -9141,6 +9159,24 @@
     },
     {
       "album": {
+        "name": "The Knife In Me",
+        "url": "https://open.spotify.com/album/1qJwOLRyiuHWBichKictX9"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124649,
+      "name": "The Knife In Me",
+      "url": "https://open.spotify.com/track/58hTRQMC67zlvZV1bb49Me"
+    },
+    {
+      "album": {
         "name": "The Leash",
         "url": "https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz"
       },
@@ -10054,6 +10090,24 @@
       "duration_ms": 143151,
       "name": "Y o Y",
       "url": "https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd"
+    },
+    {
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/1QAemtWzccuM7pEWn1fd04"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118626,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/5jfmtxwUUWi4nlmnWis5sK"
     },
     {
       "album": {

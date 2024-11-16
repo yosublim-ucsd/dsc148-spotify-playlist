@@ -6579,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "\u539f\u5730\u91cd\u751f Eterno",
+        "url": "https://open.spotify.com/album/2ZbVunpAL6JIExTFoP2eRt"
+      },
+      "artists": [
+        {
+          "name": "Eiva \u6797\u9e97\u8b19",
+          "url": "https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255650,
+      "name": "\u4e00\u68f5\u4e0d\u9003\u8dd1\u7684\u5c0f\u8349",
+      "url": "https://open.spotify.com/track/6aq2LLZQhNDu1O65zAApNn"
+    },
+    {
+      "album": {
         "name": "\u4e00\u7247\u6d77",
         "url": "https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM"
       },
@@ -16787,7 +16805,7 @@
     },
     {
       "album": {
-        "name": "\u6bd4\u5f0f\u60c5\u6b4c (BJ4\u60c5\u6b4c)",
+        "name": "\u6bd4\u5f0f\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/7iR3m88cm27Vz9Jx5WU8no"
       },
       "artists": [

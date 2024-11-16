@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,460 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,459 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 17 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 |
 | 18 | [the melody](https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [the melody](https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX) | 2:25 |
-| 19 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
-| 20 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
+| 19 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
+| 20 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
 | 21 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
 | 22 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
 | 23 | [Here Again](https://open.spotify.com/track/6anKq8vb5g5FvYm0Q91c5A) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Here Again](https://open.spotify.com/album/4ZHO5oxcVKziyr5Z0eBhTc) | 2:56 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
 | 33 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
 | 34 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
-| 35 | [Nicht meine Schuld](https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Color Theory](https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr) | 1:43 |
-| 36 | [Don't Wake Me Up](https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Don't Wake Me Up](https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP) | 4:01 |
+| 35 | [Don't Wake Me Up](https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Don't Wake Me Up](https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP) | 4:01 |
+| 36 | [Nicht meine Schuld](https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Color Theory](https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr) | 1:43 |
 | 37 | [Schrei mich an](https://open.spotify.com/track/4fcgiUXsNP7U4yMwZ8XIj9) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schrei mich an](https://open.spotify.com/album/0nzdIuVmZ9NugmXC8OdPVq) | 2:32 |
 | 38 | [Resilience](https://open.spotify.com/track/04UvKMFnAgvQZmA0Edwd7f) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [LUZ1E](https://open.spotify.com/artist/1uHDi1l9z2tGckArGriA7B) | [Resilience](https://open.spotify.com/album/6lEHNyY4httWsP9VxMkTRs) | 5:00 |
 | 39 | [Awful Start](https://open.spotify.com/track/4kxO0jjziawjZg1nBh45Jl) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Awful Start](https://open.spotify.com/album/0ygiIkoeJR9zrjmYoQShnc) | 3:06 |

@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Beyond (End Credit Version) [From \"Vaiana 2\"]",
+        "url": "https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Vaiana 2\"",
+      "url": "https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH"
+    },
+    {
+      "album": {
         "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
         "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
       },

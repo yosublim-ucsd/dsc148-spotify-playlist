@@ -1585,6 +1585,32 @@
     },
     {
       "album": {
+        "name": "CHIHIRO",
+        "url": "https://open.spotify.com/album/4uVyok1BQs4BFNm7x5R7xO"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "KAIANN",
+          "url": "https://open.spotify.com/artist/1guzwdaV5deYCs3Q4F3oeU"
+        },
+        {
+          "name": "Lele Allves",
+          "url": "https://open.spotify.com/artist/0PO92zjvIWVFVT1BVfH309"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226115,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/3303uMjU1pKbL9cFZEOR6e"
+    },
+    {
+      "album": {
         "name": "Cigarettes (Techno Mix)",
         "url": "https://open.spotify.com/album/7tX6HUmgWtDUJGbdp6Xaqc"
       },
@@ -2276,7 +2302,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 159047,
       "name": "Disco 55",
       "url": "https://open.spotify.com/track/41U6sjxZTkrbsVZw8yZV1z"
@@ -5713,6 +5739,28 @@
     },
     {
       "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173193,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
+    },
+    {
+      "album": {
         "name": "Love You for the Summer",
         "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
       },
@@ -7198,7 +7246,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 172968,
       "name": "Pa Pa Pa",
       "url": "https://open.spotify.com/track/1P71nF2wAMfRGSs92hmUY9"
@@ -7672,6 +7720,28 @@
       "duration_ms": 190415,
       "name": "RAGE",
       "url": "https://open.spotify.com/track/3lOhm1NgRtM29bv3mpZZnw"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186999,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     },
     {
       "album": {
@@ -8596,7 +8666,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 224640,
       "name": "SMACK MY BITCH UP",
       "url": "https://open.spotify.com/track/1PGjrdORlsE1vZ7aZh3gF2"
@@ -9644,7 +9714,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 190000,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/0K5PXBiCYUm5W1Vdv1YZ10"
@@ -9674,6 +9744,28 @@
       "duration_ms": 242560,
       "name": "Told You",
       "url": "https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2"
+    },
+    {
+      "album": {
+        "name": "Top Of The Crowd",
+        "url": "https://open.spotify.com/album/0RE22Tf6vjOTz8hLgFrCaD"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154290,
+      "name": "Top Of The Crowd",
+      "url": "https://open.spotify.com/track/2NcKDnBIn0bxeSUrJabAys"
     },
     {
       "album": {
@@ -9732,7 +9824,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 210326,
       "name": "Treme",
       "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"

@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 122263,
       "name": "All I Wish for Christmas",
       "url": "https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H"
@@ -794,6 +794,24 @@
       "duration_ms": 166125,
       "name": "El Tamborillero",
       "url": "https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv"
+      },
+      "artists": [
+        {
+          "name": "teylors",
+          "url": "https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165721,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1"
     },
     {
       "album": {
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 90908,
       "name": "should go christmas shopping",
       "url": "https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj"
@@ -2692,6 +2710,24 @@
       "duration_ms": 196896,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/20C3pgZ4KN8gtsgthPaOtc"
+    },
+    {
+      "album": {
+        "name": "Mistletoe Melodies",
+        "url": "https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs"
+      },
+      "artists": [
+        {
+          "name": "Jazztroopers",
+          "url": "https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg"
     },
     {
       "album": {

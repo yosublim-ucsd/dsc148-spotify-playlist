@@ -2457,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "Inolvidable (En Vivo)",
+        "url": "https://open.spotify.com/album/1d7wuYyHZyJMUwT7tlki5M"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "La Guitarra de Pila",
+          "url": "https://open.spotify.com/artist/7yeiKcOihagxn1Q1rZ5oKq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148509,
+      "name": "Inolvidable - En Vivo",
+      "url": "https://open.spotify.com/track/3X8U1BnkXXGOszX4YjKeVE"
+    },
+    {
+      "album": {
         "name": "Insaciable",
         "url": "https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA"
       },
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"

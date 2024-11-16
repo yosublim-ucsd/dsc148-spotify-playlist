@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C"
@@ -4920,7 +4920,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 136325,
       "name": "El Infierno",
       "url": "https://open.spotify.com/track/0G6MCmwbNMNc4QGrTR1pqb"
@@ -6030,7 +6030,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -6060,7 +6060,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 89808,
       "name": "Funk Secreto - Ultra Slowed",
       "url": "https://open.spotify.com/track/0Rfgf07P8G5XqdnMXTZe4k"
@@ -7545,6 +7545,32 @@
     },
     {
       "album": {
+        "name": "INTUI\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/3bmsqhx3iufa3GOLh3ULyn"
+      },
+      "artists": [
+        {
+          "name": "Andy Flores",
+          "url": "https://open.spotify.com/artist/6Qs8jzJqC0bj59YAawiYQI"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        },
+        {
+          "name": "G3 Music",
+          "url": "https://open.spotify.com/artist/6AIY2n5hMHqaAa5j0C0RIN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "INTUI\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0SRZmXIj17nVk0QsSAQ1i4"
+    },
+    {
+      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -7586,7 +7612,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"

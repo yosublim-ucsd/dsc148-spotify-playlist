@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9173311,
+  "num_followers": 9178092,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAACkLWSruueWr0dBM8GChxOe",
+  "snapshot_id": "Zzdh8AAAAADOpPW6oW6xD0Sfr2pq81RQ",
   "tracks": [
     {
       "added_at": "2024-07-05 13:50:01",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
+      "added_at": "2024-10-04 13:19:49",
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+    },
+    {
       "added_at": "2024-07-12 15:05:31",
       "album": {
         "name": "Ela Joga na Hora",
@@ -167,22 +183,6 @@
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2024-10-04 13:19:49",
-      "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
       "added_at": "2023-12-08 15:15:57",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
+      "added_at": "2024-11-15 15:00:00",
+      "album": {
+        "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
+        "url": "https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ"
+      },
+      "artists": [
+        {
+          "name": "TOKYOPHILE",
+          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
+        }
+      ],
+      "duration_ms": 96254,
+      "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
+      "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
+    },
+    {
       "added_at": "2024-02-02 10:00:00",
       "album": {
         "name": "Ashi Ashi",
@@ -1027,22 +1043,6 @@
       "duration_ms": 88629,
       "name": "Not My Problem Funk",
       "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
-    },
-    {
-      "added_at": "2024-08-16 14:23:00",
-      "album": {
-        "name": "Se Paciente Funk",
-        "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
-      },
-      "artists": [
-        {
-          "name": "RD12",
-          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
-        }
-      ],
-      "duration_ms": 69360,
-      "name": "Se Paciente Funk",
-      "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
     },
     {
       "added_at": "2024-09-13 17:54:45",
@@ -1217,20 +1217,24 @@
       "url": "https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs"
     },
     {
-      "added_at": "2024-05-10 15:00:06",
+      "added_at": "2024-11-15 15:00:00",
       "album": {
-        "name": "KRUSH BANDICOOT",
-        "url": "https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf"
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
       },
       "artists": [
         {
-          "name": "RAIZHELL",
-          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
         }
       ],
-      "duration_ms": 97090,
-      "name": "KRUSH BANDICOOT",
-      "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
     },
     {
       "added_at": "2024-08-09 12:00:00",
@@ -1278,11 +1282,35 @@
         {
           "name": "DJ CD 011",
           "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/3BHjVcxTa6VCi0qbYA1Heg"
         }
       ],
       "duration_ms": 144359,
       "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+      },
+      "artists": [
+        {
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2023-12-01 14:11:37",
@@ -1393,20 +1421,20 @@
       "url": "https://open.spotify.com/track/2SQp5yapF1ZwiuKgaFuFMJ"
     },
     {
-      "added_at": "2023-08-11 14:10:06",
+      "added_at": "2024-08-16 14:23:00",
       "album": {
-        "name": "The Automotivo Infernal 1.0",
-        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
+        "name": "Se Paciente Funk",
+        "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
       },
       "artists": [
         {
-          "name": "MRL",
-          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
         }
       ],
-      "duration_ms": 114593,
-      "name": "The Automotivo Infernal 1.0 - Purple",
-      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
+      "duration_ms": 69360,
+      "name": "Se Paciente Funk",
+      "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1461,40 +1489,36 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2024-09-06 15:23:15",
+      "added_at": "2024-05-10 15:00:06",
       "album": {
-        "name": "EI DO SENSACIO!",
-        "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
+        "name": "KRUSH BANDICOOT",
+        "url": "https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf"
       },
       "artists": [
         {
-          "name": "princce",
-          "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
         }
       ],
-      "duration_ms": 101089,
-      "name": "EI DO SENSACIO!",
-      "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
+      "duration_ms": 97090,
+      "name": "KRUSH BANDICOOT",
+      "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2023-08-11 14:10:06",
       "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
       },
       "artists": [
         {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
         }
       ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
     },
     {
       "added_at": "2024-09-06 15:23:15",
@@ -1559,22 +1583,6 @@
       "duration_ms": 98181,
       "name": "krushed!",
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
-    },
-    {
-      "added_at": "2024-06-21 13:53:05",
-      "album": {
-        "name": "Anatomy",
-        "url": "https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL"
-      },
-      "artists": [
-        {
-          "name": "TEENWXVE",
-          "url": "https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "Anatomy - Slowed",
-      "url": "https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6"
     },
     {
       "added_at": "2023-03-31 15:56:27",
@@ -1669,6 +1677,46 @@
       "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
     },
     {
+      "added_at": "2024-11-15 15:00:00",
+      "album": {
+        "name": "MONTAGEM BOTA HIPNOSIS 1.0",
+        "url": "https://open.spotify.com/album/6q0JueIHwfwOyjSe4stHwX"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        },
+        {
+          "name": "Rodricci",
+          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
+        }
+      ],
+      "duration_ms": 88653,
+      "name": "MONTAGEM BOTA HIPNOSIS 1.0",
+      "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
+    },
+    {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
+        "name": "EI DO SENSACIO!",
+        "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
+      },
+      "artists": [
+        {
+          "name": "princce",
+          "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
+        }
+      ],
+      "duration_ms": 101089,
+      "name": "EI DO SENSACIO!",
+      "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
+    },
+    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "BLOODY BRAZIL (Slowed)",
@@ -1683,22 +1731,6 @@
       "duration_ms": 121937,
       "name": "BLOODY BRAZIL (Slowed)",
       "url": "https://open.spotify.com/track/4CRd36RVExznLuyj7SOQmz"
-    },
-    {
-      "added_at": "2024-06-07 14:46:33",
-      "album": {
-        "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
-        "url": "https://open.spotify.com/album/03GXBC2T6YdaBZo754wYlH"
-      },
-      "artists": [
-        {
-          "name": "TOKYOPHILE",
-          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
-        }
-      ],
-      "duration_ms": 109668,
-      "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
-      "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
     },
     {
       "added_at": "2023-12-01 14:11:37",
@@ -1749,26 +1781,6 @@
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
-      "added_at": "2022-11-18 07:52:46",
-      "album": {
-        "name": "PSYCHO CRUISE",
-        "url": "https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6"
-      },
-      "artists": [
-        {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
-          "name": "STRAWANGLE",
-          "url": "https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n"
-        }
-      ],
-      "duration_ms": 151213,
-      "name": "PSYCHO CRUISE",
-      "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
-    },
-    {
       "added_at": "2023-06-16 13:47:05",
       "album": {
         "name": "REI DO BRASIL",
@@ -1783,30 +1795,6 @@
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
-    },
-    {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "PSYCHO FUNK",
-        "url": "https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt"
-      },
-      "artists": [
-        {
-          "name": "ICHIRO",
-          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
-        },
-        {
-          "name": "MC MN",
-          "url": "https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp"
-        },
-        {
-          "name": "MC 99",
-          "url": "https://open.spotify.com/artist/3HIvqQ3TKSSqa5yef0Q3xR"
-        }
-      ],
-      "duration_ms": 120937,
-      "name": "PSYCHO FUNK",
-      "url": "https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C"
     },
     {
       "added_at": "2024-05-03 16:00:00",
@@ -1825,6 +1813,22 @@
       "url": "https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW"
     },
     {
+      "added_at": "2024-06-07 14:46:33",
+      "album": {
+        "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
+        "url": "https://open.spotify.com/album/03GXBC2T6YdaBZo754wYlH"
+      },
+      "artists": [
+        {
+          "name": "TOKYOPHILE",
+          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
+        }
+      ],
+      "duration_ms": 109668,
+      "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
+      "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
+    },
+    {
       "added_at": "2023-03-31 15:56:27",
       "album": {
         "name": "Own Paradise",
@@ -1839,30 +1843,6 @@
       "duration_ms": 128026,
       "name": "Own Paradise",
       "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
-    },
-    {
-      "added_at": "2024-09-20 15:04:16",
-      "album": {
-        "name": "KRUSHKRUSH!",
-        "url": "https://open.spotify.com/album/4vCqBNdvoJ3plUj2mqonx6"
-      },
-      "artists": [
-        {
-          "name": "Hussain Ali",
-          "url": "https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG"
-        },
-        {
-          "name": "CXRRUPTION",
-          "url": "https://open.spotify.com/artist/1DB5pMW7dF7wlBy15XhOoE"
-        },
-        {
-          "name": "DJ Agi",
-          "url": "https://open.spotify.com/artist/0SxD3ZSoGheh1nhp98gzEh"
-        }
-      ],
-      "duration_ms": 66798,
-      "name": "KRUSHKRUSH!",
-      "url": "https://open.spotify.com/track/53Bs51qBpjJscUEQbmn9gk"
     },
     {
       "added_at": "2024-02-16 17:03:51",
@@ -1887,6 +1867,30 @@
       "duration_ms": 144138,
       "name": "ASTRO",
       "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
+    },
+    {
+      "added_at": "2024-09-20 15:04:16",
+      "album": {
+        "name": "KRUSHKRUSH!",
+        "url": "https://open.spotify.com/album/4vCqBNdvoJ3plUj2mqonx6"
+      },
+      "artists": [
+        {
+          "name": "Hussain Ali",
+          "url": "https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG"
+        },
+        {
+          "name": "CXRRUPTION",
+          "url": "https://open.spotify.com/artist/1DB5pMW7dF7wlBy15XhOoE"
+        },
+        {
+          "name": "DJ Agi",
+          "url": "https://open.spotify.com/artist/0SxD3ZSoGheh1nhp98gzEh"
+        }
+      ],
+      "duration_ms": 66798,
+      "name": "KRUSHKRUSH!",
+      "url": "https://open.spotify.com/track/53Bs51qBpjJscUEQbmn9gk"
     }
   ],
   "unique_name": "phonk",

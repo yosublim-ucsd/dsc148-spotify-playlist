@@ -2117,6 +2117,32 @@
     },
     {
       "album": {
+        "name": "Sada Daur",
+        "url": "https://open.spotify.com/album/1vxY1JwVD6qDeBCKI2bwvR"
+      },
+      "artists": [
+        {
+          "name": "Dhira Gill",
+          "url": "https://open.spotify.com/artist/2FQhpGbpOq4z3dz4oHmB7G"
+        },
+        {
+          "name": "Aman Hayer",
+          "url": "https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus"
+        },
+        {
+          "name": "Saab Pangota",
+          "url": "https://open.spotify.com/artist/1HjAS2d6YUCo2m9JdiiHU4"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Sada Daur",
+      "url": "https://open.spotify.com/track/1eoGuijJpFd6Txwp0pys4l"
+    },
+    {
+      "album": {
         "name": "Salute",
         "url": "https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM"
       },

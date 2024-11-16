@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Bukowski
 
-344 songs - 19 hr 2 min
+345 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Spain](https://open.spotify.com/track/4xKk9AP1wEbK9N5WmScRMK) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Polyester](https://open.spotify.com/album/2hhrbFyHhJsJxskjhWDfuX) | 2:38 | 2024-08-22 | 2024-10-11 |
 | [SPIDER](https://open.spotify.com/track/72rz0gf2wyg1wFcZ0qD5xi) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [SPIDER](https://open.spotify.com/album/5hltpFfRqXB2KML5a3adGh) | 2:41 | 2024-10-24 |  |
 | [Starting Again](https://open.spotify.com/track/73CMheW41mjLXnloRZFvg3) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Starting Again](https://open.spotify.com/album/5yCin0F62IJ132GdzTcCpC) | 3:45 | 2024-09-26 | 2024-11-08 |
+| [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 | 2024-11-15 |  |
 | [STFAFM](https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF), [Arringarri](https://open.spotify.com/artist/1hhytzEX1fvHBNqB1JKfu1) | [NARA](https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT) | 4:01 | 2024-08-22 |  |
 | [Stiletto](https://open.spotify.com/track/4NVUat14Xk5CiaCzR41ijf) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Stiletto](https://open.spotify.com/album/0Tqg0XmIsN2kcWLWGKHI0M) | 7:21 | 2024-08-29 | 2024-10-11 |
 | [Still Here](https://open.spotify.com/track/3RCGt2PEinMbwRHWURigBg) | [Sylvia](https://open.spotify.com/artist/27sPn8JZjKginoMUuztQUi) | [EP II](https://open.spotify.com/album/5lgEgYQ148dbs1aTydpkp2) | 2:29 | 2024-06-20 | 2024-08-09 |

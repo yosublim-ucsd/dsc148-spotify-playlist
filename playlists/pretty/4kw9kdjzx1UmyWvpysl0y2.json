@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125725,
+  "num_followers": 125722,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATUJrgJjIGF96b5PLJQm5GfNjJ957A",
+  "snapshot_id": "AAATUjG0+lMBetD3Pxqn/VXRPAUKLwtp",
   "tracks": [
+    {
+      "added_at": "2024-11-15 14:11:48",
+      "album": {
+        "name": "In The Echo / Change",
+        "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "In The Echo",
+      "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
+    },
     {
       "added_at": "2024-11-14 10:22:18",
       "album": {
@@ -1143,22 +1159,6 @@
       "duration_ms": 204000,
       "name": "Aklana",
       "url": "https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus"
-    },
-    {
-      "added_at": "2024-08-26 14:51:07",
-      "album": {
-        "name": "GOOME",
-        "url": "https://open.spotify.com/album/4kmRKz6oAadBMXckMwJYse"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "GOOME",
-      "url": "https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

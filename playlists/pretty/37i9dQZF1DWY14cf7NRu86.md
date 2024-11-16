@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,415 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When You Wish Upon a Star](https://open.spotify.com/track/7lM2Xi6XLuDzP9IYTdRvMl) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [When You Wish Upon a Star](https://open.spotify.com/album/3uFg7fMdpTv19fdWQo8vAI) | 3:37 |
-| 2 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4aZVSeNEq1XBlWj2rXBFYP) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Merry Christmas, Happy Holidays](https://open.spotify.com/album/1CQ9A1Q9e15qUiUROOVzzk) | 4:13 |
-| 3 | [Deck Those Halls](https://open.spotify.com/track/7oxZu24yo5DFojZgvQxVHH) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [It's Christmas](https://open.spotify.com/album/3O5A4CXBzlGpMmfRof3dtf) | 3:53 |
-| 4 | [Silver Bells](https://open.spotify.com/track/5jHHcVbCUQYkcnyzobYTjF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Classic Christmas Album](https://open.spotify.com/album/29big2asVjHGaNijZP9dDU) | 3:58 |
-| 5 | [My Favorite Things](https://open.spotify.com/track/21BmxWnbnHHqkON6YtZEAD) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [A Christmas Romance](https://open.spotify.com/album/2RBwYdXvLoyJ6k8YRRBHK6) | 4:06 |
-| 6 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5ZbZJ4dQWi1JBkyEY3KNSI) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu) | 2:58 |
+| 1 | [Have Yourself a Merry Little Christmas \- radio](https://open.spotify.com/track/45uiyrjQZ4DLRqFLWy2qUU) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Have Yourself a Merry Little Christmas \(radio\)](https://open.spotify.com/album/1vtnD1uji8QXOI0wd371fm) | 3:20 |
+| 2 | [When You Wish Upon a Star](https://open.spotify.com/track/7lM2Xi6XLuDzP9IYTdRvMl) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [When You Wish Upon a Star](https://open.spotify.com/album/3uFg7fMdpTv19fdWQo8vAI) | 3:37 |
+| 3 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4aZVSeNEq1XBlWj2rXBFYP) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Merry Christmas, Happy Holidays](https://open.spotify.com/album/1CQ9A1Q9e15qUiUROOVzzk) | 4:13 |
+| 4 | [Deck Those Halls](https://open.spotify.com/track/7oxZu24yo5DFojZgvQxVHH) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [It's Christmas](https://open.spotify.com/album/3O5A4CXBzlGpMmfRof3dtf) | 3:53 |
+| 5 | [Silver Bells](https://open.spotify.com/track/5jHHcVbCUQYkcnyzobYTjF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Classic Christmas Album](https://open.spotify.com/album/29big2asVjHGaNijZP9dDU) | 3:58 |
+| 6 | [My Favorite Things](https://open.spotify.com/track/21BmxWnbnHHqkON6YtZEAD) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [A Christmas Romance](https://open.spotify.com/album/2RBwYdXvLoyJ6k8YRRBHK6) | 4:06 |
 | 7 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/73c4lbbl4EOdb8tHsSkHVC) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [What Christmas Means to Me](https://open.spotify.com/album/661KZ9ps7JOOTffnK2zeQb) | 3:33 |
 | 8 | [The Most Wonderful Time of the Year](https://open.spotify.com/track/2YJ7szfmAHgJFvZrNHfL8M) | [The Trippin Allstars](https://open.spotify.com/artist/56HG26zbal3fukId2eJbN4) | [This Christmas](https://open.spotify.com/album/5nYrP2zWbOJRkCCPVMy4Ue) | 4:55 |
 | 9 | [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY14cf7NRu86.md) - [plain]
 | 59 | [O Christmas Tree](https://open.spotify.com/track/2zrUWjXE1h826NNsjpHkAi) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Gift of Christmas](https://open.spotify.com/album/0m9caU6q70zseOKEY2AVAe) | 3:24 |
 | 60 | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/track/0SxrBl4M5EeHaC1esNhaRk) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [Happy Xmas \(War Is Over\) / Imagine](https://open.spotify.com/album/7luz8tQ7C1faPXAhVXsGiB) | 4:53 |
 
-Snapshot ID: `Zy2a0AAAAADhq2agzRUEfSw3z05Sh6hG`
+Snapshot ID: `ZzbVUAAAAAC6teia3elapZ13micsEJnK`

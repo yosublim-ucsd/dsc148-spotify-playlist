@@ -4,7 +4,7 @@
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Peggy Gou
 
-36 songs - 1 hr 57 min
+37 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Perfect \(feat\. Jessie Reyez & Cat Burns\)](https://open.spotify.com/track/2IcMFRbsnqLFWUUoXKeF3C) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Perfect \(feat\. Jessie Reyez & Cat Burns\)](https://open.spotify.com/album/4AjwiE4u2vFJEu7rSjHSTp) | 3:51 | 2024-05-02 |  |
 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 | 2024-10-08 |  |
 | [REAL LIFE \- Ofenbach Remix](https://open.spotify.com/track/638rYJzqbJcWuMwY9yYnYB) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [REAL LIFE \(Ofenbach Remix\)](https://open.spotify.com/album/1BSP4dSC87v3uW6BCTXqMi) | 2:40 | 2024-05-02 |  |
+| [Red Flag](https://open.spotify.com/track/0wdTWar4CtD8pXsTjLwhoo) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Red Flag](https://open.spotify.com/album/0W7ODmyAtlwYQB6pkY4iwb) | 2:59 | 2024-11-15 |  |
 | [RISK, RISK, RISK!](https://open.spotify.com/track/3ekN6ytJmlh5y93ChIqOtA) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [TRUST CEREMONY](https://open.spotify.com/album/0qlhHGeAVsdJNiKJbHFuEY) | 3:21 | 2024-10-08 |  |
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2024-05-02 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |

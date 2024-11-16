@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-681 songs - 20 hr 43 min
+686 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Simple Song](https://open.spotify.com/track/5ibZnKYtxlgPJDQpGusOuV) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [A Simple Song](https://open.spotify.com/album/3LEDN5cRp1YZjPolO7g3zD) | 1:59 | 2024-05-24 | 2024-06-21 |
 | [A Snowflake On My Nose](https://open.spotify.com/track/5DfVrpef8hqayH7cX85PMs) | [Marielle Wilson](https://open.spotify.com/artist/2XH0vhn32RdidOMQiqxOEG) | [The Pumpkin](https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv) | 1:22 | 2021-10-07 | 2024-03-29 |
 | [A Song About You](https://open.spotify.com/track/6dPk8lslYD8QMoAQ4rvW1u) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [A Song About You](https://open.spotify.com/album/1MyXPyXkYdLVQ0H6TvhETc) | 1:51 | 2024-09-30 |  |
+| [A Sunny Trip](https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [A Sunny Trip](https://open.spotify.com/album/6sCeCiqhg7U8NzAJxc8IDy) | 1:11 | 2024-11-15 |  |
 | [A Thousand Hugs](https://open.spotify.com/track/4H4nia1p93hZibEj7OSa5i) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [A Thousand Hugs](https://open.spotify.com/album/0hbtVKhFPDk92IZ3z5AQ1M) | 1:24 | 2022-01-21 |  |
 | [A Wintry Night](https://open.spotify.com/track/3D8iXNEe7c6AqQGxwSe1OG) | [Violet Keiser](https://open.spotify.com/artist/6ckrAl1KF3PDf26YrMNWCH) | [A Wintry Night](https://open.spotify.com/album/1TrC0yBdluZ3G9Zp0ybWXj) | 1:42 | 2022-12-09 |  |
 | [A\-tisket, A\-tasket](https://open.spotify.com/track/2bgQs7UTnoOgdHlPjjHG6m) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [A\-tisket, A\-tasket](https://open.spotify.com/album/7buCqlY8XcXvL3NPz5wVIm) | 1:29 | 2024-02-09 |  |
@@ -328,6 +329,7 @@
 | [Little Footies](https://open.spotify.com/track/4yljoNN95SdgQfk4euOCCa) | [Megan Fisher](https://open.spotify.com/artist/7GMaLb5prPuSPChGvMVyS4) | [Bottle Full of Milk](https://open.spotify.com/album/0lfpLadDQr994NWedMqJGZ) | 2:09 | 2021-10-07 | 2022-02-11 |
 | [Little George](https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Little George](https://open.spotify.com/album/6MAEf2HE0oXGtnxmHRcXzh) | 1:57 | 2021-10-07 | 2024-03-29 |
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
+| [Little Lady Bird](https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Little Lady Bird](https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg) | 2:11 | 2024-11-15 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/0nyqo64CI34PQ8ro08xRcf) | [Maureen Dubose](https://open.spotify.com/artist/0LGtUk1yFtNM99TX7JS01N) | [I Had a Little Nut Tree](https://open.spotify.com/album/1CvizaIIDVXxdFSXNkhIuq) | 0:52 | 2021-10-07 | 2022-03-18 |
 | [Little pony](https://open.spotify.com/track/3Qyy4PT4gWJVedjM31t2gE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Little pony](https://open.spotify.com/album/0Grvlj3TuPZu0QZrRxeC9a) | 1:18 | 2024-05-03 |  |
 | [Little Robin Redbreast](https://open.spotify.com/track/6rCqiXs9GaZCG2tvCHxL5E) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:25 | 2021-10-07 | 2023-01-13 |
@@ -407,6 +409,7 @@
 | [My Sunshine](https://open.spotify.com/track/1ikXHodxfzZNYZXSzv0UST) | [Laya Amon](https://open.spotify.com/artist/0oICzQe4s0CgUAuocB6eN9) | [Sailing to Dreamland](https://open.spotify.com/album/4QBCCLJWRJNH8N1VIf2gZn) | 2:04 | 2023-02-10 |  |
 | [Napping Bell](https://open.spotify.com/track/1BYxm8eVidk1UG1eS5Afc0) | [Patch Paul](https://open.spotify.com/artist/2saxtnCsT6CCtNUEGRgWNe) | [Napping Bell](https://open.spotify.com/album/772eGWfT9xUWzp6j7R00bQ) | 2:27 | 2021-10-07 | 2022-11-26 |
 | [Naptime](https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Naptime](https://open.spotify.com/album/54r2pHYyLBR4p7L7BZge2C) | 1:36 | 2024-08-26 |  |
+| [Naptime for Bunny Frances](https://open.spotify.com/track/1oOAKL8rQv99RiZRlLmmFV) | [Mathilda Nuit](https://open.spotify.com/artist/77ZKgLXDw1UWenw8vCpbID) | [Naptime for Bunny Frances](https://open.spotify.com/album/04hNdYOq5dmjmmokZEMpp8) | 1:46 | 2024-11-15 |  |
 | [Nashville Nights](https://open.spotify.com/track/6wPznzcN6oN4ZcJAkdM3TD) | [Anna Ramirez](https://open.spotify.com/artist/4WtmDnBN2uns73pavhp6mB) | [Camilla's Lullabye](https://open.spotify.com/album/6JdYVIwiBzeNSCo0E2wJgW) | 2:16 | 2021-10-07 | 2024-03-29 |
 | [Nattasang](https://open.spotify.com/track/5V7Cna2whRlJKPRDhWDqWE) | [Love Haugen](https://open.spotify.com/artist/4NsGWqS4NvkK8fWRW3d6GL) | [Nattasang](https://open.spotify.com/album/2Ky8VQ9jejKsB4fy0fogVf) | 1:23 | 2021-10-07 | 2023-05-12 |
 | [Natti natt lillesøster](https://open.spotify.com/track/4VKYZ0NAMHkbd7tfnzvXkL) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Natti natt lillesøster](https://open.spotify.com/album/2atqQpSUrSz0ozD9tSKDaN) | 2:10 | 2021-10-07 | 2024-03-29 |
@@ -490,7 +493,7 @@
 | [Serene Slumber](https://open.spotify.com/track/63UWqD2mAFfFG6LrWcr0sy) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Watching Over You](https://open.spotify.com/album/1hBdVtoMRo0QBbrloHZ1yk) | 1:59 | 2023-04-07 |  |
 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 | 2024-01-05 |  |
 | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/track/4RVbG2QUU8L8Fc1CUsYYWw) | [Irwin Boatwright](https://open.spotify.com/artist/0xi7Mc7fS0IL523uoVmdR8) | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/album/4v10QZ8geeKAbbRRa5Tysa) | 1:44 | 2021-10-07 | 2024-03-29 |
-| [Sheeplings](https://open.spotify.com/track/3Moov5075MI3wL1aIARWwf) | [Forrest Carmine](https://open.spotify.com/artist/3HxrE3TmMILgSfr1Gwg03s) | [Sheeplings](https://open.spotify.com/album/5qlgLCLsaYVzNY1cndyB0R) | 3:00 | 2024-10-25 |  |
+| [Sheeplings](https://open.spotify.com/track/3Moov5075MI3wL1aIARWwf) | [Forrest Carmine](https://open.spotify.com/artist/3HxrE3TmMILgSfr1Gwg03s) | [Sheeplings](https://open.spotify.com/album/5qlgLCLsaYVzNY1cndyB0R) | 3:00 | 2024-10-25 | 2024-11-16 |
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-10-07 | 2024-03-29 |
 | [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 | 2023-10-06 |  |
 | [Skidamarink](https://open.spotify.com/track/4QlZFHDwrV9n8aZ8cWslaB) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Skidamarink](https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd) | 2:05 | 2021-10-07 | 2024-04-19 |
@@ -553,6 +556,7 @@
 | [Sweet Tooth](https://open.spotify.com/track/6vvSYskJHn3KwkqyDRjvmn) | [Lareta Lund](https://open.spotify.com/artist/5XKKjiDgEp3rBJEJbU4woy) | [Sweet Tooth](https://open.spotify.com/album/2lmB9S7r0SAHcASu0ltcc1) | 2:04 | 2022-11-25 |  |
 | [Swimming With Dolphins](https://open.spotify.com/track/2PVl2xJzBDDxcnsOF6gwcw) | [Dimitrios Huizinga](https://open.spotify.com/artist/3TOrJX9IkhsLqBDy1jE9jQ) | [Swimming With Dolphins](https://open.spotify.com/album/43MImk4brXhEUlyGPwvQN3) | 1:26 | 2022-11-25 |  |
 | [Swing Ride](https://open.spotify.com/track/4YhYDfbWjOEjN46YLLKbCF) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [Swing Ride](https://open.spotify.com/album/3lJ6xhrM5lw4sy3ZZzBY74) | 1:46 | 2023-12-08 |  |
+| [Take Me Out to the Ball Game](https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Take Me Out to the Ball Game](https://open.spotify.com/album/2dsoYvsV0m83I2f2aI6w2G) | 1:33 | 2024-11-15 |  |
 | [Te Amo, Bebé](https://open.spotify.com/track/5e1Y3i8gIWh7SjrEMfpSpA) | [Nannie Villegas](https://open.spotify.com/artist/5sjdqGVROt3sdrSTPg79yg) | [Te Amo, Bebé](https://open.spotify.com/album/5t8TmvSXUboXYomJS2tPE5) | 2:19 | 2022-04-19 |  |
 | [Teeny Tiny Baby Birds](https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Teeny Tiny Baby Birds](https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL) | 1:27 | 2024-01-19 |  |
 | [Tell Me a Story, Daddy](https://open.spotify.com/track/2OeI4OOvTmQfyW1ozSeS9A) | [Margith Mathiesen](https://open.spotify.com/artist/7FVnh71Z8lhSppYykLnpJh) | [Always By Your Side](https://open.spotify.com/album/7uaZjvfUWtJblAnpjSqMg3) | 1:30 | 2021-10-07 | 2024-03-29 |
@@ -589,6 +593,7 @@
 | [The Pumpkin](https://open.spotify.com/track/6jAFEN63YWuEYOPooILzEv) | [Marielle Wilson](https://open.spotify.com/artist/2XH0vhn32RdidOMQiqxOEG) | [The Pumpkin](https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv) | 1:38 | 2021-10-07 | 2023-02-10 |
 | [The Rabbit and The Sparrow](https://open.spotify.com/track/6nsgW7nE2R8b0XkzAgWf4i) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 | 2022-08-10 | 2023-06-09 |
 | [The Rooster](https://open.spotify.com/track/7JiAg8jIQkAzSy0lEap7Zg) | [Lanny Peck](https://open.spotify.com/artist/02tsxaTHlK3q64g9iSXaSq) | [The Rooster](https://open.spotify.com/album/4h9R9eY5y1mcLmtmWYoyLb) | 1:26 | 2021-10-07 | 2024-05-24 |
+| [The Second Star to the Right](https://open.spotify.com/track/10qFyR0SKMPng0Pnh8UUWn) | [Valérian Rose](https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7) | [The Second Star to the Right](https://open.spotify.com/album/1gUpNGO623taLGmfaUvm6l) | 1:52 | 2024-11-15 |  |
 | [The Sky is Smiling](https://open.spotify.com/track/1ufUQRuEPV4m0c4eWeKsOc) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [The Sky is Smiling](https://open.spotify.com/album/1zdFJYcJDloOSwS6jFFude) | 1:16 | 2021-10-07 |  |
 | [The Sleepy Star](https://open.spotify.com/track/4IpWKogzTDB2jrZCToKJrk) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [The Sleepy Star](https://open.spotify.com/album/2mhuAMHFtV3MPuQr2E19xz) | 1:51 | 2024-11-08 |  |
 | [The Sunset Song](https://open.spotify.com/track/5coSsftpWxzGkTmyrE7K4P) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [The Sunset Song](https://open.spotify.com/album/6lbTcfCTJQrui8k5TJZDh4) | 1:49 | 2023-02-24 |  |

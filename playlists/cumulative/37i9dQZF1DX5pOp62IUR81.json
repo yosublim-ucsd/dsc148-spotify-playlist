@@ -2801,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Sub-Mariner (1966 Theme) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/0zdD8IZCwSXbDrrNgDduHQ"
+      },
+      "artists": [
+        {
+          "name": "Marvel Chorus",
+          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49415,
+      "name": "Sub-Mariner (1966 Theme) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/4hDQvEL3hJlRhvDHsdcay9"
+    },
+    {
+      "album": {
         "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
       },
@@ -3970,7 +3988,7 @@
           "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         },
         {
-          "name": "Mare Advertencia Lirika",
+          "name": "Mare Advertencia",
           "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
         }
       ],

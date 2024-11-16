@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [33 & golden](https://open.spotify.com/track/7uCrOs58TqlOEHrEoQkBta) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:05 | 2023-07-25 |  |
+| [33 & golden](https://open.spotify.com/track/7uCrOs58TqlOEHrEoQkBta) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:05 | 2023-07-25 | 2024-11-16 |
 | [6 In The Morning](https://open.spotify.com/track/1iL1mld9Q9YZgIVQCVJ0JB) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [6 In The Morning](https://open.spotify.com/album/2dDroSoRtp3FeUeVSvqUry) | 5:19 | 2023-03-22 | 2024-06-02 |
 | [A Wolf At the Door](https://open.spotify.com/track/3OHevW2cUT176DXWV0lHg9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:21 | 2023-10-30 | 2023-11-04 |
 | [Acts From Under And Above: Scared Song](https://open.spotify.com/track/1ydfMG73G3bPMz2sHojlIF) | [Meredith Monk](https://open.spotify.com/artist/1WN9bXZmI41JB1tCmrSC3M) | [Do You Be](https://open.spotify.com/album/4aiBF5WbiV0wdyyfg4AJxi) | 6:07 | 2024-10-28 | 2024-11-05 |
@@ -259,7 +259,7 @@
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2022-09-13 |  |
 | [Piano Tuner Song 2000 AD](https://open.spotify.com/track/49W71e4IOKSWkofyJw3oIQ) | [Ivor Cutler](https://open.spotify.com/artist/60SKMJ5AgD6DuxTNbVrrSQ) | [Dandruff](https://open.spotify.com/album/2gBdIkbOIEcC6XPLMJiJlR) | 1:17 | 2024-10-28 | 2024-11-05 |
 | [Piece and Pound Coins](https://open.spotify.com/track/0s3pPnQrytADGrGw1UWP5m) | [The Ninth Wave](https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP) | [Piece and Pound Coins](https://open.spotify.com/album/4Rpy1s4ACE9bAJYaQdc9KM) | 2:23 | 2021-11-01 | 2022-09-15 |
-| [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 | 2024-06-01 | 2024-10-28 |
+| [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 | 2024-06-01 |  |
 | [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 | 2024-08-29 |  |
 | [Poem](https://open.spotify.com/track/4uzh2ZrXPj5IfZz3Llo0xR) | [Goonnights](https://open.spotify.com/artist/5ZmIXHI8yRSNyaVi8PZqbZ) | [Poem](https://open.spotify.com/album/6zT1R2Sdzjtc8FKAnzEdP9) | 4:12 | 2023-10-30 | 2024-06-02 |
 | [Port](https://open.spotify.com/track/4zjArpFbVaNz27Z5vX5Oda) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/6VjvuxKncdSNpaQW9WMOEZ) | 4:42 | 2023-07-25 | 2024-04-19 |

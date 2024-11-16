@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Asha Jefferies",
+  "description": "Underground indie rock gems. Cover: Hank Heaven",
   "name": "undercurrents",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 313577,
       "name": "3D Country",
       "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
+    },
+    {
+      "album": {
+        "name": "41 Dollars",
+        "url": "https://open.spotify.com/album/5K4fhooGrIa4p1PsY8EbJb"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227634,
+      "name": "41 Dollars",
+      "url": "https://open.spotify.com/track/0xBCc7FptwCU7uQjVZzrns"
     },
     {
       "album": {
@@ -2467,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/6ToD4RofYRJf81ClqgKqwV"
+      },
+      "artists": [
+        {
+          "name": "The Sewing Club",
+          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207449,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/1F2Be353eI0YTwGJ1SLY7H"
+    },
+    {
+      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
       },
@@ -4326,7 +4362,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 249761,
       "name": "Circle Games",
       "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
@@ -5216,6 +5252,24 @@
       "duration_ms": 137866,
       "name": "Crazy, Baby",
       "url": "https://open.spotify.com/track/2MTsoMiLXxJQz9qfVjw32G"
+    },
+    {
+      "album": {
+        "name": "Crickets",
+        "url": "https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI"
+      },
+      "artists": [
+        {
+          "name": "Hollis Howard",
+          "url": "https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP"
     },
     {
       "album": {
@@ -7798,7 +7852,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 287226,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
@@ -8174,7 +8228,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 270923,
       "name": "Firefighters",
       "url": "https://open.spotify.com/track/59GCYWh0Y74XtvhtJNe7nW"
@@ -9198,7 +9252,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 177348,
       "name": "Giving Away An Inch Of",
       "url": "https://open.spotify.com/track/2Hfrhwr4oWrPAZLGcLd3lI"
@@ -10856,7 +10910,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 188979,
       "name": "Honeycrash",
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
@@ -12104,7 +12158,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 162405,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
@@ -13676,7 +13730,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 219562,
       "name": "Lie In the Gutter",
       "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
@@ -15002,6 +15056,28 @@
       "duration_ms": 162969,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
+    },
+    {
+      "album": {
+        "name": "Loaded Dice",
+        "url": "https://open.spotify.com/album/0cJTkQ0Z3Rz7NtlQIxyopd"
+      },
+      "artists": [
+        {
+          "name": "Hank Heaven",
+          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
+        },
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Most of All (feat. Renny Conti)",
+      "url": "https://open.spotify.com/track/71a7mrWgM7SfDjBUlUIU5Y"
     },
     {
       "album": {
@@ -18396,7 +18472,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157000,
       "name": "Run",
       "url": "https://open.spotify.com/track/3KHoIo3Kq71se6ZrGmOAnY"
@@ -19691,6 +19767,24 @@
     },
     {
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "album": {
         "name": "So Far",
         "url": "https://open.spotify.com/album/1SWsuGzbGY1y0506omiR3E"
       },
@@ -20650,6 +20744,28 @@
       "duration_ms": 232080,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3do76ccIVCbR4iEASg5HLm"
+    },
+    {
+      "album": {
+        "name": "Ensatina",
+        "url": "https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez"
+      },
+      "artists": [
+        {
+          "name": "Homer",
+          "url": "https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb"
+        },
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183072,
+      "name": "Start Select",
+      "url": "https://open.spotify.com/track/5EB7K0LnzAjonrIdrLbOzu"
     },
     {
       "album": {
@@ -22225,6 +22341,24 @@
     },
     {
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/5LpL8QmBaPCAnUngav4qTr"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198876,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4kcvT4Fe3igO27vjVF4Jd8"
+    },
+    {
+      "album": {
         "name": "Let Me Do One More",
         "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
       },
@@ -22410,6 +22544,24 @@
       "duration_ms": 214333,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5"
+    },
+    {
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "album": {
@@ -22810,6 +22962,24 @@
       "duration_ms": 142549,
       "name": "Toe",
       "url": "https://open.spotify.com/track/1Z7LSyAta9hXgcPs14yLLt"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1e6eBRV5OXNELTEHsBvVAG"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3WfIymJJ0IzjtpOI7eLzdq"
     },
     {
       "album": {
@@ -23938,7 +24108,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 129554,
       "name": "Video Music",
       "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"

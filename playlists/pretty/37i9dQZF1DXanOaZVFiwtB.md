@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,760 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,845 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 47 | [もののけ姫\(もののけ姫\)](https://open.spotify.com/track/5omQL0li1emtsxFOj0Byf5) | [Yoshikazu Mera](https://open.spotify.com/artist/1gMSjp1uxOKC3VWRTWKaJ2) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:32 |
 | 48 | [Wild Flowers](https://open.spotify.com/track/4rNiul4j7pF83pAVPO1EYW) | [Ramar](https://open.spotify.com/artist/5ockHlAqpBTuTGxCaIDWSx) | [BRIDGE \-RAMAR THE BEST!!\-](https://open.spotify.com/album/3aIHt2Y6pg8KXmn0Wy6pTe) | 4:34 |
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
-| 50 | [ウルトラ リラックス](https://open.spotify.com/track/59TfIBHvlkefLsrMUy2wvz) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/3e54EqkG6yNxDS4D9tfL0X) | 4:35 |
+| 50 | [ウルトラ リラックス](https://open.spotify.com/track/59TfIBHvlkefLsrMUy2wvz) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル　15th Anniversary Edition](https://open.spotify.com/album/3e54EqkG6yNxDS4D9tfL0X) | 4:35 |
 
 Snapshot ID: `ZsNB0AAAAABtogjAIjUvVEjhAyT3xnIk`

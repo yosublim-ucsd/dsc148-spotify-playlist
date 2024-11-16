@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,642 songs - 4 day 6 hr 32 min
+1,643 songs - 4 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 | 2023-01-05 | 2023-04-09 |
 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-08 | 2023-07-12 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-07-08 |
+| [Shinsekai Yori](https://open.spotify.com/track/3NyKPMAryBkJg0Ium7AGgF) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Shinsekai Yori](https://open.spotify.com/album/2VeVY34DDraFTeX00ou7qY) | 3:34 | 2024-11-15 |  |
 | [Shinso ni site Muteki no Mr\. Draluc](https://open.spotify.com/track/0iJrvWubS2d3CLmhMnxe3Q) | [Draluc\(CV:Jun Fukuyama\)](https://open.spotify.com/artist/4S2NOaRyFqCTGPAfao7TYX) | [Shinso ni site Muteki no Mr\. Draluc](https://open.spotify.com/album/1HUXQ6lAm4eSnlcyxIJ888) | 3:09 | 2022-12-13 | 2022-12-21 |
 | [Shiny Girl](https://open.spotify.com/track/4zsnFklp5it8A4VLFVH6ly) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Shiny Girl](https://open.spotify.com/album/5tybkse08gS8EPh8cIICQB) | 4:22 | 2023-10-10 | 2023-11-18 |
 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-05 | 2023-04-09 |

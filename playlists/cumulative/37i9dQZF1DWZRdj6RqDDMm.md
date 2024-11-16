@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=O0kSVRpiTD2Dus8f81EHwQ>Monaze
 
-383 songs - 21 hr 57 min
+384 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Just as I am](https://open.spotify.com/track/2PSyahpyNwy0yFeSyvxkly) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Just as I am](https://open.spotify.com/album/5oOAOVwVfqRkBxrX7zk0Tk) | 2:17 | 2023-10-20 | 2024-01-12 |
 | [Konse](https://open.spotify.com/track/5ZlLfuWfBZMiZIPPmAD2oW) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [Konse](https://open.spotify.com/album/4hQrrzNmi7d52JNUrdPcdn) | 3:20 | 2023-12-22 | 2024-02-02 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-10-20 |  |
+| [Lay](https://open.spotify.com/track/72wKF92paVR0X3Y9N7z2Vu) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Lay](https://open.spotify.com/album/3ETwR9DxVSQLbn8L1tKWsJ) | 3:04 | 2024-11-15 |  |
 | [Lead Me Back](https://open.spotify.com/track/1wBoQTh0EoUXqARM2pzc5a) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Lead Me Back](https://open.spotify.com/album/4Cxp3yhZ4uIXvdzZkETFlf) | 2:33 | 2024-01-12 | 2024-03-29 |
 | [Let it Go](https://open.spotify.com/track/4UyG93fzwlhSfFamzpFcNd) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Let it Go](https://open.spotify.com/album/43kWJ1PlyR7uXyy3JlkqGJ) | 3:14 | 2024-04-26 |  |
 | [Let Me Go](https://open.spotify.com/track/6bvkN6XCvEIBoqOGVqqCTX) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Let Me Go](https://open.spotify.com/album/1O5AL5ZtOh0uNCQ1pFWqe1) | 2:09 | 2024-05-03 | 2024-08-09 |

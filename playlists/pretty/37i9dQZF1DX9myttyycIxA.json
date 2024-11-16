@@ -1,28 +1,132 @@
 {
-  "description": "Underground indie rock gems. Cover: Asha Jefferies",
-  "num_followers": 297920,
+  "description": "Underground indie rock gems. Cover: Hank Heaven",
+  "num_followers": 297954,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy4mBwAAAADtEbo0suT5JUpdRhe4iBrN",
+  "snapshot_id": "ZzeMnwAAAACq4iklpxn6Zq2X55b9C87Q",
   "tracks": [
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "cold medicine (deluxe edition)",
-        "url": "https://open.spotify.com/album/0iT0luHBNd77yShh5cpLaD"
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/6ToD4RofYRJf81ClqgKqwV"
       },
       "artists": [
         {
-          "name": "tiffi",
-          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+          "name": "The Sewing Club",
+          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
         }
       ],
-      "duration_ms": 197615,
-      "name": "beach house",
-      "url": "https://open.spotify.com/track/2328jc95SrmfZPaf95M7i1"
+      "duration_ms": 207449,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/1F2Be353eI0YTwGJ1SLY7H"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Loaded Dice",
+        "url": "https://open.spotify.com/album/0cJTkQ0Z3Rz7NtlQIxyopd"
+      },
+      "artists": [
+        {
+          "name": "Hank Heaven",
+          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
+        },
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Most of All (feat. Renny Conti)",
+      "url": "https://open.spotify.com/track/71a7mrWgM7SfDjBUlUIU5Y"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/5LpL8QmBaPCAnUngav4qTr"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 198876,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4kcvT4Fe3igO27vjVF4Jd8"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Sweet Anecdote",
+        "url": "https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Sweet Anecdote",
+      "url": "https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "41 Dollars",
+        "url": "https://open.spotify.com/album/5K4fhooGrIa4p1PsY8EbJb"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 227634,
+      "name": "41 Dollars",
+      "url": "https://open.spotify.com/track/0xBCc7FptwCU7uQjVZzrns"
+    },
+    {
+      "added_at": "2024-11-15 18:02:07",
+      "album": {
+        "name": "Ensatina",
+        "url": "https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez"
+      },
+      "artists": [
+        {
+          "name": "Homer",
+          "url": "https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb"
+        },
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 183072,
+      "name": "Start Select",
+      "url": "https://open.spotify.com/track/5EB7K0LnzAjonrIdrLbOzu"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -41,6 +145,54 @@
       "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1e6eBRV5OXNELTEHsBvVAG"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3WfIymJJ0IzjtpOI7eLzdq"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "deeper sleeper",
+        "url": "https://open.spotify.com/album/4JH3jfuhTmXCqNCCrwSODW"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "duration_ms": 119000,
+      "name": "this is red leader",
+      "url": "https://open.spotify.com/track/5Rhr7E8Nad0peXFh4QWHsZ"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Headache",
@@ -55,6 +207,22 @@
       "duration_ms": 240826,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "cold medicine (deluxe edition)",
+        "url": "https://open.spotify.com/album/0iT0luHBNd77yShh5cpLaD"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "duration_ms": 197615,
+      "name": "beach house",
+      "url": "https://open.spotify.com/track/2328jc95SrmfZPaf95M7i1"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -89,6 +257,38 @@
       "url": "https://open.spotify.com/track/4LMmg4NHeDMyiQ8IV4rU2e"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Crickets",
+        "url": "https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI"
+      },
+      "artists": [
+        {
+          "name": "Hollis Howard",
+          "url": "https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Falling Down a Well / Born Without a Smile",
+        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Eazy Peazy",
@@ -103,22 +303,6 @@
       "duration_ms": 150035,
       "name": "Sports Day",
       "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Sweet Anecdote",
-        "url": "https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Sweet Anecdote",
-      "url": "https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -153,6 +337,22 @@
       "url": "https://open.spotify.com/track/0YW7n18t21ZWYMAei1KmH6"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Paradise Pop. 10",
+        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 276946,
+      "name": "Carousel Horses",
+      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
+    },
+    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Brother",
@@ -167,22 +367,6 @@
       "duration_ms": 236635,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0k0mPVleEMaHlFXsUlgNCu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "words from a wishing well",
-        "url": "https://open.spotify.com/album/369tShTNrYrCMkXRepABx9"
-      },
-      "artists": [
-        {
-          "name": "Shower Curtain",
-          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "bedbugs",
-      "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -201,22 +385,6 @@
       "url": "https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Falling Down a Well / Born Without a Smile",
-        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 173825,
-      "name": "Falling Down a Well",
-      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "vavy",
@@ -231,38 +399,6 @@
       "duration_ms": 195712,
       "name": "Hell of a Life",
       "url": "https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Video Music",
-        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 129554,
-      "name": "Video Music",
-      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "deeper sleeper",
-        "url": "https://open.spotify.com/album/4JH3jfuhTmXCqNCCrwSODW"
-      },
-      "artists": [
-        {
-          "name": "deeper sleeper",
-          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "this is red leader",
-      "url": "https://open.spotify.com/track/5Rhr7E8Nad0peXFh4QWHsZ"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -315,6 +451,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "words from a wishing well",
+        "url": "https://open.spotify.com/album/369tShTNrYrCMkXRepABx9"
+      },
+      "artists": [
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "bedbugs",
+      "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Get It",
         "url": "https://open.spotify.com/album/0fKpzon7eCAX5S9Ebn1h2G"
       },
@@ -359,22 +511,6 @@
       "duration_ms": 250250,
       "name": "Rejection",
       "url": "https://open.spotify.com/track/6lRglAtqAXeKu1a7ANWVpC"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Paradise Pop. 10",
-        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 276946,
-      "name": "Carousel Horses",
-      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -561,22 +697,6 @@
       "url": "https://open.spotify.com/track/27sdas88SxiFN0UkYtTgR5"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 249761,
-      "name": "Circle Games",
-      "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "The Academy",
@@ -639,70 +759,6 @@
       "duration_ms": 329960,
       "name": "you're like me",
       "url": "https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 287226,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5xF5jZmbGJo9d4laWMwpox"
-      },
-      "artists": [
-        {
-          "name": "skirts",
-          "url": "https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3KHoIo3Kq71se6ZrGmOAnY"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Giving Away An Inch Of",
-        "url": "https://open.spotify.com/album/2K61FiQJBUKQQBSgDbjoLb"
-      },
-      "artists": [
-        {
-          "name": "Silverbacks",
-          "url": "https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4"
-        }
-      ],
-      "duration_ms": 177348,
-      "name": "Giving Away An Inch Of",
-      "url": "https://open.spotify.com/track/2Hfrhwr4oWrPAZLGcLd3lI"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Lie In the Gutter",
-      "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1265,22 +1321,6 @@
       "url": "https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "In My Bed",
-        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 162405,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
@@ -1343,22 +1383,6 @@
       "duration_ms": 248535,
       "name": "Perfect Hand",
       "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Honeycrash",
-        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 188979,
-      "name": "Honeycrash",
-      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1519,22 +1543,6 @@
       "duration_ms": 283688,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Firefighters",
-        "url": "https://open.spotify.com/album/099s0b6r5AuuzSkNtnZEo7"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 270923,
-      "name": "Firefighters",
-      "url": "https://open.spotify.com/track/59GCYWh0Y74XtvhtJNe7nW"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Holiday cheer from your Disney favorites!",
-  "num_followers": 172212,
+  "num_followers": 172385,
   "original_name": "Disney Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx8MQAAAAABxtAfVCUdk1+ZrIsSsWAz7",
+  "snapshot_id": "ZzbVUAAAAACbJ0sXbHtUrv0mPo+xuoWs",
   "tracks": [
     {
       "added_at": "2023-12-18 14:31:42",
@@ -179,6 +179,22 @@
       "duration_ms": 127666,
       "name": "Let it Snow, Let it Snow, Let it Snow",
       "url": "https://open.spotify.com/track/0TVNlaD7qwDybSNxVmXnlj"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "An Almost Christmas Story (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2OjIKHPYmoCnsBtdea7PdC"
+      },
+      "artists": [
+        {
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        }
+      ],
+      "duration_ms": 120683,
+      "name": "The Spirit of Christmas",
+      "url": "https://open.spotify.com/track/2TMDXBf8UcxvpECme4cDYa"
     },
     {
       "added_at": "2024-10-28 04:00:00",

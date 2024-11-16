@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 247731,
       "name": "After Party - Extended",
       "url": "https://open.spotify.com/track/4TqiWY1U6gJT9hA6OxNGSj"
@@ -2240,6 +2240,32 @@
       "duration_ms": 217021,
       "name": "Bichiyal",
       "url": "https://open.spotify.com/track/6DwvPQUStsslrkVTSQnB9M"
+    },
+    {
+      "album": {
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/3cuUHhmD2Idup1BOZBtFgt"
+      },
+      "artists": [
+        {
+          "name": "BenGstar",
+          "url": "https://open.spotify.com/artist/1wVJFmSm8OwomtQZZCLKjh"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Los Del Ki Records",
+          "url": "https://open.spotify.com/artist/3U2wjb3FScz1GCddqYnQHE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/07ooEfLc0J9jBw7hSmiqtF"
     },
     {
       "album": {
@@ -7398,7 +7424,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 133942,
       "name": "ilegal.",
       "url": "https://open.spotify.com/track/2d5BsK5KVtv6GevWXeolNl"
@@ -8844,7 +8870,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155091,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/04MMXLVbT86pjWXkHBqOdu"
@@ -13849,6 +13875,32 @@
     },
     {
       "album": {
+        "name": "Perreo Callejero",
+        "url": "https://open.spotify.com/album/4vMMa41gxI0azRuyUl0Kzj"
+      },
+      "artists": [
+        {
+          "name": "Richwhite",
+          "url": "https://open.spotify.com/artist/4dQgP3wHnxxP3hemNxpFNC"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Perreo Callejero",
+      "url": "https://open.spotify.com/track/0x3KTgFOKlp5Q414UPXkUR"
+    },
+    {
+      "album": {
         "name": "Minion Mixtape",
         "url": "https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2"
       },
@@ -13916,6 +13968,36 @@
       "duration_ms": 168291,
       "name": "Perreotech (Ven bebe)",
       "url": "https://open.spotify.com/track/6OJzHPceODz6V96LspVatz"
+    },
+    {
+      "album": {
+        "name": "Pesaita (feat. King Savagge)",
+        "url": "https://open.spotify.com/album/16xhGdp4SNXesfciBTmFAF"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227406,
+      "name": "Pesaita (feat. King Savagge)",
+      "url": "https://open.spotify.com/track/5OlIlD3kkwDwksTw1hOhMb"
     },
     {
       "album": {

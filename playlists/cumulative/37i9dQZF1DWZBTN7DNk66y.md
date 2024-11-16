@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Juan Campodónico.
 
-194 songs - 11 hr 11 min
+195 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Al lado tuyo \- Bolerito](https://open.spotify.com/track/2GxTgr77aDhsSE8u1UoxwP) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Al lado tuyo \(Bolerito\)](https://open.spotify.com/album/7eMRI8nlrLpq17Y94MCM6A) | 2:35 | 2024-08-23 | 2024-10-26 |
 | [Alabanza](https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Alabanza](https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH) | 3:24 | 2024-06-28 |  |
 | [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 | 2024-06-28 | 2024-08-24 |
+| [Aldea San Cosme](https://open.spotify.com/track/2dpK8T282Gfsi9nbz5Lktw) | [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Aldea San Cosme](https://open.spotify.com/album/0d9JloG7tG0pMupnzqRTNo) | 4:09 | 2024-11-08 |  |
 | [Alguien](https://open.spotify.com/track/6wieV3krzP6veSHdwAkOAL) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V) | [EUCALIPTO](https://open.spotify.com/album/1cr1LtMh5mwohEogHuqQe7) | 1:24 | 2024-08-16 | 2024-11-09 |
 | [Amiga](https://open.spotify.com/track/0eEZNhtuO0iSCSq1Y58suJ) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Amiga](https://open.spotify.com/album/7zUwVvMBOXeamAISOdAlzc) | 3:35 | 2024-10-25 |  |
 | [Amigos Animales \(Acústico\) \- Edición 2024](https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Te vamos a salvar](https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW) | 2:41 | 2024-10-25 |  |
@@ -55,7 +56,7 @@
 | [Decreto](https://open.spotify.com/track/3ISHt7hGxzM1pWnlXlIDjy) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Decreto](https://open.spotify.com/album/7tlbnFYU7AQR5nqBLy9SMm) | 3:25 | 2024-06-28 | 2024-08-17 |
 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 | 2024-06-28 |  |
 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 | 2024-10-25 |  |
-| [Desde mi Ataúd](https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Desde mi Ataúd](https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr) | 3:18 | 2024-07-12 |  |
+| [Desde mi Ataúd](https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Desde mi Ataúd](https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr) | 3:18 | 2024-07-12 | 2024-11-16 |
 | [Desencanto](https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Desencanto](https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ) | 4:18 | 2024-08-12 | 2024-10-26 |
 | [Donde Quiera Que Van \(feat\. Lula Bertoldi, Ivonne Guzmán, Nadia Larcher & Ana Prada\)](https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ), [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Donde Quiera Que Van \(feat\. Lula Bertoldi, Ivonne Guzmán, Nadia Larcher & Ana Prada\)](https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc) | 3:58 | 2024-06-28 |  |
 | [Donde Vas?](https://open.spotify.com/track/3RJ4OyJpNuNCRAUnCJWWuH) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Donde Vas?](https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf) | 3:02 | 2024-06-28 | 2024-08-24 |

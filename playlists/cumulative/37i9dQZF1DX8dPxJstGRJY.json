@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "Canto della Buranella (Vocal Version)",
+        "url": "https://open.spotify.com/album/32Lz5SNy7910aPJgHlPYIz"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73043,
+      "name": "Canto della Buranella (Vocal Version)",
+      "url": "https://open.spotify.com/track/7xGFyslQDDZwsufD1nVexL"
+    },
+    {
+      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/1JiT6gr6lHx4Tdsi232CeT"
       },
@@ -907,6 +929,36 @@
     },
     {
       "album": {
+        "name": "Nearer My God to Thee [Arr. Andr\u00e9 Rieu]",
+        "url": "https://open.spotify.com/album/4z2yONrYHHwLxabb1Q0Plv"
+      },
+      "artists": [
+        {
+          "name": "Mason Lowell",
+          "url": "https://open.spotify.com/artist/1K8golLawHAxr4bWuLN2rj"
+        },
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        },
+        {
+          "name": "Johann Strauss Orchestra",
+          "url": "https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT"
+        },
+        {
+          "name": "The Vrijthof Brass Players",
+          "url": "https://open.spotify.com/artist/1IsC0dIHuUzzI6GuiIOdnX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Nearer My God to Thee [Arr. Andr\u00e9 Rieu]",
+      "url": "https://open.spotify.com/track/2PwncTcZplTKZKWcNqzjNk"
+    },
+    {
+      "album": {
         "name": "Katherine Jenkins / From The Heart",
         "url": "https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5"
       },
@@ -1081,15 +1133,15 @@
       "artists": [
         {
           "name": "Marie Oppert",
-          "url": "https://open.spotify.com/artist/4ebnQwxGmX8eA7wumljZV7"
+          "url": "https://open.spotify.com/artist/0nD1zi5UVaFVLjdGEsRwS5"
         },
         {
           "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+          "url": "https://open.spotify.com/artist/3rpZB65GmDIcFzYA7BCoqg"
         },
         {
           "name": "Nicholas Skilbeck",
-          "url": "https://open.spotify.com/artist/7lYG7lhAySMEBEVMaBGLfg"
+          "url": "https://open.spotify.com/artist/57KQ4df1fxIfuWtvqT0duh"
         }
       ],
       "date_added": "2021-09-24",
@@ -1792,6 +1844,28 @@
       "duration_ms": 240866,
       "name": "When You Wish Upon A Star - From \"Pinocchio\"",
       "url": "https://open.spotify.com/track/6dGmcGtoUrFlwDJzKcr6wo"
+    },
+    {
+      "album": {
+        "name": "White Christmas (feat. Sofia Carson)",
+        "url": "https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238520,
+      "name": "White Christmas (feat. Sofia Carson)",
+      "url": "https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV"
     },
     {
       "album": {

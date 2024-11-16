@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,626 songs - 3 day 13 hr 57 min
+1,627 songs - 3 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Bagre](https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/0qVX6Zye3aHSTWmKwGYFFF) | 2:40 | 2021-10-21 | 2022-05-05 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-06-27 |
 | [Bailaito Sensual](https://open.spotify.com/track/76Sv5dt6nFhn0syfnPAYr1) | [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Bailaito Sensual](https://open.spotify.com/album/2oay2Op4ZCd5bY4diYG3t1) | 2:01 | 2024-05-24 | 2024-06-03 |
+| [BAILANDO](https://open.spotify.com/track/4jty7qqVZoNZpCPmyjHwOb) | [Cleyh](https://open.spotify.com/artist/0t4vLHyQH6collUSn8wU8G), [Jozzu RD](https://open.spotify.com/artist/0Ud7fLppThg4xcMHvicnKo) | [BAILANDO](https://open.spotify.com/album/6mkaCLJ8xURi3hRvu5Ipgl) | 3:29 | 2024-11-15 |  |
 | [Bailemos \- Merengue](https://open.spotify.com/track/4HifnDuvEG8YSqt1IockCR) | [Kalimete](https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw) | [Bailemos \(Merengue\)](https://open.spotify.com/album/25mLeTBU0ovTKht9ZfO9RZ) | 3:04 | 2023-06-01 | 2023-07-08 |
 | [Baja Lento](https://open.spotify.com/track/4lLTnC6yZGddintzDpHg1L) | [Alti Cardioking](https://open.spotify.com/artist/2UL4FCPglQSPnBUEt4OckP), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Baja Lento](https://open.spotify.com/album/4lLhQ9iQCFW4JknPntrTFB) | 3:23 | 2024-03-10 | 2024-03-12 |
 | [Bajo Mundo](https://open.spotify.com/track/60511h7RLnbY6alCdCFaFK) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Bajo Mundo](https://open.spotify.com/album/5ndn0oBqrG6iZhzF3HJ6WY) | 2:48 | 2021-06-26 | 2021-10-06 |
@@ -375,7 +376,7 @@
 | [Diamantes en Mis Dientes](https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Diamantes En Mis Dientes](https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT) | 5:44 | 2022-11-03 | 2022-11-06 |
 | [DIAMONDS](https://open.spotify.com/track/6XjsXIb1DUhsmhflFAODv3) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:13 | 2023-08-30 | 2023-09-02 |
 | [Dicelo](https://open.spotify.com/track/0yFNk7ZdaaJrJhzFwTNfLh) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 | 2022-10-11 | 2022-10-20 |
-| [Dicelo Si Tu la Vez](https://open.spotify.com/track/5HAZBGTTjn6RrnM7lN50vd) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Dicelo Si Tu la Vez](https://open.spotify.com/album/1Uv7JCmOkNI7DgfAPHarzj) | 2:05 | 2024-06-09 |  |
+| [Dicelo Si Tu la Vez](https://open.spotify.com/track/5HAZBGTTjn6RrnM7lN50vd) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Dicelo Si Tu la Vez](https://open.spotify.com/album/1Uv7JCmOkNI7DgfAPHarzj) | 2:05 | 2024-06-09 | 2024-11-16 |
 | [Dictadura](https://open.spotify.com/track/16RRpUyUDjkIept8AymRiL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:27 | 2021-11-28 | 2021-12-05 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-10-31 | 2021-11-28 |
 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 | 2024-05-25 | 2024-05-28 |

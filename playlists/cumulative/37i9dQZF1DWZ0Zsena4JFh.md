@@ -2,7 +2,7 @@
 
 ### [Indielandia](https://open.spotify.com/playlist/37i9dQZF1DWZ0Zsena4JFh)
 
-> Un parque de diversiones para gustos inconformes y sofisticados\. Bon Iver en portada.
+> Un parque de diversiones para gustos inconformes y sofisticados\. St\. Vincent en portada.
 
 375 songs - 22 hr 36 min
 

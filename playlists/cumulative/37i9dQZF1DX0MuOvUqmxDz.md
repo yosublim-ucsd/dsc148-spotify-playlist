@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Brett Eldredge
 
-329 songs - 17 hr 50 min
+330 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,8 +324,9 @@
 | [Winter Wonderland](https://open.spotify.com/track/1VnWGO6qNxN7TCnUZv7TOR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 2:15 | 2021-12-16 | 2024-04-19 |
 | [Winter Wonderland](https://open.spotify.com/track/2GNrWmb4MTwwIL9flmVBhA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [100 Greatest Christmas Songs Ever \(Top Xmas Pop Hits\)](https://open.spotify.com/album/4la8hw2eVD63WlC6Gvhw3V) | 2:15 | 2022-11-04 | 2022-11-13 |
 | [Winter Wonderland](https://open.spotify.com/track/4jbXHzjsepzaqixmuEz8r9) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Brad Paisley Christmas](https://open.spotify.com/album/1EpvicIkzXB7KM0EEmrrPh) | 3:30 | 2021-12-16 | 2022-11-12 |
+| [Winter Wonderland](https://open.spotify.com/track/54INOuusIyGe5cSd1fhSgx) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:15 | 2024-11-15 |  |
 | [Winter Wonderland](https://open.spotify.com/track/5rIyyxoU1LzraNmFu5FpdR) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/1KEjtvYamAHainJr186Hhz) | 2:39 | 2021-12-16 |  |
-| [Winter Wonderland](https://open.spotify.com/track/1HuTA2331NR1rFmL8BHYcs) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Winter Wonderland](https://open.spotify.com/album/0d4vRHbODXRxNJX35SZZgg) | 2:08 | 2024-08-21 |  |
+| [Winter Wonderland](https://open.spotify.com/track/1HuTA2331NR1rFmL8BHYcs) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Winter Wonderland](https://open.spotify.com/album/0d4vRHbODXRxNJX35SZZgg) | 2:08 | 2024-08-21 | 2024-11-16 |
 | [Winter Wonderland](https://open.spotify.com/track/195xKrwnJOQYBsh5gefYuw) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj), [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ) | [Winter Wonderland](https://open.spotify.com/album/6CKKvaBVfgelFLN1AVP8t6) | 2:29 | 2021-12-16 | 2022-11-12 |
 | [Winter Wonderland](https://open.spotify.com/track/4vVcH5oiNX95kDa81xKaae) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:37 | 2022-10-21 |  |
 | [Wish List](https://open.spotify.com/track/0Nu5R9UV5e0f9oIgZDURth) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Wish List](https://open.spotify.com/album/1XWKc5CIN3utjUetSy4zz7) | 3:18 | 2021-12-16 | 2023-10-28 |

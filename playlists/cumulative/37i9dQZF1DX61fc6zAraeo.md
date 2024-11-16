@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-184 songs - 8 hr 20 min
+185 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fable](https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fable](https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk) | 2:45 | 2024-02-07 |  |
 | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/track/3t473R8lp2TIOabS79ycor) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/album/1rL05Ac13OD7ecxgWJiswB) | 3:21 | 2024-07-26 |  |
 | [Fantasy](https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Fantasy](https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik) | 2:42 | 2024-02-07 | 2024-07-05 |
+| [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 | 2024-11-15 |  |
 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 | 2024-02-07 | 2024-03-14 |
 | [Fine Day](https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Fine Day](https://open.spotify.com/album/0f75aP4uE3xyqL3DMIBTZg) | 3:02 | 2024-02-07 | 2024-06-13 |
 | [Fitness](https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bad Amie](https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE) | [Fitness](https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz) | 3:00 | 2024-02-07 | 2024-02-24 |
@@ -126,7 +127,7 @@
 | [On The Floor](https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [HOLA!](https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI) | [On The Floor](https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8) | 2:08 | 2024-02-07 | 2024-03-08 |
 | [One By One](https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [One By One](https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5) | 2:25 | 2024-02-07 | 2024-03-07 |
 | [One More Night \(feat\. Bryn Christopher\)](https://open.spotify.com/track/2CXiOIZlCcOZToHy4JVOZZ) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [One More Night \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2oqQM12NWNXIydCqwDGgKJ) | 2:28 | 2024-02-07 | 2024-03-08 |
-| [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-07-04 |  |
+| [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-07-04 | 2024-11-16 |
 | [Only You and I](https://open.spotify.com/track/79KGZzqNgevzXDN18Gmdqm) | [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Miner V](https://open.spotify.com/artist/4rkduvnKTAP1gOAoa9lLAS), [LennyMendy](https://open.spotify.com/artist/5AH8sDoAuqf0vp9hSex10V), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [Only You and I](https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3) | 2:55 | 2024-03-06 | 2024-07-05 |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-05-22 | 2024-07-05 |
 | [Out of Love](https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Out of Love](https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s) | 2:18 | 2024-02-07 | 2024-05-23 |

@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-214 songs - 12 hr 53 min
+215 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Santa Baby](https://open.spotify.com/track/5aF9fM2bw3aJ55B04lLfW9) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Home At Christmas](https://open.spotify.com/album/04zzc2HqS41k9xQFnoAXZR) | 3:20 | 2021-11-09 | 2022-11-14 |
 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 | 2021-11-09 | 2024-04-19 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3sS5Mr9OJCJXyRuESUNIbM) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [This Warm December: Brushfire Holiday's Vol\. 1](https://open.spotify.com/album/5edOv7GvKdvwNnqXEACfYQ) | 2:09 | 2021-11-09 |  |
-| [Silent Night](https://open.spotify.com/track/4tKvRSfIjFQyrPMEes4uGd) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [It's Our Favorite Time of Year](https://open.spotify.com/album/0L9g2oXz83mY783Motpo94) | 5:08 | 2021-11-09 |  |
+| [Silent Night](https://open.spotify.com/track/4tKvRSfIjFQyrPMEes4uGd) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [It's Our Favorite Time of Year](https://open.spotify.com/album/0L9g2oXz83mY783Motpo94) | 5:08 | 2021-11-09 | 2024-11-16 |
+| [Silent Night](https://open.spotify.com/track/59eCdGhs3wUwnFLrAxiC0k) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Silent Night](https://open.spotify.com/album/3RwdiNee1Wc6VehBLWhFre) | 2:51 | 2024-11-15 |  |
 | [Silent Night \(feat\. Anais Mitchell\)](https://open.spotify.com/track/2Zrn4nySOKLYde7iQV7IfZ) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 1:55 | 2021-11-09 |  |
 | [Silent Night \- Live from Union Chapel](https://open.spotify.com/track/0T4noS4XEjA29LbHXvjLJD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Live from the Union Chapel](https://open.spotify.com/album/0fYKKKV7O4jD8m6o98YJqV) | 3:04 | 2021-11-09 |  |
 | [Silver Bells](https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 4:10 | 2021-11-09 |  |

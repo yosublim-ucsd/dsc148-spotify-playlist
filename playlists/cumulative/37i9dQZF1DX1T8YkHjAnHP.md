@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-221 songs - 21 hr 10 min
+223 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bayede \- Caiiro Remix](https://open.spotify.com/track/2xEqx4dOq2zh4g4q3A5WZZ) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Victor Sithole](https://open.spotify.com/artist/09dRPZ9Dxg6VsIxxNpvRw4), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Bayede Remixes](https://open.spotify.com/album/6uTSYjU1KzAlkJ8mLehm0a) | 6:32 | 2023-12-25 |  |
 | [Bella](https://open.spotify.com/track/0TvRK8oISrIs7MVum2QldX) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 6:45 | 2023-02-17 | 2023-11-05 |
 | [Bella](https://open.spotify.com/track/2X4qoCJ5XVOPDiUf1E58gH) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/51xJhIh8iQUP7q5Gpsk5KH) | 6:45 | 2023-10-23 | 2023-12-26 |
+| [Better Than This ft\. IVETA](https://open.spotify.com/track/00Rqbth6VNzxB8v6P61Az3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [IVETA](https://open.spotify.com/artist/0Ovl0zogGMb3ggjDSOaAFp) | [Into The Wind](https://open.spotify.com/album/5dTFIpg8E87NJmMhpuPtKF) | 3:54 | 2024-11-15 |  |
 | [Black Sun](https://open.spotify.com/track/20JiYYRX4KyNPOj1ADNjd5) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Kana EP](https://open.spotify.com/album/68akROjc9w0rBeSpJjBI0x) | 6:18 | 2023-02-17 | 2023-11-07 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2022-08-02 | 2022-09-10 |
 | [Borderline \- Catz 'n Dogz Remix](https://open.spotify.com/track/6xoZRqx40HdvSecJNvm5Lx) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Borderline \(Remixes\)](https://open.spotify.com/album/05MhwaBxOSGFG8LsRGNsMt) | 6:06 | 2023-02-17 | 2023-07-20 |
@@ -103,6 +104,7 @@
 | [Jessica's Dream](https://open.spotify.com/track/1DRnCGHn0naWncAujmd0S3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI), [Jessica Zese](https://open.spotify.com/artist/4EBS1e0GJh8eHvHjM5FEJq) | [Nowhere To Follow EP](https://open.spotify.com/album/5LEhxjKlOs6nCQ9XaCfEN0) | 6:24 | 2022-08-02 | 2022-12-13 |
 | [Jorniel](https://open.spotify.com/track/2QBMxByChhXHhlzFLz58Ys) | [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Mabruk EP](https://open.spotify.com/album/7Bv7AHT3lqCNkQSmZOWFhJ) | 7:01 | 2023-07-31 |  |
 | [Kalimba](https://open.spotify.com/track/5KsE8PudCoHMqMUDUzLGdV) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY) | [Safe Ibiza 2022 \(Selected By The Deepshakerz\)](https://open.spotify.com/album/4UlYwmMHi1cF7K51lrAsTm) | 5:40 | 2022-12-12 | 2023-09-26 |
+| [Khazna](https://open.spotify.com/track/1mrHEE9unXyDrG3rAFiDsh) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into The Wind](https://open.spotify.com/album/5dTFIpg8E87NJmMhpuPtKF) | 6:30 | 2024-11-15 |  |
 | [Kulú](https://open.spotify.com/track/3n6dEbEs5vfc1iIvkWUClV) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Telling Me Something EP](https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk) | 7:50 | 2022-08-02 | 2023-06-13 |
 | [Kunuaka \- DJ T.'s Body Contact Remix](https://open.spotify.com/track/1Da7GyN2bbpg2mRWEGnNVV) | [Makossa & Megablast](https://open.spotify.com/artist/4CiX6W9oNVZuWwGLYfDddF), [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Kunuaka Remixes, Pt\. 2](https://open.spotify.com/album/5wigGtgutfTnUYX4djSE4f) | 7:52 | 2022-08-02 | 2023-09-12 |
 | [L Train \- Interlude](https://open.spotify.com/track/3VauKqe12IMSG01zZZQ8Bh) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 0:52 | 2023-05-24 | 2024-01-17 |

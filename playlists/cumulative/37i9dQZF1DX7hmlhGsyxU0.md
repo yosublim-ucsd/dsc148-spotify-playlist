@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-171 songs - 9 hr 16 min
+175 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 | 2022-04-01 |  |
 | [Abendruhe](https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Zauchensee](https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay) | 2:48 | 2022-06-10 | 2022-11-08 |
 | [Ad Infinitum](https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd) | [Vincent Isler](https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj) | [Ad Infinitum](https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA) | 3:11 | 2022-04-01 |  |
+| [Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx) | [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Giazotto: Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh) | 3:26 | 2024-11-15 |  |
 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 | 2022-04-01 |  |
 | [Alleluia](https://open.spotify.com/track/4y9K2DWq34Dvl0ZIQpKWIY) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC), [Brenda J Johnson](https://open.spotify.com/artist/31Z4VufQz8ghh6tjrFBACH) | [Alleluia](https://open.spotify.com/album/7EvQEwTKIBBDYj3ZmNEdaQ) | 4:38 | 2022-09-02 | 2022-11-08 |
 | [Alleluia](https://open.spotify.com/track/65vrADksDXfMKF5GhWO0BJ) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC), [Brenda J Johnson](https://open.spotify.com/artist/31Z4VufQz8ghh6tjrFBACH) | [Alleluia](https://open.spotify.com/album/0IhqRj6DR2onxdysxhkvMz) | 4:38 | 2022-04-01 | 2022-09-17 |
@@ -67,6 +68,7 @@
 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 | 2022-07-01 |  |
 | [Focal Distance](https://open.spotify.com/track/1OwE8VSxCysMIKbkXjsYHo) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Focal Distance](https://open.spotify.com/album/0OdHmtnbiLQ9H03GAIZv07) | 2:22 | 2022-05-27 | 2022-11-08 |
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2022-04-01 |  |
+| [Globes](https://open.spotify.com/track/0oT5AOdk4IUqVDOaIN86ng) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Globes](https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt) | 2:34 | 2024-11-15 |  |
 | [Gravegarden](https://open.spotify.com/track/1tvcVyI7ltFhP3LEK2ThKa) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Serenity](https://open.spotify.com/album/0XkkbHrfzKH5CwrGoK7cEa) | 4:18 | 2023-06-27 | 2024-04-19 |
 | [Gravegarden](https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR) | [JustJosh](https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8) | [Serenity](https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh) | 4:18 | 2022-04-01 |  |
 | [Hansu Sees Sunja](https://open.spotify.com/track/36U06R699jzn3RBSwVVwvb) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc) | [Pachinko: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0IEUf0XBgZGcWJwkwn2i6d) | 1:45 | 2022-04-01 | 2022-07-21 |
@@ -155,6 +157,7 @@
 | [The Bell Calls Us to Vespers](https://open.spotify.com/track/1BxMBPVCgKjbWH2Pt53HRt) | [Andras Farkas Jr\. Ensemble](https://open.spotify.com/artist/6keF6lcJL7o365xcNJftHn) | [Best of Hungarian Gypsy Tunes: Czárdás!](https://open.spotify.com/album/594LQDPo6fNe9A91YnH6pP) | 1:59 | 2022-04-01 | 2022-07-16 |
 | [The Fledgling](https://open.spotify.com/track/3jhBmH1c9mEFDEo0Cjv3do) | [Hudson Swan](https://open.spotify.com/artist/5OoBUMLqcpMNSC2ynpz6nF), [The Hudson Swan Band](https://open.spotify.com/artist/2OV1EjiV1qmDGRWbwsJyHC) | [Best of Scottish Fiddle](https://open.spotify.com/album/6Jo9NjokJo56iX3xA5b3md) | 5:44 | 2022-04-01 | 2022-07-22 |
 | [The Green Light \(The Great Gatsby\) \- Piano Version](https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U) | [Je Suis Parte](https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63) | [The Green Light \(The Great Gatsby\) \[Piano Version\]](https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd) | 2:17 | 2022-04-01 |  |
+| [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 | 2024-11-15 |  |
 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 | 2022-07-15 |  |
 | [The Nude and the Quiet](https://open.spotify.com/track/2CN8IJevYAqjFUHknsdC8E) | [Tambour](https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi) | [Chapitre I](https://open.spotify.com/album/1T9ZEbw8xXTWjBz5z0440N) | 6:47 | 2022-04-22 | 2022-07-22 |
 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 | 2022-04-01 |  |
@@ -177,6 +180,7 @@
 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 | 2022-08-12 |  |
 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 | 2022-07-01 | 2022-11-08 |
 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 | 2022-06-03 |  |
+| [Your Spell](https://open.spotify.com/track/5U1D092cYFEXTZVjvIXLuF) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Your Spell](https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq) | 2:52 | 2024-11-15 |  |
 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 | 2022-06-24 |  |
 | [Zerachiel](https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF) | 3:11 | 2023-06-27 | 2024-04-19 |
 

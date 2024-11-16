@@ -1965,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Merry",
+        "url": "https://open.spotify.com/album/06zOGDonBOy9UwMMFOj7ox"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169776,
+      "name": "Merry",
+      "url": "https://open.spotify.com/track/7qJs05x48Y4qDyTKULTb3s"
+    },
+    {
+      "album": {
         "name": "Christmas Piano with Alexis",
         "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
       },

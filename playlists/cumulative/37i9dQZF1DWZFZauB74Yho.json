@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Yonder Mountain String Band",
   "name": "New Grass",
   "tracks": [
     {
@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "And the Cat Came Back",
+        "url": "https://open.spotify.com/album/3xrN6mK6j8XSleABdHryXy"
+      },
+      "artists": [
+        {
+          "name": "Golden Shoals",
+          "url": "https://open.spotify.com/artist/5pEYsS65or7R2MgmSBuO5X"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154813,
+      "name": "And the Cat Came Back",
+      "url": "https://open.spotify.com/track/1zo7s7yyaIPgJspg7RPRw2"
+    },
+    {
+      "album": {
         "name": "Arlington",
         "url": "https://open.spotify.com/album/3H8KcOWrQR6bCjj7O8Tk8V"
       },
@@ -118,6 +136,24 @@
       "duration_ms": 245800,
       "name": "Arlington",
       "url": "https://open.spotify.com/track/12koA2JkTvcMhL7WhHnYmu"
+    },
+    {
+      "album": {
+        "name": "Artful Dodger",
+        "url": "https://open.spotify.com/album/1z0PiEmBTLlGcqABbKqpGL"
+      },
+      "artists": [
+        {
+          "name": "Missy Armstrong",
+          "url": "https://open.spotify.com/artist/6ysW5iTGPo3hoq29T2BjJs"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Artful Dodger",
+      "url": "https://open.spotify.com/track/4b3m7hWnv9xwvufLdE5nJ8"
     },
     {
       "album": {
@@ -464,7 +500,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 163000,
       "name": "Blues of the Night",
       "url": "https://open.spotify.com/track/2EyunhYnQeRspr4ZDMKEZg"
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 238226,
       "name": "Don't Wash Away Our Home",
       "url": "https://open.spotify.com/track/6gVBoKkKOFcN3JyAO4fuLB"
@@ -1138,7 +1174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 159137,
       "name": "Dr. Wily's",
       "url": "https://open.spotify.com/track/1PQrrObvLOU3KkqfQexWLa"
@@ -1214,7 +1250,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 266986,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/672C4cdesruGElPEQYuueq"
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186493,
       "name": "For Everything",
       "url": "https://open.spotify.com/track/7KT2d44IgFO7yy21Oj0okp"
@@ -1404,6 +1440,24 @@
       "duration_ms": 178103,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/2HiHcis6MYpTEIVbHFrMck"
+    },
+    {
+      "album": {
+        "name": "Frog Eyed Puddin'",
+        "url": "https://open.spotify.com/album/2X1TtiKrm58HrlRqNCb7DF"
+      },
+      "artists": [
+        {
+          "name": "The Heard",
+          "url": "https://open.spotify.com/artist/5yJ7U2LmUmamBPHfr750mg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157247,
+      "name": "Frog Eyed Puddin'",
+      "url": "https://open.spotify.com/track/5Kir8WXu4I6LHN00UiXjkK"
     },
     {
       "album": {
@@ -1780,7 +1834,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 268510,
       "name": "High Country Road Trip",
       "url": "https://open.spotify.com/track/3T0aGMpYEoZ5Jgvikk4aZG"
@@ -1885,6 +1939,28 @@
     },
     {
       "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236401,
+      "name": "How Long Gone (with The Earls of Leicester)",
+      "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
+    },
+    {
+      "album": {
         "name": "Hubbardville Store",
         "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
       },
@@ -1984,7 +2060,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 202069,
       "name": "I Can\u2019t Find You at All",
       "url": "https://open.spotify.com/track/0mERVF4Cd50jflV6c51ZKY"
@@ -2132,7 +2208,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183226,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/7DyNpuPR8UCujzxBIdcVjB"
@@ -2555,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Life On The Road",
+        "url": "https://open.spotify.com/album/6rOlqhR1OJEAJO9K71NgTF"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Life On The Road",
+      "url": "https://open.spotify.com/track/4JszQxT7eV52QPT7AoAbMb"
+    },
+    {
+      "album": {
         "name": "All That Will",
         "url": "https://open.spotify.com/album/0k0DE1MYLmDcNTOwIdq9Qp"
       },
@@ -2642,6 +2736,24 @@
       "duration_ms": 396438,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/3kowXiulAQLaoCufDH24tH"
+    },
+    {
+      "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
     },
     {
       "album": {
@@ -3019,6 +3131,24 @@
     },
     {
       "album": {
+        "name": "The EP",
+        "url": "https://open.spotify.com/album/3tqniKwyZzwnPMYJ1ZZ71c"
+      },
+      "artists": [
+        {
+          "name": "Theoretical Blonde",
+          "url": "https://open.spotify.com/artist/6lugwzTLFVT1hWOZiOf2fG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1UwSf49HmEVwB1wdiKPXzf"
+    },
+    {
+      "album": {
         "name": "One Sunray At A Time",
         "url": "https://open.spotify.com/album/6wyosEFDOpn2NlDyNlpKPg"
       },
@@ -3216,7 +3346,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 312120,
       "name": "Pleasantly Aimless",
       "url": "https://open.spotify.com/track/0kpgfRaEePa9yQQR7JjZA0"
@@ -3958,7 +4088,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 272586,
       "name": "Spider on the Banjo",
       "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
@@ -4068,6 +4198,24 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "album": {
+        "name": "Talk About Suffering",
+        "url": "https://open.spotify.com/album/7wIjd6MSsAtokx3PzkpLLN"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Talk About Suffering",
+      "url": "https://open.spotify.com/track/4MYATqnonbWWLMzx2QBfen"
     },
     {
       "album": {
@@ -4498,10 +4646,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 133940,
       "name": "Too Cool",
       "url": "https://open.spotify.com/track/4XXrg1gGffTbij2VT4tXH8"
+    },
+    {
+      "album": {
+        "name": "Gold In Your Pocket",
+        "url": "https://open.spotify.com/album/44cxVggKLCysnAlbNpImT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Klauder",
+          "url": "https://open.spotify.com/artist/2sBoUH8C8jC9dcbdWrg8Ak"
+        },
+        {
+          "name": "Reeb Willms",
+          "url": "https://open.spotify.com/artist/73SuVaIhUuy1FfCCLyX4Cg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/4JY8ZVWeIozQidZVP9L2a3"
     },
     {
       "album": {
@@ -4542,6 +4712,24 @@
       "duration_ms": 220608,
       "name": "Too Stoned To Cry [Feat. Billy Strings]",
       "url": "https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj"
+    },
+    {
+      "album": {
+        "name": "Undercover, Vol. 3",
+        "url": "https://open.spotify.com/album/3aisfH9lAhcT6ruSzRRDbf"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373546,
+      "name": "Touch of Grey",
+      "url": "https://open.spotify.com/track/3wLdZ1BIC6x0yrvGCDqTtk"
     },
     {
       "album": {
@@ -4759,6 +4947,32 @@
     },
     {
       "album": {
+        "name": "Wall Guitar (Since You Said Goodbye)",
+        "url": "https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Wall Guitar (Since You Said Goodbye)",
+      "url": "https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz"
+    },
+    {
+      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/6rmY0t5TkTCJ6MqjN4Sc12"
       },
@@ -4792,6 +5006,24 @@
       "duration_ms": 189887,
       "name": "Wanderers Like Me",
       "url": "https://open.spotify.com/track/1bCgFSfb6Px08in2cw77kR"
+    },
+    {
+      "album": {
+        "name": "Old Riverside",
+        "url": "https://open.spotify.com/album/3VPz8evBSDhyY0GidroTUA"
+      },
+      "artists": [
+        {
+          "name": "Lou Shields",
+          "url": "https://open.spotify.com/artist/7qqH6BuMtGWPckSmgVXMJ6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237506,
+      "name": "Wandering Song",
+      "url": "https://open.spotify.com/track/63UGuJQjBVGnRnGbYV6e8T"
     },
     {
       "album": {

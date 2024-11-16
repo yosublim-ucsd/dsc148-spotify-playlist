@@ -1,12 +1,12 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Littlefingers",
-  "num_followers": 107034,
+  "num_followers": 107052,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyzyEAAAAAB4VdOtnjKXeyUCQShmz79Y",
+  "snapshot_id": "ZzbrSwAAAADHvYY/C5MxiH2XBF+4OF1S",
   "tracks": [
     {
       "added_at": "2024-09-19 17:00:00",
@@ -59,6 +59,22 @@
       "duration_ms": 261000,
       "name": "Chroma",
       "url": "https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP"
+    },
+    {
+      "added_at": "2024-11-15 06:33:47",
+      "album": {
+        "name": "Confide",
+        "url": "https://open.spotify.com/album/4TOZM8lyt2QcpetbyTk0QF"
+      },
+      "artists": [
+        {
+          "name": "Rifki Soeria",
+          "url": "https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT"
+        }
+      ],
+      "duration_ms": 159159,
+      "name": "Confide",
+      "url": "https://open.spotify.com/track/0pXgCM5ieW2462A3MGkbJc"
     },
     {
       "added_at": "2024-11-07 17:00:00",
@@ -353,6 +369,22 @@
       "url": "https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O"
     },
     {
+      "added_at": "2024-11-15 06:33:47",
+      "album": {
+        "name": "The Moment with You",
+        "url": "https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL"
+      },
+      "artists": [
+        {
+          "name": "Alsa",
+          "url": "https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF"
+        }
+      ],
+      "duration_ms": 298608,
+      "name": "The Moment With You",
+      "url": "https://open.spotify.com/track/3cG6irfHaVbQfEZEShv9V2"
+    },
+    {
       "added_at": "2024-09-19 17:00:00",
       "album": {
         "name": "Music To My Soul (Special)",
@@ -445,6 +477,26 @@
       "url": "https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2"
     },
     {
+      "added_at": "2024-11-15 06:33:47",
+      "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/07m8bchmHOvYqyu8mGmeQS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Situmorang",
+          "url": "https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW"
+        },
+        {
+          "name": "Sri Hanuraga",
+          "url": "https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2"
+        }
+      ],
+      "duration_ms": 104303,
+      "name": "Opening a New Door",
+      "url": "https://open.spotify.com/track/1ch8swW6xldwsUsxvQP7DF"
+    },
+    {
       "added_at": "2024-09-19 17:00:00",
       "album": {
         "name": "Layla",
@@ -517,6 +569,22 @@
       "url": "https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp"
     },
     {
+      "added_at": "2024-11-15 06:33:47",
+      "album": {
+        "name": "Djanger Bali (2023 Remaster)",
+        "url": "https://open.spotify.com/album/7bMEHAHVHc6hxfLEWnWTqb"
+      },
+      "artists": [
+        {
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+        }
+      ],
+      "duration_ms": 322152,
+      "name": "Burungkaka Tua",
+      "url": "https://open.spotify.com/track/1ZjQYu0Pcc0lw6thWyzbGv"
+    },
+    {
       "added_at": "2024-09-19 17:00:00",
       "album": {
         "name": "Ada Anak Bertanya Pada Bapaknya",
@@ -563,6 +631,38 @@
       "duration_ms": 195700,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR"
+    },
+    {
+      "added_at": "2024-11-15 06:33:47",
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA"
+      },
+      "artists": [
+        {
+          "name": "Anastasya Poetri",
+          "url": "https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy"
+    },
+    {
+      "added_at": "2024-11-15 06:33:47",
+      "album": {
+        "name": "Dear Pops (My Tribute)",
+        "url": "https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        }
+      ],
+      "duration_ms": 380121,
+      "name": "Ode To Benny Liku",
+      "url": "https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76"
     },
     {
       "added_at": "2024-09-19 17:00:00",
@@ -1147,42 +1247,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "Small Steps - EP",
-        "url": "https://open.spotify.com/album/3DCU0szK5y7UMaLqUZffOW"
-      },
-      "artists": [
-        {
-          "name": "Rhesa Siregar",
-          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
-        }
-      ],
-      "duration_ms": 115289,
-      "name": "Small Steps",
-      "url": "https://open.spotify.com/track/1GTurAcZYchUWusuE9NNLh"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "24 Moments",
-        "url": "https://open.spotify.com/album/04epeFxXyHQmJylNnF4hOO"
-      },
-      "artists": [
-        {
-          "name": "Barry Likumahuwa",
-          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
-        },
-        {
-          "name": "The Rhythm Service",
-          "url": "https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "24 Moments",
-      "url": "https://open.spotify.com/track/0QGKkVhjXEt4WebeQorhlz"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "In the Sweet By and By",
         "url": "https://open.spotify.com/album/5LzNq8SXfYHla2FyozYzf0"
       },
@@ -1279,38 +1343,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "BTVC",
-        "url": "https://open.spotify.com/album/52QTTpeSM35ixuCvnoJ0w3"
-      },
-      "artists": [
-        {
-          "name": "Batavia Collective",
-          "url": "https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Senopati Shuffle",
-      "url": "https://open.spotify.com/track/5LwukjIPavFO64vjVfhLQa"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Joni Indo",
-        "url": "https://open.spotify.com/album/06xMum9P424YVJqSIAyD9D"
-      },
-      "artists": [
-        {
-          "name": "Batavia Collective",
-          "url": "https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ"
-        }
-      ],
-      "duration_ms": 285500,
-      "name": "Joni Indo",
-      "url": "https://open.spotify.com/track/7yb4Tmncgrdz4EHTQNXpvu"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "Surya Sewana",
         "url": "https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3"
       },
@@ -1339,38 +1371,6 @@
       "duration_ms": 254666,
       "name": "Daffy",
       "url": "https://open.spotify.com/track/3JNKp9XdviZsOadURpU88i"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "3 Days Before",
-        "url": "https://open.spotify.com/album/4Y6aHnwn95PzJtibuFE0y1"
-      },
-      "artists": [
-        {
-          "name": "Dimas Pradipta",
-          "url": "https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD"
-        },
-        {
-          "name": "Barry Likumahuwa",
-          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
-        },
-        {
-          "name": "Bass G",
-          "url": "https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ"
-        },
-        {
-          "name": "Marthin Siahaan",
-          "url": "https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD"
-        },
-        {
-          "name": "Zorsy",
-          "url": "https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6"
-        }
-      ],
-      "duration_ms": 674209,
-      "name": "3 Days Before",
-      "url": "https://open.spotify.com/track/3cUWmQ32KNBeNZyK90yWKX"
     },
     {
       "added_at": "2024-09-19 17:00:00",
@@ -1571,22 +1571,6 @@
       "duration_ms": 230178,
       "name": "Dipeluk Rasa",
       "url": "https://open.spotify.com/track/2qfKATrggobqUEzUsJT6Fk"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Fonk in the City",
-        "url": "https://open.spotify.com/album/5o5IiiD5liCqOuJe9ez356"
-      },
-      "artists": [
-        {
-          "name": "Saxx in the City",
-          "url": "https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG"
-        }
-      ],
-      "duration_ms": 250833,
-      "name": "Fonk in the City",
-      "url": "https://open.spotify.com/track/0QQKhBgzF6SLBgzWYeEgnm"
     },
     {
       "added_at": "2024-09-19 17:00:00",

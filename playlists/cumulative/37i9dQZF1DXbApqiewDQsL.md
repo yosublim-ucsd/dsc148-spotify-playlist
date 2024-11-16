@@ -4,7 +4,7 @@
 
 > Fresh new music by independent artists and labels, featuring Neto Becerra Updates every Wednesday
 
-294 songs - 15 hr 37 min
+296 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Esta Bien](https://open.spotify.com/track/43qOZz2VgaFBKanqTMn5B8) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO) | [PURO MENDEZ](https://open.spotify.com/album/4p2Fsj9146LZMr7gEdHx0H) | 2:16 | 2024-10-31 |  |
 | [Esta Noche](https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:37 | 2022-05-13 | 2024-04-24 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-05-13 | 2024-04-24 |
+| [Estilo Militar](https://open.spotify.com/track/4PaS9QrY9IqVUh5iAYf2mH) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Estilo Militar](https://open.spotify.com/album/6VgP0bgx5fpyXxqMUT0BB5) | 2:57 | 2024-11-15 |  |
 | [Estoy De Buenas 2](https://open.spotify.com/track/6CUnjwsIkBAphUkGV6q5lc) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy de Buenas 2](https://open.spotify.com/album/6N7dE7fvEMV4mKzhy5ozHQ) | 2:05 | 2024-08-07 |  |
 | [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 | 2022-05-13 | 2024-04-24 |
 | [EXCESO](https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [EXCESO](https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb) | 2:22 | 2024-03-15 | 2024-04-24 |
@@ -161,6 +162,7 @@
 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/7wJlEfqBaKiHFU9FFODAne) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro \(Version Deluxe\)](https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX) | 2:25 | 2024-04-24 | 2024-08-08 |
 | [Me Arriesgué](https://open.spotify.com/track/2xHkDozcY9sngR0UVo7cHJ) | [Ernesto Cota](https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw) | [Me Arriesgué](https://open.spotify.com/album/0xJg4J9kXLfO35czJFOvAk) | 3:25 | 2024-09-18 |  |
 | [Me Extraño](https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:11 | 2022-09-02 | 2024-04-24 |
+| [Me Hice Bélico](https://open.spotify.com/track/6YSqNTHjDO01CHuu50eUE3) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Me Hice Bélico](https://open.spotify.com/album/0PklHIYAKaa9ojHys0Ople) | 2:33 | 2024-11-15 |  |
 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 | 2023-05-05 | 2024-04-24 |
 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 | 2022-05-13 | 2024-04-24 |
 | [Me Voy](https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 | 2024-04-24 | 2024-08-08 |

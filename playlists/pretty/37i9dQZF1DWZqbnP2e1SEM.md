@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,960 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,951 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 94 | [Promise](https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Promise](https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP) | 3:02 |
 | 95 | [The Journey](https://open.spotify.com/track/6Jrrjgp9hvVCBKl3L0CF2T) | [Silva City](https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [The Journey](https://open.spotify.com/album/6K2yMO5pAWUO9MU7u68yvk) | 4:01 |
 | 96 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
-| 97 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
-| 98 | [Shout \- Arielle Free Remix / Radio Edit](https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Shout \(Arielle Free Remix\)](https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P) | 3:05 |
+| 97 | [Shout \- Arielle Free Remix / Radio Edit](https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Shout \(Arielle Free Remix\)](https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P) | 3:05 |
+| 98 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
 | 99 | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A) | 3:47 |
 | 100 | [Back \(feat\. Flirta D\)](https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Back \(feat\. Flirta D\)](https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7) | 3:07 |
 

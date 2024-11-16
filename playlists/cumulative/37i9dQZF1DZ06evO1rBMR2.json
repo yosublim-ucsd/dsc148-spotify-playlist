@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 205975,
       "name": "El Corrido De Los Perez",
       "url": "https://open.spotify.com/track/4BLxjH7MYEcnf8UuI739mq"
@@ -690,6 +690,24 @@
       "duration_ms": 173609,
       "name": "La Ram Verde",
       "url": "https://open.spotify.com/track/15yHD5mVhHPk57HKJZneMu"
+    },
+    {
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191791,
+      "name": "La Sota Colorada",
+      "url": "https://open.spotify.com/track/3Pp9mjfO0P1PkwPpd5HlYD"
     },
     {
       "album": {

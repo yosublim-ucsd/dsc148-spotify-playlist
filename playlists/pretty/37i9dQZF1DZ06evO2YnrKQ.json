@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22555,
+  "num_followers": 22561,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAACxgaS2uA9gBZL9y9a59aj9",
+  "snapshot_id": "ZzU9gAAAAAARMpFvejKcHAHyUTCoN2uo",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 228760,
-      "name": "Drunks, Lovers, Sinners and Saints",
-      "url": "https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN"
+      "duration_ms": 226600,
+      "name": "We Are the End",
+      "url": "https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 226600,
-      "name": "We Are the End",
-      "url": "https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn"
+      "duration_ms": 228760,
+      "name": "Drunks, Lovers, Sinners and Saints",
+      "url": "https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN"
     },
     {
       "added_at": null,
@@ -388,25 +388,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 314876,
-      "name": "Adelleda",
-      "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 228817,
-      "name": "Accept Crime",
-      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
+      "duration_ms": 292558,
+      "name": "Little Girls Pointing and Laughing",
+      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 228817,
+      "name": "Accept Crime",
+      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
     },
     {
       "added_at": null,
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 292558,
-      "name": "Little Girls Pointing and Laughing",
-      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
+      "duration_ms": 314876,
+      "name": "Adelleda",
+      "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 195826,
       "name": "Emerald Street",
       "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 182820,
-      "name": "You Burn First",
-      "url": "https://open.spotify.com/track/35tsomku93trCDwRe1W9bx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 257106,
       "name": "Old Crows",
       "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 182820,
+      "name": "You Burn First",
+      "url": "https://open.spotify.com/track/35tsomku93trCDwRe1W9bx"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 249804,
-      "name": "The Northern",
-      "url": "https://open.spotify.com/track/5obWUTDt34b0IGGsstvUTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 201373,
       "name": "Sons of Privilege",
       "url": "https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 249804,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/5obWUTDt34b0IGGsstvUTV"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crisis (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "Thrones",
-      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 225400,
       "name": "Heading for the Sun",
       "url": "https://open.spotify.com/track/2ntCyFsuSCjH9jPTnvBkck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crisis (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "Thrones",
+      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
     }
   ],
   "unique_name": "This Is Alexisonfire",

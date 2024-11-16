@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Brinca",
+        "url": "https://open.spotify.com/album/0l5gyn7Ilgv0PuFLsilimC"
+      },
+      "artists": [
+        {
+          "name": "Gabby B",
+          "url": "https://open.spotify.com/artist/1CB4dfzr8SJj2OwLjznm5s"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140286,
+      "name": "Brinca",
+      "url": "https://open.spotify.com/track/2q6s1xHTlk5ZJb49wndkrf"
+    },
+    {
+      "album": {
         "name": "BRINCANDO",
         "url": "https://open.spotify.com/album/4BgSbrA8QJn6ygkAbWYkb5"
       },
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155000,
       "name": "Garota Do Brasil",
       "url": "https://open.spotify.com/track/1JDWgQyZR87Bfc4EJKwSB2"
@@ -1514,7 +1536,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155091,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/6RQD547cATemjJkm1po7Fu"
@@ -3218,6 +3240,28 @@
       "duration_ms": 115645,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/34DewaatzkcYsVUXSbuCgs"
+    },
+    {
+      "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Fazil",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Johnny Drille and Don Jazzy",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -648,6 +648,36 @@
       "duration_ms": 230467,
       "name": "Abundance",
       "url": "https://open.spotify.com/track/0ZfQ4Oh8K8jbzsojYXpDTv"
+    },
+    {
+      "album": {
+        "name": "Adanna",
+        "url": "https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Adanna",
+      "url": "https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz"
     },
     {
       "album": {
@@ -1522,6 +1552,28 @@
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
+    },
+    {
+      "album": {
+        "name": "Hard Guy Confessions",
+        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234767,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
     },
     {
       "album": {
@@ -6773,6 +6825,28 @@
     },
     {
       "album": {
+        "name": "Baddies Love X",
+        "url": "https://open.spotify.com/album/0z3OH64M3QfZVlAyRMlo7B"
+      },
+      "artists": [
+        {
+          "name": "Major x",
+          "url": "https://open.spotify.com/artist/7gidyRKuc9xiuuUXZAIw0I"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146155,
+      "name": "Gen-Z Baddies",
+      "url": "https://open.spotify.com/track/5pmgEg9Dl2fZsmvuhqkre5"
+    },
+    {
+      "album": {
         "name": "Gen-Z Fuji",
         "url": "https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9"
       },
@@ -8272,7 +8346,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 131590,
       "name": "I Decide",
       "url": "https://open.spotify.com/track/5ZHbW3KbAkz9JQ40u51r6k"
@@ -8674,6 +8748,28 @@
       "duration_ms": 198676,
       "name": "IDT",
       "url": "https://open.spotify.com/track/4zXMJEavXIWMG9LZHE50Tx"
+    },
+    {
+      "album": {
+        "name": "If I Dey Lie (with Crayon)",
+        "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
+      },
+      "artists": [
+        {
+          "name": "Almost Joey",
+          "url": "https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "If I Dey Lie (with Crayon)",
+      "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
     },
     {
       "album": {
@@ -11670,7 +11766,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 165283,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/7GQWq2bKlhGTEEkXMQkloe"
@@ -12451,6 +12547,24 @@
     },
     {
       "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/0U3lIx96r3jaV0PGe8W9cE"
+      },
+      "artists": [
+        {
+          "name": "Di'Ja",
+          "url": "https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/0gxt0HVcwztpRHgwKHtjg7"
+    },
+    {
+      "album": {
         "name": "Muse - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ"
       },
@@ -12618,7 +12732,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 127454,
       "name": "My Lily",
       "url": "https://open.spotify.com/track/4uf1W0eA7iKN42g1VC5C77"
@@ -13624,7 +13738,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179418,
       "name": "Odo",
       "url": "https://open.spotify.com/track/01EWXmLQteTuV5Zj3LusOS"
@@ -14168,7 +14282,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 170736,
       "name": "One Night",
       "url": "https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3"
@@ -16436,6 +16550,28 @@
       "duration_ms": 186923,
       "name": "Run Me Love",
       "url": "https://open.spotify.com/track/7ce9vRVRbcy6JDwhCwrNKM"
+    },
+    {
+      "album": {
+        "name": "In Pursuit Of Happiness",
+        "url": "https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        },
+        {
+          "name": "Seyyoh",
+          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8"
     },
     {
       "album": {
@@ -21220,7 +21356,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"

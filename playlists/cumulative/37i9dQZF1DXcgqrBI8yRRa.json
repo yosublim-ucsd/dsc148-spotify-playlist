@@ -10083,6 +10083,28 @@
     },
     {
       "album": {
+        "name": "Soso (Max Hurrell Remix)",
+        "url": "https://open.spotify.com/album/3yUz1VQQuZGvdheHrUB3GS"
+      },
+      "artists": [
+        {
+          "name": "Kabusa Oriental Choir",
+          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
+        },
+        {
+          "name": "Max Hurrell",
+          "url": "https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Soso - Edit",
+      "url": "https://open.spotify.com/track/7LCmAIa06v9dwXxvPQKKEp"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },

@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Chopin: 24 Preludes, Op. 28: No. 4 in E Minor. Largo",
+        "url": "https://open.spotify.com/album/0WZabZ5Xaqgsqod0xY7891"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146906,
+      "name": "24 Preludes, Op. 28: No. 4 in E Minor. Largo",
+      "url": "https://open.spotify.com/track/3maBF9jM0ICV3qSKmvNvIu"
+    },
+    {
+      "album": {
         "name": "Penderecki: Sinfoniettas - Oboe Capriccio",
         "url": "https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu"
       },

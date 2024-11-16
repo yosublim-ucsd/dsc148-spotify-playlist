@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421559,
+      "name": "Forever Melancholia",
+      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
+    },
+    {
+      "album": {
         "name": "Resident of Evil",
         "url": "https://open.spotify.com/album/6scBDlzufkha65gcJlfLTN"
       },
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 163215,
       "name": "I Am Cool",
       "url": "https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6"

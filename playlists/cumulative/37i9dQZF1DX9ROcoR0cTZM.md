@@ -1,0 +1,32 @@
+[pretty](/playlists/pretty/37i9dQZF1DX9ROcoR0cTZM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ROcoR0cTZM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ROcoR0cTZM)
+
+### [This Is Jin](https://open.spotify.com/playlist/37i9dQZF1DX9ROcoR0cTZM)
+
+> Are you 'Happy' with Jin? 💜
+
+20 songs - 57 min 58 sec
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [Abyss](https://open.spotify.com/track/40BomFCBuJok3OjxM9oG7e) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Abyss](https://open.spotify.com/album/0vyG4FyBIHURVJjQT0RDvG) | 2:35 | 2024-11-15 |  |
+| [Another Level](https://open.spotify.com/track/4xbq37lr4SuP3kuxj9y8gp) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:42 | 2024-11-15 |  |
+| [Awake](https://open.spotify.com/track/1GZ4rjIbktlYy1n7zmyCmq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:46 | 2024-11-15 |  |
+| [Epiphany](https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:00 | 2024-11-15 |  |
+| [Falling](https://open.spotify.com/track/3DeK5G7OhuJ1P1462XXgIu) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:58 | 2024-11-15 |  |
+| [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/1b6qYBwDMBpFylGVT4PRgD) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:57 | 2024-11-15 |  |
+| [I will come to you](https://open.spotify.com/track/5c2BZj7YSGHwvjf2CtO2S4) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:36 | 2024-11-15 |  |
+| [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 | 2024-11-15 |  |
+| [It's Definitely You](https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 | 2024-11-15 |  |
+| [It's Definitely You \- Instrumental](https://open.spotify.com/track/1bItNehmEre5eCsR5IVUNX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 | 2024-11-15 |  |
+| [Jin's Message \- Album 'Happy'](https://open.spotify.com/track/6vsj18K5m0OBoRZxRzFxZc) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [This Is Jin \- Audio Liner](https://open.spotify.com/album/5olFX9UHaONUdMvR1VxUuf) | 0:30 | 2024-11-15 |  |
+| [Jin's Message \- To\. ARMY](https://open.spotify.com/track/4tjluLOtTQnbDNsqVAPwTu) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [This Is Jin \- Audio Liner](https://open.spotify.com/album/5olFX9UHaONUdMvR1VxUuf) | 0:22 | 2024-11-15 |  |
+| [Moon](https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:28 | 2024-11-15 |  |
+| [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 |  |
+| [Super Tuna](https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT) | 1:54 | 2024-11-15 |  |
+| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2024-11-15 |  |
+| [This Is Jin \- Intro](https://open.spotify.com/track/49JqqzD3qEcyUy0FIcyUao) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [This Is Jin \- Audio Liner](https://open.spotify.com/album/5olFX9UHaONUdMvR1VxUuf) | 0:19 | 2024-11-15 |  |
+| [Tonight](https://open.spotify.com/track/2P6PLe4ojigLUp4CWMkcAI) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Tonight](https://open.spotify.com/album/4CwQ2ExjGm91njJC8dWWiv) | 2:58 | 2024-11-15 |  |
+| [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2024-11-15 |  |
+| [Yours \- Instrumental](https://open.spotify.com/track/6zSTivatZLiVJ63bRzjIF1) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2024-11-15 |  |
+
+\*This playlist was first scraped on 2024-11-16. Prior content cannot be recovered.

@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/79GbH6URwEPakKYiqvUiXN"
+    },
+    {
+      "album": {
         "name": "A Little Fun EP",
         "url": "https://open.spotify.com/album/08DaiRJietHugD3s69qrhO"
       },
@@ -933,6 +959,28 @@
     },
     {
       "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/5wZuG1yNstkHxyfNq7Twil"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "Dave Spoon",
+          "url": "https://open.spotify.com/artist/5PzvgD5FRnWpc5fGOLoNVO"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184855,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/32mSh9HjMRFZV1seZJwgtn"
+    },
+    {
+      "album": {
         "name": "ATALAKOU / TORERO",
         "url": "https://open.spotify.com/album/1ahkJyO4CfYhM4wJHW7jDx"
       },
@@ -1116,7 +1164,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186000,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/1leGYkX6mJj5s7d2RmGiFn"
@@ -1226,7 +1274,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 135572,
       "name": "Beat Go On",
       "url": "https://open.spotify.com/track/2K0tdzR2jLuE1jxSp7toCM"
@@ -2005,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Bring Down",
+        "url": "https://open.spotify.com/album/6ZDhe5lkc9SVa6fccIYuj8"
+      },
+      "artists": [
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Bring Down",
+      "url": "https://open.spotify.com/track/0CbHfPhhYPQ5wQetSlwh83"
+    },
+    {
+      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/1xayuK3NQ4b6TmohBRg1Ri"
       },
@@ -2160,6 +2226,28 @@
       "duration_ms": 203442,
       "name": "Britney",
       "url": "https://open.spotify.com/track/0yY2A8OQVJMSSRFoFy13SL"
+    },
+    {
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203442,
+      "name": "Britney",
+      "url": "https://open.spotify.com/track/3yaKVNOMDF13VbqCyY8e1S"
     },
     {
       "album": {
@@ -2390,6 +2478,24 @@
       "duration_ms": 222497,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/1uw6gR8ckFVrDPXixj7jrQ"
+    },
+    {
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165581,
+      "name": "Came To The Club",
+      "url": "https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0"
     },
     {
       "album": {
@@ -3022,6 +3128,32 @@
       "duration_ms": 359069,
       "name": "Coisa Nova",
       "url": "https://open.spotify.com/track/2ALbXgcemklroEhlHDsoC7"
+    },
+    {
+      "album": {
+        "name": "Coldest",
+        "url": "https://open.spotify.com/album/04GDSiAAfU7i0cCmxZ3Gf3"
+      },
+      "artists": [
+        {
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
+        },
+        {
+          "name": "SPACEWALK",
+          "url": "https://open.spotify.com/artist/2uvFMBkYjjkXZJNcdslxMr"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Coldest",
+      "url": "https://open.spotify.com/track/6CaG0rMH4PRamaSM7haodh"
     },
     {
       "album": {
@@ -3869,6 +4001,28 @@
     },
     {
       "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221448,
+      "name": "Dirty Cash (Money Talks)",
+      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
+    },
+    {
+      "album": {
         "name": "Dirty Secret",
         "url": "https://open.spotify.com/album/2MjsOdIeKpl0xtr1nqW0PN"
       },
@@ -4134,6 +4288,28 @@
       "duration_ms": 329374,
       "name": "Down",
       "url": "https://open.spotify.com/track/1hMQunGeJG1CTipKuGftZL"
+    },
+    {
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "INDECK.",
+          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200944,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
     },
     {
       "album": {
@@ -4548,7 +4724,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 170390,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
@@ -5070,7 +5246,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 149653,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3ox6M4fQ9p6hFumdoZjPfn"
@@ -5621,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Get Hyped",
+        "url": "https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "Get Hyped",
+      "url": "https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0"
+    },
+    {
+      "album": {
         "name": "Get It On (Radio Edit)",
         "url": "https://open.spotify.com/album/6Dol5mYWRPWgYcN6cU0mxm"
       },
@@ -6012,7 +6206,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 209131,
       "name": "Givin My Love",
       "url": "https://open.spotify.com/track/72BOFHLIC8NmzM2RQT5ECH"
@@ -6201,6 +6395,24 @@
     },
     {
       "album": {
+        "name": "Grindhouse",
+        "url": "https://open.spotify.com/album/2hmpO5xhgvo9EXM7JEUm5s"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS"
+    },
+    {
+      "album": {
         "name": "Gringada",
         "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
       },
@@ -6282,6 +6494,24 @@
       "duration_ms": 170011,
       "name": "Hand Clap",
       "url": "https://open.spotify.com/track/6KoMLqYDN1jA4pchYgJNMa"
+    },
+    {
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/24I0XObHKb4Dr6XTUlZYa3"
     },
     {
       "album": {
@@ -6580,7 +6810,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 235238,
       "name": "Hola Venga",
       "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
@@ -6956,6 +7186,28 @@
       "duration_ms": 202972,
       "name": "I Like Dancing",
       "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
+    },
+    {
+      "album": {
+        "name": "I TOLD YA",
+        "url": "https://open.spotify.com/album/6DM7BdltRh8frEqyabx4pp"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Zekey",
+          "url": "https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172769,
+      "name": "I TOLD YA",
+      "url": "https://open.spotify.com/track/4ewH8JfcFyfTgsU6Nz55a3"
     },
     {
       "album": {
@@ -7384,7 +7636,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 207536,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/6ec74fiU1rtL1WBmXINs26"
@@ -8016,7 +8268,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183234,
       "name": "Let The Bassline",
       "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
@@ -8474,7 +8726,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183402,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/56oSAE73OjWcUeXUafx0RV"
@@ -8925,6 +9177,28 @@
     },
     {
       "album": {
+        "name": "Mezcal Bounce",
+        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kidoo",
+          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Mezcal Bounce",
+      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/3tEHRTC5D8fFRCp6hkUCCV"
       },
@@ -9195,6 +9469,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/3NYXKYSAO7WwAv2gnIlm7H"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191166,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH"
+    },
+    {
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/490qEr8MS2J5jZ1qkeIuvt"
       },
@@ -9286,6 +9578,24 @@
       "duration_ms": 204757,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
+    },
+    {
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166313,
+      "name": "Naughty Sax",
+      "url": "https://open.spotify.com/track/0tIZdfCSOK2isSINnEgC4a"
     },
     {
       "album": {
@@ -9687,6 +9997,28 @@
     },
     {
       "album": {
+        "name": "Not Giving Up (Crusy Remix)",
+        "url": "https://open.spotify.com/album/6LwRb25tWFY7V1g0YglwZz"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Not Giving Up - Crusy Remix",
+      "url": "https://open.spotify.com/track/3r6DCC4cFq5UQRmMO0h8iQ"
+    },
+    {
+      "album": {
         "name": "Not Going Back",
         "url": "https://open.spotify.com/album/5HZYrVKS4zRcsdpxw7h1K0"
       },
@@ -9936,7 +10268,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 360136,
       "name": "One Foot In",
       "url": "https://open.spotify.com/track/3uRlAthOkDm0TNK2UuQHEs"
@@ -10008,7 +10340,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215040,
       "name": "One With You",
       "url": "https://open.spotify.com/track/3FaDhONoKASxuOjqQsPnJ8"
@@ -10238,7 +10570,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 166875,
       "name": "Paddling Out",
       "url": "https://open.spotify.com/track/7uUxuvyPhUrb2SeqH46hQZ"
@@ -10264,7 +10596,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 203636,
       "name": "palm of my hands - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
@@ -10428,7 +10760,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 167441,
       "name": "Pasto Y Perico (feat Jay Vazquez)",
       "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
@@ -10822,7 +11154,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 187008,
       "name": "Praise To The Bass",
       "url": "https://open.spotify.com/track/79dJRAdykQcSXlGTKdMThu"
@@ -11621,6 +11953,28 @@
     },
     {
       "album": {
+        "name": "Run From Me",
+        "url": "https://open.spotify.com/album/1XRhepAROO6tDpFgsi39zx"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180100,
+      "name": "Run From Me",
+      "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
+    },
+    {
+      "album": {
         "name": "Runny Nose",
         "url": "https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34"
       },
@@ -11644,6 +11998,28 @@
       "duration_ms": 161221,
       "name": "Runny Nose",
       "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
+    },
+    {
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/2ccPUuixcwvZSGJeOdCOy2"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206050,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
     },
     {
       "album": {
@@ -12340,7 +12716,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 151874,
       "name": "Shaky",
       "url": "https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap"
@@ -12676,7 +13052,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 161953,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/5jdSp3QthmtzUmc0pJtlMB"
@@ -12862,6 +13238,24 @@
       "duration_ms": 240000,
       "name": "So Good - Heat Mix",
       "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
+    },
+    {
+      "album": {
+        "name": "Socket NRG",
+        "url": "https://open.spotify.com/album/6jeUG47JydjU9KvCWFkvVg"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152889,
+      "name": "Socket NRG",
+      "url": "https://open.spotify.com/track/4zmF7aPltz7PNXBoISb77B"
     },
     {
       "album": {
@@ -14394,7 +14788,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
@@ -14518,7 +14912,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 202380,
       "name": "Time To Go",
       "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
@@ -15595,6 +15989,28 @@
     },
     {
       "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193139,
+      "name": "When The Bass Kicks In",
+      "url": "https://open.spotify.com/track/1aDX4Kdor2iXUYNl4aqnlB"
+    },
+    {
+      "album": {
         "name": "When The Bass Kicks In",
         "url": "https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23"
       },
@@ -15610,7 +16026,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 193139,
       "name": "When The Bass Kicks In",
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"

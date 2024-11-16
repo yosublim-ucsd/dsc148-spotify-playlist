@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Stela Cole",
+  "description": "Dark, hard hitting pop. Cover: Zoe Ko",
   "name": "SALT",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 140925,
       "name": "bite the bullet",
       "url": "https://open.spotify.com/track/5CspzXgtgJH2pSpDxQWjgo"
@@ -2542,6 +2542,24 @@
       "duration_ms": 183108,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn"
+    },
+    {
+      "album": {
+        "name": "Cheap Cherry Bubblegum",
+        "url": "https://open.spotify.com/album/3SsXl2bAwXABX1pbIrNd1G"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Cheap Cherry Bubblegum",
+      "url": "https://open.spotify.com/track/68CZHScUMvCAIpyfOFkqWu"
     },
     {
       "album": {
@@ -3695,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Do You Hate Me? EP",
+        "url": "https://open.spotify.com/album/0abHrs7DkJU4rXHgCCBtgt"
+      },
+      "artists": [
+        {
+          "name": "Tender Misfit",
+          "url": "https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Do You Hate Me?",
+      "url": "https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m"
+    },
+    {
+      "album": {
         "name": "Doing Better",
         "url": "https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L"
       },
@@ -4666,6 +4702,24 @@
       "duration_ms": 170736,
       "name": "Fixer Upper",
       "url": "https://open.spotify.com/track/75u1ZQkdlnTO0PuFFs271F"
+    },
+    {
+      "album": {
+        "name": "Flame (from the Netflix Series \"Jentry Chau vs the Underworld\")",
+        "url": "https://open.spotify.com/album/4eXphk6GWepEqGb9HsE0sk"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134509,
+      "name": "Flame (from the Netflix Series \"Jentry Chau vs the Underworld\")",
+      "url": "https://open.spotify.com/track/5tw1Ob0E4iRY8pjvgFk7oU"
     },
     {
       "album": {
@@ -6695,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "i wish",
+        "url": "https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190540,
+      "name": "i wish",
+      "url": "https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm"
+    },
+    {
+      "album": {
         "name": "I Wish I Gave You Hell",
         "url": "https://open.spotify.com/album/08s3DeMH86rfM9Nso6qqB3"
       },
@@ -7428,7 +7500,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 138549,
       "name": "Kiss My (Ah)",
       "url": "https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s"
@@ -8038,7 +8110,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 172094,
       "name": "Love Always Knocks Me Out",
       "url": "https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR"
@@ -8132,6 +8204,24 @@
       "duration_ms": 181610,
       "name": "love me ugly",
       "url": "https://open.spotify.com/track/1eZVscZmGIo2g0FdtEbHIc"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122669,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M"
     },
     {
       "album": {
@@ -12486,7 +12576,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 122386,
       "name": "supermodel",
       "url": "https://open.spotify.com/track/1Y0Sea3Nan8ZbL7HKsneY1"
@@ -14328,7 +14418,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 136276,
       "name": "What Girls Do",
       "url": "https://open.spotify.com/track/7D3xPNBJRaGB7XBFYF1By4"

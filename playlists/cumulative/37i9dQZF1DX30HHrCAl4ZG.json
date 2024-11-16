@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Mk.gee",
+  "description": "Explore all things indie rock right now. Featuring music from Medium Build",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 199000,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 247000,
       "name": "Bells and Whistles",
       "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
@@ -4801,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "This Could All Go Nowhere",
+        "url": "https://open.spotify.com/album/2hHmgChtPKX147WUQHEKEk"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "Calling Cards",
+      "url": "https://open.spotify.com/track/6ICHk9daoZTX7wPTiEG67R"
+    },
+    {
+      "album": {
         "name": "can we change the subject?",
         "url": "https://open.spotify.com/album/3nunKtSZya6RJ1uuaozqYr"
       },
@@ -6729,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "Marietta",
+        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147938,
+      "name": "Dad's 4Runner",
+      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
+    },
+    {
+      "album": {
         "name": "Daily News",
         "url": "https://open.spotify.com/album/1zvGUFwtupod7nYJ9oziqO"
       },
@@ -7504,7 +7540,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183857,
       "name": "Dig Your Man",
       "url": "https://open.spotify.com/track/0I2wfSfWHOu5vn1LyPN67P"
@@ -16019,6 +16055,24 @@
     },
     {
       "album": {
+        "name": "Like The End",
+        "url": "https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319561,
+      "name": "Like The End",
+      "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
+    },
+    {
+      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs"
       },
@@ -19909,6 +19963,24 @@
     },
     {
       "album": {
+        "name": "All Pleasure",
+        "url": "https://open.spotify.com/album/5m12jRRk1yITUd7s6KfMCJ"
+      },
+      "artists": [
+        {
+          "name": "THUS LOVE",
+          "url": "https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230906,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/6PuqQXLHlsKM4f8NwE87r8"
+    },
+    {
+      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -20634,6 +20706,24 @@
       "duration_ms": 173643,
       "name": "PEOPLE FUEL",
       "url": "https://open.spotify.com/track/4mos7PoOTESMcxKZqudrRe"
+    },
+    {
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
       "album": {
@@ -22064,7 +22154,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 166576,
       "name": "Riff Before Work",
       "url": "https://open.spotify.com/track/0wFpbcKr0QhZjmobFZMBNz"
@@ -22740,7 +22830,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 269800,
       "name": "Scream from New York, NY",
       "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
@@ -23480,7 +23570,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 203769,
       "name": "Sick Of The Blues",
       "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
@@ -23516,7 +23606,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 196440,
       "name": "Sick Sweet",
       "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
@@ -28475,6 +28565,24 @@
     },
     {
       "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/56FhBk0b8qkkX7i2bF08Pe"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230136,
+      "name": "Under Fire",
+      "url": "https://open.spotify.com/track/1cGPRJjVxwXEPsBCQIo9rO"
+    },
+    {
+      "album": {
         "name": "under your tongue",
         "url": "https://open.spotify.com/album/4wPePRy9BV6lmm4wMw3TMH"
       },
@@ -30450,7 +30558,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 181480,
       "name": "words fell out",
       "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"

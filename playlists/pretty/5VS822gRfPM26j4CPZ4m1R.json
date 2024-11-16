@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 17237,
+  "num_followers": 17235,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALnv03MaDygWHN3zmuykktEAzMr20Q",
+  "snapshot_id": "AAALrkCeXtRMvTCx3FiQesm10eqD/gZA",
   "tracks": [
     {
       "added_at": "2024-11-02 09:39:57",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-25 08:54:21",
       "album": {
-        "name": "Happily Depressed",
-        "url": "https://open.spotify.com/album/67vPoP3JN3BVOjAEnk4XcF"
-      },
-      "artists": [
-        {
-          "name": "Lzr",
-          "url": "https://open.spotify.com/artist/0jh42W5DKhfcwIvubk9fzd"
-        }
-      ],
-      "duration_ms": 151782,
-      "name": "Happily Depressed",
-      "url": "https://open.spotify.com/track/1dqWCT93lt1LEAfIC3LyGI"
-    },
-    {
-      "added_at": "2023-10-25 08:54:21",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -1695,22 +1679,6 @@
       "duration_ms": 201857,
       "name": "Right Hand Blue",
       "url": "https://open.spotify.com/track/0wPbTVyhS8MkV2xsONKdr1"
-    },
-    {
-      "added_at": "2023-10-25 08:54:21",
-      "album": {
-        "name": "Austria",
-        "url": "https://open.spotify.com/album/41FQnDMAsOTlXiIPINbNVJ"
-      },
-      "artists": [
-        {
-          "name": "Lzr",
-          "url": "https://open.spotify.com/artist/0jh42W5DKhfcwIvubk9fzd"
-        }
-      ],
-      "duration_ms": 210274,
-      "name": "Austria",
-      "url": "https://open.spotify.com/track/15iuZiEeZs4RbEX37ddk51"
     },
     {
       "added_at": "2023-10-25 08:54:21",
@@ -9211,6 +9179,230 @@
       "duration_ms": 249761,
       "name": "Divine Energy",
       "url": "https://open.spotify.com/track/5Z7KxFM4Rh9G30pT7p6PRs"
+    },
+    {
+      "added_at": "2024-11-15 10:35:26",
+      "album": {
+        "name": "Open Source",
+        "url": "https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs"
+      },
+      "artists": [
+        {
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/6up5sjQiW3z6zdmVZhcriM"
+    },
+    {
+      "added_at": "2024-11-15 10:35:46",
+      "album": {
+        "name": "Open Source",
+        "url": "https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs"
+      },
+      "artists": [
+        {
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/2tUC9MLN2wWhdy88gjXiFf"
+    },
+    {
+      "added_at": "2024-11-15 10:36:44",
+      "album": {
+        "name": "Surf Hat",
+        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "duration_ms": 241404,
+      "name": "Surf Hat",
+      "url": "https://open.spotify.com/track/2PDXHQ7KZIERpygnXxMYDR"
+    },
+    {
+      "added_at": "2024-11-15 10:36:52",
+      "album": {
+        "name": "Surf Hat",
+        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "duration_ms": 179217,
+      "name": "Bowling Alley Thug",
+      "url": "https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA"
+    },
+    {
+      "added_at": "2024-11-15 10:39:29",
+      "album": {
+        "name": "Crisps",
+        "url": "https://open.spotify.com/album/6QhighkjILoTR21W5fZIkU"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 307800,
+      "name": "Crisps",
+      "url": "https://open.spotify.com/track/4tr0dC4OeZ3BiamawrXhwJ"
+    },
+    {
+      "added_at": "2024-11-15 10:39:50",
+      "album": {
+        "name": "Crisps",
+        "url": "https://open.spotify.com/album/6QhighkjILoTR21W5fZIkU"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "I Wish It Didn't Bother Me",
+      "url": "https://open.spotify.com/track/13wEbddSSuzD49m07uNWzx"
+    },
+    {
+      "added_at": "2024-11-15 10:40:29",
+      "album": {
+        "name": "through",
+        "url": "https://open.spotify.com/album/31KJIOyefMwvgpGCTxH4Q9"
+      },
+      "artists": [
+        {
+          "name": "Love Seats",
+          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "through",
+      "url": "https://open.spotify.com/track/28mPBhmQS6lY68NPqrlRS3"
+    },
+    {
+      "added_at": "2024-11-15 10:40:52",
+      "album": {
+        "name": "night at the bar",
+        "url": "https://open.spotify.com/album/3C4yn2Z7k4kImGRGokxzbr"
+      },
+      "artists": [
+        {
+          "name": "Love Seats",
+          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "night at the bar",
+      "url": "https://open.spotify.com/track/4X9IBwnP5PPLGM1iUATF5t"
+    },
+    {
+      "added_at": "2024-11-15 10:41:03",
+      "album": {
+        "name": "lately",
+        "url": "https://open.spotify.com/album/0SgtgT0gUoZiXbFYew7b7c"
+      },
+      "artists": [
+        {
+          "name": "Love Seats",
+          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
+        }
+      ],
+      "duration_ms": 145883,
+      "name": "lately",
+      "url": "https://open.spotify.com/track/2UPMM782MVJ3qW0spGF4Ct"
+    },
+    {
+      "added_at": "2024-11-15 10:41:13",
+      "album": {
+        "name": "on your own",
+        "url": "https://open.spotify.com/album/63cqFpltybiaFAIFQqsTKw"
+      },
+      "artists": [
+        {
+          "name": "Love Seats",
+          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
+        }
+      ],
+      "duration_ms": 175264,
+      "name": "on your own",
+      "url": "https://open.spotify.com/track/4iuEDgwHXsZJRoh19h6EOo"
+    },
+    {
+      "added_at": "2024-11-15 10:47:40",
+      "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/798I3gQolvPag6jmAdIxql"
+      },
+      "artists": [
+        {
+          "name": "Echo Frame",
+          "url": "https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi"
+        }
+      ],
+      "duration_ms": 176832,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/0WMGvlOJ6HXsRLjx1CX01F"
+    },
+    {
+      "added_at": "2024-11-15 13:25:34",
+      "album": {
+        "name": "El A\u00f1o del Syncro",
+        "url": "https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 209854,
+      "name": "Noche En Vela",
+      "url": "https://open.spotify.com/track/3nOxl7EstQkH9UJr0FFHkt"
+    },
+    {
+      "added_at": "2024-11-15 13:25:38",
+      "album": {
+        "name": "El A\u00f1o del Syncro",
+        "url": "https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 248937,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/0exnAa5EPWduqdnvmzQS5e"
+    },
+    {
+      "added_at": "2024-11-15 13:25:42",
+      "album": {
+        "name": "El A\u00f1o del Syncro",
+        "url": "https://open.spotify.com/album/56HNxmVTlf80TtHyTSv4bf"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Syncro",
+      "url": "https://open.spotify.com/track/0ZK74IJO10o8XzZBz22UPV"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

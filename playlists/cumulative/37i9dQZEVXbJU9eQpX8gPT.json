@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270071,
+      "name": "112",
+      "url": "https://open.spotify.com/track/7LXk7g4i8JxXXWNhDrSQq4"
+    },
+    {
+      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/7ygWdtau7ynn3aaM8UGMyd"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 210744,
       "name": "3oud Ned",
       "url": "https://open.spotify.com/track/2QNi63loCz71LN8MnK38db"
@@ -4491,6 +4509,24 @@
     },
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211208,
+      "name": "C.C",
+      "url": "https://open.spotify.com/track/5IjYvPZQuDVT2cSwEVzfKG"
+    },
+    {
+      "album": {
         "name": "Cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
       },
@@ -7376,7 +7412,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -7904,7 +7940,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz"
@@ -8180,7 +8216,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 136506,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2w1DUdHe3zuu0c2OWzHQpw"
@@ -8350,7 +8386,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 211226,
       "name": "End Of Time",
       "url": "https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50"
@@ -13571,6 +13607,24 @@
     },
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Kamigaz",
+      "url": "https://open.spotify.com/track/3rHFfYuVN8R03NmS5hEevV"
+    },
+    {
+      "album": {
         "name": "Traitement",
         "url": "https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T"
       },
@@ -16311,6 +16365,24 @@
     },
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288949,
+      "name": "L\u2019Bayda Mon Amour",
+      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
+    },
+    {
+      "album": {
         "name": "Multitude",
         "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
       },
@@ -17348,7 +17420,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 158677,
       "name": "MARADONA - Remix",
       "url": "https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj"
@@ -17737,6 +17809,24 @@
     },
     {
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186456,
+      "name": "Mchta w Gdem",
+      "url": "https://open.spotify.com/track/585Ki2LdPG0kIDO39gkTLu"
+    },
+    {
+      "album": {
         "name": "meet the grahams",
         "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
@@ -17868,6 +17958,24 @@
       "duration_ms": 210769,
       "name": "Messi",
       "url": "https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113592,
+      "name": "Metapsy",
+      "url": "https://open.spotify.com/track/3fgiLAfOwmf99Nz1ym2Udo"
     },
     {
       "album": {
@@ -23066,7 +23174,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 184253,
       "name": "RAZONES (feat. Morad)",
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
@@ -24096,7 +24204,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 204350,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
@@ -25524,6 +25632,24 @@
       "duration_ms": 145294,
       "name": "Sparta",
       "url": "https://open.spotify.com/track/3JrQYOR2x3TL9IyqHxjNCB"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7FBunaSjBNii9ODtZ1GcY7"
     },
     {
       "album": {
@@ -29400,7 +29526,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

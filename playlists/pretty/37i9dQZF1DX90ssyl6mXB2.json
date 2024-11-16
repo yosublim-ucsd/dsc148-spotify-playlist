@@ -1,13 +1,29 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 139365,
+  "num_followers": 139502,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy5LhwAAAACbqY5nLc12QWxR6sUq3fPt",
+  "snapshot_id": "ZzbkgQAAAAAWUe7ADZdz1EDFIy7tURwE",
   "tracks": [
+    {
+      "added_at": "2024-10-18 17:27:49",
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 168453,
+      "name": "M a k e I t T o T h e M o r n i n g",
+      "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
+    },
     {
       "added_at": "2024-10-25 07:06:00",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl"
     },
     {
+      "added_at": "2024-11-15 06:04:49",
+      "album": {
+        "name": "expensive taste",
+        "url": "https://open.spotify.com/album/3zx9CZ9vdejdt69rQ9hwsY"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 151030,
+      "name": "expensive taste",
+      "url": "https://open.spotify.com/track/5KIkmsIbfteheIR0vCwGK1"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Oakland Pt. 2",
@@ -39,22 +71,6 @@
       "duration_ms": 156333,
       "name": "Oakland Pt. 2",
       "url": "https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq"
-    },
-    {
-      "added_at": "2024-10-18 17:27:49",
-      "album": {
-        "name": "kame 'n left",
-        "url": "https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7"
-      },
-      "artists": [
-        {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
-        }
-      ],
-      "duration_ms": 176691,
-      "name": "blind side",
-      "url": "https://open.spotify.com/track/15YcOL6ddhowfTU165l46C"
     },
     {
       "added_at": "2024-09-27 02:20:53",
@@ -93,20 +109,20 @@
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-15 06:04:49",
       "album": {
-        "name": "worst behaviour",
-        "url": "https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh"
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 178992,
-      "name": "worst behaviour",
-      "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
+      "duration_ms": 151489,
+      "name": "Modern Day Suicide",
+      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -125,40 +141,20 @@
       "url": "https://open.spotify.com/track/3crlsGG2XuwWIeSYYneyhg"
     },
     {
-      "added_at": "2024-10-18 17:27:49",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+        "name": "worst behaviour",
+        "url": "https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 168453,
-      "name": "M a k e I t T o T h e M o r n i n g",
-      "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
-    },
-    {
-      "added_at": "2024-10-25 07:06:00",
-      "album": {
-        "name": "Smoke + Mirrors (Remix)",
-        "url": "https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU"
-      },
-      "artists": [
-        {
-          "name": "Leo Waters",
-          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 168628,
-      "name": "Smoke + Mirrors (Remix)",
-      "url": "https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R"
+      "duration_ms": 178992,
+      "name": "worst behaviour",
+      "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
     },
     {
       "added_at": "2024-10-18 17:27:49",
@@ -179,6 +175,26 @@
       "duration_ms": 163561,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
+    },
+    {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "Smoke + Mirrors (Remix)",
+        "url": "https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 168628,
+      "name": "Smoke + Mirrors (Remix)",
+      "url": "https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R"
     },
     {
       "added_at": "2024-11-08 15:35:56",
@@ -217,22 +233,6 @@
       "url": "https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0"
     },
     {
-      "added_at": "2024-10-18 17:27:49",
-      "album": {
-        "name": "Temptress",
-        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "STORY OF ARCHIVES",
@@ -247,6 +247,38 @@
       "duration_ms": 173252,
       "name": "DONT_SAY",
       "url": "https://open.spotify.com/track/4pD2U2Y4G55IqScpSb04b0"
+    },
+    {
+      "added_at": "2024-10-18 17:27:49",
+      "album": {
+        "name": "kame 'n left",
+        "url": "https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 176691,
+      "name": "blind side",
+      "url": "https://open.spotify.com/track/15YcOL6ddhowfTU165l46C"
+    },
+    {
+      "added_at": "2024-11-15 06:04:49",
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
     },
     {
       "added_at": "2024-09-27 02:20:53",
@@ -407,6 +439,22 @@
       "duration_ms": 119999,
       "name": "Dangerously In Love",
       "url": "https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS"
+    },
+    {
+      "added_at": "2024-10-18 17:27:49",
+      "album": {
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
     },
     {
       "added_at": "2024-08-30 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 32347,
+  "num_followers": 32350,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "In Dreams (Alternative Version)",
-        "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "In Dreams - Alternative Version",
-      "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Fear and Saturday Night",
         "url": "https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 255697,
       "name": "Nobody Knows My Trouble",
       "url": "https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "In Dreams (Alternative Version)",
+        "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "In Dreams - Alternative Version",
+      "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -831,22 +831,6 @@
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 257297,
-      "name": "American Dreaming",
-      "url": "https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -935,6 +919,38 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 257297,
+      "name": "American Dreaming",
+      "url": "https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "The Man from Waco",
+        "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Man from Waco",
+      "url": "https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
         "name": "Wandering (Love Me Back)",
         "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "The Man from Waco",
-        "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "The Man from Waco",
-      "url": "https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER"
     },
     {
       "added_at": "2024-11-12 18:01:47",

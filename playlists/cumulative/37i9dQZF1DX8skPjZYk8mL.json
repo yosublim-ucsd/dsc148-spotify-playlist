@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "A Sunny Trip",
+        "url": "https://open.spotify.com/album/6sCeCiqhg7U8NzAJxc8IDy"
+      },
+      "artists": [
+        {
+          "name": "Peyton Malloye",
+          "url": "https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71822,
+      "name": "A Sunny Trip",
+      "url": "https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs"
+    },
+    {
+      "album": {
         "name": "A Tall Tale",
         "url": "https://open.spotify.com/album/3V5he285jyZ7r812xgnqja"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 108163,
       "name": "Arrorr\u00f3 mi ni\u00f1o",
       "url": "https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 101624,
       "name": "Calm Dreams",
       "url": "https://open.spotify.com/track/4WmcT9stH27GRJG2rmtfih"
@@ -9185,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "Little Lady Bird",
+        "url": "https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg"
+      },
+      "artists": [
+        {
+          "name": "Cats meow",
+          "url": "https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131940,
+      "name": "Little Lady Bird",
+      "url": "https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4"
+    },
+    {
+      "album": {
         "name": "Little Red Scarf",
         "url": "https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG"
       },
@@ -13408,7 +13444,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 121000,
       "name": "Skidamarink",
       "url": "https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO"
@@ -15773,6 +15809,24 @@
     },
     {
       "album": {
+        "name": "Take Me Out to the Ball Game",
+        "url": "https://open.spotify.com/album/2dsoYvsV0m83I2f2aI6w2G"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93889,
+      "name": "Take Me Out to the Ball Game",
+      "url": "https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N"
+    },
+    {
+      "album": {
         "name": "Guitar Lullabies",
         "url": "https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr"
       },
@@ -16562,6 +16616,24 @@
       "duration_ms": 58344,
       "name": "The Seasons",
       "url": "https://open.spotify.com/track/3CYett5nf6G0WimlVsngXm"
+    },
+    {
+      "album": {
+        "name": "The Second Star to the Right",
+        "url": "https://open.spotify.com/album/1gUpNGO623taLGmfaUvm6l"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rian Rose",
+          "url": "https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "The Second Star to the Right",
+      "url": "https://open.spotify.com/track/10qFyR0SKMPng0Pnh8UUWn"
     },
     {
       "album": {
@@ -18700,7 +18772,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 83785,
       "name": "When You Say Goodnight",
       "url": "https://open.spotify.com/track/79NuT2YtlM18mndrxJ07dN"

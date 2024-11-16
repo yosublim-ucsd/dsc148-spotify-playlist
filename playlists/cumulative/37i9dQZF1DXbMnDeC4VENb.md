@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-295 songs - 16 hr 39 min
+296 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [La Noche y Tú](https://open.spotify.com/track/4o10JaWlOjwBUteTznaQj2) | [Barbaro el Urbano Vargas](https://open.spotify.com/artist/30KcX7N3zj7h1BTm1PyzQ3) | [Lumbre Bajo Cero](https://open.spotify.com/album/42vmx7yC3zShnZOVX097PS) | 3:00 | 2024-06-07 | 2024-06-22 |
 | [La Primera Persona del Plural](https://open.spotify.com/track/6s8cptLBT4CjqywZT0B8MI) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Acariciado Mundo](https://open.spotify.com/album/7DnisveBqSuYqXcQgeAtFc) | 3:43 | 2024-06-07 | 2024-06-22 |
 | [La Primera Vez](https://open.spotify.com/track/1fYklg2kEJ9Uxnr2fxtX78) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Primera Vez](https://open.spotify.com/album/2n5VDRQCQznOJJt1svDhd0) | 3:13 | 2024-06-07 | 2024-06-22 |
+| [La Vida No Es Fácil](https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk), [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [La Vida No Es Fácil](https://open.spotify.com/album/5sb1l0mFdE1fELVAKM3vz9) | 3:20 | 2024-11-15 |  |
 | [La Vida Pasa](https://open.spotify.com/track/53BED28TRVZQ9uEGPQL88X) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Punto de Quiebre](https://open.spotify.com/album/1GxhmPcuyNST8j5JEataUT) | 5:06 | 2024-06-04 |  |
 | [La Última Canción](https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:59 | 2024-08-30 |  |
 | [La Última Carta](https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [La Última Carta](https://open.spotify.com/album/47UiSsUYKnzsuobv8GXHBM) | 3:21 | 2024-08-30 |  |

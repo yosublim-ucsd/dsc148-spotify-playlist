@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Megra, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,347 likes - 197 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,394 likes - 197 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

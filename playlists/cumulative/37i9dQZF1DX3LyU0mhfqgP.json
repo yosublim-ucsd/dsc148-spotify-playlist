@@ -6717,6 +6717,28 @@
     },
     {
       "album": {
+        "name": "Transa: Selects",
+        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
+      },
+      "artists": [
+        {
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290001,
+      "name": "Ever New - Single Version",
+      "url": "https://open.spotify.com/track/4phgo7gXRpdu66hrLKtyM3"
+    },
+    {
+      "album": {
         "name": "Ever New",
         "url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO"
       },
@@ -6740,32 +6762,6 @@
       "duration_ms": 290001,
       "name": "Ever New - Single Version",
       "url": "https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY"
-    },
-    {
-      "album": {
-        "name": "Transa: Selects",
-        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
-      },
-      "artists": [
-        {
-          "name": "Beverly Glenn-Copeland",
-          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Red Hot Org",
-          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
-        }
-      ],
-      "date_added": "2024-11-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 290001,
-      "name": "Ever New - Single Version",
-      "url": "https://open.spotify.com/track/4phgo7gXRpdu66hrLKtyM3"
     },
     {
       "album": {

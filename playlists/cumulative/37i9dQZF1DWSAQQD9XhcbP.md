@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Laufey
 
-142 songs - 7 hr 50 min
+145 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 | 2024-10-15 |  |
 | [First Christmas](https://open.spotify.com/track/2CE1KhKOw23t0CLjfHUPN0) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [First Christmas](https://open.spotify.com/album/4DwaF4awFjl0lum2icD9S1) | 3:25 | 2022-11-12 |  |
 | [first winter](https://open.spotify.com/track/2G6D7SyHsZ727FDjUoDTrL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 2:56 | 2021-12-23 | 2022-11-13 |
-| [first winter](https://open.spotify.com/track/2yvLGTo8QhsyJ7S5XK6XE5) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7vQqhPBC5yTwK8rNHChhEA) | 2:56 | 2021-12-23 |  |
+| [first winter](https://open.spotify.com/track/2yvLGTo8QhsyJ7S5XK6XE5) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7vQqhPBC5yTwK8rNHChhEA) | 2:56 | 2021-12-23 | 2024-11-16 |
 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 | 2021-12-23 | 2024-04-19 |
 | [frozen halos](https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [frozen halos](https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt) | 3:02 | 2021-12-23 |  |
 | [Glittery \- From The Kacey Musgraves Christmas Show](https://open.spotify.com/track/4dFtIGQBrYjiskk7fN5Wmx) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Kacey Musgraves Christmas Show](https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI) | 2:23 | 2022-11-12 |  |
@@ -92,9 +92,10 @@
 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-12-23 |  |
 | [let it snow \- acoustic](https://open.spotify.com/track/2NiNSxStr1hnM8PJ9jOkRT) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas \(extra presents\)](https://open.spotify.com/album/4sLx7tVIivmsDGkymn37UW) | 2:39 | 2021-12-23 |  |
 | [Little Things](https://open.spotify.com/track/6MRaDK8dO2LEQZhIaNie2o) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Little Things](https://open.spotify.com/album/4SUnf7sfV1oTTMwhWiW547) | 3:08 | 2021-12-23 |  |
-| [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 | 2021-12-23 |  |
+| [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 | 2021-12-23 | 2024-11-16 |
 | [Love to Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-23 | 2024-10-19 |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2021-12-23 | 2024-04-19 |
+| [Mary, Did You Know?](https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Carols and Candlelight](https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg) | 3:43 | 2024-11-15 |  |
 | [Meet Me Next Christmas](https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Meet Me Next Christmas](https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx) | 2:43 | 2024-11-04 |  |
 | [Merry Christmas, Darling](https://open.spotify.com/track/6dehwS2DnlgK0S5EDg4p7X) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:04 | 2021-12-23 |  |
 | [Mistletoe](https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Mistletoe](https://open.spotify.com/album/3iElV1aXLlk9k26SHtzUco) | 3:51 | 2022-11-12 |  |
@@ -105,6 +106,7 @@
 | [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 | 2022-12-05 |  |
 | [O Holy Night](https://open.spotify.com/track/5ExNvXqx2wvdb6v0b840Us) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [O Holy Night](https://open.spotify.com/album/5YSq86Fw1G4WrAVjXT6CAs) | 4:38 | 2021-12-23 | 2024-04-19 |
 | [O Holy Night](https://open.spotify.com/track/6bHLe3rfMqYBmlJnvhyFS9) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [O Holy Night](https://open.spotify.com/album/1OQvt7GdufQwHedB373LDw) | 4:38 | 2021-12-23 |  |
+| [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:26 | 2024-11-15 |  |
 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 | 2021-12-23 |  |
 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 | 2021-12-23 |  |
 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 | 2022-11-12 |  |
@@ -148,6 +150,7 @@
 | [White Winter Hymnal \(Fleet Foxes Cover\)](https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 2:47 | 2021-12-23 |  |
 | [Winter Song](https://open.spotify.com/track/0q17bBvODfs0CheoGjDDR4) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Winter's Calling](https://open.spotify.com/album/7bxtKj1CULqgolcJkUWCa0) | 4:31 | 2022-12-05 | 2024-04-19 |
 | [Winter Song](https://open.spotify.com/track/3FptdbTXMaDXU6jd5nBGat) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Winter's Calling](https://open.spotify.com/album/0FAlzSri49UKFIAVkBoePG) | 4:31 | 2021-12-23 |  |
+| [Winter Song \[Feat\. Ariana DeBose\]](https://open.spotify.com/track/2cADPODt1SJSbRo41q0MJq) | [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) | [SLEIGH](https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths) | 4:12 | 2024-11-15 |  |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-23 |  |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2024-10-18 |  |
 

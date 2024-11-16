@@ -2487,6 +2487,32 @@
     },
     {
       "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/6ReApD38Z1LZXKJESAYflU"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        },
+        {
+          "name": "La Mary",
+          "url": "https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn"
+        },
+        {
+          "name": "Ulises Pi\u00f1eyro",
+          "url": "https://open.spotify.com/artist/401588jVafLLnM1utmR0Gb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/3nMYIuXBMRMrZjxp7eLOgA"
+    },
+    {
+      "album": {
         "name": "El Campanero/ Costumbres/ Borracho y Amanecido (Sesi\u00f3n Colombiana #3)",
         "url": "https://open.spotify.com/album/4yVVDacwwEtIZQHqodfhP4"
       },
@@ -2556,6 +2582,28 @@
       "duration_ms": 167680,
       "name": "El Gil de Tu Ex",
       "url": "https://open.spotify.com/track/3BoHuCCm0Dr8TGtKV9kl4g"
+    },
+    {
+      "album": {
+        "name": "El Maestro (En Vivo)",
+        "url": "https://open.spotify.com/album/3zF4GveHnKZxpDUbyz4eOM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260411,
+      "name": "El Maestro - En Vivo",
+      "url": "https://open.spotify.com/track/0lPf2bsPuQb3nJBKPZcA3q"
     },
     {
       "album": {
@@ -2668,6 +2716,24 @@
       "duration_ms": 239238,
       "name": "El Precio De Tu Enga\u00f1o",
       "url": "https://open.spotify.com/track/3JlEgwaSShOSUDABcM8Byg"
+    },
+    {
+      "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151463,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
     },
     {
       "album": {
@@ -3727,6 +3793,28 @@
     },
     {
       "album": {
+        "name": "Inolvidable (En Vivo)",
+        "url": "https://open.spotify.com/album/1d7wuYyHZyJMUwT7tlki5M"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "La Guitarra de Pila",
+          "url": "https://open.spotify.com/artist/7yeiKcOihagxn1Q1rZ5oKq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148509,
+      "name": "Inolvidable - En Vivo",
+      "url": "https://open.spotify.com/track/3X8U1BnkXXGOszX4YjKeVE"
+    },
+    {
+      "album": {
         "name": "Insaciable",
         "url": "https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA"
       },
@@ -4254,7 +4342,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -5150,7 +5238,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 196059,
       "name": "MUJERIEGO",
       "url": "https://open.spotify.com/track/45EsIB5oG5gZMNpRsfo1ku"
@@ -7942,7 +8030,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 323334,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
@@ -8600,7 +8688,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 185268,
       "name": "Un Beso con Sabor a Cerveza",
       "url": "https://open.spotify.com/track/5GTPqIXrvCqCcPY8nSbCwx"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 62887,
+  "num_followers": 62948,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LslnoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lsq2yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "DIPLOMATICO",
         "url": "https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Fi Derbi (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Coltellino (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads"
@@ -65,23 +65,7 @@
       "url": "https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
@@ -97,39 +81,7 @@
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Mahboul Ana",
-        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
-      },
-      "artists": [
-        {
-          "name": "Lazaro",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mahboul Ana",
-      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Lalla w Mali",
-        "url": "https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl"
-      },
-      "artists": [
-        {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Lalla w Mali",
-      "url": "https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -145,7 +97,55 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Lalla w Mali",
+        "url": "https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Lalla w Mali",
+      "url": "https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "3DABI",
+        "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "3DABI",
+      "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Dawini",
         "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
@@ -165,39 +165,7 @@
       "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "3DABI",
-        "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "3DABI",
-      "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "SRTTT",
-      "url": "https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Obligaci\u00f3n",
         "url": "https://open.spotify.com/album/25WeAM9PSYPrpUjovpNYvz"
@@ -221,7 +189,71 @@
       "url": "https://open.spotify.com/track/2OkDSD6ZTzHGgYF4j10c0m"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "SRTTT",
+      "url": "https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 270071,
+      "name": "112",
+      "url": "https://open.spotify.com/track/7LXk7g4i8JxXXWNhDrSQq4"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 113592,
+      "name": "Metapsy",
+      "url": "https://open.spotify.com/track/3fgiLAfOwmf99Nz1ym2Udo"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
         "url": "https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6"
@@ -237,23 +269,23 @@
       "url": "https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
       },
       "artists": [
         {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 165653,
-      "name": "Extendo",
-      "url": "https://open.spotify.com/track/2wJaC2zP48AElKNUCV2tK1"
+      "duration_ms": 171000,
+      "name": "Sous la lune",
+      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "S\u0113nsus",
         "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
@@ -269,7 +301,91 @@
       "url": "https://open.spotify.com/track/0E7vM9JTF6RQ0Mb7cZmP8V"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Badadi",
+        "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
+      },
+      "artists": [
+        {
+          "name": "Douaa Lahyaoui",
+          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+        }
+      ],
+      "duration_ms": 165057,
+      "name": "Badadi",
+      "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Extendo",
+      "url": "https://open.spotify.com/track/2wJaC2zP48AElKNUCV2tK1"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Kamigaz",
+      "url": "https://open.spotify.com/track/3rHFfYuVN8R03NmS5hEevV"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/05ICT99aBBJAehTRnIMQ7q"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Doubt (feat. Shobee)",
+      "url": "https://open.spotify.com/track/63TGFckfbvIcSTADS8VHUq"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "S\u0113nsus",
         "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
@@ -293,135 +409,23 @@
       "url": "https://open.spotify.com/track/1b89rPpatX8ocTRgh78izN"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
         }
       ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+      "duration_ms": 186456,
+      "name": "Mchta w Gdem",
+      "url": "https://open.spotify.com/track/585Ki2LdPG0kIDO39gkTLu"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Badadi",
-        "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
-      },
-      "artists": [
-        {
-          "name": "Douaa Lahyaoui",
-          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
-        }
-      ],
-      "duration_ms": 165057,
-      "name": "Badadi",
-      "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "Expensive",
-      "url": "https://open.spotify.com/track/05ICT99aBBJAehTRnIMQ7q"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        },
-        {
-          "name": "Shobee",
-          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Doubt (feat. Shobee)",
-      "url": "https://open.spotify.com/track/63TGFckfbvIcSTADS8VHUq"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        },
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Drive (feat. Snor)",
-      "url": "https://open.spotify.com/track/4F4aAfFLWh5b6Ofwx48O46"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        },
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "No Permission (feat. Khali)",
-      "url": "https://open.spotify.com/track/05pWfq3KOsY4TUmBnam3j7"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        },
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Locked Up (feat. Zamdane)",
-      "url": "https://open.spotify.com/track/1tofq4B2lvmSXVJliNzDnK"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "LA ZONE MAHKOMA",
         "url": "https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2"
@@ -441,7 +445,43 @@
       "url": "https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Drive (feat. Snor)",
+      "url": "https://open.spotify.com/track/4F4aAfFLWh5b6Ofwx48O46"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
+      },
+      "artists": [
+        {
+          "name": "Ali S",
+          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -461,39 +501,7 @@
       "url": "https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "HWASI",
-        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "HWASI",
-      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
-      },
-      "artists": [
-        {
-          "name": "Ali S",
-          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "S\u0113nsus",
         "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
@@ -502,14 +510,70 @@
         {
           "name": "Madd",
           "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 131613,
-      "name": "Spliff",
-      "url": "https://open.spotify.com/track/2HdScolhznqzKsBMfYvmBk"
+      "duration_ms": 192426,
+      "name": "No Permission (feat. Khali)",
+      "url": "https://open.spotify.com/track/05pWfq3KOsY4TUmBnam3j7"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7FBunaSjBNii9ODtZ1GcY7"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Locked Up (feat. Zamdane)",
+      "url": "https://open.spotify.com/track/1tofq4B2lvmSXVJliNzDnK"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "YAKINE",
         "url": "https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9"
@@ -525,23 +589,39 @@
       "url": "https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
-        "name": "Lmouje",
-        "url": "https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV"
+        "name": "HWASI",
+        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
       },
       "artists": [
         {
-          "name": "7-Toun",
-          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
         }
       ],
-      "duration_ms": 202191,
-      "name": "Lmouje",
-      "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
+      "duration_ms": 223278,
+      "name": "HWASI",
+      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 288949,
+      "name": "L\u2019Bayda Mon Amour",
+      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
@@ -561,7 +641,7 @@
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Wsalni MSG",
         "url": "https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU"
@@ -581,7 +661,39 @@
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 131613,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/2HdScolhznqzKsBMfYvmBk"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Lmouje",
+        "url": "https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "duration_ms": 202191,
+      "name": "Lmouje",
+      "url": "https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -613,91 +725,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Rien 100 Rien",
-        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sous la lune",
-      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        },
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "All You Need Is You (feat. Khali)",
-      "url": "https://open.spotify.com/track/5oN3cmVhKIeaQUX0ygMB1v"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Bla Bla",
-        "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
-      },
-      "artists": [
-        {
-          "name": "Nouamane Belaiachi",
-          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Bla Bla",
-      "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Motto",
-      "url": "https://open.spotify.com/track/4evsdR2hO8PGgM0Ln0UukA"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -713,7 +741,87 @@
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Nfss Lhala",
+        "url": "https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "Nfss Lhala",
+      "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Skyrock Freestyles (Morocco Edition)",
+        "url": "https://open.spotify.com/album/4ycGxsIhfjDyTE0Gn0LQIu"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 238561,
+      "name": "Staline",
+      "url": "https://open.spotify.com/track/5mY7KEG5gUYdXBu9ekZIMY"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
+      },
+      "artists": [
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "3oud Ned",
+        "url": "https://open.spotify.com/album/7nzIgE8K3tivGiXYI18lvL"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "duration_ms": 210744,
+      "name": "3oud Ned",
+      "url": "https://open.spotify.com/track/2QNi63loCz71LN8MnK38db"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "C.C",
+      "url": "https://open.spotify.com/track/5IjYvPZQuDVT2cSwEVzfKG"
+    },
+    {
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -733,23 +841,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Skyrock Freestyles (Morocco Edition)",
-        "url": "https://open.spotify.com/album/4ycGxsIhfjDyTE0Gn0LQIu"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 238561,
-      "name": "Staline",
-      "url": "https://open.spotify.com/track/5mY7KEG5gUYdXBu9ekZIMY"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/3SsWWoOTknktoO93s8xbNi"
@@ -765,43 +857,27 @@
       "url": "https://open.spotify.com/track/6Z6Z0DliiVFzhp3vLrvT1N"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
-        "name": "MARADONA (Remix)",
-        "url": "https://open.spotify.com/album/0QXUQiwAzEr5mlyqTq8AqW"
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
       },
       "artists": [
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
         },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 158677,
-      "name": "MARADONA - Remix",
-      "url": "https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj"
+      "duration_ms": 131052,
+      "name": "All You Need Is You (feat. Khali)",
+      "url": "https://open.spotify.com/track/5oN3cmVhKIeaQUX0ygMB1v"
     },
     {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "2x1",
-        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 204350,
-      "name": "San Siro",
-      "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
+      "added_at": "2024-11-15 15:42:01",
       "album": {
         "name": "S\u0113nsus",
         "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
@@ -812,97 +888,9 @@
           "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
         }
       ],
-      "duration_ms": 211226,
-      "name": "End Of Time",
-      "url": "https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5"
-      },
-      "artists": [
-        {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Douwi Douwi",
-      "url": "https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "RAZONES (feat. Morad)",
-      "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/2w1DUdHe3zuu0c2OWzHQpw"
-    },
-    {
-      "added_at": "2024-11-14 12:48:52",
-      "album": {
-        "name": "Nfss Lhala",
-        "url": "https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7"
-      },
-      "artists": [
-        {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "Nfss Lhala",
-      "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
+      "duration_ms": 180066,
+      "name": "Motto",
+      "url": "https://open.spotify.com/track/4evsdR2hO8PGgM0Ln0UukA"
     }
   ],
   "unique_name": "Top 50 - Morocco",

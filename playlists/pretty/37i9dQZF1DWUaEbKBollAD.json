@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:4iHnLagnnmgiIwMSm1wuTq\">Giorgia Angiuli</a>'s favorite tracks. Updated regularly. Curated by Giorgia Angiuli. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 47974,
+  "num_followers": 48018,
   "original_name": "Giorgia Angiuli's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UvAAAAAD4Bm1Fkt81wknbY6dJw+pM",
+  "snapshot_id": "Zzc+ewAAAACN48I6XPaZmBxiw9Y9n4Cx",
   "tracks": [
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "RAMA (feat. Shanti People)",
         "url": "https://open.spotify.com/album/74sghurkYcOmtax7e4AMkP"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/2FR9MoZCeS9oriAbauVDXL"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/3vX5mMRLcvvpFXh0g0iTqA"
+      },
+      "artists": [
+        {
+          "name": "Gproject",
+          "url": "https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P"
+        },
+        {
+          "name": "Coexist",
+          "url": "https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/4s5Exhx0XrDLLvpgNuXaCI"
+    },
+    {
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Soulstice",
         "url": "https://open.spotify.com/album/0SuGNn5zkJSHyiJA1Q4rbe"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Na Le (Phaxe Remix)",
         "url": "https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/2TbB5iWJtLRCP7xIy8Zh5E"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Bam Bam Bam",
         "url": "https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Radiance",
         "url": "https://open.spotify.com/album/5c19YIY72XTdtNU8012KoF"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/7h26agLOPUr05uhxm3qeUC"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "A Good Addiction",
         "url": "https://open.spotify.com/album/2iKVsICi1ltaRgP2yU8NI4"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/7kHeTnAysLdxiB5Gdy49k4"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/3V7cUIRXyBn3mCcOnjRZ2E"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/0luPoRQIhVbBtIv01QGexu"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "What Would Gerry Do",
         "url": "https://open.spotify.com/album/0dAsvt2RrjPUp4PVy8SsFz"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/0AcAZoVPYbGf1oIEn8UDiG"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Interconnection EP",
         "url": "https://open.spotify.com/album/6OWXUShb5cu2AEqxla3jY6"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/0oTqSCja48s8TkUDUW5q9w"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "So Alive (VIP)",
         "url": "https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Nietzsche",
         "url": "https://open.spotify.com/album/6IuP9ZeyWCa27oR6PEv8TM"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/5vb1o2TR7sGcarzohjlgh6"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Eye Contact",
         "url": "https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "KUM",
         "url": "https://open.spotify.com/album/3iWNHswUreh7XwzsYeGOnG"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/1eCwS9VyP57ZmQjbkdKIjD"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/5TOBa8ERugPC0syjSU8SQd"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/714Ile0WQOorAkduRufKqh"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Club SPF",
         "url": "https://open.spotify.com/album/1S1nz42FJFwaHAu4Xm8yz4"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/2yOYSXAfliIfK20gDnLBvr"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Mantra EP",
         "url": "https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/7800ZSDHsmcAhhwTY8jHQ2"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Te Amo Madrid",
         "url": "https://open.spotify.com/album/0ULzCsCrzvEQIZhfceq5om"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/3E8XrHNaQJYeDIPrfnEStJ"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "In The Darkness EP",
         "url": "https://open.spotify.com/album/6MKZPT1EmkBCy3KNK7dTGy"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/4yjnf8QWoK8xrH2JwWS37r"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Heaven Is For Warriors EP",
         "url": "https://open.spotify.com/album/0foqG98xclmbCe33QsRMll"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Psychedelic Awakening",
         "url": "https://open.spotify.com/album/6SZ4525Ke0Eu3ZmJLEFeJY"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/7m0xP08bcvcHFVnlEzOhBG"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Darkly Yours EP",
         "url": "https://open.spotify.com/album/6POModEFwAbejmac6UGQAh"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/5dj96moRuaIOZCE0boVj19"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Relax Shiva",
         "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Sogno Infinito",
         "url": "https://open.spotify.com/album/4BFCsYT9An8sb36FltNyql"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/21Gt0Vm6OuTjOEIEMx1eCl"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Maj\u00e2z",
         "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Obsidian (Oscar L Remix)",
         "url": "https://open.spotify.com/album/4Nf2HEt1CHXJPe6TTpxaeP"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/1cZyeFJcOTOTEyDDmgQL8j"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Everything Is Life",
         "url": "https://open.spotify.com/album/4zZJjcnFOzc9XWiuFtEpOE"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/5kJu55pjJfj62nIvcRwYMO"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Gurdev Singh: Art of the Indian Sarod",
         "url": "https://open.spotify.com/album/6oYggY5iPuUPXXx4lOWPNQ"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/03MK4ZqPXi5zhblvE5PNqj"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Biosph\u00e8re",
         "url": "https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "K",
         "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/08bnQ31TXHNL0HA4oyG33d"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Kreature",
         "url": "https://open.spotify.com/album/5OIj5hMZE8GCZsp6ihZYAu"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/3IwWvapDWkJzHr1rfSOP2S"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Homologic (Dubfire & Fedele Remix)",
         "url": "https://open.spotify.com/album/44V06jzSd4Mvz6PkE3GV3S"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/3ybQK3RNlnLe1x4jc3lNhp"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Emerge",
         "url": "https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/5Eg7XnolnMI5OkKabGwdcu"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/49rXRdCXdDvdXGQRpvuvoZ"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "No One Takes Me Down",
         "url": "https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Kua",
         "url": "https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Outside World (Bart Skils & Weska Remix)",
         "url": "https://open.spotify.com/album/4rogCzyAHLJp4hYu6W4TKl"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/1hNuuUPJWU7c7gZCrNiMYs"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4AlP7d5GNEl7h00l6XvkAo"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Psytrance Illusions",
         "url": "https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Let The Mystery Be EP",
         "url": "https://open.spotify.com/album/5Ad9GU35famqDHUXkKm66K"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/4AzIEXbsTGHbEJzKEuSND5"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Nidze",
         "url": "https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi"
@@ -845,23 +865,7 @@
       "url": "https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Canc\u00fan",
-        "url": "https://open.spotify.com/album/3iNNWsYTyOYjukDSczPikU"
-      },
-      "artists": [
-        {
-          "name": "Nairobi D",
-          "url": "https://open.spotify.com/artist/58qioFFihiBbP8EqZfbm69"
-        }
-      ],
-      "duration_ms": 451937,
-      "name": "Tahat",
-      "url": "https://open.spotify.com/track/5Iu6g7iiycDv4m6ZEg2QC6"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "Universal Consciousness EP",
         "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/17SCJbXeu121LBiittnXTI"
     },
     {
-      "added_at": "2024-11-08 00:01:00",
+      "added_at": "2024-11-15 12:28:43",
       "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"

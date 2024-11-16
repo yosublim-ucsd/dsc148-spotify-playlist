@@ -698,7 +698,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 176788,
       "name": "first winter",
       "url": "https://open.spotify.com/track/2yvLGTo8QhsyJ7S5XK6XE5"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 166120,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs"
@@ -1628,6 +1628,24 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
+    },
+    {
+      "album": {
+        "name": "Carols and Candlelight",
+        "url": "https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223424,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI"
     },
     {
       "album": {
@@ -1808,6 +1826,24 @@
       "duration_ms": 278775,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6bHLe3rfMqYBmlJnvhyFS9"
+    },
+    {
+      "album": {
+        "name": "winter wishes",
+        "url": "https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206403,
+      "name": "old fashioned christmas",
+      "url": "https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg"
     },
     {
       "album": {
@@ -2606,6 +2642,28 @@
       "duration_ms": 271525,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3FptdbTXMaDXU6jd5nBGat"
+    },
+    {
+      "album": {
+        "name": "SLEIGH",
+        "url": "https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths"
+      },
+      "artists": [
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252086,
+      "name": "Winter Song [Feat. Ariana DeBose]",
+      "url": "https://open.spotify.com/track/2cADPODt1SJSbRo41q0MJq"
     },
     {
       "album": {

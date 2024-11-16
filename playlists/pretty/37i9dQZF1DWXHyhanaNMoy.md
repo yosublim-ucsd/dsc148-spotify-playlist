@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes\. Cover: Broederliefde
+> Motion en good vibes\. Cover: Delany & Yxng Le
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,977 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,047 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Bij Jou](https://open.spotify.com/track/6VxT6SoJbls60iDNSi3RLK) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg \(Deluxe\)](https://open.spotify.com/album/22Gy1naJdrn2Blmj71VbAs) | 2:46 |
 | 70 | [Be My ...](https://open.spotify.com/track/5kMwF362JlDjN4D8vjgKgp) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Be My ...](https://open.spotify.com/album/0dfi3J2ADJ71dxWeDJ8q0m) | 2:38 |
 
-Snapshot ID: `ZzaA8AAAAACxKyZeQg7Gu6C7rLbiDUUI`
+Snapshot ID: `ZzcM3gAAAAC3w8l1j4TqLKr4uLFUowTF`

@@ -1,12 +1,12 @@
 {
   "description": "Catch the queens of Punjabi Pop. Cover: Jasmine Sandlas",
-  "num_followers": 35052,
+  "num_followers": 35060,
   "original_name": "Women of Punjabi Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzGZBwAAAACvyrCx1/2DeKhPeh4GWdu1",
+  "snapshot_id": "ZzbOSAAAAAATrnSbPZss+mxdTM9mUkiO",
   "tracks": [
     {
       "added_at": "2024-11-11 05:41:27",
@@ -33,6 +33,30 @@
       "url": "https://open.spotify.com/track/0oApJqZXwdXlySDFrtYver"
     },
     {
+      "added_at": "2024-11-15 04:30:00",
+      "album": {
+        "name": "Mohobbat (Love)",
+        "url": "https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 208699,
+      "name": "Mohobbat - Love",
+      "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
+    },
+    {
       "added_at": "2024-11-11 05:41:27",
       "album": {
         "name": "Chandigarh Ka Chokra",
@@ -47,6 +71,30 @@
       "duration_ms": 144155,
       "name": "Chandigarh Ka Chokra",
       "url": "https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb"
+    },
+    {
+      "added_at": "2024-11-15 04:30:00",
+      "album": {
+        "name": "Malang",
+        "url": "https://open.spotify.com/album/7BzIYcRBhBeLbFHPMZ7L6T"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        },
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Malang",
+      "url": "https://open.spotify.com/track/3r2EmDI1TcSZjDQaX27y9v"
     },
     {
       "added_at": "2024-11-11 05:41:27",
@@ -351,26 +399,6 @@
       "duration_ms": 139736,
       "name": "Yaari",
       "url": "https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi"
-    },
-    {
-      "added_at": "2024-11-11 05:41:27",
-      "album": {
-        "name": "Big Loss",
-        "url": "https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP"
-      },
-      "artists": [
-        {
-          "name": "Simiran Kaur Dhadli",
-          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
-        },
-        {
-          "name": "Desi Trap Music",
-          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Big Loss",
-      "url": "https://open.spotify.com/track/76voghdL792BAy9YwEKfzw"
     },
     {
       "added_at": "2024-11-11 05:41:27",
@@ -747,30 +775,6 @@
       "duration_ms": 176923,
       "name": "Horse Stick",
       "url": "https://open.spotify.com/track/662pPKD0ssAigYYixY7Isn"
-    },
-    {
-      "added_at": "2024-11-11 05:41:27",
-      "album": {
-        "name": "Duhai",
-        "url": "https://open.spotify.com/album/2kFyyT7zmjKzX9YlSzM7nn"
-      },
-      "artists": [
-        {
-          "name": "Simar Sethi",
-          "url": "https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI"
-        },
-        {
-          "name": "Saga Sounds",
-          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
-        },
-        {
-          "name": "Kala Nizampuri",
-          "url": "https://open.spotify.com/artist/3xIfVA4SJfOhSAE615HStb"
-        }
-      ],
-      "duration_ms": 205048,
-      "name": "Duhai",
-      "url": "https://open.spotify.com/track/6ETXqHQspCg58MedFnCnSi"
     },
     {
       "added_at": "2024-11-11 05:41:27",

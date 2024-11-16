@@ -495,6 +495,58 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Christmas Oratorio",
+        "url": "https://open.spotify.com/album/3QMvXqlKGhZV5Kye98jvQz"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hugh Cutting",
+          "url": "https://open.spotify.com/artist/669muDJ1CceEiAFAYDKBkt"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316720,
+      "name": "Christmas Oratorio, BWV 248, Pt. 1 \"For the First Day of Christmas\": No. 4, Bereite dich, Zion, mit z\u00e4rtlichen Trieben",
+      "url": "https://open.spotify.com/track/6K3iv0HP0RIxjXC4TiHltT"
+    },
+    {
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/76b4BCoBMb3fxyxBYBJKle"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171444,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2ji89oNo5cUOEzYTKnR9qq"
+    },
+    {
+      "album": {
         "name": "The John Rutter Christmas Album",
         "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
       },
@@ -574,6 +626,24 @@
       "duration_ms": 129692,
       "name": "Ding Dong! Merrily on High",
       "url": "https://open.spotify.com/track/4zOmmPgqE0P7amaIAkQer8"
+    },
+    {
+      "album": {
+        "name": "Do They Know It's Christmas?",
+        "url": "https://open.spotify.com/album/5jYPwAC4YRAVWdeck50T1i"
+      },
+      "artists": [
+        {
+          "name": "Ron Lopata",
+          "url": "https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177804,
+      "name": "Do They Know It's Christmas?",
+      "url": "https://open.spotify.com/track/43nXnUHAO5qLKV9hd9DYB2"
     },
     {
       "album": {
@@ -726,6 +796,24 @@
       "duration_ms": 181133,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/2joLjXHYPu0w8x5uM2ATzU"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas (Guitar Version)",
+        "url": "https://open.spotify.com/album/7k37YEKLYvUSxUrqnH5XzO"
+      },
+      "artists": [
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156136,
+      "name": "Have Yourself A Merry Little Christmas - Guitar Version",
+      "url": "https://open.spotify.com/track/6lteBgIZfm5ZvJyGl8yth1"
     },
     {
       "album": {

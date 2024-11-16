@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Fin del Mundo",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 Winona Riders",
   "name": "el under",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 65182,
       "name": "40",
       "url": "https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV"
+    },
+    {
+      "album": {
+        "name": "No Hagas Que Me Arrepienta",
+        "url": "https://open.spotify.com/album/6TxHROskkdXNhc8EK82j8d"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255835,
+      "name": "680/680",
+      "url": "https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6"
     },
     {
       "album": {
@@ -336,6 +354,24 @@
       "duration_ms": 171807,
       "name": "Anita",
       "url": "https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO"
+    },
+    {
+      "album": {
+        "name": "Comportamiento Err\u00e1tico",
+        "url": "https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218965,
+      "name": "Aniversario Luctuoso",
+      "url": "https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi"
     },
     {
       "album": {
@@ -614,6 +650,24 @@
       "duration_ms": 169333,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ"
+    },
+    {
+      "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/36i57aGVQ3rZpKKkEeRdoD"
+      },
+      "artists": [
+        {
+          "name": "Playa Nudista",
+          "url": "https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/20lXQUvVdzVFu1nwSTII8z"
     },
     {
       "album": {
@@ -1116,7 +1170,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 184557,
       "name": "C\u00f3mo Conquistar la Ciudad",
       "url": "https://open.spotify.com/track/0KQE1Mt4imKQKya2d0aPg3"
@@ -1348,7 +1402,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 375107,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/0VMUzNfWNx3egfZko8bOhS"
@@ -2426,7 +2480,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 238714,
       "name": "Liberaci\u00f3n",
       "url": "https://open.spotify.com/track/0Qd0MPuE8LLAhgMyS3uJkB"

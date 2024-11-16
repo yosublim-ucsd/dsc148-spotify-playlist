@@ -1,12 +1,12 @@
 {
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=O0kSVRpiTD2Dus8f81EHwQ>Monaze",
-  "num_followers": 32727,
+  "num_followers": 32736,
   "original_name": "Praise and Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPPAAAAACGbacqd7tQ5rmu9+fvkbHV",
+  "snapshot_id": "ZzcxTAAAAAB2Ji1aeN1WorLfrHnXHr3I",
   "tracks": [
     {
       "added_at": "2024-11-15 00:01:00",
@@ -223,6 +223,30 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
+      "added_at": "2024-11-15 11:32:28",
+      "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/3ETwR9DxVSQLbn8L1tKWsJ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Jephthah Idahosa Aigbe",
+          "url": "https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/72wKF92paVR0X3Y9N7z2Vu"
     },
     {
       "added_at": "2023-10-20 00:01:00",

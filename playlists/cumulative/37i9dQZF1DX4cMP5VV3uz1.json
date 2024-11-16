@@ -1815,6 +1815,28 @@
     },
     {
       "album": {
+        "name": "Drilla / Sinister Life",
+        "url": "https://open.spotify.com/album/5KW8yPeQe51ENeSpawb43V"
+      },
+      "artists": [
+        {
+          "name": "Enei",
+          "url": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
+        },
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "Drilla",
+      "url": "https://open.spotify.com/track/4M3izHKmBQZkiYPkUy5OQH"
+    },
+    {
+      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q"
       },
@@ -4824,7 +4846,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 163764,
       "name": "Perfect Harmony - Phibes VIP",
       "url": "https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx"

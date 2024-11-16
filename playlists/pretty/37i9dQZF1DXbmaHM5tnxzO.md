@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,931 likes - 83 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,946 likes - 83 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

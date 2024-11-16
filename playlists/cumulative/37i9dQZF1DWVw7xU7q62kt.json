@@ -4047,6 +4047,28 @@
     },
     {
       "album": {
+        "name": "Above the Laws",
+        "url": "https://open.spotify.com/album/2QxsIMxHb7w5VxBGAx4R6e"
+      },
+      "artists": [
+        {
+          "name": "Ludivine Issambourg",
+          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "New Morning",
+      "url": "https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl"
       },
@@ -6058,7 +6080,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 174689,
       "name": "The Sunrise Fool",
       "url": "https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s"

@@ -1987,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "STANDLY | Mission 21",
+        "url": "https://open.spotify.com/album/7p97U0FfUNwo8G3xE3dd8c"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "STANDLY | Mission 21",
+      "url": "https://open.spotify.com/track/2GJf9S6H5HZuoJbMiaXWeK"
+    },
+    {
+      "album": {
         "name": "Subelov",
         "url": "https://open.spotify.com/album/3JFwv1dHqS7jnRUsKl73nJ"
       },

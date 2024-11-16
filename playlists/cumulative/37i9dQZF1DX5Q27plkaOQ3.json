@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 205241,
       "name": "Catch a Case",
       "url": "https://open.spotify.com/track/5yavMLBj32GENOlqNvJGgy"
@@ -3560,7 +3560,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 216998,
       "name": "Death Wish (with Micah Martin)",
       "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
@@ -5625,6 +5625,28 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/6n0qdLWtEHiJCfA7gGXbcu"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "EVVAN",
+          "url": "https://open.spotify.com/artist/27BFuMSAtQzEHmlCo9oXcH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1ee0DeLwvC9qAeArqdkny1"
+    },
+    {
+      "album": {
         "name": "Fire At Will",
         "url": "https://open.spotify.com/album/2rJrZ74og7KjpKnnwKuoQs"
       },
@@ -5908,6 +5930,28 @@
       "duration_ms": 198857,
       "name": "Forgive Forget",
       "url": "https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q"
+    },
+    {
+      "album": {
+        "name": "Foul Tarnished",
+        "url": "https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189926,
+      "name": "Foul Tarnished",
+      "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
     },
     {
       "album": {
@@ -6276,6 +6320,24 @@
       "duration_ms": 254488,
       "name": "Ganja Tape",
       "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
+    },
+    {
+      "album": {
+        "name": "GATEKEEPER",
+        "url": "https://open.spotify.com/album/1cc92QAKcg66F5NWqbZE6t"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "GATEKEEPER",
+      "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g"
     },
     {
       "album": {
@@ -7508,7 +7570,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 182800,
       "name": "Hypnotic Cycle",
       "url": "https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ"
@@ -7978,6 +8040,36 @@
       "duration_ms": 160000,
       "name": "Infernal Noise",
       "url": "https://open.spotify.com/track/2KL8TfyaV4ZWHSEKhay9ue"
+    },
+    {
+      "album": {
+        "name": "Insane (feat. Smokey)",
+        "url": "https://open.spotify.com/album/2H8HiM2kQdS0UB7uruMeXD"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "GAWM",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Smokey",
+          "url": "https://open.spotify.com/artist/3jxeWOIj5CnXfzYe4QBWz8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Insane (feat. Smokey)",
+      "url": "https://open.spotify.com/track/5shITezD8AudYWChmZtz9T"
     },
     {
       "album": {
@@ -8835,6 +8927,24 @@
     },
     {
       "album": {
+        "name": "Liquid Artefacts",
+        "url": "https://open.spotify.com/album/2iQffbQaEBlOU6e8buZjSU"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196017,
+      "name": "Liquid Artefacts",
+      "url": "https://open.spotify.com/track/5xoEi7btnLecw0FyCdRqZf"
+    },
+    {
+      "album": {
         "name": "LOADED",
         "url": "https://open.spotify.com/album/32C8hb5LmXYLay6nTAjoO6"
       },
@@ -9661,6 +9771,24 @@
     },
     {
       "album": {
+        "name": "Mosh Alarm / FTPU",
+        "url": "https://open.spotify.com/album/2gCsbtjL9p5hdS2KFgIKWJ"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193655,
+      "name": "Mosh Alarm",
+      "url": "https://open.spotify.com/track/1r8YnpN4KAHnQbj8vO2EAW"
+    },
+    {
+      "album": {
         "name": "Moshpit / Comin For Ya Neck",
         "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
       },
@@ -9800,7 +9928,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 222857,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/0GpvXfm6TVjmIGDdCyzM5N"
@@ -14761,6 +14889,24 @@
     },
     {
       "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+    },
+    {
+      "album": {
         "name": "Sweet Revenge",
         "url": "https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc"
       },
@@ -15162,7 +15308,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 197142,
       "name": "Tekno Music",
       "url": "https://open.spotify.com/track/28lZSKBhkzduEmBQQPy4PV"
@@ -17120,7 +17266,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 192000,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/4O0B6KhWiA3ZeZyq14gn57"

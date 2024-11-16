@@ -13547,6 +13547,28 @@
     },
     {
       "album": {
+        "name": "Shinsekai Yori",
+        "url": "https://open.spotify.com/album/2VeVY34DDraFTeX00ou7qY"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Shinsekai Yori",
+      "url": "https://open.spotify.com/track/3NyKPMAryBkJg0Ium7AGgF"
+    },
+    {
+      "album": {
         "name": "Shinso ni site Muteki no Mr. Draluc",
         "url": "https://open.spotify.com/album/1HUXQ6lAm4eSnlcyxIJ888"
       },

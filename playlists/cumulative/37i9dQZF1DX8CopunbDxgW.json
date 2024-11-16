@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment \u2728 with ANOTR",
+  "description": "The best indie dance tracks of the moment \u2708\ufe0f with Flight Facilities",
   "name": "metropolis",
   "tracks": [
     {
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 136666,
       "name": "BITE",
       "url": "https://open.spotify.com/track/3Zjb9pAq1uTsSscSJk9wsS"
@@ -6110,6 +6110,28 @@
       "duration_ms": 220539,
       "name": "Dancing By Night",
       "url": "https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "album": {
@@ -10267,6 +10289,32 @@
     },
     {
       "album": {
+        "name": "GarraGarra",
+        "url": "https://open.spotify.com/album/435uNKRUQ136anVQ5YZSHi"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197638,
+      "name": "GarraGarra",
+      "url": "https://open.spotify.com/track/1yE1gkhMwOERD571EKUYcn"
+    },
+    {
+      "album": {
         "name": "Gave You Everything",
         "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
       },
@@ -10922,6 +10970,28 @@
       "duration_ms": 242362,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Hgtu5s75EqH0skGGdICIr"
+    },
+    {
+      "album": {
+        "name": "Good Kisses",
+        "url": "https://open.spotify.com/album/30P5LzvjUMniT9wJcIAM0H"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202383,
+      "name": "Good Kisses",
+      "url": "https://open.spotify.com/track/7bjwvWMuGobr3qre7d0Lpc"
     },
     {
       "album": {
@@ -11714,6 +11784,28 @@
       "duration_ms": 258280,
       "name": "Hearts Are Opening Up - Passion Pit Remix",
       "url": "https://open.spotify.com/track/3wFZYXt9ZUpyuCpkzY7eTW"
+    },
+    {
+      "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
       "album": {
@@ -14008,7 +14100,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 152804,
       "name": "in heaven",
       "url": "https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6"
@@ -16908,7 +17000,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 139000,
       "name": "Loud",
       "url": "https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj"
@@ -18985,6 +19077,46 @@
     },
     {
       "album": {
+        "name": "Mutations (Empress Of Remix)",
+        "url": "https://open.spotify.com/album/3ZSqEx1tLfIZ6Cgrzwj5Zf"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192845,
+      "name": "Mutations - Empress Of Remix",
+      "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
+    },
+    {
+      "album": {
+        "name": "My Angel Wings",
+        "url": "https://open.spotify.com/album/7K2jfzxLlfygDHjLDl1pXh"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219502,
+      "name": "My Angel Wings",
+      "url": "https://open.spotify.com/track/7f1RRyGa8FUaiYE0tzZxfF"
+    },
+    {
+      "album": {
         "name": "My Love is True",
         "url": "https://open.spotify.com/album/4CmrtDXXIGt1q2B91lLyx0"
       },
@@ -19819,6 +19951,28 @@
     },
     {
       "album": {
+        "name": "nostalgia (with ellie d.)",
+        "url": "https://open.spotify.com/album/4Oi5j3H0Qg84vkOrSHd4go"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        },
+        {
+          "name": "ellie d.",
+          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159075,
+      "name": "nostalgia (with ellie d.)",
+      "url": "https://open.spotify.com/track/4WabJJK1O9l1WcJQvhBJsF"
+    },
+    {
+      "album": {
         "name": "Not My Girl (Yuksek Remix)",
         "url": "https://open.spotify.com/album/1fC2o7HEalSglSvmNRE6Y8"
       },
@@ -20082,7 +20236,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 200294,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
@@ -22408,7 +22562,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 228484,
       "name": "Raining but It's Ok",
       "url": "https://open.spotify.com/track/2O8DpFZN3hBWRaVsVTacKJ"
@@ -26680,7 +26834,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 203333,
       "name": "TEARDROPS",
       "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
@@ -27260,7 +27414,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155861,
       "name": "The Great Pyramid of Stockport",
       "url": "https://open.spotify.com/track/2XJlmLLUqHju9VoAT90VDO"
@@ -27352,6 +27506,24 @@
       "duration_ms": 187302,
       "name": "The Medium",
       "url": "https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV"
+    },
+    {
+      "album": {
+        "name": "No Chaos, No Future",
+        "url": "https://open.spotify.com/album/5WjxXQFZ2kOPS3eRZLbwCM"
+      },
+      "artists": [
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187411,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/7uMYonMYj4tEejKqnRBqfV"
     },
     {
       "album": {
@@ -30080,7 +30252,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179999,
       "name": "Waver",
       "url": "https://open.spotify.com/track/6EhLGfnkaiTcdEVJxRuoxi"
@@ -30346,7 +30518,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 220245,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
@@ -30954,6 +31126,24 @@
       "duration_ms": 166559,
       "name": "with you",
       "url": "https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8"
+    },
+    {
+      "album": {
+        "name": "with you love",
+        "url": "https://open.spotify.com/album/6b8VvCIhRdBzttbucwp8kd"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215458,
+      "name": "with you love",
+      "url": "https://open.spotify.com/track/12puR1dGT6gaaFHwZ5st4J"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "quem deu AULAS em poetas no topo 4??",
+  "description": "\u00e9 dos banco de pra\u00e7a no ttk que o ret d\u00e1 AULAS",
   "name": "AULAS",
   "tracks": [
     {
@@ -684,6 +684,32 @@
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
+    },
+    {
+      "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Acima De Mim S\u00f3 Deus",
+      "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
     },
     {
       "album": {
@@ -8724,7 +8750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 165379,
       "name": "sodade",
       "url": "https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10"

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-196 songs - 15 hr 19 min
+197 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [FEEL THE BEAT](https://open.spotify.com/track/07lXTVglyFGmstcLnDpdAT) | [ABØV](https://open.spotify.com/artist/4k8953mhpM1f8sNe50ZPlm), [BLURREDMOVEMENT](https://open.spotify.com/artist/6OlOGcrJ8WIRYJXcsGjed4) | [RCKLSS011](https://open.spotify.com/album/3gAy86fN8Re5XXsPpG3jrg) | 5:30 | 2024-04-09 | 2024-08-29 |
 | [Feet Down](https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ) | [NineTed](https://open.spotify.com/artist/2Vo7TSjLpWTibQkpZeoEz7) | [COVEN, Vol\. 3](https://open.spotify.com/album/6btbrFS9tvKTEGk4idAK4r) | 6:09 | 2024-04-09 |  |
 | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 | 2024-04-09 |  |
+| [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-15 |  |
 | [Fractured Reality](https://open.spotify.com/track/6cIOLPd3uInITUTJKmnTO7) | [BLNK](https://open.spotify.com/artist/6c4dKwBxfp4bTz118Y3LJf), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Resident of Evil](https://open.spotify.com/album/6scBDlzufkha65gcJlfLTN) | 5:50 | 2024-04-09 | 2024-04-29 |
 | [Frei](https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 3](https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd) | 6:09 | 2024-04-09 | 2024-09-27 |
 | [Fuck This](https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [elMefti](https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy), [FACELESS](https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO) | [Fuck This](https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8) | 3:27 | 2024-04-09 |  |
@@ -96,7 +97,7 @@
 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 | 2024-05-03 |  |
 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2024-10-14 |  |
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 | 2024-05-16 |
-| [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 |  |
+| [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 | 2024-11-16 |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 |  |
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 |  |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |

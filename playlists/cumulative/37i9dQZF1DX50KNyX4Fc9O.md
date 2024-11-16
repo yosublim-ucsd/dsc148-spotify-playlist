@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Shawn Mendes
 
-1,483 songs - 3 day 4 hr 41 min
+1,485 songs - 3 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Real Life = No Fun](https://open.spotify.com/track/6Akiwo0NUV2CcwgQZlbX7S) | [LT](https://open.spotify.com/artist/1H9tC3HHjabSLu8rbq9ECA) | [Real Life = No Fun](https://open.spotify.com/album/4cbN3dl7Fn1cR1Bh0rPjIj) | 2:38 | 2024-08-01 | 2024-08-30 |
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 | 2024-06-27 | 2024-08-17 |
 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 | 2024-01-25 | 2024-02-16 |
+| [Red Flag](https://open.spotify.com/track/0wdTWar4CtD8pXsTjLwhoo) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Red Flag](https://open.spotify.com/album/0W7ODmyAtlwYQB6pkY4iwb) | 2:59 | 2024-11-14 |  |
 | [Red Hearts](https://open.spotify.com/track/4FzDj2dcOdg4A3ucMfXH6z) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Red Hearts](https://open.spotify.com/album/2YalYUP2kKlplTBM6X9qVr) | 3:22 | 2024-06-13 | 2024-07-12 |
 | [Redline \- InHer Room](https://open.spotify.com/track/1fduKAIbqiCeIQjdInGwOz) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Redline \(InHer Room\)](https://open.spotify.com/album/5cF0sx3gtWtvWQj01eOHen) | 3:22 | 2023-12-21 | 2024-01-07 |
 | [Redline \- InHer Room](https://open.spotify.com/track/1w4iW3Bv2BmowTKzE7tORe) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [InHer Room](https://open.spotify.com/album/4yuCd5c4U8IWNPgL671vlx) | 3:22 | 2023-12-21 | 2024-02-02 |
@@ -1283,6 +1284,7 @@
 | [The Greatest](https://open.spotify.com/track/0p4aS6c0Yva2WYrKNQQCnK) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Greatest](https://open.spotify.com/album/4ZrTFJ486SKULQTaWAGfLm) | 5:16 | 2023-08-04 | 2023-09-15 |
 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 | 2023-06-15 | 2023-08-11 |
 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 | 2023-08-10 | 2023-09-15 |
+| [The Kill](https://open.spotify.com/track/17Wy4sPPgnDPpzE7ipkbef) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [The Kill](https://open.spotify.com/album/4tBAVWkI4P7JG8WtBHvoMd) | 3:27 | 2024-11-14 |  |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-03-28 | 2024-05-17 |
 | [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 | 2023-10-26 | 2023-12-15 |
 | [The Letter](https://open.spotify.com/track/70zp2wd8vwOOZSdNM1iyIu) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Letter](https://open.spotify.com/album/1IwrJi9iWeD1E3J7aWzpxP) | 2:57 | 2024-02-01 | 2024-03-01 |

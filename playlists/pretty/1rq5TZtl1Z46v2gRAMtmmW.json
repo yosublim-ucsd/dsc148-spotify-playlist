@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30426,
+  "num_followers": 30431,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPqW6lPGPIjJejizuNfuLUuJEpF5i7",
+  "snapshot_id": "AAAPsJIFaYCjSXKn6oHKynLfHxfLpceq",
   "tracks": [
     {
       "added_at": "2024-10-25 16:57:45",
@@ -115,6 +115,50 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-11-15 13:45:02",
+      "album": {
+        "name": "Mutations (Empress Of Remix)",
+        "url": "https://open.spotify.com/album/3ZSqEx1tLfIZ6Cgrzwj5Zf"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Mutations - Empress Of Remix",
+      "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
+    },
+    {
+      "added_at": "2024-11-15 13:44:17",
+      "album": {
+        "name": "Otherside (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/79B8ebZHtuxsZ4lioIF6UZ"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 243423,
+      "name": "Otherside - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/5nVMKc9crIiOReGVTVgs9e"
     },
     {
       "added_at": "2024-11-13 18:02:43",
@@ -723,38 +767,6 @@
       "duration_ms": 271573,
       "name": "The Kiss",
       "url": "https://open.spotify.com/track/6jOg7Vcj5kzV8RML6YZAKF"
-    },
-    {
-      "added_at": "2024-08-13 13:55:32",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
-    },
-    {
-      "added_at": "2024-08-23 10:39:17",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

@@ -1,13 +1,49 @@
 {
-  "description": "New jazz for open minds. Cover: Butcher Brown",
-  "num_followers": 941206,
+  "description": "New jazz for open minds. Cover: Jon Batiste",
+  "num_followers": 941280,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAADOsGq2ZQoxvkHHfq+SwMZJ",
+  "snapshot_id": "ZzbVUAAAAAAyDbTOrh85rYYvQfpdbpNV",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "5th Symphony In Congo Square",
+        "url": "https://open.spotify.com/album/64ODw4RjSYqKbCNnyhA40l"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 266500,
+      "name": "5th Symphony In Congo Square",
+      "url": "https://open.spotify.com/track/77SYnhEsNZuWMZgt07Tarn"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr"
+      },
+      "artists": [
+        {
+          "name": "Grand Discovery",
+          "url": "https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8"
+        },
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "duration_ms": 185763,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv"
+    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
@@ -27,6 +63,22 @@
       "duration_ms": 244048,
       "name": "Montrose Forest featuring Nicholas Payton",
       "url": "https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Purpose Love",
+        "url": "https://open.spotify.com/album/7pQ7R3at66Ap286Ue4RH6P"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        }
+      ],
+      "duration_ms": 249431,
+      "name": "Purpose Love - Edit",
+      "url": "https://open.spotify.com/track/5QuE3QjTqDbOdWzcLfd56P"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -49,6 +101,22 @@
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Gretel (Bonus Version)",
+        "url": "https://open.spotify.com/album/5kjCi2TvM0tT9CZ5o4CyJl"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 265744,
+      "name": "Gretel - Bonus Version",
+      "url": "https://open.spotify.com/track/01zK7kTBxFjN3wKQjqXF6A"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "GREEN LIGHT",
@@ -67,6 +135,86 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Slow Jam",
+        "url": "https://open.spotify.com/album/4SactMfSvWwG9yXAMqBwK1"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "ToddChamp",
+          "url": "https://open.spotify.com/artist/1ipyEHbmOwfeDwywg1gSc1"
+        }
+      ],
+      "duration_ms": 158435,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/4hX4cUIsRXyja4tDbEcE60"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Black Hole (feat. Reggie Watts)",
+        "url": "https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Black Hole (feat. Reggie Watts)",
+      "url": "https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "SPEED MUSIC \u30bd\u30af\u30c9\u30ce\u30aa\u30f3\u30ac\u30af vol. 9",
+        "url": "https://open.spotify.com/album/0pA58EFSrEJpKr3vaqBxWw"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "\u3042\u306e\u7d20\u6674\u3057\u3044\u611b\u3092\u3082\u3046\u4e00\u5ea6",
+      "url": "https://open.spotify.com/track/1XK941hxwyMaPQuQNB2Yk2"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "LPC",
+        "url": "https://open.spotify.com/album/2O05hVJrKQQqbFGOor9LFN"
+      },
+      "artists": [
+        {
+          "name": "Low Poly Cactus",
+          "url": "https://open.spotify.com/artist/4JCLFRwINNq1g4Je8mRod2"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        },
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        }
+      ],
+      "duration_ms": 296760,
+      "name": "The Whales",
+      "url": "https://open.spotify.com/track/5Zh8iOUvnZAday3MdqNQx7"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -565,34 +713,6 @@
       "url": "https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu"
     },
     {
-      "added_at": "2024-06-28 04:12:13",
-      "album": {
-        "name": "Take the S Line",
-        "url": "https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS"
-      },
-      "artists": [
-        {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "\u6cb3\u91ce\u7950\u4eae",
-          "url": "https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD"
-        },
-        {
-          "name": "\u6749\u6d66\u7766",
-          "url": "https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G"
-        },
-        {
-          "name": "\u5927\u6d25\u60c7",
-          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
-        }
-      ],
-      "duration_ms": 391261,
-      "name": "Take the S Line",
-      "url": "https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Waterfilm",
@@ -651,26 +771,6 @@
       "duration_ms": 310373,
       "name": "Early America",
       "url": "https://open.spotify.com/track/47UW8ILxgNLihpIvKtv6gX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
-        "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 880348,
-      "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 - Bonus Version",
-      "url": "https://open.spotify.com/track/4YBnMQ5ncZUq9HmztP4YVF"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1025,38 +1125,6 @@
       "url": "https://open.spotify.com/track/7yOvhfKshKkcVKoXl7uyYk"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Stories Untold",
-        "url": "https://open.spotify.com/album/7I31LI7vnpEvvaL9WBfbxZ"
-      },
-      "artists": [
-        {
-          "name": "Chiminyo",
-          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
-        },
-        {
-          "name": "Pouya Ehsaei",
-          "url": "https://open.spotify.com/artist/5KmxxBzGfPEMSK5LHhXNGn"
-        },
-        {
-          "name": "sam warner",
-          "url": "https://open.spotify.com/artist/4PO7cBYgYdl00Jht9qSEz1"
-        },
-        {
-          "name": "Maria Chiara Argir\u00f2",
-          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
-        },
-        {
-          "name": "YUIS",
-          "url": "https://open.spotify.com/artist/3NqLVcPDL026pXktKrGA9X"
-        }
-      ],
-      "duration_ms": 239065,
-      "name": "Stories Untold",
-      "url": "https://open.spotify.com/track/60M9BNpDYRRHOzRfs9goAO"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Alternate Summer",
@@ -1345,22 +1413,6 @@
       "url": "https://open.spotify.com/track/5vEKd5RIP82JVRLEppdSab"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/3OeoTPhCDrJjoLv7k4q0xX"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/3X4bZvUv6kTIfCSuYlLBSR"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Odyssey",
@@ -1441,34 +1493,6 @@
       "url": "https://open.spotify.com/track/3DDJ34JYZNJgsOpB5i3DdR"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Seven of Eight",
-        "url": "https://open.spotify.com/album/1uyYsIhvQ0qMFDIhF3cpzI"
-      },
-      "artists": [
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
-        },
-        {
-          "name": "Ted Taforo",
-          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
-        },
-        {
-          "name": "Chino Corval\u00e1n",
-          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
-        },
-        {
-          "name": "David James",
-          "url": "https://open.spotify.com/artist/4KgrOkFtGl8MNhI3kFZSVX"
-        }
-      ],
-      "duration_ms": 236749,
-      "name": "FYIB (Only Right)",
-      "url": "https://open.spotify.com/track/36pW6wknbevdJJawtb5bos"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "iLadi",
@@ -1483,26 +1507,6 @@
       "duration_ms": 414587,
       "name": "iGosa",
       "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2024-04-05 04:35:11",
-      "album": {
-        "name": "Look at Us",
-        "url": "https://open.spotify.com/album/5qjxIl52EeXU4HQO95KrvW"
-      },
-      "artists": [
-        {
-          "name": "Addict Ameba",
-          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
-        },
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        }
-      ],
-      "duration_ms": 300040,
-      "name": "Look at Us",
-      "url": "https://open.spotify.com/track/4doSYqBNDg3bZWlOJhiVYT"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1641,30 +1645,6 @@
       "url": "https://open.spotify.com/track/0XSycNAeV2X4qGuxLTABs5"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Never In My Short Sweet Life (Makaya McCraven Remix)",
-        "url": "https://open.spotify.com/album/7lgzfRbWcQchFcsynkGelI"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        },
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        }
-      ],
-      "duration_ms": 278690,
-      "name": "Never In My Short Sweet Life - Makaya McCraven Remix",
-      "url": "https://open.spotify.com/track/0tYG6RjHYC3nrbyPtbhnQs"
-    },
-    {
       "added_at": "2024-06-21 04:17:13",
       "album": {
         "name": "Batho",
@@ -1711,22 +1691,6 @@
       "duration_ms": 415307,
       "name": "Embracing Dawn",
       "url": "https://open.spotify.com/track/5hyprZ1NQJMmJfjoQm2eBA"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "I Stitched My Mind Back To My Body",
-      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
     },
     {
       "added_at": "2024-09-20 04:00:00",

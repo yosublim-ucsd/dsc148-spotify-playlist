@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 161684,
       "name": "all good",
       "url": "https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV"
@@ -13975,6 +13975,24 @@
     },
     {
       "album": {
+        "name": "leash",
+        "url": "https://open.spotify.com/album/4f18vnruHw4QV2XgTtsZYN"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "leash",
+      "url": "https://open.spotify.com/track/113M5adHRP7MENXMd8Grws"
+    },
+    {
+      "album": {
         "name": "riv3r",
         "url": "https://open.spotify.com/album/1ykp3Kk4ToMaKLgK5hUe4x"
       },
@@ -19588,7 +19606,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 125500,
       "name": "PILLIE COOPER",
       "url": "https://open.spotify.com/track/4XuwBTSUUQ3nUe5VR5S9rJ"
@@ -28682,6 +28700,24 @@
       "duration_ms": 132519,
       "name": "You Is Not Havin",
       "url": "https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF"
+    },
+    {
+      "album": {
+        "name": "YOU LIKE IT, I LOVE IT",
+        "url": "https://open.spotify.com/album/5oWav15w6sexsWEhmejGkg"
+      },
+      "artists": [
+        {
+          "name": "okay coleman!",
+          "url": "https://open.spotify.com/artist/2kAc58JeMNRXTVm3sVHrSN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "YOU LIKE IT, I LOVE IT",
+      "url": "https://open.spotify.com/track/5QFyMSGLLCe1bsfIcKQvnT"
     },
     {
       "album": {

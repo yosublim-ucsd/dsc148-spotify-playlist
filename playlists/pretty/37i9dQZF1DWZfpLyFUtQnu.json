@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 93341,
+  "num_followers": 93393,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Ensemble",
+        "url": "https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
         "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Ensemble",
-        "url": "https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4"
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
         }
       ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF"
+      "duration_ms": 206626,
+      "name": "Evidemment - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -495,22 +511,6 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Babacar (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Evidemment - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Erza Muqoli",
+        "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
+      },
+      "artists": [
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Dommage",
+      "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
         "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 174400,
       "name": "Ton visage - Acoustic",
       "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Erza Muqoli",
-        "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
-      },
-      "artists": [
-        {
-          "name": "Erza Muqoli",
-          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
-        }
-      ],
-      "duration_ms": 287037,
-      "name": "Dommage",
-      "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
     },
     {
       "added_at": "2024-10-03 14:22:43",

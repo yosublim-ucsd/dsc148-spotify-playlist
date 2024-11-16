@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-192 songs - 13 hr 59 min
+193 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All My Life](https://open.spotify.com/track/4n5sqkxZ9Div98rOCulMMm) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [T.R.A.C.](https://open.spotify.com/artist/2EygWXS2PONQf9X130LWtU), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [All My Life](https://open.spotify.com/album/1lVZ4hgSVrtI8q0k4O5V0H) | 4:19 | 2024-07-05 |  |
 | [All the Time](https://open.spotify.com/track/0XQG2DC9cqB0wIyxEsDsWE) | [Macca](https://open.spotify.com/artist/4tSrz6Q49iag8zuKzhdvgy), [Vector](https://open.spotify.com/artist/5bztGANSbmh5gkm5VwUQxy) | [GLOW/4](https://open.spotify.com/album/6zPHcB2Ebsgym5Tf3WJArx) | 5:46 | 2022-01-21 | 2022-07-29 |
 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 | 2024-11-01 |  |
-| [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 | 2024-11-14 |  |
+| [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 | 2024-11-14 | 2024-11-16 |
 | [Another Knot \(feat\. RUE\) \- Satl Remix](https://open.spotify.com/track/2fhJe88ojZi6zqpC8zjicL) | [Dro Carey](https://open.spotify.com/artist/3RwHsu36piLoOoL0Elvse9), [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR), [RUE](https://open.spotify.com/artist/68gyYS6qkUccByQoyNE3l1) | [Another Knot \(feat\. RUE\) \[Satl Remix\]](https://open.spotify.com/album/0RQPSnRH2xCWOrdPBclJyQ) | 4:49 | 2022-01-21 | 2022-07-29 |
 | [Apparition \- Monrroe Remix](https://open.spotify.com/track/6GfiNirfUb6OQqeDQOelpd) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Apparition \(Monrroe Remix\)](https://open.spotify.com/album/4J1FEfktiak8UDcIF58SiN) | 3:43 | 2022-01-21 | 2022-06-24 |
 | [Are You](https://open.spotify.com/track/2FWmAFaVahfD7CLonK1zxS) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Are You](https://open.spotify.com/album/4eguxtM6kcT3gUh9n4novr) | 4:34 | 2022-10-28 | 2024-04-22 |
@@ -174,6 +174,7 @@
 | [Still Messed Up](https://open.spotify.com/track/3uJwMvbxMNMGdboyzVPSTc) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Still Messed Up](https://open.spotify.com/album/11E18jbkAr6TDnKm8H0lX7) | 2:59 | 2023-01-25 | 2024-04-19 |
 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 | 2022-01-21 | 2024-08-05 |
 | [Summer's End](https://open.spotify.com/track/1xSfjrSPQUHyD1xFIJ44vX) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Summer's End](https://open.spotify.com/album/7obp0SlhUqCCHwbnIkAzmN) | 5:18 | 2022-10-28 | 2024-01-05 |
+| [Sweet Talk](https://open.spotify.com/track/3FI3FfnlFwlrQxQXY9MOa6) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Darkstar](https://open.spotify.com/album/2acq6EZFEEXEhERHJmJwM4) | 3:26 | 2024-11-14 |  |
 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 | 2022-01-21 | 2024-07-14 |
 | [Talk About It](https://open.spotify.com/track/1oKw8KL1SDtba01hVtgMAG) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Talk About It](https://open.spotify.com/album/5VFOHj5QhnCL8h9ypivHqN) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Tell Me](https://open.spotify.com/track/0dTQcsPN8diGCNfZkUfP42) | [Vuducru](https://open.spotify.com/artist/5vNv3PGJXFcGbwCjlHcqpx) | [Tell Me](https://open.spotify.com/album/1yoqPoznkVxqXWYPHrXN2M) | 2:48 | 2024-01-05 | 2024-06-20 |

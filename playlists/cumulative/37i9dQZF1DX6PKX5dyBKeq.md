@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Blanco
 
-1,977 songs - 4 day 3 hr 17 min
+1,978 songs - 4 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,6 +998,7 @@
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-06 | 2023-01-20 |
 | [Level & Size](https://open.spotify.com/track/1VoxjPvbXaBmDbrA0C7sme) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N), [Queenie](https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO) | [Level & Size](https://open.spotify.com/album/1t1DvQXZQfiWChkSSZmOSi) | 3:34 | 2024-02-16 | 2024-03-08 |
 | [Levelled Up \(Daily Duppy, Pt\. 1\)](https://open.spotify.com/track/483CEGJC53ib0e5zvAlyfu) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [British Trap Royalty](https://open.spotify.com/album/2pDNZoSBEv4fdNFCBCFUOB) | 2:24 | 2024-07-25 | 2024-10-04 |
+| [Lies](https://open.spotify.com/track/2mXZYJ4XD0SpOEdyaA37Gj) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:32 | 2024-11-15 |  |
 | [Life](https://open.spotify.com/track/6KzWSubE5CRqvCnikxdYI2) | [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5) | [Wiz](https://open.spotify.com/album/2r8qkT7gcYSxiQw8E25Lfv) | 2:36 | 2022-03-08 | 2022-03-09 |
 | [Life of a Immigrant](https://open.spotify.com/track/7wTQB9Xs09KJj4j2Z7Pkfc) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Return of the Immigrant](https://open.spotify.com/album/4gEtWWdmA8kPjrpMaUzYsq) | 3:41 | 2021-11-05 | 2021-12-08 |
 | [life&death](https://open.spotify.com/track/7s6HHNHxLMX1nGDflQazC8) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [fools&errands](https://open.spotify.com/album/32G0PERRm3OOv4k6zwuMx6) | 2:04 | 2024-07-19 | 2024-10-25 |
@@ -1865,7 +1866,7 @@
 | [Victory Lap](https://open.spotify.com/track/1hiHsWOKJq9KNgCwFiKjmf) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Victory Lap](https://open.spotify.com/album/3t692xd7MH6fZ0XqeemiA6) | 2:00 | 2024-05-24 | 2024-09-06 |
 | [Villain](https://open.spotify.com/track/095r7Md0ir4u10BOr5lhQ6) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Hakkz](https://open.spotify.com/artist/1D7I4dxMMjjxxwpO90ezb1) | [Villain](https://open.spotify.com/album/2aGFkdt9ic0SfrPrHoHfLb) | 3:16 | 2020-12-18 | 2021-01-15 |
 | [VIN DIESEL \(feat\. M1llionz\)](https://open.spotify.com/track/7aukE5iU5rSE5yiKHQi7HH) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Adolescence](https://open.spotify.com/album/1UAiwU1rYDq1wORzGEwguN) | 3:07 | 2021-08-03 | 2021-10-09 |
-| [Voicemail](https://open.spotify.com/track/1x3KBx0kDiDzkZmtCaw3nv) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Voicemail](https://open.spotify.com/album/2d5xwOrV5lRwV28KGdY3wc) | 1:52 | 2024-08-30 |  |
+| [Voicemail](https://open.spotify.com/track/1x3KBx0kDiDzkZmtCaw3nv) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Voicemail](https://open.spotify.com/album/2d5xwOrV5lRwV28KGdY3wc) | 1:52 | 2024-08-30 | 2024-11-16 |
 | [VV](https://open.spotify.com/track/6UVnXlFb31mxT4N1anMtl4) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [VV](https://open.spotify.com/album/3aodLzAJQtBXjWOingaewk) | 3:35 | 2020-11-13 | 2021-02-20 |
 | [W2L](https://open.spotify.com/track/6hbaeTUKbpRhqs7DntRjGL) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [W2L](https://open.spotify.com/album/6Vgw8H7YYcQnT1imAr4FOL) | 2:41 | 2023-02-17 | 2023-03-18 |
 | [Wag1 \(feat\. BackRoad Gee\)](https://open.spotify.com/track/4Qneb1ZnpOb64t6qkOzGuB) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Wag1 \(feat\. BackRoad Gee\)](https://open.spotify.com/album/6lQfy7UmSnjrGOW8pOFPhX) | 2:16 | 2021-06-19 | 2021-08-03 |

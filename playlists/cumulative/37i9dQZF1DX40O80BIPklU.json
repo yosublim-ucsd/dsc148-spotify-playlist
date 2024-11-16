@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. MC Davo y Tony Aguirre en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Juan Sinatra en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 163973,
       "name": "100k Pies",
       "url": "https://open.spotify.com/track/1RxebDqBajjS8vBWWN2ZZK"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 210261,
       "name": "En los Brazos de Morfeo",
       "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 200930,
       "name": "Enemigo de las Leyes",
       "url": "https://open.spotify.com/track/5NnlIpnudDfVZ76j5e2pea"
@@ -3971,6 +3971,28 @@
     },
     {
       "album": {
+        "name": "Iglesias Vac\u00edas",
+        "url": "https://open.spotify.com/album/1QuxnpfEdxJxqlIHdm4zlh"
+      },
+      "artists": [
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154975,
+      "name": "Iglesias Vac\u00edas",
+      "url": "https://open.spotify.com/track/7v62UDtiIdjTYPC7uyhQwa"
+    },
+    {
+      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG"
       },
@@ -4314,7 +4336,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 173414,
       "name": "Konbini Wars",
       "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
@@ -5064,7 +5086,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 171720,
       "name": "Lismar: Bzrp Music Sessions, Vol. 60",
       "url": "https://open.spotify.com/track/6clUGlB6OfxAPHWyaWkIDd"
@@ -6127,6 +6149,28 @@
     },
     {
       "album": {
+        "name": "Miss Diablo II",
+        "url": "https://open.spotify.com/album/4PvluDGLgxbTbbQkmiNFoi"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173154,
+      "name": "Miss Diablo II",
+      "url": "https://open.spotify.com/track/4MqfOq9S5xrYqKlKa2UqvN"
+    },
+    {
+      "album": {
         "name": "Mitolo G's",
         "url": "https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1"
       },
@@ -6414,7 +6458,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 246666,
       "name": "Ni Con Money",
       "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
@@ -7335,6 +7379,32 @@
     },
     {
       "album": {
+        "name": "Renacimiento",
+        "url": "https://open.spotify.com/album/3sZ9b3sNu5RKCbH8c3UBjV"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Ily Wonder",
+          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306352,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/0iYuu90RJ5U5HkaunW1bC2"
+    },
+    {
+      "album": {
         "name": "Problem\u00e1tico",
         "url": "https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc"
       },
@@ -7868,7 +7938,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 164275,
       "name": "Rompiendo La Liga",
       "url": "https://open.spotify.com/track/3j41bTKSfMf6n2nSsSQ68p"
@@ -8642,7 +8712,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186666,
       "name": "Tajazar\u00e1o'",
       "url": "https://open.spotify.com/track/4UeJeSlp9HpecQDhucNjEN"
@@ -9039,6 +9109,28 @@
     },
     {
       "album": {
+        "name": "Tinto de Vera",
+        "url": "https://open.spotify.com/album/0nnhYpgj9a4mx56XLymeVp"
+      },
+      "artists": [
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        },
+        {
+          "name": "Chenguedengue",
+          "url": "https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190229,
+      "name": "Tinto de Vera",
+      "url": "https://open.spotify.com/track/0chyCwPaUljg0c8mXpSZxz"
+    },
+    {
+      "album": {
         "name": "TIROTEO #2: Leyenda como Kobe",
         "url": "https://open.spotify.com/album/4JReHBiLBiHl2JWJ7kiX9L"
       },
@@ -9398,6 +9490,28 @@
       "duration_ms": 194723,
       "name": "Una Calada",
       "url": "https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN"
+    },
+    {
+      "album": {
+        "name": "Una Copa",
+        "url": "https://open.spotify.com/album/1ZUv9gIHhAXpC00sjmAjS3"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Una Copa",
+      "url": "https://open.spotify.com/track/7pXGoroCMyPQVLQmVHCn1z"
     },
     {
       "album": {
@@ -9800,7 +9914,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 143119,
       "name": "\u00bfAlgo Que Decir?",
       "url": "https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C"

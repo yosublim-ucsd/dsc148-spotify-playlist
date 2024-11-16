@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cordae\)
 
-2,423 songs - 5 day 2 hr 50 min
+2,425 songs - 5 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-21 | 2022-09-09 |
 | [Doll](https://open.spotify.com/track/4bbD3gA9DjCGpI1F48aoVY) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL), [Fareedpf](https://open.spotify.com/artist/1VOd3Fcm6twv4nfk0pNvwZ) | [Doll](https://open.spotify.com/album/24aoC0ZI8fu7Zw0x61j0d1) | 3:03 | 2022-02-03 | 2022-03-04 |
 | [Dollar & A Dream](https://open.spotify.com/track/3arQ3FXS8fgowXZtpNbpnZ) | [Nyiam](https://open.spotify.com/artist/4POGSRllhjWtkhgBpWdYAx) | [Dollar & A Dream](https://open.spotify.com/album/4PnDwaP8KMh1TqVB2Ypdb5) | 3:24 | 2022-01-20 | 2022-02-25 |
+| [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 | 2024-11-14 |  |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-11-09 | 2024-01-26 |
 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:35 | 2022-09-23 | 2022-11-11 |
 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 | 2022-02-04 | 2022-03-04 |
@@ -2144,6 +2145,7 @@
 | [Tokyu Hands Shinjuku 7F](https://open.spotify.com/track/7MACq9SlKI1IY6imiwOsoR) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh) | [Tokyu Hands Shinjuku 7F](https://open.spotify.com/album/3hWKYzcAE8Yl0qE9d3mk1s) | 2:08 | 2022-09-08 | 2022-09-30 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-22 | 2022-11-11 |
 | [Tony Soprano 3](https://open.spotify.com/track/0y4jUgtW1KlE9CCLxhNBZi) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Tony Soprano 3](https://open.spotify.com/album/3tNDHapnIvSxJ30BoXFoOR) | 3:35 | 2024-09-20 | 2024-10-25 |
+| [Too Bad](https://open.spotify.com/track/1WDjFpLgiMgtcPk2ObFmQf) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [She.](https://open.spotify.com/album/7fMcS6WbnDIIiuZiiUNUzF) | 2:44 | 2024-11-14 |  |
 | [Too Dope](https://open.spotify.com/track/2jsbE3rYt2j2PGs3paJDLx) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Too Dope](https://open.spotify.com/album/70LmG6U7i8v69jQWXhx5Ul) | 2:13 | 2024-02-29 | 2024-04-26 |
 | [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 | 2024-09-20 | 2024-11-15 |
 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 | 2023-07-20 | 2023-09-08 |

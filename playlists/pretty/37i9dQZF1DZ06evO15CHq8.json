@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 620830,
+  "num_followers": 621003,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAABRfT3cnCgfbcfn9vaAu0fD",
+  "snapshot_id": "ZzU9gAAAAABgO+bxoP4h9DmpaJhfMllg",
   "tracks": [
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+        "name": "Grey Gorilla",
+        "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
       },
       "artists": [
+        {
+          "name": "Ramirez",
+          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 133920,
-      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
-      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+      "duration_ms": 192809,
+      "name": "Grey Gods",
+      "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grey Gorilla",
-        "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
       "artists": [
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 192809,
-      "name": "Grey Gods",
-      "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
+      "duration_ms": 133920,
+      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
+      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodnight Lovell",
-        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
-      },
-      "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        },
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 145202,
-      "name": "JOAN OF ARC",
-      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodnight Lovell",
+        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        },
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 145202,
+      "name": "JOAN OF ARC",
+      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KILL YOURSELF Part XIV: The Vulture Saga",
         "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 123285,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106340,
-      "name": "What the Fuck is Happening",
-      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
     },
     {
       "added_at": null,

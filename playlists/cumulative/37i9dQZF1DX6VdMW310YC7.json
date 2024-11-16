@@ -4424,7 +4424,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 207665,
       "name": "Carry Me Through",
       "url": "https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u"
@@ -28180,6 +28180,32 @@
       "duration_ms": 167400,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/3xbxh3LW9v6E3wn1AwUJfe"
+    },
+    {
+      "album": {
+        "name": "Visage 8 (Steps)",
+        "url": "https://open.spotify.com/album/2kb4wuBoAlLU8lPLZMSU0u"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "MALIAN",
+          "url": "https://open.spotify.com/artist/0d6VNGVzfu99Bs0qi6CpD2"
+        },
+        {
+          "name": "Roundrobin",
+          "url": "https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Qrion",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: BLOND:ISH",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -1159,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Fales Nela Que A Mentes",
         "url": "https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL"
       },
@@ -1362,7 +1384,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 174325,
       "name": "Club classics featuring bb trickz",
       "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 156521,
       "name": "crush",
       "url": "https://open.spotify.com/track/6KGsHohZ5ohVgr5N9l7kAY"
@@ -1944,7 +1966,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 169275,
       "name": "Embers",
       "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
@@ -2060,6 +2082,28 @@
       "duration_ms": 205440,
       "name": "Every Breath",
       "url": "https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/3Fkcm2XVPL6LPcPANqMLMB"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384361,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/6A6mNDfIirCXtlc2LVbRS1"
     },
     {
       "album": {
@@ -2208,6 +2252,10 @@
         {
           "name": "Amelie Lens",
           "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
       "date_added": "2024-10-11",
@@ -2684,6 +2732,28 @@
       "duration_ms": 203211,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
     },
     {
       "album": {
@@ -3273,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Grindhouse",
+        "url": "https://open.spotify.com/album/2hmpO5xhgvo9EXM7JEUm5s"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS"
+    },
+    {
+      "album": {
         "name": "Groove Express",
         "url": "https://open.spotify.com/album/4EOTGPBPGET07IxtLjQyST"
       },
@@ -3368,7 +3456,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
@@ -4678,7 +4766,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 205000,
       "name": "Like I Need U",
       "url": "https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42"
@@ -5351,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Mwah",
+        "url": "https://open.spotify.com/album/5fUAow202mYhir0OBgCdQ4"
+      },
+      "artists": [
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219690,
+      "name": "Mwah",
+      "url": "https://open.spotify.com/track/1LtGmapXNx64VNyAY9qbc4"
+    },
+    {
+      "album": {
         "name": "My Dazed Friend",
         "url": "https://open.spotify.com/album/4tpuNsHzxBcuA0ZWuSHM8Y"
       },
@@ -5718,7 +5824,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 142280,
       "name": "oceanic (feat. Vagabon) [rebirth]",
       "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
@@ -6952,6 +7058,28 @@
       "duration_ms": 186500,
       "name": "Space",
       "url": "https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9"
+    },
+    {
+      "album": {
+        "name": "Spark (feat. yun\u00e8 pinku)",
+        "url": "https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Spark (feat. yun\u00e8 pinku)",
+      "url": "https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0"
     },
     {
       "album": {

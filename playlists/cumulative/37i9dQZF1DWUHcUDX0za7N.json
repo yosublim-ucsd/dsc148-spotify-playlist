@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Olamide",
+  "description": "Hip hop and rap music from Nigeria. Cover: King Perryy",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Belong to You",
       "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155193,
       "name": "Bestfriend",
       "url": "https://open.spotify.com/track/5yPuzx6e37uehcBxjI37aU"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 131919,
       "name": "Big Deel",
       "url": "https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 154960,
       "name": "Casa",
       "url": "https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "D-RIDE (feat. SadBoi)",
       "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
@@ -3072,6 +3072,32 @@
       "duration_ms": 194920,
       "name": "Egbon",
       "url": "https://open.spotify.com/track/2mfmd4yGuAyoblktI50Z3i"
+    },
+    {
+      "album": {
+        "name": "EKWE",
+        "url": "https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "EKWE",
+      "url": "https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF"
     },
     {
       "album": {
@@ -4197,6 +4223,32 @@
     },
     {
       "album": {
+        "name": "Niggas From The South",
+        "url": "https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Hitboy Kellz",
+          "url": "https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/612ZmfgN8sC6XYXnnTi42v"
+    },
+    {
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -4954,7 +5006,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 125179,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/69osM3SWBJRW2UshVtsz9X"
@@ -5234,7 +5286,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 160615,
       "name": "LETTER 222 DELE",
       "url": "https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV"
@@ -5278,7 +5330,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 188000,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV"
@@ -6342,7 +6394,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 189199,
       "name": "No Love In Lagos",
       "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
@@ -6925,6 +6977,28 @@
     },
     {
       "album": {
+        "name": "Gilberto's Son",
+        "url": "https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162711,
+      "name": "OneEighteen",
+      "url": "https://open.spotify.com/track/6pu3HJGsDUJCwQxPNPSFNu"
+    },
+    {
+      "album": {
         "name": "Open The Front Door",
         "url": "https://open.spotify.com/album/3s6R1QUm992adma0tFufO6"
       },
@@ -7276,7 +7350,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 153428,
       "name": "Patience Ozokwor",
       "url": "https://open.spotify.com/track/1LNvzS4MixvOYyAIHorfVO"
@@ -8080,7 +8154,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 156444,
       "name": "Rocksteady",
       "url": "https://open.spotify.com/track/4kJXMh8UNRxQlEqWZR5VIz"

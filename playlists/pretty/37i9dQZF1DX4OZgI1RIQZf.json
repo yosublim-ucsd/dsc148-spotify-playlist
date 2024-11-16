@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 135347,
+  "num_followers": 135292,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Never Truly Happy",
-        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
-      },
-      "artists": [
-        {
-          "name": "NESYA",
-          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
-        }
-      ],
-      "duration_ms": 136459,
-      "name": "delulu",
-      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Never Truly Happy",
+        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
+      },
+      "artists": [
+        {
+          "name": "NESYA",
+          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
+        }
+      ],
+      "duration_ms": 136459,
+      "name": "delulu",
+      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Beat the Devil's Tattoo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 232786,
       "name": "River Styx",
       "url": "https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Four Words to Stand On",
         "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211480,
       "name": "Standing on Ghosts",
       "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Young-Girl Forever",
+        "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 170990,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Carry On The Grudge",
         "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 246186,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 226622,
       "name": "MORBID FASCINATION",
       "url": "https://open.spotify.com/track/5cZQ33YXXZgLXwc0egqPl3"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "A Quick One (Remastered)",
-        "url": "https://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 149213,
-      "name": "Boris The Spider - New Remix",
-      "url": "https://open.spotify.com/track/17JpQPUX1xbtpL19dDmYCQ"
     }
   ],
   "unique_name": "Indie Halloween",

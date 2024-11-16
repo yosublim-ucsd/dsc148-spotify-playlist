@@ -4,7 +4,7 @@
 
 > The best new Irish alternative sounds\. Cover: Joe Butler
 
-101 songs - 5 hr 56 min
+103 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-20 | 2024-07-05 |
 | [Following the Night](https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy) | [Telebox](https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s) | [When Night Turns Into Day](https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE) | 3:10 | 2024-07-12 |  |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-20 |  |
+| [Forgets His Name](https://open.spotify.com/track/5dUMR6aBvisgyjMnr3NQmU) | [Pauric O' Meara](https://open.spotify.com/artist/4qEun8m2ex3CQowKhg7mpS) | [Forgets His Name](https://open.spotify.com/album/0Fiz5AXvGZ5vF90aUukW7y) | 3:42 | 2024-11-15 |  |
 | [Geek Love](https://open.spotify.com/track/6mAx6HpOuJDRbrcj9olnPD) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Geek Love](https://open.spotify.com/album/3tgHVBF744MI6SU0QrpT0J) | 3:56 | 2024-10-08 |  |
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 | 2024-08-30 |
 | [Haunted](https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Haunted](https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr) | 3:32 | 2024-06-20 |  |
@@ -57,6 +58,7 @@
 | [Letdown](https://open.spotify.com/track/7sSabxVsemgRKm54oqJSn4) | [Robstar](https://open.spotify.com/artist/3H1ohSP5ALAJPLqwTYWZWz), [Scar$](https://open.spotify.com/artist/0u9B7tJYmF1en0xXivFIKv), [Kami](https://open.spotify.com/artist/2xNf3dmNPdle9Q7VWTQpcC) | [Letdown](https://open.spotify.com/album/6wGsUPdxsSE0gtuUopgQ0Y) | 3:24 | 2024-06-20 | 2024-08-30 |
 | [Lucy](https://open.spotify.com/track/0cTIMuTfgEHWfyb3ZDNv0P) | [Famille Rose](https://open.spotify.com/artist/09nB31lj0UTU6yxn9HoxwI) | [Lucy](https://open.spotify.com/album/5XFeaOYkQiSUetAccVt7mb) | 4:21 | 2024-06-20 |  |
 | [Mango](https://open.spotify.com/track/60WMnp10PEgJifKRHZ5NUb) | [Amphigory](https://open.spotify.com/artist/07i7WBXmO96RPjcPqtxG0D) | [I Sobbingly Beg For Somebody To Know Me](https://open.spotify.com/album/5kmiFZ6mqTJXzCvD9HwR59) | 3:54 | 2024-07-12 |  |
+| [maybe](https://open.spotify.com/track/1AQmYkrJ386Ct5ZooU4qEk) | [telekura](https://open.spotify.com/artist/4RVcjmP8ppJczQZCUn25NV) | [maybe](https://open.spotify.com/album/4tC9GiFzu3R9su6g0bSHwp) | 3:11 | 2024-11-15 |  |
 | [Melty Brains](https://open.spotify.com/track/7fMLJ0Dg5jH0s4gSIg98vm) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Melty Brains](https://open.spotify.com/album/3o4mCtZvXRIs7xsliNPOBz) | 3:33 | 2024-06-20 | 2024-09-06 |
 | [MENACE \- bonus track](https://open.spotify.com/track/0LJjpaO98U0wGBLIxp5DDD) | [Filmore!](https://open.spotify.com/artist/2EVDuvjKJECGVAFvRN55s3), [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU) | [Filmore!](https://open.spotify.com/album/1fHlgTVnnjMOntcxLJy08l) | 2:35 | 2024-06-20 | 2024-08-30 |
 | [mercury](https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc) | [kleio](https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT) | [mercury](https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5) | 3:17 | 2024-07-25 |  |

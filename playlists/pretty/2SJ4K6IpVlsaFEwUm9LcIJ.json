@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22108,
+  "num_followers": 22116,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALUlP7WjCTows2Wr74UNxQ4JpyXlRg",
+  "snapshot_id": "AAALVH2pA+HojdlhcP2eShyJUr0ECJYm",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -227,6 +227,38 @@
       "duration_ms": 208966,
       "name": "Marginalia #181",
       "url": "https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq"
+    },
+    {
+      "added_at": "2024-11-15 22:11:11",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX"
+    },
+    {
+      "added_at": "2024-11-15 22:11:26",
+      "album": {
+        "name": "Trapped In The Body Of A White Girl",
+        "url": "https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2"
+      },
+      "artists": [
+        {
+          "name": "Julie Brown",
+          "url": "https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv"
+        }
+      ],
+      "duration_ms": 278360,
+      "name": "The Homecoming Queen's Got a Gun",
+      "url": "https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh"
     }
   ],
   "unique_name": "thoughts never said aloud",

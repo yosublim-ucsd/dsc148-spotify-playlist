@@ -1,12 +1,12 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180196,
+  "num_followers": 180202,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylU9gAAAAAkGYpZqu3YJV/RrBFH34k5",
+  "snapshot_id": "ZzbVUAAAAACDBARe4HQla/UB6vP6m8lT",
   "tracks": [
     {
       "added_at": "2024-10-18 22:43:16",
@@ -588,7 +588,7 @@
           "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         },
         {
-          "name": "Mare Advertencia Lirika",
+          "name": "Mare Advertencia",
           "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
         }
       ],
@@ -2719,6 +2719,22 @@
       "duration_ms": 127453,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/2ZPYWMdJ8ro0KXsPYBE8YE"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Sub-Mariner (1966 Theme) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/0zdD8IZCwSXbDrrNgDduHQ"
+      },
+      "artists": [
+        {
+          "name": "Marvel Chorus",
+          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
+        }
+      ],
+      "duration_ms": 49415,
+      "name": "Sub-Mariner (1966 Theme) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/4hDQvEL3hJlRhvDHsdcay9"
     },
     {
       "added_at": "2024-01-05 18:09:37",

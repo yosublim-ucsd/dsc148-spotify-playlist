@@ -4479,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "Navegue No Seu Pr\u00f3prio Rio",
+        "url": "https://open.spotify.com/album/5igA3zBsqyH0qwQHr5KNhf"
+      },
+      "artists": [
+        {
+          "name": "All\u00ea Barbosa",
+          "url": "https://open.spotify.com/artist/2FRgntiTtDuOhfwh7Rw1wq"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168545,
+      "name": "Navegue No Seu Pr\u00f3prio Rio",
+      "url": "https://open.spotify.com/track/5uS0ZbPUzCy9B16pWUF5T3"
+    },
+    {
+      "album": {
         "name": "Negro Amor (It's All Over Now, Baby Clue)",
         "url": "https://open.spotify.com/album/2ld6L7n11bXJYsjHgBDOgr"
       },
@@ -6300,7 +6318,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 202813,
       "name": "Roll it on Home",
       "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"

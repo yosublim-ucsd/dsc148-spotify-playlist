@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296615,
+  "num_followers": 296725,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
+      },
+      "artists": [
+        {
+          "name": "Ally Nicholas",
+          "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
+        }
+      ],
+      "duration_ms": 150685,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
         "name": "Believers Never Die - Greatest Hits",
         "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
-      },
-      "artists": [
-        {
-          "name": "Ally Nicholas",
-          "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
-        }
-      ],
-      "duration_ms": 150685,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 244358,
       "name": "Next To Nothing",
       "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Life Under The Gun",
-        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 140027,
-      "name": "Never Fucked Up Once",
-      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "The Rift",
         "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Drop Me Out",
-        "url": "https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo"
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
       },
       "artists": [
         {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
         }
       ],
-      "duration_ms": 237122,
-      "name": "Drop Me Out",
-      "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
+      "duration_ms": 140027,
+      "name": "Never Fucked Up Once",
+      "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Datura",
+        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 237359,
+      "name": "Crocus",
+      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Datura",
-        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
+        "name": "Drop Me Out",
+        "url": "https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo"
       },
       "artists": [
         {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 237359,
-      "name": "Crocus",
-      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
+      "duration_ms": 237122,
+      "name": "Drop Me Out",
+      "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
-      },
-      "artists": [
-        {
-          "name": "CHIG",
-          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
-        }
-      ],
-      "duration_ms": 226898,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
-        "name": "Too Quick to Forgive",
-        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 261345,
-      "name": "Savior Mode",
-      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 258466,
       "name": "Learn to Hate",
       "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+      },
+      "artists": [
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "duration_ms": 226898,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+        "name": "Too Quick to Forgive",
+        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+      "duration_ms": 261345,
+      "name": "Savior Mode",
+      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
         "name": "When You Think It's Right It's Always Wrong",
         "url": "https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 250213,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Find Sense. Feel Love. Make Light.",
-        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
-      },
-      "artists": [
-        {
-          "name": "House & Home",
-          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
-        }
-      ],
-      "duration_ms": 201464,
-      "name": "Shrunken Head",
-      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 211046,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Find Sense. Feel Love. Make Light.",
+        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
+      },
+      "artists": [
+        {
+          "name": "House & Home",
+          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
+        }
+      ],
+      "duration_ms": 201464,
+      "name": "Shrunken Head",
+      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Jawbreaker",
-        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Jawbreaker",
-      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Fail You",
         "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Torpedo",
-        "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
+        "name": "God Bless the 90s Kids",
+        "url": "https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1"
       },
       "artists": [
         {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 224073,
-      "name": "Torpedo",
-      "url": "https://open.spotify.com/track/5a64Hp9Cihvn7EYvyUGEjl"
+      "duration_ms": 203192,
+      "name": "God Bless the 90s Kids",
+      "url": "https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV"
     }
   ],
   "unique_name": "Anger Management",

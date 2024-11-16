@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-105 songs - 6 hr 7 min
+106 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [She Don't Give A Fov](https://open.spotify.com/track/0VObSXd35k7s2k1IKUjWxn) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [She Don't Give A Fov](https://open.spotify.com/album/0i5GXyIZkYZPwnnbzKoSqs) | 3:23 | 2023-11-29 |  |
 | [Si La Calle Llama](https://open.spotify.com/track/3rQZqRXlTOVZfvbdQacDQk) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Lucas Cash](https://open.spotify.com/artist/4kBk37a53jWlSwkVin09yc) | [Si La Calle Llama](https://open.spotify.com/album/4m16XCvXUhusYd50fX994O) | 2:12 | 2023-11-29 | 2024-04-13 |
 | [Sin Señal \(House\) \- Remix](https://open.spotify.com/track/1IxB1iN8fAjImvSuiV8zFd) | [Lucas Perezz](https://open.spotify.com/artist/2faK9Vn2WDB2rhJ6WRFWsL), [Esti Romeo](https://open.spotify.com/artist/1wXi2gt7dDHXztNNc7kMT6), [Santi Dome](https://open.spotify.com/artist/62ysFsCfzsF4LLRmOphXhM) | [Sin Señal \(House\) \[Remix\]](https://open.spotify.com/album/3JaPjNHBMPwET4ty8LO35B) | 2:46 | 2023-11-29 |  |
+| [STANDLY \| Mission 21](https://open.spotify.com/track/2GJf9S6H5HZuoJbMiaXWeK) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [STANDLY \| Mission 21](https://open.spotify.com/album/7p97U0FfUNwo8G3xE3dd8c) | 3:11 | 2024-11-15 |  |
 | [Subelov](https://open.spotify.com/track/77P185wGIvBYhu4a8TIFVi) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [Boyd](https://open.spotify.com/artist/0QtxgMEY12DcJZjMcSSaHm) | [Subelov](https://open.spotify.com/album/3JFwv1dHqS7jnRUsKl73nJ) | 2:55 | 2023-11-29 |  |
 | [Tacones Rojos \- Tiësto Remix](https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 3:22 | 2023-11-29 |  |
 | [Titan \(Tech House\) \- Remix](https://open.spotify.com/track/0dplo0qy0y42PlrSZAFmCw) | [Naty Camilo](https://open.spotify.com/artist/6Zk7Lvy85fEEHeWuB8iV7q), [Nacho Radesca](https://open.spotify.com/artist/5NvKIyEfd3idvDTdfCoWsu) | [Titan \(Tech House\)](https://open.spotify.com/album/4UrT5n94Ka2CyZH96pZFRj) | 2:07 | 2023-11-29 | 2024-03-29 |

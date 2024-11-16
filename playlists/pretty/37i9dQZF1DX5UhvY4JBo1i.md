@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,491 likes - 48 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,498 likes - 48 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 23 | [ゆるぎないものひとつ](https://open.spotify.com/track/6HOj3XHDPTIPxZxvl1gn4k) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [MONSTER](https://open.spotify.com/album/1KhVnTC6ZqlGauxbrkvu1w) | 4:37 |
 | 24 | [名探偵コナン愛のテーマ](https://open.spotify.com/track/1xq00MfmWouCjGppzvy4zr) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 探偵たちの鎮魂歌 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0dDgRi3DAoAPkevbJTyPym) | 1:12 |
 | 25 | [夏を待つセイル \(帆\)のように](https://open.spotify.com/track/5fEVHZXvkFmzA59csUBgXZ) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [星のかがやきよ/夏を待つセイル（帆）のように](https://open.spotify.com/album/2K0gt5eUoq9Rkhb6j8xdSD) | 4:33 |
-| 26 | [想い出たち\~想い出\~ \- 水平線上ヴァージョン](https://open.spotify.com/track/6LTrISx940TTFVPdpVXuT6) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 水平線上の陰謀 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0ajo3xLjRF2DHql3L8ukNm) | 4:16 |
+| 26 | [想い出たち～想い出～ \- 水平線上ヴァージョン](https://open.spotify.com/track/6LTrISx940TTFVPdpVXuT6) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 水平線上の陰謀 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0ajo3xLjRF2DHql3L8ukNm) | 4:16 |
 | 27 | [Time after time \~花舞う街で\~ \(theater version\)](https://open.spotify.com/track/6p7zWUrMceo4GrJyFQFlGY) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:10 |
 | 28 | [ぼくがいる～コナンのテーマ～ \- 銀翼ヴァージョン](https://open.spotify.com/track/1mttCw9rm9WVgtcVM95ne3) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 銀翼の奇術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/40R0gMfyMtbF9cf3e0jd4v) | 2:46 |
 | 29 | [キミがいれば \- 十字路ヴァージョン](https://open.spotify.com/track/0SOFfTJMGdeyb4HZaE1dDP) | [Reiko](https://open.spotify.com/artist/2gNfmIDlKDgwqbilGU5i94) | [名探偵コナン 迷宮の十字路 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4USo0BCeycCmbYn8Z2peAv) | 3:03 |

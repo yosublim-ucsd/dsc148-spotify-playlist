@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Game of Pretend",
+        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259568,
+      "name": "Game of Pretend",
+      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
+    },
+    {
+      "album": {
         "name": "Get Me Out of Here",
         "url": "https://open.spotify.com/album/3by6C0jQ7x8YyfZB3s8VCs"
       },
@@ -3016,7 +3034,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 285333,
       "name": "I Wish I Had",
       "url": "https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31"
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 217295,
       "name": "Passing Sun",
       "url": "https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT"
@@ -5776,6 +5794,24 @@
       "duration_ms": 243319,
       "name": "Things Happen",
       "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "album": {
+        "name": "this is me now",
+        "url": "https://open.spotify.com/album/0scdYf8gP2F8HDNMLt2lvh"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "this is me now",
+      "url": "https://open.spotify.com/track/3ZXgBDt3B8JAU8pGdbnvqt"
     },
     {
       "album": {

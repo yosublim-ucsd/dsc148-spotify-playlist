@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KAVE\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,519 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,506 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 23 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 |
 | 24 | [Loving You](https://open.spotify.com/track/05Jq13UnAFaacFTCUadnDC) | [LEEYOUNGWOONG](https://open.spotify.com/artist/6lA59rirEDW0rZFUV0TfCu), [sunoa](https://open.spotify.com/artist/6N67hO98Q9C9Iam30gpcqQ) | [Loving You](https://open.spotify.com/album/4wUTMXz0OvkPtLXrbmsoA8) | 3:27 |
 | 25 | [POP UP](https://open.spotify.com/track/1hZUb6Lk1YUENriSC9bI8H) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [POP UP](https://open.spotify.com/album/6Ot4mjth1BcXriAF4mQj3I) | 3:17 |
-| 26 | [Childhood](https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8) | [Jin Hwi PARK](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Childhood](https://open.spotify.com/album/77B9vnVZvFwe4yGIYstiKp) | 4:00 |
+| 26 | [Childhood](https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8) | [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Childhood](https://open.spotify.com/album/77B9vnVZvFwe4yGIYstiKp) | 4:00 |
 | 27 | [Gaia](https://open.spotify.com/track/4y7WDTY7z2GBAhSNkCbHH2) | [BØJEONG](https://open.spotify.com/artist/16kfFwTVflpU672fr6Z1cA) | [kin](https://open.spotify.com/album/6wFw220zFDwivl2i8sONE5) | 3:55 |
 | 28 | [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 |
 | 29 | [Into the darkness](https://open.spotify.com/track/3NXUhef1JwHO5cMJb9Mw4a) | [Mind Core](https://open.spotify.com/artist/6bIe8ZdXw7LGBW2fAKGcc2) | [Into the darkness](https://open.spotify.com/album/6FyezVW730jaxduUyLWpBd) | 3:37 |

@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
+        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Luis Ornelas y su Grupo",
+          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111605,
+      "name": "Cumbia buena",
+      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
+    },
+    {
+      "album": {
         "name": "Vivo Niceto Club",
         "url": "https://open.spotify.com/album/3tbUBD2mtaeIDsjsyNAshh"
       },
@@ -570,7 +592,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 168253,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
@@ -648,6 +670,28 @@
       "duration_ms": 116579,
       "name": "El Humo del Cigarrillo - En Vivo",
       "url": "https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9"
+    },
+    {
+      "album": {
+        "name": "El Maestro (En Vivo)",
+        "url": "https://open.spotify.com/album/3zF4GveHnKZxpDUbyz4eOM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260411,
+      "name": "El Maestro - En Vivo",
+      "url": "https://open.spotify.com/track/0lPf2bsPuQb3nJBKPZcA3q"
     },
     {
       "album": {
@@ -746,6 +790,28 @@
       "duration_ms": 199435,
       "name": "Ella Dijo / Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
+    },
+    {
+      "album": {
+        "name": "Enganchados (En Vivo)",
+        "url": "https://open.spotify.com/album/5UdE4g149BQ2weTXiGIh20"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Valesk' Naconda",
+          "url": "https://open.spotify.com/artist/5ITLHNYKb5XG9GZunQdgOy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363000,
+      "name": "Enganchados - En Vivo",
+      "url": "https://open.spotify.com/track/3WjsXW2frtUZteyw6AvAxp"
     },
     {
       "album": {
@@ -1028,10 +1094,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 312032,
       "name": "Hoy Te Vi / El Paredon - En Vivo",
       "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "album": {
+        "name": "Inolvidable (En Vivo)",
+        "url": "https://open.spotify.com/album/1d7wuYyHZyJMUwT7tlki5M"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "La Guitarra de Pila",
+          "url": "https://open.spotify.com/artist/7yeiKcOihagxn1Q1rZ5oKq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148509,
+      "name": "Inolvidable - En Vivo",
+      "url": "https://open.spotify.com/track/3X8U1BnkXXGOszX4YjKeVE"
     },
     {
       "album": {
@@ -1086,7 +1174,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 64017,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
@@ -1568,7 +1656,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 208619,
       "name": "Me Muero de Amor - En Vivo",
       "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
@@ -1782,7 +1870,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 203253,
       "name": "M\u00e1tame",
       "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
@@ -2054,6 +2142,28 @@
       "duration_ms": 269848,
       "name": "Perdoname / Te Quiero a Ti - En Vivo",
       "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+    },
+    {
+      "album": {
+        "name": "Session #14 Los Charros",
+        "url": "https://open.spotify.com/album/6OocCESiVHo7bc1fX1RNWb"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Viva",
+          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
+        },
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100710,
+      "name": "Pero no puedo",
+      "url": "https://open.spotify.com/track/6S0wOHLCXlWmYeF1jjuHqZ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Scotify](https://open.spotify.com/playlist/37i9dQZF1DX7hDC7HCAEdb)
 
-> The best new alternative sounds from Scotland\. Cover: Franz Ferdinand
+> The best new alternative sounds from Scotland\. Cover: VUKOVI
 
-96 songs - 5 hr 24 min
+100 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,17 +29,18 @@
 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 | 2024-06-20 |  |
 | [Disconnect](https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Disconnect](https://open.spotify.com/album/4juWnOvpXIoMLNVqLN1qHs) | 3:15 | 2024-07-18 |  |
 | [Disingenuous](https://open.spotify.com/track/5KY2CCKR3EoPxsL56Nhz2d) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [A Firmer Hand](https://open.spotify.com/album/6FPar3A8vj3tqmJ48t8jBm) | 2:56 | 2024-08-15 |  |
+| [Do It Like You Do It](https://open.spotify.com/track/67rzjGuiCCtgzy86j7gLU3) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Do It Like You Do It](https://open.spotify.com/album/0rGtnj7m7FKThfBAHep5st) | 2:30 | 2024-11-15 |  |
 | [Do You Think She's Pretty?](https://open.spotify.com/track/4desD03ERFugMtcKzDxDBy) | [PLASTICINE](https://open.spotify.com/artist/2sPWGS1ZbqdUk7ZHcIRV78) | [Do You Think She's Pretty?](https://open.spotify.com/album/5R8uWHj3mPgAc3N1fUwed4) | 4:20 | 2024-06-20 | 2024-08-03 |
-| [EMPTY FEELING.](https://open.spotify.com/track/4F1yjXmwU45Eej69dJs2Bd) | [mouse.](https://open.spotify.com/artist/2KddRhT1xqFnWJeAJEPhQX) | [EMPTY FEELING.](https://open.spotify.com/album/78DkibCvvDGG7QHIddCFeX) | 3:18 | 2024-06-20 |  |
+| [EMPTY FEELING.](https://open.spotify.com/track/4F1yjXmwU45Eej69dJs2Bd) | [mouse.](https://open.spotify.com/artist/2KddRhT1xqFnWJeAJEPhQX) | [EMPTY FEELING.](https://open.spotify.com/album/78DkibCvvDGG7QHIddCFeX) | 3:18 | 2024-06-20 | 2024-11-16 |
 | [Everything](https://open.spotify.com/track/4nrxXuVl1LQdUAn7zNYdSg) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX) | [Pilot](https://open.spotify.com/album/7kkFHOhqj5safgBxzNDeZI) | 5:18 | 2024-06-20 |  |
 | [Fear](https://open.spotify.com/track/2Hz1N22RNvK1UHfm6B3CwQ) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Fear](https://open.spotify.com/album/36DMhXaQy689fWYty7Q51I) | 2:48 | 2024-06-20 |  |
 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 | 2024-06-20 |  |
 | [Filth Night](https://open.spotify.com/track/1LdaVTBHQbwRmHK5sj8ZEM) | [Conscious Pilot](https://open.spotify.com/artist/7aBaZJZSCsWeh9UCyO1u9i) | [Filth Night](https://open.spotify.com/album/5s2iGqtVs81IFl6mbiPOVO) | 1:50 | 2024-08-02 |  |
-| [Finish Line](https://open.spotify.com/track/7rardgaSmoEMhW5Uti6OUW) | [Lunar Isles](https://open.spotify.com/artist/4CH90JmQng3hi5XN2oQOaM) | [Finish Line](https://open.spotify.com/album/61JXq7n8OkiTFrqn0FZUvg) | 3:49 | 2024-06-20 |  |
+| [Finish Line](https://open.spotify.com/track/7rardgaSmoEMhW5Uti6OUW) | [Lunar Isles](https://open.spotify.com/artist/4CH90JmQng3hi5XN2oQOaM) | [Finish Line](https://open.spotify.com/album/61JXq7n8OkiTFrqn0FZUvg) | 3:49 | 2024-06-20 | 2024-11-16 |
 | [Fur Coat](https://open.spotify.com/track/2EmevxPR404paP1A08nXAv) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Fur Coat](https://open.spotify.com/album/48YJLe3EexROsk3IvzpjSK) | 3:26 | 2024-06-20 | 2024-08-16 |
 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 | 2024-06-20 |  |
 | [Give Me A Reason Why](https://open.spotify.com/track/4GcSIWC2iSRG8IjRYR393G) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Give Me A Reason Why](https://open.spotify.com/album/0a8FY5YkU3CNShk1wy7a5Z) | 3:10 | 2024-06-20 |  |
-| [glass](https://open.spotify.com/track/7FvHQZTPcdHpuv5azyEQSg) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [glass](https://open.spotify.com/album/1d7imDVfJ5Ic0fPo4EKbEx) | 3:24 | 2024-06-20 |  |
+| [glass](https://open.spotify.com/track/7FvHQZTPcdHpuv5azyEQSg) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [glass](https://open.spotify.com/album/1d7imDVfJ5Ic0fPo4EKbEx) | 3:24 | 2024-06-20 | 2024-11-16 |
 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 | 2024-06-20 |  |
 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 | 2024-06-20 | 2024-08-16 |
 | [Hey](https://open.spotify.com/track/2C2MxVeZICwhhCrw3s84gH) | [Ramnäs](https://open.spotify.com/artist/5W6Vc4QzqCs3QvBMb7XkC8), [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Hey](https://open.spotify.com/album/1eflsQhXBQXifqdJPNbTVp) | 3:07 | 2024-06-20 | 2024-08-30 |
@@ -62,10 +63,12 @@
 | [Left Off](https://open.spotify.com/track/0bdyWwmNeQMIaN7G8R7ZLU) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Left Off](https://open.spotify.com/album/125ROOxxg7yBtVrSoKAHWV) | 3:32 | 2024-06-20 |  |
 | [Liberty Print](https://open.spotify.com/track/60B07L7JYEj0ybkfXLqsdW) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Liberty Print](https://open.spotify.com/album/1ykbR4iwlKdRxxmrJ964yX) | 5:14 | 2024-06-20 |  |
 | [Lighter](https://open.spotify.com/track/2NetoIJAYJiDdZRMDNYn0z) | [pedalo](https://open.spotify.com/artist/1fqIzizZUwYjMHQfjOj7Bk) | [Lighter](https://open.spotify.com/album/49oFGfNyeP24UkUxqqVQoM) | 3:35 | 2024-06-20 |  |
+| [Locked Doors, Empty Home](https://open.spotify.com/track/649l5KSf3Qh4klms2dPznd) | [Joshua Grant](https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y) | [Locked Doors, Empty Home](https://open.spotify.com/album/6z4blm0wsxOsMxMBs3hRqc) | 3:31 | 2024-11-15 |  |
 | [Lost in Tokyo](https://open.spotify.com/track/57OxdbJtZklQTTRM57ZaFk) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Island.](https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ) | 2:54 | 2024-06-20 |  |
 | [Meet Me There](https://open.spotify.com/track/09j3w8zhbwfyQn7TlPfS9N) | [Sara Rae](https://open.spotify.com/artist/44nGvqtWpLLSUuAAE0Z1gp) | [Meet Me There](https://open.spotify.com/album/3yE7Qm5RS7iHvOZDTjeKL5) | 2:42 | 2024-08-15 |  |
 | [Meltdown](https://open.spotify.com/track/1b2AUnQiX3nUWGNNfg1Gvk) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Meltdown](https://open.spotify.com/album/4ceRAwrxA75cjjA5nNjzTU) | 4:16 | 2024-07-25 |  |
 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 | 2024-06-20 |  |
+| [MISTY ECSTASY](https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MISTY ECSTASY](https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ) | 3:27 | 2024-11-15 |  |
 | [New World Order](https://open.spotify.com/track/13ZmKAjcGiIX0Qwj4TpnkB) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [New World Order](https://open.spotify.com/album/0mLzhqgBQEnOq6Avo658IO) | 3:07 | 2024-07-05 |  |
 | [nothing bad will ever happen to me](https://open.spotify.com/track/7w3GtUBAAqn4e8BI8R2Da3) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [nothing bad will ever happen to me](https://open.spotify.com/album/4q8x1qZWpRpGCX91PHn8LT) | 2:39 | 2024-06-20 | 2024-08-30 |
 | [Old Man's Eyes](https://open.spotify.com/track/6MSsRNrMc83o1q5AhPErzi) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Old Man's Eyes](https://open.spotify.com/album/5PpOowtc6JmfqsCxULHCGy) | 3:24 | 2024-06-20 |  |
@@ -73,7 +76,7 @@
 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2024-06-20 |  |
 | [Over The Moon](https://open.spotify.com/track/60N3qBaaCjK9Aq6Nt4Ujvy) | [Lewis McLaughlin](https://open.spotify.com/artist/6Th5PnKHXHqchkCl7pXeHz) | [Over The Moon](https://open.spotify.com/album/2bLTTdrndC5OnswWBbF6bu) | 4:29 | 2024-07-05 |  |
 | [Photobooth](https://open.spotify.com/track/3sw0xXDVupxDehe4EeA8vz) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Photobooth](https://open.spotify.com/album/4sfGi0V4wKK1BwrRPEMtRZ) | 2:56 | 2024-07-05 |  |
-| [Prevalent](https://open.spotify.com/track/0P33LDGm9juBr78xOFSa4x) | [The Kaves](https://open.spotify.com/artist/0vI8KviF30ZSCucgF2b3nn) | [Prevalent](https://open.spotify.com/album/7bcjALIKl2eBnauVNxKZfq) | 4:45 | 2024-06-20 |  |
+| [Prevalent](https://open.spotify.com/track/0P33LDGm9juBr78xOFSa4x) | [The Kaves](https://open.spotify.com/artist/0vI8KviF30ZSCucgF2b3nn) | [Prevalent](https://open.spotify.com/album/7bcjALIKl2eBnauVNxKZfq) | 4:45 | 2024-06-20 | 2024-11-16 |
 | [Private Public Transport](https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Private Public Transport](https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL) | 3:20 | 2024-06-20 |  |
 | [PUBLIC ENEMY](https://open.spotify.com/track/2APs9TNlHP096WLwrGBlhE) | [La Mantra](https://open.spotify.com/artist/6UjKvtXEWoIwtWn2qNFcxb) | [PUBLIC ENEMY](https://open.spotify.com/album/4R1CjrhbitwpxzRQW3GY6P) | 2:49 | 2024-06-20 | 2024-08-16 |
 | [Red Moon](https://open.spotify.com/track/5brIFiuTqTgZpNkPl4KKMa) | [Gary's Rainbow Shop](https://open.spotify.com/artist/2TYLPnkmNnJQdPGwPHEBhV) | [Red Moon](https://open.spotify.com/album/6RGUkMDxKH047m6P27Vvs5) | 2:42 | 2024-06-20 | 2024-07-27 |
@@ -95,6 +98,7 @@
 | [talk2me](https://open.spotify.com/track/14hwMgJ8WHc24X6EA48XzP) | [toby sparham](https://open.spotify.com/artist/4C50Fj4gh3ZdNw2uA3hT9N) | [talk2me](https://open.spotify.com/album/5zkexxh0EMwAdlVcwJZCl4) | 1:59 | 2024-06-20 | 2024-08-30 |
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |
 | [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 | 2024-07-05 |
+| [Two Step](https://open.spotify.com/track/4LGCpNYJRLN7Rn5NXMkjKa) | [The Fat Stacks](https://open.spotify.com/artist/7eLiXAAxH1r0BkJN2R74g4) | [Two Step](https://open.spotify.com/album/1luQcSOFWU7z3Ok8hQIiLn) | 2:55 | 2024-11-15 |  |
 | [Underneath My Skin](https://open.spotify.com/track/3yATpOOm6H1fqCO64F2mKf) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [Underneath My Skin](https://open.spotify.com/album/5Yxq2FcBMOnrCdD7od9xuO) | 2:54 | 2024-08-02 |  |
 | [Universal Credit](https://open.spotify.com/track/272KzgZU381dedN18b7qzT) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Universal Credit](https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa) | 3:18 | 2024-06-20 |  |
 | [Vision Of Us](https://open.spotify.com/track/2frX4kY41utA2K18AW1PK6) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Vision Of Us](https://open.spotify.com/album/6E0OZvFmc6FqU8PcdfQ5S6) | 3:54 | 2024-07-25 |  |

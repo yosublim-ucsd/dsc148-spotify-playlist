@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,554 likes - 94 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,557 likes - 94 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 28 | [飛翔! 対空!!](https://open.spotify.com/track/4SF4meLRHixtRbHfrCvTeO) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ハーツ オリジナルサウンドトラック](https://open.spotify.com/album/7KGGzPPIYYHwpnb5CTbSdv) | 2:26 |
 | 29 | [迫り来る女魔道士](https://open.spotify.com/track/4NIYbX0uZXZnQrddWCqBYL) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ハーツ オリジナルサウンドトラック](https://open.spotify.com/album/7KGGzPPIYYHwpnb5CTbSdv) | 2:16 |
 | 30 | [永遠の明日 \- Ending Version](https://open.spotify.com/track/1vjCLmawdmBp9ZZqaqBdCx) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ハーツ オリジナルサウンドトラック](https://open.spotify.com/album/7KGGzPPIYYHwpnb5CTbSdv) | 5:19 |
-| 31 | [王都\~威風堂々\~](https://open.spotify.com/track/7s9QEdpvOoImbMdJM0tpWc) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ グレイセス オリジナルサウンドトラック](https://open.spotify.com/album/4Kn4xS1Qa74YEW3KV5jECs) | 2:54 |
+| 31 | [王都～威風堂々～](https://open.spotify.com/track/7s9QEdpvOoImbMdJM0tpWc) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ グレイセス オリジナルサウンドトラック](https://open.spotify.com/album/4Kn4xS1Qa74YEW3KV5jECs) | 2:54 |
 | 32 | [統水の舞踏](https://open.spotify.com/track/6pMu1Y1IarvjB0LsPQPUJF) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ グレイセス オリジナルサウンドトラック](https://open.spotify.com/album/4Kn4xS1Qa74YEW3KV5jECs) | 3:16 |
 | 33 | [抜刀!研ぎ澄ませ!](https://open.spotify.com/track/1R37KguDvFwarkWt4CJRt4) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ グレイセス オリジナルサウンドトラック](https://open.spotify.com/album/4Kn4xS1Qa74YEW3KV5jECs) | 2:38 |
 | 34 | [狂乱舞踏](https://open.spotify.com/track/43QvmAA1eVbqybL1J4yhfl) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ グレイセス オリジナルサウンドトラック](https://open.spotify.com/album/4Kn4xS1Qa74YEW3KV5jECs) | 2:50 |

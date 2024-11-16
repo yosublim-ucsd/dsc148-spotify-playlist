@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 389681,
       "name": "Freestyle Session 6",
       "url": "https://open.spotify.com/track/274hVRT472ghZ8Nj0nZ1M7"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 81403,
       "name": "MoroBuzz - Kilakala",
       "url": "https://open.spotify.com/track/2TOKVFwV0YgOOzKiomtZKI"
@@ -2483,6 +2483,40 @@
     },
     {
       "album": {
+        "name": "Msanii Bora Wa HipHop",
+        "url": "https://open.spotify.com/album/6u8YrcZFD7klUcE6sqVwrO"
+      },
+      "artists": [
+        {
+          "name": "Stamina Shorwebwenzi",
+          "url": "https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV"
+        },
+        {
+          "name": "Nacha",
+          "url": "https://open.spotify.com/artist/6vs2JKdlVLKV6S8HOpvQPx"
+        },
+        {
+          "name": "Riderman",
+          "url": "https://open.spotify.com/artist/3rvbgOzzgrvVEaTW8IEQLA"
+        },
+        {
+          "name": "Manengo",
+          "url": "https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS"
+        },
+        {
+          "name": "B Face",
+          "url": "https://open.spotify.com/artist/43YzZ9VdX73Cgw1Mc10MBz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271278,
+      "name": "Msanii Bora Wa HipHop - Remix",
+      "url": "https://open.spotify.com/track/2h56bp23K4xBlggCcUjjhs"
+    },
+    {
+      "album": {
         "name": "The Nyaturu Legend",
         "url": "https://open.spotify.com/album/0CZqKgoAg2MBzBDP0lpVqo"
       },
@@ -2586,7 +2620,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 203159,
       "name": "Mwendo",
       "url": "https://open.spotify.com/track/1TsAHldApQnPEgvmQvNKCe"
@@ -2907,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "Oii",
+        "url": "https://open.spotify.com/album/16miUL85MfdJmskaJ3xGti"
+      },
+      "artists": [
+        {
+          "name": "Bank Budha",
+          "url": "https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O"
+        },
+        {
+          "name": "Blinded Beats",
+          "url": "https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181131,
+      "name": "Oii",
+      "url": "https://open.spotify.com/track/15sPLwPvWBm7fOGypWV6xW"
+    },
+    {
+      "album": {
         "name": "Only God Knows",
         "url": "https://open.spotify.com/album/6ASt5dP8JQblxheMSLlDxR"
       },
@@ -3030,6 +3086,28 @@
       "duration_ms": 150360,
       "name": "PAPUCHI",
       "url": "https://open.spotify.com/track/1eBsRZiqVztNnTvQZlwL1A"
+    },
+    {
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/1QdO42pjcbiSwteHJfKIq5"
+      },
+      "artists": [
+        {
+          "name": "MansuLi",
+          "url": "https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/6p05Xk45l8k4A17x7g2PEI"
     },
     {
       "album": {
@@ -4420,7 +4498,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 232228,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/7noDicbJzIhMOMdXVzbfFS"
@@ -4463,6 +4541,28 @@
     },
     {
       "album": {
+        "name": "Wigo",
+        "url": "https://open.spotify.com/album/3rl4wHUZluXNYQrBdlLDCU"
+      },
+      "artists": [
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        },
+        {
+          "name": "Whozu",
+          "url": "https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Wigo",
+      "url": "https://open.spotify.com/track/4cwF7mJnjSEGPMT3ClngDo"
+    },
+    {
+      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/0FgYO74uE2M2In1V7R9rln"
       },
@@ -4496,7 +4596,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 207157,
       "name": "Won't Stop",
       "url": "https://open.spotify.com/track/1gl8Eld8kB4cUS82Sd3Cd4"
@@ -4544,6 +4644,28 @@
       "duration_ms": 203102,
       "name": "WoW",
       "url": "https://open.spotify.com/track/20GFlJ8bvqn9rVMY5VbSVz"
+    },
+    {
+      "album": {
+        "name": "MoroBuzz - Yanga Mango",
+        "url": "https://open.spotify.com/album/3sGedK6vVZVVvo3El9rUmd"
+      },
+      "artists": [
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        },
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Yanga Mango",
+      "url": "https://open.spotify.com/track/3y27f5qyKkWqQP0J2eF2kr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT"

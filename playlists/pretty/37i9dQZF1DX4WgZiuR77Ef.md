@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,718 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,738 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Make Me Move](https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Down In The Dirt](https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0) | 1:00 |
-| 2 | [The JB's Tribute Pastor P](https://open.spotify.com/track/0DX8pn3evBgD1aWQIH8KZt) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Daru Jones](https://open.spotify.com/artist/4ePL94kqqEdFhDGGhc7kzi), [Harry Mack](https://open.spotify.com/artist/3XOZM0DtztbmC1IE3amUnn), [Clyde Stubblefield](https://open.spotify.com/artist/687p4CLJvjm9dX82QHgzBf), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [John \(Jabo\) Starks](https://open.spotify.com/artist/2c2mb74jyj2bluIvHQvXpS) | [The JB's Tribute Pastor P](https://open.spotify.com/album/7i8dKoKQVmpqZidUH4Fxzy) | 5:00 |
-| 3 | [Satellite Girl](https://open.spotify.com/track/4x8pUXRyZtnuzpucOOSEZM) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dirty Disco](https://open.spotify.com/album/52XE4Y7uagfKQOrmFoJVpj) | 5:14 |
-| 4 | [Undefeated Eyes](https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Undefeated Eyes](https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF) | 4:26 |
-| 5 | [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 |
+| 1 | [Something Better](https://open.spotify.com/track/0Rnq5ID0HHry0ElpjSWVPd) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Something Better](https://open.spotify.com/album/2cYWDvl2JOTinMn9A33vOj) | 4:27 |
+| 2 | [Make Me Move](https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Down In The Dirt](https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0) | 1:00 |
+| 3 | [The JB's Tribute Pastor P](https://open.spotify.com/track/0DX8pn3evBgD1aWQIH8KZt) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Daru Jones](https://open.spotify.com/artist/4ePL94kqqEdFhDGGhc7kzi), [Harry Mack](https://open.spotify.com/artist/3XOZM0DtztbmC1IE3amUnn), [Clyde Stubblefield](https://open.spotify.com/artist/687p4CLJvjm9dX82QHgzBf), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [John \(Jabo\) Starks](https://open.spotify.com/artist/2c2mb74jyj2bluIvHQvXpS) | [The JB's Tribute Pastor P](https://open.spotify.com/album/7i8dKoKQVmpqZidUH4Fxzy) | 5:00 |
+| 4 | [Satellite Girl](https://open.spotify.com/track/4x8pUXRyZtnuzpucOOSEZM) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dirty Disco](https://open.spotify.com/album/52XE4Y7uagfKQOrmFoJVpj) | 5:14 |
+| 5 | [Undefeated Eyes](https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Undefeated Eyes](https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF) | 4:26 |
 | 6 | [I Believe In Miracles](https://open.spotify.com/track/3KANHsfHFcFGufoGdafygC) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [I Believe In Miracles / C'est Si Bon](https://open.spotify.com/album/3dHFitBJhQzSLZztbzv4tJ) | 4:27 |
 | 7 | [House Cat](https://open.spotify.com/track/4AisgVQHNuGJSVYLd287Px) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [House Cat](https://open.spotify.com/album/1Wj7HQ2FebMR3n3L8eLoo0) | 2:34 |
 | 8 | [Chameleon](https://open.spotify.com/track/1oVt6lg9lOuVi8FvNonD8z) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Chameleon](https://open.spotify.com/album/1Z7DTNWYaGCu19dlG2Ru6h) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Checker Wrecker](https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Checker Wrecker](https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ) | 5:50 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `Zy2a0AAAAACuSvrWMBc1Y0uXpyuKafCK`
+Snapshot ID: `ZzbVUAAAAAAA06E75yGjsioD4E6oPoYj`

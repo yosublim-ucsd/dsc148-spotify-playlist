@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Casanova (From Beyond The Abyss)",
+        "url": "https://open.spotify.com/album/5ypY8X5KX7aGi2PuJVGz1G"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224217,
+      "name": "Casanova - From Beyond The Abyss",
+      "url": "https://open.spotify.com/track/6pvdo88IZIAQWfr5HafNRa"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },

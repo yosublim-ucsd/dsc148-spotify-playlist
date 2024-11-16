@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542806,
+  "num_followers": 542812,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 3809026,
-      "name": "Dopesmoker - 2022 Remastered Version",
-      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 3809026,
+      "name": "Dopesmoker - 2022 Remastered Version",
+      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Super Van Vacation",
         "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
       "artists": [
         {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
         }
       ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rainbows Are Free",
-        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
-      },
-      "artists": [
-        {
-          "name": "Rainbows Are Free",
-          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Are You Dead",
-      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 237424,
       "name": "There is Nothing New Under the Sun",
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Rainbows Are Free",
+        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
+      },
+      "artists": [
+        {
+          "name": "Rainbows Are Free",
+          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Are You Dead",
+      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tumuli Schroomaroom",
-        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
-      },
-      "artists": [
-        {
-          "name": "Acrimony",
-          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
-        }
-      ],
-      "duration_ms": 599683,
-      "name": "Heavy Feather",
-      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Run Run Run Run Run",
         "url": "https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 329833,
       "name": "Run Run Run Run Run",
       "url": "https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tumuli Schroomaroom",
+        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
+      },
+      "artists": [
+        {
+          "name": "Acrimony",
+          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
+        }
+      ],
+      "duration_ms": 599683,
+      "name": "Heavy Feather",
+      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Beneath the Rose",
+        "url": "https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Ilion",
         "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 356200,
       "name": "Supa Scoopa and Mighty Scoop",
       "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Blast Tyrant (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
     }
   ],
   "unique_name": "Stoner Rock",

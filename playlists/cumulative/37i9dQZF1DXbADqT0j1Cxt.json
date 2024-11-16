@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "A Sunny Trip",
+        "url": "https://open.spotify.com/album/6sCeCiqhg7U8NzAJxc8IDy"
+      },
+      "artists": [
+        {
+          "name": "Peyton Malloye",
+          "url": "https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71822,
+      "name": "A Sunny Trip",
+      "url": "https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs"
+    },
+    {
+      "album": {
         "name": "A Thousand Hugs",
         "url": "https://open.spotify.com/album/0hbtVKhFPDk92IZ3z5AQ1M"
       },
@@ -5769,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "Little Lady Bird",
+        "url": "https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg"
+      },
+      "artists": [
+        {
+          "name": "Cats meow",
+          "url": "https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131940,
+      "name": "Little Lady Bird",
+      "url": "https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4"
+    },
+    {
+      "album": {
         "name": "I Had a Little Nut Tree",
         "url": "https://open.spotify.com/album/1CvizaIIDVXxdFSXNkhIuq"
       },
@@ -7188,6 +7224,24 @@
       "duration_ms": 96274,
       "name": "Naptime",
       "url": "https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg"
+    },
+    {
+      "album": {
+        "name": "Naptime for Bunny Frances",
+        "url": "https://open.spotify.com/album/04hNdYOq5dmjmmokZEMpp8"
+      },
+      "artists": [
+        {
+          "name": "Mathilda Nuit",
+          "url": "https://open.spotify.com/artist/77ZKgLXDw1UWenw8vCpbID"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106253,
+      "name": "Naptime for Bunny Frances",
+      "url": "https://open.spotify.com/track/1oOAKL8rQv99RiZRlLmmFV"
     },
     {
       "album": {
@@ -8696,7 +8750,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 180759,
       "name": "Sheeplings",
       "url": "https://open.spotify.com/track/3Moov5075MI3wL1aIARWwf"
@@ -9819,6 +9873,24 @@
     },
     {
       "album": {
+        "name": "Take Me Out to the Ball Game",
+        "url": "https://open.spotify.com/album/2dsoYvsV0m83I2f2aI6w2G"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93889,
+      "name": "Take Me Out to the Ball Game",
+      "url": "https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N"
+    },
+    {
+      "album": {
         "name": "Te Amo, Beb\u00e9",
         "url": "https://open.spotify.com/album/5t8TmvSXUboXYomJS2tPE5"
       },
@@ -10464,6 +10536,24 @@
       "duration_ms": 86486,
       "name": "The Rooster",
       "url": "https://open.spotify.com/track/7JiAg8jIQkAzSy0lEap7Zg"
+    },
+    {
+      "album": {
+        "name": "The Second Star to the Right",
+        "url": "https://open.spotify.com/album/1gUpNGO623taLGmfaUvm6l"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rian Rose",
+          "url": "https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "The Second Star to the Right",
+      "url": "https://open.spotify.com/track/10qFyR0SKMPng0Pnh8UUWn"
     },
     {
       "album": {

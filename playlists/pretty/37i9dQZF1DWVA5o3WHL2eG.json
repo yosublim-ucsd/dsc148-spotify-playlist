@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35460,
+  "num_followers": 35459,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "bulletholes",
-        "url": "https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "bulletholes",
-      "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "du glaubst",
         "url": "https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 160825,
       "name": "du glaubst",
       "url": "https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "bulletholes",
+        "url": "https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "bulletholes",
+      "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Color Theory",
-        "url": "https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr"
-      },
-      "artists": [
-        {
-          "name": "Hanna Noir",
-          "url": "https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU"
-        }
-      ],
-      "duration_ms": 103341,
-      "name": "Nicht meine Schuld",
-      "url": "https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 241965,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Color Theory",
+        "url": "https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr"
+      },
+      "artists": [
+        {
+          "name": "Hanna Noir",
+          "url": "https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU"
+        }
+      ],
+      "duration_ms": 103341,
+      "name": "Nicht meine Schuld",
+      "url": "https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7"
     },
     {
       "added_at": "2024-11-05 23:00:00",

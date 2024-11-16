@@ -2893,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Good Time (feat. Josh Rubin)",
+        "url": "https://open.spotify.com/album/7EubmHn3suSP7ROZPbp16R"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Good Time (feat. Josh Rubin)",
+      "url": "https://open.spotify.com/track/40Y5AgFF6JHGmjrlk37Z2N"
+    },
+    {
+      "album": {
         "name": "Guaracha En Reggaetonlandia",
         "url": "https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf"
       },
@@ -6232,6 +6254,24 @@
       "duration_ms": 161142,
       "name": "SHEEESH - Emorfik Remix",
       "url": "https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH"
     },
     {
       "album": {

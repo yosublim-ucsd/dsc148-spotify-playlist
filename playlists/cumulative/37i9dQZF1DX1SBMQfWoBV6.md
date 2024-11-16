@@ -4,10 +4,11 @@
 
 > Light electronic movements for study, focus and flow.
 
-88 songs - 6 hr 25 min
+90 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/track/0VxNsjxLl7NbQ8XLO8IrOT) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/album/7FceTVx3596dgOCVP1WKuS) | 1:54 | 2024-11-15 |  |
 | [Abstract Ambience](https://open.spotify.com/track/7hnCKEU2LpfD3tkfgEhnKF) | [Zeombala](https://open.spotify.com/artist/1ERLT1kdPcQocPENfka9M8) | [Abstract Ambience](https://open.spotify.com/album/5067Ai9GOj6ROHmVhUX3mn) | 2:49 | 2023-01-31 |  |
 | [Achievement Unlocked](https://open.spotify.com/track/1qlpsQZTzBJ3C9Padf3dCp) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Focus: Work Smart Sounds](https://open.spotify.com/album/5sVSZ4CGxYznBbbO2DTPvV) | 2:16 | 2023-01-31 |  |
 | [Amazing Things to Come](https://open.spotify.com/track/6ocXaLZ1ooYNJejDnGxRx8) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Amazing Things](https://open.spotify.com/album/0DBiS3ynX5LmsZjv7OnvQW) | 2:53 | 2023-01-31 | 2023-10-13 |
@@ -33,6 +34,7 @@
 | [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 | 2023-10-13 |  |
 | [Fyresvatn](https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5) | [Asle Bjørn](https://open.spotify.com/artist/5ktwEgR7MPFnz1QuYdUcmq) | [My Places](https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J) | 4:37 | 2023-01-31 | 2023-10-05 |
 | [Hollow Streams](https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 3:56 | 2023-05-19 |  |
+| [Horizon](https://open.spotify.com/track/2W1jmfrFO5STsABKGaOr4P) | [Bantu Jafari](https://open.spotify.com/artist/6yYZzgfZlTAZ5c5FDr78Zl) | [Horizon](https://open.spotify.com/album/7Cw9y65xClxqlenBlo7t3c) | 2:35 | 2024-11-15 |  |
 | [Hypnotic Forrest](https://open.spotify.com/track/0Rrhf0uAZgUeAOOuhjezWe) | [Eternal Corridor](https://open.spotify.com/artist/7cseoGU5nNgcyx9QqTFVuO) | [Hypnotic Forrest](https://open.spotify.com/album/4KrhbAGwescsCP7ymufGlV) | 2:48 | 2023-11-24 |  |
 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 | 2023-01-31 | 2024-03-28 |
 | [In and out of Days](https://open.spotify.com/track/0Rw6XHubnNlZ7joTug4ogA) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Where Moss Grows](https://open.spotify.com/album/6o5cdOMQFtNjJD7TQAVb7j) | 5:24 | 2023-01-31 |  |

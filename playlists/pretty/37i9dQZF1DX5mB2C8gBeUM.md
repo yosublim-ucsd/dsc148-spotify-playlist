@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,458 likes - 139 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,487 likes - 139 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

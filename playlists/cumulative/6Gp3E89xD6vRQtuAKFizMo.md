@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-372 songs - 17 hr 54 min
+374 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-03 |  |
 | [GOIN' ROUND](https://open.spotify.com/track/7l0N0ZzO2TCcXn6fA29mAe) | [SMITHWORKS](https://open.spotify.com/artist/2xMjDjnnCw558pO4C96qnS) | [GOIN' ROUND](https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto) | 2:25 | 2023-02-14 | 2023-04-01 |
 | [Going Down \(feat\. David Vance\)](https://open.spotify.com/track/1d20LZIqK8JxYksxyMEGai) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [David Vance](https://open.spotify.com/artist/0TDirtcNWYDxsAEixJy2bB) | [Going Down \(feat\. David Vance\)](https://open.spotify.com/album/1I3X1A5rZY4uYaV9JTI4tg) | 3:35 | 2024-03-08 |  |
+| [Good Time \(feat\. Josh Rubin\)](https://open.spotify.com/track/40Y5AgFF6JHGmjrlk37Z2N) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Good Time \(feat\. Josh Rubin\)](https://open.spotify.com/album/7EubmHn3suSP7ROZPbp16R) | 2:45 | 2024-11-15 |  |
 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 | 2022-10-28 | 2023-04-15 |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
 | [Hachiroku](https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:53 | 2023-07-24 | 2023-12-14 |
@@ -299,6 +300,7 @@
 | [She Calls Me Love \- Steve Aoki Remix](https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Chama De Amor / She Calls Me Love](https://open.spotify.com/album/7xNlHZh0QVYpw5C2gY9u9b) | 2:52 | 2024-03-22 |  |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 |  |
 | [SHEEESH \- Emorfik Remix](https://open.spotify.com/track/4Oh6oarNkje3gTfmG3Ewd8) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA), [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:41 | 2023-07-28 |  |
+| [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 | 2024-11-15 |  |
 | [Shuffle](https://open.spotify.com/track/0HSoyafgVY6nPKNVwzGdZ8) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Shuffle](https://open.spotify.com/album/6Lpng8mqEyiEc7QeIUS7fR) | 2:06 | 2023-08-04 |  |
 | [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 | 2023-07-24 |  |
 | [Smoke](https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Smoke](https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG) | 2:58 | 2022-08-26 | 2023-04-09 |

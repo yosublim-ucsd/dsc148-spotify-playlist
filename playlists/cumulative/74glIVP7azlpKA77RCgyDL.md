@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Counterparts.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Poppy.
 
-839 songs - 2 day 4 hr 48 min
+845 songs - 2 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Guillotine](https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Guillotine](https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ) | 3:37 | 2022-02-25 | 2023-07-15 |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-09-30 | 2023-07-15 |
 | [Half Life](https://open.spotify.com/track/7qwTlAdz1usnxXd24H3yjw) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Half Life](https://open.spotify.com/album/0AjbRK9LP0qPcGRWw0GYGp) | 3:32 | 2023-01-06 | 2024-02-03 |
+| [Halsgericht](https://open.spotify.com/track/5mmsqo7sCx8nu3HZ3HB9Sd) | [Mantar](https://open.spotify.com/artist/6rVRU7I6r1lt6bhXGYTRQL) | [Halsgericht](https://open.spotify.com/album/7IuBhI1dcghzqrD1xtc5Nj) | 4:01 | 2024-11-15 |  |
 | [Hands of Eternity](https://open.spotify.com/track/0XxW9T7qRJkAT6wENRI6kw) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Hands of Eternity](https://open.spotify.com/album/4BP1DYYnxy83DJ6xR5ShRs) | 4:43 | 2024-04-26 |  |
 | [Hard](https://open.spotify.com/track/2LVlZo1agzxHBnvbXTIiCE) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Hard](https://open.spotify.com/album/1XTHvv2gs92EvdL24GLoFT) | 2:26 | 2023-10-20 | 2024-02-03 |
 | [Hardcore Music Machine](https://open.spotify.com/track/4ozoqbiAmockxd4Ba7qT5w) | [Wild Side](https://open.spotify.com/artist/3gdrmfWscdd6Wryv01umtl) | [Hardcore Music Machine](https://open.spotify.com/album/4MFLUCc4jZ0zKYzeyIVf2T) | 3:46 | 2024-03-01 |  |
@@ -363,6 +364,7 @@
 | [Inamorata](https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 11:10 | 2023-04-14 | 2024-02-03 |
 | [Incinerator](https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Incinerator](https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS) | 3:41 | 2024-03-22 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2022-06-24 | 2023-07-15 |
+| [Infusorium](https://open.spotify.com/track/0CMu9ZzwDgvIg9bo6jzKeH) | [Scour](https://open.spotify.com/artist/6SoZi6u1HOTJ33PrXjMxlo) | [Infusorium](https://open.spotify.com/album/3HWsdwv1gstJyp6QOFZrY9) | 3:47 | 2024-11-15 |  |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 | 2023-07-15 |
 | [Instill](https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Instill](https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt) | 4:41 | 2023-06-09 | 2024-02-03 |
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 | 2024-02-03 |
@@ -384,6 +386,7 @@
 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-02-24 | 2024-02-03 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 |  |
 | [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-13 | 2024-02-03 |
+| [KUKULKAN WAKAH CHAN](https://open.spotify.com/track/0y5w6D6qMLv73M54om3G4u) | [Cemican](https://open.spotify.com/artist/0hzhSWZR2nszVSKtN15qNj) | [KUKULKÁN WAKAH CHAN](https://open.spotify.com/album/56h5CraVhsQkSAEwrpYur7) | 5:44 | 2024-11-15 |  |
 | [L'Envol](https://open.spotify.com/track/30JoA3CWCXqcACZzRtyaJr) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [L'Envol](https://open.spotify.com/album/0ha4JvwSl9kBT0vCUQn0GI) | 8:02 | 2024-02-23 |  |
 | [La Corriente](https://open.spotify.com/track/7HRBtlZw4DoioERhRwi6gA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [La Corriente](https://open.spotify.com/album/0BG0MTNfRewg3HKYecsL52) | 4:00 | 2024-07-05 |  |
 | [Land Of The Sun](https://open.spotify.com/track/79Uosr9Ne21ve72zOtpCT2) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Land Of The Sun](https://open.spotify.com/album/3lkZtqInxyQ1XNnRShoBTT) | 3:54 | 2023-06-30 | 2024-02-03 |
@@ -401,6 +404,7 @@
 | [Like Humans](https://open.spotify.com/track/3VU17hDUROfzZzHrxpiFPK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Like Humans](https://open.spotify.com/album/5Am5Rtlr8jlv1VQiZKakk5) | 4:46 | 2023-08-25 | 2024-02-03 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-04-22 | 2023-07-15 |
 | [liMOusIne \(feat\. AURORA\)](https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:11 | 2024-05-24 |  |
+| [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-15 |  |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2023-07-15 |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 | 2023-07-15 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 | 2024-02-03 |
@@ -683,6 +687,7 @@
 | [The Black Curtain](https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [The Black Curtain](https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x) | 3:18 | 2024-03-15 |  |
 | [The Bough](https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk) | [Black Math Horseman](https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5) | [The Bough](https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG) | 7:09 | 2022-08-26 | 2023-07-15 |
 | [The Briar Harp](https://open.spotify.com/track/2yutxTEXbll1F52e2bu8l6) | [Shadow Knell](https://open.spotify.com/artist/5FtVRR9Ht6OvritIsgHW6z) | [The Briar Harp](https://open.spotify.com/album/0HBjuSYNUKbEMoAJiIwkgu) | 2:06 | 2024-07-19 |  |
+| [the center’s falling out](https://open.spotify.com/track/5PZZ3G5djpINln9xcMxcmB) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 2:25 | 2024-11-15 |  |
 | [The Comeback](https://open.spotify.com/track/2EgOUEOtkHc2hgNRYHxpv6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Unpleasant Living](https://open.spotify.com/album/6w6m1NmBC8Wzsd7Yu856uP) | 2:40 | 2022-07-08 | 2023-07-15 |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 | 2024-02-03 |
 | [the cost of giving up](https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [the cost of giving up](https://open.spotify.com/album/5ny4Uho4k56brX600DlYiF) | 3:17 | 2024-10-18 |  |
@@ -760,6 +765,7 @@
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 | 2023-07-15 |
 | [Twitching On The Cross](https://open.spotify.com/track/7Gq5GQwZbizhT8l5QvgzlA) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Twitching On The Cross](https://open.spotify.com/album/6KYwRXq9egHcIp8klVf6J4) | 2:30 | 2024-09-13 |  |
 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 | 2023-11-17 | 2024-02-03 |
+| [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 |  |
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 | 2024-02-03 |
 | [Unbridled Fury](https://open.spotify.com/track/5KUh5cJ8iy9qu917XtfMZF) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Unbridled Fury](https://open.spotify.com/album/4Nx90Kc8txadnzrDZsO7OP) | 3:30 | 2023-02-03 | 2024-02-03 |
 | [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-21 | 2024-02-03 |

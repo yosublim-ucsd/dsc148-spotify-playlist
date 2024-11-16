@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 569828,
+  "num_followers": 569962,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,18 @@
     {
       "added_at": "2024-11-07 16:40:28",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 195773,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
+      "duration_ms": 180166,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv"
     },
     {
       "added_at": "2024-11-07 16:40:28",
@@ -847,18 +843,22 @@
     {
       "added_at": "2024-11-07 16:40:28",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         }
       ],
-      "duration_ms": 180166,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv"
+      "duration_ms": 195773,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
     },
     {
       "added_at": "2024-11-07 16:40:28",

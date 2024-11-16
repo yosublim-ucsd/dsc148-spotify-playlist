@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes\. Cover: Broederliefde
+> Motion en good vibes\. Cover: Delany & Yxng Le
 
 1,176 songs - 2 day 4 hr 46 min
 

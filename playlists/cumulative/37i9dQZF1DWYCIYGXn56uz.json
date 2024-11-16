@@ -6935,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "PARIGI IN MOTORINO",
+        "url": "https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5"
+      },
+      "artists": [
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "PARIGI IN MOTORINO",
+      "url": "https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt"
+    },
+    {
+      "album": {
         "name": "Parlami",
         "url": "https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N"
       },
@@ -8284,7 +8302,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 165034,
       "name": "Schiava della Vita",
       "url": "https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3"

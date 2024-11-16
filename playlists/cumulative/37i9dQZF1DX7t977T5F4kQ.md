@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Stonebwoy
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: DJ Micsmith
 
-440 songs - 23 hr 1 min
+443 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Kaba](https://open.spotify.com/track/4vNO2QV06RA4abMvrGkZ6C) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 2:51 | 2023-06-02 | 2024-03-15 |
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-11-04 | 2022-12-25 |
 | [Kasapa](https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Kasapa](https://open.spotify.com/album/6uPPmlyfrQkGAH4jzi8OJM) | 2:32 | 2024-02-09 | 2024-08-30 |
+| [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 | 2024-11-15 |  |
 | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh) | 2:21 | 2024-06-28 | 2024-10-13 |
 | [Kiki](https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR) | [Leftizzle](https://open.spotify.com/artist/0UJ4laOahyFVmjDyLPHJc8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Kiki](https://open.spotify.com/album/004vsMw80QFIVP2MWgSfOd) | 3:22 | 2024-06-28 |  |
 | [Kill Me](https://open.spotify.com/track/2VXbmqitfRxjzJa5AqNirx) | [Vacs](https://open.spotify.com/artist/2d8bfdQy488Ppx30WvzO2x) | [Kill Me](https://open.spotify.com/album/3mKhwkeVFoBey3u4FnKr4T) | 3:10 | 2023-01-27 | 2023-02-04 |
@@ -235,6 +236,7 @@
 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2023-07-28 |  |
 | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 | 2023-02-03 | 2023-02-10 |
 | [Limit](https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:45 | 2024-03-15 | 2024-06-01 |
+| [LIQUOR](https://open.spotify.com/track/5O1XtrzDEnzuCCVCub26fb) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [LIQUOR](https://open.spotify.com/album/6MahyLFpyrepCcvRDc4g1Q) | 2:28 | 2024-11-15 |  |
 | [Lit](https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Toopeezy](https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF) | 3:14 | 2024-05-24 | 2024-08-02 |
 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 | 2024-08-02 |  |
 | [Love Or Money](https://open.spotify.com/track/4trjuu29tp3KzJg8M5YYp5) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb), [Ablekuma Nana Lace](https://open.spotify.com/artist/1q0Ivytvk3QtPjXBDOMNRw) | [Love Or Money](https://open.spotify.com/album/2ImyuAvmH5SUCyHnaDxl1Y) | 2:03 | 2024-09-13 | 2024-09-28 |
@@ -415,6 +417,7 @@
 | [Waitin For](https://open.spotify.com/track/6kFjZz8XtsiUbdlxanK6uq) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Waitin For](https://open.spotify.com/album/3jWCEtHYZhmi8FGjLWCOf7) | 2:32 | 2023-02-23 | 2023-03-18 |
 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 | 2022-11-04 | 2023-05-13 |
 | [Walk & Move](https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh) | [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT), [Medikal](https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN) | [Walk & Move](https://open.spotify.com/album/5EBU07bXqlYhKWtwmZ4Wa6) | 3:36 | 2023-12-22 | 2024-01-13 |
+| [Wash](https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Wash](https://open.spotify.com/album/5L4ALYCh557ihUVxHiG27b) | 2:43 | 2024-11-15 |  |
 | [Whats Up](https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC) | [KWEKU PEE](https://open.spotify.com/artist/1moWgmfzDrNtohnVWhZOmO), [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Whats Up](https://open.spotify.com/album/7JUmIEYeCXGkbCkaU6OJWn) | 2:45 | 2024-04-12 | 2024-04-19 |
 | [Where We From \(feat\. Fameye\)](https://open.spotify.com/track/02Bidj32WF50xWYJHBVoxz) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 2:50 | 2024-04-19 | 2024-06-01 |
 | [Who Say](https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:12 | 2023-09-08 | 2023-12-08 |

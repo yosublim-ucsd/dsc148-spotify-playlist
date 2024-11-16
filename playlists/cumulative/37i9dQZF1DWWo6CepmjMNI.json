@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MAMIO",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lost n' Found",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 265000,
       "name": "Black Bag",
       "url": "https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN"
+    },
+    {
+      "album": {
+        "name": "Dandiloin (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e44\u0e1b)",
+        "url": "https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T"
+      },
+      "artists": [
+        {
+          "name": "mute.",
+          "url": "https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221777,
+      "name": "Dandiloin (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e44\u0e1b)",
+      "url": "https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt"
     },
     {
       "album": {
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 238062,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
       "url": "https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 310000,
       "name": "\u0e27\u0e31\u0e19\u0e27\u0e32\u0e19\u0e22\u0e31\u0e07\u0e2b\u0e27\u0e32\u0e19\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH"
@@ -1599,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1b\u0e35\u0e22\u0e01 (When it Rains)",
+        "url": "https://open.spotify.com/album/4EaHgeUoO6Y5TwHrqjknlM"
+      },
+      "artists": [
+        {
+          "name": "MAN IN PHARMACY",
+          "url": "https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "\u0e40\u0e1b\u0e35\u0e22\u0e01 (When it Rains)",
+      "url": "https://open.spotify.com/track/5xmwTim7B0P53CebEJsKze"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e28\u0e23\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e34\u0e19",
         "url": "https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat"
       },
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 266124,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e01\u0e31\u0e1a\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07(Erstwhile)",
       "url": "https://open.spotify.com/track/1gyxasKOAUpWJYiL7hp9UQ"
@@ -1874,6 +1910,24 @@
       "duration_ms": 249732,
       "name": "\u0e41\u0e1b\u0e23\u0e07\u0e1f\u0e31\u0e19",
       "url": "https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e21\u0e35\u0e41\u0e15\u0e48\u0e04\u0e33\u0e25\u0e32 (Good)Bye",
+        "url": "https://open.spotify.com/album/4K55gPyJQP9B8mSnDSD5su"
+      },
+      "artists": [
+        {
+          "name": "Lost n' Found",
+          "url": "https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292325,
+      "name": "\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e21\u0e35\u0e41\u0e15\u0e48\u0e04\u0e33\u0e25\u0e32 (Good)Bye",
+      "url": "https://open.spotify.com/track/2ZkgmOYai2l0x38Wti8nzr"
     },
     {
       "album": {

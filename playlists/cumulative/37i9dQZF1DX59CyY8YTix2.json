@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "3036",
+        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
+      },
+      "artists": [
+        {
+          "name": "Hump Back",
+          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70110,
+      "name": "3036",
+      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
+    },
+    {
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/0kvc1uSSfXPDOSvmahakb8"
       },
@@ -2750,6 +2768,24 @@
       "duration_ms": 260689,
       "name": "cube",
       "url": "https://open.spotify.com/track/3GyhYiiUZDvIOzLOpGNBNV"
+    },
+    {
+      "album": {
+        "name": "cyber",
+        "url": "https://open.spotify.com/album/4GWGXVMZekqE6qLyuWqs98"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153257,
+      "name": "cyber",
+      "url": "https://open.spotify.com/track/693HhHvefKWGnMSoyoYlZs"
     },
     {
       "album": {
@@ -20978,7 +21014,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201666,
       "name": "\u30ca\u30d3\u30b2\u30fc\u30bf\u30fc",
       "url": "https://open.spotify.com/track/77roepkiOVpYtIWv5OOqsI"
@@ -22102,7 +22138,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157000,
       "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU"

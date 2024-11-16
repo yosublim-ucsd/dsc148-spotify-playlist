@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "4 shots of your body",
+        "url": "https://open.spotify.com/album/7wB1tq2QocDBUK03Rk5AfG"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164977,
+      "name": "4 shots of your body",
+      "url": "https://open.spotify.com/track/76dnKp2xRcXlW2LFbKlqes"
+    },
+    {
+      "album": {
         "name": "4 The Real",
         "url": "https://open.spotify.com/album/5OTCP2orKZla0RaQY2uD29"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 152049,
       "name": "BLOOD DIAMONDS (feat. Peysoh)",
       "url": "https://open.spotify.com/track/03heaSeI0k4pcHhD0v3iqk"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
@@ -3066,6 +3084,32 @@
       "duration_ms": 201830,
       "name": "California Dream",
       "url": "https://open.spotify.com/track/0mckqlVJEcHHFk7EQUKAWa"
+    },
+    {
+      "album": {
+        "name": "HOFFA",
+        "url": "https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Callin",
+      "url": "https://open.spotify.com/track/6K38lDJhEhZPNAAPGaoxVy"
     },
     {
       "album": {
@@ -3644,7 +3688,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 139805,
       "name": "Clap",
       "url": "https://open.spotify.com/track/6Jld6if9BVJvBZhoWICiH9"
@@ -4945,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Fooled",
+        "url": "https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194228,
+      "name": "Don't Be Fooled",
+      "url": "https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ"
+    },
+    {
+      "album": {
         "name": "Spaceships on the Blade",
         "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
       },
@@ -5351,6 +5413,28 @@
     },
     {
       "album": {
+        "name": "EAST CHATT (feat. Isaiah Rashad)",
+        "url": "https://open.spotify.com/album/1J6P4LYYjfLRPxT1T2IkI7"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156947,
+      "name": "EAST CHATT (feat. Isaiah Rashad)",
+      "url": "https://open.spotify.com/track/32i4yeBGTjgCHX96KeosCh"
+    },
+    {
+      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -5532,7 +5616,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 218111,
       "name": "Ego Maniacs",
       "url": "https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er"
@@ -5550,7 +5634,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 152155,
       "name": "EL PRESIDENTE",
       "url": "https://open.spotify.com/track/3PwnEvJk21WFJXX1TuEN3H"
@@ -6986,7 +7070,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157174,
       "name": "Fuck Love",
       "url": "https://open.spotify.com/track/5AjhmlWgwLCghXifBIHvk3"
@@ -7443,6 +7527,24 @@
     },
     {
       "album": {
+        "name": "Get Money",
+        "url": "https://open.spotify.com/album/3qyA2UYiygMNKM4RLWOv4K"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/3nFeH41QA2BOU6Gce4mGyT"
+    },
+    {
+      "album": {
         "name": "LA Summers 3",
         "url": "https://open.spotify.com/album/64rtlOuiSsbSBJ3Qo1cdRA"
       },
@@ -7794,7 +7896,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179873,
       "name": "Go Pro",
       "url": "https://open.spotify.com/track/3wzAAc6yhKtQs7nQLwMJjf"
@@ -7994,7 +8096,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
@@ -9422,7 +9524,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 159777,
       "name": "I LIKE HOES",
       "url": "https://open.spotify.com/track/33hiUOCaTAxgKbQyHNCQh5"
@@ -12224,7 +12326,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 137333,
       "name": "Million",
       "url": "https://open.spotify.com/track/3PzFwEi9XUCUTOgqu8LXdF"
@@ -14097,6 +14199,24 @@
     },
     {
       "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "OKLOSER",
+      "url": "https://open.spotify.com/track/4MJghVlIBrEivciBJ6WnQW"
+    },
+    {
+      "album": {
         "name": "Love, The Rascals",
         "url": "https://open.spotify.com/album/3Fa5wkcFpzgTUw2N7uzw6E"
       },
@@ -14124,7 +14244,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 262221,
       "name": "Oliver (feat. AG Club, Jody Fontaine, P-Lo, Michael Sneed)",
       "url": "https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM"
@@ -15144,6 +15264,52 @@
       "duration_ms": 153240,
       "name": "Player",
       "url": "https://open.spotify.com/track/0RDtx51MoVVvzDmiuH1EFl"
+    },
+    {
+      "album": {
+        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
+        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Ymtk",
+          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225196,
+      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
+      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
     },
     {
       "album": {
@@ -16812,7 +16978,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 171789,
       "name": "Sexy Red",
       "url": "https://open.spotify.com/track/3kBh0IdrxwqTqjD70NbMKJ"
@@ -17597,6 +17763,28 @@
     },
     {
       "album": {
+        "name": "Cut The Lights",
+        "url": "https://open.spotify.com/album/46HJHOl6xz0p3l82gqNGuG"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Speak Up (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/0Jdm97BErR9UkpdvMlojeo"
+    },
+    {
+      "album": {
         "name": "Special Delivery (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5ytNo79AWEUJ8HQ8D5OsWn"
       },
@@ -17892,7 +18080,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 182391,
       "name": "STAY SAFE",
       "url": "https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n"
@@ -18056,6 +18244,24 @@
       "duration_ms": 161688,
       "name": "Still Numb",
       "url": "https://open.spotify.com/track/5rIT3IR3w6szWJhD2vVkv5"
+    },
+    {
+      "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6I8q6myqBYEXVND7Kn2EK2"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124752,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/4iiWGeuGiYM5kr1c8P6wIW"
     },
     {
       "album": {
@@ -18307,6 +18513,24 @@
     },
     {
       "album": {
+        "name": "Stuntman",
+        "url": "https://open.spotify.com/album/7GrFw8og7mN7RgkWChUZbN"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Stuntman",
+      "url": "https://open.spotify.com/track/0E3zDQBZ15TkPE2f4OZfMp"
+    },
+    {
+      "album": {
         "name": "STUPID (WITH LIL YACHTY & BABYFACE RAY)",
         "url": "https://open.spotify.com/album/0LpnKDM6JGLcZP4haLZpwI"
       },
@@ -18440,7 +18664,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 225600,
       "name": "Sumn Pretty (feat. Rob49)",
       "url": "https://open.spotify.com/track/0o1ZzlqMUFUizu0Zlke8BD"
@@ -18520,7 +18744,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 156645,
       "name": "Survivor\u2019s Remorse",
       "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
@@ -18630,6 +18854,28 @@
       "duration_ms": 128103,
       "name": "Take A Sip (feat. Hott Boy Zay)",
       "url": "https://open.spotify.com/track/5AH0wCYthxjHaRlUjlZvoW"
+    },
+    {
+      "album": {
+        "name": "TAKE IT HIGH",
+        "url": "https://open.spotify.com/album/2LhBn0qxB0RSYkD5Nok5uT"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179425,
+      "name": "TAKE IT HIGH",
+      "url": "https://open.spotify.com/track/6u2IPsy2UY0AKYv7ONswuV"
     },
     {
       "album": {
@@ -19910,6 +20156,28 @@
       "duration_ms": 151200,
       "name": "Truth Is (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ"
+    },
+    {
+      "album": {
+        "name": "Typa",
+        "url": "https://open.spotify.com/album/19i3q2ZR7m8wAqpBodN6IR"
+      },
+      "artists": [
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133248,
+      "name": "Typa",
+      "url": "https://open.spotify.com/track/3HYyYI3aG9zM7meu1xUsdu"
     },
     {
       "album": {
@@ -21322,6 +21590,24 @@
       "duration_ms": 128052,
       "name": "You Da Shit",
       "url": "https://open.spotify.com/track/26QNZ9afVqHzcEBUwd74kx"
+    },
+    {
+      "album": {
+        "name": "YOU LIKE IT, I LOVE IT",
+        "url": "https://open.spotify.com/album/5oWav15w6sexsWEhmejGkg"
+      },
+      "artists": [
+        {
+          "name": "okay coleman!",
+          "url": "https://open.spotify.com/artist/2kAc58JeMNRXTVm3sVHrSN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "YOU LIKE IT, I LOVE IT",
+      "url": "https://open.spotify.com/track/5QFyMSGLLCe1bsfIcKQvnT"
     },
     {
       "album": {

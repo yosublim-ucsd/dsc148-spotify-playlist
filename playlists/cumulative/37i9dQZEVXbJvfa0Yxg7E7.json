@@ -29354,7 +29354,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 208427,
       "name": "Selmas sang (fra Sn\u00f8fall)",
       "url": "https://open.spotify.com/track/0PRX6CXffB3cARlzNCkmR4"
@@ -29452,6 +29452,32 @@
       "duration_ms": 175522,
       "name": "SEVILLA",
       "url": "https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y"
+    },
+    {
+      "album": {
+        "name": "Shake (Nesbrutality)",
+        "url": "https://open.spotify.com/album/3WzxscoX79o50Mt5UpuVbA"
+      },
+      "artists": [
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        },
+        {
+          "name": "BERGREM",
+          "url": "https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH"
+        },
+        {
+          "name": "MAFAQ",
+          "url": "https://open.spotify.com/artist/4D4EzEEVRRdur8d21izSUA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154195,
+      "name": "Shake (Nesbrutality)",
+      "url": "https://open.spotify.com/track/56H9r2H9sWFww1r9NWremj"
     },
     {
       "album": {
@@ -31910,7 +31936,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 188067,
       "name": "Sucker For Pain",
       "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
@@ -34108,7 +34134,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 188800,
       "name": "TIKTOK SOUND",
       "url": "https://open.spotify.com/track/1tZcMZuND8iYAkE1aoz1rQ"

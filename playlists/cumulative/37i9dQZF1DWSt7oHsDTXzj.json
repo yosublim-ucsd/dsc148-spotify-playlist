@@ -508,7 +508,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215065,
       "name": "baby jesus is nobody's baby now",
       "url": "https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179368,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/5BppO0mRbrH2TSOOShlPXk"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 135506,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "album": {
         "name": "Merry Xmas Everybody",
         "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215624,
       "name": "My Favourite Day",
       "url": "https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj"
@@ -3108,6 +3126,24 @@
       "duration_ms": 177976,
       "name": "pumpkin bread",
       "url": "https://open.spotify.com/track/603mAqHBigy7cueil9FxJf"
+    },
+    {
+      "album": {
+        "name": "Purple Snowflakes",
+        "url": "https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Purple Snowflakes",
+      "url": "https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl"
     },
     {
       "album": {
@@ -3996,7 +4032,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 211010,
       "name": "Vegetarian Christmas",
       "url": "https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l"
@@ -4202,6 +4238,24 @@
       "duration_ms": 134320,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
+    },
+    {
+      "album": {
+        "name": "Winter Hat",
+        "url": "https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174830,
+      "name": "Winter Hat",
+      "url": "https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W"
     },
     {
       "album": {

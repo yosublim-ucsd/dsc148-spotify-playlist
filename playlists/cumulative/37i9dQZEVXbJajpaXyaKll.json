@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "AS NOVINHAS DO JACARE X BEAT PORRADEIRO",
+        "url": "https://open.spotify.com/album/09kc57Jkvr2GFHYd2RiF4Y"
+      },
+      "artists": [
+        {
+          "name": "MANO ELYCE",
+          "url": "https://open.spotify.com/artist/3Z6G9veZAUhJLJNzu9g2AU"
+        },
+        {
+          "name": "Mc Dido",
+          "url": "https://open.spotify.com/artist/3AbeBDqk7IsG1JZEWVVcpY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80225,
+      "name": "AS NOVINHAS DO JACARE X BEAT PORRADEIRO",
+      "url": "https://open.spotify.com/track/0WlTjonJRqcdp4Vf9tm0Ch"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
@@ -2200,6 +2222,28 @@
       "duration_ms": 79389,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/7r3j6V228mlCKgZo6Escvy"
+    },
+    {
+      "album": {
+        "name": "Boxindanga",
+        "url": "https://open.spotify.com/album/72CZMSoQrgPxxjjWdAKOSc"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Matthysse",
+          "url": "https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk"
+        },
+        {
+          "name": "Jota M",
+          "url": "https://open.spotify.com/artist/7LK4I6q4tlYgsv6hiLnWdK"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153285,
+      "name": "Boxindanga",
+      "url": "https://open.spotify.com/track/4xKY2pP7CON2YFZLig4Mu5"
     },
     {
       "album": {
@@ -6988,7 +7032,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 200859,
       "name": "Hollow (feat. Bonn)",
       "url": "https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa"
@@ -14016,7 +14060,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"

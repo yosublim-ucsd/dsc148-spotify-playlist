@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83800,
+      "name": "It's Romance",
+      "url": "https://open.spotify.com/track/35dPjzQtPpGtUA2TV5dPtH"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP"
       },
@@ -1226,6 +1244,24 @@
       "duration_ms": 318320,
       "name": "Sheep May Safely Graze, BWV 208 (arr. Egon Petri)",
       "url": "https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY"
+    },
+    {
+      "album": {
+        "name": "Softly Falling",
+        "url": "https://open.spotify.com/album/33n2a5JdDY8gn8QmrAyI0K"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165770,
+      "name": "Softly Falling",
+      "url": "https://open.spotify.com/track/1JlfK3eRD9gaZmkshcaNOp"
     },
     {
       "album": {

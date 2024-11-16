@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Halle Kearns",
+  "description": "Music City must-hears. Cover: Bryan Martin",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -2483,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "APOLOGY SONG",
+        "url": "https://open.spotify.com/album/4rMN9mLvg40WDWEiXvANA0"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203679,
+      "name": "APOLOGY SONG",
+      "url": "https://open.spotify.com/track/0dprcHfg6mKDZSLilgjbQI"
+    },
+    {
+      "album": {
         "name": "Boy From Anderson County To The Moon",
         "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
       },
@@ -4923,6 +4941,24 @@
     },
     {
       "album": {
+        "name": "From Pikeville",
+        "url": "https://open.spotify.com/album/7GfqAQSCDpN5Z7s0b9BirX"
+      },
+      "artists": [
+        {
+          "name": "Eli Winders",
+          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165292,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/22gdu5asfq8ZRTPb63AkGz"
+    },
+    {
+      "album": {
         "name": "Boat Digger",
         "url": "https://open.spotify.com/album/6SpYAVI2ApE8DAWaXBs5aT"
       },
@@ -7058,7 +7094,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 229600,
       "name": "Church Bells and Train Whistles",
       "url": "https://open.spotify.com/track/1ZnY9V9dANUW8KWF7NDl6V"
@@ -7620,7 +7656,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 256413,
       "name": "Come Pick Me Up",
       "url": "https://open.spotify.com/track/1MwfvjztG2iVBK8JQWErvF"
@@ -7750,6 +7786,24 @@
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
+    },
+    {
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/5LHsXxVLR9UwGQu0QgUuH9"
+      },
+      "artists": [
+        {
+          "name": "Blake Henderson",
+          "url": "https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192636,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4rq5FtIfihSoI8h2Jq4fDA"
     },
     {
       "album": {
@@ -8295,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "Country's Close Enough",
+        "url": "https://open.spotify.com/album/6qeSWUjEsH1Pj6MN2SVM9H"
+      },
+      "artists": [
+        {
+          "name": "Mason Horne",
+          "url": "https://open.spotify.com/artist/341ntJveJBpKhKj316dttw"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210936,
+      "name": "Country's Close Enough",
+      "url": "https://open.spotify.com/track/0vHOv3CKNqO1I0qQ1v5A3L"
+    },
+    {
+      "album": {
         "name": "Couple Spring Breaks Back",
         "url": "https://open.spotify.com/album/4JH9Dzsn3qh8c0JATcdqPh"
       },
@@ -8422,6 +8494,24 @@
       "duration_ms": 187186,
       "name": "Cowboy Songs",
       "url": "https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE"
+    },
+    {
+      "album": {
+        "name": "Cowboy Up",
+        "url": "https://open.spotify.com/album/49tcLtFqwq1xhzLWHddssL"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164423,
+      "name": "Cowboy Up",
+      "url": "https://open.spotify.com/track/4d4vlF9uJtiJRajBPZlKMa"
     },
     {
       "album": {
@@ -8984,6 +9074,24 @@
       "duration_ms": 226409,
       "name": "Dead On Arrival",
       "url": "https://open.spotify.com/track/1WQBVjmnltdaxdMMuD1YLI"
+    },
+    {
+      "album": {
+        "name": "Dead Roses",
+        "url": "https://open.spotify.com/album/4qjJQbcyy1AZIB2KhtL1yt"
+      },
+      "artists": [
+        {
+          "name": "Aidan Canfield",
+          "url": "https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229411,
+      "name": "Dead Roses",
+      "url": "https://open.spotify.com/track/59kpYLxA63lM4RlyBlGw8R"
     },
     {
       "album": {
@@ -10362,7 +10470,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201211,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
@@ -12098,7 +12206,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201915,
       "name": "Famous for a Heartache (feat. Vincent Mason)",
       "url": "https://open.spotify.com/track/4Yx9k7A5duuC8m8LKaHI2r"
@@ -12116,7 +12224,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 197013,
       "name": "Far From God",
       "url": "https://open.spotify.com/track/7d7Jhe8ufLGMPos9jnDsYM"
@@ -13116,7 +13224,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 194972,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jTXDK9p5m0to85MFdPLkB"
@@ -14176,7 +14284,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 174149,
       "name": "Going On Forever",
       "url": "https://open.spotify.com/track/2CgQorbrX2gDHmPgVNgJaL"
@@ -17968,7 +18076,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 203049,
       "name": "Home In Hometown",
       "url": "https://open.spotify.com/track/49almk01OsUOPoeQsmYPiS"
@@ -18590,6 +18698,24 @@
       "duration_ms": 188736,
       "name": "How It Oughta Be",
       "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
+    },
+    {
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/0pYfTYhYGmWmo8UrYHXUwm"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205739,
+      "name": "How It Starts",
+      "url": "https://open.spotify.com/track/1O06ABZr6JGGOTsOsCzPzA"
     },
     {
       "album": {
@@ -19768,7 +19894,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 230597,
       "name": "I Hope It Hurts",
       "url": "https://open.spotify.com/track/2BSZkzW3XrCZbrct19cBcK"
@@ -19902,6 +20028,24 @@
       "duration_ms": 220837,
       "name": "I Know A Woman",
       "url": "https://open.spotify.com/track/7ltghituhN1IsPha0eBDmE"
+    },
+    {
+      "album": {
+        "name": "I Know Better",
+        "url": "https://open.spotify.com/album/4Uk2oLcQs0h6kdHPqFv62L"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "I Know Better",
+      "url": "https://open.spotify.com/track/7lPM5HYO00Ups307bgIzf3"
     },
     {
       "album": {
@@ -20539,6 +20683,24 @@
     },
     {
       "album": {
+        "name": "I'm Yours Amen",
+        "url": "https://open.spotify.com/album/0Sw2qDFV6rGzVFP1lhLcUj"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223127,
+      "name": "I'm Yours Amen",
+      "url": "https://open.spotify.com/track/2HNKkiiXaJ789Au8DLL7BQ"
+    },
+    {
+      "album": {
         "name": "Iconic",
         "url": "https://open.spotify.com/album/0iUz1IPeRegvbYqHrx6etn"
       },
@@ -20878,6 +21040,24 @@
       "duration_ms": 184866,
       "name": "If We Were A Love Song",
       "url": "https://open.spotify.com/track/6cYy26tMqX2avpvHxpmjYa"
+    },
+    {
+      "album": {
+        "name": "If You Can't, Don't",
+        "url": "https://open.spotify.com/album/01xhkkYvOHgmFE3J7ymEXE"
+      },
+      "artists": [
+        {
+          "name": "Neil Perry",
+          "url": "https://open.spotify.com/artist/2aicawvEwDKqN67GLGyy71"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "If You Can't, Don't",
+      "url": "https://open.spotify.com/track/6u3EpXVxDXPBVZXZJnD0zN"
     },
     {
       "album": {
@@ -22518,7 +22698,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 140171,
       "name": "Last Night's Lipstick",
       "url": "https://open.spotify.com/track/3XVi1r0WJtCG0cqqQjucov"
@@ -23855,6 +24035,24 @@
     },
     {
       "album": {
+        "name": "Liquor & Cigarettes",
+        "url": "https://open.spotify.com/album/27z7QXTHOHYwTzFJq6xdT5"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218729,
+      "name": "Liquor & Cigarettes",
+      "url": "https://open.spotify.com/track/31aZ4bVjZWSIPjUuyYUQAi"
+    },
+    {
+      "album": {
         "name": "Little Bit",
         "url": "https://open.spotify.com/album/2pD3O8OxoEMsiNvD1LdppB"
       },
@@ -24414,7 +24612,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 211133,
       "name": "Long Ride Home",
       "url": "https://open.spotify.com/track/4kbyTbcItK1zQWNHKupp9F"
@@ -24548,6 +24746,24 @@
       "duration_ms": 206213,
       "name": "Lose Her Forever",
       "url": "https://open.spotify.com/track/4lMuYTvZehnSfm7fn5zoRo"
+    },
+    {
+      "album": {
+        "name": "Lose Me",
+        "url": "https://open.spotify.com/album/5J2XlTmnrmaKM0spsXTSVg"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159764,
+      "name": "Lose Me",
+      "url": "https://open.spotify.com/track/2JuaCHB6o55rM0b4F6CD6j"
     },
     {
       "album": {
@@ -26604,7 +26820,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -27478,7 +27694,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 220788,
       "name": "Morning Person",
       "url": "https://open.spotify.com/track/5Kr0SsvnXMOUXAPpZVwOkL"
@@ -28878,6 +29094,24 @@
       "duration_ms": 210858,
       "name": "No Matter Which Way (You Spin It)",
       "url": "https://open.spotify.com/track/70s37JUA6kCGheKj5zlvxm"
+    },
+    {
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1dX7WHcYrxqMlt464PQmKb"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212457,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/5sIxSAvTuRk8NgxtGRsOzf"
     },
     {
       "album": {
@@ -31719,6 +31953,24 @@
     },
     {
       "album": {
+        "name": "Hudson Westbrook",
+        "url": "https://open.spotify.com/album/11p50hPPDIJ02CCECbKdli"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "Pray Your Name",
+      "url": "https://open.spotify.com/track/0Q3X2zqGSlZkGIlyOYRQD8"
+    },
+    {
+      "album": {
         "name": "Prayer List",
         "url": "https://open.spotify.com/album/2NJtq4jm2abAonSXoCAkUR"
       },
@@ -32646,7 +32898,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 227492,
       "name": "Red Bandana",
       "url": "https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy"
@@ -32945,6 +33197,28 @@
     },
     {
       "album": {
+        "name": "Religion - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4mG7uWXBkbG5T4BS1zkYSS"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170940,
+      "name": "Religion - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2Q8o1faXQHao1nh12Y6Do1"
+    },
+    {
+      "album": {
         "name": "Religion and Politics",
         "url": "https://open.spotify.com/album/0C5UnX7L5TlrY5LIYNeL4U"
       },
@@ -33122,6 +33396,24 @@
       "duration_ms": 183129,
       "name": "Ride Away With Me",
       "url": "https://open.spotify.com/track/64SqEb6o5CAcwSq7WeLS31"
+    },
+    {
+      "album": {
+        "name": "Right Damn Now",
+        "url": "https://open.spotify.com/album/2wGG2kwmCZvaelYcCqODFs"
+      },
+      "artists": [
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173699,
+      "name": "Right Damn Now",
+      "url": "https://open.spotify.com/track/0XBJpTPNnGpCI8O73UrHfR"
     },
     {
       "album": {
@@ -33764,7 +34056,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 168466,
       "name": "Runnin' Outta Time",
       "url": "https://open.spotify.com/track/3EzCR0VEifq0ETFRFsVhwA"
@@ -35326,7 +35618,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186644,
       "name": "Silverado",
       "url": "https://open.spotify.com/track/3jg6EdKCc9s3ibqwqle4Mu"
@@ -37252,7 +37544,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 209762,
       "name": "Stand",
       "url": "https://open.spotify.com/track/3bV1iS1qWgbS9hGqM45wyj"
@@ -38168,6 +38460,24 @@
       "duration_ms": 178369,
       "name": "Sweet On You",
       "url": "https://open.spotify.com/track/2VEreSbKGtmgKXHpLm9D1n"
+    },
+    {
+      "album": {
+        "name": "Sweet Tumbleweed",
+        "url": "https://open.spotify.com/album/2zjfTWbQsZen98Epu3rjSR"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234844,
+      "name": "Sweet Tumbleweed",
+      "url": "https://open.spotify.com/track/5NbZEFLaGihn5XtAmZ7dFj"
     },
     {
       "album": {
@@ -44411,6 +44721,24 @@
     },
     {
       "album": {
+        "name": "When I Hear That Song",
+        "url": "https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202690,
+      "name": "When I Hear That Song",
+      "url": "https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN"
+    },
+    {
+      "album": {
         "name": "When I Look Back",
         "url": "https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B"
       },
@@ -44639,7 +44967,7 @@
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168706,
+      "duration_ms": 169986,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/4QRjUthgpFqXH9X6SPYQee"
     },
@@ -45108,6 +45436,24 @@
       "duration_ms": 209740,
       "name": "Whiskey Sour",
       "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "album": {
+        "name": "Double Shot",
+        "url": "https://open.spotify.com/album/1wu1RDSqAAb304pLVgW73W"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159159,
+      "name": "Whiskey Talkin'",
+      "url": "https://open.spotify.com/track/0ul0TPqOXt4gsv2ARKR9vE"
     },
     {
       "album": {
@@ -45682,6 +46028,24 @@
       "duration_ms": 186346,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5frTjtjzChxsFkrasTG9N8"
+    },
+    {
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/4J4h1hf3qrSxEdDH6owTMC"
+      },
+      "artists": [
+        {
+          "name": "Christian Hayes",
+          "url": "https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184948,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/1C9qqEC3qObxvjLS55rnhO"
     },
     {
       "album": {
@@ -46671,6 +47035,24 @@
     },
     {
       "album": {
+        "name": "Years In The Making / Cowboy In This Indian",
+        "url": "https://open.spotify.com/album/3W8u6il1SfUavIbx7SKlX0"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216614,
+      "name": "Years In The Making",
+      "url": "https://open.spotify.com/track/7mTzscN46iL400qZgIxqmp"
+    },
+    {
+      "album": {
         "name": "Yee To The Haw",
         "url": "https://open.spotify.com/album/7m40cmB2CHChqaLtwHrW9Y"
       },
@@ -46726,6 +47108,24 @@
       "duration_ms": 183997,
       "name": "Yep",
       "url": "https://open.spotify.com/track/5RDKGEIYh4Q4G7Qs0lnaoZ"
+    },
+    {
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/1Alh1UDtqUQJ1bDcLDhoji"
+      },
+      "artists": [
+        {
+          "name": "Austin Merrill",
+          "url": "https://open.spotify.com/artist/2MzvCcclZQGuKtvyLnl5aF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/5ds8tHAjyl2MFNaocFS644"
     },
     {
       "album": {

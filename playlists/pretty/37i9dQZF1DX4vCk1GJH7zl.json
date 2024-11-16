@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 141327,
+  "num_followers": 141365,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "S\u00f3 Hoje (Strings Orchestra)",
+        "url": "https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 209383,
+      "name": "S\u00f3 Hoje - Strings Orchestra",
+      "url": "https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 193423,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "S\u00f3 Hoje (Strings Orchestra)",
-        "url": "https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 209383,
-      "name": "S\u00f3 Hoje - Strings Orchestra",
-      "url": "https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "De Volta Ao Novo - Volume 1",
-        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+        "name": "Vamos Correr Pro Mar",
+        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Seu Cuca",
+          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
         }
       ],
-      "duration_ms": 186280,
-      "name": "N-U-M-A-B-O-A",
-      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
+      "duration_ms": 206677,
+      "name": "Vamos Correr Pro Mar",
+      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vamos Correr Pro Mar",
-        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
-      },
-      "artists": [
-        {
-          "name": "Seu Cuca",
-          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "Vamos Correr Pro Mar",
-      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
@@ -987,22 +971,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Outro Mundo, Outro Lugar",
-        "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
-      },
-      "artists": [
-        {
-          "name": "Ls Jack",
-          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Outro Mundo, Outro Lugar",
-      "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
       },
@@ -1015,6 +983,38 @@
       "duration_ms": 166615,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "De Volta Ao Novo - Volume 1",
+        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "N-U-M-A-B-O-A",
+      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Outro Mundo, Outro Lugar",
+        "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
+      },
+      "artists": [
+        {
+          "name": "Ls Jack",
+          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Outro Mundo, Outro Lugar",
+      "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
     },
     {
       "added_at": "2024-10-18 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Potras, rancherxs y la \ud83e\uddc0 Con Beli B\u00e9lica en portada ",
+  "description": "Potras, rancherxs y la \ud83e\uddc0 Con Camila Fern\u00e1ndez en portada ",
   "name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 166529,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 183680,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV"
@@ -1232,6 +1232,24 @@
       "duration_ms": 198480,
       "name": "La Barbie",
       "url": "https://open.spotify.com/track/6k3ng0apceyq91moCbqLnw"
+    },
+    {
+      "album": {
+        "name": "La Caminera",
+        "url": "https://open.spotify.com/album/7siwCssx8fWnknViHVzggI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143306,
+      "name": "La Caminera",
+      "url": "https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r"
     },
     {
       "album": {
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 271000,
       "name": "Ni\u00f1a Bonita (feat. Oscar Iv\u00e1n Trevi\u00f1o)",
       "url": "https://open.spotify.com/track/6UERSrdAlEDiqbmaOfzYPC"
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 205467,
       "name": "No es normal",
       "url": "https://open.spotify.com/track/4FAkWvgZzt8znu3sFdSjO2"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 192658,
       "name": "PLYBOY",
       "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 188906,
       "name": "Quise Algo Bien",
       "url": "https://open.spotify.com/track/4F7HyIU2dZQduMTGgIxds5"
@@ -2666,6 +2684,24 @@
       "duration_ms": 240480,
       "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
       "url": "https://open.spotify.com/track/51nRQic7PFMD4NsdRj6soX"
+    },
+    {
+      "album": {
+        "name": "Regresar El Tiempo",
+        "url": "https://open.spotify.com/album/1fE6B6hUkGtjNgSU1Qbgd3"
+      },
+      "artists": [
+        {
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Regresar El Tiempo",
+      "url": "https://open.spotify.com/track/0DwpZLMYodiQazAc1Fwndf"
     },
     {
       "album": {

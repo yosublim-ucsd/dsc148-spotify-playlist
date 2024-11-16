@@ -1652,8 +1652,8 @@
           "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
         },
         {
-          "name": "Freddy-K",
-          "url": "https://open.spotify.com/artist/7pFKDM7hVIUtowsmrL4ifR"
+          "name": "Freddy K",
+          "url": "https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY"
         },
         {
           "name": "Mr. JazziQ",
@@ -15918,6 +15918,44 @@
       "duration_ms": 385714,
       "name": "Khulula",
       "url": "https://open.spotify.com/track/6AftB22jhXbTF616yrE8ic"
+    },
+    {
+      "album": {
+        "name": "Khuluma (feat. LilyFaith, Lowsheen & Theo Kgosinkwe)",
+        "url": "https://open.spotify.com/album/6NSuS46N3Bh2MU07Omkkkg"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        },
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        },
+        {
+          "name": "Theo Kgosinkwe",
+          "url": "https://open.spotify.com/artist/0ve9HwbCLcDX3ru2Ua5q3e"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359474,
+      "name": "Khuluma (feat. LilyFaith, Lowsheen & Theo Kgosinkwe)",
+      "url": "https://open.spotify.com/track/2khp25PyhK7XkI1ITyvAPJ"
     },
     {
       "album": {
@@ -34212,7 +34250,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 427265,
       "name": "Wa Tshembeka (feat. Tyler ICU & Jay Sax)",
       "url": "https://open.spotify.com/track/2dY16kzM2zR2P8MU9nwizH"

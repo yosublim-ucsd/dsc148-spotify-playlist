@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-915 songs - 1 day 3 hr 33 min
+921 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Babblarnas vaggvisa](https://open.spotify.com/track/6gopKSJWGbabzToovwmEbJ) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [Babblarnas vaggvisa](https://open.spotify.com/album/4gNojEh1nck10cN21lkIf4) | 2:24 | 2022-10-28 | 2022-11-19 |
 | [Baby Bear](https://open.spotify.com/track/524hkBEPBBTRkNOykE1hti) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [Baby Bear](https://open.spotify.com/album/1AZO1KDhtV8y3CX1DjToPj) | 1:46 | 2024-03-22 |  |
 | [Baby Bear’s Ballad](https://open.spotify.com/track/5wwecYMNWdNcRwoIkZcsLX) | [Madeline Lavender](https://open.spotify.com/artist/1NHyRzNtgtp43tHBx9jFhx) | [Baby Bear’s Ballad](https://open.spotify.com/album/2rgq50I7ge7K6PQRlTn70w) | 2:28 | 2024-08-23 |  |
+| [Baby Beluga](https://open.spotify.com/track/0Tv1Zm0hRRe5TindtLmE7r) | [Casey Holmes](https://open.spotify.com/artist/4o8mpGNWBNcFHJMCACYXET) | [Baby Beluga](https://open.spotify.com/album/26umt3kKBQBQZrwJ05U6fz) | 1:56 | 2024-11-15 |  |
 | [Baby Beluga](https://open.spotify.com/track/1cIGsKlc7FlX4jTzEu62sD) | [Joseph Benning](https://open.spotify.com/artist/71HPZYBaN0mpPmy1qeaE6d) | [Children's Piano Lullabies](https://open.spotify.com/album/3u9DUVSsDwlclIgFJ3QVap) | 3:19 | 2022-05-12 | 2023-04-09 |
 | [Baby Bestie](https://open.spotify.com/track/1CFCdx1MLQHorIyRpPGsiO) | [Yuri Lemon](https://open.spotify.com/artist/0k3NApRzdv5gXahVvFFNhC) | [Sweet Birdie](https://open.spotify.com/album/1V2v2IxBtL8XJdgOXtdulf) | 2:05 | 2021-10-05 | 2022-11-19 |
 | [Baby Mine](https://open.spotify.com/track/4Qs0Xv9tpzOc7SPY5s1mVn) | [Angelo Grant](https://open.spotify.com/artist/3h8kjYzd4qH8y6HQHYxFeu) | [Baby Mine](https://open.spotify.com/album/3RXH8SU60FG4zbHP4EO2zl) | 1:43 | 2021-10-05 | 2022-10-29 |
@@ -185,6 +186,7 @@
 | [Do Re Mi](https://open.spotify.com/track/4MXdzN8AzgAAjOqj61Tk1R) | [Joanna Carlton](https://open.spotify.com/artist/7dXo2q3715N1By7UKzdBkN) | [Do Re Mi](https://open.spotify.com/album/5Xu53qWvTerSTVJJfYcS4B) | 1:54 | 2021-10-05 | 2022-09-03 |
 | [Dobranoc Kochanie](https://open.spotify.com/track/1PK414zyoLoujJSjauaje0) | [Elżbieta Maciaszek](https://open.spotify.com/artist/69z4cT0ZVgaGzrreeVDqbP) | [Dobranoc Kochanie](https://open.spotify.com/album/36qOoceomQf4hLRvmpATiG) | 1:57 | 2021-10-05 | 2022-10-29 |
 | [Dog\-Tired](https://open.spotify.com/track/3OBdzBF7LZx3rCTefNYI4J) | [Janessa Coleman](https://open.spotify.com/artist/2XBm3Isxn2i0mt3Rm0Jc1O) | [Dog\-Tired](https://open.spotify.com/album/45a45mtZEuQOYaAsEUFVro) | 1:51 | 2021-10-05 | 2022-12-16 |
+| [Dolphine Blue](https://open.spotify.com/track/5KM7frQeHZgSvHLu5io6oI) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Dolphine Blue](https://open.spotify.com/album/191xbSLp9QGMFlu81cQwrJ) | 2:09 | 2024-11-15 |  |
 | [Don't Wake the Baby](https://open.spotify.com/track/32ibtpTcLgQ40XUytiXkt0) | [Judy Bartley](https://open.spotify.com/artist/3LviZuoIAm8vDjxT4otaY7) | [Don't Wake the Baby](https://open.spotify.com/album/4nrLf0JMoHsMhWo5cdIIrc) | 1:46 | 2021-10-05 | 2024-03-29 |
 | [Door\-Peak Moodlight](https://open.spotify.com/track/0hCGHQxMlw8qpGJoy4hnUg) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Door\-Peak Moodlight](https://open.spotify.com/album/0sk5VPIbey7aXl7GlK8qKa) | 2:10 | 2024-07-19 |  |
 | [Dors bien mon amour](https://open.spotify.com/track/5wkkDv2Pnf0DGmwXMc1uCb) | [Josette Dennis](https://open.spotify.com/artist/4nDA1b9vfx3CZzrdDyuciN) | [Dors bien mon amour](https://open.spotify.com/album/6nhd1y6IzHqEUmTJOOoCi1) | 1:29 | 2021-10-05 | 2022-10-29 |
@@ -224,6 +226,7 @@
 | [Es hora de acostarse](https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH) | [Nayara Moore](https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO) | [Es hora de acostarse](https://open.spotify.com/album/7tUywYo0CliiWURhDJVE5M) | 1:44 | 2021-10-05 | 2023-06-03 |
 | [Estrellas](https://open.spotify.com/track/3PkqO4QeUvGh6NevIlVt1H) | [Per Lööf](https://open.spotify.com/artist/18KIEPt8afqad7CPIzsWgV) | [Estrellas](https://open.spotify.com/album/510v7vwUUZNcDaPeahD5mk) | 1:59 | 2024-09-13 |  |
 | [Even When You're Nowhere Near](https://open.spotify.com/track/5nW5gpjCTCDhFTNVrvR5A8) | [Blanca Trembley](https://open.spotify.com/artist/3R5JvEGU9UdYN8uZkMjpgv) | [Even When You're Nowhere Near](https://open.spotify.com/album/1bfl1VMbr6AkHZMAnchW6N) | 2:01 | 2021-10-05 | 2023-01-27 |
+| [Evening Bliss](https://open.spotify.com/track/5bx5ryOcydTCn8HLOVNO8n) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Evening Bliss](https://open.spotify.com/album/1pWgcVgKGSouhSexniVZWk) | 3:04 | 2024-11-15 |  |
 | [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-09-22 | 2023-09-23 |
 | [Every Dream](https://open.spotify.com/track/3h6YThz5QFWgnF5sBFxDDo) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Every Dream](https://open.spotify.com/album/4Q28duxPRXhhbX9TcHvN1R) | 1:26 | 2021-10-05 | 2024-03-29 |
 | [Everytime I sleep](https://open.spotify.com/track/0L0RDiDft9D5IRLzxTuGRh) | [Chris Kit](https://open.spotify.com/artist/7vUPayHWsTGCFW37N8frG4) | [Everytime I sleep](https://open.spotify.com/album/4clt6pgzIPDseXZpW7Xd4W) | 1:15 | 2021-10-05 | 2022-11-19 |
@@ -335,6 +338,7 @@
 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Scarlet Sutton](https://open.spotify.com/artist/3uBIlLw3btitlfBAH34Hif) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 | 2023-03-24 |  |
 | [Hush Hush](https://open.spotify.com/track/4QOY64QuYpwPdWq3443dSM) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Hush Hush](https://open.spotify.com/album/3kgKC0ucg4dd5QufW7LQmq) | 2:13 | 2023-12-08 |  |
 | [Hush Little Baby](https://open.spotify.com/track/2MGquKw40obiAUR8gA6IMX) | [Isabelle Pavard](https://open.spotify.com/artist/0vHn9YgcrPyMwTjrMtvCBa) | [Hush Little Baby](https://open.spotify.com/album/27UK7UNACRIZHz6XeqHCMo) | 1:02 | 2022-04-20 | 2023-06-03 |
+| [Hush Little Baby](https://open.spotify.com/track/6n36fjtE5R8NOItQEASrIR) | [Pajama Llama](https://open.spotify.com/artist/29SbmvhRNO8sON3UBDpqoi) | [Hush Little Baby](https://open.spotify.com/album/60gsyVeVdB3799T3ZOf4Q2) | 2:13 | 2024-11-15 |  |
 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 | 2024-01-05 |  |
 | [Hush My Darling](https://open.spotify.com/track/4jggA9UxxTVj3L4nJkrqoA) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Hush My Darling](https://open.spotify.com/album/5V5pR3LpovfAIFR6GeMuN7) | 1:29 | 2022-11-18 | 2024-10-19 |
 | [Hush My Darling](https://open.spotify.com/track/37w8OTy6GttyjuTsxWSyod) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Hush My Darling](https://open.spotify.com/album/3rbxbaZ0gBBrlP7d4Cm7fH) | 1:48 | 2022-10-28 | 2022-12-24 |
@@ -411,6 +415,7 @@
 | [Last Book](https://open.spotify.com/track/3F8ikuuuFk50ppzmNMepAn) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Lullabies](https://open.spotify.com/album/3By8KmEY1xc7DUnEuWSo1Y) | 1:45 | 2021-10-05 | 2022-10-29 |
 | [Lavender's Blue](https://open.spotify.com/track/3H4JxbtYKtq2rKfhStFZOl) | [Abel Jordan](https://open.spotify.com/artist/4pVz1iK1QeprdcjpcimDUa) | [Lavender's Blue](https://open.spotify.com/album/1nWSYVD8OdQBjoB8zPvyo8) | 1:22 | 2023-03-10 | 2023-08-11 |
 | [Lavender's Blue](https://open.spotify.com/track/2fx4Zt7CaDEyShOuCqKSQF) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Mommy & Daddy Love You](https://open.spotify.com/album/2hzy2byPq9A9VPhooQ9OFo) | 1:28 | 2021-10-05 | 2022-10-29 |
+| [Le Mieux](https://open.spotify.com/track/6qAY1YWDswimKss02PPbiB) | [Izeda Joane](https://open.spotify.com/artist/3cT0wA3MtLFcUkFlxwe0Ko) | [Le Mieux](https://open.spotify.com/album/0Y6XNg6UrJxL7T2px6NvDq) | 1:52 | 2024-11-15 |  |
 | [Le Petit Prince](https://open.spotify.com/track/4cURU7zDTEfQEvoth8abKj) | [Baby Queenie](https://open.spotify.com/artist/6AwIskMLg31uvFciCCWxjR) | [Lovebirds](https://open.spotify.com/album/4OH8RIb7JinwujnG6xoXnB) | 2:20 | 2022-12-16 | 2023-06-16 |
 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lemon sky](https://open.spotify.com/track/3UvDZep35uVvjQs2C1kLLW) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Lemon sky](https://open.spotify.com/album/4GXco887kb4osKRxt2Ia8r) | 1:21 | 2021-10-05 | 2023-02-18 |
@@ -733,7 +738,7 @@
 | [Stories Under The Moon](https://open.spotify.com/track/2mZfjtYBHjsrGmCeglWmnf) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Stories Under The Moon](https://open.spotify.com/album/2uwvTPqvQTmgtKmHgh0pl1) | 1:51 | 2024-06-28 |  |
 | [Stroll 'n' Roll](https://open.spotify.com/track/7EqXDeQw7FSSUId8UebI7c) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Stroll 'n' Roll](https://open.spotify.com/album/6ptpCUIyiXwsBOP0mMnVDF) | 1:57 | 2024-07-19 | 2024-10-26 |
 | [Summer's Delight](https://open.spotify.com/track/4czyRY2CLY3TWDqqDRCs5C) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Summer's Delight](https://open.spotify.com/album/5IiDZ7s4yhvfdO2fczp5xM) | 4:05 | 2022-08-10 | 2022-11-19 |
-| [Sunny Whiskers](https://open.spotify.com/track/5FRfJjwF6WXALZmvWCWuOT) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Sunny Whiskers](https://open.spotify.com/album/70OlV0jeXYLyENgj1Otc8H) | 2:07 | 2024-05-31 |  |
+| [Sunny Whiskers](https://open.spotify.com/track/5FRfJjwF6WXALZmvWCWuOT) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Sunny Whiskers](https://open.spotify.com/album/70OlV0jeXYLyENgj1Otc8H) | 2:07 | 2024-05-31 | 2024-11-16 |
 | [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 | 2024-07-19 |
 | [Sunshine Serenade](https://open.spotify.com/track/4V6YpzzURGBkxlJNxwHQgH) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Sunshine Serenade](https://open.spotify.com/album/3difba7uWsS2mWbmMucScS) | 2:55 | 2024-04-16 |  |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |
@@ -777,6 +782,7 @@
 | [The Grand Old Duke Of York](https://open.spotify.com/track/5haTOyj3fd2iVNwDpidiIi) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:35 | 2021-10-05 | 2022-09-23 |
 | [The Little Bird](https://open.spotify.com/track/47iYEf93v87iFkvfiMVxht) | [Archie Brier](https://open.spotify.com/artist/5t49t4BTV7PlLZ5FbiQpES) | [The Little Bird](https://open.spotify.com/album/1soMQbeIDYkhsh3BhGRAkn) | 2:03 | 2021-10-05 | 2023-01-06 |
 | [The Little Butterfly](https://open.spotify.com/track/0rCvYkI3IAtJD7uhoyM1mx) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [The Little Butterfly](https://open.spotify.com/album/2aT8LG8k3TPQBYR2Xxy1zX) | 2:04 | 2024-09-30 |  |
+| [The Little Panda](https://open.spotify.com/track/4GZzNxtd35jId6CwtTdr7g) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [The Little Panda](https://open.spotify.com/album/2ZHTS11M4WWkvbtAmYAciP) | 1:35 | 2024-11-15 |  |
 | [The Little Snail](https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [The Little Snail](https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p) | 2:39 | 2023-12-08 |  |
 | [The Little Turtle](https://open.spotify.com/track/5fuPBMslabhXTKuEhU2MFn) | [Marcus Stillman](https://open.spotify.com/artist/4harlYKMPbSGXod94voGhU) | [The Little Turtle](https://open.spotify.com/album/4l4hsY8AV2LdOwqX8p7yrI) | 1:50 | 2021-10-05 | 2022-10-08 |
 | [The Lonely Cloud](https://open.spotify.com/track/4X1Ja0wm2T0EZZZDavccTF) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [The Lonely Cloud](https://open.spotify.com/album/1Z7AezqX3fIZzLe3pSsp2J) | 2:47 | 2021-10-05 | 2022-12-24 |

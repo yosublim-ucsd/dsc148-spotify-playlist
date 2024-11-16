@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover:  Jeff Lamb
 
-2,870 songs - 6 day 14 hr 41 min
+2,871 songs - 6 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [Hotline](https://open.spotify.com/track/5QM9WZ4PdG1h0c3dc9QiUA) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Hotline](https://open.spotify.com/album/3IbXCFLguPI38kGf657iI7) | 2:46 | 2024-10-02 |  |
 | [Hours](https://open.spotify.com/track/40ZaF0AdnGYII3ZQqnaFaR) | [Couch Prints](https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi), [Ginseng](https://open.spotify.com/artist/69Qs954Y5rA7BrhnEGWV17) | [Hours](https://open.spotify.com/album/5re04rPP3rG7dhBsw4kU7X) | 3:15 | 2023-08-02 | 2023-08-24 |
 | [Hours \- Acoustic](https://open.spotify.com/track/2XeiErcAs3bupghj4jfB6u) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Hours \(Acoustic\)](https://open.spotify.com/album/43RroKIozB14vXHnBsjsbY) | 2:46 | 2022-03-09 | 2022-04-13 |
+| [Hours Off](https://open.spotify.com/track/4CYNkEe36ARTYi4OQfq4pq) | [mer marcum](https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN) | [Hours Off](https://open.spotify.com/album/36d9uOlIWerIlQZYtLpFoW) | 3:23 | 2024-11-15 |  |
 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 | 2023-02-22 | 2023-03-23 |
 | [How Can I](https://open.spotify.com/track/3FhlcU65UNcSscY959nVaX) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [How Can I](https://open.spotify.com/album/3jD85FlNOwbJNAGvWqICAg) | 3:34 | 2024-11-06 |  |
 | [How Come No One Told Me](https://open.spotify.com/track/1tyV88FBoHbldJ74ZLB4Yv) | [Grimson](https://open.spotify.com/artist/1zEnV2mAzgJiOMccJN11yu) | [How Come No One Told Me](https://open.spotify.com/album/3n2k0rrZpvO1UYCWyWow8Y) | 3:58 | 2022-01-26 | 2022-02-23 |

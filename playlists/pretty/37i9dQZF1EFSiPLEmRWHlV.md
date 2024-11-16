@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 126 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 126 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 77 | [Passion \- Tantrum Desire Remix](https://open.spotify.com/track/2v88kuFdMAZofeB3Wo1DLX) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Ten Thousand Feet & Rising \(The Remixes\)](https://open.spotify.com/album/7kp17InWsncD5sl6B7yakM) | 4:47 |
 | 78 | [Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7ungYgCb89FcPwKE3tr4fc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [More Than You'll Ever Know / Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7pd9eEy552EVVqscaYry4Z) | 4:47 |
 | 79 | [Free Again](https://open.spotify.com/track/5n66lPIb8QuuIwRJlVjGgV) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Free Again](https://open.spotify.com/album/4ZGNAnIunLi6EMWMUlYpZA) | 2:25 |
-| 80 | [Heat Of The Sun](https://open.spotify.com/track/0MpdQSs4jWNIbBhJi2w7Pp) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 2:45 |
-| 81 | [Back Around](https://open.spotify.com/track/3m9uxUtp0P8dF3U0Uny0uY) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:36 |
+| 80 | [Back Around](https://open.spotify.com/track/3m9uxUtp0P8dF3U0Uny0uY) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:36 |
+| 81 | [Heat Of The Sun](https://open.spotify.com/track/0MpdQSs4jWNIbBhJi2w7Pp) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 2:45 |
 | 82 | [Call Out](https://open.spotify.com/track/3nONMKE40ClWSyT7zMqxdl) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Call Out](https://open.spotify.com/album/5MvloWk6nlyJ53zMcwLijk) | 4:10 |
 | 83 | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U) | 3:39 |
 | 84 | [When I'm Alone](https://open.spotify.com/track/5Dk6mLcQ5EKYEkWSmLgQb5) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Joston](https://open.spotify.com/artist/7BZRNGgJbXaXPxtCQp3eSV), [Clementine Douglas](https://open.spotify.com/artist/5JK1Ax0uAufztPzZB0WqHa) | [Find the Sunrise](https://open.spotify.com/album/1WCqIa46hsuHtjhiFGT2ln) | 3:40 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 102 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 |
 | 103 | [Forever](https://open.spotify.com/track/6nMvkTsBjuShwRbLcgVwwE) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:18 |
 | 104 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 |
-| 105 | [Hold On](https://open.spotify.com/track/1Bj286OtRqZeE87Y4JHS2U) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Hold On](https://open.spotify.com/album/03t57S3XQ8hJEOvlcqxbry) | 2:54 |
-| 106 | [Forever](https://open.spotify.com/track/3AiyGGOgTyx6QmzQUrXJeO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Forever](https://open.spotify.com/album/1t96mIM5YRX4sowjHXRt9I) | 2:53 |
+| 105 | [Forever](https://open.spotify.com/track/3AiyGGOgTyx6QmzQUrXJeO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Forever](https://open.spotify.com/album/1t96mIM5YRX4sowjHXRt9I) | 2:53 |
+| 106 | [Hold On](https://open.spotify.com/track/1Bj286OtRqZeE87Y4JHS2U) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Hold On](https://open.spotify.com/album/03t57S3XQ8hJEOvlcqxbry) | 2:54 |
 | 107 | [Are You With Me?](https://open.spotify.com/track/1EjxFbCPnKL84gXL2CGTRv) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:45 |
 | 108 | [I Want To Feel](https://open.spotify.com/track/0Um0sGHLnktSqGcyKW5PNJ) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:32 |
 | 109 | [Enemy](https://open.spotify.com/track/5pYgx7mS2aReFggKs1XEZ9) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:45 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 125 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 126 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Abhg/gAAAAA8xaiN32r0RMBh3jZ0tNn6`
+Snapshot ID: `AbhmngAAAACMBUgE+mxYlQTvMMAxcc/t`

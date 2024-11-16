@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Mike Bahía
+> Lo nuevo del mundo tropical\. Cover: Luck Ra & Ke Personajes
 
-535 songs - 1 day 6 hr 29 min
+537 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 | 2022-09-09 | 2023-01-25 |
 | [Quimicas de Amor](https://open.spotify.com/track/7hOKkEkiw2gUlJLXFFbT6s) | [J\-Dream](https://open.spotify.com/artist/43UkDk4JiVnOIVZdMHhO0Z), [Lady laura La morena del swing](https://open.spotify.com/artist/1oq10cOkNQAk6T63equyFp) | [Quimicas de Amor](https://open.spotify.com/album/0PA3JHgKlI5jzf8VdLPEE2) | 3:05 | 2022-03-25 | 2022-06-30 |
 | [Quinceañera](https://open.spotify.com/track/5WhqFotjTNZgX3HjcGfKNw) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Quinceañera](https://open.spotify.com/album/2ZknuUaHItGDmKNOVMSS7i) | 2:43 | 2024-04-05 | 2024-06-08 |
+| [Qué Culpa Tengo Yo \(feat\. Rafa Pabön\)](https://open.spotify.com/track/4AixJH9KlcFih0TeGxBMDa) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Qué Culpa Tengo Yo \(feat\. Rafa Pabön\)](https://open.spotify.com/album/13UxJwBgIkL0IUbSOJSWgv) | 3:30 | 2024-11-15 |  |
 | [Qué Onda Perdida](https://open.spotify.com/track/2n6oqxfxh5TrXVyymnoWnl) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Bachatas Pa' Pistear](https://open.spotify.com/album/7AHv1oWU34xLH3BC1A5X0N) | 4:04 | 2024-10-25 |  |
 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-04 |  |
 | [Quédate Bebé](https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Quédate Bebé](https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG) | 3:13 | 2024-02-16 | 2024-05-25 |
@@ -523,6 +524,7 @@
 | [Viviré](https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Viviré](https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN) | 4:13 | 2023-06-02 | 2023-07-13 |
 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 | 2023-07-21 | 2023-09-16 |
 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 | 2023-03-03 | 2023-05-20 |
+| [VUELA](https://open.spotify.com/track/6ryIAZUcqNrMi5D9kVaU7x) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [VUELA](https://open.spotify.com/album/6tcsMZC2aZNXWymJNghFyi) | 2:38 | 2024-11-15 |  |
 | [Vuelve](https://open.spotify.com/track/1KJMygl0P4TmlwTYO0zVHD) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Vuelve](https://open.spotify.com/album/07fsh2oj0AY397J3WPs6sG) | 2:46 | 2022-06-29 | 2023-01-24 |
 | [Worst Way](https://open.spotify.com/track/0yKJSkZNSHuMuTSOl9bOJM) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [YX](https://open.spotify.com/artist/2Fv2ioUtRdjP2i5ilLcDPs), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW) | [Worst Way](https://open.spotify.com/album/4qT54sqjsyssX4fNZgBkUv) | 4:05 | 2022-01-01 | 2022-06-30 |
 | [Y Como Te Olvido](https://open.spotify.com/track/5Pi7YhGmhGUunb82WJKOyT) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Estoy](https://open.spotify.com/album/2qdkE76wD3jBn1wiwnxFh4) | 3:40 | 2022-04-29 | 2023-01-14 |

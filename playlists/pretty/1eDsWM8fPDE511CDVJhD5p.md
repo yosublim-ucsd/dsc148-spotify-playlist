@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1eDsWM8fPDE511CDVJhD5p.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、クラブで聴きたいクールなボカロ曲を選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 129 likes - 40 songs - 2 hr 30 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 130 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1eDsWM8fPDE511CDVJhD5p.md) - [plain]
 | 19 | [ダンシンレイジークレイジーナイト \(feat\. 初音ミク\)](https://open.spotify.com/track/6p3U6n05M0FmkwZbUj7rv7) | [ヤバス](https://open.spotify.com/artist/0lWIZdslxRB0Z8s8aVGI4B), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ダンシンレイジークレイジーナイト](https://open.spotify.com/album/7c8m1tKE6AuFibGH3bxmnk) | 3:25 |
 | 20 | [RESONANCE \(feat\. 初音ミク\)](https://open.spotify.com/track/4MOB1I1SdtiM8YU34HdDqr) | [Mwk](https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [RESONANCE](https://open.spotify.com/album/3HceE8gG3eCiMxFZ3UZ4xA) | 3:25 |
 | 21 | [虚無仮説 \(feat\. 初音ミク\)](https://open.spotify.com/track/18lSryI0ZY6Ny0NtiF3uzj) | [しそP](https://open.spotify.com/artist/1R1lqBC5C0uNAs61QRMS8h), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [虚無仮説](https://open.spotify.com/album/2dcT0GUYKD0HguFf7ROhmV) | 3:19 |
-| 22 | [Orion](https://open.spotify.com/track/3zvVD5oQBACKYHFlr4BZBI) | [オゾン](https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e) | [Orion](https://open.spotify.com/album/4XhiDKvsBh6eYeChgamqDt) | 3:38 |
+| 22 | [Orion](https://open.spotify.com/track/3zvVD5oQBACKYHFlr4BZBI) | [O\-Zone](https://open.spotify.com/artist/02STxRvvT3LEGmduKDW3ZP) | [Orion](https://open.spotify.com/album/4XhiDKvsBh6eYeChgamqDt) | 3:38 |
 | 23 | [エスカピズム \(feat\. 初音ミク\)](https://open.spotify.com/track/77WKDMGpJsGJP6lHYTjvBB) | [錦](https://open.spotify.com/artist/1N9Blca28xu05WclOgklN4) | [エスカピズム](https://open.spotify.com/album/194RTP9CALb2BosPOamLxl) | 2:13 |
 | 24 | [アイン・シュタイン・タンジェント](https://open.spotify.com/track/5i6nI0YSVyptWLQ7Np3kPY) | [磯P](https://open.spotify.com/artist/69mlcVLivmXvt1C8c7mnBk) | [アイン・シュタイン・タンジェント](https://open.spotify.com/album/6qzqCKSKbf3ICfpT2uMjAc) | 6:01 |
 | 25 | [Mikunologie X](https://open.spotify.com/track/0JXdkDV4sbFq4Y70DRDgS3) | [X\-Plorez](https://open.spotify.com/artist/4m5tPy3hd5ENV7yRlQ6yj3) | [Mikunologie X](https://open.spotify.com/album/7dsOvaoRKr0OCduAqNffDb) | 4:28 |

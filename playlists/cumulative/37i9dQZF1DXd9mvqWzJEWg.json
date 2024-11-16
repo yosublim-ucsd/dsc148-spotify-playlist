@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv?si=EPsWCsX3Qba1NT3wMj5G9Q\">Still That Combo</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl?si=XEH6M4R3T8KJC8sYlYzWoA\">Goldmax</a>, <a href=\"https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ?si=BIWdOSVERUmY28MdLhKYxg\">Blacks Jnr</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -115,6 +115,54 @@
     },
     {
       "album": {
+        "name": "Play At Your Own Risk",
+        "url": "https://open.spotify.com/album/3ivpcSJn7XZVZpTv7W9liF"
+      },
+      "artists": [
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        },
+        {
+          "name": "Blacks Jnr",
+          "url": "https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352083,
+      "name": "Ama Weekend (feat. Leemckrazy)",
+      "url": "https://open.spotify.com/track/4gRjHuxHl3yQK2Om8vKTfj"
+    },
+    {
+      "album": {
+        "name": "Arab",
+        "url": "https://open.spotify.com/album/18h8q3eZNup2gT7Bf38ylh"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        },
+        {
+          "name": "Chustar",
+          "url": "https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243439,
+      "name": "Arab",
+      "url": "https://open.spotify.com/track/1DP4FRvvR2f8V1ya9mMGll"
+    },
+    {
+      "album": {
         "name": "As'bhenge Sonke (feat. Reece Madlisa, Zuma, Beast & Dladla Mshunqisi)",
         "url": "https://open.spotify.com/album/7frbtnBGwPBMUOUZ6ZfvrW"
       },
@@ -146,6 +194,28 @@
       "duration_ms": 289563,
       "name": "As'bhenge Sonke (feat. Reece Madlisa, Zuma, Beast & Dladla Mshunqisi)",
       "url": "https://open.spotify.com/track/6FDnFDACQpXyR6VZSzGgU4"
+    },
+    {
+      "album": {
+        "name": "As'khuzeki",
+        "url": "https://open.spotify.com/album/2TJJIE3jJZbkMKYmsihl3A"
+      },
+      "artists": [
+        {
+          "name": "King Domain",
+          "url": "https://open.spotify.com/artist/5KmpjHiUX5GujSCrckNCmc"
+        },
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318354,
+      "name": "As'khuzeki",
+      "url": "https://open.spotify.com/track/6cokDxvxdTeGlWAdrIlsyk"
     },
     {
       "album": {
@@ -918,6 +988,36 @@
       "duration_ms": 464437,
       "name": "EGM",
       "url": "https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH"
+    },
+    {
+      "album": {
+        "name": "eKhaya",
+        "url": "https://open.spotify.com/album/1Z9BSqfF0PMLUpgrnUzoDA"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1h9KaYrZuk0l2ML2WJBkUI"
+        },
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        },
+        {
+          "name": "Zanda Zakuza",
+          "url": "https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373963,
+      "name": "eKhaya",
+      "url": "https://open.spotify.com/track/4pZVsX1tMNBVSDpLlZhHAN"
     },
     {
       "album": {
@@ -1923,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Iza Mawala",
+        "url": "https://open.spotify.com/album/4ckzn1xPhgxaRKhp3ND00O"
+      },
+      "artists": [
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230424,
+      "name": "Iza Mawala",
+      "url": "https://open.spotify.com/track/3htTQssbDB6Xx6B5YZVkmA"
+    },
+    {
+      "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt"
       },
@@ -2078,6 +2200,32 @@
       "duration_ms": 287059,
       "name": "Kontrol",
       "url": "https://open.spotify.com/track/6rXnrNd6oS7LpSTmHnpoR1"
+    },
+    {
+      "album": {
+        "name": "Party With Campmasters II",
+        "url": "https://open.spotify.com/album/6xREbRZpKsbHDpLd3vuRhU"
+      },
+      "artists": [
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Sizwe Mdlalose",
+          "url": "https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279697,
+      "name": "Kosinda Obalekayo",
+      "url": "https://open.spotify.com/track/5P7R8OIzViJxSGalhabRYg"
     },
     {
       "album": {
@@ -2276,6 +2424,28 @@
       "duration_ms": 282906,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/5fcVkQiu2NARgxw6IRgoJA"
+    },
+    {
+      "album": {
+        "name": "Madicine",
+        "url": "https://open.spotify.com/album/1pKZeLep4Ok2EG592pUMDc"
+      },
+      "artists": [
+        {
+          "name": "Sekdlalu Bandiilee",
+          "url": "https://open.spotify.com/artist/3VpHT9QCzzMBVC8d7V3gVH"
+        },
+        {
+          "name": "GqoMLorD",
+          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336288,
+      "name": "Madicine",
+      "url": "https://open.spotify.com/track/4YP3377cfQvIIISl6dE2Li"
     },
     {
       "album": {
@@ -2492,6 +2662,32 @@
       "duration_ms": 234330,
       "name": "Nevermind (feat. Zhao) - Radio Edit",
       "url": "https://open.spotify.com/track/3ulCpPcPYNlrDxsrmXH6Ax"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/4qQsNEq8yOkwzJZXKO8Tfv"
+      },
+      "artists": [
+        {
+          "name": "Sekdlalu Bandiilee",
+          "url": "https://open.spotify.com/artist/3VpHT9QCzzMBVC8d7V3gVH"
+        },
+        {
+          "name": "GqoMLorD",
+          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
+        },
+        {
+          "name": "Naked Souls",
+          "url": "https://open.spotify.com/artist/4PUxTOaOojpbLxZIsCmJCQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322861,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/3HZlZiylezIEvo83zvACGW"
     },
     {
       "album": {
@@ -3258,6 +3454,40 @@
       "duration_ms": 352888,
       "name": "Seven Up",
       "url": "https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc"
+    },
+    {
+      "album": {
+        "name": "Sgubu",
+        "url": "https://open.spotify.com/album/2aSkfbw8d5cNbczg2ixQVc"
+      },
+      "artists": [
+        {
+          "name": "DJ Sandiso",
+          "url": "https://open.spotify.com/artist/2o7oc7fiP2eeLgKzKROgVg"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        },
+        {
+          "name": "NaakMusiQ",
+          "url": "https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe"
+        },
+        {
+          "name": "Kamza HeavyPoint",
+          "url": "https://open.spotify.com/artist/7nL5uRTsldIllG5bHiOTlR"
+        },
+        {
+          "name": "Kumkani",
+          "url": "https://open.spotify.com/artist/0carPqGYGmzjrMdU2ClQuo"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460000,
+      "name": "Sgubu (feat. Okmalumkoolkat, NaakMusiQ, Kamza HeavyPoint & Kumkani)",
+      "url": "https://open.spotify.com/track/4eWygV8PkuEooYpoamTLen"
     },
     {
       "album": {

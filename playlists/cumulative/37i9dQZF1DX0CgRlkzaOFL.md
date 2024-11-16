@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-94 songs - 5 hr 21 min
+97 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Heiwa no Inori](https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 1:37 | 2022-03-25 |  |
 | [Hiiro no Hitomi no Aika](https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:29 | 2023-10-17 | 2024-04-19 |
 | [IiMuRoYa\-$.feat 3rd\-Mov.:HEiW@→KiZUN@](https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 4:12 | 2022-03-25 |  |
+| [Jojo's Bizarre Adventure: Il vento d'oro \- Golden Wind \- Piano Version](https://open.spotify.com/track/1c14God6YcHEtLvE6swPV8) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Jojo's Bizarre Adventure: Il vento d'oro \- Golden Wind \(Piano Version\)](https://open.spotify.com/album/0fdoEPSgIRrba6LQMGJwDs) | 2:07 | 2024-11-15 |  |
 | [Kakusei Shinn Asuka](https://open.spotify.com/track/1WNJIa7BzKD6G9v3UR9JJZ) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu) | 1:49 | 2022-03-25 |  |
 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 | 2022-03-25 |  |
 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 | 2022-03-25 |  |
@@ -77,7 +78,9 @@
 | [Theme of Violet Evergarden](https://open.spotify.com/track/0fsb37XCuEDiF1oPNq4arG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 2:17 | 2022-03-25 |  |
 | [Very little wishes](https://open.spotify.com/track/0dRub80H2d4W7FtuhBS2Qo) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 2:29 | 2022-03-25 |  |
 | [Very little wishes](https://open.spotify.com/track/0sy481jsaYC1fNqGWgKTM2) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [MACROSS PLUS ORIGINAL SOUNDTRACK](https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8) | 2:29 | 2022-04-19 | 2024-04-19 |
+| [We Gotta Power \(from Dragon Ball Z\) \(feat\. ThatViolaKid\)](https://open.spotify.com/track/1z04Ns1kFACBMF0tZ6oWUe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [ThatViolaKid](https://open.spotify.com/artist/4NUssuHyRMkU7AM6bDU1OC) | [Otaku](https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt) | 3:40 | 2024-11-15 |  |
 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 | 2022-03-25 |  |
+| [Your Lie in April Theme Song \- Piano Version](https://open.spotify.com/track/2Q6OKffZvDWknp13n0ZwZc) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Your Lie in April Theme Song \(Piano Version\)](https://open.spotify.com/album/6rKNo6PN6KuF8PC0vLaBlD) | 1:44 | 2024-11-15 |  |
 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 | 2022-03-25 |  |
 | [すずさん](https://open.spotify.com/track/3IJb1ea8z7JI0MGhXEvl2r) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 3:08 | 2022-11-25 |  |
 | [それぞれの居場所は](https://open.spotify.com/track/53qehEsM6WQvVvAN2c8QCv) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [映画「雨を告げる漂流団地」Original Soundtrack](https://open.spotify.com/album/5ByRDSKXANCR64CrrUsppt) | 2:48 | 2022-11-21 |  |

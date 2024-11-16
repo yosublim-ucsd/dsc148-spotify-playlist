@@ -4,7 +4,7 @@
 
 > Tous vos titres Disney préférés incluant la musique de Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-127 songs - 6 hr 37 min
+128 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Almost There](https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:24 | 2024-05-02 |  |
 | [Au détour de la rivière \- De "Pocahontas, Une Légende Indienne"/Bande Originale Française du Film](https://open.spotify.com/track/31ZEooXkUL7ZhNvcuKcBfy) | [Laura Mayne](https://open.spotify.com/artist/6jhjbQ42Cp107uBCzr2Wfr) | [Pocahontas, Une Légende Indienne \(Bande Originale Française du Film\)](https://open.spotify.com/album/3HkPvUe2kaXsrh4guMIVBx) | 2:27 | 2023-09-15 |  |
 | [Aujourd'hui](https://open.spotify.com/track/6TYicCvfn4zz6dyeNErZA9) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP) | [Aujourd'hui](https://open.spotify.com/album/32ilGaxBG0b05lsUwD7J2x) | 3:25 | 2023-09-15 |  |
+| [Beyond \(End Credit Version\) \- From "Vaiana 2"](https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Vaiana 2"\]](https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b) | 3:16 | 2024-11-15 |  |
 | [Bienvenue à Rosas](https://open.spotify.com/track/0CwGlaXuoqz1fgYJfr67sR) | [Océane Demontis](https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM) | [Wish: Asha et la bonne étoile \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb) | 2:27 | 2024-05-02 | 2024-09-21 |
 | [C'est la Fête](https://open.spotify.com/track/0032NxFAEmW9e1mF9cyJ7y) | [Guillaume Beaujolais](https://open.spotify.com/artist/1LoQUk8Xi2lVQyk7j4CzcA), [Sophie Delmas](https://open.spotify.com/artist/1HGPhfluDgy5rXvhZs4drD), [Magali Bonfils](https://open.spotify.com/artist/49idWEsfmt7h9DHJVQOfuJ), [Philippe Catoire](https://open.spotify.com/artist/6WeEGxhJDT537gg44utO72) | [La Belle et La Bête \(Bande Originale Française du Film\)](https://open.spotify.com/album/7lL7qRxy4DCYBSdF9bqvzI) | 4:48 | 2023-09-15 | 2024-05-03 |
 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 | 2023-09-15 | 2024-05-03 |

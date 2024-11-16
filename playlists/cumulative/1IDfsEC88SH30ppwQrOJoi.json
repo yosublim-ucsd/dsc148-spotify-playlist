@@ -2489,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "Hold Me Up (feat. Beau R\u00eave)",
+        "url": "https://open.spotify.com/album/7i5Mdf5eCErqBa1vJvAypC"
+      },
+      "artists": [
+        {
+          "name": "Electric Cinema",
+          "url": "https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj"
+        },
+        {
+          "name": "Beau R\u00eave",
+          "url": "https://open.spotify.com/artist/7vCjnEisCy0S3vF2ft8bUA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313220,
+      "name": "Hold Me Up - Club Mix",
+      "url": "https://open.spotify.com/track/3jTJxNAnY1PiS8Rw8nG2Ak"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/4BWfXZ5p7w9BltOeikz8Dq"
       },

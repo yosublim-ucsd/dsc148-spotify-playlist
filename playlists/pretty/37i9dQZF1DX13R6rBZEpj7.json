@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 232055,
+  "num_followers": 232202,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
+        "name": "Skanker",
+        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 227189,
+      "name": "Skanker",
+      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 189295,
       "name": "DIY - Old Skool Mix",
       "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
-        "name": "Skanker",
-        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 227189,
-      "name": "Skanker",
-      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
     },
     {
       "added_at": "2024-11-14 15:03:04",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-11-14 15:03:04",
       "album": {
-        "name": "Gloom EP",
-        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
-      },
-      "artists": [
-        {
-          "name": "Alix Perez",
-          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
-        },
-        {
-          "name": "Visages",
-          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
-        }
-      ],
-      "duration_ms": 285203,
-      "name": "Circadian",
-      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
-    },
-    {
-      "added_at": "2024-11-14 15:03:04",
-      "album": {
         "name": "Eyes On You (Burt Cope Remix)",
         "url": "https://open.spotify.com/album/7HPosCxuP8Ew0Pz9Asc9d7"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 160000,
       "name": "Eyes On You - Burt Cope Remix",
       "url": "https://open.spotify.com/track/6gPmXgDvQbPfRSilJVYOf5"
+    },
+    {
+      "added_at": "2024-11-14 15:03:04",
+      "album": {
+        "name": "Gloom EP",
+        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "duration_ms": 285203,
+      "name": "Circadian",
+      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
     },
     {
       "added_at": "2024-11-14 15:03:04",

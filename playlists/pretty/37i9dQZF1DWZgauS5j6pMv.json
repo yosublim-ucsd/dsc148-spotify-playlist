@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Penthouse",
-  "num_followers": 334960,
+  "num_followers": 335012,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAABJj/4jxSn8tUPdvQ5InVAN",
+  "snapshot_id": "ZzbVUAAAAAB3lHSm1b6FYEk1oirXzhaJ",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -23,6 +23,42 @@
       "duration_ms": 131200,
       "name": "Taxi to the Moon",
       "url": "https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Kindred Lover",
+        "url": "https://open.spotify.com/album/5RJZ1GIIWHMWBhZ3b4iKRA"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Katis",
+          "url": "https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx"
+        },
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "duration_ms": 176391,
+      "name": "Kindred Lover",
+      "url": "https://open.spotify.com/track/6PDTzLHj1AKkQbowjBKORN"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Lucky (Song 7)",
+        "url": "https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        }
+      ],
+      "duration_ms": 231652,
+      "name": "Lucky (Song 7)",
+      "url": "https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -61,6 +97,22 @@
       "url": "https://open.spotify.com/track/7BypZ2B3bsVf2hwqAHqGJe"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/4tlZkAJU6UmBKMRi22ojve"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/3Dc6tLYl8GHl2lFfsiag2a"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "NEVER CATCH A BREAK",
@@ -79,6 +131,22 @@
       "duration_ms": 174331,
       "name": "NEVER CATCH A BREAK",
       "url": "https://open.spotify.com/track/2546nqsIcRLi51Lqp851fy"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Feelin' How I Should",
+        "url": "https://open.spotify.com/album/4bcSg6RNQ8t0pFBPMNm4Wx"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Feelin' How I Should",
+      "url": "https://open.spotify.com/track/2ZTZzeo6yKr6cchthTQZHq"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -873,30 +941,6 @@
       "url": "https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "New Guru",
-        "url": "https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Antwaun Stanley",
-          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "New Guru",
-      "url": "https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y"
-    },
-    {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "JELLY",
@@ -1265,22 +1309,6 @@
       "url": "https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Like, Maybe",
-        "url": "https://open.spotify.com/album/0WqzN6rft3aP7MA3SNSodv"
-      },
-      "artists": [
-        {
-          "name": "Kalu & The Electric Joint",
-          "url": "https://open.spotify.com/artist/1OQOcvFKUjJLSHC5gdAkbt"
-        }
-      ],
-      "duration_ms": 215255,
-      "name": "Like, Maybe",
-      "url": "https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Get Together",
@@ -1527,38 +1555,6 @@
       "duration_ms": 291000,
       "name": "Break Through To My Heart",
       "url": "https://open.spotify.com/track/4ZTejOswcSHkbPfiQi1DVR"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Body Weak (Diamond Cut)",
-        "url": "https://open.spotify.com/album/4QOSrIecDT4eeFYu3nrbqR"
-      },
-      "artists": [
-        {
-          "name": "Diamond Cafe",
-          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Body Weak (Diamond Cut)",
-      "url": "https://open.spotify.com/track/1s0HuXwtPGA8PWVWQClUZq"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "I Don't Wanna Be In Love, But I Don't Wanna Be Alone",
-        "url": "https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "I Don't Wanna Be In Love, But I Don't Wanna Be Alone",
-      "url": "https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI"
     },
     {
       "added_at": "2023-12-08 05:01:00",

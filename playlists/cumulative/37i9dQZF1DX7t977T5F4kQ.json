@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Stonebwoy",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: DJ Micsmith ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -4271,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
+    },
+    {
+      "album": {
         "name": "Kelewele (feat. Joeboy)",
         "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
       },
@@ -4612,6 +4630,32 @@
       "duration_ms": 165949,
       "name": "Limit",
       "url": "https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB"
+    },
+    {
+      "album": {
+        "name": "LIQUOR",
+        "url": "https://open.spotify.com/album/6MahyLFpyrepCcvRDc4g1Q"
+      },
+      "artists": [
+        {
+          "name": "DJ Mic Smith",
+          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "LIQUOR",
+      "url": "https://open.spotify.com/track/5O1XtrzDEnzuCCVCub26fb"
     },
     {
       "album": {
@@ -8416,6 +8460,24 @@
       "duration_ms": 216911,
       "name": "Walk & Move",
       "url": "https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh"
+    },
+    {
+      "album": {
+        "name": "Wash",
+        "url": "https://open.spotify.com/album/5L4ALYCh557ihUVxHiG27b"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163110,
+      "name": "Wash",
+      "url": "https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k"
     },
     {
       "album": {

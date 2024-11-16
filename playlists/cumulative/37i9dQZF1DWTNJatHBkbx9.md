@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: Anabel Rose
+> From the alternative scene in Ghana\. Cover: Baaba J
 
-149 songs - 7 hr 20 min
+150 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Revolution](https://open.spotify.com/track/0PH8UPKRZmmXND0eTXb2fH) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Ssnowbeatz](https://open.spotify.com/artist/5rJmFKxhCIEnl455wuOxPz), [maamee](https://open.spotify.com/artist/7L2ZNTG60W7qXzKrO3Ur6c) | [Revolution](https://open.spotify.com/album/2LvrwpLao3nqDKUKAEbzDc) | 3:23 | 2024-05-10 |  |
 | [Rhythms and Blues](https://open.spotify.com/track/0a3rLv5MLUxKJjSWPsYYIy) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Rhythms and Blues](https://open.spotify.com/album/5gQtma9p0VO3ZShVsT9tj3) | 2:12 | 2024-05-17 | 2024-06-01 |
 | [Rollin'](https://open.spotify.com/track/28WdABswL19KArcoOwosy3) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Rollin'](https://open.spotify.com/album/3uFLUmeQvVrEoGqEbVwn6x) | 2:39 | 2024-10-12 |  |
+| [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 | 2024-11-15 |  |
 | [Sandbox Vibes](https://open.spotify.com/track/4OWOg2OCoSUjgkkUA7fNHY) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1) | [Sandbox Vibes](https://open.spotify.com/album/7jxSO7vkVd9zXYNXxko1w2) | 3:15 | 2024-10-12 |  |
 | [SELFISH.](https://open.spotify.com/track/4S6r7dVPgs36suKmecDxHp) | [Lesléy](https://open.spotify.com/artist/1LBzlrdp7raJkjb34IG7m2) | [SWEET AFROSEXY SUMMERS.](https://open.spotify.com/album/5EAyTaAbaZDTFJCBcsobgf) | 2:48 | 2024-06-14 | 2024-07-12 |
 | [Sexy Depression](https://open.spotify.com/track/4rxRHC2KKFuW5pdpwHrQlu) | [Susan Augustt](https://open.spotify.com/artist/1vx6qCxNhUH57xPZrBddo5) | [Sexy Depression](https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l) | 2:56 | 2024-05-10 | 2024-06-01 |

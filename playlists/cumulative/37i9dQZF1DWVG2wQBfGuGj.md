@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-252 songs - 12 hr 44 min
+255 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Bit](https://open.spotify.com/track/23jKEodrmoADuKJShk2G6X) | [Tigran Boiler](https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM) | [A Little Bit](https://open.spotify.com/album/1JGAYUVMFdEmmLXH3aqAf4) | 2:18 | 2023-05-05 |  |
 | [Aerobic Float](https://open.spotify.com/track/4aP3t84CNic7OwGoZsatmR) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Aerobic Float](https://open.spotify.com/album/7BtLc8zsfXIjCrjjDPu2pp) | 3:13 | 2024-03-27 |  |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2023-05-05 |  |
+| [Akacia](https://open.spotify.com/track/7stPv7cEDdfUlRxu7VpXDR) | [Nima Junior](https://open.spotify.com/artist/5vzOqNBtEppju5GH6g8phb) | [Akacia](https://open.spotify.com/album/4w7uK5wglkqwCaVJve7Px9) | 2:04 | 2024-11-15 |  |
 | [All Over My Body](https://open.spotify.com/track/365R9wKlTJpciKgWB0v6K3) | [Quaaalude](https://open.spotify.com/artist/5xjuELwoci9zRv8NKXhEIl) | [All Over My Body](https://open.spotify.com/album/0XIK1ChzTUPN7V0JQrhG1n) | 3:16 | 2023-05-05 |  |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2023-05-05 |  |
 | [Always A Princess](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Always A Princess](https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9) | 2:36 | 2023-07-07 |  |
@@ -219,6 +220,8 @@
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2023-05-05 |  |
 | [Sunny Side Up](https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq) | [LE OBAL](https://open.spotify.com/artist/3L04IscPrn4iwZ4WaDO6QL) | [Sunny Side Up](https://open.spotify.com/album/0Bcj1W4MDQmv5M5BCPILxn) | 2:21 | 2024-01-23 |  |
 | [Sunrise](https://open.spotify.com/track/5PMBsw2yDBmYJtAlz4G8FM) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Sunrise](https://open.spotify.com/album/6EZZq0ZMxuB0mE1OVb3VPy) | 2:55 | 2023-05-05 |  |
+| [Sunset Boulevard](https://open.spotify.com/track/2GF9l97s0kODu6zYFzSRGX) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Sunset Boulevard](https://open.spotify.com/album/50QtWRDI2sOwNqgwH4qPYW) | 2:48 | 2024-11-15 |  |
+| [Sunset Cruise](https://open.spotify.com/track/27qH4kpLRwHOs8ODoG1QwJ) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [Sunset Cruise](https://open.spotify.com/album/0hvAzAM7cpOoZdFlYrmJ9w) | 2:16 | 2024-11-15 |  |
 | [Sunset Groove](https://open.spotify.com/track/2b95f2mVCMMsd3hXti60if) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Sunset Groove](https://open.spotify.com/album/1NZrHUIs5K3k49LhxIysMf) | 2:58 | 2023-05-05 |  |
 | [Take Off](https://open.spotify.com/track/2DBZDxHb9Pm35HN5B3CylH) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Fragments](https://open.spotify.com/album/3qTvhqa8UtrfAuK8NhWZgT) | 3:49 | 2023-05-05 | 2023-05-23 |
 | [Takes Two](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 2](https://open.spotify.com/album/0xuDJrCDAVY3HPmoArJ2dj) | 3:51 | 2023-05-05 |  |

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-663 songs - 2 day 17 hr 10 min
+664 songs - 2 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 | 2020-01-01 | 2022-02-16 |
 | [Jupiter \- Kollektiv Turmstrasse Remix](https://open.spotify.com/track/7lqdOVhUoKnjRyjipj4Z9k) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Watergate 27 EP \#1](https://open.spotify.com/album/0ZD1D7rbIEFtfkzyZouLtp) | 8:20 | 2020-12-12 | 2021-03-19 |
 | [Juriaan](https://open.spotify.com/track/79OXUEyFARdL5o6d0mufkn) | [Innacircle](https://open.spotify.com/artist/4XFq9dpY7G0laKhv41WqQ6) | [Amaranth](https://open.spotify.com/album/0irTTzTLcFslW4dz6KGq2o) | 7:41 | 2019-08-08 | 2020-06-09 |
-| [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-10-28 |  |
+| [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-10-28 | 2024-11-16 |
 | [Kante](https://open.spotify.com/track/0U1bGLSGnfDlZah7x4RSLd) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Rocco](https://open.spotify.com/album/2eRzkEpNd6gMrbb5wjK9xl) | 6:21 | 2019-08-06\* | 2019-09-19 |
 | [Keep Control \- ARTBAT Remix](https://open.spotify.com/track/5RRW8mTdeutSNYSmV4om5C) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Keep Control \(ARTBAT Remix\)](https://open.spotify.com/album/7sbZ5EN4zQ8F6d8ElD3cRi) | 8:03 | 2020-06-12 | 2020-06-29 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-18 |  |
@@ -484,6 +484,7 @@
 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 | 2021-06-20 | 2023-07-01 |
 | [Sacramento](https://open.spotify.com/track/1xzQrYzGvdKDAPqZFYo052) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Sacramento](https://open.spotify.com/album/3gKlImKKM2VADD6F0EVFWZ) | 6:49 | 2019-09-13 | 2020-03-04 |
 | [Safe \- Edit](https://open.spotify.com/track/1voZzPyAv1TRn5FfG9V0sK) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Safe](https://open.spotify.com/album/0URQWcDJyljHYCe1O19onb) | 3:59 | 2021-05-08 | 2021-05-26 |
+| [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-11-15 |  |
 | [Same \- Radio Edit](https://open.spotify.com/track/4nilN27xhbhhBk79LTiBAO) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Same](https://open.spotify.com/album/6ch0UCMHhQNKWdf7OS7HLO) | 3:52 | 2019-08-06\* | 2020-10-21 |
 | [Samson](https://open.spotify.com/track/34fx5Qr2oEkQfqRS8FlbJt) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Samson](https://open.spotify.com/album/2HlExpMOAcyS1Wyc5I7F5H) | 7:00 | 2019-08-06\* | 2020-06-12 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |

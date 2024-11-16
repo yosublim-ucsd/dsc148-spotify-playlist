@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=ufhnx8LgQAWApuinQ8qIYQ">Demi Lee Moore</a> & <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=EN\_\-CVCNRAKPMqi5d7THtw">Eloff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,688 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,801 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

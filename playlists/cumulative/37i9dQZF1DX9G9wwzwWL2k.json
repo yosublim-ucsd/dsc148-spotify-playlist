@@ -2809,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Gladiator II (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165345,
+      "name": "The Dream Is Lost",
+      "url": "https://open.spotify.com/track/5f6pwi2QJWirSSwcAnCadJ"
+    },
+    {
+      "album": {
         "name": "Stravinsky: The Firebird & Petrushka (1947 Version)",
         "url": "https://open.spotify.com/album/00JUTB3HBxnqTTPFUrkjK0"
       },

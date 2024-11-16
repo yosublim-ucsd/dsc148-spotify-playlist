@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-128 songs - 6 hr 43 min
+129 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 | 2021-12-18 |  |
 | [Red Bottom](https://open.spotify.com/track/4Rk9xAIYkkCq34H9XhrY3C) | [Jk Dhillon](https://open.spotify.com/artist/4Qd0RqDCeIhqaWMLyRe8ba), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Red Bottom](https://open.spotify.com/album/1ZBrAjDZ9o6hsuiNKTEIMW) | 3:35 | 2023-09-30 | 2023-10-21 |
 | [Rohab Te Round](https://open.spotify.com/track/1DVtRbRYScXQwJVcZhcmqE) | [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV), [Alam Chatha](https://open.spotify.com/artist/6QD7yIIxirmaHmp3Ukn6Ch) | [Rohab Te Round](https://open.spotify.com/album/2sR59f1t58nnfn6wx8i8pu) | 3:09 | 2024-11-11 |  |
+| [Sada Daur](https://open.spotify.com/track/1eoGuijJpFd6Txwp0pys4l) | [Dhira Gill](https://open.spotify.com/artist/2FQhpGbpOq4z3dz4oHmB7G), [Aman Hayer](https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus), [Saab Pangota](https://open.spotify.com/artist/1HjAS2d6YUCo2m9JdiiHU4) | [Sada Daur](https://open.spotify.com/album/1vxY1JwVD6qDeBCKI2bwvR) | 3:09 | 2024-11-15 |  |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2023-07-26 |  |
 | [Sarpanchi](https://open.spotify.com/track/5wHNjnfMjLji3AjbHRA8hj) | [Kulwinder Kaily](https://open.spotify.com/artist/3TQK8VxIYSzNXTYDCRyDbR), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Sarpanchi](https://open.spotify.com/album/5TnWS9WFGm1koOsphWNrEG) | 4:01 | 2024-11-04 |  |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 | 2024-10-17 |

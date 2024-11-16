@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-464 songs - 1 day 2 hr 14 min
+465 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Colourfast](https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Colourfast](https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq) | 3:44 | 2023-09-08 |  |
 | [Come Alive](https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Come Alive](https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ) | 3:53 | 2021-12-10 | 2023-06-01 |
 | [Come Alive](https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Elemental](https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U) | 3:53 | 2023-06-02 | 2024-04-19 |
-| [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-12-10 |  |
+| [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-12-10 | 2024-11-16 |
 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 | 2022-11-11 | 2023-02-16 |
 | [Come With Me](https://open.spotify.com/track/3h7nvdG9vOZPfMX0P7oKeZ) | [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Come With Me](https://open.spotify.com/album/1JsV1sy5wUYIGHtFDBkVP1) | 2:21 | 2021-12-10 | 2022-06-21 |
 | [Comfort Food](https://open.spotify.com/track/2fQRakxrM46CSScy1tw6tM) | [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Comfort Food](https://open.spotify.com/album/3i8TmJpi7BeON4IHuMjEAP) | 3:28 | 2024-08-26 | 2024-10-26 |
@@ -89,6 +89,7 @@
 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 | 2022-04-15 | 2023-08-19 |
 | [Composure \- Toronto Is Broken Remix](https://open.spotify.com/track/4a8irWxaB5OdkK02dWNBbH) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF), [Toronto Is Broken](https://open.spotify.com/artist/3DaX9l3f0lsiPjgyJ454wI) | [Composure \(Toronto Is Broken Remix\)](https://open.spotify.com/album/6w3VkQovCWA7mB9rIlsTag) | 3:57 | 2022-08-05 | 2022-09-12 |
 | [Control \(feat\. Add1ction\)](https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Add1ction](https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6) | [Control \(feat\. Add1ction\)](https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw) | 3:15 | 2021-12-10 | 2022-12-13 |
+| [Control \(GTFU\)](https://open.spotify.com/track/6FXwEKIGiTnLh3sN25TQ4J) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Mad Kelly](https://open.spotify.com/artist/6ztTQK1luCxwidQqZuFhJj) | [Control \(GTFU\)](https://open.spotify.com/album/0OykJjcfPcU6FCuZV9p0wE) | 3:20 | 2024-11-15 |  |
 | [Coopa \- G\-Rex Remix](https://open.spotify.com/track/1ma1dPnKkbgWqXjZAtBVZS) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Coopa \(G\-Rex Remix\)](https://open.spotify.com/album/0npUtnfMuXD7Z3onqFUDpp) | 2:25 | 2023-12-01 | 2023-12-16 |
 | [Core \(That's Who We Are\)](https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Core \(That's Who We Are\)](https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u) | 2:58 | 2022-06-24 | 2024-04-19 |
 | [Core \(That's Who We Are\)](https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Core \(That's Who We Are\)](https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5) | 2:58 | 2021-12-10 |  |

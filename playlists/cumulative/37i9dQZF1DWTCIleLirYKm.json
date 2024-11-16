@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 212506,
       "name": "Slow Movin' Outlaw (with Lacy J. Dalton) (with Lacy J. Dalton)",
       "url": "https://open.spotify.com/track/08ec3DeBtsxHgfo4JpIgvo"
@@ -2190,6 +2190,24 @@
       "duration_ms": 185773,
       "name": "Why You Been Gone so Long",
       "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"
+    },
+    {
+      "album": {
+        "name": "Years In The Making / Cowboy In This Indian",
+        "url": "https://open.spotify.com/album/3W8u6il1SfUavIbx7SKlX0"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216614,
+      "name": "Years In The Making",
+      "url": "https://open.spotify.com/track/7mTzscN46iL400qZgIxqmp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTCIleLirYKm"

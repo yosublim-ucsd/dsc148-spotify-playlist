@@ -1631,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "ALL FOR NOTHING",
+        "url": "https://open.spotify.com/album/3EEV33XzKCrV3gQ1RrSf8Z"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        },
+        {
+          "name": "Juan Rios",
+          "url": "https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "ALL FOR NOTHING",
+      "url": "https://open.spotify.com/track/02RANWTwjLL9yVN4XtxW9Z"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/5AAPXPUUGL5diqa8ckX99f"
       },
@@ -2708,6 +2730,28 @@
       "duration_ms": 150857,
       "name": "Aroma Swing",
       "url": "https://open.spotify.com/track/2z9RMJvLdLy1G7UyxWjAon"
+    },
+    {
+      "album": {
+        "name": "Aromatherapy",
+        "url": "https://open.spotify.com/album/338ORap3OjpieOkFPYdB3c"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Aromatherapy",
+      "url": "https://open.spotify.com/track/2es7QUQEw9kp1G47Jwm6WV"
     },
     {
       "album": {
@@ -5596,7 +5640,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 114274,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/57xQSfNOQEbRm4Vgdoz27C"
@@ -10586,7 +10630,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 116923,
       "name": "coconut road",
       "url": "https://open.spotify.com/track/1KYgTl8LvBggbdzzYfc1rU"
@@ -15434,28 +15478,6 @@
       "duration_ms": 161095,
       "name": "Empty seats",
       "url": "https://open.spotify.com/track/3FzWAfCMigsrtTRqcStQJp"
-    },
-    {
-      "album": {
-        "name": "Mute",
-        "url": "https://open.spotify.com/album/6fo1QOplXC1D5S7OJxKyfp"
-      },
-      "artists": [
-        {
-          "name": "Emulov",
-          "url": "https://open.spotify.com/artist/1wxWR2oDl5Q3LCJmMbKf91"
-        },
-        {
-          "name": "MONODUKE",
-          "url": "https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197"
-        }
-      ],
-      "date_added": "2024-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144000,
-      "name": "Emulov - Mute",
-      "url": "https://open.spotify.com/track/26fnSjRZULe3UiaQaGvEt7"
     },
     {
       "album": {
@@ -22870,7 +22892,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 168000,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/1wRBFh9suKP4oi7pdZVP5n"
@@ -26250,6 +26272,24 @@
       "duration_ms": 130000,
       "name": "Leaving With You",
       "url": "https://open.spotify.com/track/77zU5JbIuhRrYTIZpmQ2xT"
+    },
+    {
+      "album": {
+        "name": "Lefty",
+        "url": "https://open.spotify.com/album/0RxUxAaTCuzuUfCCLztmjs"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Lefty",
+      "url": "https://open.spotify.com/track/6fweKn5fbuQFB52XnpzGa5"
     },
     {
       "album": {
@@ -31619,6 +31659,24 @@
     },
     {
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/1JuGtnmjRR3O3qu5AC1Xp6"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115263,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/6AdZzn2YTDoj7qXrhvz3Aq"
+    },
+    {
+      "album": {
         "name": "Movie Night",
         "url": "https://open.spotify.com/album/43GqkPbI4kvAjCQyHoXii5"
       },
@@ -31834,6 +31892,28 @@
       "duration_ms": 129130,
       "name": "Mustache Wax",
       "url": "https://open.spotify.com/track/0qDBUz0iFrKeddOCUDrMVS"
+    },
+    {
+      "album": {
+        "name": "Mute",
+        "url": "https://open.spotify.com/album/6fo1QOplXC1D5S7OJxKyfp"
+      },
+      "artists": [
+        {
+          "name": "Emulov",
+          "url": "https://open.spotify.com/artist/1wxWR2oDl5Q3LCJmMbKf91"
+        },
+        {
+          "name": "MONODUKE",
+          "url": "https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mute",
+      "url": "https://open.spotify.com/track/26fnSjRZULe3UiaQaGvEt7"
     },
     {
       "album": {
@@ -35691,6 +35771,28 @@
     },
     {
       "album": {
+        "name": "Palm Tree",
+        "url": "https://open.spotify.com/album/4NRDgISaScB6fL1rdqtqvT"
+      },
+      "artists": [
+        {
+          "name": "Wishia",
+          "url": "https://open.spotify.com/artist/74OJkhD3aZVzfbTJSfFTeQ"
+        },
+        {
+          "name": "The Retune Project",
+          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120210,
+      "name": "Palm Tree",
+      "url": "https://open.spotify.com/track/7kvQ1DipdfKx44DJF2HGCn"
+    },
+    {
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/0pt7O6XYxQNLve54jVtidG"
       },
@@ -36388,7 +36490,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 190909,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5ixEhYKHwWKzn1rFONq6XA"
@@ -37268,7 +37370,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 125714,
       "name": "Playing with Fire",
       "url": "https://open.spotify.com/track/3LCKAZ1e5Jy7hifH5ZvPsG"
@@ -37684,7 +37786,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 128780,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/5fEQg559m7sLKw78foaoWF"
@@ -38202,7 +38304,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 88888,
       "name": "Push",
       "url": "https://open.spotify.com/track/1lePWz524Ti0Gx2upbupV1"
@@ -43213,6 +43315,28 @@
     },
     {
       "album": {
+        "name": "Slow Jam",
+        "url": "https://open.spotify.com/album/4SactMfSvWwG9yXAMqBwK1"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "ToddChamp",
+          "url": "https://open.spotify.com/artist/1ipyEHbmOwfeDwywg1gSc1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158435,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/4hX4cUIsRXyja4tDbEcE60"
+    },
+    {
+      "album": {
         "name": "Slow Lane",
         "url": "https://open.spotify.com/album/1PPjXvRgPUGww44FVTgwQo"
       },
@@ -47804,6 +47928,24 @@
       "duration_ms": 104470,
       "name": "Sunny Side of the Road",
       "url": "https://open.spotify.com/track/3S3ZYKBvPS8FfXcuuFLGCi"
+    },
+    {
+      "album": {
+        "name": "Sunny Story",
+        "url": "https://open.spotify.com/album/5EIY3F7Mh5IxBksesPNLrD"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sunny Story",
+      "url": "https://open.spotify.com/track/0AzAFAtPNRbXMdxRq4Spcn"
     },
     {
       "album": {
@@ -52732,7 +52874,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 120352,
       "name": "Velvet Clouds",
       "url": "https://open.spotify.com/track/04B1bnQjbsUVm53JBNJ7on"
@@ -55476,6 +55618,24 @@
       "duration_ms": 176000,
       "name": "with love",
       "url": "https://open.spotify.com/track/4tQjYKOO7G8RkIdzt8F4fS"
+    },
+    {
+      "album": {
+        "name": "Wohnzimmer",
+        "url": "https://open.spotify.com/album/000OjY8jkUpxzcYFFqfXHI"
+      },
+      "artists": [
+        {
+          "name": "gknister",
+          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127073,
+      "name": "Wohnzimmer",
+      "url": "https://open.spotify.com/track/35sbbzKoyKpWrfqFAriDZj"
     },
     {
       "album": {

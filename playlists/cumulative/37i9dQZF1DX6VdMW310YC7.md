@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,696 songs - 4 day 20 hr 10 min
+1,697 songs - 4 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-04-06 |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2022-07-01 | 2023-09-09 |
 | [Can’t Stop Loving You \- Poolside Mix](https://open.spotify.com/track/31jNPoOdc4AXUJRl4ABbfH) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Can’t Stop Loving You \(Poolside Mix\)](https://open.spotify.com/album/10jta1EMIwQXiGbWFQ5yjW) | 3:01 | 2020-05-22 | 2021-03-06 |
-| [Carry Me Through](https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [24, summer](https://open.spotify.com/album/3n4bScXJkjZLPeSAg4C1YU) | 3:27 | 2024-09-20 |  |
+| [Carry Me Through](https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [24, summer](https://open.spotify.com/album/3n4bScXJkjZLPeSAg4C1YU) | 3:27 | 2024-09-20 | 2024-11-16 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-07 | 2022-11-12 |
 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 | 2023-09-08 | 2023-12-02 |
 | [Carry Your Name](https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [The Learning of Urgency](https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED) | 3:17 | 2024-06-07 |  |
@@ -1397,6 +1397,7 @@
 | [Stay Here](https://open.spotify.com/track/1UOhslFENZSjK6KFaJ6wAN) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena) | [Oxygen](https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf) | 4:09 | 2020-05-18 | 2020-07-03 |
 | [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 | 2024-04-12 |  |
 | [Stay With Me](https://open.spotify.com/track/3xbxh3LW9v6E3wn1AwUJfe) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:47 | 2020-05-18 | 2020-07-03 |
+| [Steps](https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [MALIAN](https://open.spotify.com/artist/0d6VNGVzfu99Bs0qi6CpD2), [Roundrobin](https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc) | [Visage 8 \(Steps\)](https://open.spotify.com/album/2kb4wuBoAlLU8lPLZMSU0u) | 3:20 | 2024-11-15 |  |
 | [Still \(Love You\)](https://open.spotify.com/track/3qVRAMZ0JdxLoeCKxM2nnQ) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE) | [Still \(Love You\)](https://open.spotify.com/album/0o8G6etVVOtEovOR8QPUZQ) | 3:03 | 2024-04-19 | 2024-06-11 |
 | [Still Together \- Radio Mix](https://open.spotify.com/track/4onD0pjASg29nhthK87ZQb) | [Zeni N](https://open.spotify.com/artist/18MdCa6sJKKOf9JttVCdUC), [Erdit Mertiri](https://open.spotify.com/artist/0WvUIwJD7E9wIwYFKYEdY4) | [Still Together \(Single\)](https://open.spotify.com/album/7aVqtpapYjj3EYZcZQOa3G) | 3:58 | 2020-05-18 | 2022-09-28 |
 | [Still Want U](https://open.spotify.com/track/76tXVbmQtOOAfqRyeMV0Ug) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [RINGOS DESERT PT.1](https://open.spotify.com/album/1VAIQmXGA2BVlpXBrueMnk) | 3:33 | 2020-05-18 | 2020-07-03 |

@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-263 songs - 14 hr 37 min
+267 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Best of My 20's \(feat\. Trousdale\)](https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq), [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 2:56 | 2024-10-13 |  |
 | [better be tough](https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:06 | 2024-08-02 | 2024-11-02 |
 | [Better Days](https://open.spotify.com/track/3r4l7Qu1anNjNSu8jcxf3O) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Better Days](https://open.spotify.com/album/0MctoVljiJDo7x4yDvioAs) | 3:28 | 2024-05-31 | 2024-08-17 |
+| [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 | 2024-11-15 |  |
 | [BETTER WITH YOU](https://open.spotify.com/track/0cSRjbZWKzH1ggvN17XwBc) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [BETTER WITH YOU](https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF) | 2:39 | 2023-11-03 | 2024-01-27 |
 | [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-11-03 | 2024-02-24 |
 | [Blood](https://open.spotify.com/track/613kRFZRUuzk1oNFJhLVyh) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/3dn9G5nWuDYTshRFwPIsV7) | 2:44 | 2024-02-02 | 2024-05-25 |
@@ -163,6 +164,7 @@
 | [Moth to a Flame](https://open.spotify.com/track/2QVur9XmWWwivQntbUwvVT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Moth to a Flame](https://open.spotify.com/album/3k89ZbjGkJJbm5hnCqx5B3) | 3:52 | 2024-06-21 | 2024-08-17 |
 | [Narcissist \(feat\. Phix\)](https://open.spotify.com/track/5GZyD9MBTiovN2dDNeHOJr) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT) | [Narcissist \(feat\. Phix\)](https://open.spotify.com/album/7x3d4sBwFfaRZeXJXAY2k6) | 3:56 | 2024-02-09 | 2024-06-08 |
 | [Nashville](https://open.spotify.com/track/7ipqRoVXICKDuRPg2NYIbl) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Nashville](https://open.spotify.com/album/0yjQtJIxA6fLKYoTwwatcA) | 2:30 | 2024-08-02 | 2024-10-19 |
+| [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 | 2024-11-15 |  |
 | [Never Ready](https://open.spotify.com/track/1V18kDTP7YFrBC0GlrxbTr) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Never Ready](https://open.spotify.com/album/7ui13q1VH4EuNCTE74hROF) | 4:41 | 2024-06-21 | 2024-09-14 |
 | [Nightmare](https://open.spotify.com/track/0oksHGLvgXwrvmAxWNO33T) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [American Son](https://open.spotify.com/album/3AbDe8cQYZwtJOmJc6mlXG) | 3:17 | 2024-08-23 | 2024-10-19 |
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-19 | 2024-06-01 |
@@ -187,6 +189,7 @@
 | [Religion and Politics](https://open.spotify.com/track/0an93wG6ltDZNDdtupLNJR) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Religion and Politics](https://open.spotify.com/album/0C5UnX7L5TlrY5LIYNeL4U) | 3:11 | 2024-10-18 |  |
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-14 |  |
 | [Rest of Your Life](https://open.spotify.com/track/1bB7sNIQG3yBhlP9XSIccf) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Rest of Your Life](https://open.spotify.com/album/0RYIEgUnNfz1DaTETsrmVs) | 3:10 | 2024-01-19 | 2024-03-23 |
+| [Reverse Cowgirl](https://open.spotify.com/track/3cVfEINfdRowJNxmGwSsfx) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Reverse Cowgirl](https://open.spotify.com/album/0VTDxj9TAoXGZvE0iLBD1L) | 2:17 | 2024-11-15 |  |
 | [Right Now](https://open.spotify.com/track/5HS8aICH7tjYXSBxzjE9PU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Right Now](https://open.spotify.com/album/5c6gRadNcBezr5lzERoRsv) | 3:04 | 2024-01-12 | 2024-04-02 |
 | [River Red](https://open.spotify.com/track/7qn7OgUmfpywyHE65efNzr) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [No Town, Oklahoma](https://open.spotify.com/album/0vVhKY9X4XEWtT79ShUa7K) | 3:05 | 2024-08-16 | 2024-10-14 |
 | [Rodeo Junkies](https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Rodeo Junkies](https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX) | 3:36 | 2024-09-27 | 2024-10-26 |
@@ -246,6 +249,7 @@
 | [Wake Me Up \- The Bluegrass Rendition](https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Wake Me Up \(The Bluegrass Rendition\)](https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g) | 4:23 | 2024-05-24 | 2024-07-20 |
 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-16 | 2024-11-09 |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-24 | 2024-08-24 |
+| [Wanna Be Loved \- Live At The Ryman](https://open.spotify.com/track/0UBCL7Xew29kHSTQtCtjc6) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Live At The Ryman](https://open.spotify.com/album/1vUQsMV6nHHFAWvWGRqg48) | 4:10 | 2024-11-15 |  |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-04 |  |
 | [What Good Is A Memory](https://open.spotify.com/track/1D2YDvtJMgg8GQmYeAyPQF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [What Good Is A Memory](https://open.spotify.com/album/1OPUwabpaUsTM3hI7CPcuR) | 2:46 | 2024-08-09 | 2024-09-28 |
 | [Whatcha Know Good](https://open.spotify.com/track/67oaYXGag9fKnUhgqhPA4U) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Be Right Here](https://open.spotify.com/album/0qLbJMreDYNn32RSEEnY39) | 4:03 | 2024-02-16 | 2024-05-04 |

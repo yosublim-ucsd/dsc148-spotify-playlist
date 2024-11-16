@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 180000,
       "name": "Better",
       "url": "https://open.spotify.com/track/5DCGNVSejDMG0xsh3Y6lqm"
@@ -2580,6 +2580,28 @@
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
     },
     {
       "album": {
@@ -3370,6 +3392,10 @@
         {
           "name": "PalaisVert",
           "url": "https://open.spotify.com/artist/0zkOPDBgnhSOmItLnCD03s"
+        },
+        {
+          "name": "Pouvoir Magique",
+          "url": "https://open.spotify.com/artist/6jOzYw2JWxujmMIwwiAaEA"
         }
       ],
       "date_added": "2024-10-25",
@@ -4408,7 +4434,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 287515,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0zZh0di9bn85r9deya97A3"
@@ -7338,6 +7364,28 @@
       "duration_ms": 368040,
       "name": "Keya",
       "url": "https://open.spotify.com/track/7aWFnpijG4mmsxt3JArLPC"
+    },
+    {
+      "album": {
+        "name": "Intersexy",
+        "url": "https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285730,
+      "name": "Khuluma Nami",
+      "url": "https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG"
     },
     {
       "album": {

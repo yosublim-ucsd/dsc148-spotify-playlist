@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-80 songs - 4 hr 49 min
+82 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I Waited for You](https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/2TRHx1axpzpqApnQgS8TU1) | 1:30 | 2022-02-14 |  |
 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 | 2024-02-01 |  |
 | [Into The Sea](https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB) | [Stuart Earl](https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 1:39 | 2024-09-06 |  |
+| [It's Romance](https://open.spotify.com/track/35dPjzQtPpGtUA2TV5dPtH) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 1:23 | 2024-11-15 |  |
 | [Jasmine](https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX) | [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Jasmine](https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP) | 2:39 | 2024-11-08 |  |
 | [Kiss the Rain](https://open.spotify.com/track/0fwAkzz0qALiz4QnQKC7pN) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Kiss the Rain](https://open.spotify.com/album/4BjtKMRsRy69raeSHuhb8X) | 4:24 | 2024-02-09 |  |
 | [La fille aux cheveux de lin](https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [La fille aux cheveux de lin](https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy) | 2:39 | 2024-11-08 |  |
@@ -64,6 +65,7 @@
 | [Roses in a Box](https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Contemporary Love Songs for Piano](https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF) | 3:41 | 2022-02-14 |  |
 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 | 2022-08-16 | 2022-10-08 |
 | [Sheep May Safely Graze, BWV 208 \(arr\. Egon Petri\)](https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:18 | 2022-02-14 |  |
+| [Softly Falling](https://open.spotify.com/track/1JlfK3eRD9gaZmkshcaNOp) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Softly Falling](https://open.spotify.com/album/33n2a5JdDY8gn8QmrAyI0K) | 2:45 | 2024-11-15 |  |
 | [Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/track/72CwEwj0LHNDMgH2zXCa1f) | [Johann Christian Bach](https://open.spotify.com/artist/0ebni9QrrWMvEgH40nOWZQ), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [J.C\. Bach: Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/album/1CxdegOyg36oudEmc71yB5) | 3:38 | 2022-02-14 |  |
 | [Sparkler Dims](https://open.spotify.com/track/2W69qiB0iKaPrYmPeVpnB1) | [The Hillside Project](https://open.spotify.com/artist/0ZTS8jiPsoSf6JM6zjvUyL) | [Sparkler Dims](https://open.spotify.com/album/12pm6r8rj8Zwmz87YZeIV6) | 5:17 | 2023-07-14 |  |
 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 | 2022-02-14 |  |

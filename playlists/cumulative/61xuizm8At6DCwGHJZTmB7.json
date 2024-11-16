@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Million Chances",
+        "url": "https://open.spotify.com/album/24JZao6BL4cMvLwgCX9eLn"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201433,
+      "name": "A Million Chances",
+      "url": "https://open.spotify.com/track/0sfd53iGsKTy4lo6NGwbYg"
+    },
+    {
+      "album": {
         "name": "A Thousand Hallelujahs",
         "url": "https://open.spotify.com/album/6cd1y3444OW0PCDI7CkQmS"
       },
@@ -586,6 +604,28 @@
       "duration_ms": 247294,
       "name": "Always",
       "url": "https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO"
+    },
+    {
+      "album": {
+        "name": "Always and Forever (Live)",
+        "url": "https://open.spotify.com/album/1z2IJ2IzlcZMjzFHg10bht"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Ashley Bailey",
+          "url": "https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471461,
+      "name": "Always and Forever - Live",
+      "url": "https://open.spotify.com/track/2Bc27NvLY9rGEg2QGbhyMe"
     },
     {
       "album": {
@@ -1844,6 +1884,24 @@
       "duration_ms": 291428,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/1lmmjT6zyjBhim9tVYiITn"
+    },
+    {
+      "album": {
+        "name": "Come Into The Light (Live)",
+        "url": "https://open.spotify.com/album/68c3QXsNVkO3HIJEbxt2Pv"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436788,
+      "name": "Come Into The Light/Touch The Sky - Live",
+      "url": "https://open.spotify.com/track/6fiCQ6J5220cCdTVl9Ioft"
     },
     {
       "album": {

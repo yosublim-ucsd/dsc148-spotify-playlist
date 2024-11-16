@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/7DaNB3xvJ4F96C66mQgmpS.md) - cumulative - [plain](/playlists/plain/7DaNB3xvJ4F96C66mQgmpS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7DaNB3xvJ4F96C66mQgmpS)
 
-### [Rap Workout Bangers 💪 ULTIMATE GYM HIP\-HOP](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
+### [Workout Bangers 💪 ULTIMATE GYM HIP\-HOP](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-249 songs - 13 hr 23 min
+250 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 | 2024-05-23 |  |
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2022-06-09 | 2023-04-25 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-06-09 | 2023-02-23 |
+| [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4dQMFZaZUb9lSD8QJ6e7cC) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/album/11wloCh5EpMvnh2SvVMNx2) | 3:08 | 2024-11-15 |  |
 | [Ion Need](https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Ion Need](https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM) | 3:37 | 2023-05-28 | 2023-08-28 |
 | [JUMP JUMP!](https://open.spotify.com/track/6VloifAH9GhFnDKg7Bnrlo) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 1:13 | 2023-05-08 | 2024-05-24 |
 | [Killer](https://open.spotify.com/track/3yjelmM5m30ItLvmtBjMml) | [Vin Jay](https://open.spotify.com/artist/2DQkr7ZMTqNrlz5HcXZeI7), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Karma](https://open.spotify.com/album/3SUWqFRKpKP5lsCy8hdlGd) | 3:22 | 2023-05-15 | 2023-05-30 |

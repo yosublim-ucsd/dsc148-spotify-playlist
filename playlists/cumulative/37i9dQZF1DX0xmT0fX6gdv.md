@@ -232,7 +232,7 @@
 | [קטורנה מסאלה](https://open.spotify.com/track/5IjG5I04MpsRiXdqF2Dh4V) | [Ethnix](https://open.spotify.com/artist/0rcuq0mzUaleXgXxuLFPPZ) | [מסאלה](https://open.spotify.com/album/4XR2r6hcVp3GxbDnWDfPDx) | 5:42 | 2023-10-18 |  |
 | [さても天晴 夢桜](https://open.spotify.com/track/7CjemMyaSin0jhauJJaYzB) | [Mioko Yamaguchi](https://open.spotify.com/artist/33itzdcS4y00FCGR23sleH) | [Tsuki\-Hime](https://open.spotify.com/album/4HFnJFjoHgyA26r4Zp8bGx) | 4:04 | 2023-12-12 |  |
 | [愛の行方](https://open.spotify.com/track/3sMeqdptxC0RlWJ09Wg2nq) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [AVENTURE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/1d26tc3DbvjrYQhrlVvZN8) | 3:39 | 2024-09-24 |  |
-| [灯 \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/2DAhMSZRWT0WyUsj9O8efE) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [テクノデリック\(2019 Bob Ludwig Remastering\)](https://open.spotify.com/album/4INMRXAjp5zRnx4aSgT52g) | 3:40 | 2023-12-12 |  |
+| [灯 \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/2DAhMSZRWT0WyUsj9O8efE) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [テクノデリック（2019 Bob Ludwig Remastering\)](https://open.spotify.com/album/4INMRXAjp5zRnx4aSgT52g) | 3:40 | 2023-12-12 |  |
 | [灯 \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/4PVlJYjXvVwL5Z36XSGHwP) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Technodelic](https://open.spotify.com/album/0UW16Q59LWnmJOLoonoBhr) | 3:40 | 2023-04-03 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-02-14. Prior content cannot be recovered.

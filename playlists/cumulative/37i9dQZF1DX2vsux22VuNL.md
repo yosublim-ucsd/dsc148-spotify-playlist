@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Delacruz
 
-417 songs - 21 hr 43 min
+418 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Deixar Rolar](https://open.spotify.com/track/7ljVYvTPJZqGzvF55lBU3u) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Deixar Rolar](https://open.spotify.com/album/5T2vFctlodQMpsqki2ZpwH) | 2:06 | 2023-02-06 | 2023-03-11 |
 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 | 2023-06-09 |  |
 | [Depois do Depois](https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:12 | 2024-08-09 |  |
-| [Desbravador](https://open.spotify.com/track/7qq66f0oXz9nClOW1Z6Q2U) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Desbravador](https://open.spotify.com/album/4OosGi7XyyDOTD6gqBGxDn) | 3:07 | 2024-07-05 |  |
+| [Desbravador](https://open.spotify.com/track/7qq66f0oXz9nClOW1Z6Q2U) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Desbravador](https://open.spotify.com/album/4OosGi7XyyDOTD6gqBGxDn) | 3:07 | 2024-07-05 | 2024-11-16 |
 | [Desconectar](https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Desconectar](https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o) | 2:36 | 2023-07-28 | 2023-12-02 |
 | [Desliga](https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Desliga](https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx) | 2:47 | 2023-04-07 |  |
 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 | 2022-05-23 | 2023-08-12 |
@@ -318,6 +318,7 @@
 | [Quatro Da Manhã](https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Pagode Urbano \#01](https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM) | 2:59 | 2024-03-29 | 2024-06-01 |
 | [Que Tal?!](https://open.spotify.com/track/3G9cHAxsDSJIHciDCpcyz2) | [Cronixta](https://open.spotify.com/artist/5BGPgNyveXI7oJlXOVuSWc) | [Wi\-Fi da Floresta](https://open.spotify.com/album/5rtpOTuGx5QGKT1W5UNmD1) | 2:43 | 2023-09-22 | 2023-10-14 |
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-10-12 |
+| [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 | 2024-11-15 |  |
 | [QUEM?](https://open.spotify.com/track/02xe8NW9qbBGbTa4YPkSCg) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [O que restou da Maravilha](https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115) | 3:29 | 2023-10-06 | 2023-10-28 |
 | [Queria Te Ver](https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Queria Te Ver](https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8) | 3:09 | 2022-09-16 | 2024-08-10 |
 | [Quero Te Levar](https://open.spotify.com/track/5lY1N9XJ90Yhm54urHitVB) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Quero Te Levar](https://open.spotify.com/album/7KvZow5DHtujTtczDOspjt) | 2:38 | 2022-09-23 | 2022-10-01 |

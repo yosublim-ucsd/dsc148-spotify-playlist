@@ -1,12 +1,12 @@
 {
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og?si=IYyfPa41TjeStwSPU7D1nA>Ntokozo Mbabo</a>\"",
-  "num_followers": 88332,
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>\"",
+  "num_followers": 88407,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPPAAAAADXrGAiXoWDaST87XkcmQm8",
+  "snapshot_id": "ZzcVDQAAAAA9dYlfzPF9RJHh8tgcsREq",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -31,6 +31,22 @@
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "Uyinqaba Yethu",
+        "url": "https://open.spotify.com/album/3Bf7ii7OweAhwrUfCWPbiY"
+      },
+      "artists": [
+        {
+          "name": "Sneziey",
+          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+        }
+      ],
+      "duration_ms": 374887,
+      "name": "Uyinqaba Yethu",
+      "url": "https://open.spotify.com/track/5QWMo0RPTNFmTMAcmiXHQ3"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -69,10 +85,10 @@
       "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
+      "added_at": "2024-11-15 00:01:00",
       "album": {
-        "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
-        "url": "https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD"
+        "name": "Heavenly Psalms - Level 2 (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/1zBVSPT6EAT7t8Wi10uM1a"
       },
       "artists": [
         {
@@ -80,25 +96,9 @@
           "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
         }
       ],
-      "duration_ms": 425920,
-      "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
-      "url": "https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f"
-    },
-    {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Uyinqaba Yethu",
-        "url": "https://open.spotify.com/album/3Bf7ii7OweAhwrUfCWPbiY"
-      },
-      "artists": [
-        {
-          "name": "Sneziey",
-          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
-        }
-      ],
-      "duration_ms": 374887,
-      "name": "Uyinqaba Yethu",
-      "url": "https://open.spotify.com/track/5QWMo0RPTNFmTMAcmiXHQ3"
+      "duration_ms": 354173,
+      "name": "Akakho Praise (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/11IKsmZ7P7NIaOtm0a5qz3"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
     },
     {
+      "added_at": "2024-11-15 09:31:57",
+      "album": {
+        "name": "Uyalalela (Live)",
+        "url": "https://open.spotify.com/album/7hP10amvzadvsSXDc19vdG"
+      },
+      "artists": [
+        {
+          "name": "Nozipho Phiri",
+          "url": "https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo"
+        }
+      ],
+      "duration_ms": 630480,
+      "name": "Uyalalela (Live)",
+      "url": "https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Esphambanweni",
@@ -203,6 +219,22 @@
       "duration_ms": 381966,
       "name": "lona baratang ho Phela (Live)",
       "url": "https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf"
+    },
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "duration_ms": 425920,
+      "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1743,70 +1775,6 @@
       "duration_ms": 319837,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
-    },
-    {
-      "added_at": "2024-06-07 00:02:00",
-      "album": {
-        "name": "Mo Roriseng (Live at Mosaiek Theatre, 2023)",
-        "url": "https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4"
-      },
-      "artists": [
-        {
-          "name": "Omega Khunou",
-          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
-        }
-      ],
-      "duration_ms": 372116,
-      "name": "Emmanuel (Live)",
-      "url": "https://open.spotify.com/track/5waXRF9RxJTy2JtONi4cPc"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Kept by Grace (Recorded Live at Carnival City)",
-        "url": "https://open.spotify.com/album/3TBeqMUdeBiofdyGDASbJs"
-      },
-      "artists": [
-        {
-          "name": "Lebo Sekgobela",
-          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
-        }
-      ],
-      "duration_ms": 334400,
-      "name": "Emmanuel - Live",
-      "url": "https://open.spotify.com/track/2h3qJG8J2rPAb6Kgo7dOwC"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Ngiyekele",
-        "url": "https://open.spotify.com/album/5RuRN15mbhuKihXJ0ibhi4"
-      },
-      "artists": [
-        {
-          "name": "Umlazi Gospel Choir",
-          "url": "https://open.spotify.com/artist/2ZMR6Ck9Z8CbHb64yuJXbi"
-        }
-      ],
-      "duration_ms": 232620,
-      "name": "Ngiyekele",
-      "url": "https://open.spotify.com/track/4odhbXjDIOEXnNEKVzEMPb"
-    },
-    {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Heavenly Psalms - Level 2 (Live at Goshen City Church 2023)",
-        "url": "https://open.spotify.com/album/1zBVSPT6EAT7t8Wi10uM1a"
-      },
-      "artists": [
-        {
-          "name": "SbuNoah",
-          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
-        }
-      ],
-      "duration_ms": 354173,
-      "name": "Akakho Praise (Live at Goshen City Church 2023)",
-      "url": "https://open.spotify.com/track/11IKsmZ7P7NIaOtm0a5qz3"
     }
   ],
   "unique_name": "Sunday Praise",

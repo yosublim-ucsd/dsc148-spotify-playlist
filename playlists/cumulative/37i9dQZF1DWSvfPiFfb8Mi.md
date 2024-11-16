@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-336 songs - 22 hr 12 min
+337 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dance baby oh](https://open.spotify.com/track/27hxOtUPvhetUhiHMXCoEQ) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh) | [Dance baby oh / Ko sar ra di ep](https://open.spotify.com/album/6FYjgDCCqAk8ANMfEUUX4E) | 6:47 | 2021-07-24 | 2023-05-20 |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-03-29 |  |
 | [Dance With You](https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Dance With You](https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3) | 2:24 | 2024-07-26 |  |
+| [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 | 2024-11-15 |  |
 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 | 2024-06-14 | 2024-06-23 |
 | [Deal With Love](https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Deal With Love](https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8) | 4:32 | 2024-05-24 |  |
 | [Debt](https://open.spotify.com/track/3B6pwtFXjVHCcDtL2NyK6j) | [Schur](https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7) | [Debt](https://open.spotify.com/album/7g2l64DSx7bpZSJllHbcO6) | 2:19 | 2024-06-14 | 2024-08-08 |
@@ -145,7 +146,7 @@
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-23 | 2023-08-14 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-11 | 2024-04-19 |
 | [If You Need Me](https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [If You Need Me](https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV) | 2:46 | 2024-08-02 |  |
-| [If You Want It](https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ) | 3:24 | 2023-06-30 |  |
+| [If You Want It](https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ) | 3:24 | 2023-06-30 | 2024-11-16 |
 | [Illusion](https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX) | 5:44 | 2022-06-20 | 2022-11-13 |
 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 | 2022-06-20 | 2023-05-20 |
 | [Illusion](https://open.spotify.com/track/53CpD7nwNQ7otqPNkzMM86) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/5AnU5BoObGiy8FHWRCNAsj) | 5:45 | 2021-07-24 | 2022-07-29 |

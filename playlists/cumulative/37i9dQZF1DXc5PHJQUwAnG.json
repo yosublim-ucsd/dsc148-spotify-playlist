@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. El Makabelico en portada.",
+  "description": "Bienvenidx a la trampa mexa. Natanael Cano, Uriel Gaxiola, Ganggy y Victor Mendivil en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -1132,6 +1132,54 @@
       "duration_ms": 178000,
       "name": "CAPRICORNIO",
       "url": "https://open.spotify.com/track/5MmVblaDHYwGLcYZRtaL7u"
+    },
+    {
+      "album": {
+        "name": "Carolina / Pipiripipi",
+        "url": "https://open.spotify.com/album/6Ym0Wyuomv5gU5SOd35JyS"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        },
+        {
+          "name": "Valy HP",
+          "url": "https://open.spotify.com/artist/4NEFSe2IE0SGkgKxecxDIb"
+        },
+        {
+          "name": "Chans",
+          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
+        },
+        {
+          "name": "Fntwxy",
+          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/5cBH5u0MyjNTmPOKLYQllh"
+    },
+    {
+      "album": {
+        "name": "EL NECIO DEL TRAP",
+        "url": "https://open.spotify.com/album/6FPlEdEH1lXe0a6AmevrNh"
+      },
+      "artists": [
+        {
+          "name": "Doble Tempo",
+          "url": "https://open.spotify.com/artist/05GGSu0a1Qs7pmiETMQXf0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "CASA DE ARTISTAS",
+      "url": "https://open.spotify.com/track/0Clj8cbA28JXl1ZieYLPNS"
     },
     {
       "album": {
@@ -3071,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/4VJ3hVW35cMJujUvtQGFoB"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139772,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/6WSUY9e8ukgSPtR3ETPIXj"
+    },
+    {
+      "album": {
         "name": "ICEY ICEY",
         "url": "https://open.spotify.com/album/37Fb9oGq9GOPkxC5a9MaBa"
       },
@@ -3280,6 +3346,36 @@
       "duration_ms": 157122,
       "name": "k me la coma todo el tr4p",
       "url": "https://open.spotify.com/track/42TknIixHJVWmsqEqHK7fh"
+    },
+    {
+      "album": {
+        "name": "Kamikaze (feat. Victor Mendivil)",
+        "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        },
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248362,
+      "name": "Kamikaze (feat. Victor Mendivil)",
+      "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
     },
     {
       "album": {
@@ -4453,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "25 (B)",
+        "url": "https://open.spotify.com/album/77swNZiaINOqmwrIFffpvi"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "NENA FINA",
+      "url": "https://open.spotify.com/track/6pXXIesYJq1Tr5rt1H0sRG"
+    },
+    {
+      "album": {
         "name": "AlterEgo",
         "url": "https://open.spotify.com/album/3hXbqYHtm6w8jnsrj3jfRT"
       },
@@ -4724,6 +4838,24 @@
       "duration_ms": 170322,
       "name": "No Se Tu - S10",
       "url": "https://open.spotify.com/track/3kGbJwQoCeG1asWwRmlVdD"
+    },
+    {
+      "album": {
+        "name": "No Tenemos",
+        "url": "https://open.spotify.com/album/2dwY987hvC3V3fNUHdRrrm"
+      },
+      "artists": [
+        {
+          "name": "Tony Trampa",
+          "url": "https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "No Tenemos",
+      "url": "https://open.spotify.com/track/2LeR9iy4D7LBlnmEGVjUjF"
     },
     {
       "album": {
@@ -5378,6 +5510,28 @@
       "duration_ms": 218000,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD"
+    },
+    {
+      "album": {
+        "name": "Promesas de Amor",
+        "url": "https://open.spotify.com/album/1PKySnohNiqxak3M2ciAxJ"
+      },
+      "artists": [
+        {
+          "name": "Clowx",
+          "url": "https://open.spotify.com/artist/5MRD5kGSh7YBNAMfPXs1uq"
+        },
+        {
+          "name": "Nana Herso",
+          "url": "https://open.spotify.com/artist/2fDlp3rxZX37JsAmh4GHrE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Promesas de Amor",
+      "url": "https://open.spotify.com/track/4catmF6NKPlnYnUs5H6tOe"
     },
     {
       "album": {

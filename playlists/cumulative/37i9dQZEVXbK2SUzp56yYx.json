@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 379533,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Sucker (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7rVXUqpF7HoBra65n9y5yr"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Lee Ralph",
+          "url": "https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1GhSDaZ3040SFQDtX4SYd2"
+    },
+    {
+      "album": {
         "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6r8UT9MVb36K5XeGVUCqVA"
       },
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
@@ -5868,7 +5886,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
@@ -6148,7 +6166,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 96254,
       "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
       "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
@@ -8112,7 +8130,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 178173,
       "name": "Savior",
       "url": "https://open.spotify.com/track/2XJl1SHhfJc0N4fSKKHXZe"
@@ -15214,7 +15232,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 168786,
       "name": "\u041e\u0431\u043b\u043e\u043c\u043a\u0438 \u0447\u0443\u0432\u0441\u0442\u0432",
       "url": "https://open.spotify.com/track/6zmh6mi9cLuioTTRprsh8j"
@@ -15776,6 +15794,24 @@
       "duration_ms": 215666,
       "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439",
       "url": "https://open.spotify.com/track/2d6RNeK2Q0z5c3UxQ66FTR"
+    },
+    {
+      "album": {
+        "name": "\u0412 \u043f\u0430\u043c\u044f\u0442\u0438 \u043d\u0430\u0432\u0435\u0447\u043d\u043e",
+        "url": "https://open.spotify.com/album/5XjCi5lDmcj1W37GSRCkEM"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u043e\u0432\u0430",
+          "url": "https://open.spotify.com/artist/2VFXr1f1iMskmkDbW87MmZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178570,
+      "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u043d\u0435\u0433",
+      "url": "https://open.spotify.com/track/0aWEhkShXHRR628Flc85r2"
     },
     {
       "album": {

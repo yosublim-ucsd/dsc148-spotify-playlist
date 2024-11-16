@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=E4K0jnN2SaO\_uYljBpxttQ">Khuzani</a>
 
-217 songs - 17 hr 20 min
+218 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/5lQrJySa8SnAVFzrppqOyo) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/0nc4IHahVp9BvuMNpPMrTE) | 4:47 | 2018-09-25 | 2022-07-29 |
 | [Ilo Nalo Naloya](https://open.spotify.com/track/7d2se65A7Vxyvlh0tnYoGN) | [Umlabalaba](https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY) | [ILO NALO NALOYA](https://open.spotify.com/album/0tbbprX2Ysjr1ucc1huLpo) | 5:33 | 2024-04-22 |  |
 | [Imali ye\-Carvela](https://open.spotify.com/track/5OEeyPHat8WHykSrBDtp8p) | [Dizastar](https://open.spotify.com/artist/1aAr0RO0oYsn6Aukjeytiz) | [Imali ye\-Carvela](https://open.spotify.com/album/0BQ0BbhmXwAI00TkjXqf3o) | 4:50 | 2024-06-06 |  |
+| [Imali Yento Yami](https://open.spotify.com/track/1RdESnfu29G7qrT3GTNK3K) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Angidlali Nezingane](https://open.spotify.com/album/7FKPvAqAJcGxuDvyOfcV0s) | 4:00 | 2024-11-14 |  |
 | [Imali Yesoso](https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Imali Yesoso](https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc) | 5:07 | 2018-11-18 | 2023-02-01 |
 | [Imbizo](https://open.spotify.com/track/41NvPWbuUFdEeLV8rlYwIB) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Imbizo](https://open.spotify.com/album/7GwtOivf91juFQ7MINxers) | 3:58 | 2018-09-25 | 2022-08-28 |
 | [Imbizo](https://open.spotify.com/track/5sjYGxZrOVboftBZOn6AVu) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Imbizo](https://open.spotify.com/album/7oZQe5vQ6TLRZlkuJEYIw0) | 3:58 | 2018-09-25 | 2022-07-29 |

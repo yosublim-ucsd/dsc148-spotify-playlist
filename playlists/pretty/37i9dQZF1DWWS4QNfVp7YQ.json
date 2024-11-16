@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 82735,
+  "num_followers": 82796,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Locos Only",
+        "url": "https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS"
+      },
+      "artists": [
+        {
+          "name": "El Dusty",
+          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
+        }
+      ],
+      "duration_ms": 171586,
+      "name": "Mi Cumbia! (feat. Alan Rosales)",
+      "url": "https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tus Besos",
         "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 180009,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Locos Only",
-        "url": "https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS"
-      },
-      "artists": [
-        {
-          "name": "El Dusty",
-          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
-        }
-      ],
-      "duration_ms": 171586,
-      "name": "Mi Cumbia! (feat. Alan Rosales)",
-      "url": "https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Que Suene Mexico, Vol. 3",
-        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
+        "name": "Al\u00f3cate",
+        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
       },
       "artists": [
         {
-          "name": "DJ TETRIS",
-          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
+          "name": "Kanimals",
+          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Costars",
-      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
+      "duration_ms": 201543,
+      "name": "Al\u00f3cate",
+      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Al\u00f3cate",
-        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
+        "name": "Que Suene Mexico, Vol. 3",
+        "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
       },
       "artists": [
         {
-          "name": "Kanimals",
-          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
+          "name": "DJ TETRIS",
+          "url": "https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA"
         }
       ],
-      "duration_ms": 201543,
-      "name": "Al\u00f3cate",
-      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
+      "duration_ms": 195226,
+      "name": "Costars",
+      "url": "https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
-        }
-      ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "La Ni\u00f1a (Remixes)",
         "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 264005,
       "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
       "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+        }
+      ],
+      "duration_ms": 156401,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
     },
     {
       "added_at": "2024-07-05 22:41:57",

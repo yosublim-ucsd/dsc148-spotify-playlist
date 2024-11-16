@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 185367,
+  "num_followers": 185372,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAAC4kQsFdHZfqNX2TwjQy3GK",
+  "snapshot_id": "ZzU9gAAAAABTBhGpsv9U/1qNjAsfpKAm",
   "tracks": [
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Deadpool",
+        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
       },
       "artists": [
+        {
+          "name": "Heretic Klick",
+          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 193765,
-      "name": "I'd Do Anything To Make You Smile",
-      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
+      "duration_ms": 111888,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadpool",
-        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
-        {
-          "name": "Heretic Klick",
-          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
-        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 111888,
-      "name": "Deadpool",
-      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
+      "duration_ms": 193765,
+      "name": "I'd Do Anything To Make You Smile",
+      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
     },
     {
       "added_at": null,

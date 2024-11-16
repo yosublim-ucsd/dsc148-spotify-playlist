@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-240 songs - 18 hr 40 min
+241 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 | 2022-04-14 |  |
 | [Take Your Mama \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/7igDjypA2A9moTbMPzB54A) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:51 | 2022-04-14 | 2022-07-21 |
 | [thank u, next \- live](https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 6:29 | 2022-04-14 | 2023-08-19 |
+| [That’s So True \- Live From Radio City Music Hall](https://open.spotify.com/track/6PU7QGEs8f4VECOUV0ZPrX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [That’s So True \(Live From Radio City Music Hall\)](https://open.spotify.com/album/2vLLE2ASNtN0RNhk70uWgW) | 3:14 | 2024-11-15 |  |
 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 | 2022-04-29 |  |
 | [The Lady In Red \- Live](https://open.spotify.com/track/107TF9ikYY7Cnpm4FQ5v0k) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/54ONGtXwdOFxDX142ffy1i) | 4:06 | 2022-04-14 | 2024-08-17 |
 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 | 2022-08-09 | 2024-04-19 |
@@ -232,7 +233,7 @@
 | [Wisemen \- Live in Ireland](https://open.spotify.com/track/7Juq8RQj5P0cexLR6NsFOk) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:49 | 2022-04-14 | 2022-07-29 |
 | [Woman Like Me \(feat\. Ms Banks\) \- Live from the BRITs 2019](https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [LM5 \- EP](https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz) | 4:11 | 2022-04-14 |  |
 | [Wrecking Ball X Nothing Compares 2 U \- Live](https://open.spotify.com/track/2BVTAPMmaDoADdH4AtEQPr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 5:13 | 2022-08-09 | 2024-04-19 |
-| [Wrecking Ball X Nothing Compares 2 U \- Live](https://open.spotify.com/track/5ZhDyMdMJrcbkpHcOaGsmn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 5:13 | 2022-04-14 |  |
+| [Wrecking Ball X Nothing Compares 2 U \- Live](https://open.spotify.com/track/5ZhDyMdMJrcbkpHcOaGsmn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 5:13 | 2022-04-14 | 2024-11-16 |
 | [Xanadu \- Live](https://open.spotify.com/track/3j32B9KLYeELoCvvyhVunF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:30 | 2022-08-09 | 2022-09-17 |
 | [Yellow \- Live](https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m) | 6:51 | 2022-04-29 | 2023-08-19 |
 | [You \- Live](https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:01 | 2022-08-09 | 2024-04-19 |

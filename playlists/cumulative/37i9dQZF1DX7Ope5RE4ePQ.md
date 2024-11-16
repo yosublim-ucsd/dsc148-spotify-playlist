@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-101 songs - 7 hr 33 min
+102 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [DANCE: I\. when you're broken open](https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [Inbal Segev](https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Anna Clyne: DANCE • Elgar: Cello Concerto](https://open.spotify.com/album/2dDYUzvLOjEXbQh0i9i1p4) | 4:44 | 2022-07-05 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-04-01 | 2022-10-05 |
 | [Danse Macabre, Op\. 40, R.171](https://open.spotify.com/track/4PRnYCH5hoxypKVcOBvx3a) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Andrew Wan](https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 7:22 | 2022-04-01 |  |
+| [Delibes: Lakmé, Act 1: Duo des fleurs \(Instrumental Version\)](https://open.spotify.com/track/0ylN9X8VY0qwzTLrIo586O) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Camille Berthollet](https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI), [Romain Dumas](https://open.spotify.com/artist/1wTP51GSC6stv5BbPdMVrx), [Orchestre National Bordeaux Aquitaine](https://open.spotify.com/artist/3pCPus3pU3880L4RVwppF9) | [10 ans !](https://open.spotify.com/album/0HXxKGN9OFwFM2oagtWgy5) | 2:23 | 2024-11-15 |  |
 | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/track/418Pod9FdQVI9DjlaG7DuK) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/album/4SNHCGNCX1JCDgRc8vXMrR) | 2:19 | 2023-04-07 |  |
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-04-01 |  |
 | [Eyries](https://open.spotify.com/track/77Xol1KVWfGYBwBEP3FzlT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B) | [Eyries](https://open.spotify.com/album/74goDECF1R9QUvc504Jh3V) | 3:07 | 2023-10-16 |  |

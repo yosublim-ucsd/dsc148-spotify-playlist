@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: In memory of Kris Kristofferson
 
-263 songs - 15 hr 23 min
+264 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [I Could Use a Love Song](https://open.spotify.com/track/50R81m3nP4J2v9Xyxr4ARD) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:13 | 2022-01-01 | 2024-08-31 |
 | [I Don't Dance](https://open.spotify.com/track/7qpfPFR431drNNW5BZ3rkr) | [Rob Hatch](https://open.spotify.com/artist/6YNY8ujFZfFsR4apb7u7t5) | [Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol\. 1](https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p) | 3:30 | 2022-01-01 | 2023-07-01 |
 | [I Don't Want To](https://open.spotify.com/track/7rnQQAmlLj27Yiczz7RF3y) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [I Don't Want To](https://open.spotify.com/album/08irHAm4CLPv4W33Za5PsM) | 3:01 | 2022-04-15 |  |
+| [I DWELL IN POSSIBILTY](https://open.spotify.com/track/75D82GazGsk8z8e3TQZMra) | [Marcus Hummon](https://open.spotify.com/artist/1qZPaffNJqRhw2f864WMSA), [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [SONGS FOR EMILY](https://open.spotify.com/album/65GjZjMOhm5bt7j9FnbfTS) | 2:29 | 2024-11-15 |  |
 | [I Feel Lucky](https://open.spotify.com/track/7EhI5HG2Gc7Iaz5VadI40A) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 3:53 | 2022-01-01 | 2023-07-01 |
 | [I Go Back to You](https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Go Back to You](https://open.spotify.com/album/3zMThHPhNdD6dTNJLG6wL4) | 3:17 | 2022-01-01 | 2024-08-31 |
 | [I Met A Girl \- Acoustic Mixtape](https://open.spotify.com/track/3oBxf3KvflYpaFSR4S3wKv) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:53 | 2022-02-28 | 2024-08-31 |

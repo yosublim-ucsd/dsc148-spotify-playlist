@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Hungria",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MC Maneirinho",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1602,6 +1602,24 @@
       "duration_ms": 145822,
       "name": "Airbnb",
       "url": "https://open.spotify.com/track/0Pg5ZL3uEn5FXpqdD2g1R4"
+    },
+    {
+      "album": {
+        "name": "Olha Essa Arte",
+        "url": "https://open.spotify.com/album/3VVJ9SJ8yoGI7RJ51Bx5uf"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "AlDeia Da Folha/808",
+      "url": "https://open.spotify.com/track/5AMdZK3DhxE8Ad2M27DxrV"
     },
     {
       "album": {
@@ -7481,6 +7499,32 @@
     },
     {
       "album": {
+        "name": "Corre Dobrado",
+        "url": "https://open.spotify.com/album/3GW97E7qQIeH38JuHgG0vV"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "ENOQ",
+          "url": "https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Corre Dobrado",
+      "url": "https://open.spotify.com/track/4h2ShMcEGnakMABb5bysvZ"
+    },
+    {
+      "album": {
         "name": "Correntes",
         "url": "https://open.spotify.com/album/1IopVkqUDv1gSmpZ7R1U0c"
       },
@@ -8846,7 +8890,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 151525,
       "name": "Destaque",
       "url": "https://open.spotify.com/track/5T9Vw3RD6MaVXC0Y3Gkfr9"
@@ -9334,6 +9378,32 @@
       "duration_ms": 135529,
       "name": "Diferenciado",
       "url": "https://open.spotify.com/track/27iAEVwv6aMaICmXPkk50m"
+    },
+    {
+      "album": {
+        "name": "O ROTEIRISTA",
+        "url": "https://open.spotify.com/album/5nYb4sMNJGV9gf2IXxCayX"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173731,
+      "name": "DIFERENTE",
+      "url": "https://open.spotify.com/track/36VGZ9a6TfuNG4jwivGP44"
     },
     {
       "album": {
@@ -10574,7 +10644,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201362,
       "name": "ei m\u00f4",
       "url": "https://open.spotify.com/track/5xYbR943WcIBxiGDZKNuxz"
@@ -11066,6 +11136,32 @@
       "duration_ms": 185138,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
+    },
+    {
+      "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143823,
+      "name": "Emo\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/35AmaoTQ50SGX7RX9FRWId"
     },
     {
       "album": {
@@ -13776,7 +13872,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 133039,
       "name": "Foto Comigo",
       "url": "https://open.spotify.com/track/2NgIQBm2g8x7OPgvDFMGIj"
@@ -15788,6 +15884,32 @@
       "duration_ms": 182400,
       "name": "Imperatriz",
       "url": "https://open.spotify.com/track/63Ky69ZZdFQUA68W1ctn3u"
+    },
+    {
+      "album": {
+        "name": "Inconsequente",
+        "url": "https://open.spotify.com/album/2h3q322DATcAlGBacLjfKy"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Inconsequente",
+      "url": "https://open.spotify.com/track/4iCc8aDqiNWqbHMYKWrUdB"
     },
     {
       "album": {
@@ -22174,7 +22296,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155520,
       "name": "Nada Importa",
       "url": "https://open.spotify.com/track/1zUnbAPqZJQUpOVmRqK2We"

@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn?si=QhA4GbuSQL2gjNSNAURtxQ">Vernotile</a>
 
-612 songs - 1 day 19 hr 47 min
+613 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Impi Yothando](https://open.spotify.com/track/4K5GlpP2WdwYgZAjDiTbZ5) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Impi Yothando](https://open.spotify.com/album/2qkOyi4KcUglFyXnlYGZPD) | 4:58 | 2023-07-28 |  |
 | [Impilo](https://open.spotify.com/track/07NEa0luBjcstUbU40eMXc) | [Dj Melzi](https://open.spotify.com/artist/50EwMQOrDECR9dsYOzmcQz), [Mkeyz](https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ) | [Impilo](https://open.spotify.com/album/0Alsbv6bjOanlLMSMjzpwn) | 7:26 | 2023-08-17 | 2023-09-22 |
 | [Impilo \(feat\. 031 Choppa\)](https://open.spotify.com/track/6X4fod67yqrMEpdwGmJgfU) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Impilo \(feat\. 031 Choppa\)](https://open.spotify.com/album/4tME7o9opbummzHk9XWTaa) | 4:17 | 2023-10-26 | 2024-06-21 |
+| [Indaba Yethu](https://open.spotify.com/track/4mjVBfGuXmeUUvMwT694eD) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Indaba Yethu](https://open.spotify.com/album/6kcNH5xzup2qMkWwpL8mZp) | 4:12 | 2024-11-15 |  |
 | [Indlela](https://open.spotify.com/track/3b2bR7OppNNce0fzorLLvv) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Qwabe Twins](https://open.spotify.com/artist/5T7K4Gz5qHVB5Vtb9mkoJx), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Mk Productions](https://open.spotify.com/artist/67hRZRbHByMJCRqSdkyZhi) | [Indlela](https://open.spotify.com/album/5BCLoOkSDgxLnSb7WnfAV0) | 4:28 | 2022-04-08 | 2022-07-29 |
 | [Induk'enhle](https://open.spotify.com/track/1XT5TH5qFcu5neQuqfmNFE) | [Blue Nyambose](https://open.spotify.com/artist/46CMDNpGNp6VVQ2VzDTVqT) | [Induk'enhle](https://open.spotify.com/album/7euTkoPENLaBhp4FQoSNpb) | 4:05 | 2022-03-24 | 2022-07-29 |
 | [Ingunaphakade](https://open.spotify.com/track/6nkevgvV6dWJQ5GUGnJzFA) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ingunaphakade](https://open.spotify.com/album/4Lp6BLJxkFi1PaELz9tFEo) | 4:07 | 2023-08-24 | 2023-10-13 |
@@ -389,7 +390,7 @@
 | [Nhliziyo](https://open.spotify.com/track/2FvrvWOB4RGBoFYtzbt8Xk) | [Coolkiid Da Vocalist](https://open.spotify.com/artist/6l2obbFOXzUtnokXAqTlO0) | [Nhliziyo](https://open.spotify.com/album/3uAxTDRdp4RmcDpxzUshFt) | 4:33 | 2021-02-24 | 2022-09-23 |
 | [Nhliziyo Yami](https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [Nhliziyo Yami](https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs) | 4:06 | 2024-08-15 |  |
 | [Njalo](https://open.spotify.com/track/7n1OBXJqXbBjCxRBDHIZmM) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [African Queen 2.0](https://open.spotify.com/album/57d2o9ABnFTKWX3xuYGFe9) | 3:20 | 2022-11-17 | 2023-04-28 |
-| [Njalo](https://open.spotify.com/track/3oyrlumXA15HTQQ3dwBGVe) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Njalo](https://open.spotify.com/album/4z7nzQ247jp025EVzZMXyF) | 4:14 | 2023-08-31 |  |
+| [Njalo](https://open.spotify.com/track/3oyrlumXA15HTQQ3dwBGVe) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Njalo](https://open.spotify.com/album/4z7nzQ247jp025EVzZMXyF) | 4:14 | 2023-08-31 | 2024-11-16 |
 | [Njalo Njalo](https://open.spotify.com/track/31OnQUIe0Ue1Wbd3MhFGC6) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Khanya De Vocalist](https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU) | [Njalo Njalo](https://open.spotify.com/album/0v9F0YNKx4vfjzaw0krND3) | 3:42 | 2023-07-07 | 2023-08-25 |
 | [Nje](https://open.spotify.com/track/5b7WFIRAFAHjqnbeYCdxTH) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Nje](https://open.spotify.com/album/2M13T1EgIMlDtA1EtwD490) | 3:42 | 2023-10-12 | 2024-03-21 |
 | [Nje \(feat\. Just Bheki\)](https://open.spotify.com/track/06viTbnwNomeFvy7GWu0IQ) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Nokhanyisa](https://open.spotify.com/album/23GvatjZSXfa8jmkwj2uLc) | 3:42 | 2024-03-15 | 2024-04-05 |

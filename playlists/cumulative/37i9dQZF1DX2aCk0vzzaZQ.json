@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "Chopin: 24 Preludes, Op. 28: No. 4 in E Minor. Largo",
+        "url": "https://open.spotify.com/album/0WZabZ5Xaqgsqod0xY7891"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146906,
+      "name": "24 Preludes, Op. 28: No. 4 in E Minor. Largo",
+      "url": "https://open.spotify.com/track/3maBF9jM0ICV3qSKmvNvIu"
+    },
+    {
+      "album": {
         "name": "Liszt: Faust Symphony; Dante Symphony; Les Pr\u00e9lludes; Prometheus",
         "url": "https://open.spotify.com/album/1s1zj0erJyhfE6LhhTD0Nw"
       },
@@ -397,6 +419,28 @@
     },
     {
       "album": {
+        "name": "Missa Pro Defunctis: IV. Sanctus",
+        "url": "https://open.spotify.com/album/0tAWnlHgquTSHUbd99Tt5Y"
+      },
+      "artists": [
+        {
+          "name": "Franco Prinsloo",
+          "url": "https://open.spotify.com/artist/5MwIR6OCMd88gkOmzzoMB4"
+        },
+        {
+          "name": "Vox Chamber Choir",
+          "url": "https://open.spotify.com/artist/3F7MfoCoP27ZBcluVbU16b"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359104,
+      "name": "Missa Pro Defunctis: IV. Sanctus",
+      "url": "https://open.spotify.com/track/4njudL1B4vkyyCq4aYC80H"
+    },
+    {
+      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition, Songs and Dances of Death, Night on Bare Mountain",
         "url": "https://open.spotify.com/album/6fNy79qGn8DZwa301JDT3p"
       },
@@ -476,6 +520,44 @@
       "duration_ms": 770473,
       "name": "Night on Bare Mountain",
       "url": "https://open.spotify.com/track/01rntacu6clKb9acYmmaWp"
+    },
+    {
+      "album": {
+        "name": "No Time To Die Suite",
+        "url": "https://open.spotify.com/album/2UXHQxoY7ntBCfn1ClxIPP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Steve Mazzaro",
+          "url": "https://open.spotify.com/artist/4RLyniSM7MwTs6qkcXBYfY"
+        },
+        {
+          "name": "Mariko Muranaka",
+          "url": "https://open.spotify.com/artist/6fq7JvH0T63V1KPNxrBraE"
+        },
+        {
+          "name": "Alexios Anest",
+          "url": "https://open.spotify.com/artist/4CY87zMsYjMPYwXYD1ksIP"
+        },
+        {
+          "name": "Odessa Orchestra & Friends",
+          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "No Time To Die Suite: Part 2, Final Ascent",
+      "url": "https://open.spotify.com/track/5NxRI8qQDeXWgCEagvsAyF"
     },
     {
       "album": {
@@ -1432,6 +1514,28 @@
       "duration_ms": 167880,
       "name": "The Four Seasons: Concerto No. 2 in G Minor, RV 315 \"L'estate\" (summer): III. Presto",
       "url": "https://open.spotify.com/track/1Ojz92vyPK4fJ5K8RVnV5u"
+    },
+    {
+      "album": {
+        "name": "The Imperial March (From \"Star Wars: The Empire Strikes Back\" / Live)",
+        "url": "https://open.spotify.com/album/45tVTwyjGQSqduNLgIBMQ3"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "The Imperial March - From \"Star Wars: The Empire Strikes Back\" / Live",
+      "url": "https://open.spotify.com/track/4TQAjB2yVY6vem4tPRGQhU"
     },
     {
       "album": {

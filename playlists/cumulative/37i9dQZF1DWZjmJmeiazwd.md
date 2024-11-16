@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-540 songs - 1 day 8 hr 4 min
+541 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Real Long Time](https://open.spotify.com/track/3XJWtFxgZdEn1pyFlirO1l) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:17 | 2020-06-29 | 2022-07-27 |
 | [Rebel Heart](https://open.spotify.com/track/2VsLaBtuqVC3HlJ97A0LLO) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [Rebel Heart](https://open.spotify.com/album/7gq0S63XbrBbhnbZcLdJrt) | 3:58 | 2020-06-29 | 2022-07-17 |
 | [Red Hot Lights](https://open.spotify.com/track/6q4h8vUTZcpr51dxAZ4Ws9) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Daybreaker](https://open.spotify.com/album/5TDZM4RBN95C4QnoAcfkIh) | 3:30 | 2020-06-29 | 2022-07-27 |
-| [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 | 2024-07-12 |  |
+| [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 | 2024-07-12 | 2024-11-16 |
 | [Renegade](https://open.spotify.com/track/4sDf4MGHF1GF76LkmLn2HV) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Hologram \(Deluxe Edition\)](https://open.spotify.com/album/7BhC06EYxapTJubv64e99n) | 3:48 | 2022-04-22 | 2022-05-21 |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2020-06-29 | 2023-04-15 |
 | [Riptide](https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:31 | 2024-01-12 | 2024-01-20 |
@@ -502,6 +502,7 @@
 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 | 2020-06-29 |  |
 | [Trojans](https://open.spotify.com/track/4AyoAGuhE8gydBPrczuhbl) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now \(Deluxe Edition\)](https://open.spotify.com/album/5Ix8zXCxsX8YCGAThyBVE8) | 3:37 | 2020-06-29 | 2022-04-21 |
 | [Twisted Tongues](https://open.spotify.com/track/5x1Shc6k7r3hBYyjNaaddy) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 4:01 | 2022-04-22 | 2022-05-21 |
+| [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-15 |  |
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2021-02-10 | 2022-11-13 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-06-21 |  |
 | [Ugly Friends](https://open.spotify.com/track/6oEvSyE1h0ts0Nyg0cOIMU) | [poolfire](https://open.spotify.com/artist/4xaaY8ydLThGntcJWmdJEc) | [Ugly Friends](https://open.spotify.com/album/3qV5QnrnH3XJhciHobdRxm) | 3:35 | 2021-12-16 | 2022-07-28 |

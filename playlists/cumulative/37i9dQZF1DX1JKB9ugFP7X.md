@@ -2,14 +2,14 @@
 
 ### [Electropop](https://open.spotify.com/playlist/37i9dQZF1DX1JKB9ugFP7X)
 
-> Lo mejor del pop electrónico latino\. Foto: Javiera Mena
+> Lo mejor del electropop latino\. Foto: Javiera Mena
 
-160 songs - 10 hr 15 min
+162 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-08 |  |
-| [2 Son 3](https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [2 Son 3](https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G) | 2:45 | 2023-09-08 |  |
+| [2 Son 3](https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [2 Son 3](https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G) | 2:45 | 2023-09-08 | 2024-11-16 |
 | [A Oscuras](https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Oscuras](https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN) | 2:39 | 2024-01-19 | 2024-10-19 |
 | [ACUARIO](https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [ACUARIO](https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr) | 4:32 | 2023-09-08 |  |
 | [Afuera](https://open.spotify.com/track/2SK0Z7l0obLLTyn6lUMhxZ) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Huesos](https://open.spotify.com/album/42OujOYqZWej3mxBPuewcr) | 4:10 | 2024-10-18 |  |
@@ -117,6 +117,7 @@
 | [PARA AFUERA](https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PARA AFUERA](https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9) | 2:34 | 2023-09-08 |  |
 | [PARACETAMOL \(perdón x ser bella\)](https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [MUY MUCHO](https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A) | 2:34 | 2024-01-12 | 2024-10-19 |
 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 | 2023-11-24 | 2024-10-19 |
+| [Paralelos](https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Paralelos](https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl) | 3:52 | 2024-11-15 |  |
 | [Paris, Tal Vez?](https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Dime Precioso](https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW) | 4:33 | 2024-05-31 |  |
 | [PARQUE DE LA COSTA](https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [MAÑANA ES PEOR :\(](https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd) | 3:45 | 2023-09-08 |  |
 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 | 2023-10-26 | 2023-12-26 |
@@ -143,6 +144,7 @@
 | [Sombras en la Pared \- Vivo Buenos Aires](https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \(Vivo Buenos Aires\)](https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ) | 5:10 | 2023-09-08 | 2024-10-19 |
 | [SUBTE LÍNEA B REWORK](https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [SUBTE LÍNEA B REWORK](https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s) | 4:03 | 2024-03-08 |  |
 | [SUPERSÓNICO](https://open.spotify.com/track/2R6fl47tA6PG6vSBgurvma) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:48 | 2024-04-26 |  |
+| [Te Gusta lo Mío](https://open.spotify.com/track/63xOm2OcMeu1l0CyWJc1Nu) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [Te Gusta lo Mío](https://open.spotify.com/album/6QFFWWqcEsgplGK2aEu1Xm) | 2:43 | 2024-11-15 |  |
 | [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 | 2023-09-08 | 2024-10-19 |
 | [Teoria Espacial \(Remix\)](https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw) | [Diego Chamorro](https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial \(Remix\)](https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx) | 5:32 | 2023-09-08 | 2024-10-19 |
 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 | 2023-09-08 |  |
@@ -155,7 +157,7 @@
 | [Una Hora para Verte](https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q) | 3:07 | 2023-11-17 | 2023-12-10 |
 | [Una Hora para Verte](https://open.spotify.com/track/5urfs2DgH04EuVXZYN9n8B) | [Max Tejera](https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa) | [Una Hora para Verte](https://open.spotify.com/album/7xzELBbYKyGnlO3EgGmfFt) | 3:07 | 2024-10-18 |  |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 | 2024-10-19 |
-| [Vamo a Darle](https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Vamo a Darle](https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT) | 4:18 | 2023-09-08 |  |
+| [Vamo a Darle](https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Vamo a Darle](https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT) | 4:18 | 2023-09-08 | 2024-11-16 |
 | [Viuda Negra](https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [SAETA](https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y) | 3:18 | 2023-09-08 | 2024-04-19 |
 | [VIUDA NEGRA](https://open.spotify.com/track/4BnXXjMOirPfx5FweHRxBs) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [SAETA](https://open.spotify.com/album/5rSCQPODOrs6ZZLrFwRV1a) | 3:20 | 2024-03-08 | 2024-03-21 |
 | [Viuda Negra](https://open.spotify.com/track/6rRRyACUiaR5cofbCebCyS) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [Viuda Negra](https://open.spotify.com/album/3IgfcnDObtQ5IHWgQ3Fd5o) | 3:20 | 2024-10-18 |  |

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-204 songs - 11 hr 15 min
+205 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Mazurek](https://open.spotify.com/track/64yYKXLXDlIPKknfoQ4k2H) | [Władysław Szpilman](https://open.spotify.com/artist/0lTe15Ofpyg39nXvLNAfcm), [Yulianna Avdeeva](https://open.spotify.com/artist/3eDciSEz4VLXT167KNKDHF) | [Szpilman: Mazurek](https://open.spotify.com/album/1X7ui7Ns2P2zwuRiInc4F1) | 2:23 | 2024-09-06 |  |
 | [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 | 2022-10-07 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2021-12-10 |  |
+| [Merry](https://open.spotify.com/track/7qJs05x48Y4qDyTKULTb3s) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Merry](https://open.spotify.com/album/06zOGDonBOy9UwMMFOj7ox) | 2:49 | 2024-11-15 |  |
 | [Midnight](https://open.spotify.com/track/4XOeCy0ikuNcvKNxneetak) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:03 | 2023-09-20 | 2024-04-19 |
 | [Midnight](https://open.spotify.com/track/7vZOGV8RLj3ylOmaWw5NSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Midnight](https://open.spotify.com/album/1jKQP76G48Kjdhk2ka3jAz) | 3:03 | 2023-09-20 |  |
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-01-28 | 2023-01-04 |

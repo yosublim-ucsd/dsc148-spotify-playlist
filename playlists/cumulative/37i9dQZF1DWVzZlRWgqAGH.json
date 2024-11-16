@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: BADBADNOTGOOD",
+  "description": "Music for your soul. Cover: Skiifall",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 213670,
       "name": "AT MINES",
       "url": "https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd"
@@ -6287,6 +6287,28 @@
     },
     {
       "album": {
+        "name": "I've Never Been Here Before: The Director's Cut",
+        "url": "https://open.spotify.com/album/320INXF22WAKVVzxycyLA6"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207073,
+      "name": "Denise's Last Son",
+      "url": "https://open.spotify.com/track/7eMwtjr5SMnBcQ5D3s9JrX"
+    },
+    {
+      "album": {
         "name": "Hues",
         "url": "https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0"
       },
@@ -6590,7 +6612,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 114199,
       "name": "DO IT!",
       "url": "https://open.spotify.com/track/6DgY9CfYAZTXDZPDOPUDsR"
@@ -7618,6 +7640,24 @@
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
+    },
+    {
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166567,
+      "name": "Even When You're Silent",
+      "url": "https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16"
     },
     {
       "album": {
@@ -11241,6 +11281,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG"
+    },
+    {
+      "album": {
         "name": "Here To Stay",
         "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
       },
@@ -11908,7 +11966,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 180039,
       "name": "How\u2019s That Working Out",
       "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
@@ -13494,7 +13552,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 154055,
       "name": "Kemets got the blue",
       "url": "https://open.spotify.com/track/7q9gJns0is7XYIH3MSSud6"
@@ -15016,7 +15074,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 176000,
       "name": "LOVE, but WHATEVER",
       "url": "https://open.spotify.com/track/1hYujx1xDEHOtbqCA36mM2"
@@ -15038,6 +15096,24 @@
       "duration_ms": 189000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6e0ztRweS9v9NO80uLVOII"
+    },
+    {
+      "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/4tlZkAJU6UmBKMRi22ojve"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/3Dc6tLYl8GHl2lFfsiag2a"
     },
     {
       "album": {
@@ -16861,6 +16937,24 @@
     },
     {
       "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/7I9hLML1HF5BJNJC2cATVX"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Mystery Man",
+      "url": "https://open.spotify.com/track/1b2woR8r4kTe02dowqYHrT"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -17190,6 +17284,24 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "album": {
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127594,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
     },
     {
       "album": {
@@ -19367,6 +19479,24 @@
     },
     {
       "album": {
+        "name": "FAR DEEPER",
+        "url": "https://open.spotify.com/album/5zHs3A7vJQgHLRfoFULxp5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Pocket Change",
+      "url": "https://open.spotify.com/track/6Idi9LJfUXnEycEItDViBd"
+    },
+    {
+      "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
       },
@@ -19586,7 +19716,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183680,
       "name": "Problems",
       "url": "https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN"
@@ -20828,6 +20958,24 @@
       "duration_ms": 225842,
       "name": "Rush Dem (feat. Haviah Mighty & 4Korners)",
       "url": "https://open.spotify.com/track/0SmjLbrFluvEkKoxfCiqhR"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage !!",
+        "url": "https://open.spotify.com/album/68qqTjOxViljYLbFS6QS3u"
+      },
+      "artists": [
+        {
+          "name": "Ry-Co Jazz",
+          "url": "https://open.spotify.com/artist/3umj1fcfDdwdTiv6YvAsO9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Ry-Co Merengue",
+      "url": "https://open.spotify.com/track/7x4UxB2SJc73lHEUujaKYy"
     },
     {
       "album": {
@@ -22474,7 +22622,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
@@ -25585,6 +25733,24 @@
     },
     {
       "album": {
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+    },
+    {
+      "album": {
         "name": "Travelers Prayer (EU Version)",
         "url": "https://open.spotify.com/album/3glS4QJQB1qCsZn71vMCpH"
       },
@@ -25754,6 +25920,24 @@
       "duration_ms": 216000,
       "name": "Turning - FloFilz Remix",
       "url": "https://open.spotify.com/track/0Eh6WYIZEIBu552emxez4O"
+    },
+    {
+      "album": {
+        "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151565,
+      "name": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
+      "url": "https://open.spotify.com/track/6g2BiiVQqY5v1S4HIrM54F"
     },
     {
       "album": {
@@ -26536,7 +26720,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 129091,
       "name": "war",
       "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
@@ -27116,7 +27300,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 251453,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/6MaFqd6VkIl3s9r1t2Jmzg"

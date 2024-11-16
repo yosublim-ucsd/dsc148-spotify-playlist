@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/7bawcmWDbsdoDBTsqs0tMI"
+      },
+      "artists": [
+        {
+          "name": "nicole amoroso",
+          "url": "https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "27",
+      "url": "https://open.spotify.com/track/2l3OyTgyhnMcRkvYeMzqkf"
+    },
+    {
+      "album": {
         "name": "3 Months",
         "url": "https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj"
       },
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 219956,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186827,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F"
@@ -5999,6 +6017,24 @@
     },
     {
       "album": {
+        "name": "I just don't think I'll make it over you.",
+        "url": "https://open.spotify.com/album/0WujnDrd2N0FksTXRW0yDl"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223187,
+      "name": "I just don't think I'll make it over you.",
+      "url": "https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj"
+    },
+    {
+      "album": {
         "name": "I Just Killed a Spider",
         "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
       },
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 237421,
       "name": "look what you did",
       "url": "https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt"
@@ -9828,6 +9864,24 @@
       "duration_ms": 157333,
       "name": "rage",
       "url": "https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,095 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,138 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 75 | [道楽心情](https://open.spotify.com/track/5sFRbi81LzEk9ENVUVs81h) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 3:49 |
 | 76 | [ブレイクダウン](https://open.spotify.com/track/48a9tMP9KQsrjZHX63YwTX) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 5:00 |
 | 77 | [もう何も心配はいらねーよ](https://open.spotify.com/track/2F9zZYlTeHQVKoejpglfQX) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 0:59 |
-| 78 | [この目蓋の奥に](https://open.spotify.com/track/3zJet1WJuSQN97eoD2XXh5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:10 |
+| 78 | [この目蓋の奥に](https://open.spotify.com/track/3zJet1WJuSQN97eoD2XXh5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ５](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:10 |
 | 79 | [最後のバカ騒ぎ](https://open.spotify.com/track/5lUHrSB4sKC6l7nOd4J8lc) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:55 |
 | 80 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 

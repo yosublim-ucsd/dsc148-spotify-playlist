@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> ElGrandeToto en tête de la plus grande playlist au Maroc.
+> Tawsen & Ayoub Anbaoui en tête de la plus grande playlist au Maroc.
 
 336 songs - 18 hr 0 min
 

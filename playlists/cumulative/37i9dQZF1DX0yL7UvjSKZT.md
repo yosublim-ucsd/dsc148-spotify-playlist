@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
 
-479 songs - 1 day 5 hr 41 min
+482 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Day All Night](https://open.spotify.com/track/7fea0ovRcsLj0OkFNN6i8u) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [All Day All Night](https://open.spotify.com/album/5V9fvMfnhzIGCEmfAUjBvw) | 3:33 | 2021-10-01 | 2022-01-22 |
 | [All For the Song](https://open.spotify.com/track/2u7z8YKuEj4WzVGnooSKKs) | [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [All For the Song](https://open.spotify.com/album/1jQNrctvxHMZM0cuFYumiz) | 5:28 | 2022-04-22 | 2022-07-16 |
 | [All the Mornings Have an Echo](https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [All the Mornings Have an Echo](https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG) | 2:55 | 2023-01-13 | 2023-03-25 |
+| [All The Quiet People](https://open.spotify.com/track/6zNYLQNS4m5IjD0Oen872j) | [The Cody Sisters](https://open.spotify.com/artist/2dbfnU1Grj204sZ1vvbe6q) | [All The Quiet People](https://open.spotify.com/album/5KAdJF9LZuAWPCYKWI3OAk) | 2:57 | 2024-11-15 |  |
 | [All the Stars \(Radio Edit\)](https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Shapeshifter](https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ) | 3:48 | 2022-10-07 | 2024-03-09 |
 | [All the Way](https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All the Way](https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x) | 2:22 | 2022-02-04 | 2023-06-03 |
 | [All the Way \(remix\)](https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C) | [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd), [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All The Way \(Remix\)](https://open.spotify.com/album/3QnFtoqpCQLFZUU8S0R9dF) | 2:25 | 2023-04-14 |  |
@@ -109,6 +110,7 @@
 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 | 2022-07-15 | 2022-11-16 |
 | [Don't Cry](https://open.spotify.com/track/6nnDEzYTDH9kYDVvndebqN) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Don't Cry](https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg) | 3:21 | 2022-04-15 | 2022-07-29 |
 | [Don't Leave Me](https://open.spotify.com/track/4dfQjzOZCAG8jGV3dJ1Pck) | [The False Bottom Band](https://open.spotify.com/artist/1GAvWc8gg4wffoEoYAZcFv), [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Don't Leave Me](https://open.spotify.com/album/6DhrwzgFnQkT2XzsCWwkaT) | 3:39 | 2024-01-26 | 2024-03-09 |
+| [Don't Take It Back](https://open.spotify.com/track/3wOfAQbilOnpk97l0Kj8zr) | [The Hillbilly Thomists](https://open.spotify.com/artist/4Rlk8O5gNWhHumN1jKUb19) | [Don't Take It Back](https://open.spotify.com/album/216dTE8BUbvZNUfbJ4GMnp) | 3:43 | 2024-11-15 |  |
 | [Don't You Worry](https://open.spotify.com/track/64E7Uomo77yvmBsjcscFFk) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Don't You Worry](https://open.spotify.com/album/5fjTlX605RKxA3m9TUqAmO) | 2:54 | 2023-07-28 | 2024-05-11 |
 | [dopamine](https://open.spotify.com/track/1kOylvQAHwZPhZkYOeH70f) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [dopamine](https://open.spotify.com/album/3zZD6Y3GxAQOtuz9lDxE52) | 2:41 | 2024-08-02 |  |
 | [Dreamer](https://open.spotify.com/track/4U0HjWz3SImM5P5S24OBUk) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:41 | 2021-10-01 | 2022-10-01 |
@@ -477,6 +479,7 @@
 | [Won’t Be Long](https://open.spotify.com/track/5MM0Mlqtkbzj3wMWRTYcT3) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:16 | 2022-07-22 | 2023-07-22 |
 | [Work Song \(I Can Still Sing\)](https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [Work Song \(I Can Still Sing\)](https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj) | 3:29 | 2024-01-26 |  |
 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 | 2021-10-01 | 2023-10-17 |
+| [World Gone By \- Cloverdale Version](https://open.spotify.com/track/2WsxSIRPAq95EcBLqkcFoO) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Cloverdale Family Band](https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC), [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2), [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [World Gone By](https://open.spotify.com/album/2BZyJcwFsktPvWkzPzIwr6) | 2:38 | 2024-11-15 |  |
 | [Yarrow](https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:21 | 2021-10-01 | 2023-05-16 |
 | [Yes I Know](https://open.spotify.com/track/5xWCx2tpzrAIE0SBa7Fd5y) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Yes I Know](https://open.spotify.com/album/2Y5RJPs0vX2PQKSQAC9TYG) | 2:46 | 2023-12-15 | 2024-03-09 |
 | [Yosemite \(feat\. Dave Matthews\)](https://open.spotify.com/track/0qyIiJfHKFvtzDHRCwE3In) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 3:10 | 2023-07-21 |  |

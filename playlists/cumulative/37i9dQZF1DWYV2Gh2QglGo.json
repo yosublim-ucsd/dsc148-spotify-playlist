@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Tyler Joe Miller",
+  "description": "The home of Canadian country music. Cover: Trudy",
   "name": "North Country",
   "tracks": [
     {
@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 204696,
       "name": "Drunk Plans",
       "url": "https://open.spotify.com/track/2Ld8Skpij5LaTJ5jcjVUJD"
@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Jealous Of Jesus",
+        "url": "https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216677,
+      "name": "Jealous Of Jesus",
+      "url": "https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64"
+    },
+    {
+      "album": {
         "name": "Just Wanna Feel It",
         "url": "https://open.spotify.com/album/2vESO9JTAruodgv7S6OG45"
       },
@@ -1645,6 +1663,32 @@
     },
     {
       "album": {
+        "name": "My Bedroom",
+        "url": "https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z"
+      },
+      "artists": [
+        {
+          "name": "Tilsen",
+          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
+        },
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        },
+        {
+          "name": "Laila",
+          "url": "https://open.spotify.com/artist/4EXZpEXNEw9idyyLvmdjhb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167485,
+      "name": "My Bedroom",
+      "url": "https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh"
+    },
+    {
+      "album": {
         "name": "Nashville, Nashville",
         "url": "https://open.spotify.com/album/5tBUahFZFM3ZPxVm95HgmH"
       },
@@ -1912,7 +1956,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189406,
       "name": "OVER",
       "url": "https://open.spotify.com/track/6g9btCQhBFWNgOIJTTrRIh"
@@ -2050,6 +2094,24 @@
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+    },
+    {
+      "album": {
+        "name": "Quits",
+        "url": "https://open.spotify.com/album/2NXMaPZwgGAzx8IKumHbwt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "Quits",
+      "url": "https://open.spotify.com/track/6tW3zBBqRXuM3hDvzRXsa8"
     },
     {
       "album": {
@@ -2414,10 +2476,28 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 181168,
       "name": "Somewhere Tonight",
       "url": "https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB"
+    },
+    {
+      "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb"
+      },
+      "artists": [
+        {
+          "name": "Myles Erlick",
+          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189232,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs"
     },
     {
       "album": {
@@ -2718,7 +2798,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 191287,
       "name": "Was Fort Worth Worth It? (Feat. Jaida Dreyer) - Bonus Track",
       "url": "https://open.spotify.com/track/3bHoEZfTbxj0AsXx8zojDx"

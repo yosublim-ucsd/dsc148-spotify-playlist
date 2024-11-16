@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-168 songs - 10 hr 39 min
+169 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 |  |
 | [Faber Sanctum](https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 4:49 | 2024-10-04 |  |
 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 | 2024-04-12 |  |
+| [Falling](https://open.spotify.com/track/6wFLsyOl73n5elnJ9iYsXg) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Falling](https://open.spotify.com/album/43COS5Xp6jfJpW3S6Slq8C) | 3:49 | 2024-11-15 |  |
 | [Falls Of Avich](https://open.spotify.com/track/4YplGCsYN7vpdtceKPPa32) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 1:49 | 2023-12-08 | 2024-03-09 |
 | [Feel This \(How Long Will I\)](https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Feel This \(How Long Will I\)](https://open.spotify.com/album/7tJGLUwFnzo9ibvwy0H3xt) | 2:50 | 2023-12-08 | 2024-01-20 |
 | [For The Lost](https://open.spotify.com/track/5McPSaYMlYV7jZGk9gAvA8) | [Antic](https://open.spotify.com/artist/7auS7PkaRQHTzo2ExUJIff) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 3:48 | 2024-04-15 | 2024-04-20 |
@@ -168,7 +169,7 @@
 | [Unrequited Love](https://open.spotify.com/track/6qBNDqTyJMtBlBAa0tPQbh) | [Jannik Jivung](https://open.spotify.com/artist/7dZCDCVWIcs4XL3QMZCcvP), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Unrequited Love](https://open.spotify.com/album/03bvkfgknPzot5XmqUE8nV) | 2:24 | 2024-10-11 | 2024-10-19 |
 | [Vanishing Point](https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:00 | 2024-03-08 | 2024-06-27 |
 | [Walking Slowly](https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:31 | 2024-04-12 | 2024-06-27 |
-| [Warmth](https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [Warmth](https://open.spotify.com/album/5tLrwK3TcK1SMqhVAThVEp) | 2:59 | 2024-06-21 |  |
+| [Warmth](https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [Warmth](https://open.spotify.com/album/5tLrwK3TcK1SMqhVAThVEp) | 2:59 | 2024-06-21 | 2024-11-16 |
 | [Wide Awake](https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:03 | 2023-12-08 | 2024-03-29 |
 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 | 2024-03-28 | 2024-08-03 |
 | [With Hope](https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 1:29 | 2024-02-16 | 2024-04-27 |

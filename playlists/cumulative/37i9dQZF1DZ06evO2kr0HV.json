@@ -1699,6 +1699,32 @@
     },
     {
       "album": {
+        "name": "Modus Operandi - Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228995,
+      "name": "Yo Seguir\u00e9 - Demo",
+      "url": "https://open.spotify.com/track/5YPblWFtdDF0DmI6rmKrOL"
+    },
+    {
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KIM A REUM\(김아름\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,211 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,192 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 13 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
 | 14 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
 | 15 | [Letter](https://open.spotify.com/track/37jDUUtHbVashjygFeIlRk) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [Letter](https://open.spotify.com/album/0G5Uz3pP2YQde9xkF5bDWa) | 3:44 |
-| 16 | [Childhood](https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8) | [Jin Hwi PARK](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Childhood](https://open.spotify.com/album/77B9vnVZvFwe4yGIYstiKp) | 4:00 |
+| 16 | [Childhood](https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8) | [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Childhood](https://open.spotify.com/album/77B9vnVZvFwe4yGIYstiKp) | 4:00 |
 | 17 | [Hodogaya](https://open.spotify.com/track/3LzdzU6EL9iEwLVFbrESuW) | [Seo Jin](https://open.spotify.com/artist/3c0or5ckHUpDQkg6T36a7u) | [Hodogaya](https://open.spotify.com/album/16SHQnvN4mUmLWBp3w1BBe) | 3:35 |
 | 18 | [October](https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [October](https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW) | 3:54 |
 | 19 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 |

@@ -1,13 +1,29 @@
 {
   "description": "The smoothest jazz for the holiday. Cover: Kenny G",
-  "num_followers": 15372,
+  "num_followers": 15415,
   "original_name": "Smooth Jazz Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAADhq2agzRUEfSw3z05Sh6hG",
+  "snapshot_id": "ZzbVUAAAAAC6teia3elapZ13micsEJnK",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas (radio)",
+        "url": "https://open.spotify.com/album/1vtnD1uji8QXOI0wd371fm"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Have Yourself a Merry Little Christmas - radio",
+      "url": "https://open.spotify.com/track/45uiyrjQZ4DLRqFLWy2qUU"
+    },
     {
       "added_at": "2024-08-29 13:18:05",
       "album": {
@@ -91,22 +107,6 @@
       "duration_ms": 246000,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/21BmxWnbnHHqkON6YtZEAD"
-    },
-    {
-      "added_at": "2024-08-29 13:18:05",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3eEeXbemnjgvuGoDbHndIu"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5ZbZJ4dQWi1JBkyEY3KNSI"
     },
     {
       "added_at": "2024-08-29 13:18:05",

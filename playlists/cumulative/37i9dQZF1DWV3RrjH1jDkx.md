@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-3,135 songs - 6 day 18 hr 45 min
+3,137 songs - 6 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,6 +1096,7 @@
 | [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 | 2024-07-18 | 2024-07-27 |
 | [Good Life](https://open.spotify.com/track/7iM6Esdfc4CBi9CcSeJXqR) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Good Life](https://open.spotify.com/album/335hOx9cGneCs61AhwGMNw) | 2:14 | 2024-08-09 | 2024-08-16 |
 | [Good Life \- From "The Garfield Movie"](https://open.spotify.com/track/1gu8OZFMB9dcEmT90j0lQ8) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Good Life \(From "The Garfield Movie"\)](https://open.spotify.com/album/5k545vq1XFdS5O7N2cXV21) | 2:39 | 2024-05-16 | 2024-05-24 |
+| [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-11-14 |  |
 | [good old days](https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [good old days](https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT) | 2:36 | 2024-09-26 | 2024-10-04 |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-06-06 | 2024-06-14 |
 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-04-26 | 2024-05-03 |
@@ -2737,6 +2738,7 @@
 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 | 2024-09-05 | 2024-09-13 |
 | [The Idea of You](https://open.spotify.com/track/13skFf8DWYHxbZx3jP3V0B) | [Nicholas Galitzine](https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [The Idea of You](https://open.spotify.com/album/5brGFiJgrngm9vyWMhzc9Y) | 3:06 | 2024-05-02 | 2024-05-10 |
 | [The Karate Kid](https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 2:55 | 2024-10-10 | 2024-10-18 |
+| [The Kill](https://open.spotify.com/track/17Wy4sPPgnDPpzE7ipkbef) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [The Kill](https://open.spotify.com/album/4tBAVWkI4P7JG8WtBHvoMd) | 3:27 | 2024-11-14 |  |
 | [The Last Sad Song](https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Last Sad Song](https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6) | 2:58 | 2024-09-19 | 2024-09-27 |
 | [the light](https://open.spotify.com/track/2riIujEITom1g8ehblpgzy) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [the light](https://open.spotify.com/album/1OTa8RiyIrKWnAJi0iuC4g) | 2:24 | 2024-10-03 | 2024-10-11 |
 | [The Logical Song](https://open.spotify.com/track/6CokVZ6fu6oaolX2Ni1joa) | [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf), [Emily Dawn](https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc), [summer sax](https://open.spotify.com/artist/3offtylqj9cFhpIlmT3ngs) | [The Logical Song](https://open.spotify.com/album/32ujwa474fVTcgq1jrUJyN) | 3:02 | 2024-08-22 | 2024-08-30 |

@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 527220,
       "name": "365 Dias (Vida Mansa)",
       "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
@@ -3480,6 +3480,24 @@
       "duration_ms": 135172,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX"
+    },
+    {
+      "album": {
+        "name": "Amor breca essas ideia, pix de mil",
+        "url": "https://open.spotify.com/album/1d0UenJ2aLQtTeaHtC6tBa"
+      },
+      "artists": [
+        {
+          "name": ".Wavess",
+          "url": "https://open.spotify.com/artist/6A1vgB5nD7X1lQTr6svi9k"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Amor breca essas ideia, pix de mil",
+      "url": "https://open.spotify.com/track/0fB2votF5rTEzwHbF8cWVR"
     },
     {
       "album": {
@@ -15952,7 +15970,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -48940,7 +48958,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"

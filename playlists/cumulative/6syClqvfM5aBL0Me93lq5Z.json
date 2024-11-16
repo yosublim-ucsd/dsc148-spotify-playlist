@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Jugganauts - The Best Of ICP",
+        "url": "https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH"
+      },
+      "artists": [
+        {
+          "name": "Insane Clown Posse",
+          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233773,
+      "name": "My Axe",
+      "url": "https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE"
+    },
+    {
+      "album": {
         "name": "We\u2019ve Only Just Begun: A Century of Labor Song",
         "url": "https://open.spotify.com/album/67h5o3Y9jnOGMk9kfaJnoG"
       },

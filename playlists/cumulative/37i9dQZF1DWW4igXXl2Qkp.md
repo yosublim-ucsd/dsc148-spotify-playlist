@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:0WqsT2a4CBuQ0LC7vrJD0H">Nino Paid</a>
 
-1,486 songs - 2 day 16 hr 19 min
+1,488 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 | 2022-01-13 | 2022-02-24 |
 | [ALL FALLS DOWN](https://open.spotify.com/track/3DbWMDyMubwbLQvWnK497U) | [4kmicheal](https://open.spotify.com/artist/1uYb1BpHdrFpCPAnzlNJYa) | [FREE THE BIRDS](https://open.spotify.com/album/5vdr0MZZHEYFCnfYJXIg5Q) | 2:15 | 2023-05-24 | 2024-01-25 |
 | [All Gas](https://open.spotify.com/track/07XVfD3YB35V16bu6C6ceH) | [Bbm Deion](https://open.spotify.com/artist/3n8s2GK3O39GiMdMas2buF) | [All Gas](https://open.spotify.com/album/01Q3IvR5PMfRtD9qweOeMO) | 3:02 | 2022-03-30 | 2022-05-19 |
-| [all good](https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [all good](https://open.spotify.com/album/5gVFDPqdVGIcup1Gpcxi3x) | 2:41 | 2024-06-14 |  |
+| [all good](https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [all good](https://open.spotify.com/album/5gVFDPqdVGIcup1Gpcxi3x) | 2:41 | 2024-06-14 | 2024-11-16 |
 | [All Good](https://open.spotify.com/track/0ohMQuYZWheaMZnVbGSQvY) | [Kiddo Dust](https://open.spotify.com/artist/3xTldyWVORsVkohxA7guSQ) | [All Good](https://open.spotify.com/album/4GUbYemdf4ctTOW9MNv3Tj) | 2:46 | 2022-01-19 | 2023-01-12 |
 | [All I Need](https://open.spotify.com/track/3ddV2HKhpE4vFYi1LpbodK) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [All I Need](https://open.spotify.com/album/52LBncDA9co6dFQdZzduBJ) | 2:43 | 2024-08-21 | 2024-11-07 |
 | [ALL IN](https://open.spotify.com/track/0wG3FNzVfGGaTf7Dpce480) | [Broco](https://open.spotify.com/artist/1vcvlxsVaMndbUyyXnUS9L) | [ALL IN](https://open.spotify.com/album/3MB2Uzz6G4xIVbT6jYMa7t) | 3:17 | 2021-12-01 | 2022-01-14 |
@@ -729,6 +729,7 @@
 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 | 2022-11-09 | 2023-02-16 |
 | [Lean Back Cadillac](https://open.spotify.com/track/4TfcNQcLemAzZitRuzXMlh) | [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [Lean Back Cadillac](https://open.spotify.com/album/6z2w4rZR9kG1AI1WABHMcO) | 1:36 | 2024-03-06 | 2024-03-21 |
 | [Leap of Faith](https://open.spotify.com/track/27o9ELKZ16uywo2Zn5N9su) | [Jordan Patrick](https://open.spotify.com/artist/6RNwpkHO4dnMjaqz4F2Fkt) | [Leap of Faith](https://open.spotify.com/album/6gtvhfkr26KO5qIq3GHQuX) | 3:11 | 2022-05-25 | 2023-01-12 |
+| [leash](https://open.spotify.com/track/113M5adHRP7MENXMd8Grws) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [leash](https://open.spotify.com/album/4f18vnruHw4QV2XgTtsZYN) | 2:02 | 2024-11-15 |  |
 | [leave\_me\_alone](https://open.spotify.com/track/3eZRYige7TanwmG8wP2WyS) | [riv3r](https://open.spotify.com/artist/7evEnFcAv9Wa6xmLNBqAEi) | [riv3r](https://open.spotify.com/album/1ykp3Kk4ToMaKLgK5hUe4x) | 2:55 | 2024-01-24 | 2024-03-14 |
 | [Left The Light On](https://open.spotify.com/track/2rNSdZXUM8tgwfV7vYtDiw) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [3: Does Anyone Know You’re Going This Way?](https://open.spotify.com/album/3azfJV3IRxQh4KXNWCmFnk) | 3:11 | 2024-05-01 | 2024-07-04 |
 | [Lemon Pepper](https://open.spotify.com/track/6Pl5udKp5kVc5zZn1q5hLO) | [Rxalu Loaded](https://open.spotify.com/artist/5W8VGhJmmDLnWIebrZ1Z8f), [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Lemon Pepper](https://open.spotify.com/album/7ie2lDrf9c54apB7CELMbn) | 2:26 | 2022-01-13 | 2022-02-10 |
@@ -1014,7 +1015,7 @@
 | [petty change](https://open.spotify.com/track/685Em73Ehc0vHo5LdB21v0) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:36 | 2024-07-17 |  |
 | [Piano Riff](https://open.spotify.com/track/3xTNFEFdzWnOHO9lvBSEIv) | [Jacques Laine](https://open.spotify.com/artist/1Qs44ZlT4ULzZS7tFp2uqR) | [Piano Riff](https://open.spotify.com/album/4e0VBRJlR3l7XQloHB0NA6) | 3:03 | 2022-02-24 | 2022-03-24 |
 | [Pick up the phone](https://open.spotify.com/track/6HvqSEXIi15Gi8FLZrLXyb) | [BCO Blanco](https://open.spotify.com/artist/2DhXXGb4AMSK9XuxIGzcuK) | [Love in LA](https://open.spotify.com/album/5RiDhTb2C7Ux7FZsFLkRik) | 1:29 | 2024-02-28 | 2024-03-28 |
-| [PILLIE COOPER](https://open.spotify.com/track/4XuwBTSUUQ3nUe5VR5S9rJ) | [3pillie](https://open.spotify.com/artist/2weWfVL0xj5ceW9iubSltS) | [PILLIE COOPER](https://open.spotify.com/album/1bU0TvvN4oGbdjFeOc4W9H) | 2:05 | 2024-10-17 |  |
+| [PILLIE COOPER](https://open.spotify.com/track/4XuwBTSUUQ3nUe5VR5S9rJ) | [3pillie](https://open.spotify.com/artist/2weWfVL0xj5ceW9iubSltS) | [PILLIE COOPER](https://open.spotify.com/album/1bU0TvvN4oGbdjFeOc4W9H) | 2:05 | 2024-10-17 | 2024-11-16 |
 | [Pimpin Ain't Easy](https://open.spotify.com/track/1ncc9uvlewEqnXiyjqTO15) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Gift Of The Ghetto](https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc) | 2:35 | 2023-02-22 | 2023-04-06 |
 | [Pippy Long](https://open.spotify.com/track/4gD5SzumVdVNBXQufTMWgG) | [OTM](https://open.spotify.com/artist/2kL4eDtAl8mixMQr6bndD1) | [Off The Mussle](https://open.spotify.com/album/2WyHeyQQ3VwCfsmMd6YZ71) | 4:14 | 2022-02-09 | 2022-03-10 |
 | [Play Dumb](https://open.spotify.com/track/3mUZEL6JHbTzjGheGP6Qz9) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Play Dumb](https://open.spotify.com/album/7HMgaC6WOyaHmeG4TdEFyZ) | 2:37 | 2022-03-02 | 2022-03-24 |
@@ -1484,6 +1485,7 @@
 | [You Ain't Ever](https://open.spotify.com/track/7pPHoIDznxExR5pRCGZ2TR) | [Grubbo](https://open.spotify.com/artist/5s18FDsNPMUoposHazFVdT) | [You Ain't Ever](https://open.spotify.com/album/1rZ3MUxQmmYBr975p94CS5) | 3:05 | 2023-11-08 | 2023-11-30 |
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-12-01 | 2022-01-14 |
 | [You Is Not Havin](https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF) | [Lil Kari](https://open.spotify.com/artist/2QXvHlMnUVw9LKYlxuCRHd) | [You Is Not Havin](https://open.spotify.com/album/6EoQ6gT2h72WsJQHn0lIEa) | 2:12 | 2023-08-30 | 2024-01-25 |
+| [YOU LIKE IT, I LOVE IT](https://open.spotify.com/track/5QFyMSGLLCe1bsfIcKQvnT) | [okay coleman!](https://open.spotify.com/artist/2kAc58JeMNRXTVm3sVHrSN) | [YOU LIKE IT, I LOVE IT](https://open.spotify.com/album/5oWav15w6sexsWEhmejGkg) | 3:17 | 2024-11-15 |  |
 | [You Look Good](https://open.spotify.com/track/4uUQb3CStwUvv6IVgwcC5q) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf) | [You Look Good](https://open.spotify.com/album/6RFHT3QhYPWexBvQAjNVf3) | 1:47 | 2024-08-07 | 2024-09-19 |
 | [You Look Good](https://open.spotify.com/track/1D9CMXx4br928VCw5qWJsS) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [You Look Good](https://open.spotify.com/album/7jlwccXiTUzBAeg3n339Ic) | 2:26 | 2024-09-18 |  |
 | [You Nasty](https://open.spotify.com/track/5z1kyPW0cB6clR3yKBj99n) | [Billionaire Burke](https://open.spotify.com/artist/56Oi0KJwWZ3x8gfRGfQLlC), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Lil Westside](https://open.spotify.com/artist/0FGgDrYzmG1b3QpDYCG9kC), [P Wright](https://open.spotify.com/artist/1Z3jfd5Eqm50W6uGGZnDSJ) | [You Nasty](https://open.spotify.com/album/7scqfcvD79FXSbiY5ot03n) | 2:41 | 2022-07-06 | 2022-07-21 |

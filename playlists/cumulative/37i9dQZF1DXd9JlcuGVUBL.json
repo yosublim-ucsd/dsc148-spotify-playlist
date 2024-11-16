@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm?si=HxIp89wkSNiu7heEdx-yTw\">BlackByrd</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH?si=ylpuYgswRCS3ZqLcYdWSsw\">Shaboozey</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 141739,
       "name": "An Hour in Heaven",
       "url": "https://open.spotify.com/track/5Z2NvvvmssE2RZMLbcBFjj"
@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Climb The Mountain",
+        "url": "https://open.spotify.com/album/2VVvWWsYKK2ggN8NZTsGKf"
+      },
+      "artists": [
+        {
+          "name": "Tyran Roy",
+          "url": "https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "Climb The Mountain",
+      "url": "https://open.spotify.com/track/1ad3ndGpfMOWLKl4SARtGB"
+    },
+    {
+      "album": {
         "name": "Closing Time In California",
         "url": "https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl"
       },
@@ -504,7 +522,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 234440,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/43G4X78UwHJJL9UnpzrbLx"
@@ -630,7 +648,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 174412,
       "name": "First",
       "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
@@ -704,10 +722,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "album": {
@@ -1190,6 +1226,24 @@
       "duration_ms": 204064,
       "name": "Old Flames",
       "url": "https://open.spotify.com/track/6bHZO9OxWJMpP0Tpo6QB3e"
+    },
+    {
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1kk921K828zuh2nAgXRffj"
+      },
+      "artists": [
+        {
+          "name": "Glen Rwodzi",
+          "url": "https://open.spotify.com/artist/40boPu4SH3DeSGJ7z2gO4c"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223528,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0zuHx7BApuI7dCMaHjhWiF"
     },
     {
       "album": {
@@ -1710,7 +1764,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 176435,
       "name": "Wild & Free",
       "url": "https://open.spotify.com/track/7tdthZMpfMJsnKsJ6pem8t"

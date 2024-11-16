@@ -1263,6 +1263,32 @@
     },
     {
       "album": {
+        "name": "blue (yes, i love you)",
+        "url": "https://open.spotify.com/album/1aRsyJBjUePa8deU7Ga2tp"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "blue (yes, i love you)",
+      "url": "https://open.spotify.com/track/2gbFmSxIS508oyJaJJrTid"
+    },
+    {
+      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -4881,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "If I Was You",
+        "url": "https://open.spotify.com/album/44VrsrtqtNZHvgarhqOVPD"
+      },
+      "artists": [
+        {
+          "name": "Kiara Nelson",
+          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153620,
+      "name": "If I Was You",
+      "url": "https://open.spotify.com/track/7FTIYQ1w4ErCU1zgedfOM6"
+    },
+    {
+      "album": {
         "name": "If It Takes All Night",
         "url": "https://open.spotify.com/album/77qCncWOJe7ID7t15C8aqV"
       },
@@ -7379,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/0W7ODmyAtlwYQB6pkY4iwb"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179609,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/0wdTWar4CtD8pXsTjLwhoo"
+    },
+    {
+      "album": {
         "name": "Regal",
         "url": "https://open.spotify.com/album/3vhq6yiBV8skR2hCV3wn6A"
       },
@@ -9022,6 +9084,24 @@
       "duration_ms": 205938,
       "name": "The girl, so confusing version with lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/4tBAVWkI4P7JG8WtBHvoMd"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/17Wy4sPPgnDPpzE7ipkbef"
     },
     {
       "album": {

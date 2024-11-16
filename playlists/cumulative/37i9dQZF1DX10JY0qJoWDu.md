@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-132 songs - 6 hr 2 min
+133 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [The Nutcracker Suite](https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Nutcracker and the Four Realms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY) | 3:59 | 2021-12-03 |  |
 | [The Santa Wrap](https://open.spotify.com/track/1Msh8qZfJ708O9BfVwem5Y) | [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Disney's Family Christmas Collection](https://open.spotify.com/album/2TI63mU5xp70bx7d8ORIek) | 2:21 | 2021-12-03 | 2022-07-29 |
 | [The Santa Wrap](https://open.spotify.com/track/4CqPPBjuIaxn0pPoZ6XsMO) | [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:21 | 2021-12-03 |  |
+| [The Spirit of Christmas](https://open.spotify.com/track/2TMDXBf8UcxvpECme4cDYa) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G) | [An Almost Christmas Story \(Original Soundtrack\)](https://open.spotify.com/album/2OjIKHPYmoCnsBtdea7PdC) | 2:00 | 2024-11-15 |  |
 | [The Twelve Days of Christmas](https://open.spotify.com/track/18NtQ8IhxiQof1Kv7r9uPr) | [The Cast of Phineas and Ferb](https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi) | [Phineas and Ferb Holiday Favorites](https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x) | 3:50 | 2021-12-03 |  |
 | [The Twelve Days of Christmas \- Princess Version](https://open.spotify.com/track/4IZ9TrRe76ysqUeCpvL8to) | [Ariel](https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk), [Belle](https://open.spotify.com/artist/0PPpKyvqALNTHqNCkPh9WM), [Cinderella](https://open.spotify.com/artist/2Nd5zTQzOxz2UA4HDHc8Yi), [Jasmine.](https://open.spotify.com/artist/4MN7HjSpAQptHvlRwBaWwl), [Sleeping Beauty](https://open.spotify.com/artist/4PiPCef8wM0O4QK1dz02v0), [Snow White](https://open.spotify.com/artist/6BAIFK6o6egITr3K8JysWa) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 3:42 | 2021-12-03 |  |
 | [This Christmas](https://open.spotify.com/track/7m3rGRL4SeCDRonzwKGGle) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 2:14 | 2023-11-14 |  |

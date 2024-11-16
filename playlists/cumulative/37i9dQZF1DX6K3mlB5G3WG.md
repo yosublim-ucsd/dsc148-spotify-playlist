@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Pinguini Tattici Nucleari
 
-584 songs - 1 day 6 hr 8 min
+587 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Palo Santo](https://open.spotify.com/track/5yOjKt8JhWfNKSIFIZAxB5) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Palo Santo](https://open.spotify.com/album/5VPlNVcBojccua6dSW2bes) | 2:55 | 2024-10-03 | 2024-10-25 |
 | [Panic](https://open.spotify.com/track/3r7GgRegpst8F5jjDmfD6W) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [Panic](https://open.spotify.com/album/7wrFawWVd9g2UeOuj0rOfU) | 2:53 | 2024-08-01 | 2024-09-06 |
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-24 |  |
+| [PARIGI IN MOTORINO](https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PARIGI IN MOTORINO](https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5) | 2:22 | 2024-11-15 |  |
 | [PARTENOPE](https://open.spotify.com/track/1oEcibj8RgXKE02dOZePjU) | [Francesco Da Vinci](https://open.spotify.com/artist/7GzngaKd3zSwZD2OTT4RnS) | [PARTENOPE](https://open.spotify.com/album/2Yav8Ktj3LKqeahhqB48pr) | 3:47 | 2024-10-03 | 2024-10-18 |
 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-09-26 | 2024-11-01 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-25 | 2024-09-06 |
@@ -423,6 +424,7 @@
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 | 2024-09-27 |
 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-10-24 |  |
 | [Questa Felicità](https://open.spotify.com/track/2F5vE2e3CjLpk0C7B9gdss) | [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Questa Felicità](https://open.spotify.com/album/6IUeIUHAXzTIL5GXD2o6PX) | 2:42 | 2024-10-17 | 2024-11-15 |
+| [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-11-15 |  |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-06-27 | 2024-07-05 |
 | [RAGNI](https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAGNI](https://open.spotify.com/album/2Pwn1hhncY4xdd7auQ5J4C) | 3:30 | 2024-09-05 | 2024-10-11 |
 | [Ray Of Light](https://open.spotify.com/track/3yFWhxIlIzlyro5r6IMuT4) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ray Of Light](https://open.spotify.com/album/1GBySAbVIvQTKCR0Tg4a4U) | 2:56 | 2024-10-31 |  |
@@ -449,6 +451,7 @@
 | [Scema](https://open.spotify.com/track/04vILNWDAjKZ2qb3lONcCB) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [Scema](https://open.spotify.com/album/6KaJU8LSNXMkYmWecJG4Bd) | 2:40 | 2024-08-01 | 2024-08-30 |
 | [Scirocco ペ](https://open.spotify.com/track/5k3OlIlJBeZ7mfbKGRTQYj) | [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [Radici Veloci](https://open.spotify.com/album/226n3hZunHa5vea0F1Lp7e) | 3:37 | 2024-10-17 |  |
 | [Scorpione](https://open.spotify.com/track/5AERJKSE77keQOpneV26rl) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Scorpione](https://open.spotify.com/album/6zyNdgewCfx6Hstz3g5xQi) | 2:23 | 2024-11-14 |  |
+| [Se Fue](https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:00 | 2024-11-15 |  |
 | [SE TE NOTA \(feat\. Peso Pluma\)](https://open.spotify.com/track/1iIrqtbY2aogEHhQkmrV7w) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 | 2024-08-22 | 2024-09-20 |
 | [SEMPRE LA STESSA STORIA](https://open.spotify.com/track/0LiFSV7rfijFu8O7JztShL) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [SEMPRE LA STESSA STORIA](https://open.spotify.com/album/6bwPjNrhhIQPKjZ7enMKSo) | 2:35 | 2024-10-24 | 2024-11-06 |
 | [Sensazioni ㆆ](https://open.spotify.com/track/6kITcT8VjCMTy7mpWFT6fn) | [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [Sensazioni ㆆ](https://open.spotify.com/album/0MatjTN53CGvIVuvGn9Kg3) | 3:57 | 2024-09-26 | 2024-10-18 |
@@ -562,7 +565,7 @@
 | [Venere](https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Venere](https://open.spotify.com/album/7eCTsM1ZpUo8PRbkJ6jAjP) | 3:39 | 2024-11-14 |  |
 | [VICOLI DI NAPOLI](https://open.spotify.com/track/6COpU6FKsiocTOCsn3aEkj) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [VICOLI DI NAPOLI](https://open.spotify.com/album/6zAL24UJp5gLtB22jpSn6d) | 2:38 | 2024-07-25 | 2024-09-06 |
 | [Vieni Con Me](https://open.spotify.com/track/0re7UWNJG48H5h8M6ZbL2F) | [Briga](https://open.spotify.com/artist/4FTMyLkoEE9oEUpCv3Dr4p) | [Vieni Con Me](https://open.spotify.com/album/42ywM6SSrjqm4OFHaTOHZt) | 3:13 | 2024-11-14 |  |
-| [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 | 2024-10-17 |  |
+| [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 | 2024-10-17 | 2024-11-16 |
 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 | 2024-11-01 |
 | [VITAMINE](https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [VITAMINE](https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9) | 2:17 | 2024-08-01 | 2024-08-30 |
 | [Vivere a Riccione](https://open.spotify.com/track/0yAHd7qK8nFFUlEfaxQPTd) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [Vivere a Riccione](https://open.spotify.com/album/3qzFwn4AytbtIcdyzj1gTZ) | 3:30 | 2024-08-01 | 2024-08-30 |

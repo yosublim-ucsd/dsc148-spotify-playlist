@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 La Trinidad en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Cachirula, El Malilla y LOOJAN en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -1278,10 +1278,36 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 139800,
       "name": "BEIBY",
       "url": "https://open.spotify.com/track/2QGrlOTCxANQOfgKf7kTzH"
+    },
+    {
+      "album": {
+        "name": "SEXOLANDIA",
+        "url": "https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197830,
+      "name": "BEIBY - Remix",
+      "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
     },
     {
       "album": {
@@ -2066,7 +2092,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215172,
       "name": "Cannam",
       "url": "https://open.spotify.com/track/7FwSADJRFTWdGDa6Ut7gkg"
@@ -3334,7 +3360,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 146732,
       "name": "Desde Cuando Bellakean",
       "url": "https://open.spotify.com/track/1n3HQxF0RUF00m2oK8bmUH"
@@ -4086,7 +4112,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 118800,
       "name": "El Sonido Q No Puedes Imitar",
       "url": "https://open.spotify.com/track/4VenEuaWAac7Rac2o7l4Lc"
@@ -4160,7 +4186,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179343,
       "name": "EMPUJALO",
       "url": "https://open.spotify.com/track/1MGUC4IR5twRt7pMXN5Vx3"
@@ -7069,6 +7095,32 @@
     },
     {
       "album": {
+        "name": "Lola (Remix)",
+        "url": "https://open.spotify.com/album/2Dfwj3OdNcYtdLSJEBxJ3j"
+      },
+      "artists": [
+        {
+          "name": "Jedis",
+          "url": "https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN"
+        },
+        {
+          "name": "Gote",
+          "url": "https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285406,
+      "name": "Lola - Remix",
+      "url": "https://open.spotify.com/track/4d3e8Wm7yUgdIy80SPVml1"
+    },
+    {
+      "album": {
         "name": "Lopa Lopa",
         "url": "https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8"
       },
@@ -8858,7 +8910,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 150612,
       "name": "Nena Linda (feat. Ovi\u00f1a)",
       "url": "https://open.spotify.com/track/6TGKIXje52nlR8IXZ2PMuc"
@@ -11074,7 +11126,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 172800,
       "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
       "url": "https://open.spotify.com/track/3kttLBZNxNodchxatGjlTv"
@@ -11122,7 +11174,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 146924,
       "name": "Que yo te azote - Dame eso rico rico! -",
       "url": "https://open.spotify.com/track/7qHdeGZPUfvDeiYLGw9saG"
@@ -13033,6 +13085,28 @@
     },
     {
       "album": {
+        "name": "Te Voy A Aterrizar",
+        "url": "https://open.spotify.com/album/6aFBpe4tUTP1sR3uELFbKJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Sue\u00f1o",
+          "url": "https://open.spotify.com/artist/33t1v6wkuctEHPQ4356j87"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Te Voy A Aterrizar",
+      "url": "https://open.spotify.com/track/2D0Ov6PsJ3CIHbgdLTDdMM"
+    },
+    {
+      "album": {
         "name": "Tendo (Remix)",
         "url": "https://open.spotify.com/album/6YXUx0N5rTZDcIYo2Z7fPw"
       },
@@ -13334,10 +13408,32 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 137142,
       "name": "Tirando Flow Sesh #16",
       "url": "https://open.spotify.com/track/6MFIbN0LqCCKoJKaXOtUXV"
+    },
+    {
+      "album": {
+        "name": "Tirando Flow Sesh #17 (Gotilokita)",
+        "url": "https://open.spotify.com/album/0KOVc2imQtAQeBwuKfqLMY"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Tirando Flow Sesh #17 - Gotilokita",
+      "url": "https://open.spotify.com/track/0uXfiJF1DcADTqztezVTrN"
     },
     {
       "album": {
@@ -14554,7 +14650,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 132124,
       "name": "VINUQUI ROSE",
       "url": "https://open.spotify.com/track/1Lb3mDgPABZr4rLRkx13uZ"
@@ -14660,7 +14756,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 173877,
       "name": "Waxxxita",
       "url": "https://open.spotify.com/track/1ORMBAceT0Y5LCUNcbLGSD"
@@ -14712,6 +14808,28 @@
       "duration_ms": 180000,
       "name": "Webcam",
       "url": "https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy"
+    },
+    {
+      "album": {
+        "name": "Willy Wonka",
+        "url": "https://open.spotify.com/album/15sE7U2ITMGB67ECi3RR7k"
+      },
+      "artists": [
+        {
+          "name": "Ximena Nazor",
+          "url": "https://open.spotify.com/artist/46mEOjpSXIdTaxVUdB1IMk"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Willy Wonka",
+      "url": "https://open.spotify.com/track/5Hvvr8kXH5qdrXQsfLc1B6"
     },
     {
       "album": {
@@ -14954,7 +15072,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 164188,
       "name": "ZUMZUM",
       "url": "https://open.spotify.com/track/0NrYiSOTVRNdL4vpFQLKpp"
@@ -15054,10 +15172,32 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 161811,
       "name": "\u00d1ero Session 14",
       "url": "https://open.spotify.com/track/5uSmW3S5zdibzfXPQlJ4Vo"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 15",
+        "url": "https://open.spotify.com/album/1TocjVtbQxMHlEaowSQEBy"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Big Metra",
+          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142918,
+      "name": "\u00d1ero Session 15",
+      "url": "https://open.spotify.com/track/7z8GUS0m4JwGdnzXBH327f"
     },
     {
       "album": {

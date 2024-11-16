@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "Resistance: Burning Skies (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/28gOQgiyuJzHRWO0dYbUa8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Riepl",
+          "url": "https://open.spotify.com/artist/3KI5WbVoQx4UmqKi4dNqtM"
+        },
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311627,
+      "name": "Burning Skies",
+      "url": "https://open.spotify.com/track/39J6EI5ysv2FmIsJHPijh2"
+    },
+    {
+      "album": {
         "name": "ICO\uff5e\u9727\u306e\u4e2d\u306e\u65cb\u5f8b\uff5e",
         "url": "https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv"
       },
@@ -2603,6 +2625,32 @@
     },
     {
       "album": {
+        "name": "Halo Season 1 Original Soundtrack",
+        "url": "https://open.spotify.com/album/00PgOyChjOHvMIq2lLMnWI"
+      },
+      "artists": [
+        {
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/3AVA9bUTMNoJ9RrbmB0YfW"
+        },
+        {
+          "name": "Sean Callery",
+          "url": "https://open.spotify.com/artist/1mSdzR53wTsiokwyE8BJkl"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285853,
+      "name": "Shared Vision",
+      "url": "https://open.spotify.com/track/66RFxA8iDSZmRqtMSsHmQq"
+    },
+    {
+      "album": {
         "name": "KINGDOM HEARTS -HD 1.5 ReMIX- (Original Soundtrack)",
         "url": "https://open.spotify.com/album/59xa0duBH2doywRKohAqIY"
       },
@@ -3710,6 +3758,24 @@
       "duration_ms": 250259,
       "name": "Wyverndale's Theme",
       "url": "https://open.spotify.com/track/11gkYPiJmBqKyXstgFmgAX"
+    },
+    {
+      "album": {
+        "name": "Resistance 3 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6ap0XCAb7IyoQbjWjxXKeT"
+      },
+      "artists": [
+        {
+          "name": "Boris Salchow",
+          "url": "https://open.spotify.com/artist/23uF6RHHmL9otlRlThNjvi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107986,
+      "name": "You Are The Resistance",
+      "url": "https://open.spotify.com/track/4lm5D5pwWQt7kmPPoqIFAa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdfOcg1fm0VG"

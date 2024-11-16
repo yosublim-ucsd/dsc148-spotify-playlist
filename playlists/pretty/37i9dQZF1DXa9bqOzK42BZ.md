@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=LXKgZPm3QrWGlI2w7sLuXA">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,292 likes - 105 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,342 likes - 105 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

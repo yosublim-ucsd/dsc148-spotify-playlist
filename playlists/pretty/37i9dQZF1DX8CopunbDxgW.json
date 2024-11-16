@@ -1,44 +1,32 @@
 {
-  "description": "The best indie dance tracks of the moment \u2728 with ANOTR",
-  "num_followers": 872268,
+  "description": "The best indie dance tracks of the moment \u2708\ufe0f with Flight Facilities",
+  "num_followers": 872293,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy5mcgAAAACkSYrQQ2NcdBkc7GsI2Cm7",
+  "snapshot_id": "ZzbVUAAAAACdU5vMf019JC7V/W8vTHLv",
   "tracks": [
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "SET IT ON FIRE",
-        "url": "https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh"
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "duration_ms": 229867,
-      "name": "SET IT ON FIRE",
-      "url": "https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -59,6 +47,62 @@
       "duration_ms": 187500,
       "name": "Driving Fast",
       "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Stunt Like This",
+        "url": "https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 166774,
+      "name": "Stunt Like This",
+      "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -93,24 +137,20 @@
       "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "STRONG MAN (feat. veggi)",
-        "url": "https://open.spotify.com/album/0qmm6zoMbHDLVdoZDnto80"
+        "name": "with you love",
+        "url": "https://open.spotify.com/album/6b8VvCIhRdBzttbucwp8kd"
       },
       "artists": [
         {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        },
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 185280,
-      "name": "STRONG MAN (feat. veggi)",
-      "url": "https://open.spotify.com/track/1ocb6tS4xBe4XMw6tmFQfj"
+      "duration_ms": 215458,
+      "name": "with you love",
+      "url": "https://open.spotify.com/track/12puR1dGT6gaaFHwZ5st4J"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -157,6 +197,82 @@
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Good Kisses",
+        "url": "https://open.spotify.com/album/30P5LzvjUMniT9wJcIAM0H"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 202383,
+      "name": "Good Kisses",
+      "url": "https://open.spotify.com/track/7bjwvWMuGobr3qre7d0Lpc"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "nostalgia (with ellie d.)",
+        "url": "https://open.spotify.com/album/4Oi5j3H0Qg84vkOrSHd4go"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        },
+        {
+          "name": "ellie d.",
+          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
+        }
+      ],
+      "duration_ms": 159075,
+      "name": "nostalgia (with ellie d.)",
+      "url": "https://open.spotify.com/track/4WabJJK1O9l1WcJQvhBJsF"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Perfect Stranger",
+        "url": "https://open.spotify.com/album/44GIXVGBr6kzE1abQixw2f"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/26mCESsJXRzt5ZIlzjSKfW"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mutations (Empress Of Remix)",
+        "url": "https://open.spotify.com/album/3ZSqEx1tLfIZ6Cgrzwj5Zf"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Mutations - Empress Of Remix",
+      "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "BOOTS",
@@ -171,26 +287,6 @@
       "duration_ms": 199375,
       "name": "BOOTS",
       "url": "https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Stunt Like This",
-        "url": "https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 166774,
-      "name": "Stunt Like This",
-      "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -225,20 +321,20 @@
       "url": "https://open.spotify.com/track/5Rc3JYlH5cTPbhxqvCQYJh"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Perfect Stranger",
-        "url": "https://open.spotify.com/album/44GIXVGBr6kzE1abQixw2f"
+        "name": "No Chaos, No Future",
+        "url": "https://open.spotify.com/album/5WjxXQFZ2kOPS3eRZLbwCM"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Perfect Stranger",
-      "url": "https://open.spotify.com/track/26mCESsJXRzt5ZIlzjSKfW"
+      "duration_ms": 187411,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/7uMYonMYj4tEejKqnRBqfV"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -293,6 +389,22 @@
       "url": "https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "My Angel Wings",
+        "url": "https://open.spotify.com/album/7K2jfzxLlfygDHjLDl1pXh"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 219502,
+      "name": "My Angel Wings",
+      "url": "https://open.spotify.com/track/7f1RRyGa8FUaiYE0tzZxfF"
+    },
+    {
       "added_at": "2024-11-01 04:45:51",
       "album": {
         "name": "HOME",
@@ -323,6 +435,30 @@
       "duration_ms": 242941,
       "name": "No Ice",
       "url": "https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "GarraGarra",
+        "url": "https://open.spotify.com/album/435uNKRUQ136anVQ5YZSHi"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 197638,
+      "name": "GarraGarra",
+      "url": "https://open.spotify.com/track/1yE1gkhMwOERD571EKUYcn"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -363,6 +499,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Rising Stars",
+        "url": "https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 182847,
+      "name": "Rising Stars",
+      "url": "https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Back Then, Computer Sound",
         "url": "https://open.spotify.com/album/03vLK8v8cerigbfUKJlIxb"
       },
@@ -399,6 +551,22 @@
       "duration_ms": 179306,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "SET IT ON FIRE",
+        "url": "https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "duration_ms": 229867,
+      "name": "SET IT ON FIRE",
+      "url": "https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE"
     },
     {
       "added_at": "2024-11-01 04:45:51",
@@ -443,6 +611,26 @@
       "duration_ms": 206837,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3AGqoV9OBrQqwOFtuWcWki"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "STRONG MAN (feat. veggi)",
+        "url": "https://open.spotify.com/album/0qmm6zoMbHDLVdoZDnto80"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "STRONG MAN (feat. veggi)",
+      "url": "https://open.spotify.com/track/1ocb6tS4xBe4XMw6tmFQfj"
     },
     {
       "added_at": "2024-11-01 04:45:51",
@@ -555,22 +743,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Rising Stars",
-        "url": "https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u"
-      },
-      "artists": [
-        {
-          "name": "Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 182847,
-      "name": "Rising Stars",
-      "url": "https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/78yOEdoQ4EXtsGLFyKNO8E"
       },
@@ -639,26 +811,6 @@
       "duration_ms": 215111,
       "name": "Hey Baby (salute remix - radio edit)",
       "url": "https://open.spotify.com/track/3Wt9BeTK8SlTG7c3KEBJN5"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "in heaven",
-        "url": "https://open.spotify.com/album/1H2sEfR1sXPiAv3t7T0HsB"
-      },
-      "artists": [
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        },
-        {
-          "name": "Miette Hope",
-          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
-        }
-      ],
-      "duration_ms": 152804,
-      "name": "in heaven",
-      "url": "https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1081,26 +1233,6 @@
       "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Waver",
-        "url": "https://open.spotify.com/album/1lBiIbT7SUasPbqOjYOjK1"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        },
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Waver",
-      "url": "https://open.spotify.com/track/6EhLGfnkaiTcdEVJxRuoxi"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "BROKEN",
@@ -1115,22 +1247,6 @@
       "duration_ms": 271435,
       "name": "BROKEN",
       "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "The Great Pyramid of Stockport",
-        "url": "https://open.spotify.com/album/6hJLEiEJDRLptrSqTR6upr"
-      },
-      "artists": [
-        {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "The Great Pyramid of Stockport",
-      "url": "https://open.spotify.com/track/2XJlmLLUqHju9VoAT90VDO"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1265,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "TEARDROPS",
-        "url": "https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "TEARDROPS",
-      "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "When U Wake",
@@ -1295,22 +1395,6 @@
       "duration_ms": 217473,
       "name": "When U Wake",
       "url": "https://open.spotify.com/track/46AUSSE2ZCSvlmvcwwyvD6"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "BITE",
-        "url": "https://open.spotify.com/album/0qqr3H73R9OHozm5CVTOl6"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "BITE",
-      "url": "https://open.spotify.com/track/3Zjb9pAq1uTsSscSJk9wsS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1403,46 +1487,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "For Your Consideration (Deluxe)",
-        "url": "https://open.spotify.com/album/2SclrCGehY3IuaVhp3MJpP"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Raining but It's Ok",
-        "url": "https://open.spotify.com/album/435cULwFAtHQ1HfLEk0LF5"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        },
-        {
-          "name": "manon",
-          "url": "https://open.spotify.com/artist/243JvYwaQB1VXfizmVku65"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "Raining but It's Ok",
-      "url": "https://open.spotify.com/track/2O8DpFZN3hBWRaVsVTacKJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Scarlet Lamb",
         "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
       },
@@ -1475,26 +1519,6 @@
       "duration_ms": 186277,
       "name": "do you really love him?",
       "url": "https://open.spotify.com/track/2V8qIMYUEvvYcqezOwfKIL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        },
-        {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
-        }
-      ],
-      "duration_ms": 200294,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1667,22 +1691,6 @@
       "duration_ms": 223440,
       "name": "Totem",
       "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-08-16 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Muerejoven en la casa del Trap Argentino.",
+  "description": "Neo Pistea en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 125705,
       "name": "CLCE Freestyle",
       "url": "https://open.spotify.com/track/3IzdZsZ5025Hons0t7tNZO"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 129511,
       "name": "CORTA",
       "url": "https://open.spotify.com/track/2qyB37OHC4RqoO6eq31uMN"
@@ -1631,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "TRAMPA AL TIEMPO",
+        "url": "https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Orodembow",
+          "url": "https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171236,
+      "name": "CURANDO MI KARMA",
+      "url": "https://open.spotify.com/track/0xPKX6nemzyQ4HzSokpsCS"
+    },
+    {
+      "album": {
         "name": "Cypher MND #18: Neo Pistea, Obie Wanshot & CNO",
         "url": "https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt"
       },
@@ -1712,6 +1734,28 @@
       "duration_ms": 206378,
       "name": "De las Shox a las Scorch",
       "url": "https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX"
+    },
+    {
+      "album": {
+        "name": "TRAMPA AL TIEMPO",
+        "url": "https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "BAXIAN",
+          "url": "https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179611,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h"
     },
     {
       "album": {
@@ -2028,7 +2072,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 133846,
       "name": "DONDE QUIERO ESTAR",
       "url": "https://open.spotify.com/track/00nNVZVJge5bxd1ynx7Xqc"
@@ -2150,6 +2194,28 @@
       "duration_ms": 123093,
       "name": "DUDADE",
       "url": "https://open.spotify.com/track/1mjHyr9e7uP0QisX3y7a6T"
+    },
+    {
+      "album": {
+        "name": "TRAMPA AL TIEMPO",
+        "url": "https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Emirsito",
+          "url": "https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145518,
+      "name": "DUELE",
+      "url": "https://open.spotify.com/track/6CzozhzNVBfxmUthlZiYm4"
     },
     {
       "album": {
@@ -2282,6 +2348,28 @@
       "duration_ms": 130528,
       "name": "EL INGRESO",
       "url": "https://open.spotify.com/track/6uqkssNW8ZbJI9PiGEk2k9"
+    },
+    {
+      "album": {
+        "name": "El Tiempo Se Para",
+        "url": "https://open.spotify.com/album/6a0r5Kk8CdWzeh3yc88KoP"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183159,
+      "name": "El Tiempo Se Para",
+      "url": "https://open.spotify.com/track/0CxQ3ICqj842FNBGMovEuQ"
     },
     {
       "album": {
@@ -2674,7 +2762,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 120927,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/49zhK6488SdSbXISd1XttD"
@@ -2692,7 +2780,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 357550,
       "name": "Freestyle Session #20",
       "url": "https://open.spotify.com/track/723IafUdnKn4Qt2uk4I0IK"
@@ -3789,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/18QS72jeTdZ6UJpociRxCa"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129532,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4iiLd7yOsdGLdTpcxNwg7c"
+    },
+    {
+      "album": {
         "name": "LuXxX",
         "url": "https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky"
       },
@@ -3972,7 +4078,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 164778,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/7s6zXKtzP45A6MHFgX43Oh"
@@ -4582,7 +4688,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 113424,
       "name": "No Me Ven",
       "url": "https://open.spotify.com/track/6jHAVplo0ffg3t9Q9bQPgf"
@@ -4787,6 +4893,50 @@
     },
     {
       "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217547,
+      "name": "Nueva Era",
+      "url": "https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF"
+    },
+    {
+      "album": {
+        "name": "TRAMPA AL TIEMPO",
+        "url": "https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Gllato",
+          "url": "https://open.spotify.com/artist/2SYSwQw5XfJGLWXCE7ARTF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208889,
+      "name": "NUNCA FUE POR LA PLATA",
+      "url": "https://open.spotify.com/track/5kwM9UCo0R9hjRDaF1e1Gg"
+    },
+    {
+      "album": {
         "name": "OCASO",
         "url": "https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI"
       },
@@ -4906,7 +5056,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 123692,
       "name": "ORGULLO",
       "url": "https://open.spotify.com/track/5z7by2aX9wuqFfmxr0shY4"
@@ -5542,7 +5692,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 140130,
       "name": "PUFF",
       "url": "https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS"
@@ -6834,7 +6984,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 206326,
       "name": "Todo Llega 33",
       "url": "https://open.spotify.com/track/3FLdgGOjOVXbCchxmVdJaW"
@@ -7374,7 +7524,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 260019,
       "name": "UNA LINEA MENOS PARA ELIAN (EL LAPIZ DE ORO)",
       "url": "https://open.spotify.com/track/4O1bi8pvcz9BPIxTM5hENi"
@@ -7638,7 +7788,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 120000,
       "name": "VITALICIO",
       "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
@@ -7970,7 +8120,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 179054,
       "name": "Yo ya gan\u00e9",
       "url": "https://open.spotify.com/track/0PYPSgl43L1KFeMS7KpNbA"

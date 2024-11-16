@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Amabile",
+        "url": "https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196169,
+      "name": "Amabile",
+      "url": "https://open.spotify.com/track/3145XZiKmaE34sybk99dWc"
+    },
+    {
+      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 143583,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w"

@@ -2,7 +2,7 @@
 
 ### [New Music Friday I\-Pop ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> Latest music from your fav I\-Pop artists\. Cover\- Amit Trivedi & Neha Kakkar
+> Latest music from your fav I\-Pop artists\. Cover\- Badshah
 
 1,287 songs - 3 day 1 hr 18 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,371 likes - 274 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,943 likes - 274 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 67 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 |
 | 68 | [Boogar Sugre](https://open.spotify.com/track/01O10r14rk0k1I7bTuFqog) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 2:28 |
 | 69 | [Trip Inside This House](https://open.spotify.com/track/4JvTxoibs2fx7sw7xnAL1K) | [Magic Shoppe](https://open.spotify.com/artist/60iO2Q2Y86BXH2slA0u73N) | [Triangulum Australe](https://open.spotify.com/album/0iB5kq2f6ocu0OAaoB6uxq) | 4:03 |
-| 70 | [El EscorpIón](https://open.spotify.com/track/4MDVdobxifP7UxxuiaLWpQ) | [Dan Ubick](https://open.spotify.com/artist/2NhKz10yxJXx3PeNdiaGYy) | [Magnetic Fields](https://open.spotify.com/album/7Hij9egukaPrU8R3OXQNqd) | 1:28 |
+| 70 | [El Escorpión](https://open.spotify.com/track/4MDVdobxifP7UxxuiaLWpQ) | [Dan Ubick](https://open.spotify.com/artist/2NhKz10yxJXx3PeNdiaGYy) | [Magnetic Fields](https://open.spotify.com/album/7Hij9egukaPrU8R3OXQNqd) | 1:28 |
 | 71 | [Changes](https://open.spotify.com/track/3cMpputIxcfTaaw7j6I1ct) | [Los Muertos](https://open.spotify.com/artist/6lMZgKPrYr6P2xn6fXXZbc) | [Changes](https://open.spotify.com/album/3NArIs8wfTclS1pPUk5CmD) | 2:50 |
 | 72 | [Agüita Bendita](https://open.spotify.com/track/3WANGkZdUKNs28QNF3Ft1q) | [Mariana Manchego](https://open.spotify.com/artist/70xsxeHrnkDu4NKbH2k4yy) | [Indie Alterlatino](https://open.spotify.com/album/5MyuQNjKSJ711JnDQL9KvE) | 3:08 |
 | 73 | [Mumbo Sugar](https://open.spotify.com/track/1To3VopSqc8cWHcZJrpjvX) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Libertalia](https://open.spotify.com/album/3ac70sG0O5BnprAWb4dOTA) | 3:08 |

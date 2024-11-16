@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "All These Words",
+        "url": "https://open.spotify.com/album/4wrthrHVWtj4TJAabueOA2"
+      },
+      "artists": [
+        {
+          "name": "Lucy Clearwater",
+          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
+        },
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213270,
+      "name": "All These Words",
+      "url": "https://open.spotify.com/track/6Go7V9gIpYg8ksusOZylON"
+    },
+    {
+      "album": {
         "name": "Alps",
         "url": "https://open.spotify.com/album/66vF1lyJODi4318YV0RSpS"
       },

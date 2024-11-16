@@ -1,12 +1,12 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: SUNSET BLVD",
-  "num_followers": 569857,
+  "num_followers": 569905,
   "original_name": "Broadway Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxuiMgAAAADOxedRen0ecj2LFY6Ontr1",
+  "snapshot_id": "ZzbHQAAAAAD+nInun39csOpDgeW2HmXG",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -949,6 +949,26 @@
       "url": "https://open.spotify.com/track/5uOzyQXpZugA0YBnKxmOUx"
     },
     {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Jeevan Braich",
+          "url": "https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Starlight Express",
+      "url": "https://open.spotify.com/track/22TfVwyDaT37KPYalLPWgk"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
@@ -1799,30 +1819,6 @@
       "duration_ms": 83520,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5r4aVDOcZqjAhLJsD0uNED"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Monster (From \"Frozen: The Broadway Musical\" / First Listen)",
-        "url": "https://open.spotify.com/album/0qt2cmhgdqniWVz4uZGfp7"
-      },
-      "artists": [
-        {
-          "name": "Caissie Levy",
-          "url": "https://open.spotify.com/artist/4WpXr474F2fTdlgWL0034N"
-        },
-        {
-          "name": "John Riddle",
-          "url": "https://open.spotify.com/artist/1gePrzNWnpoHNFNZ446iRi"
-        },
-        {
-          "name": "Male Ensemble - Frozen: The Broadway Musical",
-          "url": "https://open.spotify.com/artist/62pp0OG4g1l398DDQi9scG"
-        }
-      ],
-      "duration_ms": 222396,
-      "name": "Monster - From \"Frozen: The Broadway Musical\" / First Listen",
-      "url": "https://open.spotify.com/track/723yB3NowaDZggicj9oYwx"
     },
     {
       "added_at": "2024-06-16 15:18:50",

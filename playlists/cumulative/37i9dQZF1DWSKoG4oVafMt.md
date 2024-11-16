@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-951 songs - 2 day 3 hr 22 min
+952 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,7 @@
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-15 | 2024-02-22 |
 | [Like Moon](https://open.spotify.com/track/7H0F4B8lh7pG2A1U2H6m2O) | [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Like Moon](https://open.spotify.com/album/1QKhydtnWNeOD2G3DyP0NJ) | 3:31 | 2022-03-16 | 2022-04-06 |
 | [Loafer](https://open.spotify.com/track/1Ha1bzCgyyZbhiSHygtTKs) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [Loafer](https://open.spotify.com/album/468GTdce4X0z4lrsmo81Zz) | 2:52 | 2024-11-06 |  |
-| [LOML \(Sifta\)](https://open.spotify.com/track/4dCJsmrfZK6md1KM3ZK1Zk) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:16 | 2024-10-10 |  |
+| [LOML \(Sifta\)](https://open.spotify.com/track/4dCJsmrfZK6md1KM3ZK1Zk) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:16 | 2024-10-10 | 2024-11-16 |
 | [London Bridge](https://open.spotify.com/track/7iSITFbbFsBP5vfZH2BSdY) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ) | [London Bridge](https://open.spotify.com/album/28356uvnBo5DfxR8u1hPhc) | 2:30 | 2022-12-06 | 2022-12-24 |
 | [London Da Lakk](https://open.spotify.com/track/6KFjOVXJR7WC8egwepPJTw) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Meet Sehra](https://open.spotify.com/artist/3yHKjwbYaj7IvSX7qjSI1l) | [London Da Lakk](https://open.spotify.com/album/1HOy4MTSYqJjqyjWdc925z) | 2:53 | 2022-05-06 | 2022-05-20 |
 | [Long Distance](https://open.spotify.com/track/6qbpUuZArbsjoPlF69FuCb) | [GURJAAN](https://open.spotify.com/artist/1JHV3JGKIaXx98B12ULufT), [nabz](https://open.spotify.com/artist/7hSJjTZ0Ll0yQuzTYF3fbR), [Jazbeer](https://open.spotify.com/artist/0qxLf80uEjxmJXedIP1Euv) | [Long Distance](https://open.spotify.com/album/3WleaWVOsvca6PD5Gbibt1) | 2:58 | 2024-04-01 | 2024-07-19 |
@@ -544,6 +544,7 @@
 | [Mob N Love](https://open.spotify.com/track/0MZqrU16fpP4aE9INyYpD1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mob N Love](https://open.spotify.com/album/4jcpVLu1qPJRCthsocyMgX) | 3:22 | 2022-04-18 | 2022-07-06 |
 | [Mohabat](https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Mohabat](https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr) | 3:36 | 2023-02-01 | 2024-04-06 |
 | [Mohabbat](https://open.spotify.com/track/4I8CaRhT764muRFvwn51va) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Mohabbat](https://open.spotify.com/album/5ldjwPo10jYbk1Ck0YZeqa) | 4:02 | 2022-04-18 | 2022-07-06 |
+| [Mohobbat \- Love](https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Mohobbat \(Love\)](https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN) | 3:28 | 2024-11-15 |  |
 | [Mombattiye](https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Mombattiye](https://open.spotify.com/album/590RLFrfBBcRJyZyeqvt5R) | 3:05 | 2024-08-05 | 2024-09-12 |
 | [Moody](https://open.spotify.com/track/6oLAnSXPLewt1hLm9gw1DD) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [VIP](https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3) | 3:13 | 2022-09-06 | 2022-09-09 |
 | [Moon](https://open.spotify.com/track/2DeCzK7tEThBtTSzoCtzkm) | [Mauji](https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5), [Devilo](https://open.spotify.com/artist/7r3uOUXVYbcSb85Ijr7CKf) | [Moon](https://open.spotify.com/album/5z9iVEDVimEJ3zheVJjQyS) | 3:35 | 2022-01-19 | 2022-02-01 |

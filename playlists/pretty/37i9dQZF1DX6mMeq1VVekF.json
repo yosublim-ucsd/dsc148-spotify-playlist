@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Joe James",
-  "num_followers": 178272,
+  "num_followers": 178282,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "Prada or Celine",
+        "url": "https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "duration_ms": 140368,
+      "name": "Prada or Celine",
+      "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "Tyla",
         "url": "https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 134370,
       "name": "Tyla",
       "url": "https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "Prada or Celine",
-        "url": "https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        }
-      ],
-      "duration_ms": 140368,
-      "name": "Prada or Celine",
-      "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Bando Kid",
         "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 197455,
       "name": "Bando Kid",
       "url": "https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182330,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Miss Independent",
-        "url": "https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 126956,
-      "name": "Miss Independent",
-      "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "In Silly We Trust",
         "url": "https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 182337,
       "name": "lOvE LeTtEr (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Miss Independent",
+        "url": "https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 126956,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "what it is & what it ain't",
+        "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 149103,
+      "name": "what it is & what it ain't",
+      "url": "https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "BLOCKBUSTA",
         "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "what it is & what it ain't",
-        "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
+        "name": "We Got Food At Home",
+        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
       },
       "artists": [
         {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
         }
       ],
-      "duration_ms": 149103,
-      "name": "what it is & what it ain't",
-      "url": "https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8"
+      "duration_ms": 120409,
+      "name": "Won!",
+      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 116756,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/2ZKigFND4unNopll76YEp4"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "We Got Food At Home",
-        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
-      },
-      "artists": [
-        {
-          "name": "Cap1talA",
-          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
-        }
-      ],
-      "duration_ms": 120409,
-      "name": "Won!",
-      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "NEXT MOVE",
-        "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
-      },
-      "artists": [
-        {
-          "name": "Slew",
-          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
-        }
-      ],
-      "duration_ms": 100050,
-      "name": "NEXT MOVE",
-      "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "LEECHES",
         "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 151384,
       "name": "LEECHES",
       "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "NEXT MOVE",
+        "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
+      },
+      "artists": [
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "duration_ms": 100050,
+      "name": "NEXT MOVE",
+      "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
     }
   ],
   "unique_name": "Free Form",

@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 214706,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "The Natural Bridge",
+        "url": "https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ"
+      },
+      "artists": [
+        {
+          "name": "Silver Jews",
+          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "How to Rent a Room",
+      "url": "https://open.spotify.com/track/43DMGGEnfzZGr7k0j1CtQs"
+    },
+    {
+      "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT"
       },
@@ -2453,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "Inconsolable",
+      "url": "https://open.spotify.com/track/1VDbP5dzPoG7Bi4T5INKTM"
+    },
+    {
+      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -2530,6 +2566,24 @@
       "duration_ms": 181416,
       "name": "Jean",
       "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
+    },
+    {
+      "album": {
+        "name": "Joel Roberts",
+        "url": "https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251840,
+      "name": "Joel Roberts",
+      "url": "https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa"
     },
     {
       "album": {
@@ -2652,7 +2706,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 202653,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
@@ -2678,6 +2732,24 @@
       "duration_ms": 165463,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/52S4b4JkoeKrCRRKjzPHKW"
+    },
+    {
+      "album": {
+        "name": "Piper Oz the Hound",
+        "url": "https://open.spotify.com/album/54rzBakpjehfLizsXAdV6H"
+      },
+      "artists": [
+        {
+          "name": "Art Lown",
+          "url": "https://open.spotify.com/artist/1XRrYWnoRIqMuQHq1npqSK"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138507,
+      "name": "Knew You Well",
+      "url": "https://open.spotify.com/track/4PTlKir77x1tXQtecD3SuH"
     },
     {
       "album": {
@@ -2909,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "mistake",
+        "url": "https://open.spotify.com/album/1cA2MMkwjTl4XsWlc5A8PF"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156346,
+      "name": "mistake",
+      "url": "https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1"
+    },
+    {
+      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -2928,6 +3018,24 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
+    },
+    {
+      "album": {
+        "name": "Much Ado About Nothing",
+        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229795,
+      "name": "Much Ado About Nothing",
+      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
     },
     {
       "album": {
@@ -4115,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/5tkmRDKhyw0evkaonuQw9d"
+      },
+      "artists": [
+        {
+          "name": "deer scout",
+          "url": "https://open.spotify.com/artist/096fLKwL2P69YLSXH0fc9s"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119812,
+      "name": "Synesthesia",
+      "url": "https://open.spotify.com/track/7dpLyDlAkfaHCiQsIRUebc"
+    },
+    {
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -4337,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396157,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
+    },
+    {
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -4406,6 +4550,24 @@
       "duration_ms": 216531,
       "name": "Time Shrinks",
       "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
+    },
+    {
+      "album": {
+        "name": "Disaster Trick",
+        "url": "https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183386,
+      "name": "Today\u2019s Iconoclast",
+      "url": "https://open.spotify.com/track/5MssMfTSURfl8FaHlNqbZR"
     },
     {
       "album": {
@@ -4590,7 +4752,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
@@ -4777,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
+    },
+    {
+      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -4832,6 +5012,24 @@
       "duration_ms": 215413,
       "name": "You Can't Stay The Same",
       "url": "https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K"
+    },
+    {
+      "album": {
+        "name": "Count Bateman",
+        "url": "https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH"
+      },
+      "artists": [
+        {
+          "name": "Frog",
+          "url": "https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130185,
+      "name": "You Know I'm Down",
+      "url": "https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT"
     },
     {
       "album": {

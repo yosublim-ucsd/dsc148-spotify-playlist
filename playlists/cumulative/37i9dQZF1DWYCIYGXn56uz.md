@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Alex Wyse
 
-551 songs - 1 day 1 hr 33 min
+552 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 | 2023-08-31 | 2024-03-29 |
 | [PARANOIA \(48h\)](https://open.spotify.com/track/03B7LASAbnyBdfybCxCuEw) | [Gianluca Modanese](https://open.spotify.com/artist/3EvOGKxwzDenIvnfwmOgIT) | [\(tra parentesi\)](https://open.spotify.com/album/2cavlI3WwEcr1mJeyVC4ZV) | 2:41 | 2023-04-06 | 2023-04-14 |
 | [Parigi](https://open.spotify.com/track/3moOAzfOC32TI8k0qyfVWc) | [Sergi](https://open.spotify.com/artist/2mR7bH8m4JaoCtI4czxcSP), [YLY](https://open.spotify.com/artist/39RZFrsACGBnWyTb4diU10) | [Parigi](https://open.spotify.com/album/6nf3jw1VqPW3H158XMApUK) | 2:24 | 2023-03-23 | 2023-04-14 |
+| [PARIGI IN MOTORINO](https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PARIGI IN MOTORINO](https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5) | 2:22 | 2024-11-15 |  |
 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 | 2023-03-23 | 2024-04-19 |
 | [Part Of Me \(with Matteo Romano\)](https://open.spotify.com/track/0yz540gbpL0uOrKGGzQlrZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Part Of Me \(with Matteo Romano\)](https://open.spotify.com/album/7xK11JFoSuQ1I6pqYEITzJ) | 3:22 | 2023-09-14 | 2023-11-10 |
 | [PARTE DI ME](https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Donis & Dazzo](https://open.spotify.com/artist/1n4rkQyy6PoU70egXjAQYG) | [PARTE DI ME](https://open.spotify.com/album/2j1M7CmnPiKsvf4JpnFEmd) | 3:07 | 2024-04-18 | 2024-06-01 |
@@ -436,7 +437,7 @@
 | [Sangue e Aria](https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2) | [Sercho](https://open.spotify.com/artist/1YzDKK9gJRBqqkL5wxQQTa) | [Sangue e Aria](https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55) | 2:35 | 2023-09-21 | 2023-10-20 |
 | [Scappi da me](https://open.spotify.com/track/75vgIeiaO6DtqrToQby1Qg) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Solo Francesco](https://open.spotify.com/album/6xPawfNwFStXqQHms84B2R) | 2:50 | 2023-03-23 | 2023-04-27 |
 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-13 |  |
-| [Schiava della Vita](https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [Schiava della Vita](https://open.spotify.com/album/3O7kIq8JQAcWd5MmoPY1jc) | 2:45 | 2024-10-10 |  |
+| [Schiava della Vita](https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [Schiava della Vita](https://open.spotify.com/album/3O7kIq8JQAcWd5MmoPY1jc) | 2:45 | 2024-10-10 | 2024-11-16 |
 | [Scivola](https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Scivola](https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh) | 2:38 | 2023-03-23 | 2023-06-16 |
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-13 | 2023-06-09 |
 | [SCUSAMI SE](https://open.spotify.com/track/4c2PdSDERoU0hA4sz2ohNN) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [SCUSAMI SE](https://open.spotify.com/album/25mWDe25KmW15WyBOWjQer) | 2:46 | 2023-12-21 | 2024-02-02 |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-352 songs - 18 hr 40 min
+354 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [caught by a wind](https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [caught by a wind](https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB) | 3:05 | 2024-07-16 | 2024-09-08 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
+| [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 | 2024-11-15 |  |
 | [CLONES](https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 3:02 | 2024-10-18 | 2024-11-14 |
 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 | 2024-04-10 | 2024-05-16 |
 | [Coasting](https://open.spotify.com/track/4xghRTAU6Hqjyf4MO1gr6w) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Coasting](https://open.spotify.com/album/1I3J7u3YpMetkahBFQoICw) | 2:50 | 2024-05-16 | 2024-07-12 |
@@ -312,6 +313,7 @@
 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 | 2024-07-12 |
 | [The Good Humor Man He Sees Everything Like This \- 2015 Remaster](https://open.spotify.com/track/6LhWdm4JRfsL2L6twjhjaG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:08 | 2024-10-02 | 2024-11-14 |
 | [The Hand That I Put Down](https://open.spotify.com/track/2zivb1ctJJWO72i4fttutV) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [The Hand That I Put Down](https://open.spotify.com/album/66GIzOZ0fYkob5SrQVYTEB) | 3:42 | 2024-09-07 | 2024-11-14 |
+| [The Homecoming Queen's Got a Gun](https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh) | [Julie Brown](https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv) | [Trapped In The Body Of A White Girl](https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2) | 4:38 | 2024-11-15 |  |
 | [The Joy Of Living](https://open.spotify.com/track/3HLB0NiX67dDjDCM84rv8Q) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Unisex](https://open.spotify.com/album/4SxP15xAMiqz0W4kOKFdS0) | 4:30 | 2024-08-27 | 2024-09-08 |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
 | [The Minx](https://open.spotify.com/track/0KdLCqxvaeah6qC4WP7Iu5) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [The Minx \(Original Soundtrack\)](https://open.spotify.com/album/79YsTrJJxb14X1Jb5zeKcS) | 2:30 | 2024-09-07 | 2024-11-14 |

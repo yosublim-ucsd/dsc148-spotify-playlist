@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Jordin Sparks & Maverick City Music",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+    },
+    {
+      "album": {
         "name": "Calvary's Enough",
         "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
       },
@@ -2670,6 +2688,36 @@
       "duration_ms": 247331,
       "name": "Completely Yours",
       "url": "https://open.spotify.com/track/5BJwPMyYs89Hfh4x2u1SHL"
+    },
+    {
+      "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292185,
+      "name": "Constant (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
     },
     {
       "album": {
@@ -6646,7 +6694,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 232797,
       "name": "Honest",
       "url": "https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT"
@@ -11957,6 +12005,28 @@
     },
     {
       "album": {
+        "name": "OMARI",
+        "url": "https://open.spotify.com/album/6FocJszsFdsLWJOTjR7cWU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215965,
+      "name": "ONE REASON (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/0mxcCI6jndyz6rXpjTVgCg"
+    },
+    {
+      "album": {
         "name": "Glory Hour",
         "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
       },
@@ -12818,7 +12888,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 214896,
       "name": "Proof (Remix) (feat. Limoblaze)",
       "url": "https://open.spotify.com/track/2DYKg7ENQaO96GgyHL3nDP"
@@ -13716,7 +13786,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 249084,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
@@ -14597,6 +14667,32 @@
     },
     {
       "album": {
+        "name": "Still Waters (Psalm 23) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ow282yox2uRtgZgktAeZJ"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250101,
+      "name": "Still Waters (Psalm 23) - Acoustic",
+      "url": "https://open.spotify.com/track/3Q9W1stYm98AVSNKbw7iGQ"
+    },
+    {
+      "album": {
         "name": "Sold out, sincerely",
         "url": "https://open.spotify.com/album/2nOpREPxn4ERudGTHa3hdA"
       },
@@ -14970,7 +15066,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE"

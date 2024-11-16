@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 158480,
+  "num_followers": 158546,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Part One",
-        "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
-      },
-      "artists": [
-        {
-          "name": "The West Coast Pop Art Experimental Band",
-          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "I Won't Hurt You",
-      "url": "https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
+      },
+      "artists": [
+        {
+          "name": "The West Coast Pop Art Experimental Band",
+          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "I Won't Hurt You",
+      "url": "https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 315585,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -347,18 +363,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 315585,
-      "name": "Odessa",
-      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -391,26 +411,6 @@
       "duration_ms": 163946,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Diego",
+        "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "19-6 Paris",
         "url": "https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 272353,
       "name": "19-6 Paris",
       "url": "https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Diego",
-        "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Diego",
-      "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
     },
     {
       "added_at": "2024-07-26 04:00:00",

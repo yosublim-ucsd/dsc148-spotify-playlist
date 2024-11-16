@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 695739,
+  "num_followers": 695812,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAAARs4W67u7dxcI1l2ntdr++",
+  "snapshot_id": "ZzU9gAAAAABiuDybuwUMQ/VDJJ7X8S2r",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gems",
-        "url": "https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ"
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 242256,
-      "name": "Chip Away The Stone",
-      "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
+      "duration_ms": 217902,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Push Play",
-        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+        "name": "Gems",
+        "url": "https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 217902,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
+      "duration_ms": 242256,
+      "name": "Chip Away The Stone",
+      "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
     },
     {
       "added_at": null,

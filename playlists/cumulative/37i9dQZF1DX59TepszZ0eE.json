@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og?si=IYyfPa41TjeStwSPU7D1nA>Ntokozo Mbabo</a>\"",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>\"",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 372116,
       "name": "Emmanuel (Live)",
       "url": "https://open.spotify.com/track/5waXRF9RxJTy2JtONi4cPc"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 334400,
       "name": "Emmanuel - Live",
       "url": "https://open.spotify.com/track/2h3qJG8J2rPAb6Kgo7dOwC"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 232620,
       "name": "Ngiyekele",
       "url": "https://open.spotify.com/track/4odhbXjDIOEXnNEKVzEMPb"
@@ -5386,6 +5386,24 @@
       "duration_ms": 553152,
       "name": "Uyabusa (Live at the Durban Icc)",
       "url": "https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU"
+    },
+    {
+      "album": {
+        "name": "Uyalalela (Live)",
+        "url": "https://open.spotify.com/album/7hP10amvzadvsSXDc19vdG"
+      },
+      "artists": [
+        {
+          "name": "Nozipho Phiri",
+          "url": "https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630480,
+      "name": "Uyalalela (Live)",
+      "url": "https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm"
     },
     {
       "album": {

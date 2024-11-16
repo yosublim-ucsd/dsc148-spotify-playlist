@@ -4,20 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,416 likes - 11 songs - 45 min 36 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,416 likes - 13 songs - 43 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tallulah](https://open.spotify.com/track/4VTjwGmtr5rkubx3i4gLG6) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Tallulah](https://open.spotify.com/album/0zVJBPrJMcuD9DuJtFyCLt) | 3:53 |
-| 2 | [Closer To God](https://open.spotify.com/track/0M0MWTzBi9kFh6K6Pl910A) | [The Maze](https://open.spotify.com/artist/61wBPKlSoRqGn4X2QArndI), [Magnus Styrén](https://open.spotify.com/artist/5MQ3zlfGxlUusAmHCBPnG7) | [Closer To God](https://open.spotify.com/album/1IoBLz8FbhGtbVVTq8YgsZ) | 4:00 |
-| 3 | [Stand And Behold](https://open.spotify.com/track/0Venvpz7lvcQblIT877LJD) | [Marko Kattilakoski](https://open.spotify.com/artist/6Txkvc6QZf8Qfr3YyEgdnR), [West11](https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK) | [Stand And Behold](https://open.spotify.com/album/5OwnXjVVbxbCVifSUk1qf7) | 4:23 |
-| 4 | [Eläköön hän!](https://open.spotify.com/track/5lgD3SgNkiDEJhyBBSe8AO) | [Janne Masalin](https://open.spotify.com/artist/5rp6LWIIqxqq4swyJNhoJM) | [Eläköön hän!](https://open.spotify.com/album/6BtpMyBbKScCgCiMQq9GBO) | 3:28 |
-| 5 | [Control Me](https://open.spotify.com/track/5marepbYlmggEv84I4Oph2) | [G.H.T](https://open.spotify.com/artist/34PbvrclYsNyDya3Obsz3D) | [Control Me](https://open.spotify.com/album/5k8hBpLypqkMEXHrjMwmPm) | 3:35 |
-| 6 | [Who's Gonna Keep Me Holding On](https://open.spotify.com/track/1MFiB1Uy4ZKL3DnX47Hvoq) | [Midnight Housework](https://open.spotify.com/artist/1JugG6Jq67481f10NXby8r) | [Who's Gonna Keep Me Holding On](https://open.spotify.com/album/71ZE2Kh1o3lIlC8Txrw8PQ) | 3:28 |
-| 7 | [Power](https://open.spotify.com/track/5PohTrnkxewttlmG15KLUO) | [MALIS](https://open.spotify.com/artist/2xvOaZUV91ID0Ykw9iB4cR) | [Power](https://open.spotify.com/album/6B73bRhIMmccizMZIwBVxB) | 3:06 |
-| 8 | [Big Deal](https://open.spotify.com/track/3nd6BIo7cAYciFWyvkGVDO) | [Torbjörn Langborn](https://open.spotify.com/artist/4PwC1M4GYKQflVWEcEN8Hc) | [Kind of Eye](https://open.spotify.com/album/54oqMghmKVNdR3UTuy9ygb) | 4:07 |
-| 9 | [Beautiful Stress](https://open.spotify.com/track/1o542pTeP674fr47E9dcwj) | [Roel Garcia Serrano](https://open.spotify.com/artist/4VLrleYEk2oLPeuoYKaR0C), [Roel](https://open.spotify.com/artist/5o8wdPEcPmofWUzO6E3FdV) | [Beautiful Stress](https://open.spotify.com/album/4TvOUPpunyx6ufIiGcCvtk) | 9:48 |
-| 10 | [Made A Mistake](https://open.spotify.com/track/0pU4ogzlgvZ7Qen5EFw4pc) | [TheRealDeez](https://open.spotify.com/artist/1INqmKjV3U8q0KAz2aECU3) | [Made A Mistake](https://open.spotify.com/album/5dqTQTkVbAuFfdkEoBqyPZ) | 3:46 |
-| 11 | [The Industry](https://open.spotify.com/track/53fKeadBSqhpLoOqrIZ7fT) | [TheTrillionMusic](https://open.spotify.com/artist/1A8YbW7eOnlc6DEdmwdfuq) | [The Industry](https://open.spotify.com/album/1HYhPilp0RXEngeYEpYl37) | 1:58 |
+| 1 | [My Story \- RGAZZI VIP Mix](https://open.spotify.com/track/0KbPVrD5K0xg49FVS6yyt5) | [TRIP RGAZZI](https://open.spotify.com/artist/0SK8CcodNPQb6on1zFWq5e) | [My Story \(RGAZZI VIP Mix\)](https://open.spotify.com/album/3ApV5dOHNlSG5IqBgVn3PP) | 3:04 |
+| 2 | [Out of Reach](https://open.spotify.com/track/3EXiP29KaHYoEj4we37Gjv) | [All.ways](https://open.spotify.com/artist/0EtkzB7TOBH5P0vq2GqKXK) | [Out of Reach](https://open.spotify.com/album/5EhLWjGJV2mUo7g4w1EPgl) | 2:13 |
+| 3 | [back n forth](https://open.spotify.com/track/1Kv9qCDWno2cWDkKSmq4tX) | [happytree](https://open.spotify.com/artist/5UBfVxzuki4jF6yfZ8Omo2) | [back n forth](https://open.spotify.com/album/462SXqMIRZAs0NHIkEERFS) | 2:01 |
+| 4 | [Always Been You](https://open.spotify.com/track/2SQ8KYpoWBg0uTj4jUjkk0) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL), [Mariah LaPonsa](https://open.spotify.com/artist/6nzCOeN4sqhLFCo5HLkD5a) | [NOT COUNTRY ENOUGH](https://open.spotify.com/album/55CBMGg1agVy44mUEhGsgE) | 4:02 |
+| 5 | [Godless](https://open.spotify.com/track/3ikeqLMFRaxhkDOhaMnDCm) | [Tryin' Within](https://open.spotify.com/artist/7EjB3LoSndwIDrVYzAttUE) | [Godless](https://open.spotify.com/album/7fEwz8ba43ja5cXdfycyxp) | 4:12 |
+| 6 | [hush hush](https://open.spotify.com/track/2TQTCMFmoqHcVuh86x66E8) | [Mara Liddle](https://open.spotify.com/artist/2PaZwJzCnxNoIwXj2kROEy) | [hush hush](https://open.spotify.com/album/3kVW8VJJOdnms7AlHOjfWq) | 2:56 |
+| 7 | [Elevation](https://open.spotify.com/track/6nPpaIwWpNN1eBQoDwzot6) | [Electrofrequency](https://open.spotify.com/artist/4pFECotgget0QJ0IvK13eY) | [Elevation](https://open.spotify.com/album/4vVgNri3uLo2ET8KWJKs1u) | 3:39 |
+| 8 | [Sickness Painted Eyes](https://open.spotify.com/track/5SqOazAenyV2N63GiUTZow) | [Soft Top Saab](https://open.spotify.com/artist/7xXdZIGcR4rTTzMKDvDK1S) | [Sickness Painted Eyes](https://open.spotify.com/album/2q12MA6Q7LAga03FkUILbP) | 3:05 |
+| 9 | [Malé ženy](https://open.spotify.com/track/3cCYUpn3IcsKceZbVNHUKq) | [Sima na Zemi](https://open.spotify.com/artist/3eB6d8WOVsTPqZlCzYz8nn) | [Noci plné bubliniek](https://open.spotify.com/album/7fEexL6cvd8KBh3d05hi8l) | 3:53 |
+| 10 | [Nothing to Lose](https://open.spotify.com/track/5ZeplYtj6Ml1m5hYPw7gNT) | [Les Fontanelles](https://open.spotify.com/artist/5Zg0zIZMFjAYwMAYMiIq73) | [Les Fontanelles](https://open.spotify.com/album/01UiYNTfZDwpDJRDBGFcdP) | 3:58 |
+| 11 | [Lost Lovers](https://open.spotify.com/track/4Vo23axHSb6SHrvNCtDpkp) | [SOPHIA](https://open.spotify.com/artist/6FulqiAftIViXmfGxs1aHz) | [Lost Lovers](https://open.spotify.com/album/2sT4aZReV8Tpabwj7aRsec) | 4:01 |
+| 12 | [more than skin](https://open.spotify.com/track/0Xl0kLhydqOokdHkcwHSs1) | [crushrose](https://open.spotify.com/artist/3zybdsqcKmUM6S5TLk2rVm) | [more than skin](https://open.spotify.com/album/6lzXWg2ZuWN0rkRqudTql4) | 3:33 |
+| 13 | [Shattered Cosmos](https://open.spotify.com/track/47hK7wX8e6mbPv2YhxWSt6) | [Jazz Piano Pregler](https://open.spotify.com/artist/6Cu73It4X6OPWx8FX1S2et) | [Out Of A Shattered Cosmos](https://open.spotify.com/album/5zbj2hATurc9DGDZOIOila) | 3:07 |
 
-Snapshot ID: `AAAD5hSkMYtyIUV3KRtREaV+5DM7eujL`
+Snapshot ID: `AAAD6NT1aQMDSygHFmgVE64/EOthrmDA`

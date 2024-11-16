@@ -537,6 +537,36 @@
     },
     {
       "album": {
+        "name": "10 ans !",
+        "url": "https://open.spotify.com/album/0HXxKGN9OFwFM2oagtWgy5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Camille Berthollet",
+          "url": "https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI"
+        },
+        {
+          "name": "Romain Dumas",
+          "url": "https://open.spotify.com/artist/1wTP51GSC6stv5BbPdMVrx"
+        },
+        {
+          "name": "Orchestre National Bordeaux Aquitaine",
+          "url": "https://open.spotify.com/artist/3pCPus3pU3880L4RVwppF9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143920,
+      "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs (Instrumental Version)",
+      "url": "https://open.spotify.com/track/0ylN9X8VY0qwzTLrIo586O"
+    },
+    {
+      "album": {
         "name": "The Lark Ascending collection",
         "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
       },

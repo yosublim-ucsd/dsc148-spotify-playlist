@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: verycoybunny\(베리코이버니\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,742 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,817 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 72 | [Dear My Sorrow \(Doop\)](https://open.spotify.com/track/2wrHL1hJ3UmRFKIgCCsNbu) | [Add All Ears](https://open.spotify.com/artist/6uZ4zg2t2yCRACJJAHetgs) | [Dear My Sorrow](https://open.spotify.com/album/46R8yonAYUnizLWonwG1Vx) | 4:02 |
 | 73 | [Rainy day](https://open.spotify.com/track/6tSztzpkB3DzWOG5HdvJ9o) | [Daniel Jo](https://open.spotify.com/artist/0UavVCjgjRfJQJN4VWDKGs) | [Rainy day](https://open.spotify.com/album/0oVw6DTg4dXI23iILj9csh) | 3:09 |
 | 74 | [Bad \(feat\. Ji ahn\)](https://open.spotify.com/track/17NkIhmtTSLJe36c4avYpd) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn), [Ji ahn](https://open.spotify.com/artist/7p5TxIRVe3keYFDbXp5frm) | [illusion](https://open.spotify.com/album/2maGAQ0vI0etyfBhxDd7oq) | 2:36 |
-| 75 | [Idleness and summer](https://open.spotify.com/track/6rd3PcFe6PnLEAgRMTpCjU) | [Jin Hwi PARK](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Idleness and summer](https://open.spotify.com/album/6s9VRfX6cHuZtn7LuP5Dou) | 3:34 |
+| 75 | [Idleness and summer](https://open.spotify.com/track/6rd3PcFe6PnLEAgRMTpCjU) | [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Idleness and summer](https://open.spotify.com/album/6s9VRfX6cHuZtn7LuP5Dou) | 3:34 |
 | 76 | [you still break my hearts](https://open.spotify.com/track/3KRWav3WkqCSF0bdTEjHey) | [cory jan](https://open.spotify.com/artist/69PvdRC1vnu2zpsX5fXuHi) | [you still break my hearts](https://open.spotify.com/album/6j4TPD2c8oFVzH9ylJaKqP) | 2:41 |
 | 77 | [Spielplatz](https://open.spotify.com/track/3mQlBNnKPKHcqDPZIhhudD) | [jiseau](https://open.spotify.com/artist/7sU98UJRUD9QSjKWsCQVbU) | [Spielplatz](https://open.spotify.com/album/4M1BFpGth22rS4JiUNYiur) | 3:19 |
 | 78 | [한잔해](https://open.spotify.com/track/63JiLIQzycuf9bvK5xrHvn) | [kiwasulli](https://open.spotify.com/artist/3qge5Ct9ZrQRP4VGqoiqxM) | [한잔해](https://open.spotify.com/album/4wXvS1a1jwKk9JmDuqTEij) | 3:06 |

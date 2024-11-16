@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with MUST DIE!",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with Sammy Virji & Interplanetary Criminal",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 175448,
       "name": "All Night - nikko Remix",
       "url": "https://open.spotify.com/track/41iPKptMuGsJ4FKm73e9RB"
@@ -918,6 +918,24 @@
       "duration_ms": 136000,
       "name": "As Above So Below",
       "url": "https://open.spotify.com/track/5ZYi0t2DmjYEIvANnvHYKN"
+    },
+    {
+      "album": {
+        "name": "as i do",
+        "url": "https://open.spotify.com/album/5zMh7cULaOC4aovstHJc2K"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144044,
+      "name": "as i do",
+      "url": "https://open.spotify.com/track/18gjLS71ghGPo3aH1yiPvD"
     },
     {
       "album": {
@@ -4313,6 +4331,28 @@
     },
     {
       "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "album": {
         "name": "Dancing With Myself",
         "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
       },
@@ -5426,7 +5466,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 240000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
@@ -7488,7 +7528,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 248000,
       "name": "FINDING SILENCE (feat. Northside Hollow)",
       "url": "https://open.spotify.com/track/1xzR4DrNBk6klyHFB3PXOE"
@@ -8019,6 +8059,28 @@
     },
     {
       "album": {
+        "name": "Foul Tarnished",
+        "url": "https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189926,
+      "name": "Foul Tarnished",
+      "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
+    },
+    {
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
       },
@@ -8319,6 +8381,24 @@
     },
     {
       "album": {
+        "name": "GATEKEEPER",
+        "url": "https://open.spotify.com/album/1cc92QAKcg66F5NWqbZE6t"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "GATEKEEPER",
+      "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g"
+    },
+    {
+      "album": {
         "name": "Get Off The Internet",
         "url": "https://open.spotify.com/album/5xC01jwR6bx7eVyX4NbAIP"
       },
@@ -8606,7 +8686,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 107793,
       "name": "Goblin Mode",
       "url": "https://open.spotify.com/track/5IbdRBgL9g3BqjT7PcbioK"
@@ -9717,6 +9797,28 @@
     },
     {
       "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/19aBg1eqG7DxEitPxpFmpw"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/7laIQ9l8UZSsw2dB2VZ8Kr"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/5DHsVZL9oM9aNwCAfpSMRZ"
       },
@@ -10415,6 +10517,28 @@
     },
     {
       "album": {
+        "name": "IJUSTWANNA",
+        "url": "https://open.spotify.com/album/3zNemNKV2qjm7R50IIZRpy"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179144,
+      "name": "IJUSTWANNA",
+      "url": "https://open.spotify.com/track/7a0YkuVvfsSeJm8OaYUqRQ"
+    },
+    {
+      "album": {
         "name": "IMY",
         "url": "https://open.spotify.com/album/3pXGgFbJZ0buvxaMQgdAjv"
       },
@@ -10474,7 +10598,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 226000,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV"
@@ -10616,7 +10740,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 206400,
       "name": "In Your Eyes - Nikita, the Wicked Remix",
       "url": "https://open.spotify.com/track/59EqfPYDPrVpMYOizjiqQr"
@@ -10722,6 +10846,36 @@
       "duration_ms": 205241,
       "name": "Inhale Exhale",
       "url": "https://open.spotify.com/track/4cCfprh4NrvyLGKN2rOCO7"
+    },
+    {
+      "album": {
+        "name": "Insane (feat. Smokey)",
+        "url": "https://open.spotify.com/album/2H8HiM2kQdS0UB7uruMeXD"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "GAWM",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Smokey",
+          "url": "https://open.spotify.com/artist/3jxeWOIj5CnXfzYe4QBWz8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Insane (feat. Smokey)",
+      "url": "https://open.spotify.com/track/5shITezD8AudYWChmZtz9T"
     },
     {
       "album": {
@@ -11818,6 +11972,28 @@
       "duration_ms": 153600,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Ybl2ps2tWOsD7rbiMU0Id"
+    },
+    {
+      "album": {
+        "name": "The R\u267e\ufe0fts",
+        "url": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM"
     },
     {
       "album": {
@@ -19212,7 +19388,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 198041,
       "name": "STRATOSPHERE",
       "url": "https://open.spotify.com/track/3B5XMQi9y9GjRODZhOUfE5"
@@ -19422,6 +19598,24 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
     },
     {
       "album": {
@@ -20732,7 +20926,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 170000,
       "name": "Too Hard",
       "url": "https://open.spotify.com/track/4R3aITErTcr9XHBO40gc8v"
@@ -20820,7 +21014,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 165120,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD"
@@ -22206,6 +22400,36 @@
       "duration_ms": 233689,
       "name": "Where You At",
       "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
+    },
+    {
+      "album": {
+        "name": "Wicked & Dark",
+        "url": "https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190628,
+      "name": "Wicked & Dark",
+      "url": "https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA"
     },
     {
       "album": {

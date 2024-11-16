@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "album": {
         "name": "Aviator",
         "url": "https://open.spotify.com/album/5VI1VyyLgDgYSm3wNRpaKx"
       },
@@ -1835,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Lazarus (The Apparition)",
+        "url": "https://open.spotify.com/album/39KCufkWMJcxcTC2g0cDDk"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262588,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/6CvTgkhw1PYJtjrgQks4rg"
+    },
+    {
+      "album": {
         "name": "Blood Hot",
         "url": "https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy"
       },
@@ -2064,6 +2108,32 @@
       "duration_ms": 215510,
       "name": "Brodo",
       "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
+    },
+    {
+      "album": {
+        "name": "Brother Man, Pt. 2",
+        "url": "https://open.spotify.com/album/4ZjIdlDvnJH6JvoodyphgY"
+      },
+      "artists": [
+        {
+          "name": "Gbolar Mighty",
+          "url": "https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp"
+        },
+        {
+          "name": "Lucid",
+          "url": "https://open.spotify.com/artist/3cjEMTtZxe49tUrhUEwrVZ"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194063,
+      "name": "Brother Man, Pt. 2",
+      "url": "https://open.spotify.com/track/51qkZ8WYyU0Ii0aSdIqfox"
     },
     {
       "album": {
@@ -2517,7 +2587,7 @@
     },
     {
       "album": {
-        "name": "Cold War",
+        "name": "Cold War (with FAVE)",
         "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
       },
       "artists": [
@@ -4310,7 +4380,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 140120,
       "name": "Gbegesi Not",
       "url": "https://open.spotify.com/track/4fWhJ16TgW15oi0tBxtJ5r"
@@ -4328,7 +4398,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 134838,
       "name": "Gbemi",
       "url": "https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH"
@@ -4650,7 +4720,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157714,
       "name": "Grind",
       "url": "https://open.spotify.com/track/0IuFUw34z1kSdnU8pCzZKX"
@@ -4916,6 +4986,28 @@
       "duration_ms": 157100,
       "name": "Hey! - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP"
+    },
+    {
+      "album": {
+        "name": "High Vibration",
+        "url": "https://open.spotify.com/album/1nnhVxNuPKDttNJ3OnAkGS"
+      },
+      "artists": [
+        {
+          "name": "Enaky",
+          "url": "https://open.spotify.com/artist/3ve8stsOBoiayDuVU5X724"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "High Vibration",
+      "url": "https://open.spotify.com/track/2VXw63uIfb0p4Wr5bOmWAM"
     },
     {
       "album": {
@@ -5264,6 +5356,32 @@
       "duration_ms": 209264,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L"
+    },
+    {
+      "album": {
+        "name": "Niggas From The South",
+        "url": "https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Hitboy Kellz",
+          "url": "https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/612ZmfgN8sC6XYXnnTi42v"
     },
     {
       "album": {
@@ -6862,7 +6980,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 174080,
       "name": "Light",
       "url": "https://open.spotify.com/track/6dYa2veuV3Kam5Ihxl5Oyj"
@@ -7599,6 +7717,28 @@
     },
     {
       "album": {
+        "name": "Niggas From The South",
+        "url": "https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "Money Long",
+      "url": "https://open.spotify.com/track/62XYvzEYmhxet6HpkaV35Q"
+    },
+    {
+      "album": {
         "name": "Money Road",
         "url": "https://open.spotify.com/album/0WmazXdNjuGZyKwRnPWwFY"
       },
@@ -7672,7 +7812,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 158150,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/7MXg2JYeYp9RUGhoRbZhTn"
@@ -10202,7 +10342,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 193043,
       "name": "Salam",
       "url": "https://open.spotify.com/track/1vLStnc9ynBzPihr218WfT"
@@ -10286,6 +10426,28 @@
       "duration_ms": 196902,
       "name": "SENSATION",
       "url": "https://open.spotify.com/track/1apopV3Q5tF8ZqgpmLQc3C"
+    },
+    {
+      "album": {
+        "name": "Shalaye",
+        "url": "https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145017,
+      "name": "Shalaye",
+      "url": "https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu"
     },
     {
       "album": {
@@ -10614,7 +10776,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 125332,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/0EVSkel9WGuCaF3T18rVf6"

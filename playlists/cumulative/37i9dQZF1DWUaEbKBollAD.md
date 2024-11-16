@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-123 songs - 12 hr 18 min
+124 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Spiritum](https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Spiritum](https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn) | 3:13 | 2024-03-22 |  |
 | [Spiritum \- Giorgia Angiuli Remix](https://open.spotify.com/track/2bi41qfJ9J6yCNVecYZfSt) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Spiritum \(The Remixes\)](https://open.spotify.com/album/0Y2oWCQtDxs7xtRSnEzs6i) | 3:33 | 2024-07-29 | 2024-10-02 |
 | [Subati \- Andhim's Electrica Cucar Remix](https://open.spotify.com/track/28MustrkeetS4sdar9Z345) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Noordhoek Remixed](https://open.spotify.com/album/5pSmBZvHnBAZkC7ZCzavxr) | 7:01 | 2023-08-10 | 2023-09-07 |
-| [Tahat](https://open.spotify.com/track/5Iu6g7iiycDv4m6ZEg2QC6) | [Nairobi D](https://open.spotify.com/artist/58qioFFihiBbP8EqZfbm69) | [Cancún](https://open.spotify.com/album/3iNNWsYTyOYjukDSczPikU) | 7:31 | 2023-08-10 |  |
+| [Tahat](https://open.spotify.com/track/5Iu6g7iiycDv4m6ZEg2QC6) | [Nairobi D](https://open.spotify.com/artist/58qioFFihiBbP8EqZfbm69) | [Cancún](https://open.spotify.com/album/3iNNWsYTyOYjukDSczPikU) | 7:31 | 2023-08-10 | 2024-11-16 |
 | [Te Amo Madrid](https://open.spotify.com/track/3E8XrHNaQJYeDIPrfnEStJ) | [Lara Klart](https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2) | [Te Amo Madrid](https://open.spotify.com/album/0ULzCsCrzvEQIZhfceq5om) | 4:05 | 2024-06-20 |  |
 | [Thank You So Much](https://open.spotify.com/track/4GQmmt4MNqJJJvQeLUNqCN) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Thank You So Much](https://open.spotify.com/album/52nZh4I7scACkidYNOrLhD) | 6:08 | 2023-11-24 | 2024-07-30 |
 | [The Feeling](https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Feeling](https://open.spotify.com/album/6pEhtURKta65mrPTSKBn7e) | 8:32 | 2023-08-10 | 2023-11-07 |
+| [The Moment](https://open.spotify.com/track/4s5Exhx0XrDLLvpgNuXaCI) | [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [Coexist](https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf) | [The Moment](https://open.spotify.com/album/3vX5mMRLcvvpFXh0g0iTqA) | 2:48 | 2024-11-15 |  |
 | [The Power Plant \- Bardeeya Remix](https://open.spotify.com/track/5KKSzFYseqKgygFpMcVrGD) | [High On Mars](https://open.spotify.com/artist/2l18FuG93ODbT7h1njr1dp), [Bardeeya](https://open.spotify.com/artist/2NzfOTW0EbtlSuGyqwKrGL) | [The Power Plant](https://open.spotify.com/album/40YknsGoimQsFLB74TyAC9) | 6:44 | 2023-08-10 | 2023-11-07 |
 | [Time Lapse](https://open.spotify.com/track/4i1EbmkDfMtMdFubt3VVDA) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Time Lapse](https://open.spotify.com/album/0e2nTuUQoDMP7LmYEGwX0b) | 5:36 | 2023-08-10 | 2023-11-25 |
 | [Tomorrow](https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb) | [Bapper Berny](https://open.spotify.com/artist/2BnQfcyNz4DoZdZZ1OiDqP) | [Psytrance Illusions](https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe) | 2:24 | 2023-08-10 |  |

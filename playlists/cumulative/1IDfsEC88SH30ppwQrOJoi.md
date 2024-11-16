@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-349 songs - 18 hr 5 min
+350 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Hangin' On](https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hangin' On](https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G) | 3:15 | 2024-07-26 |  |
 | [He's So Good \- Radio Edit](https://open.spotify.com/track/2lUe2rasBNZMicZPxZRyl8) | [Gruvee](https://open.spotify.com/artist/43OYTebbV6R14NZCWsf30N) | [He's So Good](https://open.spotify.com/album/3SLE0wzDo2wUlckDzVT7zH) | 3:17 | 2023-04-14 | 2024-03-14 |
 | [Historia De Un Amor](https://open.spotify.com/track/0Ftna4jjTEiXBgN7TydtqK) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Historia De Un Amor](https://open.spotify.com/album/7xDHGRg5PuEyiD38LrcVzN) | 4:20 | 2024-01-19 | 2024-03-14 |
+| [Hold Me Up \- Club Mix](https://open.spotify.com/track/3jTJxNAnY1PiS8Rw8nG2Ak) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj), [Beau Rêve](https://open.spotify.com/artist/7vCjnEisCy0S3vF2ft8bUA) | [Hold Me Up \(feat\. Beau Rêve\)](https://open.spotify.com/album/7i5Mdf5eCErqBa1vJvAypC) | 5:13 | 2024-11-15 |  |
 | [Holding On](https://open.spotify.com/track/73YYHlDGtYetZWkGem3nQk) | [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Holding On](https://open.spotify.com/album/4BWfXZ5p7w9BltOeikz8Dq) | 4:10 | 2023-09-30 | 2024-03-14 |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2024-04-26 | 2024-08-03 |
 | [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 | 2024-10-31 |  |

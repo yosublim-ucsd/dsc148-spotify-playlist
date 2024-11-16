@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,780 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 34 | [Hassde Reho](https://open.spotify.com/track/2Z9SC02MBAAX1SfkcRsvWN) | [Guri Ambarsaria](https://open.spotify.com/artist/2ZOQVvugf47U3aJV4OpXE5) | [Hassde Reho](https://open.spotify.com/album/4RuK5blWv0Ujrr0beqxVA9) | 2:39 |
 | 35 | [Stay With Me](https://open.spotify.com/track/4J51iI3X0qhc4wnfJE5B15) | [Sikkander](https://open.spotify.com/artist/5VrBVrPCCkw93feEHBkR8f) | [Stay With Me](https://open.spotify.com/album/3hlD7lg7YauBdLuLMSlFHc) | 2:54 |
 | 36 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 |
-| 37 | [Takeover](https://open.spotify.com/track/6WT7WaAnzRpRK5pstlNECF) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Street Code](https://open.spotify.com/album/63KSe8ACcXuzAjg8SVBNyM) | 2:57 |
+| 37 | [Takeover](https://open.spotify.com/track/6WT7WaAnzRpRK5pstlNECF) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Street Code](https://open.spotify.com/album/63KSe8ACcXuzAjg8SVBNyM) | 2:57 |
 | 38 | [Rich Life](https://open.spotify.com/track/2vWFL9GDgCrAvycqWvPVj2) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S) | [Rich Life](https://open.spotify.com/album/5jmBYAUyG3nqevklnEAnNO) | 2:17 |
 | 39 | [Big Loss](https://open.spotify.com/track/76voghdL792BAy9YwEKfzw) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Big Loss](https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP) | 2:45 |
 | 40 | [Rubi Kon?](https://open.spotify.com/track/2YUuQdYenYuVQh8L45ZyCv) | [Ruban Buttar](https://open.spotify.com/artist/1U0l9iwnxY6s6IGANtXQYV) | [Rubi Kon?](https://open.spotify.com/album/4NlM5deMG1ozwIF0h7uU8T) | 2:57 |

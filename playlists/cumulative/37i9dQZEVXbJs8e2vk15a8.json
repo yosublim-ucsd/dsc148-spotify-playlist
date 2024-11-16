@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 144014,
       "name": "Amiga Ya Mat\u00f3",
       "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201052,
       "name": "Barro",
       "url": "https://open.spotify.com/track/131d6Ui0C7bsQPeprvawCy"
@@ -5472,7 +5472,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -17173,6 +17173,24 @@
     },
     {
       "album": {
+        "name": "Come into My Life",
+        "url": "https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
+    },
+    {
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -17192,7 +17210,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -21280,7 +21298,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 238160,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/0zNeZTy7nLEWCRrBgjrBx5"
@@ -21302,7 +21320,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
@@ -32064,7 +32082,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 157209,
       "name": "noviogangsta <3",
       "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
@@ -32578,6 +32596,24 @@
       "duration_ms": 278361,
       "name": "Ojos de Angel",
       "url": "https://open.spotify.com/track/0xDElWVGd6RIzxdso3FPLy"
+    },
+    {
+      "album": {
+        "name": "2 0 1 6",
+        "url": "https://open.spotify.com/album/79Px0FtMG31rnE4DPyeEod"
+      },
+      "artists": [
+        {
+          "name": "ENMA",
+          "url": "https://open.spotify.com/artist/0ZaTm0PRIY0Np86XpWY6C6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237590,
+      "name": "Ojos De Angel 2",
+      "url": "https://open.spotify.com/track/2wLNhvcSsoDDSZQp2DdaKD"
     },
     {
       "album": {
@@ -39184,7 +39220,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
@@ -43136,7 +43172,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201027,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R"
@@ -48822,7 +48858,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -48840,7 +48876,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -50588,7 +50624,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 201290,
       "name": "\u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/7eDECObfvicrHyWQuevmHf"

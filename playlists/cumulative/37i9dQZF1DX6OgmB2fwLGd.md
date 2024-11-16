@@ -4,7 +4,7 @@
 
 > 2hollis\. Born and raised on the internet.
 
-1,079 songs - 1 day 19 hr 55 min
+1,080 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2022-01-21 | 2022-05-21 |
 | [NO IDEA \#jerseyclub \- Ziahfyah & Indo2x Remix](https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [NO IDEA \#jerseyclub \(Ziahfyah & Indo2x Remix\)](https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF) | 2:36 | 2024-03-13 |  |
 | [No Letting Go](https://open.spotify.com/track/5h6ltqklsMyCO13Yl86Lgf) | [h1mward](https://open.spotify.com/artist/2nQJ3BJ6fuF2eFHWEaKE2H) | [No Letting Go](https://open.spotify.com/album/1koHUerstUM6yntvj5oVZH) | 1:53 | 2024-01-26 | 2024-07-31 |
+| [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2024-11-15 |  |
 | [No Problems](https://open.spotify.com/track/4fcXf7kKugatldnInKIH4V) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa), [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [No Problems](https://open.spotify.com/album/4SWdu2bBKO9DkuwbnK8I7o) | 3:08 | 2023-10-27 | 2024-03-16 |
 | [NO REASON](https://open.spotify.com/track/18ozMl22W8EC2ZoxIiTwLx) | [Lil Snvrk](https://open.spotify.com/artist/6Cu1tn4J5gXoXfz9eSE8Fr), [ian](https://open.spotify.com/artist/2INxMX1UW4zQwgQcJMdliu) | [NO REASON](https://open.spotify.com/album/1VMN7QIuavSVp0ld63KOmj) | 2:08 | 2024-05-31 | 2024-07-31 |
 | [No Smoke \(feat\. DC The Don\)](https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK IN ACTION 2.0](https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE) | 3:26 | 2021-12-16 | 2022-02-05 |

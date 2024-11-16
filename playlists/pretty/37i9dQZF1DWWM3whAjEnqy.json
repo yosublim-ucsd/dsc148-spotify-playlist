@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43784,
+  "num_followers": 43796,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 211943,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Silence/Win",
         "url": "https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 248733,
       "name": "Window to the Sky",
       "url": "https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 211943,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Perennial",
         "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 305120,
       "name": "Mended",
       "url": "https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "LO LA RU",
-        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
         }
       ],
-      "duration_ms": 212173,
-      "name": "God Forgot",
-      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+        "name": "LO LA RU",
+        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
       },
       "artists": [
         {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
         }
       ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+      "duration_ms": 212173,
+      "name": "God Forgot",
+      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Get On Board",
-        "url": "https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq"
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
       },
       "artists": [
         {
-          "name": "The Badloves",
-          "url": "https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc"
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Green Limousine",
-      "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
+      "duration_ms": 266493,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Between You and Me",
-        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
+        "name": "Get On Board",
+        "url": "https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq"
       },
       "artists": [
         {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+          "name": "The Badloves",
+          "url": "https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
+      "duration_ms": 225773,
+      "name": "Green Limousine",
+      "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
     }
   ],
   "unique_name": "Coast to Coast",

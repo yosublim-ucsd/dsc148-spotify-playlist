@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di  Diss Gacha, Capo Plaza, Icy Subzero, Lorenzza e tanti altri! 🔥
 
-4,455 songs - 8 day 7 hr 54 min
+4,456 songs - 8 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1527,6 +1527,7 @@
 | [FUCKED UP](https://open.spotify.com/track/6xkMeuPPVQkwHa64FxEVaY) | [€L Capo](https://open.spotify.com/artist/6Y1Nfy3W30ABJKl4BUZ4OI), [Rùbén](https://open.spotify.com/artist/0FFOW9tb0h0gYlUpqOaySM) | [FUCKED UP](https://open.spotify.com/album/687XGgU4m3dInn3b8mTQPS) | 2:59 | 2024-03-14 | 2024-03-22 |
 | [Fucking Heroes](https://open.spotify.com/track/3cg0JGCTbQtSTdKtrNcLeX) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [WVNNV](https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp) | [Fucking Heroes](https://open.spotify.com/album/0njKI3DebXUOn2l6VL0RxH) | 2:02 | 2023-02-09 | 2023-03-03 |
 | [FUEGO](https://open.spotify.com/track/2k0lyGHBhhH0oqlQO89jpZ) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [FUEGO](https://open.spotify.com/album/6LhpKWPTsU2ymlFVAHPhdA) | 2:57 | 2023-05-18 | 2023-06-02 |
+| [Fuga dalla realtà](https://open.spotify.com/track/3bs47368N01rWjCf7pYr2t) | [MA7DI](https://open.spotify.com/artist/4qHOnCnQ7cKuAIstfD7ATj) | [Fuga dalla realtà](https://open.spotify.com/album/3zqR8Ccl7wqCVskJLIlokT) | 2:42 | 2024-11-14 |  |
 | [FUJIN E RAIJIN](https://open.spotify.com/track/6HbnP7T6iCCsIZct67nRJR) | [Roile](https://open.spotify.com/artist/0AzIVU4A342TG6528cWIxq), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [FUJIN E RAIJIN](https://open.spotify.com/album/6XgAqYLMYUtmxkU292VexM) | 2:11 | 2024-02-08 | 2024-02-27 |
 | [FULL CONNECTED](https://open.spotify.com/track/26qI8WYPr7TiFy4BBNUa4K) | [EL FLACO](https://open.spotify.com/artist/6ySrXdnIfAYVQ8lMd94X7U), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr) | [CALABRIAN SEASON](https://open.spotify.com/album/5G9xPAtLzb4SAWNSKEQOLr) | 3:04 | 2023-07-20 | 2023-07-28 |
 | [FUMA PASSO](https://open.spotify.com/track/2aHPiIckvZQvqBSdbxteP6) | [Reed](https://open.spotify.com/artist/4eFBfxE5UExIHvWamPhByA) | [FUMA PASSO](https://open.spotify.com/album/3ccvqPinDSqqwI4lZPPJyA) | 2:39 | 2023-01-19 | 2023-02-03 |

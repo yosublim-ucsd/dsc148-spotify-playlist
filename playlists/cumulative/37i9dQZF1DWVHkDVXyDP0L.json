@@ -5105,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71"
+      },
+      "artists": [
+        {
+          "name": "Beddy Rays",
+          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265525,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9"
+    },
+    {
+      "album": {
         "name": "NARA",
         "url": "https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT"
       },

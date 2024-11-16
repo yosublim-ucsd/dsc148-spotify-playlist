@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "12AM",
+        "url": "https://open.spotify.com/album/605rOcFLIedsNqbwNlaUD2"
+      },
+      "artists": [
+        {
+          "name": "Woven",
+          "url": "https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "12AM",
+      "url": "https://open.spotify.com/track/3ssh7AfKXUOzW65dcFspqr"
+    },
+    {
+      "album": {
         "name": "1500",
         "url": "https://open.spotify.com/album/0ChMTc5J9XvwcuqK0ShEPx"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 454760,
       "name": "Acid Orchestra",
       "url": "https://open.spotify.com/track/1qF5UKjtCMYS55FKteANM8"
@@ -2553,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Area",
+        "url": "https://open.spotify.com/album/1CtupKroTEzQNRuuSSEYLj"
+      },
+      "artists": [
+        {
+          "name": "\u232d IceMorph \u232c",
+          "url": "https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Area",
+      "url": "https://open.spotify.com/track/75Urs6b0XTdL0v28Rkuw34"
+    },
+    {
+      "album": {
         "name": "Ares",
         "url": "https://open.spotify.com/album/3Mp1HPZU0VoS6V4PxKHFAy"
       },
@@ -2980,7 +3016,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 370416,
       "name": "Away From You",
       "url": "https://open.spotify.com/track/5QJXEfSZF7zdApCdFJc8FQ"
@@ -9747,6 +9783,28 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5Q639q8OY3ZTBQnK5Jqkuc"
+      },
+      "artists": [
+        {
+          "name": "Toribio",
+          "url": "https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ"
+        },
+        {
+          "name": "Sharin",
+          "url": "https://open.spotify.com/artist/5jhSsx7bl4cEWrlQswLQJQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257521,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2KNpdjtaAbWSoWRnkNeD3i"
+    },
+    {
+      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/2Mt9lR0RwPZYaq43LoCCWl"
       },
@@ -15944,7 +16002,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 220444,
       "name": "FRONT LEFT SPEAKER",
       "url": "https://open.spotify.com/track/4BbAQd9yHbOPF4PzDQRksr"
@@ -16480,7 +16538,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 157160,
       "name": "Get A Life",
       "url": "https://open.spotify.com/track/305Ji055GbtNECtcBig3Fc"
@@ -16636,6 +16694,28 @@
       "duration_ms": 180379,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/1aFVpLDlc604H4YxXuI3d5"
+    },
+    {
+      "album": {
+        "name": "Get To You",
+        "url": "https://open.spotify.com/album/3orVash522gFRw27xfPK5E"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        },
+        {
+          "name": "REIMOND",
+          "url": "https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/6BWkMkqcApxhpkIExG749r"
     },
     {
       "album": {
@@ -17518,7 +17598,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 260725,
       "name": "Gretel Girl - breadcrumbs",
       "url": "https://open.spotify.com/track/5e1wlfILtOCw2AlbNoR9uY"
@@ -20366,7 +20446,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 213722,
       "name": "I Stay",
       "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
@@ -22446,6 +22526,28 @@
       "duration_ms": 455986,
       "name": "Kare Kare",
       "url": "https://open.spotify.com/track/0NXZXOULYHtEQ8lO6wKAVD"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1dMhYHxoX2X342u0lk9e1V"
+      },
+      "artists": [
+        {
+          "name": "Taren Gopi",
+          "url": "https://open.spotify.com/artist/5MvVc5EUCHIn6fJ4nGMyd0"
+        },
+        {
+          "name": "Lola Murz",
+          "url": "https://open.spotify.com/artist/0loUTxULqCdi5m1lssdUMy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118967,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2xMBZvMetSqFD74DiVX8EL"
     },
     {
       "album": {
@@ -25678,6 +25780,28 @@
       "duration_ms": 324964,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/17SKTO5gc305T80NjT0YjW"
+    },
+    {
+      "album": {
+        "name": "MANIMANI",
+        "url": "https://open.spotify.com/album/4DwQKk98i3AqCT1rqv1Nep"
+      },
+      "artists": [
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "\u306a\u304b\u3080\u3089\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165542,
+      "name": "MANIMANI",
+      "url": "https://open.spotify.com/track/0eEjGpRpg4JJt7kcQ75s7y"
     },
     {
       "album": {
@@ -29026,7 +29150,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189375,
       "name": "Nothing Hurts",
       "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
@@ -30489,6 +30613,24 @@
     },
     {
       "album": {
+        "name": "Only1",
+        "url": "https://open.spotify.com/album/4UkOe79tNYJs9bFrIccEA5"
+      },
+      "artists": [
+        {
+          "name": "how2fly",
+          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193521,
+      "name": "Only1",
+      "url": "https://open.spotify.com/track/10ErnMXhKOg2FIMIJQcIZm"
+    },
+    {
+      "album": {
         "name": "OOSHA",
         "url": "https://open.spotify.com/album/2r9Hi6ivlWhQY1Wrxun4Xp"
       },
@@ -31800,7 +31942,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 269500,
       "name": "please just hold on",
       "url": "https://open.spotify.com/track/09eUfQeNR5QKW9Co7Z2psY"
@@ -33339,6 +33481,24 @@
     },
     {
       "album": {
+        "name": "Rebu",
+        "url": "https://open.spotify.com/album/7L8IJFz2a43Seo8hGl4TYT"
+      },
+      "artists": [
+        {
+          "name": "Pee J Anderson",
+          "url": "https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "Rebu",
+      "url": "https://open.spotify.com/track/3ijK81UPJIRRCgonkggrpE"
+    },
+    {
+      "album": {
         "name": "recasting your horizon",
         "url": "https://open.spotify.com/album/4rRMitJrID2C5JtlShICGp"
       },
@@ -33652,6 +33812,24 @@
       "duration_ms": 296923,
       "name": "Renata",
       "url": "https://open.spotify.com/track/58vfSQrGJXVGsqHdagApAn"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0Gj9RAWmRdiA8sQ03hA7Wr"
+      },
+      "artists": [
+        {
+          "name": "ROKAR",
+          "url": "https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/3WWeXlUnFRY4OX02dwELeo"
     },
     {
       "album": {
@@ -39340,7 +39518,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 265889,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/09yHcTOez0ZoZ4nRol9jv7"

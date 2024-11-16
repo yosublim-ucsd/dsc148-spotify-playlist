@@ -2,7 +2,7 @@
 
 ### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> ✨❤️🌹Para Rocanlovers en compañía de León Larregui
+> ✨❤️🌹Para Rocanlovers en compañía de Ximena Sariñana
 
 259 songs - 15 hr 45 min
 

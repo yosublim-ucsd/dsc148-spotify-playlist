@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "All The Quiet People",
+        "url": "https://open.spotify.com/album/5KAdJF9LZuAWPCYKWI3OAk"
+      },
+      "artists": [
+        {
+          "name": "The Cody Sisters",
+          "url": "https://open.spotify.com/artist/2dbfnU1Grj204sZ1vvbe6q"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "All The Quiet People",
+      "url": "https://open.spotify.com/track/6zNYLQNS4m5IjD0Oen872j"
+    },
+    {
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
       },
@@ -1988,6 +2006,24 @@
       "duration_ms": 219753,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/4dfQjzOZCAG8jGV3dJ1Pck"
+    },
+    {
+      "album": {
+        "name": "Don't Take It Back",
+        "url": "https://open.spotify.com/album/216dTE8BUbvZNUfbJ4GMnp"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Thomists",
+          "url": "https://open.spotify.com/artist/4Rlk8O5gNWhHumN1jKUb19"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Don't Take It Back",
+      "url": "https://open.spotify.com/track/3wOfAQbilOnpk97l0Kj8zr"
     },
     {
       "album": {
@@ -9024,6 +9060,44 @@
       "duration_ms": 202506,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "album": {
+        "name": "World Gone By",
+        "url": "https://open.spotify.com/album/2BZyJcwFsktPvWkzPzIwr6"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        },
+        {
+          "name": "Philip Bowen",
+          "url": "https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9"
+        },
+        {
+          "name": "Cloverdale Family Band",
+          "url": "https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC"
+        },
+        {
+          "name": "Shannon Lauren Callihan",
+          "url": "https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2"
+        },
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158780,
+      "name": "World Gone By - Cloverdale Version",
+      "url": "https://open.spotify.com/track/2WsxSIRPAq95EcBLqkcFoO"
     },
     {
       "album": {

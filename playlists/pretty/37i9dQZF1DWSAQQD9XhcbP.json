@@ -1,13 +1,29 @@
 {
   "description": "Cozy Christmas vibes. Cover: Laufey",
-  "num_followers": 46673,
+  "num_followers": 46768,
   "original_name": "Mellow Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzObyAAAAADyp2/9eeRTtGH892fdZOE/",
+  "snapshot_id": "ZzbVUAAAAACQF6ThkeGxYiEFWnI5WRYa",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "winter wishes",
+        "url": "https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 206403,
+      "name": "old fashioned christmas",
+      "url": "https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg"
+    },
     {
       "added_at": "2024-11-04 15:46:39",
       "album": {
@@ -25,40 +41,24 @@
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
-      "added_at": "2024-11-04 15:46:39",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Sweet December (feat. Kelly Clarkson)",
-        "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"
+        "name": "SLEIGH",
+        "url": "https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
         },
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Sweet December (feat. Kelly Clarkson)",
-      "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
-        "name": "Driving Home for Christmas - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 166551,
-      "name": "Driving Home for Christmas - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+      "duration_ms": 252086,
+      "name": "Winter Song [Feat. Ariana DeBose]",
+      "url": "https://open.spotify.com/track/2cADPODt1SJSbRo41q0MJq"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -79,6 +79,22 @@
     {
       "added_at": "2024-11-04 15:46:39",
       "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+    },
+    {
+      "added_at": "2024-11-04 15:46:39",
+      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -91,6 +107,26 @@
       "duration_ms": 320760,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "added_at": "2024-11-04 15:46:39",
+      "album": {
+        "name": "Sweet December (feat. Kelly Clarkson)",
+        "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Sweet December (feat. Kelly Clarkson)",
+      "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -123,6 +159,22 @@
       "duration_ms": 137106,
       "name": "The Cozy Song",
       "url": "https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Carols and Candlelight",
+        "url": "https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 223424,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI"
     },
     {
       "added_at": "2024-11-04 15:46:39",
@@ -771,22 +823,6 @@
     {
       "added_at": "2024-11-04 15:46:39",
       "album": {
-        "name": "Love Is Christmas",
-        "url": "https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Love Is Christmas",
-      "url": "https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/7iZnMSmamUsrqZqYKBVPBW"
       },
@@ -1371,22 +1407,6 @@
       "duration_ms": 243031,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp"
-    },
-    {
-      "added_at": "2024-11-04 15:46:39",
-      "album": {
-        "name": "merry christmas, merry christmas to you",
-        "url": "https://open.spotify.com/album/7vQqhPBC5yTwK8rNHChhEA"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 176788,
-      "name": "first winter",
-      "url": "https://open.spotify.com/track/2yvLGTo8QhsyJ7S5XK6XE5"
     },
     {
       "added_at": "2024-11-04 15:46:39",

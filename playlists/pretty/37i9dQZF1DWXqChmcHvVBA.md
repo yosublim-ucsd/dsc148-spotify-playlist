@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Kenia OS & La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,834 likes - 101 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,953 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,11 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 93 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/0xIQ84DbeIZg1G4CXK2Qlj) | 2:21 |
 | 94 | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH) | 2:29 |
 | 95 | [Wya Red Rkt](https://open.spotify.com/track/1vWOaZtFszLeAIR3Z3Ile6) | [DJ RUGG](https://open.spotify.com/artist/6K7PNZlKTdxYSYPVbgt52p) | [Wya Red Rkt](https://open.spotify.com/album/4dPkWv3xrEQXdIspppfGlz) | 2:26 |
-| 96 | [Antes Que Me Vaya](https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Celda 4](https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW) | 3:35 |
-| 97 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 |
-| 98 | [Ven Mami](https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D) | 2:51 |
-| 99 | [Al Sopi](https://open.spotify.com/track/6QGNvPtmNoPDpnzdw45FTS) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Al Sopi](https://open.spotify.com/album/2iuDEoXeGAPviZH8Ef7EnU) | 2:49 |
-| 100 | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 |
-| 101 | [Session en el Barrio \#4](https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Session en el Barrio \#4](https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO) | 2:32 |
+| 96 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 |
+| 97 | [Ven Mami](https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Ven Mami](https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D) | 2:51 |
+| 98 | [Al Sopi](https://open.spotify.com/track/6QGNvPtmNoPDpnzdw45FTS) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Al Sopi](https://open.spotify.com/album/2iuDEoXeGAPviZH8Ef7EnU) | 2:49 |
+| 99 | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 |
 
-Snapshot ID: `Zy1+sAAAAAAw9fA8gxWUbkYEG8Lti4Ik`
+Snapshot ID: `Zzc2UwAAAACs9qnVDRVj+i8hESw2ojc8`

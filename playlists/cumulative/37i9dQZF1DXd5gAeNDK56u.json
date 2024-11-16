@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Ask Somebody",
+        "url": "https://open.spotify.com/album/4JstE1rhJBLvVo8jfmzjIo"
+      },
+      "artists": [
+        {
+          "name": "Testomoron",
+          "url": "https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Ask Somebody",
+      "url": "https://open.spotify.com/track/5fsd2pgZipjq2RqCIiqljd"
+    },
+    {
+      "album": {
         "name": "Askin",
         "url": "https://open.spotify.com/album/36m2j8o4xSn5s6004afjev"
       },
@@ -262,6 +280,24 @@
       "duration_ms": 156964,
       "name": "Banished",
       "url": "https://open.spotify.com/track/311GcJHZOdJVGDl1r9LOaO"
+    },
+    {
+      "album": {
+        "name": "Barcelona Moon",
+        "url": "https://open.spotify.com/album/4igBsTf38ARCOZ4nW6HFCz"
+      },
+      "artists": [
+        {
+          "name": "Pixel Souls",
+          "url": "https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141131,
+      "name": "Barcelona Moon",
+      "url": "https://open.spotify.com/track/7Ls3aMAwJgEsNrtqiR57KK"
     },
     {
       "album": {
@@ -1582,6 +1618,24 @@
       "duration_ms": 267726,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3"
+    },
+    {
+      "album": {
+        "name": "Sinking ships",
+        "url": "https://open.spotify.com/album/4scVxa1K0CXcSY2ecLkDQt"
+      },
+      "artists": [
+        {
+          "name": "Takek",
+          "url": "https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158614,
+      "name": "Sinking ships",
+      "url": "https://open.spotify.com/track/0Zhn2UKdk85ZjJQWgTsN4L"
     },
     {
       "album": {

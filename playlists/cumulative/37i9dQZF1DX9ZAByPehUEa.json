@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 196088,
       "name": "Electric Energy",
       "url": "https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF"
@@ -2674,6 +2674,32 @@
       "duration_ms": 200000,
       "name": "Find the Joy",
       "url": "https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37"
+    },
+    {
+      "album": {
+        "name": "Fine Line (Oliver Nelson Remix)",
+        "url": "https://open.spotify.com/album/66FcRLlXihcSsjZBcA6dlF"
+      },
+      "artists": [
+        {
+          "name": "Visors",
+          "url": "https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        },
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Fine Line (Oliver Nelson Remix)",
+      "url": "https://open.spotify.com/track/7Be7n2mZFKFwBo0VoFK0Cp"
     },
     {
       "album": {
@@ -3826,7 +3852,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 178211,
       "name": "I DON'T MIND",
       "url": "https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN"
@@ -7232,7 +7258,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -9069,6 +9095,28 @@
     },
     {
       "album": {
+        "name": "This Rhythm (feat. RAHH)",
+        "url": "https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "This Rhythm (feat. RAHH)",
+      "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
+    },
+    {
+      "album": {
         "name": "Ti Sento",
         "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
       },
@@ -9454,7 +9502,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 154083,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"

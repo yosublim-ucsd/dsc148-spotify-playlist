@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 
 > <a href="spotify:user:spotify:playlist:37i9dQZF1DWXQXM7agvwjO">.ORG</a>  presents Asian Indie songs we loved the most in 2023\. \#SpotifyWrapped Cover: Phum Viphurit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,552 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,551 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 | 42 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 |
 | 43 | [Lagoon](https://open.spotify.com/track/3NLMY8Wh4hUC32sPANETIA) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Lagoon](https://open.spotify.com/album/2QGfhTS180MI7eSFO0Uc8E) | 4:17 |
 | 44 | [Fleeting Away](https://open.spotify.com/track/1bf8KsxFbFFefF3MaOkBLK) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Fleeting Away](https://open.spotify.com/album/0Lyi4lVThvhajw3iYTAcei) | 4:20 |
-| 45 | [你地理唔理⋯⋯\(903廣東歌關注組DSE地理歌\)](https://open.spotify.com/track/4VUJJTJoPZhKObKch8H8mT) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [你地理唔理⋯⋯\(903廣東歌關注組DSE地理歌\)](https://open.spotify.com/album/2vQvI97BvZkip0U0zhyV47) | 1:30 |
+| 45 | [你地理唔理⋯⋯（903廣東歌關注組DSE地理歌）](https://open.spotify.com/track/4VUJJTJoPZhKObKch8H8mT) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [你地理唔理⋯⋯（903廣東歌關注組DSE地理歌）](https://open.spotify.com/album/2vQvI97BvZkip0U0zhyV47) | 1:30 |
 | 46 | [Twenty\-Nine](https://open.spotify.com/track/2Z6WalGqMj3dU81BH9EEkN) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl) | [Handle With Care](https://open.spotify.com/album/63iaoGDbIVMUjfec3hyBgP) | 4:26 |
 | 47 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
 | 48 | [Independent Artist](https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Independent Artist](https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC) | 3:14 |

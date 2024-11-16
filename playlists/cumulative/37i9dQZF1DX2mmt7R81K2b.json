@@ -1015,6 +1015,32 @@
     },
     {
       "album": {
+        "name": "Neos",
+        "url": "https://open.spotify.com/album/1gb5ayTVtIYlLzAJYY7NBY"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        },
+        {
+          "name": "\u5c71\u4e2d\u60c7\u53f2",
+          "url": "https://open.spotify.com/artist/55RWizcWD2mduyBwTDoHRe"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191106,
+      "name": "Let's Fall in Love (Arr. Haginomori for Flute and Piano)",
+      "url": "https://open.spotify.com/track/0vMENu9wXi1Sced0XbPqhc"
+    },
+    {
+      "album": {
         "name": "Zodiac Suite",
         "url": "https://open.spotify.com/album/6xMuaOboivwaqgRZnJ6DYg"
       },
@@ -1078,6 +1104,32 @@
       "duration_ms": 254600,
       "name": "Mazurka No. 1",
       "url": "https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg"
+    },
+    {
+      "album": {
+        "name": "MONK: Monk's Mood",
+        "url": "https://open.spotify.com/album/5m2I8DfAqBNBKR1mSoDGef"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Kristin Lee",
+          "url": "https://open.spotify.com/artist/52BaQ1gjSLQ7tFKGsWU17N"
+        },
+        {
+          "name": "Jeremy Ajani Jordon",
+          "url": "https://open.spotify.com/artist/7tr6g1GWQow4qhdnJqzLok"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309482,
+      "name": "Monk\u2019s Mood",
+      "url": "https://open.spotify.com/track/1k2iHRgO44gs0q86FKbl8K"
     },
     {
       "album": {
@@ -1411,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "The Nutcracker Suite (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3pZvvT5nZbg3pjxKfDAv50"
+    },
+    {
+      "album": {
         "name": "Liberetto II",
         "url": "https://open.spotify.com/album/52f8OH2v1jtqemCOI4VFvt"
       },
@@ -1566,6 +1636,28 @@
       "duration_ms": 520189,
       "name": "Piano Concerto No. 2 (feat. Jeff Tain Watts, Silvano Monasterios & Chris Smith)",
       "url": "https://open.spotify.com/track/1304Brw70MJMGq2l5UZmqv"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Porgy & Bess: Oh, I can't sit down (Arr. for 4 Pianos by B. Engeli & S. Wirth)",
+        "url": "https://open.spotify.com/album/1wLywKmINws48nUClTMgDQ"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gershwin Piano Quartet",
+          "url": "https://open.spotify.com/artist/1vSBe5nEIu4j9wZ5AkvAgI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94211,
+      "name": "Porgy & Bess: Oh, I can't sit down (Arr. for 4 Pianos by B. Engeli & S. Wirth)",
+      "url": "https://open.spotify.com/track/6HedzL9UiZ1MOnHzWPKzZo"
     },
     {
       "album": {
@@ -1815,6 +1907,36 @@
     },
     {
       "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1Gr6utmqvLxmkwGHd42wpN"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        },
+        {
+          "name": "Pierre G\u00e9nisson",
+          "url": "https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        },
+        {
+          "name": "Thibaut Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Syracuse",
+      "url": "https://open.spotify.com/track/0bFsSJJ5ivYOO5STqW27xM"
+    },
+    {
+      "album": {
         "name": "The Composer",
         "url": "https://open.spotify.com/album/1Mpv8xg27kQHNqnmcLHdIO"
       },
@@ -1918,6 +2040,40 @@
       "duration_ms": 367800,
       "name": "The Rite Of Spring",
       "url": "https://open.spotify.com/track/0QAB177dOh8F1bafYgwBZy"
+    },
+    {
+      "album": {
+        "name": "Nikolai Kapustin: Toccata for piano and big band, Op. 8 (HD)",
+        "url": "https://open.spotify.com/album/6zNsrvJ9IxnccwjOXzv5qD"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Kapustin",
+          "url": "https://open.spotify.com/artist/4zTPXx27j9bFvcnui3sRNI"
+        },
+        {
+          "name": "Frank Dupree",
+          "url": "https://open.spotify.com/artist/6njtXkDG0AlF0gO1hpIaqf"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        },
+        {
+          "name": "Jakob Krupp",
+          "url": "https://open.spotify.com/artist/2UTJOyl6TObhqj4yvtNkU2"
+        },
+        {
+          "name": "Meinhard Jenne",
+          "url": "https://open.spotify.com/artist/15OSvXd7ut3NgeWCtJjTXd"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278207,
+      "name": "Toccata for Piano & Big Band, Op. 8: Toccata for Piano & Big Band, Op. 8",
+      "url": "https://open.spotify.com/track/4MBz4smh5Jdj4zs0dfmYjr"
     },
     {
       "album": {

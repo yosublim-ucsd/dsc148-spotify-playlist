@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,480 likes - 110 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,497 likes - 110 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

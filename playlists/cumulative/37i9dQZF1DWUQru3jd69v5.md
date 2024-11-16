@@ -4,7 +4,7 @@
 
 > Lorenzza in cover della playlist con la nuova generazione del rap italiano.
 
-1,411 songs - 2 day 12 hr 40 min
+1,412 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [FREDDO AD AGOSTO](https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [TEMPESTA DI LACRIME](https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q) | 2:55 | 2022-05-12 | 2022-06-23 |
 | [FREDDO IN CASA](https://open.spotify.com/track/0ygctJYNSmiOLUKD2XATX9) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [FREDDO IN CASA](https://open.spotify.com/album/1FHsgpOLB7Gx0pNV1pGMXM) | 2:41 | 2022-05-10 | 2022-06-10 |
 | [FREE](https://open.spotify.com/track/4YGP7UFW9CYJQ3m9D1LcBv) | [Asso X](https://open.spotify.com/artist/3BroHWMcnIcgZ48iAMoV34) | [FREE](https://open.spotify.com/album/73zmDMBi2hBo3BxdzkINZa) | 2:18 | 2023-08-24 | 2023-09-08 |
+| [FREE ESCOMAR](https://open.spotify.com/track/4HIbjAzWrFRRdKkInD3lNG) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Hoodini](https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw) | [FREE ESCOMAR](https://open.spotify.com/album/04l01jD5EekZESgkTsvu2s) | 2:29 | 2024-11-15 |  |
 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 | 2022-07-14 | 2022-10-28 |
 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 | 2023-03-16 | 2023-05-12 |
 | [Frigo Vuoto](https://open.spotify.com/track/0VPnOu0TC1M8eAw0LA17x8) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Glocky vs Kiddo](https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe) | 2:40 | 2024-11-07 |  |
@@ -1376,7 +1377,7 @@
 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 | 2022-09-22 | 2023-01-27 |
 | [Walter White](https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Walter White](https://open.spotify.com/album/0bjfbfgm2hQte6OBSAwg90) | 2:10 | 2024-02-15 | 2024-04-12 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-20 | 2023-07-21 |
-| [War](https://open.spotify.com/track/1IWNbOtJKlGwMJlP79fPZR) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [War](https://open.spotify.com/album/3j3hVhpiFDC8yetrPpH9en) | 2:49 | 2024-10-03 |  |
+| [War](https://open.spotify.com/track/1IWNbOtJKlGwMJlP79fPZR) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [War](https://open.spotify.com/album/3j3hVhpiFDC8yetrPpH9en) | 2:49 | 2024-10-03 | 2024-11-16 |
 | [WARANZA](https://open.spotify.com/track/3vunrjJSbv06Q3WMitJ3Sb) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WARANZA](https://open.spotify.com/album/7lBViHTFvoLqwWEpLTN3aV) | 1:58 | 2024-01-25 | 2024-01-31 |
 | [Wawa](https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Wawa](https://open.spotify.com/album/0A3SICVCsWnKv5riQ9PqPv) | 2:33 | 2022-06-16 | 2022-07-22 |
 | [WE MAN](https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [WE MAN](https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk) | 2:25 | 2023-08-10 | 2023-08-25 |

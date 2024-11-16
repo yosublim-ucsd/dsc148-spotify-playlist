@@ -10035,6 +10035,28 @@
     },
     {
       "album": {
+        "name": "FREE ESCOMAR",
+        "url": "https://open.spotify.com/album/04l01jD5EekZESgkTsvu2s"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        },
+        {
+          "name": "Hoodini",
+          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149328,
+      "name": "FREE ESCOMAR",
+      "url": "https://open.spotify.com/track/4HIbjAzWrFRRdKkInD3lNG"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad"
       },
@@ -29004,7 +29026,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 169967,
       "name": "War",
       "url": "https://open.spotify.com/track/1IWNbOtJKlGwMJlP79fPZR"

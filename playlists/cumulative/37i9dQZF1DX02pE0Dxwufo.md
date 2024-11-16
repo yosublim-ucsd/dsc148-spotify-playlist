@@ -2,7 +2,7 @@
 
 ### [scorned](https://open.spotify.com/playlist/37i9dQZF1DX02pE0Dxwufo)
 
-> houston, he's a problem
+> take a louisville slugger to both headlights
 
 64 songs - 3 hr 34 min
 

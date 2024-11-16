@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Forgets His Name",
+        "url": "https://open.spotify.com/album/0Fiz5AXvGZ5vF90aUukW7y"
+      },
+      "artists": [
+        {
+          "name": "Pauric O' Meara",
+          "url": "https://open.spotify.com/artist/4qEun8m2ex3CQowKhg7mpS"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222119,
+      "name": "Forgets His Name",
+      "url": "https://open.spotify.com/track/5dUMR6aBvisgyjMnr3NQmU"
+    },
+    {
+      "album": {
         "name": "Geek Love",
         "url": "https://open.spotify.com/album/3tgHVBF744MI6SU0QrpT0J"
       },
@@ -900,6 +918,24 @@
       "duration_ms": 234125,
       "name": "Mango",
       "url": "https://open.spotify.com/track/60WMnp10PEgJifKRHZ5NUb"
+    },
+    {
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/4tC9GiFzu3R9su6g0bSHwp"
+      },
+      "artists": [
+        {
+          "name": "telekura",
+          "url": "https://open.spotify.com/artist/4RVcjmP8ppJczQZCUn25NV"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191942,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/1AQmYkrJ386Ct5ZooU4qEk"
     },
     {
       "album": {

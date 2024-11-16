@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Dato' Sri Siti Nurhaliza
 
-13,282 songs - 30 day 7 hr 27 min
+13,287 songs - 30 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2862,6 +2862,7 @@
 | [DOMO \(dancing on my own\)](https://open.spotify.com/track/2xLqIPEPpG5VbpC3eQnHLM) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [DOMO \(dancing on my own\)](https://open.spotify.com/album/7uWOzh0qX7ny9zALiRGNb2) | 3:10 | 2022-11-10 | 2022-11-18 |
 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 | 2024-07-04 | 2024-07-12 |
 | [Don't](https://open.spotify.com/track/54XEKEtqGf1id0Dj0yVNyX) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Feelin' Like](https://open.spotify.com/album/6aHqtqYMafUMboxW0xMhdM) | 2:45 | 2022-09-15 | 2022-09-23 |
+| [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 | 2024-11-14 |  |
 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-10-19 | 2023-10-27 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-27 | 2022-02-04 |
 | [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2022-12-08 | 2022-12-16 |
@@ -5331,6 +5332,7 @@
 | [Ice Cream Man.](https://open.spotify.com/track/4p5xgTJofLgL4A3trgk7EQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Ice Cream Man.](https://open.spotify.com/album/0aU6C7aErcXKwpQAdTmmrY) | 4:08 | 2023-02-02 | 2023-02-04 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-02 | 2023-02-10 |
 | [ice lemon tea freestyle](https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [ice lemon tea freestyle](https://open.spotify.com/album/150xerEonlyZpb9WPXSph9) | 2:04 | 2023-02-09 | 2023-02-17 |
+| [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 | 2024-11-14 |  |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-24 | 2023-09-01 |
 | [ICE\-LEMON](https://open.spotify.com/track/027rTH7gb5WmEI1z67mL7t) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [Blank Canvas](https://open.spotify.com/album/6R7Pcj4kp69W8pjBVXu5if) | 1:52 | 2022-04-21 | 2022-04-29 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-25 | 2023-06-02 |
@@ -8622,6 +8624,7 @@
 | [Psychic](https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Psychic](https://open.spotify.com/album/4uqK3r60uam9Qy1a1KPZ2r) | 2:21 | 2024-04-18 | 2024-04-26 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2022-09-08 | 2022-09-23 |
 | [Psycho](https://open.spotify.com/track/1Mr0PGyergfMZ7swKiWiBP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Psycho, Loveholic \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/09TIE1YIl3sDA5uuPcIBqe) | 3:32 | 2024-04-04 | 2024-04-12 |
+| [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 | 2024-11-14 |  |
 | [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 | 2024-05-16 | 2024-05-24 |
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-07 | 2022-04-15 |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-05-19 | 2022-05-27 |
@@ -9136,6 +9139,7 @@
 | [Running Out](https://open.spotify.com/track/2gez87ndmSccOQ6XQvqZMF) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Running Out](https://open.spotify.com/album/4iH66iUnoB2pNmqVWg8pVj) | 3:32 | 2023-10-26 | 2023-11-03 |
 | [Running Out of Love](https://open.spotify.com/track/5B6BvYNj9cjZUnzoslwK20) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Running Out of Love](https://open.spotify.com/album/0rhORi6bUyoJc4EXX0rArK) | 4:18 | 2022-08-18 | 2022-08-26 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-09 | 2023-02-17 |
+| [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-14 |  |
 | [Runway](https://open.spotify.com/track/1qri6y0uoUvBKtUpkbSpIV) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS) | [Runway](https://open.spotify.com/album/7gR98LusT0mTTDCy2D01B3) | 3:02 | 2024-06-27 | 2024-07-05 |
 | [RUNWAY](https://open.spotify.com/track/1ctHNAVFmDTtge6GpmuBlg) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:43 | 2024-11-07 | 2024-11-15 |
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-13 | 2022-01-21 |
@@ -12718,6 +12722,7 @@
 | [三轮车](https://open.spotify.com/track/63NS0weoceY2uvcH4EU7ea) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [三轮车](https://open.spotify.com/album/5p8KG38yGgkHRchuTKTNbA) | 3:28 | 2024-06-20 | 2024-06-28 |
 | [不喜欢就请直说](https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [不喜欢就请直说](https://open.spotify.com/album/0BazLddjUePVnQqhKULEVN) | 3:17 | 2024-08-22 | 2024-08-30 |
 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 | 2023-10-19 | 2023-10-27 |
+| [不嚮往詩和遠方](https://open.spotify.com/track/3gXJOzz5yYnSObSO9Q6vgC) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj) | [原地重生 Eterno](https://open.spotify.com/album/2ZbVunpAL6JIExTFoP2eRt) | 5:13 | 2024-11-14 |  |
 | [不如我們](https://open.spotify.com/track/628jSEIhSEkXJXRo5gRpOG) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [不如我們](https://open.spotify.com/album/2O1NsQRVTbSOlyHMsiDC4j) | 3:42 | 2023-09-07 | 2023-09-15 |
 | [不如我們今天見](https://open.spotify.com/track/58CETIHRNoy4rQ29kkqLQt) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [不如我們今天見](https://open.spotify.com/album/0xT1xJMBIiOVWw3MsoCG5R) | 4:56 | 2022-04-14 | 2022-04-22 |
 | [不完整的人](https://open.spotify.com/track/456eWpyVRw99PPInnwJqdw) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不完整的人](https://open.spotify.com/album/78h8vHeSvHrmnYXwCX4VHN) | 4:34 | 2024-10-17 | 2024-10-25 |

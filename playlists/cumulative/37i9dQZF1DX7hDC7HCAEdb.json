@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new alternative sounds from Scotland. Cover: Franz Ferdinand",
+  "description": "The best new alternative sounds from Scotland. Cover: VUKOVI",
   "name": "Scotify",
   "tracks": [
     {
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Do It Like You Do It",
+        "url": "https://open.spotify.com/album/0rGtnj7m7FKThfBAHep5st"
+      },
+      "artists": [
+        {
+          "name": "Shambolics",
+          "url": "https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150677,
+      "name": "Do It Like You Do It",
+      "url": "https://open.spotify.com/track/67rzjGuiCCtgzy86j7gLU3"
+    },
+    {
+      "album": {
         "name": "Do You Think She's Pretty?",
         "url": "https://open.spotify.com/album/5R8uWHj3mPgAc3N1fUwed4"
       },
@@ -416,7 +434,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 198208,
       "name": "EMPTY FEELING.",
       "url": "https://open.spotify.com/track/4F1yjXmwU45Eej69dJs2Bd"
@@ -506,7 +524,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 229598,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/7rardgaSmoEMhW5Uti6OUW"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 204498,
       "name": "glass",
       "url": "https://open.spotify.com/track/7FvHQZTPcdHpuv5azyEQSg"
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Locked Doors, Empty Home",
+        "url": "https://open.spotify.com/album/6z4blm0wsxOsMxMBs3hRqc"
+      },
+      "artists": [
+        {
+          "name": "Joshua Grant",
+          "url": "https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211684,
+      "name": "Locked Doors, Empty Home",
+      "url": "https://open.spotify.com/track/649l5KSf3Qh4klms2dPznd"
+    },
+    {
+      "album": {
         "name": "Island.",
         "url": "https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ"
       },
@@ -1054,6 +1090,24 @@
       "duration_ms": 186341,
       "name": "MERCY KILL",
       "url": "https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6"
+    },
+    {
+      "album": {
+        "name": "MISTY ECSTASY",
+        "url": "https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "MISTY ECSTASY",
+      "url": "https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl"
     },
     {
       "album": {
@@ -1194,7 +1248,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 285031,
       "name": "Prevalent",
       "url": "https://open.spotify.com/track/0P33LDGm9juBr78xOFSa4x"
@@ -1584,6 +1638,24 @@
       "duration_ms": 283933,
       "name": "Tired Of Being Alone",
       "url": "https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw"
+    },
+    {
+      "album": {
+        "name": "Two Step",
+        "url": "https://open.spotify.com/album/1luQcSOFWU7z3Ok8hQIiLn"
+      },
+      "artists": [
+        {
+          "name": "The Fat Stacks",
+          "url": "https://open.spotify.com/artist/7eLiXAAxH1r0BkJN2R74g4"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175229,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/4LGCpNYJRLN7Rn5NXMkjKa"
     },
     {
       "album": {

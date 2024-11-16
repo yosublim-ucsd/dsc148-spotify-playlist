@@ -10255,6 +10255,32 @@
     },
     {
       "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/3ETwR9DxVSQLbn8L1tKWsJ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Jephthah Idahosa Aigbe",
+          "url": "https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/72wKF92paVR0X3Y9N7z2Vu"
+    },
+    {
+      "album": {
         "name": "Lay It Down",
         "url": "https://open.spotify.com/album/2GYftGVcMMjCz3ZjibNYvl"
       },
@@ -10688,7 +10714,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 154000,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/0R3dUdiFEGnHtqEpbhdkuY"
@@ -18896,7 +18922,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 147692,
       "name": "You & I",
       "url": "https://open.spotify.com/track/3UlWPQHAlgn62eZUuiMaNB"

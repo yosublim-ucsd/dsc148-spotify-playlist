@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: Anella Herim
+> A little bit of pop, a little bit of rap\. Cover: 347aidan
 
-662 songs - 1 day 6 hr 15 min
+663 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Every Season](https://open.spotify.com/track/0Z1RYues9se6bzT0Fnaptb) | [Ferris](https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r) | [Every Season](https://open.spotify.com/album/3SdqNIbAVIDXSyBd3Igkon) | 2:41 | 2023-02-03 | 2023-04-09 |
 | [Everything](https://open.spotify.com/track/5ARsU1fvymGbezhA8HNcQj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Where Silence Feels Good](https://open.spotify.com/album/1zZtWZtxj8aOb8ZnpMesgL) | 3:20 | 2023-10-13 | 2024-04-19 |
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2024-01-12 | 2024-06-01 |
+| [EVERYTIME](https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [EVERYTIME](https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa) | 2:35 | 2024-11-15 |  |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-29 | 2023-07-29 |
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2022-11-29 | 2024-01-23 |
 | [eyes wide, open air](https://open.spotify.com/track/2JGppZ6R7S8dOIuHqxI07y) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [eyes wide, open air](https://open.spotify.com/album/0gZVaHoQdcTRT71sSJ2QnA) | 1:51 | 2023-05-26 | 2024-01-23 |

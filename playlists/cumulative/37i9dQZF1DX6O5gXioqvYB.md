@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: SELMI
 
-212 songs - 10 hr 24 min
+213 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Estate Inverno](https://open.spotify.com/track/4Vv6gdijmH1LPOI24IRyWe) | [Aria](https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW) | [Estate Inverno](https://open.spotify.com/album/6j4lubgJZ3exogp0Jt0tJp) | 2:45 | 2024-10-24 | 2024-11-08 |
 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 | 2024-07-04 | 2024-07-27 |
 | [FANTASMA](https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG) | [GHE](https://open.spotify.com/artist/44k1ynsCAWZoXV0UtR7mAe) | [FANTASMA](https://open.spotify.com/album/60NnbiHAdcnfpfHjrUb2Wy) | 3:42 | 2024-09-05 | 2024-09-27 |
-| [Fare finta](https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv) | 3:02 | 2024-09-19 |  |
+| [Fare finta](https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv) | 3:02 | 2024-09-19 | 2024-11-16 |
 | [Farfalla](https://open.spotify.com/track/7tvhTjn5uZBNTBqeugZwPg) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Arriva..\. Pietro Mio!](https://open.spotify.com/album/6DdlmlMY96zeVY2hH1QyDS) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 | 2024-10-24 |  |
 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/3aDh7Ke1Zh28igid7zJhmZ) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 | 2024-07-11 | 2024-09-27 |
@@ -116,6 +116,7 @@
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |
 | [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5), [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl) | [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw) | 2:39 | 2024-11-07 |  |
+| [Miele di Luna](https://open.spotify.com/track/2A3q8rufFFgqr0GnLDpAl8) | [Modivari](https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41) | [Miele di Luna](https://open.spotify.com/album/2Y0os7GZ1raFSOlJmmhg6H) | 3:36 | 2024-11-14 |  |
 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 | 2024-10-28 |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 | 2024-11-15 |

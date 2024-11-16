@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "For\u00e7a Estranha",
+        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257739,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "album": {
         "name": "Gabriela - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1epPdl89RfrtujzRW2MSug"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 226000,
       "name": "Maluca",
       "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"

@@ -6,8 +6,44 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZvFemaGC6vdLBRVAvBw8NkQdB6lTV",
+  "snapshot_id": "AAAZvg0qIM/1SeNFA0C7macdoawdLxGR",
   "tracks": [
+    {
+      "added_at": "2024-11-15 15:39:19",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH"
+    },
+    {
+      "added_at": "2024-11-15 15:36:58",
+      "album": {
+        "name": "Good Time (feat. Josh Rubin)",
+        "url": "https://open.spotify.com/album/7EubmHn3suSP7ROZPbp16R"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Good Time (feat. Josh Rubin)",
+      "url": "https://open.spotify.com/track/40Y5AgFF6JHGmjrlk37Z2N"
+    },
     {
       "added_at": "2024-11-08 15:59:33",
       "album": {

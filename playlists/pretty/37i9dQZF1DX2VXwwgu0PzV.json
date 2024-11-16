@@ -1,12 +1,12 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=Uc2S-hnfSwCenU_IhxxGhg>Victor Thompson</a>",
-  "num_followers": 41760,
+  "num_followers": 41783,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPPAAAAAC3V3GFZa28zYPIw2OmjEZU",
+  "snapshot_id": "ZzcxdgAAAACnAJ6dG75MfHcCliNRqaiw",
   "tracks": [
     {
       "added_at": "2023-12-11 00:01:00",
@@ -515,6 +515,30 @@
       "duration_ms": 161048,
       "name": "P&A",
       "url": "https://open.spotify.com/track/7jptixxxwHCtk1wiZxbw42"
+    },
+    {
+      "added_at": "2024-11-15 11:33:10",
+      "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/3ETwR9DxVSQLbn8L1tKWsJ"
+      },
+      "artists": [
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Jephthah Idahosa Aigbe",
+          "url": "https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/72wKF92paVR0X3Y9N7z2Vu"
     },
     {
       "added_at": "2024-11-15 00:01:00",
@@ -1959,42 +1983,6 @@
       "duration_ms": 153887,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2KpzBawj0w2CHkNly2PXvq"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3c1EAtqsXXiKpBRHJ9pdjh"
-      },
-      "artists": [
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/3UlWPQHAlgn62eZUuiMaNB"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5gq1WFBfByQrvazFwl8g9n"
-      },
-      "artists": [
-        {
-          "name": "The SandBox Ug",
-          "url": "https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0"
-        },
-        {
-          "name": "Kahuma",
-          "url": "https://open.spotify.com/artist/5GGp69dJ1yFret5lO3v1tE"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0R3dUdiFEGnHtqEpbhdkuY"
     }
   ],
   "unique_name": "Youth Service",

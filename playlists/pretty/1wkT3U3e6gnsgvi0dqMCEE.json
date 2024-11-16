@@ -6,8 +6,44 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACZ+7zS7qcgPuct4rnHWAeuyLXGd+O",
+  "snapshot_id": "AAACankob2OEyfy1BQ8np76rjcFwHKEe",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:02:11",
+      "album": {
+        "name": "You Gotta Be",
+        "url": "https://open.spotify.com/album/2JzDWEg1I7dTaJHIszHh5q"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "You Gotta Be",
+      "url": "https://open.spotify.com/track/0AN1hN5LrrRiJjI9Jh8lDS"
+    },
+    {
+      "added_at": "2024-11-15 05:02:24",
+      "album": {
+        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
+        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 216596,
+      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
+      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
+    },
     {
       "added_at": "2024-10-11 14:17:24",
       "album": {

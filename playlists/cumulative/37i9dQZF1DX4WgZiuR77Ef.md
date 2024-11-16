@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-234 songs - 16 hr 25 min
+235 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Shake It \- 45](https://open.spotify.com/track/5qenhYD4ynkEEHDDwqBiEG) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 2:56 | 2020-10-30 | 2023-07-01 |
 | [Show Me](https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 4:13 | 2021-05-21 | 2024-04-19 |
 | [Show Me](https://open.spotify.com/track/2k0omPPfQU1clxnAVaUdO6) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Show Me](https://open.spotify.com/album/5I2q3XVg8rKwCLkQ0Tr4dE) | 4:13 | 2021-05-21 |  |
+| [Something Better](https://open.spotify.com/track/0Rnq5ID0HHry0ElpjSWVPd) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Something Better](https://open.spotify.com/album/2cYWDvl2JOTinMn9A33vOj) | 4:27 | 2024-11-15 |  |
 | [Something To Do](https://open.spotify.com/track/6ZFuCHvdJbiuPrc5FTQ4Kz) | [IGBO](https://open.spotify.com/artist/7IPimpFl8df3dGRlhuKKpm) | [Something To Do](https://open.spotify.com/album/55upOKzoEcsGP1HTHD3uqF) | 4:48 | 2020-10-30 | 2022-04-09 |
 | [Soul of a Man](https://open.spotify.com/track/5mfBEBAREEg17GJ6ghJp6Z) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE) | [Music!Music!Music!](https://open.spotify.com/album/0FshnWVFxPSa0vJ9g6uo9L) | 4:49 | 2020-10-30 | 2022-04-09 |
 | [Soul Sound System](https://open.spotify.com/track/0mKQusD6F8gXxjad55pQYe) | [D/troit](https://open.spotify.com/artist/4tq47Sky0d5VYZLD1DepwV) | [Soul Sound System](https://open.spotify.com/album/3Xkz9nvXQ3JRxtkPbdKMPC) | 3:36 | 2020-10-30 | 2022-04-09 |
@@ -204,7 +205,7 @@
 | [The Truth](https://open.spotify.com/track/3dzZG5Snplh8mq1HO7v4Sd) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Connection](https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8) | 4:07 | 2020-10-30 | 2023-08-05 |
 | [The Wild Root](https://open.spotify.com/track/1PS0E4x777UMWqm47foX5W) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi) | [The Wild Root](https://open.spotify.com/album/16gMFgpe8afNzvjybEd2cj) | 4:00 | 2020-10-30 | 2022-04-09 |
 | [The Wolf](https://open.spotify.com/track/27iGHkO0uIiMgHuwLNlPup) | [The Spencer Lee Band](https://open.spotify.com/artist/3nIzSJRQzH8v2DFs7iaXDi) | [The Spencer Lee Band](https://open.spotify.com/album/2TuywyPv1tT2IglXMUQFCf) | 2:54 | 2020-10-30 | 2022-04-09 |
-| [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 | 2024-07-26 |  |
+| [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 | 2024-07-26 | 2024-11-16 |
 | [Turn up the Sound](https://open.spotify.com/track/3xDvyv5KF5Jvnycgutrgb9) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Turn up the Sound](https://open.spotify.com/album/29y8juHtLWWahTrNE7A6uz) | 3:49 | 2020-10-30 |  |
 | [Undefeated Eyes](https://open.spotify.com/track/3KBAaMTd6oSbZDLAjSRQSV) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Undefeated Eyes](https://open.spotify.com/album/2NDZv0CTUyP6wTkwbgs0UF) | 4:26 | 2024-06-28 |  |
 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 | 2020-10-30 |  |

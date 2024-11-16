@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 321573,
       "name": "20ms - Cristoph Mix",
       "url": "https://open.spotify.com/track/0Klcd0tEhbpkOeXS2GJca8"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 214896,
       "name": "Auna",
       "url": "https://open.spotify.com/track/6rLCOcMd1DEPqMgX05ry7r"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 220957,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 315639,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/2Pxp1Pe5zQkoClW0l3jIEC"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 252000,
       "name": "Dark In This Room",
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 211904,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/0BgTW71XRJ9hxR0zFYu5eN"
@@ -2783,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Follow The Lead",
+        "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Podage",
+          "url": "https://open.spotify.com/artist/7iuZjXDugV2YunAMWauN0F"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447096,
+      "name": "Follow The Lead",
+      "url": "https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV"
+    },
+    {
+      "album": {
         "name": "Forget About It",
         "url": "https://open.spotify.com/album/2f6vlm5NQKCGapxAnyoQBu"
       },
@@ -2933,6 +2951,28 @@
     },
     {
       "album": {
+        "name": "g-town euphoria (luna)",
+        "url": "https://open.spotify.com/album/1qmaI0kIgTO3kLfBllh0Pp"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508760,
+      "name": "g-town euphoria (luna)",
+      "url": "https://open.spotify.com/track/7yzT1O7eIzyDhLY8j9I1NR"
+    },
+    {
+      "album": {
         "name": "Get Back",
         "url": "https://open.spotify.com/album/2qENaBPonllrE9ZOvk0uHS"
       },
@@ -2984,7 +3024,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 250250,
       "name": "Give Me Something",
       "url": "https://open.spotify.com/track/30BG3CiHyan22xQyJ3nLpa"
@@ -3154,7 +3194,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 443500,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
@@ -3224,6 +3264,24 @@
       "duration_ms": 241870,
       "name": "High For This",
       "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
+    },
+    {
+      "album": {
+        "name": "Strawberry Hotel",
+        "url": "https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304293,
+      "name": "Hilo Sky",
+      "url": "https://open.spotify.com/track/4GuHAHrtfNnFGlPBriyxla"
     },
     {
       "album": {
@@ -3415,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "The Baby Maker",
+        "url": "https://open.spotify.com/album/4TCpvYy2fc0wuyuMJ1d3Ky"
+      },
+      "artists": [
+        {
+          "name": "Beesmunt Soundsystem",
+          "url": "https://open.spotify.com/artist/5p2DCDgBRjgFrw7blAOrk5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369263,
+      "name": "How I Wish",
+      "url": "https://open.spotify.com/track/7Eegk71XS0EWU517NXzMKW"
+    },
+    {
+      "album": {
         "name": "How to Wear Raybans Well",
         "url": "https://open.spotify.com/album/2pjErPOKMsX6uwQwyrMgWN"
       },
@@ -3484,7 +3560,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 427223,
       "name": "Hyperdrive",
       "url": "https://open.spotify.com/track/5J81VXV583BuFcK9PldZML"
@@ -4352,7 +4428,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 202648,
       "name": "Life",
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
@@ -4664,7 +4740,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 387106,
       "name": "Miller",
       "url": "https://open.spotify.com/track/1QEaF95yg4u8p4KquK4z72"
@@ -4806,7 +4882,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 186625,
       "name": "Moonbow",
       "url": "https://open.spotify.com/track/1G1CnOw2l7BIXLLzKhpUNF"
@@ -4864,6 +4940,24 @@
       "duration_ms": 521093,
       "name": "Morning After The Rave",
       "url": "https://open.spotify.com/track/6Y2o38HZkEr1VPuMMZSziX"
+    },
+    {
+      "album": {
+        "name": "Motion 7 EP",
+        "url": "https://open.spotify.com/album/5uw3naZuOvSgwpt39D8fuD"
+      },
+      "artists": [
+        {
+          "name": "Jon Gravy",
+          "url": "https://open.spotify.com/artist/1G24O3A17PgLJUOvHhXmNu"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244687,
+      "name": "Motion 7",
+      "url": "https://open.spotify.com/track/2fBsamRSoJcvn3YtGfXJ8L"
     },
     {
       "album": {
@@ -5792,7 +5886,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 193864,
       "name": "Proud - Dance System Remix",
       "url": "https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk"
@@ -5880,7 +5974,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 376250,
       "name": "Push Me - Adana Twins Remix",
       "url": "https://open.spotify.com/track/2QZfBnE2KOLELhM3BTqn84"
@@ -5968,10 +6062,28 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 300000,
       "name": "Raw - Tony Romera Extended Mix",
       "url": "https://open.spotify.com/track/0VoT2Cf8VgPLZmLBtQQpJX"
+    },
+    {
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 720000,
+      "name": "Re_Jaded",
+      "url": "https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w"
     },
     {
       "album": {
@@ -6172,7 +6284,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 264761,
       "name": "Repeat - Edit",
       "url": "https://open.spotify.com/track/2DaWJbE6NJ0Mf6uccj7Ba0"
@@ -6346,7 +6458,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 304069,
       "name": "Say Stop!",
       "url": "https://open.spotify.com/track/2Z3O2aGJemrtDNSP3v9GlP"
@@ -6484,7 +6596,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 248842,
       "name": "Signal",
       "url": "https://open.spotify.com/track/3wCXPOC1kqJNFS6UNLZI2F"
@@ -6674,7 +6786,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 193846,
       "name": "Solas",
       "url": "https://open.spotify.com/track/75KWFcSxPOCYy6HYe2rXmY"
@@ -6798,7 +6910,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 183423,
       "name": "Speed Trials On Acid (feat. Dan Diamond) (LF SYSTEM Remix)",
       "url": "https://open.spotify.com/track/6z5LHZZWFKN7M5kGJ6RbHq"
@@ -6860,7 +6972,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 372101,
       "name": "Starwave - Extended Mix",
       "url": "https://open.spotify.com/track/6rp6aaU6p6bgjZSe0ZWbDK"
@@ -7376,7 +7488,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189773,
       "name": "The Game",
       "url": "https://open.spotify.com/track/6hPPLSC5T6aBdr3V2dDkcv"
@@ -7776,7 +7888,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 251370,
       "name": "Tuxedo Park",
       "url": "https://open.spotify.com/track/5OVZy3WmkSh8iyoq9mf65u"
@@ -8224,7 +8336,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
@@ -8554,7 +8666,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 420000,
       "name": "Zizzy",
       "url": "https://open.spotify.com/track/4bENMkR60BlLehIvtPMFeM"

@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Cryzin
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Anchietx
 
-251 songs - 12 hr 53 min
+252 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Coração de Fogo](https://open.spotify.com/track/5PTljxsqsyMwwEBIm083rj) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Coração de Fogo](https://open.spotify.com/album/2kOawmhLWEE2XifSM9boX2) | 2:16 | 2023-04-07 | 2023-05-20 |
 | [Corro Atrás](https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk) | [Corro Atrás](https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp) | 3:45 | 2023-08-25 | 2024-05-29 |
 | [curva escura](https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [curva escura](https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m) | 3:40 | 2024-04-05 |  |
+| [Céu Azul](https://open.spotify.com/track/42khSD2cPF1lTJFw72k7A9) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Céu Azul](https://open.spotify.com/album/2l5bUr8qR6Az6TNLPzAYqX) | 3:36 | 2024-11-15 |  |
 | [Daddy](https://open.spotify.com/track/5nuyy5eLGMCn10BW1yXQ5b) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Daddy](https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k) | 2:48 | 2022-12-01 | 2022-12-17 |
 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 | 2024-04-12 |  |
 | [DE REPENTE](https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [DE REPENTE](https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh) | 2:25 | 2023-11-10 |  |
@@ -69,7 +70,7 @@
 | [Depois da Briga](https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn) | 2:57 | 2023-11-03 | 2024-04-19 |
 | [Detalhes](https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8) | [Bia Torres](https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN), [Badauy](https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl) | [Detalhes](https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD) | 2:50 | 2024-03-22 | 2024-05-29 |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
-| [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 | 2024-09-20 |  |
+| [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 | 2024-09-20 | 2024-11-16 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |

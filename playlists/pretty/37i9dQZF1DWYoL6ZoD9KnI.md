@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,053 likes - 79 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,082 likes - 79 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 54 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 55 | [Neighbourhood](https://open.spotify.com/track/2N1hULXFaYkpn1OAD79tN0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 |
 | 56 | [NANIMONO \(feat\. 米津玄師\)](https://open.spotify.com/track/21YjXHKo8hc5fOK7sYtixB) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [NANIMONO EP](https://open.spotify.com/album/0LER3HsCsaTndOTcsTzAu4) | 4:06 |
-| 57 | [愛麗絲\(正式表記はAliceの中国語簡体字表記となります。\)](https://open.spotify.com/track/23XoXNpisXtArBDkZH0S7I) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1cgHX5XjiIVyZWuDRU7x3T) | 3:09 |
+| 57 | [愛麗絲（正式表記はAliceの中国語簡体字表記となります。）](https://open.spotify.com/track/23XoXNpisXtArBDkZH0S7I) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1cgHX5XjiIVyZWuDRU7x3T) | 3:09 |
 | 58 | [でしょましょ](https://open.spotify.com/track/2mqmDtNrTK0eXEHr2gRTxc) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [馬と鹿](https://open.spotify.com/album/4uPwtzp2QX2erSKELBui0I) | 2:52 |
 | 59 | [あめふり婦人](https://open.spotify.com/track/4ih8ybOwn5Mfmu0EY6THjr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 2:59 |
 | 60 | [amen](https://open.spotify.com/track/4bryMKHEjBRSHW8VNXUj7U) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/7IZFdzxga2A1TMDSateh9A) | 4:34 |

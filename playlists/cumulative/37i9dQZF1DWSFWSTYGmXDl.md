@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-224 songs - 12 hr 15 min
+225 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 | 2021-12-12 | 2022-11-19 |
 | [Blackout Christmas](https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa) | 2:19 | 2021-12-12 | 2022-10-13 |
 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 | 2022-11-30 |  |
+| [blame it on the snow](https://open.spotify.com/track/1QZbfQMzfDqWoyAEvXi1jQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 2:42 | 2024-11-15 |  |
 | [Blue Christmas](https://open.spotify.com/track/3YUCVlhL7UFiWTh6i8b4ve) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [A Very Cozy Christmas](https://open.spotify.com/album/6C4mRN0DaAqdrrZDktAfxJ) | 1:45 | 2023-11-15 | 2024-11-05 |
 | [By Christmas Eve](https://open.spotify.com/track/50p1UrHZsX6KkVydAvSxHC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:51 | 2021-12-12 | 2022-10-31 |
 | [By Christmas Eve](https://open.spotify.com/track/2QM6q2L4bZHW2evhAjxOrS) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:51 | 2021-12-12 |  |

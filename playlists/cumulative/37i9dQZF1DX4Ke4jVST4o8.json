@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Make It Bun Dem",
+        "url": "https://open.spotify.com/album/381oom8nio77eU6BuUb4UO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Damian \"Jr Gong\" Marley",
+          "url": "https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213696,
+      "name": "Make It Bun Dem",
+      "url": "https://open.spotify.com/track/6AbVJjzv7thIvmMCuhZrmK"
+    },
+    {
+      "album": {
         "name": "Make It Bun Dem After Hours EP",
         "url": "https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP"
       },
@@ -1098,28 +1120,6 @@
       "duration_ms": 213696,
       "name": "Make It Bun Dem",
       "url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h"
-    },
-    {
-      "album": {
-        "name": "Make It Bun Dem",
-        "url": "https://open.spotify.com/album/381oom8nio77eU6BuUb4UO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "date_added": "2022-10-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213696,
-      "name": "Make It Bun Dem",
-      "url": "https://open.spotify.com/track/6AbVJjzv7thIvmMCuhZrmK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,595 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,613 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 48 | [Arb Share'i](https://open.spotify.com/track/1FzB7oBR1Xjtfh6kmiNdKF) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Free Music \(Part 1\) \(Habibi Funk 021\)](https://open.spotify.com/album/2jyIpT41M6bEcDVsriGKSr) | 4:37 |
 | 49 | [Sopratutto](https://open.spotify.com/track/3QSWrpaEdoM5Luf7aYMlZZ) | [Nicolini](https://open.spotify.com/artist/2XKOlTGvKbfnJaUgYvwXey) | [Sopratutto](https://open.spotify.com/album/0UP6UvJRoyOhIrMOI9bafu) | 3:44 |
 | 50 | [Yuh Yuh](https://open.spotify.com/track/6oAsSxbHeN11ey7R4Q1ouJ) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn) | [40 Yılın 40 Şarkısı](https://open.spotify.com/album/1TB9E8n4PM6LOxY0C1DhvX) | 4:52 |
-| 51 | [灯 \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/2DAhMSZRWT0WyUsj9O8efE) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [テクノデリック\(2019 Bob Ludwig Remastering\)](https://open.spotify.com/album/4INMRXAjp5zRnx4aSgT52g) | 3:40 |
+| 51 | [灯 \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/2DAhMSZRWT0WyUsj9O8efE) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [テクノデリック（2019 Bob Ludwig Remastering\)](https://open.spotify.com/album/4INMRXAjp5zRnx4aSgT52g) | 3:40 |
 | 52 | [Taboo \- Club Mix](https://open.spotify.com/track/6hFM0ZuBAD7rnXcqxY32Yg) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A) | [Sweetest Taboo \(Soca\)](https://open.spotify.com/album/6UKodITGM5epbA6rUWPU0r) | 6:50 |
 | 53 | [No Es Computable](https://open.spotify.com/track/2eNHcA0WB3og9xLXAWMcl3) | [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Síntesis Moderna: An Alternative Vision of Argentinian Music \(1980\-1990\)](https://open.spotify.com/album/2d32CF4GNZk1cJr3DDxZLA) | 3:25 |
 | 54 | [Bir Çalgıyım Göğsüne Yaslanmış, Pt\. 1](https://open.spotify.com/track/63Txxm8SMIqXsEBKdT1NQH) | [Burhan Öçal](https://open.spotify.com/artist/4wOEkf10AAMKx0yCGEEnxm), [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3) | [Sultan Osman](https://open.spotify.com/album/0tOX6r5EJDZ1goqhJ8gkiU) | 4:58 |

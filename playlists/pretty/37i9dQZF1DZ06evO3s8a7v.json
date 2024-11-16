@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 41999,
+  "num_followers": 42035,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAABGhHuiuGslKBMmmrjYapVq",
+  "snapshot_id": "ZzU9gAAAAAAMZ4ykcA659MVyV3xC1iv+",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 185142,
       "name": "2:50",
       "url": "https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1bADdBH6USOG55rAxPtR2p"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 170020,
-      "name": "BLANCO Y NEGRO",
-      "url": "https://open.spotify.com/track/14Z4eUbgdSzg70JRqyZS60"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 171504,
+      "name": "SI PUDIERA",
+      "url": "https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lado Triste (Remix)",
         "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
       },
@@ -376,7 +376,7 @@
       "added_at": null,
       "album": {
         "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+        "url": "https://open.spotify.com/album/1bADdBH6USOG55rAxPtR2p"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 171504,
-      "name": "SI PUDIERA",
-      "url": "https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB"
+      "duration_ms": 170020,
+      "name": "BLANCO Y NEGRO",
+      "url": "https://open.spotify.com/track/14Z4eUbgdSzg70JRqyZS60"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 253496,
       "name": "Entre La Tierra y El Cielo",
       "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MYA LIVE P1: Chanel de Coco",
         "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 209725,
       "name": "MYA LIVE P1: Chanel de Coco",
       "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 142405,
+      "name": "MIL NOCHES",
+      "url": "https://open.spotify.com/track/4RxI0IC11Ab1R3yVb3pv1z"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 142405,
-      "name": "MIL NOCHES",
-      "url": "https://open.spotify.com/track/4RxI0IC11Ab1R3yVb3pv1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 165364,
       "name": "Online",
       "url": "https://open.spotify.com/track/1QpmpEDCrlVJJfyt5eFYSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "HENNESSY",
+      "url": "https://open.spotify.com/track/2oosV1qUeTsmCW9qtsauYB"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "HENNESSY",
-      "url": "https://open.spotify.com/track/2oosV1qUeTsmCW9qtsauYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 170437,
       "name": "Cobardes",
       "url": "https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 154235,
+      "name": "SUE\u00d1OS PERDIDOS",
+      "url": "https://open.spotify.com/track/1VfUiuwvQgrzMel2sV3S5s"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 154235,
-      "name": "SUE\u00d1OS PERDIDOS",
-      "url": "https://open.spotify.com/track/1VfUiuwvQgrzMel2sV3S5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suelta, Sola y Tranquila REMIX",
         "url": "https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 202282,
       "name": "Suelta, Sola y Tranquila REMIX",
       "url": "https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 153485,
+      "name": "QMEA",
+      "url": "https://open.spotify.com/track/1syzCNBPxSy0YlY6FP5njN"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 153485,
-      "name": "QMEA",
-      "url": "https://open.spotify.com/track/1syzCNBPxSy0YlY6FP5njN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Bailo Pa Ti",
         "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 163170,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apenas Son Las 12",
         "url": "https://open.spotify.com/album/4yOjVLHlGIW6UD195bsUqN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178851,
       "name": "Apenas Son Las 12",
       "url": "https://open.spotify.com/track/1y4fiS3YGivkzD9JPySuEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 163170,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk"
     },
     {
       "added_at": null,
@@ -1051,26 +1051,6 @@
       "duration_ms": 158522,
       "name": "TAZA TAZA",
       "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suelta, Sola y Tranquila (feat. MYA)",
-        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
-      },
-      "artists": [
-        {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 149929,
-      "name": "Suelta, Sola y Tranquila (feat. MYA)",
-      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
     }
   ],
   "unique_name": "This Is MYA",

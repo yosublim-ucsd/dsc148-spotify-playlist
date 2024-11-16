@@ -4237,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Boteco da Novinha",
+        "url": "https://open.spotify.com/album/0qBFDBVwVGkpqzJrbvJkBj"
+      },
+      "artists": [
+        {
+          "name": "Bia Brasil",
+          "url": "https://open.spotify.com/artist/6pdabG7kszf6TdiJYHH1zx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119076,
+      "name": "Mordida e Carinho",
+      "url": "https://open.spotify.com/track/6ndDchFJol1XKQQ4GmMqei"
+    },
+    {
+      "album": {
         "name": "Ativando Sentimento 2.0",
         "url": "https://open.spotify.com/album/2ass4W5wTlPS8GBp5C1L8w"
       },
@@ -4248,7 +4266,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 135444,
       "name": "Mordida e Carinho",
       "url": "https://open.spotify.com/track/3HBxeoQfG3EjqVhCn9Njy5"

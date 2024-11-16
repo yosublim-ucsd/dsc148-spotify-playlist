@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-08-16",
-  "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
-  "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
+  "description": "festival music 2025 - festival songs - festival mix - music festival - music mix - mainstage mix - mainstage music",
+  "name": "Festival Music 2025 \ud83d\udca5 ",
   "tracks": [
     {
       "album": {
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 126718,
       "name": "Energy Flow Eternal",
       "url": "https://open.spotify.com/track/66TbpLvQxLqEctvObaZL3y"
@@ -3844,10 +3844,32 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 142352,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1"
+    },
+    {
+      "album": {
+        "name": "i wanna fly",
+        "url": "https://open.spotify.com/album/4IgF5ddheFwicDBduGXsHD"
+      },
+      "artists": [
+        {
+          "name": "Revaeon",
+          "url": "https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC"
+        },
+        {
+          "name": "David Frank",
+          "url": "https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "i wanna fly",
+      "url": "https://open.spotify.com/track/68JOHaMI8coukJfb1TCTZ9"
     },
     {
       "album": {
@@ -8312,6 +8334,24 @@
       "duration_ms": 212812,
       "name": "World Comes Undone",
       "url": "https://open.spotify.com/track/7FkHbXxJoX6vx5M69wZLFh"
+    },
+    {
+      "album": {
+        "name": "You Protect Me",
+        "url": "https://open.spotify.com/album/7LBSAJMn87qjqjF8eoima4"
+      },
+      "artists": [
+        {
+          "name": "Lee Roy Mon'do",
+          "url": "https://open.spotify.com/artist/4Wxrposn6r7Yi6EJAh8Nwc"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201830,
+      "name": "You Protect Me",
+      "url": "https://open.spotify.com/track/7bUn12J9UiiA5t8bh1O4ci"
     },
     {
       "album": {

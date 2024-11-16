@@ -1,13 +1,205 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 36246,
+  "num_followers": 36313,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy5lAAAAAABdnReJze8Wa//hDwRFjpJR",
+  "snapshot_id": "ZzbVUAAAAAB1tAqewVYlzGZLT/2arpde",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "When You're Kind",
+        "url": "https://open.spotify.com/album/4ln3dVv8mNOKny0Ytigm32"
+      },
+      "artists": [
+        {
+          "name": "Brady Rymer and the Little Band That Could",
+          "url": "https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6"
+        },
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 195729,
+      "name": "When You're Kind",
+      "url": "https://open.spotify.com/track/63o4V73g8NNhc6ZPMDg95z"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0Exwt5eovws06FnDZQnKNO"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 167083,
+      "name": "The Travel Song",
+      "url": "https://open.spotify.com/track/4GLZXHtpZay4BviqxzRlPO"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "\uc544\uae30\uc0c1\uc5b4 \uc2a4\ud398\uc15c \uc601\uc5b4 \uc568\ubc94",
+        "url": "https://open.spotify.com/album/7CA7ant3QicN9pGs93ZBRs"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 140184,
+      "name": "Baby Shark's Thanksgiving Day",
+      "url": "https://open.spotify.com/track/2cY69gLhIv8NtANdODC2LC"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Kindergarten Songs with Johny",
+        "url": "https://open.spotify.com/album/1FV2sTUyhknpTRKYpR0gqq"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 126400,
+      "name": "Recyling Song",
+      "url": "https://open.spotify.com/track/7ricJ8stXj6ZJX9wlm9RgE"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Things Go Wrong",
+        "url": "https://open.spotify.com/album/4iwGn8AnJiDLIj3lwZ7xky"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tashian",
+          "url": "https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "Things Go Wrong",
+      "url": "https://open.spotify.com/track/0tlpmzaBIiOguySJQuyly5"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Way It Was Before (End Credits Version) [From the Skydance Animation Film \u201cSpellbound\u201d]",
+        "url": "https://open.spotify.com/album/60hiESggNyRXv4japokeyn"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 226277,
+      "name": "The Way It Was Before (End Credits Version) - From the Skydance Animation Film \u201cSpellbound\u201d",
+      "url": "https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Little Angel Christmas",
+        "url": "https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 117840,
+      "name": "Jill's Frozen Palace",
+      "url": "https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Winter Games (From \"The Christmas Letter Express\")",
+        "url": "https://open.spotify.com/album/34R6Ssp0DxDjgsq6JO1DKT"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Winter Games - From \"The Christmas Letter Express\"",
+      "url": "https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Gummy Bear Show: Season Two Soundtrack",
+        "url": "https://open.spotify.com/album/02jIvAfEhR4q6b2M5hawtO"
+      },
+      "artists": [
+        {
+          "name": "Gummib\u00e4r",
+          "url": "https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G"
+        }
+      ],
+      "duration_ms": 67200,
+      "name": "Gummerish",
+      "url": "https://open.spotify.com/track/6Mdiptw41ULztlMbxmtr5T"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Abc - the Alphabet Song",
+        "url": "https://open.spotify.com/album/2LCC4MMTFAbceIqquMpZHI"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes and Kids Songs",
+          "url": "https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO"
+        },
+        {
+          "name": "Twinkle Twinkle Little Star",
+          "url": "https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY"
+        },
+        {
+          "name": "Lullaby Babies",
+          "url": "https://open.spotify.com/artist/695nGpWc1okscGp3hZklgP"
+        }
+      ],
+      "duration_ms": 106808,
+      "name": "Abc - the Alphabet Song",
+      "url": "https://open.spotify.com/track/50OeXhPiLZ3X6e0jjuCMsc"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wonderoos: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/39dgjxdMWSWr13twgq0ti7"
+      },
+      "artists": [
+        {
+          "name": "Wonderoos",
+          "url": "https://open.spotify.com/artist/7cD40ktxe0D5lx8MN2aiGJ"
+        }
+      ],
+      "duration_ms": 75954,
+      "name": "Personal Space",
+      "url": "https://open.spotify.com/track/5S17Uv4sGFXVlqTpepk2WK"
+    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {

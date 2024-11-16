@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,417 likes - 82 songs - 4 hr 2 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,416 likes - 83 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 80 | [Let Me Go](https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B) | [Let Me Go](https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci) | 3:05 |
 | 81 | [\(Sing It Again\) Nanana \- Original Mix](https://open.spotify.com/track/7cbKcdNGhkUF5mryLb5w7Y) | [Alex Poet](https://open.spotify.com/artist/1tGEWCT1OGYoCGgHEeEqLT), [Tess Leah](https://open.spotify.com/artist/2HG2anwywl9d9XWgmxhAQb) | [\(Sing It Again\) Nanana](https://open.spotify.com/album/2zpHivTdS5WUtMuzxjj6GV) | 2:59 |
 | 82 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 |
+| 83 | [Hold Me Up \- Club Mix](https://open.spotify.com/track/3jTJxNAnY1PiS8Rw8nG2Ak) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj), [Beau Rêve](https://open.spotify.com/artist/7vCjnEisCy0S3vF2ft8bUA) | [Hold Me Up \(feat\. Beau Rêve\)](https://open.spotify.com/album/7i5Mdf5eCErqBa1vJvAypC) | 5:13 |
 
-Snapshot ID: `AAAKHc8BGzPYMKzN2ODCsRqqzIJbmN4e`
+Snapshot ID: `AAAKHrC27E3C5+TXArtOakmSgK4wHkxB`

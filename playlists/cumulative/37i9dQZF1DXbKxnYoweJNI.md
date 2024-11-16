@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 163 braces
 
-1,077 songs - 2 day 14 hr 28 min
+1,078 songs - 2 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [一尋長个空間](https://open.spotify.com/track/1bQrY9HeRpQdkTnvbjbkPA) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg) | [樹影](https://open.spotify.com/album/2XK09sjUtTm8XNvEgTTN5T) | 3:13 | 2024-10-31 |  |
 | [一年四季都為你開花](https://open.spotify.com/track/2nvNOFJwS9Pd20jbTZ47QI) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [一年四季都為你開花](https://open.spotify.com/album/07nHG6Vq7Cz9HlSb3JavzW) | 3:00 | 2024-09-26 | 2024-10-18 |
 | [一整天](https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [一整天](https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8) | 3:08 | 2024-08-22 | 2024-09-13 |
+| [一棵不逃跑的小草](https://open.spotify.com/track/6aq2LLZQhNDu1O65zAApNn) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj) | [原地重生 Eterno](https://open.spotify.com/album/2ZbVunpAL6JIExTFoP2eRt) | 4:15 | 2024-11-14 |  |
 | [一片海](https://open.spotify.com/track/01f3jEWKOTpZYhFzjW626r) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [一片海](https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM) | 4:47 | 2024-07-18 | 2024-08-09 |
 | [一盤棋局](https://open.spotify.com/track/6Zxnf0AlkRGM03pdSTi9XG) | [Insnowk](https://open.spotify.com/artist/5aeU78blusuYLltNCugrmg) | [一盤棋局](https://open.spotify.com/album/2p5g2CgMqvpluLUaVK0qSB) | 1:50 | 2024-07-18 | 2024-07-27 |
 | [一瞬間](https://open.spotify.com/track/23RfZ6VIC4cbQakEi2Xvff) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [一瞬間](https://open.spotify.com/album/3VBYWKe1QxKXPhBRUbmqUu) | 3:51 | 2024-08-01 | 2024-08-09 |
@@ -887,7 +888,7 @@
 | [白菜滷](https://open.spotify.com/track/2DqNlMtpiTIrS9wQeYTMx2) | [白菜Diva](https://open.spotify.com/artist/6x1TqaHtcF13W6XrwFRlYS) | [白菜滷](https://open.spotify.com/album/5TZDSnWmxGqUo8fxrcTclu) | 2:59 | 2024-07-25 | 2024-08-09 |
 | [白鯨](https://open.spotify.com/track/6w9CAbbOnJcCHS6s7ETM6o) | [集夢所Dreamoresoul](https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj) | [白鯨](https://open.spotify.com/album/4ibqic2LkcinoCY1TaLtA2) | 5:43 | 2024-08-29 | 2024-09-20 |
 | [盡好个樣仔](https://open.spotify.com/track/7lorslqXn1ydvT3mlyR5d4) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg) | [盡好个樣仔](https://open.spotify.com/album/6NyhVtnsfeasb0xjZv6mtq) | 3:35 | 2024-10-17 | 2024-10-25 |
-| [直男愛](https://open.spotify.com/track/25wEhZs3gGZKzjCZwASkPB) | [Green Father 比杰](https://open.spotify.com/artist/5eIj9ZZOKLuHLtRw00oPGk) | [比式情歌 \(BJ4情歌\)](https://open.spotify.com/album/7iR3m88cm27Vz9Jx5WU8no) | 3:04 | 2024-11-14 |  |
+| [直男愛](https://open.spotify.com/track/25wEhZs3gGZKzjCZwASkPB) | [Green Father 比杰](https://open.spotify.com/artist/5eIj9ZZOKLuHLtRw00oPGk) | [比式情歌](https://open.spotify.com/album/7iR3m88cm27Vz9Jx5WU8no) | 3:04 | 2024-11-14 |  |
 | [相像](https://open.spotify.com/track/5FBjb0I25KrkDI0nDApQhv) | [Aiden Chen](https://open.spotify.com/artist/4fN8OLPzgJFd7t40sbomjB) | [Breathe](https://open.spotify.com/album/6fIjnQnBCt1NGmU9w6FIUc) | 3:14 | 2024-08-15 | 2024-08-23 |
 | [相同的缺憾](https://open.spotify.com/track/3rM9zESfGk4wXZWlz90L36) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [相同的缺憾](https://open.spotify.com/album/1i2E6Rv5fRgUJJ1G9f5ULx) | 4:18 | 2024-06-27 | 2024-07-12 |
 | [盼](https://open.spotify.com/track/7jtugiIDk6e96QmjfTyXcu) | [感覺莓果](https://open.spotify.com/artist/53JmjSxMNGjiQXrQejmdXJ) | [盼](https://open.spotify.com/album/5HR6ACu190HKBtSlExZMJR) | 5:05 | 2024-09-12 | 2024-09-27 |

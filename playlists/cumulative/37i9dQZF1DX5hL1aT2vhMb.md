@@ -4,10 +4,12 @@
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Rosey Chan
 
-90 songs - 7 hr 37 min
+92 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24 Preludes, Op\. 11: No\. 11 in B Major \- Allegro assai](https://open.spotify.com/track/1PAqSLGvxkiEyjecebGu4u) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [24 Preludes, Op\. 11: No\. 11 in B Major \- Allegro assai](https://open.spotify.com/album/1XySkB32VZYjd0Rb8KjTIs) | 1:46 | 2024-11-15 |  |
+| [3 Liebesträume, S\. 541/3: No\. 3, O lieb, so lang du lieben kannst \(Arr\. for Harp by Nora von Marschall\)](https://open.spotify.com/track/4IsoCqXixbkRFLnIv0K2WY) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Nora von Marschall](https://open.spotify.com/artist/5By8kJBrn6lYKCVKHJSyts) | [Liszt: 3 Liebesträume, S\. 541/3: No\. 3, O lieb, so lang du lieben kannst \(Arr\. for Harp by Nora von Marschall\)](https://open.spotify.com/album/1NoXqEH1tDoXByWr3qxCxM) | 5:10 | 2024-11-15 |  |
 | [3 Pieces for cello and piano: No\. 1\. Modere](https://open.spotify.com/track/5a0nC0tGDJBpGMZu3PeekY) | [Nadia Boulanger](https://open.spotify.com/artist/1vfC2bld90kx966JTCSwf7), [Nicolas Altstaedt](https://open.spotify.com/artist/5W3AiBPc48fhMSqd2T7ypV), [José Gallardo](https://open.spotify.com/artist/3XGSN1ohby5TBnIN0kbH2E) | [Altstaedt, Nicolas \- French Cello Sonatas](https://open.spotify.com/album/53JzBLhG5laCLndqWOC2at) | 2:37 | 2021-12-13 |  |
 | [3 Romances, Op\. 22: No\. 1, Andante molto \(Arr\. Knoth for Cello and Piano\)](https://open.spotify.com/track/4p9KKWwIbCJHzKGbQt5PgT) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Sophie Kauer](https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO), [Kunal Lahiry](https://open.spotify.com/artist/3vArgOb02B95jlv2WianoI) | [Unsung](https://open.spotify.com/album/2itnOSYnhB8PC0Wg11Lvm7) | 3:10 | 2023-03-17 |  |
 | [6 Romances sans paroles, Op\. 76: No\. 1\. Souvenance](https://open.spotify.com/track/0It6vbvsLBhNTSWBpsoOuG) | [Cécile Chaminade](https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk), [Cindy Lin](https://open.spotify.com/artist/4pKNPH6cxK4oZ7H52FXEtQ) | [French Character Pieces](https://open.spotify.com/album/72IeQy1RWS4gagCBw1B8MZ) | 2:04 | 2021-12-13 |  |

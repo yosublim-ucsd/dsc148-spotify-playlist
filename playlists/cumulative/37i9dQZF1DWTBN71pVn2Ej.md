@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Superheaven \(pictured\), Cloned Apparition, trauma ray, Koyo and more.
+> The shape of noise to come with Cloned Apparition \(pictured\), Heart to Gold, Touché Amoré, Skeever and more.
 
-728 songs - 1 day 17 hr 28 min
+733 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 | 2023-06-16 | 2023-10-14 |
 | [Bored Again](https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Bored Again](https://open.spotify.com/album/7kL4uWsTVVZEr2BPdh5lNi) | 3:27 | 2022-06-30 | 2022-10-08 |
 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 | 2024-03-01 | 2024-06-22 |
+| [Borrowed](https://open.spotify.com/track/2oq0G2o0KHuyKxBoSEM6DN) | [Skeever](https://open.spotify.com/artist/2hwZtNH1ykR4CFp9xTY0VQ) | [Needle & Thread](https://open.spotify.com/album/5FzC8wCjWmXjQZ73HgKJVU) | 3:39 | 2024-11-15 |  |
 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 | 2021-12-16 | 2022-03-25 |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-12 | 2022-09-07 |
 | [Boy Like A Bruise](https://open.spotify.com/track/37ivvSTZF3yTCyyyW5v08x) | [ASkySoBlack](https://open.spotify.com/artist/7e8EPuQ1r9dDRRdbauA0NJ) | [Boy Like A Bruise](https://open.spotify.com/album/3ZTupcS7LnL0carCQi2Izf) | 3:25 | 2024-04-26 | 2024-06-15 |
@@ -409,6 +410,7 @@
 | [Lost](https://open.spotify.com/track/6BqgHmpqpH4NdOPHBIXdbX) | [Splitview](https://open.spotify.com/artist/3ZjcTj1vxM9i0f7QDfRPuZ) | [Lost](https://open.spotify.com/album/3RIMfBYFKJK95t1PPYw18N) | 3:03 | 2024-10-11 |  |
 | [Lost Without You](https://open.spotify.com/track/1CGXfTg13n4ffV2pSVqnkW) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [I Don't Belong Anywhere](https://open.spotify.com/album/2tg6crJ0g14sgA9qDLpRT3) | 3:51 | 2022-10-14 | 2023-03-11 |
 | [Love Sick](https://open.spotify.com/track/3wSBw0krlZtyHIpJiYDIXJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Love Sick](https://open.spotify.com/album/4K1HLxFkJcMx9D56R217nZ) | 2:29 | 2024-04-12 | 2024-09-14 |
+| [Low](https://open.spotify.com/track/2AFnAMgW74uETtdtZ3IlFA) | [12th House Sun](https://open.spotify.com/artist/4rXSUCyiubZ8gXEWUchdQf) | [12th House Sun X Psylo Split](https://open.spotify.com/album/3NLvVaYZUZGgHPuFUAhPS9) | 3:53 | 2024-11-15 |  |
 | [Low Tide](https://open.spotify.com/track/6uxInNTDHxVztwjRSrPQAM) | [Deer Fang](https://open.spotify.com/artist/0jw4n2l8CqhDcLLxecvBtV) | [Low Tide](https://open.spotify.com/album/5xsVS2oKabj0mvO2ZIqFlz) | 3:35 | 2024-10-14 |  |
 | [Lucky](https://open.spotify.com/track/2khr0Gm7Aa6x5IyWx8VDF9) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Lucky](https://open.spotify.com/album/3t4tuSnXX509RXzNABMHHm) | 4:03 | 2022-05-26 | 2022-07-01 |
 | [Luddite](https://open.spotify.com/track/0BTLSHxSjeA7UAQ9sTxXXz) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Luddite](https://open.spotify.com/album/0ux250DqqYVJwQ3jJTqG8N) | 4:01 | 2023-03-02 | 2023-05-27 |
@@ -441,6 +443,7 @@
 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 | 2022-11-04 | 2023-04-09 |
 | [Mood Ring](https://open.spotify.com/track/1G8801Xjv5DtBzmOn5yUjV) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [Til Your Lungs Fall Out](https://open.spotify.com/album/032Ru084gRFiYPGnvzNLTz) | 2:41 | 2024-03-01 | 2024-03-09 |
 | [Morning Haze](https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE) | [Family Dinner](https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj) | [Morning Haze](https://open.spotify.com/album/1E6rJFpTgage3sExihOADT) | 3:48 | 2023-07-14 | 2024-02-10 |
+| [Mother Falcon](https://open.spotify.com/track/5uy6YqrObrNLQTETcFllYT) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Free Help](https://open.spotify.com/album/6bV0iUlFpQBsCK9LJvOAe3) | 3:47 | 2024-11-15 |  |
 | [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 | 2022-06-30 | 2022-07-29 |
 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 | 2022-06-30 | 2022-10-29 |
 | [Mourning Haze](https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Mourning Haze](https://open.spotify.com/album/2S3Wt1x9GTq9POIuyMJTQR) | 3:27 | 2024-11-12 |  |
@@ -449,6 +452,7 @@
 | [My Front Door](https://open.spotify.com/track/6tBzEPbhZO9AzTTzRRlBjC) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [My Front Door](https://open.spotify.com/album/1hxKu3AkWaNPUbMzZUU3RH) | 3:43 | 2024-05-24 | 2024-07-09 |
 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 | 2023-06-02 | 2023-07-21 |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-02 |  |
+| [need to feel me](https://open.spotify.com/track/4y4zBCZRV1fGDEDqPDN5dw) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [need to feel me](https://open.spotify.com/album/3OYTt6XpWER0wKX7aRbjTQ) | 3:18 | 2024-11-15 |  |
 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 | 2023-06-23 | 2023-12-15 |
 | [Never Speak](https://open.spotify.com/track/4TtyuFuP2AfZDU8RGcxblH) | [Fake Eyes](https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk) | [Never Speak / Faulty by Design](https://open.spotify.com/album/6pmCnigSXfVunZLcqn22tV) | 2:30 | 2024-10-04 |  |
 | [Nevermore](https://open.spotify.com/track/1FAPmkpCbkvQV0ZU0OnuSI) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Nevermore](https://open.spotify.com/album/7xAcg2RklyWkpIIipwu7Bp) | 3:18 | 2021-12-16 | 2022-02-18 |
@@ -480,6 +484,7 @@
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-21 | 2023-05-04 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-31 | 2022-11-05 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-07-29 |
+| [On Show](https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/7utWDQvMIaQ1Hc7tPrPY7T) | 3:19 | 2024-11-15 |  |
 | [ONE NATION](https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [ONE NATION](https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q) | 3:03 | 2024-11-01 |  |
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 | 2022-10-22 |
 | [Only One](https://open.spotify.com/track/2ba9azFI83kqCDUwWudeww) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/0D1pDHXoeqeOdBmtzbnji3) | 3:21 | 2023-04-07 | 2023-04-15 |

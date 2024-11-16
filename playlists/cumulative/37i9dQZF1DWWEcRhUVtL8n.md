@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: mxmtoon
 
-1,998 songs - 4 day 9 hr 39 min
+1,999 songs - 4 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [first date](https://open.spotify.com/track/0krX9hJnPumvskNrCRSKi6) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [first date](https://open.spotify.com/album/05UMfIfxafF9TKlIOE0uhN) | 2:23 | 2022-02-25 | 2022-04-08 |
 | [First to Love](https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [First To Love](https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt) | 4:38 | 2022-01-21 | 2022-08-06 |
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-01-21 | 2022-04-20 |
+| [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 | 2024-11-15 |  |
 | [Flem](https://open.spotify.com/track/3Hz2v0xug42k3JO910jia5) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Maltman and Effie](https://open.spotify.com/album/3fMhlibIYwYG32CifC7DOq) | 5:04 | 2022-06-24 | 2022-06-28 |
 | [Float Through The Ceiling](https://open.spotify.com/track/7aYv3jUbXvySVnHgVwXoaJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Float Through The Ceiling](https://open.spotify.com/album/4royMykJ55TjzXJhHQhiv6) | 2:45 | 2022-02-25 | 2022-05-20 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-27 | 2022-04-13 |
@@ -1780,7 +1781,7 @@
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-06-07 | 2022-07-23 |
 | [the lifeboat's empty!](https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [the lifeboat's empty!](https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF) | 2:54 | 2022-01-28 | 2022-08-06 |
 | [The Love I Need](https://open.spotify.com/track/06vtJ5s10B4WxAVxbRZ6M7) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [The Love I Need](https://open.spotify.com/album/7wACpLyV6EOhy8go1jDSg3) | 3:23 | 2021-03-07 | 2021-05-26 |
-| [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 |  |
+| [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 | 2024-11-16 |
 | [The Magician](https://open.spotify.com/track/1MA0Brb5DfaovmyTVNP7Jt) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [The Magician](https://open.spotify.com/album/54YSU1rpwZiIopfoW054zN) | 3:38 | 2020-10-20 | 2020-10-21 |
 | [The Middle of Nowhere](https://open.spotify.com/track/6j9cbCHQgQeQMlSngzaggO) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Middle of Nowhere](https://open.spotify.com/album/0C1xbHunjBjfnBZIo9N54b) | 2:48 | 2022-02-25 | 2022-04-19 |
 | [the movies](https://open.spotify.com/track/4RR9tI04ScTvVBCVTyTzhy) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [the movies](https://open.spotify.com/album/5lMbbv5F6eayTK3Fw1x4lZ) | 2:58 | 2020-10-20 | 2020-10-21 |

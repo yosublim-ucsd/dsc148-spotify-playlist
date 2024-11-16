@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Leah Halili Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,447 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,478 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 87 | [Dirty Dancing](https://open.spotify.com/track/5Txva6WHEkHgkzpJLcVxos) | [Reybones](https://open.spotify.com/artist/6lvOqMW970QG4KjXhiWMuA) | [Dirty Dancing](https://open.spotify.com/album/5aFXBbmpeukEBc8l0FDeTi) | 3:07 |
 | 88 | [Lakbay](https://open.spotify.com/track/5NsXYQKtWxjnIUh8JvJwYM) | [Mary Anchit](https://open.spotify.com/artist/6ec4SY60BQla594n8PD27N) | [Lakbay](https://open.spotify.com/album/6cK0BPPQkmkNrgakaKvBwi) | 4:07 |
 | 89 | [Tingin](https://open.spotify.com/track/5WtRYRtUr1Fhn9BYL3Dv4N) | [Avidra](https://open.spotify.com/artist/3LqfLrMOSg1pURrrA1lmju) | [Tingin](https://open.spotify.com/album/5Z6gzsXLkobHOBHbywvDH7) | 2:57 |
-| 90 | [Pa'no Na Lang](https://open.spotify.com/track/2s0ZUzBZASTYCVOUBVaDHq) | [Kyle Anunciacion](https://open.spotify.com/artist/2RcMJ6z1jENNCK8NciAYrQ) | [Pa'no Na Lang](https://open.spotify.com/album/3NRk072xJ27HIh2HnnOCaA) | 3:37 |
+| 90 | [Pa'no Na Lang](https://open.spotify.com/track/2s0ZUzBZASTYCVOUBVaDHq) | [Kyle Anunciacion](https://open.spotify.com/artist/2RcMJ6z1jENNCK8NciAYrQ) | [Pa'no Na Lang](https://open.spotify.com/album/3NRk072xJ27HIh2HnnOCaA) | 3:38 |
 | 91 | [9AM Coffee](https://open.spotify.com/track/4suPYuv5i16uXOxvfK5J1q) | [Nico Blitz](https://open.spotify.com/artist/2UFy0sE64DamZfD20t0DMP), [CHIA](https://open.spotify.com/artist/6NwQOWkGSC8yaQgI77h8wh) | [9AM Coffee](https://open.spotify.com/album/1C1WtILu2elkTVR3IsRlh1) | 2:51 |
 | 92 | [Cielo](https://open.spotify.com/track/3xw4Uiza8vEopvFi35q1vV) | [Giver Costibolo](https://open.spotify.com/artist/0At2D6BPXmV2MK6S6NSlaA) | [Cielo](https://open.spotify.com/album/18IX5wspo6ClgMEzuemvmN) | 3:40 |
 | 93 | [She Don't](https://open.spotify.com/track/19nRNXTHFIO6kadcO9s7a6) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU) | [She Don't](https://open.spotify.com/album/66cfmoek7arPIfImWDJyJf) | 3:36 |

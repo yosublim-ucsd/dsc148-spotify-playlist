@@ -527,6 +527,28 @@
     },
     {
       "album": {
+        "name": "Into The Wind",
+        "url": "https://open.spotify.com/album/5dTFIpg8E87NJmMhpuPtKF"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "IVETA",
+          "url": "https://open.spotify.com/artist/0Ovl0zogGMb3ggjDSOaAFp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Better Than This ft. IVETA",
+      "url": "https://open.spotify.com/track/00Rqbth6VNzxB8v6P61Az3"
+    },
+    {
+      "album": {
         "name": "Kana EP",
         "url": "https://open.spotify.com/album/68akROjc9w0rBeSpJjBI0x"
       },
@@ -2012,6 +2034,24 @@
       "duration_ms": 340440,
       "name": "Kalimba",
       "url": "https://open.spotify.com/track/5KsE8PudCoHMqMUDUzLGdV"
+    },
+    {
+      "album": {
+        "name": "Into The Wind",
+        "url": "https://open.spotify.com/album/5dTFIpg8E87NJmMhpuPtKF"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390717,
+      "name": "Khazna",
+      "url": "https://open.spotify.com/track/1mrHEE9unXyDrG3rAFiDsh"
     },
     {
       "album": {

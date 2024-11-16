@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Estevie.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con PARDOPARDO.",
   "name": "Mixto",
   "tracks": [
     {
@@ -1536,6 +1536,24 @@
       "duration_ms": 183909,
       "name": "bend&break",
       "url": "https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt"
+    },
+    {
+      "album": {
+        "name": "BENDITA SEA LA HORA",
+        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147711,
+      "name": "BENDITA SEA LA HORA",
+      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
     },
     {
       "album": {
@@ -6318,7 +6336,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 253189,
       "name": "hongo",
       "url": "https://open.spotify.com/track/5nxB7s96I7383hrXvUSR3K"
@@ -9768,7 +9786,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 252500,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE"
@@ -15752,6 +15770,24 @@
       "duration_ms": 214853,
       "name": "Y Se Va Se Va",
       "url": "https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x"
+    },
+    {
+      "album": {
+        "name": "TANTO POR HACER",
+        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192942,
+      "name": "Y Yo Que Pensaba",
+      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> quem deu AULAS em poetas no topo 4??
+> é dos banco de praça no ttk que o ret dá AULAS
 
-387 songs - 21 hr 21 min
+388 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A Volta por Baixo](https://open.spotify.com/track/7Eh9GH4NJJWYEPZ51tjF9y) | [Digmanybeats](https://open.spotify.com/artist/6S3UKXF6SJpHxa0IAsiFrf), [Mascote](https://open.spotify.com/artist/1XQtxLkaACQMsRGiKwuI3h), [Dej@ Vu](https://open.spotify.com/artist/5hOzHF5795K4MIkzb5t5At), [Dj WillCutz](https://open.spotify.com/artist/2ruuaPdNES9RSkFG0tsryU), [Mundiko](https://open.spotify.com/artist/23rOBipODsgo3Mw3zMF8Hf) | [Ligue os Pontos](https://open.spotify.com/album/6xHVSiBuJAhWB9bg3G8eG8) | 3:14 | 2023-11-11 | 2023-12-16 |
 | [Abençoado](https://open.spotify.com/track/4KdbIsaPbgBke0NNwcu2Te) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Matheusiddy](https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93) | [Abençoado](https://open.spotify.com/album/2wmoonsjdu80s2YBtu5Knr) | 2:29 | 2023-04-28 | 2023-06-03 |
 | [Acabou, mas tem...](https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ) | 3:55 | 2024-03-01 | 2024-05-18 |
+| [Acima De Mim Só Deus](https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:30 | 2024-11-15 |  |
 | [Algo Íntimo](https://open.spotify.com/track/7e0DPzHixf5MyclQRCUkJa) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Algo Íntimo](https://open.spotify.com/album/5r8KbnTBjBDQe0yp0h3WHE) | 2:43 | 2022-08-12 | 2022-08-27 |
 | [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 | 2023-10-06 |  |
 | [Amanhã](https://open.spotify.com/track/2SFv0KNd4UUWnFZS0X9CUT) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Amanhã](https://open.spotify.com/album/6ugfJZBcwwvdwqRqwPH5LX) | 3:45 | 2024-05-17 | 2024-08-09 |
@@ -346,7 +347,7 @@
 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 | 2022-04-12 | 2023-07-08 |
 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 | 2024-09-27 |  |
 | [Sobe junto](https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Sobe junto](https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt) | 3:25 | 2022-03-04 | 2022-05-07 |
-| [sodade](https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 2:45 | 2024-06-27 |  |
+| [sodade](https://open.spotify.com/track/1fXFNDgwUEXQObh7A9XN10) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 2:45 | 2024-06-27 | 2024-11-16 |
 | [Sol](https://open.spotify.com/track/3nh2epfcWTwQIQdXDZbJIX) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Bonbap](https://open.spotify.com/artist/0I0iUZ8SnWxEFPhSDCMfrw), [Mbeattz](https://open.spotify.com/artist/1MDnJ2vb1OP6ytire9Ai5W) | [O Resgate do Maestro](https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1) | 2:50 | 2023-06-30 | 2023-07-29 |
 | [Solta Minha Blusa](https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 1:57 | 2023-08-04 | 2023-11-07 |
 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 | 2024-02-23 |  |

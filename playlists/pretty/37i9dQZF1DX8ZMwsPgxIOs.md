@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,479 likes - 109 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,495 likes - 109 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 5 | [Body](https://open.spotify.com/track/0QNzoNLS7s579XX3foNwKi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Body](https://open.spotify.com/album/69b1aa87cmfovEf5iSspgc) | 2:05 |
 | 6 | [Escape From Planet Monday \(ASOT 1197\)](https://open.spotify.com/track/6yrmAzbVZqSNiqohmsWEGC) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [ASOT 1197 \- A State of Trance Episode 1197 \[Including Live at Ultra Music Festival Miami 2018 \(Highlights\)\]](https://open.spotify.com/album/1axIzN3WqvVnmvw03cya18) | 3:00 |
 | 7 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 |
-| 8 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:54 |
+| 8 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:54 |
 | 9 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 |
 | 10 | [My Fantasy](https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [My Fantasy](https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF) | 3:00 |
 | 11 | [Roll The Windows Down](https://open.spotify.com/track/1OQ5MRSyHjkufpiRXOSIh8) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Roll The Windows Down](https://open.spotify.com/album/7h3CIQh9QUyYAX1bKNjRvA) | 4:39 |

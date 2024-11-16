@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "horizon",
+        "url": "https://open.spotify.com/album/40Wq6rw9mbo4N4e0dNqMzJ"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150201,
+      "name": "horizon",
+      "url": "https://open.spotify.com/track/19Rms0r43i2fLRAoaUEYuV"
+    },
+    {
+      "album": {
         "name": "above the northern skies shown",
         "url": "https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW"
       },

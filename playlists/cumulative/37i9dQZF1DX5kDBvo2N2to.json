@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155300,
       "name": "Innerst Inne",
       "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
@@ -3786,6 +3786,24 @@
       "duration_ms": 140273,
       "name": "Willing To Wait",
       "url": "https://open.spotify.com/track/2cM1WarAAfBSUy3jPnhfRK"
+    },
+    {
+      "album": {
+        "name": "Yine A\u015f\u0131k Oldum Sana",
+        "url": "https://open.spotify.com/album/73gHXKxN8SoaX6UAIUXjq4"
+      },
+      "artists": [
+        {
+          "name": "Bahoz & Baran",
+          "url": "https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155346,
+      "name": "Yine A\u015f\u0131k Oldum Sana",
+      "url": "https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk"
     },
     {
       "album": {

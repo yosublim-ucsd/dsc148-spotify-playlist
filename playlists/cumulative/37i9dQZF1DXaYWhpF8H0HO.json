@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Tarasinta",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Afgan, th\u1ee7y",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 168357,
       "name": "4head",
       "url": "https://open.spotify.com/track/66lKXZ6uhPyH5ayIB3jdXJ"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 226306,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 146184,
       "name": "BOMBAE",
       "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171951,
+      "name": "Criminal (Over You)",
+      "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
+    },
+    {
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK"
       },
@@ -802,7 +824,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 231603,
       "name": "Devastated",
       "url": "https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN"
@@ -994,6 +1016,24 @@
       "duration_ms": 198319,
       "name": "Fade",
       "url": "https://open.spotify.com/track/6ZMImaADsVEfPjkk7HlcTS"
+    },
+    {
+      "album": {
+        "name": "Fall Over Me",
+        "url": "https://open.spotify.com/album/31MOJKRp31sl8NbgSZBGO4"
+      },
+      "artists": [
+        {
+          "name": "Shae",
+          "url": "https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268062,
+      "name": "Fall Over Me",
+      "url": "https://open.spotify.com/track/0oriH3sjxlK2u8HDhna9BG"
     },
     {
       "album": {
@@ -1370,7 +1410,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 178320,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT"
@@ -1674,7 +1714,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 196449,
       "name": "i don't want forever without you",
       "url": "https://open.spotify.com/track/0pHFtqtRTZ5M5oq7FUdiHU"
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 259216,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/2O10SZui7vue7ZyfWWjfcR"
@@ -1938,7 +1978,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 238866,
       "name": "Lead The Way",
       "url": "https://open.spotify.com/track/1cLPH5uHyByVdRFMGlnGRE"
@@ -2130,7 +2170,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 261358,
       "name": "Lost Satellite",
       "url": "https://open.spotify.com/track/3xqu3XCgVWxLrxFu6kemsQ"
@@ -2224,6 +2264,24 @@
       "duration_ms": 171200,
       "name": "love signs",
       "url": "https://open.spotify.com/track/3JYw0fvMbKrtAHR0PjgTEO"
+    },
+    {
+      "album": {
+        "name": "Love the Way You Are",
+        "url": "https://open.spotify.com/album/2aa2TbwE2IDWXwFPlrsHl8"
+      },
+      "artists": [
+        {
+          "name": "After Nourway",
+          "url": "https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218404,
+      "name": "Love the Way You Are",
+      "url": "https://open.spotify.com/track/1JcLZbXpkYvpuSIke3XqRU"
     },
     {
       "album": {
@@ -2570,7 +2628,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 247105,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh"
@@ -2682,7 +2740,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 208941,
       "name": "Ontime",
       "url": "https://open.spotify.com/track/00cKHPOFw2rOoYsKCwMmye"
@@ -2748,7 +2806,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 172501,
       "name": "Party In Bali (PIB) [feat. Jay Park]",
       "url": "https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D"
@@ -3147,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "So Far Down",
+        "url": "https://open.spotify.com/album/6XRDtDollKiMmYgGtOghnn"
+      },
+      "artists": [
+        {
+          "name": "ALFRED",
+          "url": "https://open.spotify.com/artist/2zsYdYIawqVd6sFYuwR9RE"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284946,
+      "name": "So Far Down",
+      "url": "https://open.spotify.com/track/3U1iy1sISCWmLAA8OtyUHa"
+    },
+    {
+      "album": {
         "name": "so much to say",
         "url": "https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV"
       },
@@ -3436,7 +3512,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 229642,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l"
@@ -3472,7 +3548,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 262608,
       "name": "TAKE YOU HOME",
       "url": "https://open.spotify.com/track/3AB0SaVOyeL7d0EoBHVFMo"
@@ -3980,7 +4056,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 293500,
       "name": "Would You Stay?",
       "url": "https://open.spotify.com/track/6eUJFyludmHQok1a4TBcOE"

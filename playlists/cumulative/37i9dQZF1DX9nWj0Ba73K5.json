@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "SONGS FOR EMILY",
+        "url": "https://open.spotify.com/album/65GjZjMOhm5bt7j9FnbfTS"
+      },
+      "artists": [
+        {
+          "name": "Marcus Hummon",
+          "url": "https://open.spotify.com/artist/1qZPaffNJqRhw2f864WMSA"
+        },
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149781,
+      "name": "I DWELL IN POSSIBILTY",
+      "url": "https://open.spotify.com/track/75D82GazGsk8z8e3TQZMra"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn"
       },

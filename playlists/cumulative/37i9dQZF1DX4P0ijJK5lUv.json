@@ -659,6 +659,32 @@
     },
     {
       "album": {
+        "name": "Winter Light",
+        "url": "https://open.spotify.com/album/5xnISrw6nuoCEYd1sdj0Wc"
+      },
+      "artists": [
+        {
+          "name": "Joanna Forbes L'Estrange",
+          "url": "https://open.spotify.com/artist/3kSwCjnTr4NgXcpXKqIjBk"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "name": "Ben Parry",
+          "url": "https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/3cnoa5cVaPNnxOAldyrERe"
+    },
+    {
+      "album": {
         "name": "Traditional: Auld Lang Syne (Arr. Knigge for Sopranino Recorder)",
         "url": "https://open.spotify.com/album/0TfKq63nHvSADrFgzxfLwO"
       },
@@ -738,6 +764,28 @@
       "duration_ms": 166666,
       "name": "Away in a Manger (arr. B. Chilcott for choir)",
       "url": "https://open.spotify.com/track/0tJx4IEravJFqyjRqT72Of"
+    },
+    {
+      "album": {
+        "name": "Away in a Manger",
+        "url": "https://open.spotify.com/album/2ISyXd93lUakk6unaNJJK5"
+      },
+      "artists": [
+        {
+          "name": "William J. Kirkpatrick",
+          "url": "https://open.spotify.com/artist/0IyFf7sJynolp1a7Ck79u9"
+        },
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129910,
+      "name": "Away in a Manger (Arr. for Piano by Rasmus H Thomsen)",
+      "url": "https://open.spotify.com/track/7ytoXv6KyLKT0JOfp0g0nV"
     },
     {
       "album": {
@@ -1416,6 +1464,28 @@
       "duration_ms": 205626,
       "name": "Coventry Carol",
       "url": "https://open.spotify.com/track/7Gk1oW8x5ENgJxjqQmV8r2"
+    },
+    {
+      "album": {
+        "name": "Coventry Carol (Arr. Rimmer for Saxophone & Ensemble)",
+        "url": "https://open.spotify.com/album/4m4rA7BxQxX28yOAQVg3Pq"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133683,
+      "name": "Coventry Carol (Arr. Rimmer for Saxophone & Ensemble)",
+      "url": "https://open.spotify.com/track/2Xz8LeqEjByQxWSlOFBh8j"
     },
     {
       "album": {
@@ -2894,6 +2964,28 @@
       "duration_ms": 149786,
       "name": "King Jesus hath a Garden",
       "url": "https://open.spotify.com/track/4cuI804v1BQPBKS68vBKHU"
+    },
+    {
+      "album": {
+        "name": "Christmas Piano II",
+        "url": "https://open.spotify.com/album/3qgYPAGXkF6QyMdrkRCk7L"
+      },
+      "artists": [
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118292,
+      "name": "Krippelied \"Es wird scho glei dumpa\"",
+      "url": "https://open.spotify.com/track/5GnGvQABnjFGIhCvHj03A7"
     },
     {
       "album": {
@@ -4569,6 +4661,36 @@
     },
     {
       "album": {
+        "name": "Ukrainian Christmas",
+        "url": "https://open.spotify.com/album/5cJIduHG6aaKzJgBKeMW4l"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Solomiya Ivakhiv",
+          "url": "https://open.spotify.com/artist/4vl5qyueBkJkgwIGRDZGwJ"
+        },
+        {
+          "name": "Lviv National Philharmonic Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2Rrb82TnQLhwIxuCMieb2i"
+        },
+        {
+          "name": "Serhii Khorovets",
+          "url": "https://open.spotify.com/artist/59847OsmFgLiIdNiwQxYhv"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215160,
+      "name": "Silent night (Arr. for Violin & Orchestra by B. Kryvopust)",
+      "url": "https://open.spotify.com/track/7jE43EC5019MCU3uJXsbgs"
+    },
+    {
+      "album": {
         "name": "Silent Night (Arr. Rimmer / Maydew)",
         "url": "https://open.spotify.com/album/1AjMYL4fYM4K3wdIeyC7pv"
       },
@@ -4644,6 +4766,36 @@
       "duration_ms": 247720,
       "name": "Sleep, Holy Babe",
       "url": "https://open.spotify.com/track/1k8JDHW1MMseKChbLdReah"
+    },
+    {
+      "album": {
+        "name": "Sleep, Jesus (From \"2 Christmas Lullabies\") [Arr. Tsupryk for Saxophone & Ensemble]",
+        "url": "https://open.spotify.com/album/5sse9SB5QN0epeWXfGdbP1"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        },
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177846,
+      "name": "Sleep, Jesus (From \"2 Christmas Lullabies\") [Arr. Tsupryk for Saxophone & Ensemble]",
+      "url": "https://open.spotify.com/track/6BEPzFDEzXO5K6ZkF5Kgk0"
     },
     {
       "album": {

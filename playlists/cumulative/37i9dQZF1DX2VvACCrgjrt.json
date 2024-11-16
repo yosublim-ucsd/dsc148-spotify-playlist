@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Steve Angello",
+  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -2329,6 +2329,36 @@
     },
     {
       "album": {
+        "name": "Bong",
+        "url": "https://open.spotify.com/album/4VXPBNpcY2NSZ553TcZHfR"
+      },
+      "artists": [
+        {
+          "name": "Mikes Eyes",
+          "url": "https://open.spotify.com/artist/7HeYh7vCDCpCBCqkesA3MA"
+        },
+        {
+          "name": "Alexander Brown",
+          "url": "https://open.spotify.com/artist/7lbTzUBIc6BXQNFFvkTqIF"
+        },
+        {
+          "name": "DjabaTheHot",
+          "url": "https://open.spotify.com/artist/0zMMDoqDnZmyHgAdw8wMQz"
+        },
+        {
+          "name": "Jamell Rene",
+          "url": "https://open.spotify.com/artist/0XAF63Sk4eYGbuCN9U8Ut2"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155059,
+      "name": "Bong",
+      "url": "https://open.spotify.com/track/0kvweAa9Ti4RR2hXnMjHWo"
+    },
+    {
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/2mjYoaMqoYClRhzVHjTPcm"
       },
@@ -3082,7 +3112,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 155624,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
@@ -4082,7 +4112,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 168000,
       "name": "Dare (Gimme 5)",
       "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
@@ -4586,7 +4616,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 151277,
       "name": "Dirty Secret",
       "url": "https://open.spotify.com/track/2EbHWANHfsdKXx1OH40hfw"
@@ -4892,6 +4922,28 @@
       "duration_ms": 204772,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
+    },
+    {
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "INDECK.",
+          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200944,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
     },
     {
       "album": {
@@ -5564,6 +5616,24 @@
       "duration_ms": 185382,
       "name": "Fattoush",
       "url": "https://open.spotify.com/track/5M6WI1MqhNolPu9QaBopxU"
+    },
+    {
+      "album": {
+        "name": "Fear Less",
+        "url": "https://open.spotify.com/album/5unnUYtOJfP0xG6sSSnbSY"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Fear Less",
+      "url": "https://open.spotify.com/track/54HJIJxdHSPJWCy9i56xem"
     },
     {
       "album": {
@@ -6603,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Get Hyped",
+        "url": "https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "Get Hyped",
+      "url": "https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0"
+    },
+    {
+      "album": {
         "name": "Get In",
         "url": "https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu"
       },
@@ -7394,6 +7482,24 @@
       "duration_ms": 172380,
       "name": "Gua Gua",
       "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
+    },
+    {
+      "album": {
+        "name": "Gypsy Riddim",
+        "url": "https://open.spotify.com/album/6J0pP2GJKfRCTHCP4Uuf4r"
+      },
+      "artists": [
+        {
+          "name": "Vato Gonzalez",
+          "url": "https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Gypsy Riddim",
+      "url": "https://open.spotify.com/track/5NTH9cO4n5U5TR297XDvfJ"
     },
     {
       "album": {
@@ -15604,7 +15710,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 209523,
       "name": "Swagger Feet",
       "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
@@ -16992,7 +17098,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 149620,
       "name": "Tudum",
       "url": "https://open.spotify.com/track/5fSJFW86f6OZcmgjSlvZnS"

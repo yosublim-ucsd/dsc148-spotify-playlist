@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. Gustavo Palafox & Martin Castillo en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Grupo Diez 4tro en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 171349,
       "name": "A Los 16",
       "url": "https://open.spotify.com/track/7dJ2QfrkOCyMoA5RhnGl6i"
@@ -2899,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/7G7iwKyxTzArIb0xRTCtpx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135233,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/24GVh6re0QrdWrhiu4XNVk"
+    },
+    {
+      "album": {
         "name": "Callado",
         "url": "https://open.spotify.com/album/11vahujXutY6IwNaT9gq8e"
       },
@@ -4024,6 +4042,28 @@
       "duration_ms": 207898,
       "name": "Con la Bola",
       "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
+    },
+    {
+      "album": {
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177900,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
     },
     {
       "album": {
@@ -6374,7 +6414,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 222371,
       "name": "El Caballero \u201cMF\u201d",
       "url": "https://open.spotify.com/track/32AtxPAf3VCJ0OnVNQz6HC"
@@ -9978,7 +10018,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 156251,
       "name": "El Muchachito",
       "url": "https://open.spotify.com/track/0Sqvm5B0QtBEA1FfLGU6Q4"
@@ -12586,7 +12626,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 229171,
       "name": "Escuela Americana",
       "url": "https://open.spotify.com/track/6dV2vyzX2iS5LHV3TOOphK"
@@ -13386,6 +13426,24 @@
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/0kT6qpxBfns68h0W6iXH63"
+    },
+    {
+      "album": {
+        "name": "G-27",
+        "url": "https://open.spotify.com/album/3jXuaOTohr6bfCm8E2Oz5n"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157488,
+      "name": "G-27",
+      "url": "https://open.spotify.com/track/3teRrWW0bGka2CtRPLxetD"
     },
     {
       "album": {
@@ -15195,6 +15253,24 @@
     },
     {
       "album": {
+        "name": "Lucky #7",
+        "url": "https://open.spotify.com/album/4jnlwN0ouWq1f1yCbMEtib"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197237,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/5IDZeUPvkFST3LKOB0IcaW"
+    },
+    {
+      "album": {
         "name": "La 602",
         "url": "https://open.spotify.com/album/7fKOjpIxN5QuNeMH6ojhIv"
       },
@@ -15832,7 +15908,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189504,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
@@ -16334,6 +16410,24 @@
       "duration_ms": 153316,
       "name": "La Mayiza",
       "url": "https://open.spotify.com/track/1AETrwux9rk4B7lNGRhNwX"
+    },
+    {
+      "album": {
+        "name": "La Mera Marca (Frostix)",
+        "url": "https://open.spotify.com/album/6Mqd5nHyiabPoQtKodtKAr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187374,
+      "name": "La Mera Marca (Frostix)",
+      "url": "https://open.spotify.com/track/6gBklUstYsMXwIshzFuokW"
     },
     {
       "album": {
@@ -18352,7 +18446,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 279381,
       "name": "Los Pilares De La C\u00e1rcel",
       "url": "https://open.spotify.com/track/6uNJ5AmEOE9aC2ePi91wFb"
@@ -19550,7 +19644,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 178040,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/3rB6oo37k0UErWNGNncVn8"
@@ -21228,7 +21322,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 127728,
       "name": "Pa' Que No Me Cuenten",
       "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
@@ -21702,6 +21796,24 @@
       "duration_ms": 204254,
       "name": "Pl\u00e1ticas Del Doble R",
       "url": "https://open.spotify.com/track/1ehH9fH45UzuGg0E02CpN5"
+    },
+    {
+      "album": {
+        "name": "Pochos Mexicanos",
+        "url": "https://open.spotify.com/album/5ieKoLGLRkikHYfzGgojvv"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210659,
+      "name": "Pochos Mexicanos",
+      "url": "https://open.spotify.com/track/7sQymlOpTjEem9P5QkrMNN"
     },
     {
       "album": {
@@ -23100,6 +23212,24 @@
       "duration_ms": 216522,
       "name": "San Judas Tadeo",
       "url": "https://open.spotify.com/track/1Q8KGAKF0DKbyh1cBVM37e"
+    },
+    {
+      "album": {
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "album": {
@@ -25728,6 +25858,28 @@
       "duration_ms": 113130,
       "name": "Una 45",
       "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
+    },
+    {
+      "album": {
+        "name": "Una 5.7 (Live)",
+        "url": "https://open.spotify.com/album/1wJp7ZT8SCC1Ygi48Tvb1P"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        },
+        {
+          "name": "Jes\u00fas Chairez",
+          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132024,
+      "name": "Una 5.7 - Live",
+      "url": "https://open.spotify.com/track/7mweSZ2xWyxHNQteACxTVT"
     },
     {
       "album": {

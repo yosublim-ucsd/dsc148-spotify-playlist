@@ -2419,6 +2419,28 @@
     },
     {
       "album": {
+        "name": "Into The Blue (feat. kamille)",
+        "url": "https://open.spotify.com/album/5lf3H0jiqdZjASiyA7iJNH"
+      },
+      "artists": [
+        {
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        },
+        {
+          "name": "kamille",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167023,
+      "name": "Into The Blue (feat. kamille)",
+      "url": "https://open.spotify.com/track/5Rmd86LHDR1FYVRMjkEZNh"
+    },
+    {
+      "album": {
         "name": "IRLY (I Really Love You)",
         "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
       },
@@ -3165,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "Misleading",
+        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187365,
+      "name": "Misleading",
+      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+    },
+    {
+      "album": {
         "name": "Monster (with Alok)",
         "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
       },
@@ -3798,6 +3838,28 @@
       "duration_ms": 182143,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186999,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     },
     {
       "album": {

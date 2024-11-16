@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mooi van eigen bodem, nationaal in elke taal \ud83c\uddf3\ud83c\uddf1",
+  "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
   "name": "Helemaal NL",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 185285,
       "name": "Alsof ik jou ben",
       "url": "https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD"
+    },
+    {
+      "album": {
+        "name": "Alweer Verliefd",
+        "url": "https://open.spotify.com/album/5TE1UZncCKnpW525bvg2bY"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122701,
+      "name": "Alweer Verliefd",
+      "url": "https://open.spotify.com/track/4MeiWck3WGPwUtIoQWAh8b"
     },
     {
       "album": {
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 240249,
       "name": "Kom Met Me Dansen",
       "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"

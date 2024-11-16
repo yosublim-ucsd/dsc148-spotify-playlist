@@ -883,6 +883,28 @@
     },
     {
       "album": {
+        "name": "MOZART: Piano Works 2",
+        "url": "https://open.spotify.com/album/0oSET78ArciEfmARHcwojq"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408840,
+      "name": "Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/3P9w9Xq3leFGCEqPHcTtAS"
+    },
+    {
+      "album": {
         "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
         "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
       },

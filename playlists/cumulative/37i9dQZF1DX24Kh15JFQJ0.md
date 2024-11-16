@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-302 songs - 17 hr 42 min
+304 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Broken Neon Hearts](https://open.spotify.com/track/4p3FGuE3sa95Oq8CUggOtg) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Broken Neon Hearts](https://open.spotify.com/album/3UBCPfcnpK4KidTVfJT6BE) | 3:21 | 2022-02-11 |  |
 | [Busted](https://open.spotify.com/track/1Z4oveFlLPWBAWHCZamcyS) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Busted](https://open.spotify.com/album/4JjWnoRKo2RdjOLqGG2951) | 3:28 | 2023-01-20 |  |
 | [Busted](https://open.spotify.com/track/2kuOsKK8W1fd6jWJh0u7O7) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:28 | 2023-03-03 | 2024-04-19 |
+| [California Sky](https://open.spotify.com/track/1kr4PfL1bKBiybH4VikzSp) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Brighter Days](https://open.spotify.com/album/6Xc07KxNf7b8vNEfDeWUs3) | 5:02 | 2024-11-15 |  |
 | [Can't Even Get The Blues \- Revived](https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Can't Even Get The Blues \(Revived\)](https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N) | 3:10 | 2021-10-15 |  |
 | [Carryin' Fire \- From The Vault](https://open.spotify.com/track/2oLa6cIjW7JPMtYx4KKLtz) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 3:37 | 2021-10-15 |  |
 | [Catchin' Grasshoppers](https://open.spotify.com/track/37aQhY0D5FkBrG6sbNbiUX) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Catchin’ Grasshoppers / Love Is A Drug / I Wish It Would Rain](https://open.spotify.com/album/3DFmujeh2ifuIU5DJCujur) | 4:09 | 2023-05-12 |  |
@@ -188,6 +189,7 @@
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
 | [My Maria \- with Thomas Rhett](https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:29 | 2021-10-15 |  |
 | [My Stupid Tattoo](https://open.spotify.com/track/0V25FstJKoZu9EUbMiNDXg) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [My Stupid Tattoo](https://open.spotify.com/album/5kVdDrl6zsidbOyFMwZEHn) | 2:44 | 2024-01-19 |  |
+| [My Tennessee Mountain Home](https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8) | [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Smoky Mountain DNA: Family, Faith and Fables](https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l) | 2:59 | 2024-11-15 |  |
 | [Need a Bar Sometimes](https://open.spotify.com/track/05uSddJIkn7aCcGZOLe5VO) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Need a Bar Sometimes](https://open.spotify.com/album/2tH27uztfniQ1M9Ajhf1LQ) | 2:43 | 2021-10-15 | 2022-09-21 |
 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 | 2021-10-15 |  |
 | [Never Seen The World \(feat\. Vince Gill\)](https://open.spotify.com/track/0O7Hlfi7hBVZ0WSvIE1SRI) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Never Seen The World \(feat\. Vince Gill\)](https://open.spotify.com/album/26LS0dqjZmqP8Xd9oSkkw1) | 3:11 | 2021-10-15 |  |

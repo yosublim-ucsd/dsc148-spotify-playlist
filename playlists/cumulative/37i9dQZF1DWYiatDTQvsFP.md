@@ -4,7 +4,7 @@
 
 > the golden era of r&b and hip\-hop\. cover: Notorious B.I.G.
 
-284 songs - 19 hr 14 min
+285 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 | 2022-09-30 |  |
 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2022-05-13 | 2023-10-06 |
 | [Don't Cry \(feat\. Trevor Jackson\)](https://open.spotify.com/track/7JWhskcpPUpRI9ZR8bgMEP) | [ADÉ](https://open.spotify.com/artist/5pDY9dgZO8O1yNZDARb62q), [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [wyd after?](https://open.spotify.com/album/3HudXuwOmLyw7QxwN7YbF9) | 3:04 | 2022-05-06 | 2022-06-11 |
+| [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 | 2024-11-15 |  |
 | [Don't Talk](https://open.spotify.com/track/3AWY0qfZkOuROo7SHh003L) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:44 | 2023-01-27 | 2023-03-25 |
 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 | 2023-09-23 | 2024-03-09 |
 | [Don't Worry](https://open.spotify.com/track/7xdBeQc0K3KbaMulw78iMU) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 4:11 | 2022-05-06 | 2022-05-14 |
@@ -176,7 +177,7 @@
 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 | 2022-11-07 | 2023-04-21 |
 | [Love You Better \(feat\. Chris Brown\)](https://open.spotify.com/track/4HaTbFvIyeinaV6koLK3L4) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love You Better \(feat\. Chris Brown\)](https://open.spotify.com/album/6VODXa19xi9MlVaGDvnjep) | 3:32 | 2022-05-20 | 2023-09-23 |
 | [Make It Hot \(feat\. Missy Elliott & Mocha\)](https://open.spotify.com/track/74nsOZqzZzyvFVvBy12I7Y) | [Nicole](https://open.spotify.com/artist/0aBAAnXItgKnXdccW1INw5), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [mocha](https://open.spotify.com/artist/7cLgSCfnPekZE5tn0V6y16) | [Make It Hot](https://open.spotify.com/album/2V21srAwsTtnrZeXv6qQPy) | 4:27 | 2022-12-16 | 2023-10-06 |
-| [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 | 2024-02-22 |  |
+| [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 | 2024-02-22 | 2024-11-16 |
 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 | 2022-08-19 | 2023-06-17 |
 | [Mesmerize](https://open.spotify.com/track/2iclfHORMqpR3TxuhwVRhD) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Last Temptation](https://open.spotify.com/album/0rLZHGRrjPwwUTfEPNTawc) | 4:38 | 2023-06-29 |  |
 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 | 2022-05-20 | 2022-06-25 |

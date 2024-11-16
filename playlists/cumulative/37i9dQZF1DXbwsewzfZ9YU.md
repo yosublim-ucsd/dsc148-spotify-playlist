@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ SPY
 
-302 songs - 12 hr 16 min
+304 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,9 +156,10 @@
 | [Magazine Beach](https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 1:26 | 2023-02-24 |  |
 | [Magic](https://open.spotify.com/track/5hnUL0yMgx0fWskjHUmkv2) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Magic](https://open.spotify.com/album/6zDQno0qRzHewdWZ1K6qN5) | 1:56 | 2024-08-09 |  |
 | [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 | 2024-10-11 |  |
-| [Meander](https://open.spotify.com/track/1nt5vUklwwizdkVbM26oTf) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Ministerial Cafeteria](https://open.spotify.com/album/1l9JzOaRISFpNO4lT6KOjP) | 1:59 | 2024-11-08 |  |
+| [Meander](https://open.spotify.com/track/1nt5vUklwwizdkVbM26oTf) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Ministerial Cafeteria](https://open.spotify.com/album/1l9JzOaRISFpNO4lT6KOjP) | 1:59 | 2024-11-08 | 2024-11-16 |
 | [Memories](https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:34 | 2023-04-03 | 2024-01-31 |
 | [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 | 2023-04-09 |
+| [Midian](https://open.spotify.com/track/5Sj3S8HyhoEcoq1y2D9LDk) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Ministerial Cafeteria](https://open.spotify.com/album/1l9JzOaRISFpNO4lT6KOjP) | 1:21 | 2024-11-15 |  |
 | [Midian](https://open.spotify.com/track/6tAdsCuS26pGw807OvQQdg) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Midian](https://open.spotify.com/album/4YuZwM2WGBVPD7HvOPOsU3) | 1:21 | 2024-10-11 | 2024-11-09 |
 | [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 | 2024-04-26 | 2024-10-12 |
 | [Miss Revolt](https://open.spotify.com/track/3Ek6kQV0u2AreMu18POreH) | [Death Pill](https://open.spotify.com/artist/3qbHwF3dxYHSbz1BC2UuX5) | [Death Pill](https://open.spotify.com/album/3hPjOepyUhCMYcb3ffjjnD) | 1:28 | 2024-01-30 | 2024-04-27 |
@@ -185,6 +186,7 @@
 | [NOTHING](https://open.spotify.com/track/72xrNfQneqrk6EtCp1ITpo) | [Apex Predator](https://open.spotify.com/artist/53qLVEhC45AQjy3ThTRmlW) | [Jesus Wept](https://open.spotify.com/album/7yo0JKIvSz1GBozApXNs4J) | 2:09 | 2024-04-26 | 2024-07-13 |
 | [Oblivion](https://open.spotify.com/track/4UxND1j0BxMcNgt10yKSsG) | [GRAY STATE](https://open.spotify.com/artist/5TyGuNQ9ibfEiRE3Oyn3kk) | [Oblivion](https://open.spotify.com/album/50y7ISY6ONiOgZVh24UHRq) | 3:35 | 2024-09-13 |  |
 | [OK? OK! OK? OK!](https://open.spotify.com/track/2mVEPVf5YF4hukVUWaorF7) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:11 | 2024-04-26 |  |
+| [On Show](https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/7utWDQvMIaQ1Hc7tPrPY7T) | 3:19 | 2024-11-15 |  |
 | [On The Brink](https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [On The Brink](https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct) | 1:48 | 2024-11-08 |  |
 | [One Last Taste of Heaven](https://open.spotify.com/track/54jCh0tTSFQK9YOjw7gC2w) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Devil Music](https://open.spotify.com/album/7sfiDMLBSmaP9IYJh7Qwlz) | 1:36 | 2023-04-21 | 2024-04-27 |
 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 | 2023-03-17 |  |
@@ -259,7 +261,7 @@
 | [Teeth](https://open.spotify.com/track/1VvFSvoNAEdrLr5d8lmFzK) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [KILL LIST](https://open.spotify.com/album/5A1gYnXzF2IOCcCSfWkWgR) | 1:52 | 2023-12-12 |  |
 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 | 2023-02-24 |  |
 | [Tempest](https://open.spotify.com/track/14X4ZR07p0VLHHIPutOUVk) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Anklebiter / Prevention](https://open.spotify.com/album/0UnejRLhYu0KwB6rtwoUEj) | 0:59 | 2024-05-05 | 2024-07-13 |
-| [Temple Of The Worm](https://open.spotify.com/track/6GkEjsXDfAaHUbJoehtnph) | [Rejoice](https://open.spotify.com/artist/74t8gOskGO2qibLmbu8zi3) | [All Of Heaven's Luck](https://open.spotify.com/album/0eoFObPed0D6MTmxGegosa) | 2:03 | 2024-09-13 |  |
+| [Temple Of The Worm](https://open.spotify.com/track/6GkEjsXDfAaHUbJoehtnph) | [Rejoice](https://open.spotify.com/artist/74t8gOskGO2qibLmbu8zi3) | [All Of Heaven's Luck](https://open.spotify.com/album/0eoFObPed0D6MTmxGegosa) | 2:03 | 2024-09-13 | 2024-11-16 |
 | [The Days Don't End](https://open.spotify.com/track/2UYWP1CkAdBOy6XMgzaUCA) | [Mil\-Spec](https://open.spotify.com/artist/5iWmisoEhjZGn4QYLRqzuy) | [Marathon](https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4) | 3:16 | 2024-01-30 |  |
 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-06-21 | 2024-10-12 |
 | [THE FIRST TEST](https://open.spotify.com/track/3TI58Mbxj0oRj9kFQFEAYR) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:14 | 2024-10-11 |  |

@@ -5,6 +5,50 @@
   "tracks": [
     {
       "album": {
+        "name": "24 Preludes, Op. 11: No. 11 in B Major - Allegro assai",
+        "url": "https://open.spotify.com/album/1XySkB32VZYjd0Rb8KjTIs"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106291,
+      "name": "24 Preludes, Op. 11: No. 11 in B Major - Allegro assai",
+      "url": "https://open.spotify.com/track/1PAqSLGvxkiEyjecebGu4u"
+    },
+    {
+      "album": {
+        "name": "Liszt: 3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
+        "url": "https://open.spotify.com/album/1NoXqEH1tDoXByWr3qxCxM"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Nora von Marschall",
+          "url": "https://open.spotify.com/artist/5By8kJBrn6lYKCVKHJSyts"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310344,
+      "name": "3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
+      "url": "https://open.spotify.com/track/4IsoCqXixbkRFLnIv0K2WY"
+    },
+    {
+      "album": {
         "name": "Altstaedt, Nicolas - French Cello Sonatas",
         "url": "https://open.spotify.com/album/53JzBLhG5laCLndqWOC2at"
       },

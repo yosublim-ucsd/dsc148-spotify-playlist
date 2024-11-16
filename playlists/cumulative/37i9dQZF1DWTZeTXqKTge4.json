@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FouKi",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "A.D.N",
+        "url": "https://open.spotify.com/album/6QbCOOjR8N3AKhaBVVNhdQ"
+      },
+      "artists": [
+        {
+          "name": "Remastered",
+          "url": "https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r"
+        },
+        {
+          "name": "Mandyspie",
+          "url": "https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157701,
+      "name": "A.D.N",
+      "url": "https://open.spotify.com/track/2DrjbrGDb6s1RlAfs8kwvn"
+    },
+    {
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/6INAaVDM3kioiEmSLBczMe"
       },
@@ -942,6 +968,24 @@
       "duration_ms": 129666,
       "name": "Appel",
       "url": "https://open.spotify.com/track/2X6IZMbyXdaOIt76fnDouA"
+    },
+    {
+      "album": {
+        "name": "Ap\u00e9ro",
+        "url": "https://open.spotify.com/album/3QsGBK0RqydK0HkTgqWyYK"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ap\u00e9ro",
+      "url": "https://open.spotify.com/track/3ZcE0ZaLI6G0Ip5tNFilYC"
     },
     {
       "album": {
@@ -1752,7 +1796,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 144597,
       "name": "BIG BUSINESS",
       "url": "https://open.spotify.com/track/6hul4BXqmAW1YLde5XT37t"
@@ -2614,7 +2658,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 189473,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/1NstWz5T8H0pqFDStJ43kI"
@@ -5932,7 +5976,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 152004,
       "name": "G\u00e2chis",
       "url": "https://open.spotify.com/track/1IJ7Hr9WZdMDVuscN0guwi"
@@ -6330,6 +6374,24 @@
       "duration_ms": 194951,
       "name": "Hors-d'\u0153uvre",
       "url": "https://open.spotify.com/track/5H5oQLVhNRsOHM78KSsykD"
+    },
+    {
+      "album": {
+        "name": "HWMB",
+        "url": "https://open.spotify.com/album/02yJFkyTmvwpQ28FZ6p5Ue"
+      },
+      "artists": [
+        {
+          "name": "Sora\u00ef",
+          "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152411,
+      "name": "HWMB",
+      "url": "https://open.spotify.com/track/6vl6Do3EvEys2PPbWGWzr9"
     },
     {
       "album": {
@@ -9807,6 +9869,32 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/5vC17BTsmZi1h1dmg11lMn"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Ronto Beats",
+          "url": "https://open.spotify.com/artist/4QB9j29y54NT50Z6ysCn4w"
+        },
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159479,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/6KxnkPygMqlVk2QS48W9BL"
+    },
+    {
+      "album": {
         "name": "On a Roll",
         "url": "https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI"
       },
@@ -9960,7 +10048,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 156000,
       "name": "On va blow up",
       "url": "https://open.spotify.com/track/0s0BYBZMmsGqLojBNQopsI"

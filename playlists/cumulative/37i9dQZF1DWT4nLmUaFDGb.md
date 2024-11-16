@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-275 songs - 17 hr 51 min
+276 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-07-14 | 2023-10-20 |
 | [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 | 2024-02-09 | 2024-03-31 |
 | [I Try](https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT) | 4:17 | 2022-03-30 |  |
+| [I Wanna Be Loved](https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [I Wanna Be Loved](https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I) | 3:50 | 2024-11-15 |  |
 | [I Will Wait for You](https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8) | [Lisa Lovbrand](https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc) | [Let Me Love You](https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII) | 3:39 | 2022-08-19 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [I'll Be Seeing You](https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy) | 2:30 | 2023-05-18 |  |
 | [I'll Tell You Something](https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Always Seem to Get Things Wrong](https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6) | 4:11 | 2023-01-12 |  |
@@ -148,7 +149,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 | 2021-12-21 |  |
 | [Lean in \(feat\. Mark Guiliana\)](https://open.spotify.com/track/4g5f4u4PZGSFYbzStVmmBZ) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Lean in \(feat\. Mark Guiliana\)](https://open.spotify.com/album/2pgv9J0OJgHvEsoDJVtbuQ) | 4:49 | 2023-08-18 | 2024-01-21 |
 | [Lemons](https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw) | [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l), [Jackie West](https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np), [Adam Levy](https://open.spotify.com/artist/3RHGiicVEm5Clr70D2O5dt) | [Lemons](https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8) | 4:09 | 2023-06-20 |  |
-| [Let's Fall In Love](https://open.spotify.com/track/7Eix6KfprSgokDRf0vZ8KK) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG) | [Let's Fall In Love](https://open.spotify.com/album/6SmfZ5wFGLNLUh5EF9PA2s) | 3:26 | 2024-09-27 |  |
+| [Let's Fall In Love](https://open.spotify.com/track/7Eix6KfprSgokDRf0vZ8KK) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG) | [Let's Fall In Love](https://open.spotify.com/album/6SmfZ5wFGLNLUh5EF9PA2s) | 3:26 | 2024-09-27 | 2024-11-16 |
 | [Little Jazz Bird](https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Spark Bird](https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN) | 4:06 | 2023-05-18 | 2023-08-19 |
 | [Lonely Waltz](https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Lonely Waltz](https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ) | 3:14 | 2024-03-07 |  |
 | [Look Of Love](https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w) | [Tok Tok Tok](https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH) | [Love Again](https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX) | 3:50 | 2022-09-08 |  |

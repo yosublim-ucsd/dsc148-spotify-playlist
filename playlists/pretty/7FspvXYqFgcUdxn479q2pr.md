@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Mike Williams &amp; YouNotUs
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Timmy Trumpet and Carbonne
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,546 likes - 16 songs - 45 min 57 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,547 likes - 16 songs - 45 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 15 | [Fade Till Sunrise, Pt\. II \(B Jones Remix\)](https://open.spotify.com/track/6jKBuPpVjzVIsdTIFchjN1) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq) | [Fade Till Sunrise, Pt\. II \(B Jones Remix\)](https://open.spotify.com/album/5TSRzJov3OQKoLmsdmETty) | 3:17 |
 | 16 | [Now We Are Free](https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [AntoNetta](https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL) | [Now We Are Free](https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt) | 3:20 |
 
-Snapshot ID: `AAArlcfPQRqgLNelVupbCllIYisjXHum`
+Snapshot ID: `AAArlu9Cd7ofyq85uggexXit4wnRxSYI`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Hollywood Undead.",
+  "description": "n\u00fc-metal revival is happening here and now with Linkin Park.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -300,6 +300,24 @@
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
+    },
+    {
+      "album": {
+        "name": "Circle Pit // Bad Seed",
+        "url": "https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158388,
+      "name": "Bad Seed",
+      "url": "https://open.spotify.com/track/7xhIXA6RoyxrVcxmqZ56cM"
     },
     {
       "album": {
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 210160,
       "name": "Made Me This Way",
       "url": "https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL"
@@ -2260,6 +2278,24 @@
       "duration_ms": 195494,
       "name": "Notion",
       "url": "https://open.spotify.com/track/5fnVNZotDRjpyoDohip3r9"
+    },
+    {
+      "album": {
+        "name": "TRIAL & TERROR",
+        "url": "https://open.spotify.com/album/2NjCt56ShHgoHjup5HEbUa"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "NOXIOUS",
+      "url": "https://open.spotify.com/track/3pHPj3ZyDb6SHGianz0QZB"
     },
     {
       "album": {
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -3614,6 +3650,24 @@
       "duration_ms": 153514,
       "name": "Turn The Lights Out",
       "url": "https://open.spotify.com/track/0YGM4pxcqHYMtZlsMftM37"
+    },
+    {
+      "album": {
+        "name": "Two Faced",
+        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
       "album": {
@@ -3924,7 +3978,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-16",
       "duration_ms": 215823,
       "name": "We Are Shadows",
       "url": "https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J"

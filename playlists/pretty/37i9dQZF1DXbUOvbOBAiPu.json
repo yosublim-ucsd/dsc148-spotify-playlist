@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Tate McRae",
-  "num_followers": 36505,
+  "num_followers": 36535,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/1cs68uV6ntJybiTqYgPEih"
       },
@@ -295,6 +311,26 @@
       "duration_ms": 209130,
       "name": "Hier Voor Je",
       "url": "https://open.spotify.com/track/1Mz6nBacWD9LQ8vOmRCASf"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1383,6 +1419,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "JUST LIKE THAT (with Ari Lennox)",
         "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
       },
@@ -1627,6 +1679,22 @@
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "In My Heart In My Veins",
+        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Time Ain't On Our Side",
+      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
     },
     {
       "added_at": "2024-11-15 00:00:00",
