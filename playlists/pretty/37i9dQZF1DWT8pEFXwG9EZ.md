@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,341 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,379 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 69 | [From Russia with Love \- Single Version](https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Best Of Matt Monro](https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F) | 2:35 |
 | 70 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |
 | 71 | [Theme From The Thomas Crown Affair \(The Windmills Of Your Mind\)](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
-| 72 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
-| 73 | [Coffee Time \(from "The Subterraneans"\)](https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [The Subterraneans \(Original Soundtrack Recording\)](https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK) | 2:44 |
+| 72 | [Coffee Time \(from "The Subterraneans"\)](https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [The Subterraneans \(Original Soundtrack Recording\)](https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK) | 2:44 |
+| 73 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
 | 74 | [Eddie's Theme](https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Who Framed Roger Rabbit](https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD) | 5:22 |
 | 75 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
 | 76 | [Fair Weather](https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 6:04 |

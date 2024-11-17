@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43796,
+  "num_followers": 43797,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
       },
       "artists": [
         {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Lost Friends",
-        "url": "https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Edge Of Town",
-      "url": "https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 201706,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Lost Friends",
+        "url": "https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Edge Of Town",
+      "url": "https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 211943,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 211943,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Get On Board",
+        "url": "https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq"
+      },
+      "artists": [
+        {
+          "name": "The Badloves",
+          "url": "https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Green Limousine",
+      "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Memories & Dust",
         "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 147280,
       "name": "Middle Of The Hill",
       "url": "https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Get On Board",
-        "url": "https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq"
+        "name": "California",
+        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
       },
       "artists": [
         {
-          "name": "The Badloves",
-          "url": "https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Green Limousine",
-      "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
+      "duration_ms": 228587,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     }
   ],
   "unique_name": "Coast to Coast",

@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6288,
+  "num_followers": 6297,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-11-06 06:00:49",
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
+    },
+    {
+      "added_at": "2024-11-06 06:00:49",
+      "album": {
         "name": "HAAN X Chan : Synergy",
         "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
-    },
-    {
-      "added_at": "2024-11-06 06:00:49",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "DEPEND ON YOU",
-      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
     },
     {
       "added_at": "2024-11-06 06:00:49",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-11-06 06:00:49",
       "album": {
+        "name": "A N E W",
+        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
+      },
+      "artists": [
+        {
+          "name": "EJel",
+          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "New Reels (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
+    },
+    {
+      "added_at": "2024-11-06 06:00:49",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 217533,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3"
-    },
-    {
-      "added_at": "2024-11-06 06:00:49",
-      "album": {
-        "name": "A N E W",
-        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
-      },
-      "artists": [
-        {
-          "name": "EJel",
-          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "New Reels (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
     },
     {
       "added_at": "2024-11-06 06:00:49",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-11-06 06:00:49",
       "album": {
+        "name": "Season Note",
+        "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
+    },
+    {
+      "added_at": "2024-11-06 06:00:49",
+      "album": {
         "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
         "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 182833,
       "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
-    },
-    {
-      "added_at": "2024-11-06 06:00:49",
-      "album": {
-        "name": "Season Note",
-        "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Fanfare",
-      "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
     },
     {
       "added_at": "2024-11-06 06:00:49",

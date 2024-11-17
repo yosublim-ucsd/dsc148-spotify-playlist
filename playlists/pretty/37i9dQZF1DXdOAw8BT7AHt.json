@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers",
-  "num_followers": 467823,
+  "num_followers": 467827,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "I Want To Disappear",
-        "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 130664,
-      "name": "Watch You Go",
-      "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
-    },
-    {
       "added_at": "2024-11-15 10:05:02",
       "album": {
         "name": "State Champs",
@@ -271,6 +255,22 @@
       "duration_ms": 199811,
       "name": "Save Face Story",
       "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "I Want To Disappear",
+        "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 130664,
+      "name": "Watch You Go",
+      "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "State Champs",
-        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 188399,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "HEAVY JELLY",
@@ -403,6 +387,22 @@
       "duration_ms": 164773,
       "name": "Isaac Is Typing\u2026",
       "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
+    },
+    {
+      "added_at": "2024-11-15 10:05:02",
+      "album": {
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/4Tb2rQNklBSl7WrSzFPVy4"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "A White Horse Covered In Blood",
-        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
-      },
-      "artists": [
-        {
-          "name": "Better Lovers",
-          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "A White Horse Covered In Blood",
-      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+        "name": "A White Horse Covered In Blood",
+        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
       },
       "artists": [
         {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
         }
       ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+      "duration_ms": 198533,
+      "name": "A White Horse Covered In Blood",
+      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
     },
     {
       "added_at": "2024-11-15 10:05:02",
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Boyfeel",
         "url": "https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 149483,
       "name": "Boyfeel",
       "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 127185,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Still Nervous",
         "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
       },
@@ -951,18 +967,34 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Bite Me",
-        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
       },
       "artists": [
         {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
         }
       ],
-      "duration_ms": 127185,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+      "duration_ms": 214507,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
+    },
+    {
+      "added_at": "2024-11-15 10:05:02",
+      "album": {
+        "name": "On The Brink",
+        "url": "https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct"
+      },
+      "artists": [
+        {
+          "name": "SPY",
+          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
+        }
+      ],
+      "duration_ms": 108913,
+      "name": "On The Brink",
+      "url": "https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -997,38 +1029,6 @@
       "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "On The Brink",
-        "url": "https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct"
-      },
-      "artists": [
-        {
-          "name": "SPY",
-          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
-        }
-      ],
-      "duration_ms": 108913,
-      "name": "On The Brink",
-      "url": "https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
-      },
-      "artists": [
-        {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
-        }
-      ],
-      "duration_ms": 214507,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "5168 Days",
@@ -1059,22 +1059,6 @@
       "duration_ms": 154564,
       "name": "GET A JOB!",
       "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Nothing Would Change",
-        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 203774,
-      "name": "Nothing Would Change",
-      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
       },
       "artists": [
         {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1155,6 +1139,22 @@
       "duration_ms": 145973,
       "name": "International Hide and Seek Champions",
       "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-11-15 10:05:02",

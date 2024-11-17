@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 79415,
+  "num_followers": 79435,
   "original_name": "Folclore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "T\u00fa S\u00ed Sabes Quererme",
+        "url": "https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "T\u00fa S\u00ed Sabes Quererme",
+      "url": "https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1087,26 +1103,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        },
-        {
-          "name": "Ruben Ehizaguirre",
-          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
-        }
-      ],
-      "duration_ms": 237957,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "La \u00daltima Estrella",
         "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
@@ -1131,6 +1127,26 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        },
+        {
+          "name": "Ruben Ehizaguirre",
+          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
+        }
+      ],
+      "duration_ms": 237957,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Ansiado Encuentro",
         "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Tierra Mia",
         "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 268875,
       "name": "Flor Palida",
       "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Por Un Ratito",
+        "url": "https://open.spotify.com/album/2jJRMhgxsmAroQVaVV3QRV"
+      },
+      "artists": [
+        {
+          "name": "La Cantada",
+          "url": "https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb"
+        }
+      ],
+      "duration_ms": 157503,
+      "name": "Por Un Ratito",
+      "url": "https://open.spotify.com/track/2DtwHJe8taNPnuWI2I4ehU"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Por Un Ratito",
-        "url": "https://open.spotify.com/album/2jJRMhgxsmAroQVaVV3QRV"
-      },
-      "artists": [
-        {
-          "name": "La Cantada",
-          "url": "https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb"
-        }
-      ],
-      "duration_ms": 157503,
-      "name": "Por Un Ratito",
-      "url": "https://open.spotify.com/track/2DtwHJe8taNPnuWI2I4ehU"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Mil Momentos (En Vivo)",
         "url": "https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 215672,
       "name": "Mil Momentos - En Vivo",
       "url": "https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "T\u00fa S\u00ed Sabes Quererme",
-        "url": "https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW"
-      },
-      "artists": [
-        {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "T\u00fa S\u00ed Sabes Quererme",
-      "url": "https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1307,22 +1307,6 @@
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1359,22 +1343,18 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Tonada De Tus Labios",
-        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
       "artists": [
         {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        },
-        {
-          "name": "Goy Karamelo",
-          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 177937,
-      "name": "Tonada De Tus Labios",
-      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1395,6 +1375,26 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Tonada De Tus Labios",
+        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        },
+        {
+          "name": "Goy Karamelo",
+          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+        }
+      ],
+      "duration_ms": 177937,
+      "name": "Tonada De Tus Labios",
+      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Respuesta",
         "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 217000,
       "name": "Respuesta",
       "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Amarte Sin Piedad",
+        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        }
+      ],
+      "duration_ms": 211410,
+      "name": "Amarte Sin Piedad",
+      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Huella",
         "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 214466,
       "name": "No Me Canso de Amar",
       "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1507,26 +1523,6 @@
       "duration_ms": 193886,
       "name": "La Forma Perfecta",
       "url": "https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 320085,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
     },
     {
       "added_at": "2024-11-14 16:50:34",

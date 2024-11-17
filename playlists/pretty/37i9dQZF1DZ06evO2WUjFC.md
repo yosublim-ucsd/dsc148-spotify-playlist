@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 798 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 49 | [La Ambición](https://open.spotify.com/track/3lo1Mv3ovnJLijz5BppO48) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Ambición](https://open.spotify.com/album/1QbFLgmBJcU1zxxvxpsq5S) | 3:43 |
 | 50 | [NO TE VAYAS](https://open.spotify.com/track/4mlKCvR8Rowgm9MKEFa8H4) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:19 |
 
-Snapshot ID: `ZzU9gAAAAAAu9f5KJSMsPbHDatHCpOfU`
+Snapshot ID: `ZzaPAAAAAAAwF5Myv+GGvc+vsmOV1Snh`

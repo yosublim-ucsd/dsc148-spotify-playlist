@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Thank Me",
+        "url": "https://open.spotify.com/album/6RfoQKzpApTFlzB9txv7YZ"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137205,
+      "name": "Thank Me",
+      "url": "https://open.spotify.com/track/2AR2YoJ6fViZbtptWZxbvm"
+    },
+    {
+      "album": {
         "name": "I Don't Know What Love Is",
         "url": "https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX"
       },

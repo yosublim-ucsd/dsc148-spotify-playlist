@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,768 likes - 86 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,867 likes - 86 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:26 |
+| 1 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 |
 | 2 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
 | 3 | [Winter Song \[Feat\. Ariana DeBose\]](https://open.spotify.com/track/2cADPODt1SJSbRo41q0MJq) | [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) | [SLEIGH](https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths) | 4:12 |
 | 4 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |

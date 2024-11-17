@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61391,
+  "num_followers": 61396,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAACGsvCyBKyEapafqj/qVtKY",
+  "snapshot_id": "ZzaPAAAAAACbhkY+9iLpRT4jIImMFBUQ",
   "tracks": [
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Si nos dejan",
-      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vu\u00e9lame el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 201471,
       "name": "A un Paso de Baile de Ti",
       "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Si nos dejan",
+      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
     },
     {
       "added_at": null,

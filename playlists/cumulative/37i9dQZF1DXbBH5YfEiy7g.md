@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: "<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=dekuLd7nQJupL6f6WNgyLw>Sbu Noah</a>
+> Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=JTTL9WmISeaziVW1jyZzUg">Lebo Sekgobela</a>
 
-87 songs - 9 hr 11 min
+88 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 | 2024-10-04 |  |
 | [HOLD ON](https://open.spotify.com/track/1THM0TKba1CraCZVHCvpvF) | [DENGA.](https://open.spotify.com/artist/4u0pYkWzdp9ez45JF51x00), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [HOLD ON](https://open.spotify.com/album/4ea005A4r8WqKflyDr5liE) | 4:30 | 2024-10-25 | 2024-11-15 |
 | [I Beat \- Live](https://open.spotify.com/track/4clVVI4aSX59wlc3JfRTkh) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:10 | 2024-10-11 |  |
+| [Inceba \- Live](https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Kept by Grace \(Live\)](https://open.spotify.com/album/1B6aBvOv8EE3oXhj5CpTqX) | 8:21 | 2024-11-16 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2024-10-11 |  |
 | [Intro \(Mudzimu Uyavhuya\) \[feat\. Lebo Sekgobela\]](https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Miracle Child](https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V) | 6:14 | 2024-10-04 |  |
 | [Itshokwadi \(Live at Carnival City, 2012\)](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 | 2024-10-11 |  |

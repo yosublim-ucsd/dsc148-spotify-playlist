@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Outsky, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,268 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,280 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 15 | [Kyun Tumhe](https://open.spotify.com/track/0RbHchqr1fZ3QkUiTMOgXu) | [Jayati Wajire](https://open.spotify.com/artist/2hLw2Q4rgE6XxGA1zx0skG), [Aryan X Ritesh](https://open.spotify.com/artist/5hlL9AYljYn0ceGOsYGDkK) | [Kyun Tumhe](https://open.spotify.com/album/1xqKo2CmuDtdLdi6uH5ruB) | 3:42 |
 | 16 | [Madam President](https://open.spotify.com/track/6K7Y2pklk1O2GewFajdREH) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Madam President](https://open.spotify.com/album/5UbNoikBHpmzjII7fpi7VA) | 2:16 |
 | 17 | [Aashna](https://open.spotify.com/track/54eYmogLcdr5mp6RpwNvHh) | [Payel](https://open.spotify.com/artist/5UcnYCFt3UDwUtZxDry7LJ), [Vedaant Verma](https://open.spotify.com/artist/4n3gmpGHWpno0xYkOpRmV6) | [Aashna](https://open.spotify.com/album/0rCIzjyAQBsWpLxNnErp48) | 2:13 |
-| 18 | [Pehli Baarish Aur Tum](https://open.spotify.com/track/0juYC0lBdGmbn8960CbKm6) | [Annkur R Pathakk](https://open.spotify.com/artist/52qnwlT8n9v57lj1Q1cK3J) | [Pehli Baarish Aur Tum](https://open.spotify.com/album/5qUvbFAvgrmSoklz3iylWI) | 4:10 |
+| 18 | [Pehli Baarish Aur Tum](https://open.spotify.com/track/0juYC0lBdGmbn8960CbKm6) | [Annkur R Pathakk](https://open.spotify.com/artist/52qnwlT8n9v57lj1Q1cK3J), [Sulagna](https://open.spotify.com/artist/0Asjc3lPLkImHZAmPfjPVr), [Ritik Sinha](https://open.spotify.com/artist/2xadFRBskMp3cVMTAk1Try) | [Pehli Baarish Aur Tum](https://open.spotify.com/album/5qUvbFAvgrmSoklz3iylWI) | 4:10 |
 | 19 | [Teardrops](https://open.spotify.com/track/6TJh01FxjA2A1G0jKUZiYP) | [Ananya Sharma](https://open.spotify.com/artist/1g7hIOtbH21UyyMwyBoxo8) | [A Junkyard Wonder](https://open.spotify.com/album/3w9Rxw0Et7E3XaBkNpbU7U) | 5:38 |
 | 20 | [Na Jaane Kyu?](https://open.spotify.com/track/0QAY4trvI19pRZbatVJXYZ) | [Shivani Joshi](https://open.spotify.com/artist/7qtrCohaDARBaqDTafkAeC) | [Na Jaane Kyu?](https://open.spotify.com/album/4SZWno6qx7TYJe9SxAU6qt) | 3:27 |
 | 21 | [Your Map](https://open.spotify.com/track/16GRrOq8gQtGDlXskA8ekh) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Your Map](https://open.spotify.com/album/2p1VHwLxFNTGYg3gESrgvd) | 2:36 |

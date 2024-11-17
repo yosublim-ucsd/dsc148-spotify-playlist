@@ -1,6 +1,6 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa ANI.",
-  "num_followers": 96906,
+  "num_followers": 96921,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -1923,7 +1923,7 @@
     {
       "added_at": "2024-11-15 07:57:40",
       "album": {
-        "name": "Sticks and Stones (ft. Strandz & Kojey Radical)",
+        "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
         "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
       },
       "artists": [
@@ -1932,16 +1932,16 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         },
         {
-          "name": "Strandz",
-          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
-        },
-        {
           "name": "Kojey Radical",
           "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
         }
       ],
       "duration_ms": 252452,
-      "name": "Sticks and Stones (ft. Strandz & Kojey Radical)",
+      "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
       "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
     },
     {

@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175860,
+      "name": "Faceshot",
+      "url": "https://open.spotify.com/track/5R2pz8i4k4bvRAqiIFXzKz"
+    },
+    {
+      "album": {
         "name": "WAY2GEEKED",
         "url": "https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W"
       },

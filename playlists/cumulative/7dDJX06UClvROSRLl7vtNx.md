@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-633 songs - 1 day 3 hr 35 min
+634 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Enjoy the silence](https://open.spotify.com/track/4mLyWPmO0BBvpdid64ynNe) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Enjoy the silence](https://open.spotify.com/album/3ilaUVLzjVolnbrM9jgLW8) | 2:21 | 2023-09-22 |  |
 | [Escape](https://open.spotify.com/track/77QCSdKC48kGUiZxjHtwp2) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Escape](https://open.spotify.com/album/6BpmO3O7KdrogHTAdz0tjv) | 2:18 | 2024-07-08 | 2024-10-14 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-05-14 |  |
+| [Evergreen](https://open.spotify.com/track/36O5AFobnQ3rpJfyCYX50u) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Evergreen](https://open.spotify.com/album/12gO7KZxdoB5afWj1Arbhf) | 3:11 | 2024-11-16 |  |
 | [Every Minute](https://open.spotify.com/track/5jj1uG2x72AYUzERFamx6U) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Every Minute](https://open.spotify.com/album/5IaGC0RoTWiWsFy23YH0i1) | 3:03 | 2024-03-24 | 2024-04-02 |
 | [Every Time](https://open.spotify.com/track/7wIEfhAIUrBGTp4ZHkHl9k) | [lonely beach house](https://open.spotify.com/artist/1jvDr2Sxp7ahE2XnykCBX3) | [Every Time](https://open.spotify.com/album/35RLkkhVvN3efNqnV5CbBT) | 2:31 | 2023-10-13 | 2024-05-13 |
 | [Eyesight](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7) | 3:13 | 2023-12-10 | 2024-01-08 |

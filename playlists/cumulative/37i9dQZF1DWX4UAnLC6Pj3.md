@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-420 songs - 22 hr 7 min
+421 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Cuánto Me Quedé](https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Historias de Mi Vida](https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe) | 3:21 | 2022-07-01 | 2024-05-11 |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2022-01-28 | 2023-06-24 |
 | [A La Inversa](https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [A La Inversa](https://open.spotify.com/album/4iWRJOClu9BdSjuea9K3o8) | 3:30 | 2022-07-01 | 2023-12-02 |
-| [A Medio Vivir](https://open.spotify.com/track/5KCuksnFnLKcfSSa0ZAnAG) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [KTORCE](https://open.spotify.com/album/6M7vCerWzxyAPeiGFtinD5) | 4:37 | 2024-02-16 |  |
+| [A Medio Vivir](https://open.spotify.com/track/5KCuksnFnLKcfSSa0ZAnAG) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [KTORCE](https://open.spotify.com/album/6M7vCerWzxyAPeiGFtinD5) | 4:37 | 2024-02-16 | 2024-11-17 |
 | [A Puro Dolor](https://open.spotify.com/track/3ECAmHIIzezCppLjPYzU1R) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [A Puro Dolor](https://open.spotify.com/album/64XhhZoDZOUmCpLahCEXYZ) | 3:04 | 2022-09-23 | 2022-10-25 |
 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 | 2022-07-15 |  |
 | [ABC](https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [ABC](https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp) | 3:34 | 2024-01-26 | 2024-11-16 |
@@ -205,6 +205,7 @@
 | [Le Dicen](https://open.spotify.com/track/66Fs6uL39wuJX2NmKM7mKH) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve), [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Le Dicen](https://open.spotify.com/album/4z1cTOtcm5Y3rCyiBENidv) | 3:23 | 2024-01-26 | 2024-03-14 |
 | [Levantando Polvadera \(En vivo\)](https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:09 | 2023-06-23 | 2024-04-19 |
 | [Levantando Polvadera \(En Vivo\) \[feat\. Los Populares del Llano\]](https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando la Bandona](https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e) | 2:09 | 2023-01-20 | 2023-07-30 |
+| [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 | 2024-11-15 |  |
 | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/track/564voYBKZapOX2yN0MfCKR) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/album/61faQq26AD95mvcicr0a1m) | 2:56 | 2022-03-11 | 2022-07-29 |
 | [Lo Que Me Pasó Contigo](https://open.spotify.com/track/7l1x4QBIt7b15imFdhIaPx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Lo Que Me Pasó Contigo](https://open.spotify.com/album/0AdoN5pVd3XOhLfO75k6rQ) | 2:34 | 2022-06-17 | 2022-07-24 |
 | [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 | 2022-08-26 | 2024-01-27 |

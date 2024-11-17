@@ -1,12 +1,12 @@
 {
   "description": "Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.",
-  "num_followers": 75579,
+  "num_followers": 75569,
   "original_name": "LoFi Rod's Chillhop Lounge",
   "owner": {
     "name": "awesomeplaylists",
     "url": "https://open.spotify.com/user/awesomeplaylists"
   },
-  "snapshot_id": "AAAH9YnJXUescwJgf/yu3cPna/gJ99ma",
+  "snapshot_id": "AAAH9qVriTALZnJtaqEB8QrJZ7ydskAN",
   "tracks": [
     {
       "added_at": "2024-11-15 19:20:39",
@@ -91,6 +91,26 @@
       "duration_ms": 111627,
       "name": "Good Times, Good Vibes",
       "url": "https://open.spotify.com/track/640OxThTULy36uzpuPPjMa"
+    },
+    {
+      "added_at": "2024-11-15 19:20:39",
+      "album": {
+        "name": "Aromatherapy",
+        "url": "https://open.spotify.com/album/338ORap3OjpieOkFPYdB3c"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Aromatherapy",
+      "url": "https://open.spotify.com/track/2es7QUQEw9kp1G47Jwm6WV"
     },
     {
       "added_at": "2024-11-15 19:20:39",
@@ -447,26 +467,6 @@
       "duration_ms": 160312,
       "name": "Lefty",
       "url": "https://open.spotify.com/track/6fweKn5fbuQFB52XnpzGa5"
-    },
-    {
-      "added_at": "2024-11-15 19:20:39",
-      "album": {
-        "name": "Aromatherapy",
-        "url": "https://open.spotify.com/album/338ORap3OjpieOkFPYdB3c"
-      },
-      "artists": [
-        {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        },
-        {
-          "name": ".Eehou",
-          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Aromatherapy",
-      "url": "https://open.spotify.com/track/2es7QUQEw9kp1G47Jwm6WV"
     },
     {
       "added_at": "2024-11-15 19:20:39",
@@ -870,10 +870,6 @@
         {
           "name": "b.wub",
           "url": "https://open.spotify.com/artist/1pCEnT5PUnUjcdIU0v1LZX"
-        },
-        {
-          "name": "Brandon Worth",
-          "url": "https://open.spotify.com/artist/2CFz1yy1tn17sJH3ROQedQ"
         }
       ],
       "duration_ms": 54346,

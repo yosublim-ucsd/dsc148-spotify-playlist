@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG SKULLE DÖ FÖR DIG!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,411 likes - 103 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,421 likes - 103 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

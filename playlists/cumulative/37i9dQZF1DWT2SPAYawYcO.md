@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Tate McRae
 
-6,440 songs - 14 day 12 hr 54 min
+6,440 songs - 14 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3574,7 +3574,7 @@
 | [MANSA MUSA](https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MANSA MUSA](https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K) | 3:24 | 2024-07-04 | 2024-07-12 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 | 2024-10-18 |
 | [Maori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Maori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 | 2024-02-22 | 2024-03-01 |
-| [MAP](https://open.spotify.com/track/1CKkePrhEoioJX2FgzTFyf) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:17 | 2024-11-14 |  |
+| [MAP](https://open.spotify.com/track/1CKkePrhEoioJX2FgzTFyf) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:13 | 2024-11-14 |  |
 | [MARBELLA](https://open.spotify.com/track/1ACviOEA8zl7XroQSGFCbW) | [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy), [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf) | [MARBELLA](https://open.spotify.com/album/0kKSCFjlMCRaMFluGkmjWc) | 2:33 | 2023-08-17 | 2023-08-25 |
 | [Margot](https://open.spotify.com/track/5szjgJEIylyjvuKoY9ESdT) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Time Is A Flower](https://open.spotify.com/album/0LuIdfbrjQ7v3iw0emE6jU) | 3:35 | 2024-08-15 | 2024-08-23 |
 | [Marianne](https://open.spotify.com/track/1Z8YRF5YY06FOnA6Oiwpaa) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Deep Sea Creatures](https://open.spotify.com/album/6gleG0hAiXn4q0YANq7xLE) | 3:14 | 2024-07-25 | 2024-08-02 |

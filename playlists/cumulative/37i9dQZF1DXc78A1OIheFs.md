@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-199 songs - 11 hr 22 min
+200 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baited](https://open.spotify.com/track/4A8a7KKRvYvwFVPsbR1uFr) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Baited](https://open.spotify.com/album/2VfPY2Zw8zio3uhqhryA1s) | 4:57 | 2024-08-15 | 2024-11-11 |
 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 | 2024-05-20 | 2024-11-08 |
 | [Barracuda](https://open.spotify.com/track/33Y2KCwOb0PRF0qCgat5GO) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [SURFACING](https://open.spotify.com/album/2BxES4GiO5LdChisskcSde) | 4:05 | 2024-05-20 | 2024-11-08 |
+| [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 | 2024-11-07 |  |
 | [Big Star](https://open.spotify.com/track/1OYm550Z5CXhmVCyBv8GmK) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Big Star](https://open.spotify.com/album/1XyeYWuGlyLuUiHQoqF3j3) | 3:42 | 2024-08-15 | 2024-11-08 |
 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 | 2024-05-20 |  |
 | [Blue Eyed Māori](https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 3:16 | 2024-05-20 |  |
@@ -205,7 +206,7 @@
 | [Wild For Change](https://open.spotify.com/track/1x7MgVfK7MP3aZkAuae3t8) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Wild For Change](https://open.spotify.com/album/0Y85muQmXgj15Os6GkC9Th) | 3:52 | 2024-05-20 | 2024-08-16 |
 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 | 2024-05-20 |  |
 | [With You](https://open.spotify.com/track/2uAn59bUH20FLJzHXnl5zi) | [Juicy Jamz](https://open.spotify.com/artist/5YwLWCeArN7CECv7CLfz9f) | [With You](https://open.spotify.com/album/7KynKKoRnC19KaLuQVKt4U) | 3:34 | 2024-08-30 | 2024-11-08 |
-| [Wobble Out \(feat\. Kings\)](https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS) | 3:00 | 2024-08-15 |  |
+| [Wobble Out \(feat\. Kings\)](https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS) | 3:00 | 2024-08-15 | 2024-11-17 |
 | [You're On Your Own This Time, Again](https://open.spotify.com/track/6refloGDPQzdncMkazz7ED) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [YOYOTTA](https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp) | 3:36 | 2024-08-30 | 2024-11-15 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

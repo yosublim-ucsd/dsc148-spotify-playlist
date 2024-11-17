@@ -3189,6 +3189,32 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/12gO7KZxdoB5afWj1Arbhf"
+      },
+      "artists": [
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/36O5AFobnQ3rpJfyCYX50u"
+    },
+    {
+      "album": {
         "name": "Every Minute",
         "url": "https://open.spotify.com/album/5IaGC0RoTWiWsFy23YH0i1"
       },

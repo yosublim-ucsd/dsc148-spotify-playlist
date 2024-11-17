@@ -4,7 +4,7 @@
 
 > 
 
-807 songs - 1 day 14 hr 49 min
+808 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Everything Is Everything](https://open.spotify.com/track/54sAHwWnjPSyhThvldKlj7) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:15 | 2024-02-16 | 2024-11-06 |
 | [Extortion \(feat\. Method Man\)](https://open.spotify.com/track/04EXj02fD1HNyxnINHrolZ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:31 | 2024-05-23 | 2024-11-06 |
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
+| [Faceshot](https://open.spotify.com/track/5R2pz8i4k4bvRAqiIFXzKz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:55 | 2024-11-16 |  |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 | 2023-08-28 |
 | [Familia](https://open.spotify.com/track/2OM0MeY7mPIRbs8SCzRdTH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:34 | 2024-02-21 | 2024-04-24 |
 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 | 2022-10-31 | 2023-12-14 |

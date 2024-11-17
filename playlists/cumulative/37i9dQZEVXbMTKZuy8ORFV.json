@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 87834,
       "name": "BAD PARENTING FUNK",
       "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 192755,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 201052,
       "name": "Barro",
       "url": "https://open.spotify.com/track/131d6Ui0C7bsQPeprvawCy"
@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
+    },
+    {
+      "album": {
         "name": "Corte Caco (Remix)",
         "url": "https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN"
       },
@@ -5367,6 +5385,36 @@
     },
     {
       "album": {
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/0FBEScPBt4IBRkG60WqwcX"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Anonimus",
+          "url": "https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281522,
+      "name": "Esclava - Remix",
+      "url": "https://open.spotify.com/track/0fOjPUdkQjLH0aoGa5p5h4"
+    },
+    {
+      "album": {
         "name": "Ese hombre",
         "url": "https://open.spotify.com/album/0owQUa5hWGA0HYWGmNLC26"
       },
@@ -6060,7 +6108,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 89808,
       "name": "Funk Secreto - Ultra Slowed",
       "url": "https://open.spotify.com/track/0Rfgf07P8G5XqdnMXTZe4k"
@@ -7960,7 +8008,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 193461,
       "name": "La Foto",
       "url": "https://open.spotify.com/track/1BSijYfeMpjKCzfROYNKh7"
@@ -8446,7 +8494,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 204069,
       "name": "Lib\u00e9rame",
       "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
@@ -8874,6 +8922,24 @@
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
+    },
+    {
+      "album": {
+        "name": "Los Graduados",
+        "url": "https://open.spotify.com/album/4DhwUsrpDaaikYC0ZIrAcx"
+      },
+      "artists": [
+        {
+          "name": "Chano Moreno Charpentier",
+          "url": "https://open.spotify.com/artist/6xb8RPoMhs4pcL9D3FBCnq"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Los Graduados",
+      "url": "https://open.spotify.com/track/3J866kCFjeRLEc0dvrDQol"
     },
     {
       "album": {
@@ -11890,6 +11956,32 @@
       "duration_ms": 220540,
       "name": "PADRE NUESTRO",
       "url": "https://open.spotify.com/track/5n5X1c4kkN4seBCw5jS8iM"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115533,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-298 songs - 21 hr 53 min
+299 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Asha](https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Asha](https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd) | 4:12 | 2023-02-04 | 2024-03-12 |
 | [Askim](https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z) | [ilkan Muslu](https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv) | [Mektup](https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij) | 3:32 | 2024-01-31 |  |
 | [Assos](https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Assos](https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3) | 4:08 | 2024-08-01 |  |
+| [Atlas](https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Atlas](https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb) | 3:04 | 2024-11-15 |  |
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2023-03-18 |
@@ -244,7 +245,7 @@
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2022-02-24 |  |
 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 | 2020-10-18\* |  |
 | [Salat Ala Nabina \- Radio Edit](https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Salat Ala Nabina](https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq) | 3:38 | 2020-10-18\* | 2023-08-19 |
-| [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 |  |
+| [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 | 2021-07-31 | 2024-11-17 |
 | [Sapana](https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI) | [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Buddha Bar \(by Sahalé & Ravin\)](https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX) | 4:44 | 2023-09-11 |  |
 | [Schhh](https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh](https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1) | 3:05 | 2020-10-18\* | 2023-12-09 |
 | [Schhh \(feat\. Irina Rimes\)](https://open.spotify.com/track/5OUdPlYOMsAxozx02nsnj0) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh \(feat\. Irina Rimes\)](https://open.spotify.com/album/7pkAN4GdpvAqbowYk3lelp) | 3:05 | 2023-12-04 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=tONXoEx0QYmhyBszhMMhvw">Zee Nxumalo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,868 likes - 65 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,916 likes - 65 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

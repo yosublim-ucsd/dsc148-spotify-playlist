@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas?si=Uc2S\-hnfSwCenU\_IhxxGhg>Victor Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,783 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,798 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 48 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 |
 | 49 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |
 | 50 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |
-| 51 | [Spirit Man](https://open.spotify.com/track/673zsixqkozKUirs24z788) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Spirit Man](https://open.spotify.com/album/6OJSmdy5a9X7bNSJQWDJ2Y) | 3:22 |
+| 51 | [Spirit Man](https://open.spotify.com/track/673zsixqkozKUirs24z788) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Spirit Man](https://open.spotify.com/album/6OJSmdy5a9X7bNSJQWDJ2Y) | 3:21 |
 | 52 | [Feels Good](https://open.spotify.com/track/1PjcG9WVo37d7rC095xRaI) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Feels Good](https://open.spotify.com/album/6rdruiqR1RYqmURdMQFlcz) | 3:04 |
 | 53 | [fallin'](https://open.spotify.com/track/3BQei8MGDIKpzHyjoB2TOt) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [fallin'](https://open.spotify.com/album/27BpubM8Ly3qHT9euDwjgD) | 2:23 |
 | 54 | [BLSNS](https://open.spotify.com/track/2DH2IPLJUcfu0NZaAY1YyZ) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [BLSNS](https://open.spotify.com/album/1LYEgwhTX6Awym2ykMnyjt) | 2:56 |

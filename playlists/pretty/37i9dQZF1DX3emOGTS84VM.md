@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,753 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,769 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 27 | [DISTANCE](https://open.spotify.com/track/7m3SM2A5hitFgvAz4oqPFs) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [INTO THE DISTANCE](https://open.spotify.com/album/2o8DLlwvgmW0voRJLIPkPQ) | 4:00 |
 | 28 | [Lord Knows](https://open.spotify.com/track/7fc2JyIuKp9b4grkgDisV2) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Lord Knows](https://open.spotify.com/album/4si2WkovwE7VfShbrBSlch) | 3:12 |
 | 29 | [Songs In My Head \- Highwater Session](https://open.spotify.com/track/4tJlEC6KeM468q4gXqmuvB) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head \(Highwater Session\)](https://open.spotify.com/album/3xHlrhmdIVWY6Dab2L0ddD) | 4:18 |
-| 30 | [No One Noticed \- Extended English](https://open.spotify.com/track/4Q9qkdqu0qKKjaftRrAK9C) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
+| 30 | [No One Noticed \(Extended English\)](https://open.spotify.com/track/4Q9qkdqu0qKKjaftRrAK9C) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
 | 31 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 2:06 |
 | 32 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 |
 | 33 | [B3 \(be free\)](https://open.spotify.com/track/4AZ5ZO1EndDvbxrRdH9mnd) | [J\-Sol](https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [B3 \(be free\)](https://open.spotify.com/album/4FImsanGD52HhxUJsa3jKP) | 3:00 |

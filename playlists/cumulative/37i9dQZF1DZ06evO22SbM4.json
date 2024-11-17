@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "Live From Nashville",
+        "url": "https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281323,
+      "name": "Rockstar (with Bailey Zimmerman) - Live From Nashville",
+      "url": "https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8"
+    },
+    {
+      "album": {
         "name": "Small Town Crazy",
         "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
       },

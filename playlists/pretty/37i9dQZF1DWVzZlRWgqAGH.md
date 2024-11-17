@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Skiifall
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,564 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,595 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 25 | [Ry\-Co Merengue](https://open.spotify.com/track/7x4UxB2SJc73lHEUujaKYy) | [Ry\-Co Jazz](https://open.spotify.com/artist/3umj1fcfDdwdTiv6YvAsO9) | [Bon Voyage !!](https://open.spotify.com/album/68qqTjOxViljYLbFS6QS3u) | 2:49 |
 | 26 | [Lover Boy](https://open.spotify.com/track/3Dc6tLYl8GHl2lFfsiag2a) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Lover Boy](https://open.spotify.com/album/4tlZkAJU6UmBKMRi22ojve) | 3:49 |
 | 27 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
-| 28 | [Even When You're Silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
+| 28 | [EVEN WHEN YOU’RE silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
 | 29 | [Cry Me a River](https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Cry Me a River](https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4) | 2:34 |
 | 30 | [CREW > BOO](https://open.spotify.com/track/6ItZQ8su5pjgfBPW9ulAnw) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 2:45 |
 | 31 | [Fire](https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Joi](https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5) | [Fire](https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm) | 3:43 |

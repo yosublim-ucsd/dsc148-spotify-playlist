@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47454,
+  "num_followers": 47455,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHyo06vpc8nfDPZOZUxnldmkGNYZT6",
+  "snapshot_id": "AAAHy0lboE0lrjPFvXRfZKyTSIdyAwqD",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1925,30 +1925,6 @@
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
-      "added_at": "2024-06-07 00:41:05",
-      "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/33faDdsC76mgbWQGBTAw7Z"
-      },
-      "artists": [
-        {
-          "name": "Ocean Roses",
-          "url": "https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4"
-        },
-        {
-          "name": "L.A",
-          "url": "https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2"
-        },
-        {
-          "name": "XiVi",
-          "url": "https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/1LPMktEFTcExqYm2x4D0Rf"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Still Think About You",
@@ -2049,6 +2025,26 @@
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
     },
     {
+      "added_at": "2024-11-08 00:41:04",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Roses (feat. ROZES)",
+      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
+    },
+    {
       "added_at": "2024-05-24 00:41:06",
       "album": {
         "name": "Forever",
@@ -2073,24 +2069,24 @@
       "url": "https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u"
     },
     {
-      "added_at": "2024-11-08 00:41:04",
+      "added_at": "2024-11-17 00:41:03",
       "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 225813,
-      "name": "Roses (feat. ROZES)",
-      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     }
   ],
   "unique_name": "EDM Top 100",

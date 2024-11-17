@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Shawn Mendes, Tate McRae, Linkin Park, Shaboozey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,240 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,254 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 42 | [Ainka](https://open.spotify.com/track/2wMEZQyozEBX9H90NJduyd) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Ainka](https://open.spotify.com/album/10tmFRhe1p0HpOeq4uRRzJ) | 2:35 |
 | 43 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 44 | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2) | 3:14 |
-| 45 | [Even When You're Silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
+| 45 | [EVEN WHEN YOU’RE silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
 | 46 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
 | 47 | [Pursuit Freestyle](https://open.spotify.com/track/2B73UoSzm1mABGzzMzLO2o) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Pursuit Freestyle](https://open.spotify.com/album/3MKfcWdsJDX09s36eVyqCM) | 2:29 |
 | 48 | [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 |

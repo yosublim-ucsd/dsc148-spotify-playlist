@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,735 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,733 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 19 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 |
 | 20 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
 | 21 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 |
-| 22 | [間奏曲 \~歌劇「カヴァレリア・ルスティカーナ」より](https://open.spotify.com/track/2T1sSlz5AUu1V8ZL0RSWmn) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [わたしを泣かせてください](https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE) | 3:36 |
+| 22 | [間奏曲 ～歌劇「カヴァレリア・ルスティカーナ」より](https://open.spotify.com/track/2T1sSlz5AUu1V8ZL0RSWmn) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [Rintaro Akamatsu](https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il) | [わたしを泣かせてください](https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE) | 3:36 |
 | 23 | [Song from Lalibela](https://open.spotify.com/track/0zmncFomD1Fds640ZItLB2) | [Yoshihiro Koseki](https://open.spotify.com/artist/5q9eSLEXZjJAqPLolQgvTA) | [STORY HOUSE](https://open.spotify.com/album/5sYhGF891DW9OGU87rhlhE) | 2:38 |
 | 24 | [G線上のアリア\(組曲 第3番より アリア\)](https://open.spotify.com/track/0ulU4IIPUUGIZx6222zph3) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [トロイメライ](https://open.spotify.com/album/21LSAqiXBOIzgp490IZgrk) | 5:08 |
 | 25 | [touten No.4](https://open.spotify.com/track/2iTmJTOBvoldQ980R4GlSB) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [touten I](https://open.spotify.com/album/41LcXRuuDjV8JicIVvKUPc) | 2:59 |

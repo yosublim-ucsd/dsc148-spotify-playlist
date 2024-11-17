@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,233 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,232 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 17 | [SILLY BOY](https://open.spotify.com/track/14JWdvYsWAx7csssKvakQK) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:50 |
 | 18 | [Oneira Se Spiti Magissas](https://open.spotify.com/track/3htk2N2ly7gweqbQFgMv4p) | [Fi Vita Sigma](https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I), [Mani](https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS), [Rio](https://open.spotify.com/artist/5521NezFH11BqC62R1WCWW), [Dj Mode](https://open.spotify.com/artist/3G85NIbs2Vox1KYCguH62c) | [Oneira Se Spiti Magissas](https://open.spotify.com/album/7uteQBw0IsyhqL0qZ3MaRj) | 5:38 |
 | 19 | [GUZMAN](https://open.spotify.com/track/6P9P1j0v2KiDu4vxW3T1WS) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx) | [GUZMAN](https://open.spotify.com/album/1b5IAxsuk13wd4zUbvKT1i) | 3:08 |
-| 20 | [DYNAMITIS](https://open.spotify.com/track/6ezZQYmtO52Yn5CvAymm5Y) | [levi](https://open.spotify.com/artist/6pCBW77mTsAvyZIdnePyGH), [Tanto](https://open.spotify.com/artist/2mn8rZRXusYSE0pwQkVN7t), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo) | [DYNAMITIS](https://open.spotify.com/album/6qFWRo4vADVtCbnr2MlErD) | 3:04 |
+| 20 | [DYNAMITIS](https://open.spotify.com/track/6ezZQYmtO52Yn5CvAymm5Y) | [levi](https://open.spotify.com/artist/6pCBW77mTsAvyZIdnePyGH), [Tanto](https://open.spotify.com/artist/2mn8rZRXusYSE0pwQkVN7t), [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [mi368](https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK) | [DYNAMITIS](https://open.spotify.com/album/6qFWRo4vADVtCbnr2MlErD) | 3:04 |
 | 21 | [KARMA](https://open.spotify.com/track/3Qa8rrt0bAA2VAYkbEY2pX) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [lefmav](https://open.spotify.com/artist/4Xn5nkh24fr61RNgXHMeEU) | [KARMA](https://open.spotify.com/album/1Chmt0cqtmmZWgYU21UKtZ) | 2:33 |
 | 22 | [Rabanne](https://open.spotify.com/track/5IEfvd0RtX7WITYPiM2cN4) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Rabanne](https://open.spotify.com/album/7JlaMMchnCJOK66a1zX0x3) | 2:21 |
 | 23 | [Aggelos Sti Gi](https://open.spotify.com/track/1DCCtsrcogyKEW567delN1) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Aggelos Sti Gi](https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP) | 2:43 |

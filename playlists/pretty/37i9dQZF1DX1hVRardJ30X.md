@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by ELENA ROSE & Maria Becerra, Rauw Alejandro & Bad Bunny, Ela Taubert, Blessd and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,994 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,046 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [Marbella](https://open.spotify.com/track/0ebzdDKUj5FzJaK56kIKe3) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Marbella](https://open.spotify.com/album/6FcP3KHgV4D6CMAgkT54wX) | 2:49 |
 | 18 | [54D](https://open.spotify.com/track/2rDKGR7r0p3ppKo6hBrwiE) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [54D](https://open.spotify.com/album/3Ec4brxHYkOcCosj1Sa099) | 3:32 |
 | 19 | [Recorrerte](https://open.spotify.com/track/6wd1evlNUcukPO1Hip1A95) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [PO2054AZ \(Vol.II\)](https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA) | 2:29 |
-| 20 | [Tupac](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Tupac](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 |
+| 20 | [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 |
 | 21 | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc) | 3:00 |
 | 22 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 |
 | 23 | [conmigo escaparte](https://open.spotify.com/track/2tzHIoAtpBkTxJ3cWLyo6I) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [conmigo escaparte](https://open.spotify.com/album/3GndMeKTVIn7fv7cIComwj) | 3:06 |

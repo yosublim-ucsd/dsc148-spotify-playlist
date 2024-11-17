@@ -7714,7 +7714,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1GhSDaZ3040SFQDtX4SYd2"
@@ -7740,7 +7740,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
@@ -10491,6 +10491,24 @@
     },
     {
       "album": {
+        "name": "Zootieee Wrld",
+        "url": "https://open.spotify.com/album/3NAuqgEVJGqlTHadJ5hD7g"
+      },
+      "artists": [
+        {
+          "name": "El Snappo",
+          "url": "https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125610,
+      "name": "Chicken",
+      "url": "https://open.spotify.com/track/24l2RK2FJolUEnEb1dXDOY"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -12832,6 +12850,64 @@
       "duration_ms": 222889,
       "name": "Dancing On My Own - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
+    },
+    {
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Greg Wells",
+          "url": "https://open.spotify.com/artist/2DSl2WOv43NAFhEFo43bDf"
+        },
+        {
+          "name": "Jack Dolman",
+          "url": "https://open.spotify.com/artist/5nrgPzwADS33jyCOB5oBaw"
+        },
+        {
+          "name": "Dominick Amendum",
+          "url": "https://open.spotify.com/artist/1Q352BhdfLkxHA9fdAvagz"
+        },
+        {
+          "name": "Norbert Leo Butz",
+          "url": "https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Christopher Fitzgerald",
+          "url": "https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII"
+        },
+        {
+          "name": "Michelle Federer",
+          "url": "https://open.spotify.com/artist/724Af947xg6pNu4xiwhYsV"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457333,
+      "name": "Dancing Through Life - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/0t5uXvKUEOepGXIyziHMTQ"
     },
     {
       "album": {
@@ -24784,10 +24860,28 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 202290,
       "name": "House Again",
       "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
+    },
+    {
+      "album": {
+        "name": "Hudson Westbrook",
+        "url": "https://open.spotify.com/album/11p50hPPDIJ02CCECbKdli"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/6rSxWLdzLKLE07pdKi64wP"
     },
     {
       "album": {
@@ -26584,6 +26678,24 @@
       "duration_ms": 221400,
       "name": "I'll Be Around (feat. Timbaland) - Club Mix",
       "url": "https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK"
+    },
+    {
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
     },
     {
       "album": {
@@ -30598,7 +30710,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 247445,
       "name": "LABOUR - the cacophony",
       "url": "https://open.spotify.com/track/4B0cJGASxVICLW2AsBZhiE"
@@ -45728,7 +45840,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 144431,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj"
@@ -62376,7 +62488,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"

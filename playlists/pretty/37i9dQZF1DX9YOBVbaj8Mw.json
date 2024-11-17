@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14683,
+  "num_followers": 14693,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pocz\u0105tek",
-        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
-      },
-      "artists": [
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 271461,
-      "name": "Pocz\u0105tek",
-      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "IMAGO (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 172000,
       "name": "IMAGO SWAN",
       "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pocz\u0105tek",
+        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
+      },
+      "artists": [
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 271461,
+      "name": "Pocz\u0105tek",
+      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Piosenki domowe",
-        "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lesz",
-          "url": "https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Klucz",
-      "url": "https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
         "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 99000,
       "name": "Pie\u015b\u0144 baby",
       "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Piosenki domowe",
+        "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lesz",
+          "url": "https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Klucz",
+      "url": "https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
-        }
-      ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Koncert w Rozmarino",
         "url": "https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 301021,
       "name": "Polski blues",
       "url": "https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
+        }
+      ],
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",

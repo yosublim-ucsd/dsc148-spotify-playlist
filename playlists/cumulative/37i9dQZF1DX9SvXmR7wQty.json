@@ -19824,7 +19824,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 180893,
       "name": "Habiba",
       "url": "https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB"
@@ -27693,6 +27693,24 @@
     },
     {
       "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "Laisse-moi tranquille.",
+      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
+    },
+    {
+      "album": {
         "name": "Laisser tomber",
         "url": "https://open.spotify.com/album/3TtFeFYZfbJX323OZ1Ahqs"
       },
@@ -31794,7 +31812,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 161142,
       "name": "L\u2019envers du d\u00e9cor",
       "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
@@ -34888,7 +34906,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 152079,
       "name": "Monde \u00e0 l'envers",
       "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"
@@ -39766,6 +39784,24 @@
       "duration_ms": 230466,
       "name": "Pendant que tu dors",
       "url": "https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22"
+    },
+    {
+      "album": {
+        "name": "penelope",
+        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194902,
+      "name": "penelope",
+      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
     },
     {
       "album": {
@@ -53408,6 +53444,24 @@
       "duration_ms": 182950,
       "name": "Un jour ou l'autre",
       "url": "https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul"
+    },
+    {
+      "album": {
+        "name": "Un jour, je l'aurai",
+        "url": "https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "Un jour, je l'aurai",
+      "url": "https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y"
     },
     {
       "album": {

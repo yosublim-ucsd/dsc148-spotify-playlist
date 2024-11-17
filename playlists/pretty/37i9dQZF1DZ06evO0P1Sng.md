@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,063 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,065 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
 | 50 | [Espero Que Sinta](https://open.spotify.com/track/6KspNxVx5lEl6eUJaZSbyS) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Espero Que Sinta](https://open.spotify.com/album/6CHnoiMOTD3jiniAOYaTZA) | 2:46 |
 
-Snapshot ID: `ZzU9gAAAAACLmS8RoJ+rIvUQyqegcJLL`
+Snapshot ID: `ZzaPAAAAAAD4ywLxxtFsTfwPcQic8U8A`

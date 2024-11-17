@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: iii
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,429 likes - 414 songs - 1 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,434 likes - 414 songs - 1 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [那黑夜沒很夜 Huggies](https://open.spotify.com/track/4b87uRNyNKVX4DYIxGj6My) | [JACE 陳凱詠](https://open.spotify.com/artist/388Kv3mCtIKRKheLlWjzCe) | [那黑夜沒很夜 Huggies](https://open.spotify.com/album/71A5dMgBJwFynVxBDDKZ3t) | 3:00 |
+| 1 | [那黑夜沒很夜 Huggies](https://open.spotify.com/track/4b87uRNyNKVX4DYIxGj6My) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [那黑夜沒很夜 Huggies](https://open.spotify.com/album/71A5dMgBJwFynVxBDDKZ3t) | 3:00 |
 | 2 | [波爾多的單行詩](https://open.spotify.com/track/5PAM64YTBsTdDchKxo5yck) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [自然 i\-ness](https://open.spotify.com/album/3BYVpPH8dcsULPbVGuuTK9) | 3:01 |
 | 3 | [Let's Stay In](https://open.spotify.com/track/4ez32AQQjqjw4F1hItmqA0) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Let's Stay In](https://open.spotify.com/album/6zMofv6OrGxA1VG1Kuex1r) | 2:30 |
 | 4 | [後來知道了](https://open.spotify.com/track/6H2Z2wFh92yo9Z5MNOh7xu) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [後來知道了](https://open.spotify.com/album/3Xwx9BUFl4s4aCzj6Rs1VV) | 3:31 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 78 | [告白前先看天氣預報](https://open.spotify.com/track/1GAfR4IbqnlcPjPTEX9Dsj) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [告白前先看天氣預報](https://open.spotify.com/album/4Y0y0ILM5EqAwMvp7Fzx1Z) | 3:39 |
 | 79 | [One Last Time](https://open.spotify.com/track/5X84tcnongIeGjTk9T2F3z) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [One Last Time](https://open.spotify.com/album/7bfzD9Ict7jfAxVdg1dgrf) | 3:38 |
 | 80 | [翅膀](https://open.spotify.com/track/3T1fExpXW8lklebKd2Zec7) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA), [周吉佩](https://open.spotify.com/artist/3u0ZiCEVJbNoeMF1yvhp2a), [蕭凱恩](https://open.spotify.com/artist/5H5nVOdKXhQAD5QZL1D55K) | [翅膀](https://open.spotify.com/album/1gg7BI1wdSxL9jBdtA6Czh) | 3:09 |
-| 81 | [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/2sPLOrcOZumYqosdGrYttH) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 |
+| 81 | [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 |
 | 82 | [CYA](https://open.spotify.com/track/4V6sgL7rpAQp0tErZ7x8QU) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq), [Windy 詹天文](https://open.spotify.com/artist/1mF0zgwvohTvauSu3K8My4), [Yumi 鍾柔美](https://open.spotify.com/artist/0s9Jv5Tyi7qmUEPZcWHigA) | [CYA](https://open.spotify.com/album/687ce4Txbb7ZhgKsZGeH41) | 3:36 |
 | 83 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 |
 | 84 | [天下看娃娃](https://open.spotify.com/track/6tjsENHZl0qX3YVRSt1u4l) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 4:16 |

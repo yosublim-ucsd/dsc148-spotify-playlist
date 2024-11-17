@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Kike Pavón
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,564 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,591 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Todavía Me Alegraré](https://open.spotify.com/track/7KlO1qJhXsMnit9KapjwHH) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Todavía Me Alegraré](https://open.spotify.com/album/3CFFBv1LdumcE38wZpVj2A) | 4:20 |
-| 2 | [Exaltado](https://open.spotify.com/track/5eE8NCgnG5b8vm7NudlsRw) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Eric Philips](https://open.spotify.com/artist/1JYGCh0j961BBH6rJiXkax) | [Exaltado](https://open.spotify.com/album/4nHCUq5Utbw744mlJWEsyr) | 11:44 |
+| 2 | [Exaltado](https://open.spotify.com/track/5eE8NCgnG5b8vm7NudlsRw) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY) | [Exaltado](https://open.spotify.com/album/4nHCUq5Utbw744mlJWEsyr) | 11:44 |
 | 3 | [Se Llama Jesús](https://open.spotify.com/track/1wMHZ1w5Ng8fd4A2B4TJoB) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Nos Ha Nacido Un Niño](https://open.spotify.com/album/0O65ZuGDYIrEnAdFollLI8) | 3:02 |
 | 4 | [Bendita Sangre \- Live](https://open.spotify.com/track/2q2vvdkpytWG2CUIGxzoGZ) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Bendita Sangre](https://open.spotify.com/album/4k0CH9XLmJfb0HjUYffymR) | 15:33 |
 | 5 | [En Ti Confío](https://open.spotify.com/track/7z9RSMZmIZUPpitw5EATvO) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [En Ti Confío](https://open.spotify.com/album/1ptIsUoUkCxAYbLaSPe8UF) | 4:20 |
 | 6 | [Te Prometo \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/track/0OGr2Rlk5urzbxAmClfT1d) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Te Prometo \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/album/7ioVlnB6RIY4mQi2TusSPr) | 5:03 |
 | 7 | [No Hay Otro Lugar](https://open.spotify.com/track/57M8sYkCCG0gInG9DJRYrz) | [Dahaira](https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR), [Chriss Disla](https://open.spotify.com/artist/0wh07dkAvfWDGwiOnd5V28) | [No Hay Otro Lugar](https://open.spotify.com/album/1Ymg90q4gc7cqNGZLaFVst) | 10:46 |
 | 8 | [Nada Es Igual](https://open.spotify.com/track/1TRMybxK4vwEDNlLjuCi06) | [Nico Cabrera](https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF), [Vale Montes](https://open.spotify.com/artist/260NzhUBhOUDlt99vUhJYK) | [Nada Es Igual](https://open.spotify.com/album/4lp0rREvZ0LsDL09mrAeAx) | 6:14 |
-| 9 | [Cada Día \- Acústico](https://open.spotify.com/track/2vL2meD4juxfbxt6eF8lEH) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ) | [Cada Día \(Acústico\)](https://open.spotify.com/album/5NweKxQbPh8YcGDhtwJdCl) | 3:56 |
+| 9 | [Cada Día \- Acústico](https://open.spotify.com/track/2vL2meD4juxfbxt6eF8lEH) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Eric Bustamante](https://open.spotify.com/artist/18l3k6ykopWuzk0Z3yrhyW), [Miqueas Veliz](https://open.spotify.com/artist/1pmmvtm6vsENbkPlDHw1tD) | [Cada Día \(Acústico\)](https://open.spotify.com/album/5NweKxQbPh8YcGDhtwJdCl) | 3:56 |
 | 10 | [Dulce Huesped](https://open.spotify.com/track/5Mga5ZMj9dUAuA3v29TaDe) | [Aldana Canale](https://open.spotify.com/artist/5NOcG6isbHqwrftUVkl6Uk) | [Todo Para Gloria De Dios](https://open.spotify.com/album/3Gp1TV0THIj8DdjhzJR8GL) | 4:05 |
 | 11 | [El Jardín \(Live\)](https://open.spotify.com/track/0sTaAxbSVHlDCu80KfoR6U) | [Lirios](https://open.spotify.com/artist/1CAZ9qtjtfLQjUzDbI6U2y) | [El Jardín \(Live\)](https://open.spotify.com/album/0SwGzAADcdGlHBXLasD06F) | 15:11 |
 | 12 | [Tú, en Mi Casa](https://open.spotify.com/track/6rAxZ5T9LH1O9o46i3oIag) | [Luis Enrique, CMF](https://open.spotify.com/artist/50YHQVBQIzns9ifATbhJFz), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Tú, en Mi Casa](https://open.spotify.com/album/6zAKFBLH6QnEiCa3iDrljO) | 4:32 |

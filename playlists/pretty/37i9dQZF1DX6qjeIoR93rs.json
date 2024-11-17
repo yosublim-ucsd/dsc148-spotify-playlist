@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 73396,
+  "num_followers": 73425,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-11-14 18:34:48",
       "album": {
+        "name": "Ya Yuma Wen",
+        "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Ya Yuma Wen",
+      "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
+    },
+    {
+      "added_at": "2024-11-14 18:34:48",
+      "album": {
         "name": "Checkpoint Rock: Canciones Desde Palestina",
         "url": "https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
-    },
-    {
-      "added_at": "2024-11-14 18:34:48",
-      "album": {
-        "name": "Ya Yuma Wen",
-        "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Ya Yuma Wen",
-      "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
     },
     {
       "added_at": "2024-11-14 18:34:48",

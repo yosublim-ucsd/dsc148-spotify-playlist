@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "La Novena Maravilla",
+        "url": "https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166314,
+      "name": "La Novena Maravilla",
+      "url": "https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e"
+    },
+    {
+      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 249777,
       "name": "Mi Forma de Sentir",
       "url": "https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5"

@@ -2281,6 +2281,28 @@
     },
     {
       "album": {
+        "name": "Guaracha",
+        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
+      },
+      "artists": [
+        {
+          "name": "Yilberking",
+          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
+        },
+        {
+          "name": "Anny Sepulveda",
+          "url": "https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "Guaracha",
+      "url": "https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7"
+    },
+    {
+      "album": {
         "name": "Guaracha Con \u00d1ejo",
         "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
       },
@@ -3312,7 +3334,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"

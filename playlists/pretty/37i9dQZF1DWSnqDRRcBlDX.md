@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,703 likes - 65 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,774 likes - 65 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:54 |
+| 1 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:54 |
 | 2 | [Ghostrider](https://open.spotify.com/track/0GQOK623qn4kXvvP5I2THO) | [Milo Spykers](https://open.spotify.com/artist/3FGLVtY3sNKFgkkmQ05AXl) | [Thunderworld EP](https://open.spotify.com/album/0EnjIPnxcu5CBv0TH5wt5X) | 4:57 |
 | 3 | [1999](https://open.spotify.com/track/2xMCbLGu1AJ77QlT3PMEBl) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [1999 \(Exhale VA005\)](https://open.spotify.com/album/4oCflXpMzitBdQlA44lsl7) | 5:13 |
 | 4 | [Play that Fact](https://open.spotify.com/track/13zSFvC75hhnvQB7Q7m93D) | [Reform](https://open.spotify.com/artist/76k0s6unMUFr68vNkbMmaV), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [Karma](https://open.spotify.com/album/0x5bgzC2b4L6un2YnO2W6l) | 5:54 |

@@ -4,7 +4,7 @@
 
 > From gamer to racer\. Listen to the music from and inspired by Gran Turismo.
 
-28 songs - 1 hr 47 min
+28 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Celebrate \- Bonus Track](https://open.spotify.com/track/3u0066MhzliZ9QKrG4UAMg) | [Courtney Bell](https://open.spotify.com/artist/7AmVadaacpE7sJtlFpRLU2) | [Poverty Stricken](https://open.spotify.com/album/100qE2h6nZeT3BQk6cicxw) | 3:22 | 2023-08-11 |  |
 | [Coming In Hot](https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Coming In Hot](https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV) | 3:20 | 2023-08-11 |  |
 | [Get Out My Way](https://open.spotify.com/track/51DaW6U334rZ19HB0oduYe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:28 | 2023-08-11 |  |
-| [God Moving Over the Face of the Waters](https://open.spotify.com/track/4WxOFybmhNxHGnkPGBJzIE) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/31qneFkDfKhjVNH0kqdhQ1) | 5:44 | 2023-08-11 |  |
+| [God Moving Over the Face of the Waters](https://open.spotify.com/track/4WxOFybmhNxHGnkPGBJzIE) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/31qneFkDfKhjVNH0kqdhQ1) | 7:21 | 2023-08-11 |  |
 | [Harder Than You Think](https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [How You Sell Soul to a Soulless People Who Sold Their Soul?](https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP) | 4:09 | 2023-08-11 |  |
 | [Hate Me Now \(feat\. Diddy\)](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:44 | 2023-08-11 |  |
 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 | 2023-08-11 |  |

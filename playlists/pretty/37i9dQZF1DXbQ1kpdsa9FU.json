@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 621519,
+  "num_followers": 621647,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
-      },
-      "artists": [
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Church Pew",
-        "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 183558,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "That Was Then, This Is Now",
         "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 197880,
       "name": "That Was Then, This Is Now",
       "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Church Pew",
+        "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 183558,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Praise God For That",
-        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 192273,
-      "name": "Praise God For That",
-      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Make It Through",
         "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 192196,
       "name": "Make It Through",
       "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Praise God For That",
+        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 192273,
+      "name": "Praise God For That",
+      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
+        "name": "Deeper Waters",
+        "url": "https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 156410,
+      "name": "Deeper Waters",
+      "url": "https://open.spotify.com/track/2hsABgCGn6Dmep77LWFAaW"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
-        "name": "Deeper Waters",
-        "url": "https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 156410,
-      "name": "Deeper Waters",
-      "url": "https://open.spotify.com/track/2hsABgCGn6Dmep77LWFAaW"
     },
     {
       "added_at": "2024-06-23 01:51:00",

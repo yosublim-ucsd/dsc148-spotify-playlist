@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+      },
+      "artists": [
+        {
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
+    },
+    {
+      "album": {
         "name": "BALLOUT",
         "url": "https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB"
       },
@@ -1268,7 +1290,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1GhSDaZ3040SFQDtX4SYd2"
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
@@ -4776,7 +4798,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -6994,7 +7016,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 73821,
       "name": "Not My Problem Funk - Sayfalse Remix",
       "url": "https://open.spotify.com/track/54a8aoGhcbywpE1wyHABmc"
@@ -7312,6 +7334,32 @@
       "duration_ms": 194374,
       "name": "Oy na Ivana ta y na Kupala",
       "url": "https://open.spotify.com/track/7FfBQuT42JtThNuX9J1SBR"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115533,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {
       "album": {
@@ -7770,7 +7818,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 165412,
       "name": "Rah Tah Tah",
       "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
@@ -11920,7 +11968,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 158129,
       "name": "\u0411\u0440\u0438\u043b\u043b\u0438\u0430\u043d\u0442\u044b",
       "url": "https://open.spotify.com/track/1porPy2m0awbKDVi7xDPaq"
@@ -12348,7 +12396,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 143008,
       "name": "\u0412\u0440\u0435\u043c\u044f",
       "url": "https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M"
@@ -12604,7 +12652,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 206400,
       "name": "\u0413\u043e\u043b\u043e\u0441\u0430",
       "url": "https://open.spotify.com/track/6YTfqiXQdX1SODLieUjNdf"
@@ -13008,7 +13056,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 132923,
       "name": "\u0434\u0435\u0442\u043a\u0430, \u0437\u0430\u0447\u0435\u043c \u0442\u044b \u0438\u0433\u0440\u0430\u0435\u0448\u044c?",
       "url": "https://open.spotify.com/track/3CZcfdS1b8m4XOQIzdiEFu"
@@ -15344,7 +15392,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 209708,
       "name": "\u041e\u0439 \u0434\u0430",
       "url": "https://open.spotify.com/track/08mAoQPHYAAaQWrqaAzlTo"

@@ -4,7 +4,7 @@
 
 > 
 
-1,833 songs - 4 day 2 hr 7 min
+1,836 songs - 4 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Astronaut](https://open.spotify.com/track/0YdbIv7sZ4aWHE8gcgV00u) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Astronaut](https://open.spotify.com/album/6ZsBBSA5K5FqCHRj4uukYg) | 3:01 | 2022-12-02 |  |
 | [ATARAX1A \- EXTENDED MIX](https://open.spotify.com/track/05eiJuy8IaLkGoYuM6F5lJ) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [ULTIMATE HAPPY CARNIVAL](https://open.spotify.com/album/1K5SbC5wm0foPdbjbKUnOn) | 4:26 | 2022-08-10 |  |
 | [Atomic Blonde](https://open.spotify.com/track/3nNPqld2EyelnwgIxUkBQa) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Atomic Blonde](https://open.spotify.com/album/6g6mX5q9LHgG8USQAmR24C) | 3:31 | 2022-11-21 |  |
+| [ATTACK!](https://open.spotify.com/track/47DmpGRiVanRnmKHgLo3sU) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab) | [ATTACK!](https://open.spotify.com/album/1vyJeqIQUKXcB6jAmkVUYv) | 2:47 | 2024-11-16 |  |
 | [B With U](https://open.spotify.com/track/7qnvfsrFoh8u8lYBo3yu42) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:16 | 2023-07-14 |  |
 | [B.O.S.S](https://open.spotify.com/track/59psh65ztPNRcMIGa6WeXF) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [B.O.S.S](https://open.spotify.com/album/14I4HbCc1s2Z2RdWuiJ7Ou) | 3:00 | 2023-09-11 |  |
 | [Back 2 Basics](https://open.spotify.com/track/5BYKuKhY5rIyBRUwZ76dQG) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka) | [Into The Summer Vol\. 2](https://open.spotify.com/album/15Go8avFuIedSr9PSo1xYA) | 2:19 | 2024-06-13 |  |
@@ -355,6 +356,7 @@
 | [Dageki](https://open.spotify.com/track/3mokfADy4F9mRWMACtRFy4) | [Alby Loud](https://open.spotify.com/artist/2LAMUtUpLsPEEBsfGTRRUx), [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Dageki](https://open.spotify.com/album/2jTrTT4a453vGYIgfYngJm) | 2:21 | 2022-02-22 |  |
 | [DAMAGE](https://open.spotify.com/track/4D2zwRijiqYlyNwpDjkr1T) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [DAMAGE](https://open.spotify.com/album/02Ps7gwhBl9dnOEWIG8UEF) | 3:28 | 2023-06-24 |  |
 | [DAMNATION](https://open.spotify.com/track/2LxjYhOBFlwvR5kuN1XZME) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [DAMNATION](https://open.spotify.com/album/7u31LrLdPsHPQWeUOge4sh) | 2:34 | 2024-05-10 |  |
+| [DANCE](https://open.spotify.com/track/3Lp5HFhm5uygXeOkNjC60Y) | [Suspect](https://open.spotify.com/artist/1g5TBMBIK1S48I5amyae6u), [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [DANCE](https://open.spotify.com/album/5lW1S7WK1RTWGbu47I00eY) | 2:51 | 2024-11-16 |  |
 | [Dance All Night](https://open.spotify.com/track/2tHQZ72MHQkWMPTLBjHwqO) | [DJ Stompy](https://open.spotify.com/artist/0NPIfGxSQLFbauoBrwtEGl), [Eazyvibe](https://open.spotify.com/artist/0PMy5u8OE0gX0iZtV4CGLP), [Zetamale](https://open.spotify.com/artist/7kDNYbq3Sz7yBk95R5wmR4) | [The Three\-Way EP](https://open.spotify.com/album/0ErHf38uEM09SbspsASgpn) | 3:48 | 2022-04-06 |  |
 | [Dance For Me \(1, 2, 3\) \- Irradiate Remix](https://open.spotify.com/track/2HFnhPLndIuk9NuQS0G7Uu) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[The Remixes\]](https://open.spotify.com/album/4vgDHOmtP3Hrbie8uwmYT1) | 2:03 | 2024-10-08 |  |
 | [Dance In Stereo](https://open.spotify.com/track/0F0J3W5854KioWIa3KKPA6) | [K\-Style](https://open.spotify.com/artist/0O3T7774twOW0Wv1asJvp9) | [Dance In Stereo](https://open.spotify.com/album/5Neb80lH87y4vCpji2fYhf) | 3:18 | 2023-09-09 |  |
@@ -950,6 +952,7 @@
 | [Like It Burn](https://open.spotify.com/track/39ZhXtccwAqGkfG4hnqa1T) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Like It Burn](https://open.spotify.com/album/2GpPxQnEb1Zw09dtkCVJVY) | 2:41 | 2023-09-29 |  |
 | [Like It Loud](https://open.spotify.com/track/10fIxlGTeil1znmhBEkCr0) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [Like It Loud](https://open.spotify.com/album/2YebFw4Tp0WxmJFiYDMHhh) | 2:30 | 2024-04-25 |  |
 | [Like Old Days](https://open.spotify.com/track/2Wxhxy0paTZx1rZbKgdwpM) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Like Old Days](https://open.spotify.com/album/3WgsB8j0k2nKoC0rSQT79b) | 3:25 | 2023-06-17 |  |
+| [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 | 2024-11-16 |  |
 | [Like This](https://open.spotify.com/track/6vYEAjYaE7E0HbLQOjMniR) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [Like This](https://open.spotify.com/album/5V4k7HcPq9tiCiaLg8xcLh) | 2:43 | 2022-04-06 |  |
 | [Like You \(The Braindrillerz Remix\)](https://open.spotify.com/track/5cSMLUxXoztLQ4QCHGBl0P) | [Uneven](https://open.spotify.com/artist/3rDNaQKm8vmmIqDMWNmFdM), [Norah B.](https://open.spotify.com/artist/2oc7HOF4je0QOUpYZ3Drio), [The Braindrillerz](https://open.spotify.com/artist/6j9yYMSUzcSI8KGbhgmSKG) | [Like You \(The Remixes\)](https://open.spotify.com/album/29SifS19C8oSV2gL8qs2E5) | 4:02 | 2022-11-29 |  |
 | [Line Tracer](https://open.spotify.com/track/2glkJhRUozn3tcY3uR1s7K) | [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq) | [Line Tracer](https://open.spotify.com/album/7i1eA8RGP3c3NsaIqpjrMq) | 3:27 | 2023-11-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,513 likes - 220 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,616 likes - 220 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 23 | [Rockstar Baby](https://open.spotify.com/track/2TZyB1YQ6Fca7pCcsWQMGm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rockstar Baby](https://open.spotify.com/album/3SQ5qsIykXysL3Mf8HoQHn) | 3:27 |
 | 24 | [LCKDWN](https://open.spotify.com/track/0M6aPN1GmBmWT1mxh90UmX) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Safa](https://open.spotify.com/artist/3jAiKwmJqrpz0UqjWsxBCM) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 2:11 |
 | 25 | [Why Do I](https://open.spotify.com/track/4IQTGlu5rKpy0HPonMivCH) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Why Do I](https://open.spotify.com/album/6GZ4WY1Xs5iW9ZQ4ZOtwUB) | 2:10 |
-| 26 | [Even When You're Silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
+| 26 | [EVEN WHEN YOU’RE silent](https://open.spotify.com/track/3I5tScEkfhOeT0bHuuLd16) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 2:46 |
 | 27 | [SAME WAYZ](https://open.spotify.com/track/3qiyi5s7saiQLQwL17LWPs) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [SONIC INCENSE](https://open.spotify.com/album/4gJgwFk9dnQkrVKJ034eLk) | 3:25 |
 | 28 | [SOMEBODY](https://open.spotify.com/track/1hcJX6IXmlQVqqhMuBwTf8) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [INTUITION](https://open.spotify.com/album/13EETR85h3AtkDlZWSOz9R) | 2:07 |
 | 29 | [B.P.E](https://open.spotify.com/track/4aqmsHWp7Amz87Z1IZFA6J) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [B.P.E](https://open.spotify.com/album/7jRX1w3mgt42IQMLCHCC48) | 3:40 |

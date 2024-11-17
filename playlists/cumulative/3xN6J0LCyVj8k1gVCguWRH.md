@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,179 songs - 9 day 18 hr 34 min
+4,184 songs - 9 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1682,6 +1682,7 @@
 | [I Came to Slay](https://open.spotify.com/track/4p9pPnJGi0LjyfHMM2DL5P) | [Olivia Thai](https://open.spotify.com/artist/1HtyYQkdkuViivGvneQxRq) | [I Came to Slay](https://open.spotify.com/album/0hi9HskOm9yay3MZ8C6ATm) | 3:53 | 2020-06-25 | 2020-07-13 |
 | [I Can Be Anything](https://open.spotify.com/track/5UsH0oaGy5SVDQ0EwFTHrB) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Anything](https://open.spotify.com/album/6QrSFrfbdUYm3jKgZcecGQ) | 3:16 | 2024-10-20 | 2024-11-02 |
 | [I Can Make It Easy for You](https://open.spotify.com/track/7I32My4zxI38mQLvrXtN2b) | [haan](https://open.spotify.com/artist/16yrEIlF7nitGwGDKKQNk0) | [I Can Make It Easy for You](https://open.spotify.com/album/3fttXzgWx5KnMK3TbXO8NT) | 3:40 | 2021-12-17 | 2022-01-01 |
+| [I Can Take U](https://open.spotify.com/track/0KELOkaULluJVLY68rcKYh) | [Leo The Kind](https://open.spotify.com/artist/3HmMs6CCGjQvjCBcv26hhB) | [This Music Sh\*t Is Hard](https://open.spotify.com/album/6dX6YvWI70FFTbbhQoCmyi) | 2:10 | 2024-11-16 |  |
 | [I Can Tell](https://open.spotify.com/track/27uspwFPzIxqpODQgujVaj) | [Dorian Duta](https://open.spotify.com/artist/4GUv5tQjyoIGgz2TGzyO2C) | [I Can Tell](https://open.spotify.com/album/0ZBYfH6tevVSrWrsbMpIVa) | 2:33 | 2023-02-17 | 2023-03-18 |
 | [I Can't Fall Asleep](https://open.spotify.com/track/3tmRAkXXaNBmTRtC840pm4) | [Leena](https://open.spotify.com/artist/2HDCzXNBGpUWHK80bszC2O) | [I Can't Fall Asleep](https://open.spotify.com/album/3DxECJI2qLBi65Bc3MfUJg) | 3:28 | 2019-11-30 | 2019-12-11 |
 | [I Can't Get Next to You](https://open.spotify.com/track/2UclV6Lu93Ssh1spktn0Fp) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 3:48 | 2022-07-26 | 2024-04-30 |
@@ -3042,6 +3043,7 @@
 | [Routine](https://open.spotify.com/track/1hXgdCVIiF2e1HPeI6jX1m) | [Sim Paul](https://open.spotify.com/artist/2RswgL4p86FQ4VlDvHd2LC) | [SADBOIBURNERACCOUNT](https://open.spotify.com/album/1WiX3bToReU93TkBfnh5Qa) | 2:24 | 2022-03-25 | 2022-04-10 |
 | [ROWBOAT](https://open.spotify.com/track/4ncfQKRos47SkCMwzJdeub) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X) | [ROWBOAT](https://open.spotify.com/album/2WeiyQvvC4pOEHFN58NJTh) | 3:54 | 2023-09-25 | 2023-12-14 |
 | [Roy](https://open.spotify.com/track/2Y3MqG9sqkvfcVLZUsNKsG) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [ROY](https://open.spotify.com/album/39OXom6s0NarGcTbpr0l7a) | 3:07 | 2024-10-16 | 2024-10-28 |
+| [Royalty](https://open.spotify.com/track/23THJDefjNaOu9u0yWdCgN) | [Ariana Miri](https://open.spotify.com/artist/2XgnV5MS9Wn9gDjbZYOlzG), [Itai](https://open.spotify.com/artist/0fYwyLfpDRVYX4Xcututuz) | [Royalty](https://open.spotify.com/album/5z3IqS3YHVVfQCmnF0Qw4C) | 3:22 | 2024-11-16 |  |
 | [ruin july](https://open.spotify.com/track/24jV2UdYZkwbe14zBDoVPy) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [ruin july](https://open.spotify.com/album/1VJu4ouMI4rD7L3brqAnEb) | 2:45 | 2024-07-09 | 2024-07-21 |
 | [Rumours](https://open.spotify.com/track/3BXbuY6vPIzZ63Mh0e8YDh) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [About You / Rumours](https://open.spotify.com/album/55Mr6V8Hhp55gDSvkGJL70) | 3:46 | 2021-11-13 | 2021-11-28 |
 | [Run](https://open.spotify.com/track/1Y8cdKtu0MdKBouHZRtCGH) | [Firebug](https://open.spotify.com/artist/0DZBIpEF3llmi60d0a2IKi) | [Run](https://open.spotify.com/album/3frYwgbA1Ib6qt6WMQexa5) | 5:26 | 2021-10-16 | 2021-12-27 |
@@ -3354,6 +3356,7 @@
 | [Stay up till I sleep](https://open.spotify.com/track/4ebp4RzVG4ChWqgF1TFgvI) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [Stay up till I sleep](https://open.spotify.com/album/3L2h6n16xXrhshQMaK77uK) | 2:41 | 2021-03-26 | 2021-04-17 |
 | [Stay With Me](https://open.spotify.com/track/3GsegUxwMHr5rJinsCINKb) | [Kharel](https://open.spotify.com/artist/2p0AnNwfqv9FHnSIrDQCs4), [Meneme](https://open.spotify.com/artist/3SBkpulxxUycrB3HUsNqTt) | [Stay With Me](https://open.spotify.com/album/7z3HcPPVrhdmVAw9F4MBID) | 3:14 | 2022-09-09 | 2022-09-25 |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2024-04-16 | 2024-08-13 |
+| [Steez](https://open.spotify.com/track/6irHIvfQ3VKFjptbxXdu0M) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3) | [STEEZ.](https://open.spotify.com/album/3n2qzMsi6TkIlHeSiMmkbh) | 2:32 | 2024-11-16 |  |
 | [Step By Step](https://open.spotify.com/track/3TBGtnf1PS0SJ3CbEypNJJ) | [Greg Kercia](https://open.spotify.com/artist/0RXD7pvIwFOwn23hiXME2j) | [Step By Step](https://open.spotify.com/album/0vzEV8U82txVfRFa0rMj06) | 2:56 | 2024-04-19 | 2024-05-01 |
 | [Step In To It](https://open.spotify.com/track/1cQOUaEmmxsH9ysBFlryaL) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Step In To It](https://open.spotify.com/album/29UncCrdvLYBjHXZLsWZ9v) | 3:33 | 2023-12-31 | 2024-01-19 |
 | [Step Inside](https://open.spotify.com/track/7iQguavBLI7T1nfS47WNnB) | [Paul Murray](https://open.spotify.com/artist/7dDbi4M7by85JJ0oNvCzpi) | [Step Inside](https://open.spotify.com/album/1ec4aQXPL4FnO6iKG0wwRQ) | 3:35 | 2021-05-03 | 2021-06-03 |
@@ -3444,6 +3447,7 @@
 | [Sunny](https://open.spotify.com/track/4ZK4yuZMPAoU9YRQKsd4W2) | [Brian Loyde](https://open.spotify.com/artist/3YChbpxtV506Tup3EwFbJH) | [Sunny](https://open.spotify.com/album/5jTpgM89g2Mo6130qybZBl) | 3:07 | 2024-08-24 | 2024-09-05 |
 | [Sunny Days](https://open.spotify.com/track/1Vpy9d6EyDAIgUvezQPKk1) | [Jmsey](https://open.spotify.com/artist/0P1f2YvmKlXYF7aZPKefuv) | [Sunny Days](https://open.spotify.com/album/67Hz1eV3uzZNJPFV1ByvAD) | 2:35 | 2022-09-30 | 2022-10-18 |
 | [Sunny Fields](https://open.spotify.com/track/3ALW7XoEieIebcfmIodXia) | [Hanibal](https://open.spotify.com/artist/5zFkWzCUHEGhUaRcaGtUkJ) | [Heliopolis](https://open.spotify.com/album/6Tmf3pv5eKVLMC22adLjJw) | 5:14 | 2020-12-25 | 2021-01-09 |
+| [Sunset](https://open.spotify.com/track/74T1C4bqc5jiHONjP9dSlL) | [Amani Shabazz](https://open.spotify.com/artist/7oSzkaqODfiJ5UjJZCWxhD) | [Sunset](https://open.spotify.com/album/13EmrGPqiaUv7X47yYbIdn) | 3:23 | 2024-11-16 |  |
 | [Sunset](https://open.spotify.com/track/4bzCmRscnSBLjpOR7J3dgy) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Coral](https://open.spotify.com/album/7hIWp2pPbMvTSQw7btmWWz) | 2:16 | 2021-01-08 | 2021-01-23 |
 | [Sunset Avenue](https://open.spotify.com/track/1zQQn3f26ueGSvHs1oF4DE) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Sunset Avenue](https://open.spotify.com/album/4uU33D7SWf9WW1rEm8TKCO) | 3:23 | 2022-05-13 | 2022-06-03 |
 | [Sunset of lies](https://open.spotify.com/track/4f7XJH4VI4xE6BByGbr9nR) | [ThBenj](https://open.spotify.com/artist/3equgMKjlsNdNJUhPF9Pv9) | [Sunset of lies](https://open.spotify.com/album/49GQEJgTPqxsWx0fcxiEOr) | 2:21 | 2023-03-17 | 2023-04-09 |
@@ -3982,6 +3986,7 @@
 | [What does she have on me?](https://open.spotify.com/track/0i0WMkkmo1Zx9D2dPDVuxU) | [Keara Jewel](https://open.spotify.com/artist/5WrIIYnt2W23cyqvKfu6Ey) | [What does she have on me?](https://open.spotify.com/album/6Flvi8qJLVZ70aqVjIBhPY) | 2:05 | 2024-03-27 | 2024-04-04 |
 | [What I Know](https://open.spotify.com/track/79Gg3a5rEcaEWFVSgpeAcL) | [LBR DPT](https://open.spotify.com/artist/4evsswEUZMesBf7Irxg8pC) | [What I Know](https://open.spotify.com/album/0ihbD1OOySf01rTmEJ0Fg2) | 3:15 | 2021-12-05 | 2021-12-20 |
 | [What I Live For](https://open.spotify.com/track/6TvbTJeOiS2GfNta72CtcY) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [What I Live For](https://open.spotify.com/album/149F2ut9m1Y2EXEnaMTfQ7) | 2:00 | 2024-06-26 | 2024-07-08 |
+| [What I'm Not Gonna Do](https://open.spotify.com/track/2GqPzHFm4Dcuyr48co7llk) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [What I'm Not Gonna Do](https://open.spotify.com/album/1x7JvhDv4ct3MscmmcTKkq) | 2:54 | 2024-11-16 |  |
 | [What if](https://open.spotify.com/track/5PDtoSXgJfq8QMavmoNsvn) | [Isa Bellido](https://open.spotify.com/artist/0X87molz4985PMgGOcEVN3) | [What if](https://open.spotify.com/album/04gFOCcTs3WAVOwbJuvEu4) | 2:40 | 2023-03-09 | 2023-04-02 |
 | [what if you break my heart again](https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [what if you break my heart again](https://open.spotify.com/album/1G6C5Crg74VSejc5Xyuh6C) | 2:54 | 2022-10-14 | 2022-12-03 |
 | [What Is Love](https://open.spotify.com/track/5jKjUSRlHerD1UfdWyvKfS) | [Alvin Whitte](https://open.spotify.com/artist/1FC1eTUauFiZrcIawwc6rD) | [What Is Love](https://open.spotify.com/album/3FCDH2leLj9Kdau57aZsSP) | 2:43 | 2020-02-21 | 2020-03-11 |

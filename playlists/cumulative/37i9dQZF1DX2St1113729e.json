@@ -4192,7 +4192,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 166285,
       "name": "LA \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/3sMfOFfme1YIEx3PNCL8zC"
@@ -4596,6 +4596,24 @@
       "duration_ms": 144544,
       "name": "L\u00aa N\u00aave",
       "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124478,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
     },
     {
       "album": {

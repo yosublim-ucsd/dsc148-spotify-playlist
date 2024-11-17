@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 149 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 149 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 80 | [Promenade \(Walking The Dog\)](https://open.spotify.com/track/50ixhMuQBDlZcXFbOMW6Yq) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 |
 | 81 | [Oh Dey's So Fresh And Fine \(Strawberry Woman\)](https://open.spotify.com/track/4ngD285cJ9UXUQZ2FbyOJL) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Porgy And Bess](https://open.spotify.com/album/083nSCiHBU3Ah6IUQKzjxL) | 0:52 |
 | 82 | [Gershwin: Porgy and Bess, Act 2, Scene 1: "Oh, I can't sit down" \(Maria, Bess, Porgy, Chorus\)](https://open.spotify.com/track/10lJT9VwEPBlBBzxKJmguK) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Sir Willard White/Cynthia Haymon/Marietta Simpson/Glyndebourne Chorus/London Philharmonic Orchestra/Sir Simon Rattle](https://open.spotify.com/artist/2jIQ4wTk7o2nS6ZgXCO6gO), [Willard White](https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv), [Cynthia Haymon](https://open.spotify.com/artist/6AtgdNp2Q7d9IpBTILhoHC), [Glyndebourne Festival Chorus](https://open.spotify.com/artist/1p4y529sRq6IlgVDY1lFu1), [Marietta Simpson](https://open.spotify.com/artist/0PT7kJyKkN793JgwIXjLTC), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Gershwin: Porgy & Bess](https://open.spotify.com/album/6JOrscZTwb7OH6e5EM9Jyg) | 4:23 |
-| 83 | [How Long Has This Been Going On \(12\)](https://open.spotify.com/track/7gb1OisMzANSBw19eBt0WM) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor Sings Lullabys For Lovers \(Remastered 2013\)](https://open.spotify.com/album/2pOmEoxRZ4VdWgpz6IWGfe) | 2:33 |
-| 84 | [Tempo Di Blues](https://open.spotify.com/track/3S6hxatWPPKkOpR0vFHlww) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Bryan Hieronymus](https://open.spotify.com/artist/3SZ5Ax4ZCsAGIFacxsZU0T) | [American Pieces](https://open.spotify.com/album/7FPIvlCwpBvej3vU9pXa27) | 2:52 |
+| 83 | [Tempo Di Blues](https://open.spotify.com/track/3S6hxatWPPKkOpR0vFHlww) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Bryan Hieronymus](https://open.spotify.com/artist/3SZ5Ax4ZCsAGIFacxsZU0T) | [American Pieces](https://open.spotify.com/album/7FPIvlCwpBvej3vU9pXa27) | 2:52 |
+| 84 | [How Long Has This Been Going On \(12\)](https://open.spotify.com/track/7gb1OisMzANSBw19eBt0WM) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor Sings Lullabys For Lovers \(Remastered 2013\)](https://open.spotify.com/album/2pOmEoxRZ4VdWgpz6IWGfe) | 2:33 |
 | 85 | [Swiss Miss](https://open.spotify.com/track/6qeTkxWiaqZO8XDA2SgQNr) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3LY0vX4TBU0spPk0r0LXDZ) | 2:46 |
 | 86 | [Sutton Place](https://open.spotify.com/track/5dZzGFR6iAepOQhaEImAVe) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Gershwin Rhapsody](https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD) | 1:25 |
 | 87 | [Requiem](https://open.spotify.com/track/3VAOvjPQeaNucFJ7bg38JO) | [Rejuvination](https://open.spotify.com/artist/6P497fZ9wbb6QZVoIxXRo1) | [Introduction](https://open.spotify.com/album/4XCqLiEXH9tmrMotzH6Lkq) | 7:04 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 149 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AbhmngAAAAAM6UNqM7cdri351f6+MYOe`
+Snapshot ID: `AbhsPgAAAAAxnh9Mt/uJW9vyC4BASUJV`

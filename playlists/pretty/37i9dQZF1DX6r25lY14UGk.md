@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,313 likes - 284 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,376 likes - 284 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 4 | [Recyling Song](https://open.spotify.com/track/7ricJ8stXj6ZJX9wlm9RgE) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Kindergarten Songs with Johny](https://open.spotify.com/album/1FV2sTUyhknpTRKYpR0gqq) | 2:06 |
 | 5 | [Things Go Wrong](https://open.spotify.com/track/0tlpmzaBIiOguySJQuyly5) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Things Go Wrong](https://open.spotify.com/album/4iwGn8AnJiDLIj3lwZ7xky) | 2:40 |
 | 6 | [The Way It Was Before \(End Credits Version\) \- From the Skydance Animation Film “Spellbound”](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Skydance Animation Film “Spellbound”\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 |
-| 7 | [Jill's Frozen Palace](https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Christmas](https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV) | 1:57 |
+| 7 | [Jill's Frozen Palace \- Snow Queen](https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Christmas](https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV) | 1:57 |
 | 8 | [Winter Games \- From "The Christmas Letter Express"](https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Winter Games \(From "The Christmas Letter Express"\)](https://open.spotify.com/album/34R6Ssp0DxDjgsq6JO1DKT) | 1:42 |
 | 9 | [Gummerish](https://open.spotify.com/track/6Mdiptw41ULztlMbxmtr5T) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [The Gummy Bear Show: Season Two Soundtrack](https://open.spotify.com/album/02jIvAfEhR4q6b2M5hawtO) | 1:07 |
 | 10 | [Abc \- the Alphabet Song](https://open.spotify.com/track/50OeXhPiLZ3X6e0jjuCMsc) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO), [Twinkle Twinkle Little Star](https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY), [Lullaby Babies](https://open.spotify.com/artist/695nGpWc1okscGp3hZklgP) | [Abc \- the Alphabet Song](https://open.spotify.com/album/2LCC4MMTFAbceIqquMpZHI) | 1:46 |

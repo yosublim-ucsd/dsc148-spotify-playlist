@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 169693,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 187880,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
@@ -814,6 +814,24 @@
       "duration_ms": 167826,
       "name": "Rain Dance",
       "url": "https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs"
+    },
+    {
+      "album": {
+        "name": "Gifts, Presents, and Treats from Valerie June",
+        "url": "https://open.spotify.com/album/60XcRMgP7sDsFnXPctWmVb"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106066,
+      "name": "Rudolph, the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/2mm8ljAmffVasjOkWVIgfW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 79603,
+  "num_followers": 79619,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -360,6 +360,10 @@
           "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
         },
         {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
           "name": "Kurt Moll",
           "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
         },
@@ -384,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1Cq9G4NKJQmwy342M9JmCk"
         }
       ],
-      "duration_ms": 780826,
-      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: Einleitung - Rezitativ und Chor: \"Im Anfange\"",
-      "url": "https://open.spotify.com/track/5aNKYrgylkMhI0d51oYkHf"
+      "duration_ms": 264040,
+      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: 13. Chor mit Soli: Die Himmel erz\u00e4hlen die Ehre Gottes",
+      "url": "https://open.spotify.com/track/7oS0r6JmVmWMDxz3N5Uhxo"
     },
     {
       "added_at": "2024-10-11 16:02:39",
@@ -428,10 +432,6 @@
           "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
         },
         {
-          "name": "Kathleen Battle",
-          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
-        },
-        {
           "name": "Kurt Moll",
           "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
         },
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1Cq9G4NKJQmwy342M9JmCk"
         }
       ],
-      "duration_ms": 264040,
-      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: 13. Chor mit Soli: Die Himmel erz\u00e4hlen die Ehre Gottes",
-      "url": "https://open.spotify.com/track/7oS0r6JmVmWMDxz3N5Uhxo"
+      "duration_ms": 780826,
+      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: Einleitung - Rezitativ und Chor: \"Im Anfange\"",
+      "url": "https://open.spotify.com/track/5aNKYrgylkMhI0d51oYkHf"
     },
     {
       "added_at": "2024-10-11 16:02:39",
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/2LbvzcuBK5iZHw7SX71VlK"
         }
       ],
-      "duration_ms": 330800,
+      "duration_ms": 360800,
       "name": "Symphony No. 92 \"Oxford\"",
-      "url": "https://open.spotify.com/track/60Sk7ESccRn36ALKYdRuMX"
+      "url": "https://open.spotify.com/track/0aiRnKWGVpxE4VD07hj2XA"
     },
     {
       "added_at": "2024-10-11 16:02:39",
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/2LbvzcuBK5iZHw7SX71VlK"
         }
       ],
-      "duration_ms": 360800,
+      "duration_ms": 330800,
       "name": "Symphony No. 92 \"Oxford\"",
-      "url": "https://open.spotify.com/track/0aiRnKWGVpxE4VD07hj2XA"
+      "url": "https://open.spotify.com/track/60Sk7ESccRn36ALKYdRuMX"
     },
     {
       "added_at": "2024-10-11 16:02:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,636 likes - 81 songs - 4 hr 28 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,639 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 40 | [El Mero Cero](https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 2:58 |
 | 41 | [La Luna y el Sol](https://open.spotify.com/track/22dPq3GM82vwX3WXi1lQQf) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [La Luna y el Sol](https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp) | 3:36 |
 | 42 | [vital](https://open.spotify.com/track/4S92Ilu72gVBD66kwsRWOc) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 3:20 |
-| 43 | [Much About Love](https://open.spotify.com/track/63Xu7Ldr2FPLxpRbqZF63f) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Much About Love](https://open.spotify.com/album/4pEPzi1oapOSAJqYRWVoNW) | 3:15 |
+| 43 | [Much About Love](https://open.spotify.com/track/63Xu7Ldr2FPLxpRbqZF63f) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [redridinghoodldn](https://open.spotify.com/artist/54eIhwHHRhMQubiPEiJsd1) | [Much About Love](https://open.spotify.com/album/4pEPzi1oapOSAJqYRWVoNW) | 3:15 |
 | 44 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 45 | [The Laugh Is in the Eyes](https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [The Laugh Is in the Eyes](https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2) | 4:35 |
 | 46 | [DESPELUCATE](https://open.spotify.com/track/4hQ1eX9ynFhz1Cq75Be5v8) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [DESPELUCATE](https://open.spotify.com/album/5woPWKdnvURwLGx3EIGFYP) | 2:41 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 56 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 57 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 |
 | 58 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
-| 59 | [Route 9 Falls](https://open.spotify.com/track/1M8wRb72se4rHFf3Vet0uY) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m), [D.S](https://open.spotify.com/artist/2QvOUTt74YgZZ8yGX5zcth) | [Route 9 Falls](https://open.spotify.com/album/6kcHvhTuCyDVIjr9nmUoPK) | 4:06 |
+| 59 | [Route 9 Falls](https://open.spotify.com/track/1M8wRb72se4rHFf3Vet0uY) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m), [D.S.](https://open.spotify.com/artist/2QvOUTt74YgZZ8yGX5zcth) | [Route 9 Falls](https://open.spotify.com/album/6kcHvhTuCyDVIjr9nmUoPK) | 4:06 |
 | 60 | [Now and Laughter](https://open.spotify.com/track/3dy6k7KDsWmoNgsSdC5Wxl) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Christmasville UK](https://open.spotify.com/album/6Ce1TrHZZrZbKHQTxph2fb) | 3:07 |
 | 61 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
 | 62 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 |

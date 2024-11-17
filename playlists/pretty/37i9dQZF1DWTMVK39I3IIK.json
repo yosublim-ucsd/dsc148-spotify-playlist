@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  APHACA!",
-  "num_followers": 45540,
+  "num_followers": 45545,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "dagdr\u00f8mmer",
+        "url": "https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 170292,
+      "name": "dagdr\u00f8mmer",
+      "url": "https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "I Made It (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 209923,
       "name": "I Made It (feat. andreas odbjerg)",
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "dagdr\u00f8mmer",
-        "url": "https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 170292,
-      "name": "dagdr\u00f8mmer",
-      "url": "https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "hva s\u00e5?",
         "url": "https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 164696,
       "name": "hva s\u00e5?",
       "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "N\u00e5r Man Taler Om Solen",
         "url": "https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
       "artists": [
         {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -295,22 +311,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "I storsl\u00e5et kinddans, med livet som indsats",
-        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Mand P\u00e5 En Nat",
-      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Kan Du M\u00e6rke Suset?",
         "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
       },
@@ -323,38 +323,6 @@
       "duration_ms": 240917,
       "name": "Klip Klap Sandaler",
       "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 338436,
-      "name": "Dem, Vi Plejede At V\u00e6re",
-      "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -375,6 +343,38 @@
       "duration_ms": 168090,
       "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
       "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 338436,
+      "name": "Dem, Vi Plejede At V\u00e6re",
+      "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "I storsl\u00e5et kinddans, med livet som indsats",
+        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 171384,
+      "name": "Mand P\u00e5 En Nat",
+      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "V\u00e5gen igen",
-        "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
+        "name": "Space Rock",
+        "url": "https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0"
       },
       "artists": [
         {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
         }
       ],
-      "duration_ms": 250500,
-      "name": "V\u00e5gen igen",
-      "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
+      "duration_ms": 118561,
+      "name": "Space Rock",
+      "url": "https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Space Rock",
-        "url": "https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0"
+        "name": "V\u00e5gen igen",
+        "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
       },
       "artists": [
         {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
         }
       ],
-      "duration_ms": 118561,
-      "name": "Space Rock",
-      "url": "https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy"
+      "duration_ms": 250500,
+      "name": "V\u00e5gen igen",
+      "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Det\u00b4 kun vigtigt, hvad det er",
-        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Det\u00b4 kun vigtigt, hvad det er",
-      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Gi' Mig Lige",
         "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 161608,
       "name": "Gi' Mig Lige",
       "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Det\u00b4 kun vigtigt, hvad det er",
+        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -623,42 +623,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Berlin (feat. Marcus.wav)",
-        "url": "https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        },
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 172079,
-      "name": "Berlin (feat. Marcus.wav)",
-      "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 188460,
-      "name": "Br\u00e6nder Stadig",
-      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Coast II Coast (feat. USSEL)",
         "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
       },
@@ -675,6 +639,42 @@
       "duration_ms": 128616,
       "name": "Coast II Coast (feat. USSEL)",
       "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Oktobernat",
+        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Oktobernat",
+      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Berlin (feat. Marcus.wav)",
+        "url": "https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 172079,
+      "name": "Berlin (feat. Marcus.wav)",
+      "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -747,50 +747,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Oktobernat",
-        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
       },
       "artists": [
         {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         }
       ],
-      "duration_ms": 175357,
-      "name": "Oktobernat",
-      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "When you wake up",
-        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
-      },
-      "artists": [
-        {
-          "name": "Molina",
-          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
-        }
-      ],
-      "duration_ms": 266236,
-      "name": "I am your house",
-      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
+      "duration_ms": 188460,
+      "name": "Br\u00e6nder Stadig",
+      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -811,6 +779,38 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "grib mig hvis jeg falder",
+        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Gennemsku Mig Nu",
+      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Bl\u00f8d",
         "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "grib mig hvis jeg falder",
-        "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
+        "name": "When you wake up",
+        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
       },
       "artists": [
         {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
         }
       ],
-      "duration_ms": 193981,
-      "name": "Gennemsku Mig Nu",
-      "url": "https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR"
+      "duration_ms": 266236,
+      "name": "I am your house",
+      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "D\u00e5rligste Bedste Id\u00e9",
-        "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 196510,
-      "name": "D\u00e5rligste Bedste Id\u00e9",
-      "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -959,34 +959,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "D\u00e5rligste Bedste Id\u00e9",
+        "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 217242,
-      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
+      "duration_ms": 196510,
+      "name": "D\u00e5rligste Bedste Id\u00e9",
+      "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 173028,
       "name": "Keep Forgetting",
       "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 241716,
+      "name": "Se Mig F\u00f8r Jeg Glemmer Hvem Jeg Er",
+      "url": "https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 241716,
-      "name": "Se Mig F\u00f8r Jeg Glemmer Hvem Jeg Er",
-      "url": "https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
         "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
       },
@@ -1135,6 +1103,22 @@
       "duration_ms": 191673,
       "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
       "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Caravan",
-        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
       },
       "artists": [
         {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
         }
       ],
-      "duration_ms": 314708,
-      "name": "Cursing and Lying!",
-      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 217242,
+      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
     }
   ],
   "unique_name": "ung kniv ",

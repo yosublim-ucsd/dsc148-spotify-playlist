@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,335 likes - 119 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,713 likes - 119 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Santa Baby](https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ) | 3:02 |
 | 2 | [December 25th](https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [December 25th](https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6) | 3:51 |
-| 3 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:26 |
+| 3 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 |
 | 4 | [DJ Play A Christmas Song](https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [DJ Play A Christmas Song](https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s) | 4:02 |
 | 5 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
 | 6 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 43 | [Holiday \(with Jonas Brothers\)](https://open.spotify.com/track/5tsAOJprlHSVMhuw2bCnqS) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 3:03 |
 | 44 | [Boots On \- Santa's Version](https://open.spotify.com/track/5j2iFvz5MwZpOdgkrIBkqc) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Boots On \(Santa's Version\)](https://open.spotify.com/album/2gRprOXDKvdWmydNjEXEDa) | 2:31 |
 | 45 | [Lonely Christmas Eve](https://open.spotify.com/track/0ghMNHSX2JIrNYVIC2h8a0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lonely Christmas Eve](https://open.spotify.com/album/0ndMeXNi0jJMoIOfAeMweS) | 2:56 |
-| 46 | [A Brand New Christmas](https://open.spotify.com/track/3CEdBozIQeXcLL8CpXuAeo) | [Joey McIntyre](https://open.spotify.com/artist/3SIW6eVIZSz9V05WsaKIr3), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5) | [A Brand New Christmas](https://open.spotify.com/album/2UCPpJaHjs9QQnt5Fj9ab2) | 3:37 |
+| 46 | [A Brand New Christmas \- From the Roku Original "Jingle Bell Love"](https://open.spotify.com/track/3CEdBozIQeXcLL8CpXuAeo) | [Joey McIntyre](https://open.spotify.com/artist/3SIW6eVIZSz9V05WsaKIr3), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5) | [A Brand New Christmas \(From the Roku Original "Jingle Bell Love"\)](https://open.spotify.com/album/2UCPpJaHjs9QQnt5Fj9ab2) | 3:37 |
 | 47 | [White Christmas](https://open.spotify.com/track/7EVeLwnM6KTokvCHEmAQPR) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [White Christmas](https://open.spotify.com/album/639swiJ9q9k6wwqOSgi2w8) | 4:30 |
 | 48 | [Sleigh Ride](https://open.spotify.com/track/69k7hEpxYF96lUmkDethQ2) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around… Again](https://open.spotify.com/album/2T8kFylYJCnieWBMqZx6jq) | 2:10 |
 | 49 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3jjH7eF0jrwclLXC6uCVHX) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [The Dawn of Grace \(Deluxe\)](https://open.spotify.com/album/6Z3ECsATLcVNAddpfr8JJK) | 3:47 |

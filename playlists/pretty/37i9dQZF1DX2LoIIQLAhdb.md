@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,159 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,188 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 4 | [SALE](https://open.spotify.com/track/6C2ovFhNrKlJRoLbOKmCMJ) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [SALE](https://open.spotify.com/album/5tvPovo3aWrL31HlfBzL1K) | 3:05 |
 | 5 | [Oublier](https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [En chemin II](https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ) | 3:06 |
 | 6 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 |
-| 7 | [Goumin \- Acoustic remix](https://open.spotify.com/track/1mwVP0H0Zm9dCb7cCkSIy9) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Goumin \(Acoustic remix\)](https://open.spotify.com/album/5KIdJ7aYvYk0TsxOdBQLcl) | 3:09 |
+| 7 | [Goumin \- Acoustique](https://open.spotify.com/track/1mwVP0H0Zm9dCb7cCkSIy9) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Goumin \(Acoustique\)](https://open.spotify.com/album/5KIdJ7aYvYk0TsxOdBQLcl) | 3:09 |
 | 8 | [TOUT essayer ?](https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:33 |
 | 9 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
 | 10 | [Instable](https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Instable](https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH) | 2:27 |

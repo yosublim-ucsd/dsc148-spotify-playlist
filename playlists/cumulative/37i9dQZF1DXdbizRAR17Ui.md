@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-355 songs - 1 day 0 hr 37 min
+356 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 | 2024-04-04 | 2024-07-12 |
 | [Curves](https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground Pt.2](https://open.spotify.com/album/1uCUD9nJxidOu4zhKBm3m3) | 3:17 | 2024-08-22 | 2024-09-29 |
 | [Daft Puns](https://open.spotify.com/track/3UoLhFBp6qNY8jpSS1AO8F) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Daft Puns](https://open.spotify.com/album/1J3lMWdcIrkkmcBrrxMPk5) | 1:45 | 2021-11-24 | 2022-07-27 |
+| [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 | 2024-10-25 |  |
 | [Dart](https://open.spotify.com/track/7x0Y7Ne5O0W2eqWPFqbSWt) | [Jimbo Jones](https://open.spotify.com/artist/22Y6Kb1gjWN1Ka6gU2yNQJ) | [The Heat Death of My Hometown](https://open.spotify.com/album/6HQxXu3eeZGOwt4ysgIhdQ) | 8:16 | 2021-11-24 | 2022-07-29 |
 | [Daughter](https://open.spotify.com/track/4H4p1B3GrZHnh71vgPtHQW) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:55 | 2022-06-20 | 2022-09-15 |
 | [Dawntown](https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:08 | 2021-11-24 | 2022-07-26 |
@@ -326,7 +327,7 @@
 | [The Longest Night](https://open.spotify.com/track/6mnqGJKrRVJfyrzxnvoOeo) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [The Longest Night](https://open.spotify.com/album/3nEU9bN4Hyg4wvtreQu7j9) | 4:50 | 2021-11-24 | 2022-07-29 |
 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 | 2022-04-21 | 2022-07-28 |
 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-11-24 | 2023-11-11 |
-| [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 | 2024-03-01 |  |
+| [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 | 2024-03-01 | 2024-11-17 |
 | [The Prey](https://open.spotify.com/track/2WhMv6PDq4jZ4JgmxjFpjq) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [The Prey](https://open.spotify.com/album/5T4BnAjxMXjme0YnZrBbRU) | 4:11 | 2021-11-24 | 2022-03-05 |
 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 | 2021-11-24 | 2022-07-22 |
 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 | 2022-06-20 | 2024-06-07 |

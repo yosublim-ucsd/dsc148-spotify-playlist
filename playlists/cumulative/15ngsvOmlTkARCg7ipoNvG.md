@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,835 songs - 1 day 13 hr 40 min
+1,836 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Fading Moonlight Reimagined](https://open.spotify.com/track/5TIyxP319hKfVOo0pDJhyX) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soul Path](https://open.spotify.com/album/0PUgfkmtxNZ4KFNYkVfksT) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Fading Moonlight Revisited](https://open.spotify.com/track/5FZPGgnqidBtef977l0cx2) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Soft Trios](https://open.spotify.com/album/17mbDwX7iIecxsazzN15oF) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Faith](https://open.spotify.com/track/7kWoKGCXEP588jZUlSJCAX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Faith, Forgive, Free](https://open.spotify.com/album/42xVbiyi3NBXtkALBBBL0j) | 1:54 | 2022-01-12 | 2024-02-13 |
+| [Fall Love](https://open.spotify.com/track/3QAZVlkaXsG991DB7aC51R) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Fall Love](https://open.spotify.com/album/4gUuEGCbQrTi7VgZPiZbIo) | 1:00 | 2024-11-16 |  |
 | [Fall Moon](https://open.spotify.com/track/0AdQOxtRyMwMKOxS32RDhj) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Fall Moon](https://open.spotify.com/album/1TKxRTwKcA4KDQ27upbdKe) | 1:02 | 2022-10-12 |  |
 | [Fall Morning](https://open.spotify.com/track/4YxrbwQYRGjdgSI7kZI5ow) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Fall Morning](https://open.spotify.com/album/79WOXzfeKUecFpLAjk05xM) | 1:00 | 2024-10-29 |  |
 | [Fallen](https://open.spotify.com/track/378SZkxxxqtjnM519Le50R) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:34 | 2022-01-12 | 2024-01-30 |

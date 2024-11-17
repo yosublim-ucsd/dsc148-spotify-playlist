@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 15226,
+  "num_followers": 15228,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,30 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "UFC",
+        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Limbo Lowfi",
+          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
+        },
+        {
+          "name": "Renzo de Santis",
+          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "UFC",
+      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "El Humito",
         "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
       },
@@ -775,30 +799,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "UFC",
-        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "Limbo Lowfi",
-          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
-        },
-        {
-          "name": "Renzo de Santis",
-          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "UFC",
-      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Nagasaki",
         "url": "https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 245379,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 222053,
       "name": "Disparo",
       "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Bushido: Kenjutsu",
+        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Cool Maze",
+          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
@@ -1163,46 +1187,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Bushido: Kenjutsu",
-        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
-      },
-      "artists": [
-        {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Cool Maze",
-          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "ANOMAL\u00cdA",
-        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
-      },
-      "artists": [
-        {
-          "name": "N4NO",
-          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
-        }
-      ],
-      "duration_ms": 210833,
-      "name": "LOOP \u221e",
-      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "\"El Camino\" Session 8",
         "url": "https://open.spotify.com/album/5PHkNDkaWVF7naFQayISSP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 165176,
       "name": "\"El Camino\" Session 8",
       "url": "https://open.spotify.com/track/2MtssIysbW81WBAhOMTBmI"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "ANOMAL\u00cdA",
+        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
+      },
+      "artists": [
+        {
+          "name": "N4NO",
+          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
+        }
+      ],
+      "duration_ms": 210833,
+      "name": "LOOP \u221e",
+      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Aire para Vivir",
         "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 223512,
       "name": "Aire para Vivir",
       "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "\"REC a LIL\"",
         "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 167236,
       "name": "KABRA",
       "url": "https://open.spotify.com/track/4cLVvAYy7QaavV93G4pjf0"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Con la Frente en Alto",
+        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Con la Frente en Alto",
+      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Cxrtier",
         "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 244878,
       "name": "Cxrtier",
       "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Con la Frente en Alto",
-        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Con la Frente en Alto",
-      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
     },
     {
       "added_at": "2024-10-11 06:00:00",

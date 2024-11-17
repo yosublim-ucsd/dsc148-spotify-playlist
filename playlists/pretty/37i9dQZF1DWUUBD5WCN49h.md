@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Johnny Drille and Don Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,261 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,270 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 5 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
 | 6 | [Too Friendly](https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Something About A Rose](https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV) | 2:24 |
 | 7 | [LOVE POTION](https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [LOVE POTION](https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN) | 3:19 |
-| 8 | [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 |
+| 8 | [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 |
 | 9 | [Call Me Maybe](https://open.spotify.com/track/3Tfhq3S61A7GDQ6prePMLO) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [Call Me Maybe](https://open.spotify.com/album/2mCxdsVpTW3X2N3EO0LXA9) | 2:38 |
 | 10 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 |
 | 11 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 |

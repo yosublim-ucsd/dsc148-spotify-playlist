@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Shawn Mendes, Linkin Park, The Kid LAROI,  and more! cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,238 likes - 87 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,257 likes - 87 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

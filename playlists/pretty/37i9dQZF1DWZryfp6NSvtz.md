@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,369 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,138 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,24 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 27 | [MISTY ECSTASY](https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MISTY ECSTASY](https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ) | 3:27 |
 | 28 | [Leave A Mark](https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Leave A Mark](https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr) | 5:21 |
 | 29 | [Play Pause](https://open.spotify.com/track/5IIw1wllfNMAJlYvAlNOXW) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [INSIDE OUT MVMT](https://open.spotify.com/album/30wfO7BWBORF5xmFF0NEqZ) | 3:40 |
-| 30 | [Dying To Live](https://open.spotify.com/track/1oUJmMqul2y3Madybxu0n9) | [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL) | [Dying To Live](https://open.spotify.com/album/6FlJwKNHB1ytbcSL9fUpIS) | 2:41 |
-| 31 | [Go Away](https://open.spotify.com/track/3lzhGMAqavMAUQjTfbv2j0) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Catch 22](https://open.spotify.com/album/5BRYaO3j1fqEmysBSi2agZ) | 2:11 |
-| 32 | [Cost of Living](https://open.spotify.com/track/4ZxEk2YWukxUlukoX4o334) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Cost of Living](https://open.spotify.com/album/13OiMUagsIJqASsypcbPQW) | 2:12 |
-| 33 | [Down](https://open.spotify.com/track/26I4mnBtWfkZyrR5QRQEZq) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Circuit](https://open.spotify.com/album/2N6mkPbZWt0JdNWzVyxad5) | 2:36 |
-| 34 | [serenity in torture](https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [serenity in torture](https://open.spotify.com/album/7KHbMAxCrDjK0htuxqNlZZ) | 3:01 |
-| 35 | [almost gone](https://open.spotify.com/track/5Zf5gKjAuFPPMDDbQgzFRN) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [petrichor](https://open.spotify.com/album/2kChaEZrJR2hYdERrWfd3U) | 3:21 |
-| 36 | [What Do I Do With All This Love?](https://open.spotify.com/track/3PBJIcb4lZBKgKQXhcJk7G) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [What Do I Do With All This Love?](https://open.spotify.com/album/5YR3sgeEBbUPajAIMHBtHX) | 4:25 |
-| 37 | [Behind](https://open.spotify.com/track/04Iqu9ZLjNOC48gKERMclN) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Behind](https://open.spotify.com/album/0E1atImS2clOczBXoWNyt5) | 3:26 |
-| 38 | [Detroit](https://open.spotify.com/track/2hmc0k5WWlDBmhRhDbpi9o) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Detroit](https://open.spotify.com/album/0kn58aoB2rFG0oYWGXUUd0) | 5:39 |
-| 39 | [Are You Satisfied?](https://open.spotify.com/track/3CwfsFwhxLUU6iTJt9W6i0) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV1](https://open.spotify.com/album/6ayHqeRQYTMbMOX1Z1tOWq) | 3:10 |
-| 40 | [Again](https://open.spotify.com/track/5RjamWdv59INL8YEGUKUO1) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Again](https://open.spotify.com/album/0fqeoihWiRX75Mff3walzT) | 2:35 |
-| 41 | [My Cigarettes](https://open.spotify.com/track/5kW5FpH2ntjaNtJCRCz0nD) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Dripping Only Black](https://open.spotify.com/album/0kJckBKLzTDikrSmABHY3N) | 3:20 |
-| 42 | [Drown](https://open.spotify.com/track/5vu75r7llyBcRpQiQuLu8L) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Drown](https://open.spotify.com/album/5Xe3dvXh5794nQ7DZxHw9U) | 4:02 |
-| 43 | [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 |
-| 44 | [Low](https://open.spotify.com/track/2AFnAMgW74uETtdtZ3IlFA) | [12th House Sun](https://open.spotify.com/artist/4rXSUCyiubZ8gXEWUchdQf) | [12th House Sun X Psylo Split](https://open.spotify.com/album/3NLvVaYZUZGgHPuFUAhPS9) | 3:53 |
-| 45 | [Burn The Witch](https://open.spotify.com/track/1giJa0VnP9hpUN8IMdszl0) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Burn The Witch](https://open.spotify.com/album/6rxwdPtLqT7lAu2vN2GqNC) | 3:15 |
-| 46 | [WHAT A FEELING](https://open.spotify.com/track/267GSbM6FKnqbktuipv5Y8) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [WHAT A FEELING](https://open.spotify.com/album/2a9VOE6gjgcKBwK2MomOxO) | 1:55 |
-| 47 | [Tricky](https://open.spotify.com/track/53X41B0CKBswEdz7gD3bWp) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [Tricky](https://open.spotify.com/album/3s8g94bIFj3x94ozAU65vA) | 3:49 |
-| 48 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
+| 30 | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6NATDeW0BtSMd2KkLNVmKK) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 2:28 |
+| 31 | [Dying To Live](https://open.spotify.com/track/1oUJmMqul2y3Madybxu0n9) | [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL) | [Dying To Live](https://open.spotify.com/album/6FlJwKNHB1ytbcSL9fUpIS) | 2:41 |
+| 32 | [Go Away](https://open.spotify.com/track/3lzhGMAqavMAUQjTfbv2j0) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Catch 22](https://open.spotify.com/album/5BRYaO3j1fqEmysBSi2agZ) | 2:11 |
+| 33 | [Cost of Living](https://open.spotify.com/track/4ZxEk2YWukxUlukoX4o334) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Cost of Living](https://open.spotify.com/album/13OiMUagsIJqASsypcbPQW) | 2:12 |
+| 34 | [Down](https://open.spotify.com/track/26I4mnBtWfkZyrR5QRQEZq) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Circuit](https://open.spotify.com/album/2N6mkPbZWt0JdNWzVyxad5) | 2:36 |
+| 35 | [serenity in torture](https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [serenity in torture](https://open.spotify.com/album/7KHbMAxCrDjK0htuxqNlZZ) | 3:01 |
+| 36 | [almost gone](https://open.spotify.com/track/5Zf5gKjAuFPPMDDbQgzFRN) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [petrichor](https://open.spotify.com/album/2kChaEZrJR2hYdERrWfd3U) | 3:21 |
+| 37 | [What Do I Do With All This Love?](https://open.spotify.com/track/3PBJIcb4lZBKgKQXhcJk7G) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [What Do I Do With All This Love?](https://open.spotify.com/album/5YR3sgeEBbUPajAIMHBtHX) | 4:25 |
+| 38 | [Behind](https://open.spotify.com/track/04Iqu9ZLjNOC48gKERMclN) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Behind](https://open.spotify.com/album/0E1atImS2clOczBXoWNyt5) | 3:26 |
+| 39 | [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5tKj53xg4V0pRkWCpFk2J7) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 2:51 |
+| 40 | [Detroit](https://open.spotify.com/track/2hmc0k5WWlDBmhRhDbpi9o) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Detroit](https://open.spotify.com/album/0kn58aoB2rFG0oYWGXUUd0) | 5:39 |
+| 41 | [Are You Satisfied?](https://open.spotify.com/track/3CwfsFwhxLUU6iTJt9W6i0) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV1](https://open.spotify.com/album/6ayHqeRQYTMbMOX1Z1tOWq) | 3:10 |
+| 42 | [Again](https://open.spotify.com/track/5RjamWdv59INL8YEGUKUO1) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Again](https://open.spotify.com/album/0fqeoihWiRX75Mff3walzT) | 2:35 |
+| 43 | [My Cigarettes](https://open.spotify.com/track/5kW5FpH2ntjaNtJCRCz0nD) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Dripping Only Black](https://open.spotify.com/album/0kJckBKLzTDikrSmABHY3N) | 3:20 |
+| 44 | [Drown](https://open.spotify.com/track/5vu75r7llyBcRpQiQuLu8L) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Drown](https://open.spotify.com/album/5Xe3dvXh5794nQ7DZxHw9U) | 4:02 |
+| 45 | [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 |
+| 46 | [Low](https://open.spotify.com/track/2AFnAMgW74uETtdtZ3IlFA) | [12th House Sun](https://open.spotify.com/artist/4rXSUCyiubZ8gXEWUchdQf) | [12th House Sun X Psylo Split](https://open.spotify.com/album/3NLvVaYZUZGgHPuFUAhPS9) | 3:53 |
+| 47 | [Burn The Witch](https://open.spotify.com/track/1giJa0VnP9hpUN8IMdszl0) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Burn The Witch](https://open.spotify.com/album/6rxwdPtLqT7lAu2vN2GqNC) | 3:15 |
+| 48 | [WHAT A FEELING](https://open.spotify.com/track/267GSbM6FKnqbktuipv5Y8) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [WHAT A FEELING](https://open.spotify.com/album/2a9VOE6gjgcKBwK2MomOxO) | 1:55 |
+| 49 | [Tricky](https://open.spotify.com/track/53X41B0CKBswEdz7gD3bWp) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [Tricky](https://open.spotify.com/album/3s8g94bIFj3x94ozAU65vA) | 3:49 |
+| 50 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
 
 Snapshot ID: `ZzbVUAAAAAC9mten6bnzlSAlJrTxGGvx`

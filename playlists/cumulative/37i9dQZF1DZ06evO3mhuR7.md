@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-154 songs - 17 hr 55 min
+155 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [First \- Consider The Lillies](https://open.spotify.com/track/291MUOtJm8oBoohFCJGJyg) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 7:00 | 2022-05-29 |  |
 | [Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 3](https://open.spotify.com/track/62B8JIF1CruBXHuHriBv3l) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 10:47 | 2023-11-10 |  |
 | [Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4](https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 9:07 | 2023-11-10 |  |
-| [From a Distance \(Blast Master V the Corpral\)](https://open.spotify.com/track/0CBbN4YIOkmYEGuJsFZNC7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:55 | 2024-11-16 |  |
+| [From a Distance \(Blast Master V the Corpral\)](https://open.spotify.com/track/0CBbN4YIOkmYEGuJsFZNC7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:55 | 2024-11-16 | 2024-11-17 |
 | [Fussball](https://open.spotify.com/track/5cZ90X5hD4SEGFtaunUg45) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [More Tales from the Orbservatory](https://open.spotify.com/album/2NOoRjZZ03QCUZjZZkfRBS) | 4:30 | 2022-05-29 |  |
 | [Gee Strings](https://open.spotify.com/track/0sL0xqRM1Hbr84JPHpG8i6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:13 | 2024-11-13 |  |
 | [Glen Coe \[Mixed\]](https://open.spotify.com/track/6r63smEsviOfs7wXMXggwy) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Connecting The Dots \(DJ Mix\)](https://open.spotify.com/album/46L9tNr4y1nCwpwDkYIyIT) | 4:54 | 2023-01-02 | 2023-02-04 |
@@ -109,6 +109,7 @@
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 | 2023-11-10 | 2024-11-16 |
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/2rm1cOR9ahlk0710wwuCAD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 6:13 | 2023-04-30 | 2023-11-11 |
 | [Pillow Fight @ Shag Mountain](https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 7:31 | 2022-05-29 | 2022-10-08 |
+| [Pillow Fight @ Shag Mountain \- Radio Edit](https://open.spotify.com/track/58oMAgOL0uCLxhsIFGcdOs) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 3:43 | 2024-11-17 |  |
 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 | 2024-11-09 |
 | [Police & Thieves](https://open.spotify.com/track/5EbS1wLlc1w3SqrgvWPdva) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:50 | 2022-06-28 | 2022-09-30 |
 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2022-05-29 |  |

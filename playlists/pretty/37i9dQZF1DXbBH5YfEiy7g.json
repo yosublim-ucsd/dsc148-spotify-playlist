@@ -1,13 +1,29 @@
 {
-  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: \"<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=dekuLd7nQJupL6f6WNgyLw>Sbu Noah</a>",
-  "num_followers": 3514,
+  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: <a href=\"https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=JTTL9WmISeaziVW1jyZzUg\">Lebo Sekgobela</a>",
+  "num_followers": 3579,
   "original_name": "South African Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzcVKAAAAACn3kVgQmc390WTWBKWSgUo",
+  "snapshot_id": "ZziRZwAAAABuXD60dHuHMfwJqiv9zo2L",
   "tracks": [
+    {
+      "added_at": "2024-11-16 12:34:47",
+      "album": {
+        "name": "Kept by Grace (Live)",
+        "url": "https://open.spotify.com/album/1B6aBvOv8EE3oXhj5CpTqX"
+      },
+      "artists": [
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+        }
+      ],
+      "duration_ms": 501417,
+      "name": "Inceba - Live",
+      "url": "https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa"
+    },
     {
       "added_at": "2024-10-11 00:01:00",
       "album": {

@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201442,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3"
+    },
+    {
+      "album": {
         "name": "The Heat Death of My Hometown",
         "url": "https://open.spotify.com/album/6HQxXu3eeZGOwt4ysgIhdQ"
       },
@@ -6188,7 +6206,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 224303,
       "name": "The Path Less Travelled",
       "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"

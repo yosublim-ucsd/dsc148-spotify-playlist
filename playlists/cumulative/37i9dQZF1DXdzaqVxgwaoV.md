@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-305 songs - 18 hr 38 min
+306 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 | 2023-02-03 | 2024-09-02 |
 | [El Pegao](https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 3:10 | 2023-12-15 | 2024-01-10 |
 | [El Pescador de Barú](https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [Éxitos los Warahuaco & Hernán Rojas](https://open.spotify.com/album/1TtaDXi6YdjxUJo4ri7aTJ) | 2:50 | 2024-09-01 |  |
-| [El Pesebre \- Instrumental](https://open.spotify.com/track/5KNKiro57zPRBSqZQswpOi) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [En Navidad: Grandes Éxitos de Todos los Tiempos](https://open.spotify.com/album/5CARr705cUfbuyHUVvmu35) | 2:43 | 2024-10-17 |  |
+| [El Pesebre \- Instrumental](https://open.spotify.com/track/5KNKiro57zPRBSqZQswpOi) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [En Navidad: Grandes Éxitos de Todos los Tiempos](https://open.spotify.com/album/5CARr705cUfbuyHUVvmu35) | 2:43 | 2024-10-17 | 2024-11-17 |
 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 | 2023-12-15 |  |
 | [El Porteñito](https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ) | [Banda La Bocana](https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF) | [Grandes Éxitos](https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1) | 5:49 | 2023-12-20 |  |
 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 | 2023-02-03 | 2024-09-02 |
@@ -170,6 +170,7 @@
 | [Las Caleñas](https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [Discos de Oro: Pastor López y Su Combo Volume 3](https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk) | 3:32 | 2023-11-09 | 2024-04-19 |
 | [Las Caleñas Son Como las Flores \- Remix](https://open.spotify.com/track/0xFcZaUaMALT6mbbGYBjZo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:54 | 2024-09-01 |  |
 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 | 2023-02-03 |  |
+| [Las Dos Camisas](https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Al Que Le Gusta...Le Sabe](https://open.spotify.com/album/6rl4jrERozHBK1svCyNUyJ) | 4:05 | 2024-11-01 |  |
 | [Limoncito Con Ron](https://open.spotify.com/track/1zuYAoErXNMglROSHkY50S) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [De Regreso \- Tropical y Original](https://open.spotify.com/album/16UOHeOPrpAQ9rwoY8hHFH) | 4:20 | 2024-09-01 | 2024-09-03 |
 | [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 | 2023-11-09 |  |
 | [Loco por Amor](https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Con el Triunfo en las Manos](https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG) | 2:51 | 2023-02-03 | 2024-09-02 |

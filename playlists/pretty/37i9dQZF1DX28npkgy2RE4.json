@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 420153,
+  "num_followers": 420191,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "notes to self",
+        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "notes to self",
-        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "The Blues Have Blown Away",
+        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "The Blues Have Blown Away",
+      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "midnight sun",
         "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 281880,
       "name": "Stranger Danger",
       "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "The Blues Have Blown Away",
-        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "The Blues Have Blown Away",
-      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Speaking With Trees",
-        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Speaking With Trees",
-      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Speaking With Trees",
+        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Speaking With Trees",
+      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1675,38 +1675,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 219492,
-      "name": "Sunbathers",
-      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "I Am Not There Anymore",
         "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
       },
@@ -1719,6 +1687,38 @@
       "duration_ms": 197186,
       "name": "Lady Grey",
       "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 219492,
+      "name": "Sunbathers",
+      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "pak it in // mama",
         "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 283518,
       "name": "pak it in",
       "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "We Are Olympians",
-        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 297453,
-      "name": "Olympians - Acoustic",
-      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Love Without Possession",
         "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 241681,
       "name": "Love Without Possession",
       "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "We Are Olympians",
+        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 297453,
+      "name": "Olympians - Acoustic",
+      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Coast",
-        "url": "https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows"
-      },
-      "artists": [
-        {
-          "name": "Participant",
-          "url": "https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Storm Queen",
         "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
       },
@@ -2083,18 +2067,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Mount Airy Hill (Way Gone)",
-        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Participant",
+          "url": "https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc"
         }
       ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
+      "duration_ms": 235543,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2131,22 +2115,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Mouth (feat. Luke Krutzke)",
-        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+        "name": "Mount Airy Hill (Way Gone)",
+        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        },
-        {
-          "name": "Luke Krutzke",
-          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 236032,
-      "name": "Mouth (feat. Luke Krutzke)",
-      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2171,6 +2151,26 @@
       "duration_ms": 193000,
       "name": "We Cannot Resist - Edit",
       "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mouth (feat. Luke Krutzke)",
+        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        },
+        {
+          "name": "Luke Krutzke",
+          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+        }
+      ],
+      "duration_ms": 236032,
+      "name": "Mouth (feat. Luke Krutzke)",
+      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Now More Than Ever",
-        "url": "https://open.spotify.com/album/5BBpUPQSxVp9KbwFaYy0PP"
-      },
-      "artists": [
-        {
-          "name": "John Early",
-          "url": "https://open.spotify.com/artist/1Wowp18ocqxJEuVAgVI3Qw"
-        },
-        {
-          "name": "The Lemon Squares",
-          "url": "https://open.spotify.com/artist/4y49vrBcQRqyXSMsUmuV3f"
-        }
-      ],
-      "duration_ms": 318269,
-      "name": "American Life",
-      "url": "https://open.spotify.com/track/3MjtWHOC0uCAx753vU5pBs"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Was Always You",
         "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
       },
@@ -2239,22 +2219,6 @@
       "duration_ms": 196575,
       "name": "Was Always You",
       "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Growin' Down",
-        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
-      },
-      "artists": [
-        {
-          "name": "Illiterate Light",
-          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Growin' Down",
-      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2275,6 +2239,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Fresh Water in an Empty Vase",
+        "url": "https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Schepman",
+          "url": "https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fresh Water in an Empty Vase",
+      "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "On the Outside",
         "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
       },
@@ -2291,18 +2271,38 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Fresh Water in an Empty Vase",
-        "url": "https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA"
+        "name": "Now More Than Ever",
+        "url": "https://open.spotify.com/album/5BBpUPQSxVp9KbwFaYy0PP"
       },
       "artists": [
         {
-          "name": "Natalie Schepman",
-          "url": "https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG"
+          "name": "John Early",
+          "url": "https://open.spotify.com/artist/1Wowp18ocqxJEuVAgVI3Qw"
+        },
+        {
+          "name": "The Lemon Squares",
+          "url": "https://open.spotify.com/artist/4y49vrBcQRqyXSMsUmuV3f"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Fresh Water in an Empty Vase",
-      "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
+      "duration_ms": 318269,
+      "name": "American Life",
+      "url": "https://open.spotify.com/track/3MjtWHOC0uCAx753vU5pBs"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Growin' Down",
+        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
+      },
+      "artists": [
+        {
+          "name": "Illiterate Light",
+          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Growin' Down",
+      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2323,6 +2323,22 @@
       "duration_ms": 216015,
       "name": "My First Life (feat. Wye Oak)",
       "url": "https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Slice of Life",
+        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 283922,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2355,22 +2371,6 @@
       "duration_ms": 217862,
       "name": "Halo - Acoustic Version",
       "url": "https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Slice of Life",
-        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 283922,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Regards to the End",
-        "url": "https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO"
-      },
-      "artists": [
-        {
-          "name": "Emily Wells",
-          "url": "https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "All Burn No Bridge",
-      "url": "https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Where I Should End",
         "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 318718,
       "name": "Any Dreams?",
       "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Regards to the End",
+        "url": "https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO"
+      },
+      "artists": [
+        {
+          "name": "Emily Wells",
+          "url": "https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "All Burn No Bridge",
+      "url": "https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf"
     },
     {
       "added_at": "2024-09-13 04:00:00",

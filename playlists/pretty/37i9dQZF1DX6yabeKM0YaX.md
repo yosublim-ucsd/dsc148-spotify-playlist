@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 
 > Music From "Pretty Cure" series! 音楽で辿る「プリキュア」シリーズの世界!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,505 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,537 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 |
-| 2 | [ひろがるスカイ!プリキュア \~Hero Girls\~](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 |
+| 2 | [ひろがるスカイ！プリキュア ～Hero Girls～](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ！プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 |
 | 3 | [DANZEN!ふたりはプリキュア](https://open.spotify.com/track/2yenJwFvH6NOs9MQwIZHsj) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [ふたりはプリキュアオープニングテーマ曲 DANZEN!ふたりはプリキュア](https://open.spotify.com/album/4FMW9Gby2WLsE0Pqr8yEA4) | 3:34 |
 | 4 | [Cheers！デリシャスパーティ♡プリキュア](https://open.spotify.com/track/2fogdJN46llUQtV4lZ5410) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [デリシャスパーティ♡プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/15JIJms7qoGCJA9iF0jtKY) | 3:48 |
 | 5 | [ときめき](https://open.spotify.com/track/4hhlE9Eyj8vVydzO3bAi8m) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 4:59 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 | 14 | [SHINE!! キラキラ☆プリキュアアラモード](https://open.spotify.com/track/5Q1d5akQ9koYHID9jvyb5j) | [Yuri Komagata](https://open.spotify.com/artist/6atHQbSsM5REhBq8wSFkQw) | [「キラキラ☆プリキュアアラモード」主題歌シングル【通常盤】OP：SHINE!! キラキラ☆プリキュアアラモード／ED：レッツ・ラ・クッキン☆ショータイム](https://open.spotify.com/album/6fSVxsN5hXfziL35fm0og5) | 3:45 |
 | 15 | [ハピネスチャージプリキュア！ＷＯＷ！](https://open.spotify.com/track/2l7JC7sDxhhBPGVJx3UjvL) | [Sayaka Nakaya](https://open.spotify.com/artist/0dxAJMlXatPl27JLd5Z1Rd) | [「ハピネスチャージプリキュア！」主題歌シングル OP:ハピネスチャージプリキュア！ＷＯＷ！/ED:プリキュア・メモリ【通常盤】](https://open.spotify.com/album/1ClWd3t145NYbQuKfwuEkJ) | 3:46 |
 | 16 | [ガンバランスdeダンス \~夢みる奇跡たち\~](https://open.spotify.com/track/1nRvy34z0NcTga59qOSYId) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [ガンバランスdeダンス \~夢みる奇跡たち\~ 【Yes! プリキュア5】\- EP](https://open.spotify.com/album/5wCQq8myvlgEHuGu6gckQ6) | 3:58 |
-| 17 | [ヒロガリズム](https://open.spotify.com/track/5ad3iGxNnKDrpLQDWdunQH) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV), [吉武千颯](https://open.spotify.com/artist/7pSHeDPpr7dU6nkxAa2D83) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:18 |
+| 17 | [ヒロガリズム](https://open.spotify.com/track/5ad3iGxNnKDrpLQDWdunQH) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV), [吉武千颯](https://open.spotify.com/artist/7pSHeDPpr7dU6nkxAa2D83) | [ひろがるスカイ！プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:18 |
 | 18 | [「笑うが勝ち!」でGO!](https://open.spotify.com/track/3P5H4bonqHFSbS1Q1AP2Ar) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [まかせて★スプラッシュ☆スター★/「笑うが勝ち!」でGO!](https://open.spotify.com/album/3rJJEnGmG3sFnassNyGeeP) | 3:26 |
 | 19 | [CURE UP↑RA♡PA☆PA！～ほほえみになる魔法～](https://open.spotify.com/track/2u9Sb1ANZulMzNayV9smv3) | [キュアミラクル\(CV:高橋李依\)](https://open.spotify.com/artist/4gYWBgUXLALfeBzmEzjGyH), [キュアマジカル\(CV:堀江由衣\)](https://open.spotify.com/artist/41hujDAS4f36WggPeqQFWk) | [「魔法つかいプリキュア！」主題歌【通常盤】OP:Dokkin◇魔法つかいプリキュア！/ED:CURE UP↑RA♡PA☆PA!～ほほえみになる魔法～](https://open.spotify.com/album/1K4sau0Cyn8A7OZqjJT08Z) | 4:09 |
 | 20 | [魔法アラ・ドーモ！](https://open.spotify.com/track/7ombYxgjRORjr2PcOXMMB3) | [キュアマジカル\(CV:堀江由衣\)](https://open.spotify.com/artist/41hujDAS4f36WggPeqQFWk), [キュアフェリーチェ\(CV:早見沙織\)](https://open.spotify.com/artist/2GLeq74jvezGdIZIhOJQIM), [キュアミラクル\(CV:高橋李依\)](https://open.spotify.com/artist/4gYWBgUXLALfeBzmEzjGyH) | [「魔法つかいプリキュア！」後期主題歌 OP：Dokkin◇魔法つかいプリキュア！Part2／ED：魔法アラ・ドーモ！](https://open.spotify.com/album/0Fz971mYrUywS9X2YCFF5K) | 4:17 |

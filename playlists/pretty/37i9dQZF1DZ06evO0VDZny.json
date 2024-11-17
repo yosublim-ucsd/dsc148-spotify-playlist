@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 463364,
+  "num_followers": 463422,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzPsAAAAAABXoXg9UDR69Xw1FxrcK3BD",
+  "snapshot_id": "ZzaPAAAAAAB2x+QYfN8Aa/dyYMQsiRLF",
   "tracks": [
     {
       "added_at": null,
@@ -206,11 +206,15 @@
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
+      "duration_ms": 209598,
+      "name": "1x1 (feat. Nova Twins)",
+      "url": "https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk"
     },
     {
       "added_at": null,
@@ -270,15 +274,11 @@
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 209598,
-      "name": "1x1 (feat. Nova Twins)",
-      "url": "https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk"
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
     },
     {
       "added_at": null,

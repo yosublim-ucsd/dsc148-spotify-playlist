@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=w1wkaF8KSUGhCkbLjDOq8A>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,940 likes - 98 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,959 likes - 98 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 39 | [Vader Abraham](https://open.spotify.com/track/2toBRsM9iGAchvwQu94CRi) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Vader Abraham](https://open.spotify.com/album/7Ix3pntXk8FJuKrjbcBE2r) | 2:22 |
 | 40 | [Smile More](https://open.spotify.com/track/0IosTLgDT0U6yfoSd8GGQ4) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Smile More](https://open.spotify.com/album/35A3DFaTm0Iz3pXBBeSA8k) | 2:59 |
 | 41 | [Ifunanya](https://open.spotify.com/track/39fq8j0h2JPr7XEo17Bw6v) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Holy Lamba, Vol.1](https://open.spotify.com/album/6iW4oxCXnHAVdfd2NgaACz) | 2:43 |
-| 42 | [Spirit Man](https://open.spotify.com/track/673zsixqkozKUirs24z788) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Spirit Man](https://open.spotify.com/album/6OJSmdy5a9X7bNSJQWDJ2Y) | 3:22 |
+| 42 | [Spirit Man](https://open.spotify.com/track/673zsixqkozKUirs24z788) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Spirit Man](https://open.spotify.com/album/6OJSmdy5a9X7bNSJQWDJ2Y) | 3:21 |
 | 43 | [Adonai \(Live\)](https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Adonai \(Live\)](https://open.spotify.com/album/043Bn5dBFA5O0wNTGG7uGm) | 4:41 |
 | 44 | [For My Sake](https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [For My Sake](https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV) | 2:46 |
 | 45 | [Hallelu Hallelujah](https://open.spotify.com/track/2mPIzJSLLL4d5ajTuYllS9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [Hallelu Hallelujah](https://open.spotify.com/album/0kxg3gS1PKVhEgg6zTuXJi) | 2:40 |

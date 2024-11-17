@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 226158,
+  "num_followers": 226197,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Relapse: Refill",
         "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 357706,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
-      "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Here Comes The Fuzz",
         "url": "https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 209626,
       "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
+      "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Naked Truth",
-        "url": "https://open.spotify.com/album/6roz6qVi1LKVXnkh0UDdsB"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Lighters Up - Nationwide Version",
-      "url": "https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 304560,
       "name": "Work It (feat. 50 Cent) - Remix",
       "url": "https://open.spotify.com/track/7Ml5yFM5H8gCQ4U4NSe4Bc"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Naked Truth",
+        "url": "https://open.spotify.com/album/6roz6qVi1LKVXnkh0UDdsB"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Lighters Up - Nationwide Version",
+      "url": "https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Jump Off (feat. Mr. Cheeks) [Remixes]",
-        "url": "https://open.spotify.com/album/4ODmc5z57TpFAVTSe6PVSE"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Mr. Cheeks",
-          "url": "https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "The Jump Off (feat. Mr. Cheeks) - Remix",
-      "url": "https://open.spotify.com/track/3CZlTOyNnKVMb021IYEY6r"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "The Future Of Party People",
         "url": "https://open.spotify.com/album/0jERAlUJkTvscYCpsRZfqA"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 201760,
       "name": "Timbo Indian Flute",
       "url": "https://open.spotify.com/track/0jm8UJ1C4twgOLOMcc2PbB"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
+      },
+      "artists": [
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
     }
   ],
   "unique_name": "Hip-Hop Classics Party",

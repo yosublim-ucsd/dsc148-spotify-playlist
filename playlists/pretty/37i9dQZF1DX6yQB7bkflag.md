@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: LAUV
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,109 likes - 139 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,107 likes - 139 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 30 | [Terbuai](https://open.spotify.com/track/0wm0DXqQjpur7dpeBUPYos) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4pWJJ5lAwob0xP5ef7FrHH) | 4:32 |
 | 31 | [Love the Way You Are](https://open.spotify.com/track/1JcLZbXpkYvpuSIke3XqRU) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Love the Way You Are](https://open.spotify.com/album/2aa2TbwE2IDWXwFPlrsHl8) | 3:38 |
 | 32 | [Tarik Ulur](https://open.spotify.com/track/4geXWfWtm5WCaiXeIP28oT) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Tarik Ulur](https://open.spotify.com/album/25WHSHiaxGwQEHgmzAmZRs) | 4:01 |
-| 33 | [Boleh Kau Adu \- Live](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 |
+| 33 | [Boleh Kau Adu \- Live Version](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live Version\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 |
 | 34 | [Fall Over Me](https://open.spotify.com/track/0oriH3sjxlK2u8HDhna9BG) | [Shae](https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1) | [Fall Over Me](https://open.spotify.com/album/31MOJKRp31sl8NbgSZBGO4) | 4:28 |
 | 35 | [my Mystery \(feat\. Marty Friedman\)](https://open.spotify.com/track/1sXOsbw9FU3o029nmcx5U9) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [my Mystery \(feat\. Marty Friedman\)](https://open.spotify.com/album/3ZiSiBKJuooo7GCkqwwnK9) | 5:23 |
 | 36 | [Tak Pernah Terganti](https://open.spotify.com/track/10H0F87snapvL1Q149GOuH) | [Single Season](https://open.spotify.com/artist/0RZVavGo94qgo6HfBz7D8D) | [Tak Pernah Terganti](https://open.spotify.com/album/6BJnuBRWFdawHiPZMUtvPz) | 4:17 |

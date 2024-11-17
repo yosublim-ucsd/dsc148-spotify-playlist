@@ -2,7 +2,7 @@
 
 ### [This Is V](https://open.spotify.com/playlist/37i9dQZF1DX5Ku5zxR5pFB)
 
-> Let's have a LAYOVER in the V's world.
+> Let's have a LAYOVER in the V's world 💜
 
 25 songs - 1 hr 19 min
 

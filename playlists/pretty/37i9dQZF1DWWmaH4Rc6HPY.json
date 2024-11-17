@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! RENEE en portada.",
-  "num_followers": 31822,
+  "num_followers": 31833,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+        "name": "Lo Que No Quieres Saber",
+        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
       },
       "artists": [
         {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+      "duration_ms": 153109,
+      "name": "Lo Que No Quieres Saber",
+      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -583,22 +599,6 @@
       "duration_ms": 260760,
       "name": "Tesis",
       "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Lo Que No Quieres Saber",
-        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 153109,
-      "name": "Lo Que No Quieres Saber",
-      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Te Desenamoraste",
-        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
-      },
-      "artists": [
-        {
-          "name": "Drake Bell",
-          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Te Desenamoraste",
-      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Tormenta Perfecta",
         "url": "https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 237002,
       "name": "Tormenta Perfecta",
       "url": "https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
+      },
+      "artists": [
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Rompehielos",
+        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 180310,
+      "name": "Rompehielos",
+      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Rompehielos",
-        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 180310,
-      "name": "Rompehielos",
-      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "sin nada",
         "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 154514,
       "name": "sin nada",
       "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-11-08 06:00:00",

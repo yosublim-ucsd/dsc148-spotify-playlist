@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Waylon Wyatt",
-  "num_followers": 453592,
+  "num_followers": 453572,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -529,7 +529,7 @@
         }
       ],
       "duration_ms": 237493,
-      "name": "Save Me (with Lainey Wilson)",
+      "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Called Crazy",
-        "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Called Crazy",
-      "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "This Town's Been Too Good To Us",
         "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 191626,
       "name": "This Town's Been Too Good To Us",
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Called Crazy",
+        "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Called Crazy",
+      "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
     },
     {
       "added_at": "2024-11-15 05:00:00",

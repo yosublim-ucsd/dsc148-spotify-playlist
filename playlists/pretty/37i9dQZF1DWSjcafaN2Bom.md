@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,626 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,667 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 123 | [Witness \(1 Hope\)](https://open.spotify.com/track/5KLcIahbdBJeZ8tHAyYMpN) | [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Run Come Save Me](https://open.spotify.com/album/5U7ovzAy1H5vydRxNNuSl1) | 4:14 |
 | 124 | [Ave Maria](https://open.spotify.com/track/6zKMoFn8gTrtjhRy0qS0mU) | [Vladimir Vavilov](https://open.spotify.com/artist/4jgVsrBg6BsOhfNUc5k0O6), [Cyndia Quinn](https://open.spotify.com/artist/5e7IqF9Uj2EppnSjwPJfnZ) | [Ave Maria](https://open.spotify.com/album/1jIdqcjBFbb7xJhTxA9Iy7) | 2:57 |
 | 125 | [Good Book](https://open.spotify.com/track/0g0HPtE2POXGx8dzuwBRv4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 2:36 |
-| 126 | [Baby Talks Dirty \- Remastered](https://open.spotify.com/track/1v64SrT0QJlpbrepnZOHPz) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [But The Little Girls Understand](https://open.spotify.com/album/5DexUThrdVLHBdGhFgkl4H) | 3:45 |
+| 126 | [Baby Talks Dirty](https://open.spotify.com/track/1v64SrT0QJlpbrepnZOHPz) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [But The Little Girls Understand](https://open.spotify.com/album/5DexUThrdVLHBdGhFgkl4H) | 3:45 |
 | 127 | [If I Knew You Were Comin' I'd've Baked a Cake](https://open.spotify.com/track/5iYPqG2HXDsecY0N7aEPQc) | [Eileen Barton](https://open.spotify.com/artist/1illUSH6N5soc068Yerppx), [The New Yorkers](https://open.spotify.com/artist/0rzpgxQRtcaGme1Yx4Rv41) | [If I Knew You Were Comin'...](https://open.spotify.com/album/56ztjcwtPpZRI5sWN1ROmU) | 2:39 |
 | 128 | [Heard The Angels Moan](https://open.spotify.com/track/3lRFinFo4eFcSvcdUxL0IM) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Blind Boys of Alabama](https://open.spotify.com/album/1P6Cq7xzfy0dltHaH7tbp2) | 4:09 |
 | 129 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |

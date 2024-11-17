@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『ENHYPEN WORLD TOUR 'FATE PLUS' IN JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,248 likes - 26 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,245 likes - 26 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

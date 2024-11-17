@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319902,
+  "num_followers": 319918,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Hymne \u00e0 l'amour",
-      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Fragile (Remastered)",
         "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 186706,
       "name": "L'encre de tes yeux - Remastered",
       "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Hymne \u00e0 l'amour",
+      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Comic Strip",
-        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        },
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Je t'aime moi non plus",
-      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Eternelle",
         "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
       "artists": [
         {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
         }
       ],
-      "duration_ms": 207133,
-      "name": "10 ans de nous",
-      "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -667,6 +651,22 @@
       "duration_ms": 217640,
       "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "10 ans de nous",
+      "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Amour toujours",
+      "url": "https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 283493,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Amour toujours",
-      "url": "https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J"
     },
     {
       "added_at": "2024-10-15 19:50:17",

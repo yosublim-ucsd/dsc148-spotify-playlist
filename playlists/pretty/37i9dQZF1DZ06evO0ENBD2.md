@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,899,216 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,899,425 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 51 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 5:11 |
 | 52 | [Modern Times Rock 'n’ Roll \- 2024 Mix](https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Modern Times Rock 'n' Roll \(2024 Mix\)](https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In) | 1:48 |
 
-Snapshot ID: `ZzU9gAAAAADsQ5WLdSwDnaL3f0qXCjKk`
+Snapshot ID: `ZzaPAAAAAADEbOhTk3HkZZhwKmkHhVVx`

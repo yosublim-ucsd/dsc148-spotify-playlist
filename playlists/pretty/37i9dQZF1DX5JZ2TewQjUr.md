@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Mr\. Koo
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,727 likes - 119 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,729 likes - 119 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

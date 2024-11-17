@@ -4,7 +4,7 @@
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Machine Head
 
-7,906 songs - 22 day 4 hr 40 min
+7,907 songs - 22 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6620,6 +6620,7 @@
 | [The Fall of Man \(feat\. Roy Khan\)](https://open.spotify.com/track/24DrMsCMBAsi2noBiJhfIl) | [Serenity](https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW), [Roy Khan](https://open.spotify.com/artist/4wB498WRtDd9HWmmR5fE7l) | [The Fall of Man](https://open.spotify.com/album/6DUMKIjnm38KjWTYFw1Y1K) | 4:12 | 2023-08-25 | 2023-11-04 |
 | [The Fall Of Me](https://open.spotify.com/track/5DXX1HuWNkBDHJjK5RI1Do) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [The Fall Of Me](https://open.spotify.com/album/0SVqQpDKIyupMvRXDbBGrL) | 2:26 | 2023-07-14 | 2023-07-22 |
 | [The Falling Tide](https://open.spotify.com/track/18n70c58KMnI0fvqNoMbww) | [Woods of Desolation](https://open.spotify.com/artist/3SzTaaNgwUukUhQZVKMKFK) | [The Falling Tide](https://open.spotify.com/album/0CTD521z2OCbYEZ5Q15BsB) | 6:32 | 2022-09-16 | 2022-09-24 |
+| [The Faustian Spirit](https://open.spotify.com/track/4byVyX4rhBj26mCxD5R2aM) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [The Faustian Spirit](https://open.spotify.com/album/1jCwRzeLlXBdUEdMVQ34Y2) | 4:13 | 2024-11-16 |  |
 | [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-02 | 2024-08-10 |
 | [The Feels Like Dying](https://open.spotify.com/track/7IjV7N1JxJ7jTSjFIlKJs9) | [An Autumn for Crippled Children](https://open.spotify.com/artist/7yMpYMZTr6Hm1Dm5CR0CRZ) | [The Feels Like Dying](https://open.spotify.com/album/2kWchH9fLGxjQYeKybQQWX) | 5:34 | 2023-07-21 | 2023-07-29 |
 | [The Fifth Element](https://open.spotify.com/track/04h5ckRO1Rzlf8RnRV66JE) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [The Fifth Element](https://open.spotify.com/album/34Iry7U2BJccXT2e2sfCGu) | 6:06 | 2024-08-16 | 2024-08-24 |

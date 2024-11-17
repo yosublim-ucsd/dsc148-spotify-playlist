@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > my nameeee is joel robertssss
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,075 likes - 116 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,099 likes - 116 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

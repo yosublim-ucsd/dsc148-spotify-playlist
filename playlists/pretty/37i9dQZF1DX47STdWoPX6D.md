@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: DKG KIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,316 likes - 116 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,335 likes - 116 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 9 | [WHITE ELEPHANT](https://open.spotify.com/track/3C9sUtiSUvAkhwko0kcmas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [FLOP ERA VOL\. 2 \(DELUXE\)](https://open.spotify.com/album/71SdmNkyW7xTl6hXsgP0fL) | 2:05 |
 | 10 | [Preying](https://open.spotify.com/track/1ySHCTjHaCEarwyTqUa3gf) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt) | [Preying](https://open.spotify.com/album/5LhSe4VtDmisyZw0LVlbnv) | 2:44 |
 | 11 | [Only You](https://open.spotify.com/track/4E8nSjhQh0PBoi7szlJRzm) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Only You](https://open.spotify.com/album/4a05d0DEF8jelMvGMvizGh) | 2:38 |
-| 12 | [Never Let Me Go \- Remix](https://open.spotify.com/track/7HAJYX1RMpI6el8FYzLd6S) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Carvello](https://open.spotify.com/artist/66dfL5D3arH0Tbgrle3Yfx), [Ace Harris](https://open.spotify.com/artist/4gfEAoOxuk8k9LF86gRdiG) | [Never Let Me Go \(Remix\)](https://open.spotify.com/album/0Me8lfJ8uai4eUVSxvZZz7) | 2:00 |
+| 12 | [Never Let Me Go \- Remix](https://open.spotify.com/track/7HAJYX1RMpI6el8FYzLd6S) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Never Let Me Go \(Remix\)](https://open.spotify.com/album/0Me8lfJ8uai4eUVSxvZZz7) | 2:00 |
 | 13 | [Worship Forreal](https://open.spotify.com/track/32GiKCXdkBsBLWON3pkYUw) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Worship Forreal](https://open.spotify.com/album/0S9Sll9VC2QDlYDiOdqQmA) | 3:01 |
 | 14 | [Mighty Good](https://open.spotify.com/track/4nIJcdjVVQNJC5loKZsvfJ) | [Cru Alxndr](https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [Mighty Good](https://open.spotify.com/album/4LfzhIBpiVFXVJqPYgQox0) | 3:39 |
 | 15 | [33024](https://open.spotify.com/track/6j6Ls5RcvMPfDHvgGX8CZI) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [33024](https://open.spotify.com/album/6qXjfDCXFah9IDhWuFQpGY) | 2:41 |

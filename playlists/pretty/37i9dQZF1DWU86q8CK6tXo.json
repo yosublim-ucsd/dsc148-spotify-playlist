@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!",
-  "num_followers": 59761,
+  "num_followers": 59758,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/2p2U8zVAnue6Yrx3mvtBE3"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "The Gardener",
-        "url": "https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "LYIN",
         "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 259466,
       "name": "LYIN",
       "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "The Gardener",
+        "url": "https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK"
     },
     {
       "added_at": "2024-11-01 04:00:00",

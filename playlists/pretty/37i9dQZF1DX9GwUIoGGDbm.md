@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. 「かぐや様は告らせたい」シリーズを彩る楽曲をプレイリストで。©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,019 likes - 80 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,044 likes - 80 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 36 | [春色リップ](https://open.spotify.com/track/4QWU92eylm8p3bitClapHT) | [告RADIO](https://open.spotify.com/artist/1087aeXm9MVViKZqVZORvg) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:13 |
 | 37 | [翼をあげたい](https://open.spotify.com/track/2kOjXysx8qyzEzYGnTbmow) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:48 |
 | 38 | [ありがとう。](https://open.spotify.com/track/3ZNQgUfC4OG7iQPhXm2iyd) | [告RADIO](https://open.spotify.com/artist/1087aeXm9MVViKZqVZORvg) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:14 |
-| 39 | [終わった......!](https://open.spotify.com/track/3NcwMyemzFlkp4Xv6R4hiv) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:28 |
+| 39 | [終わった……！](https://open.spotify.com/track/3NcwMyemzFlkp4Xv6R4hiv) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:28 |
 | 40 | [助けて](https://open.spotify.com/track/43uPV9RUo5u8XTxzJdfnlR) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:13 |
 | 41 | [泣くほど](https://open.spotify.com/track/4AC7g3agk0gKpu3LrdNk0Y) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:20 |
 | 42 | [もてなし](https://open.spotify.com/track/2HfNhVt0rKyEhGkwcxr3lR) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:11 |

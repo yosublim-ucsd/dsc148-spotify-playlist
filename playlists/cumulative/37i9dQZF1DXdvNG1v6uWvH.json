@@ -10292,7 +10292,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 284026,
       "name": "Codependency",
       "url": "https://open.spotify.com/track/0YNJVjAjqK52mfUqu4W5OP"
@@ -28409,6 +28409,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN HOUR : Part.2",
+        "url": "https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183494,
+      "name": "Ice On My Teeth",
+      "url": "https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM"
+    },
+    {
+      "album": {
         "name": "Ice Queen",
         "url": "https://open.spotify.com/album/318jsC0msWm1AVgW7Vyirn"
       },
@@ -40260,7 +40278,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 180978,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/4DcIhlbfhSc7eq1yMqCeWi"
@@ -44424,7 +44442,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 172800,
       "name": "potent",
       "url": "https://open.spotify.com/track/4bg4VSXSBvG5rI3dlFOAoA"
@@ -45184,6 +45202,28 @@
       "duration_ms": 153230,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/2v2XRdK16t9l5jfa0YZCLS"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "album": {
@@ -55926,6 +55966,24 @@
       "duration_ms": 175466,
       "name": "The Karate Kid",
       "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
+    },
+    {
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/4tBAVWkI4P7JG8WtBHvoMd"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/17Wy4sPPgnDPpzE7ipkbef"
     },
     {
       "album": {

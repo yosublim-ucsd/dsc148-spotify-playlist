@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-219 songs - 10 hr 58 min
+220 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Defend](https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Defend](https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1) | 2:53 | 2023-03-18 | 2023-09-05 |
 | [Deja Vu](https://open.spotify.com/track/7qsFkZtxVdJYZaCmEnHRGo) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Deja Vu](https://open.spotify.com/album/4j8ZHrjf3cgM96KJU4WYNP) | 1:25 | 2024-10-16 | 2024-11-09 |
 | [Deposit](https://open.spotify.com/track/0CTKJBq4x6M9jz4MxGTaOv) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Deposit](https://open.spotify.com/album/7iMYIzz1CcVJYs2m2buUbF) | 2:11 | 2024-02-09 | 2024-02-16 |
-| [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 | 2024-01-24 |  |
+| [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 | 2024-01-24 | 2024-11-17 |
 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 | 2024-06-10 |  |
 | [Don't Test](https://open.spotify.com/track/5oBNyvRib931U1mp8YtbtU) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Don't Test](https://open.spotify.com/album/3yK7WWnv3ZP7ogzncDL97u) | 2:15 | 2023-03-18 | 2023-09-05 |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 |  |
@@ -141,6 +141,7 @@
 | [MTCD](https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Japjeet Sandhu](https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd) | [MTCD](https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq) | 2:36 | 2024-11-13 |  |
 | [Muhammad Ali](https://open.spotify.com/track/7nqrM3YD2EfjtaGPvd1dE3) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Muhammad Ali](https://open.spotify.com/album/7mAfZEurqdGBfykp7RvbdP) | 2:18 | 2024-07-26 | 2024-08-24 |
 | [Munde Desi](https://open.spotify.com/track/04Y40castrKPhpKehco0E7) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Welcome To The Revolution](https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3) | 2:52 | 2023-07-25 | 2023-10-13 |
+| [MUNDE HOOD DE](https://open.spotify.com/track/0ZHTAMmcduDQMvri24XPnu) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Hard Drive, Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:45 | 2024-11-16 |  |
 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-02-13 |  |
 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-16 |  |
 | [My Boyz](https://open.spotify.com/track/3CRjjTpw9dpg3P84SHmszK) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Desi Ma](https://open.spotify.com/artist/4Xxi26Q3J73FVmLpBtLnH0), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:17 | 2024-03-26 | 2024-08-10 |

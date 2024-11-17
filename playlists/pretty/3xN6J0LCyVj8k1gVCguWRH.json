@@ -1,13 +1,77 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 131752,
+  "num_followers": 131745,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAqT8V7HBVBFvmQsiURWgGsbcTwZBH4",
+  "snapshot_id": "AAAqYaW5Foc+yvFxKVHezdJbhOTK6wJ7",
   "tracks": [
+    {
+      "added_at": "2024-11-16 13:53:58",
+      "album": {
+        "name": "Eighties",
+        "url": "https://open.spotify.com/album/3S75t2Py0qSf5cZ5keHkI5"
+      },
+      "artists": [
+        {
+          "name": "Jason Wade",
+          "url": "https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Eighties",
+      "url": "https://open.spotify.com/track/2lb9ZVghr5jc2t5P6jrBtD"
+    },
+    {
+      "added_at": "2024-11-16 13:53:58",
+      "album": {
+        "name": "Good for Me",
+        "url": "https://open.spotify.com/album/2SnLQvTLT7zoBPr2S2y4FE"
+      },
+      "artists": [
+        {
+          "name": "meira",
+          "url": "https://open.spotify.com/artist/7bMmyo26O08eiZ3YuUglR4"
+        }
+      ],
+      "duration_ms": 201219,
+      "name": "Good for Me",
+      "url": "https://open.spotify.com/track/2YKk3YXuq5LxfAXgt7186Z"
+    },
+    {
+      "added_at": "2024-11-16 13:53:58",
+      "album": {
+        "name": "Born Too Close to the Sun",
+        "url": "https://open.spotify.com/album/3Ror6fR9mks3Lpb6GtvCi7"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kusel",
+          "url": "https://open.spotify.com/artist/40mu6ZNsQGxjuwXirTdqYQ"
+        }
+      ],
+      "duration_ms": 219607,
+      "name": "Born Too Close to the Sun",
+      "url": "https://open.spotify.com/track/4uCSvw3WJD0lWjm3Rp5knF"
+    },
+    {
+      "added_at": "2024-11-16 13:54:02",
+      "album": {
+        "name": "Crave Your Affection",
+        "url": "https://open.spotify.com/album/7wmKFQ8mvl7GWwVaRpxzLX"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "Crave Your Affection",
+      "url": "https://open.spotify.com/track/77sfxrayrM7JVRIqlwKM1Q"
+    },
     {
       "added_at": "2024-08-12 20:19:27",
       "album": {
@@ -245,22 +309,6 @@
       "url": "https://open.spotify.com/track/1QOpwPQpuOmNoOmMMXCepp"
     },
     {
-      "added_at": "2024-11-15 23:06:29",
-      "album": {
-        "name": "Letters From A Lover",
-        "url": "https://open.spotify.com/album/1cAyEeTe31xxXRWUGMFsll"
-      },
-      "artists": [
-        {
-          "name": "MyaJoy",
-          "url": "https://open.spotify.com/artist/3m1KYVu8CVLxABsf7a9Jxp"
-        }
-      ],
-      "duration_ms": 215365,
-      "name": "(Bonus)Miss Me?",
-      "url": "https://open.spotify.com/track/6LG6HBOxA6bHSuRyQ6Wx9L"
-    },
-    {
       "added_at": "2024-08-12 20:28:27",
       "album": {
         "name": "Back of My Mind",
@@ -407,54 +455,6 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2024-11-15 23:02:53",
-      "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/4PjPmufBygcly4kuYI0iJw"
-      },
-      "artists": [
-        {
-          "name": "Kuyo Witha K",
-          "url": "https://open.spotify.com/artist/3EGajSPToID6aJNOjCWotK"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Despierta",
-      "url": "https://open.spotify.com/track/0nWWybHLzt0IHSJ8xErfzq"
-    },
-    {
-      "added_at": "2024-11-15 23:05:28",
-      "album": {
-        "name": "Not Leaving",
-        "url": "https://open.spotify.com/album/3WmsVOkLsl5dOFxG8ewsBS"
-      },
-      "artists": [
-        {
-          "name": "Eli ALXNDR",
-          "url": "https://open.spotify.com/artist/6hqIhXUjNlad8hgVwQ9wEU"
-        }
-      ],
-      "duration_ms": 173856,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt"
-    },
-    {
-      "added_at": "2024-11-15 23:03:45",
-      "album": {
-        "name": "Stutter, Vol. 2",
-        "url": "https://open.spotify.com/album/7EaHIM4CF9ibf5aZ5syd3F"
-      },
-      "artists": [
-        {
-          "name": "Antonio Sky",
-          "url": "https://open.spotify.com/artist/02Evk0EwdPaRF3MZp0dKCH"
-        }
-      ],
-      "duration_ms": 219032,
-      "name": "Stutter, Vol. 2",
-      "url": "https://open.spotify.com/track/2hbcCTN9V0W8s3I0Ji92IS"
     },
     {
       "added_at": "2024-08-12 20:32:08",
@@ -1749,6 +1749,26 @@
       "url": "https://open.spotify.com/track/0ckzBpHyjOxCwgE67V5goB"
     },
     {
+      "added_at": "2024-11-16 14:56:23",
+      "album": {
+        "name": "STEEZ.",
+        "url": "https://open.spotify.com/album/3n2qzMsi6TkIlHeSiMmkbh"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Dyna Edyne",
+          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Steez",
+      "url": "https://open.spotify.com/track/6irHIvfQ3VKFjptbxXdu0M"
+    },
+    {
       "added_at": "2024-11-01 12:47:39",
       "album": {
         "name": "SUPERMARKET SUSHI",
@@ -1829,70 +1849,6 @@
       "url": "https://open.spotify.com/track/1Amjg3vMoXdTt7akhjJ0yN"
     },
     {
-      "added_at": "2024-11-02 13:39:47",
-      "album": {
-        "name": "Eighties",
-        "url": "https://open.spotify.com/album/3S75t2Py0qSf5cZ5keHkI5"
-      },
-      "artists": [
-        {
-          "name": "Jason Wade",
-          "url": "https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE"
-        }
-      ],
-      "duration_ms": 278181,
-      "name": "Eighties",
-      "url": "https://open.spotify.com/track/2lb9ZVghr5jc2t5P6jrBtD"
-    },
-    {
-      "added_at": "2024-11-02 13:40:50",
-      "album": {
-        "name": "Good for Me",
-        "url": "https://open.spotify.com/album/2SnLQvTLT7zoBPr2S2y4FE"
-      },
-      "artists": [
-        {
-          "name": "meira",
-          "url": "https://open.spotify.com/artist/7bMmyo26O08eiZ3YuUglR4"
-        }
-      ],
-      "duration_ms": 201219,
-      "name": "Good for Me",
-      "url": "https://open.spotify.com/track/2YKk3YXuq5LxfAXgt7186Z"
-    },
-    {
-      "added_at": "2024-10-31 13:07:49",
-      "album": {
-        "name": "Born Too Close to the Sun",
-        "url": "https://open.spotify.com/album/3Ror6fR9mks3Lpb6GtvCi7"
-      },
-      "artists": [
-        {
-          "name": "Elijah Kusel",
-          "url": "https://open.spotify.com/artist/40mu6ZNsQGxjuwXirTdqYQ"
-        }
-      ],
-      "duration_ms": 219607,
-      "name": "Born Too Close to the Sun",
-      "url": "https://open.spotify.com/track/4uCSvw3WJD0lWjm3Rp5knF"
-    },
-    {
-      "added_at": "2024-11-15 15:23:38",
-      "album": {
-        "name": "LOVELESS",
-        "url": "https://open.spotify.com/album/3cgkmGJVpnJX86mD6hX1MI"
-      },
-      "artists": [
-        {
-          "name": "Sladek",
-          "url": "https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/1be1QCMFwSb9tYlTnGGbns"
-    },
-    {
       "added_at": "2024-11-14 13:41:51",
       "album": {
         "name": "Fabrics",
@@ -1961,22 +1917,6 @@
       "url": "https://open.spotify.com/track/4qvwKZZDO2FKjxvY0ggokJ"
     },
     {
-      "added_at": "2024-10-27 14:23:23",
-      "album": {
-        "name": "Crave Your Affection",
-        "url": "https://open.spotify.com/album/7wmKFQ8mvl7GWwVaRpxzLX"
-      },
-      "artists": [
-        {
-          "name": "Tala Silva",
-          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Crave Your Affection",
-      "url": "https://open.spotify.com/track/77sfxrayrM7JVRIqlwKM1Q"
-    },
-    {
       "added_at": "2024-11-06 23:31:21",
       "album": {
         "name": "Those Were The Days",
@@ -2007,6 +1947,170 @@
       "duration_ms": 165117,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/0Dl2nrGqxIEh2zmWnXn9Q3"
+    },
+    {
+      "added_at": "2024-11-16 12:00:30",
+      "album": {
+        "name": "This Music Sh*t Is Hard",
+        "url": "https://open.spotify.com/album/6dX6YvWI70FFTbbhQoCmyi"
+      },
+      "artists": [
+        {
+          "name": "Leo The Kind",
+          "url": "https://open.spotify.com/artist/3HmMs6CCGjQvjCBcv26hhB"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "I Can Take U",
+      "url": "https://open.spotify.com/track/0KELOkaULluJVLY68rcKYh"
+    },
+    {
+      "added_at": "2024-11-16 12:00:33",
+      "album": {
+        "name": "What I'm Not Gonna Do",
+        "url": "https://open.spotify.com/album/1x7JvhDv4ct3MscmmcTKkq"
+      },
+      "artists": [
+        {
+          "name": "Dina Renee",
+          "url": "https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "What I'm Not Gonna Do",
+      "url": "https://open.spotify.com/track/2GqPzHFm4Dcuyr48co7llk"
+    },
+    {
+      "added_at": "2024-11-16 06:01:21",
+      "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/5z3IqS3YHVVfQCmnF0Qw4C"
+      },
+      "artists": [
+        {
+          "name": "Ariana Miri",
+          "url": "https://open.spotify.com/artist/2XgnV5MS9Wn9gDjbZYOlzG"
+        },
+        {
+          "name": "Itai",
+          "url": "https://open.spotify.com/artist/0fYwyLfpDRVYX4Xcututuz"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/23THJDefjNaOu9u0yWdCgN"
+    },
+    {
+      "added_at": "2024-11-16 06:01:37",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/13EmrGPqiaUv7X47yYbIdn"
+      },
+      "artists": [
+        {
+          "name": "Amani Shabazz",
+          "url": "https://open.spotify.com/artist/7oSzkaqODfiJ5UjJZCWxhD"
+        }
+      ],
+      "duration_ms": 203991,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/74T1C4bqc5jiHONjP9dSlL"
+    },
+    {
+      "added_at": "2024-11-15 23:06:29",
+      "album": {
+        "name": "Letters From A Lover",
+        "url": "https://open.spotify.com/album/1cAyEeTe31xxXRWUGMFsll"
+      },
+      "artists": [
+        {
+          "name": "MyaJoy",
+          "url": "https://open.spotify.com/artist/3m1KYVu8CVLxABsf7a9Jxp"
+        }
+      ],
+      "duration_ms": 215365,
+      "name": "(Bonus)Miss Me?",
+      "url": "https://open.spotify.com/track/6LG6HBOxA6bHSuRyQ6Wx9L"
+    },
+    {
+      "added_at": "2024-11-15 23:02:53",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/4PjPmufBygcly4kuYI0iJw"
+      },
+      "artists": [
+        {
+          "name": "Kuyo Witha K",
+          "url": "https://open.spotify.com/artist/3EGajSPToID6aJNOjCWotK"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/0nWWybHLzt0IHSJ8xErfzq"
+    },
+    {
+      "added_at": "2024-11-15 23:05:28",
+      "album": {
+        "name": "Not Leaving",
+        "url": "https://open.spotify.com/album/3WmsVOkLsl5dOFxG8ewsBS"
+      },
+      "artists": [
+        {
+          "name": "Eli ALXNDR",
+          "url": "https://open.spotify.com/artist/6hqIhXUjNlad8hgVwQ9wEU"
+        }
+      ],
+      "duration_ms": 173856,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt"
+    },
+    {
+      "added_at": "2024-11-15 23:03:45",
+      "album": {
+        "name": "Stutter, Vol. 2",
+        "url": "https://open.spotify.com/album/7EaHIM4CF9ibf5aZ5syd3F"
+      },
+      "artists": [
+        {
+          "name": "Antonio Sky",
+          "url": "https://open.spotify.com/artist/02Evk0EwdPaRF3MZp0dKCH"
+        }
+      ],
+      "duration_ms": 219032,
+      "name": "Stutter, Vol. 2",
+      "url": "https://open.spotify.com/track/2hbcCTN9V0W8s3I0Ji92IS"
+    },
+    {
+      "added_at": "2024-11-15 15:23:38",
+      "album": {
+        "name": "LOVELESS",
+        "url": "https://open.spotify.com/album/3cgkmGJVpnJX86mD6hX1MI"
+      },
+      "artists": [
+        {
+          "name": "Sladek",
+          "url": "https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/1be1QCMFwSb9tYlTnGGbns"
+    },
+    {
+      "added_at": "2024-11-15 12:00:49",
+      "album": {
+        "name": "The Mighty Have Fallen",
+        "url": "https://open.spotify.com/album/6l8MrHv4hDckqx2bGuq0T3"
+      },
+      "artists": [
+        {
+          "name": "David Vaters",
+          "url": "https://open.spotify.com/artist/42zvXH27ceRmSxYCik5rtO"
+        }
+      ],
+      "duration_ms": 222347,
+      "name": "The Mighty Have Fallen",
+      "url": "https://open.spotify.com/track/0XmMLSrXne8U8PoWLhIRpp"
     },
     {
       "added_at": "2024-11-15 06:01:30",
@@ -2071,22 +2175,6 @@
       "duration_ms": 300213,
       "name": "beverly hills",
       "url": "https://open.spotify.com/track/6FZfgEiOEBsfvvH3OpDYi2"
-    },
-    {
-      "added_at": "2024-11-15 12:00:49",
-      "album": {
-        "name": "The Mighty Have Fallen",
-        "url": "https://open.spotify.com/album/6l8MrHv4hDckqx2bGuq0T3"
-      },
-      "artists": [
-        {
-          "name": "David Vaters",
-          "url": "https://open.spotify.com/artist/42zvXH27ceRmSxYCik5rtO"
-        }
-      ],
-      "duration_ms": 222347,
-      "name": "The Mighty Have Fallen",
-      "url": "https://open.spotify.com/track/0XmMLSrXne8U8PoWLhIRpp"
     },
     {
       "added_at": "2024-11-06 23:32:12",

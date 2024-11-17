@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Dato Aishah",
-  "num_followers": 58118,
+  "num_followers": 58131,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -695,18 +695,22 @@
     {
       "added_at": "2024-11-14 16:13:11",
       "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+        "name": "Love, Life & Music",
+        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },
       "artists": [
         {
           "name": "Rossa",
           "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 241493,
-      "name": "Aku Bukan Untukmu",
-      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
+      "duration_ms": 254013,
+      "name": "Kamu Yang Kutunggu",
+      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
     },
     {
       "added_at": "2024-11-14 16:13:11",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-11-14 16:13:11",
       "album": {
-        "name": "Love, Life & Music",
-        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
       },
       "artists": [
         {
           "name": "Rossa",
           "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 254013,
-      "name": "Kamu Yang Kutunggu",
-      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
+      "duration_ms": 241493,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
     },
     {
       "added_at": "2024-11-14 16:13:11",

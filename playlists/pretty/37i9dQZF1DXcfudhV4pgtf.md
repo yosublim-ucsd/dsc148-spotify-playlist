@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,288 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,299 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 | 16 | [Feelin'](https://open.spotify.com/track/4mm3PG3fwbfLpmdVUmjM3T) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Feelin'](https://open.spotify.com/album/0RTmBSVTMfd6oIQ1Z0WwCv) | 2:45 |
 | 17 | [Will U](https://open.spotify.com/track/2fIC3Uy9pi0nSwAsTVt4WC) | [Oprofessionell](https://open.spotify.com/artist/35niYtdYOBS0VmZEYuNgs1) | [UTE003](https://open.spotify.com/album/0rVccOc3vA7BUFOjH0lnqd) | 7:35 |
 | 18 | [The Wonderlightskin Condition](https://open.spotify.com/track/0o6wBUf9Qj8Vb6IadjsQWv) | [François X](https://open.spotify.com/artist/5sHHgrgK3vQ0jwKIT1D4xu) | [The Wonderlightskin Condition](https://open.spotify.com/album/4qa81DTQ6o6sTBCtpiHrhP) | 5:06 |
-| 19 | [Perzechella](https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [Babylonia](https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va) | 5:11 |
+| 19 | [Perzechella](https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Partenope](https://open.spotify.com/artist/1GnkCX16AVs30NKzZfz3eC) | [Babylonia](https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va) | 5:11 |
 | 20 | [Potential](https://open.spotify.com/track/15LBiQ0gakogzBocc7KeiL) | [DJ Stingray 313](https://open.spotify.com/artist/7vZgYqMEApgWpMpXMSJj1o) | [Aqua Team](https://open.spotify.com/album/7zbrkqo8zbFzrxWxLnFSso) | 4:32 |
 | 21 | [About U \- ParteNope Remix](https://open.spotify.com/track/4fq0h6ddMZzeUa0Z0CAeEf) | [Gaston Fiore](https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [About U](https://open.spotify.com/album/2GPnt3gxonQcRROzrOAjQ0) | 5:24 |
 | 22 | [Inertia](https://open.spotify.com/track/04bgO8cYPrfJI4dJyCpfwp) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Inertia](https://open.spotify.com/album/1nTjHtiJp8a0y7ERotMAem) | 5:10 |

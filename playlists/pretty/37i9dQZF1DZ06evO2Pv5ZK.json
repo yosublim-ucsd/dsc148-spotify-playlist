@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 107097,
+  "num_followers": 107113,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAABLZ+sVq3fBjjkzBmTEA7Ms",
+  "snapshot_id": "ZzaPAAAAAADx3AOPkK9v3LPQzdmDlyqK",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the magic of Cosmos",
-        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 127106,
-      "name": "In the magic of Cosmos",
-      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the magic of Cosmos",
+        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "In the magic of Cosmos",
+      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L'apocalypse des animaux (Remastered)",
         "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 185226,
       "name": "La mort du loup - Remastered",
       "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 460413,
-      "name": "Le singe bleu - Remastered",
-      "url": "https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosetta",
         "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 302112,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 460413,
+      "name": "Le singe bleu - Remastered",
+      "url": "https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chariots Of Fire - The Play",
-        "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Eric's Theme",
-      "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+        "name": "Chariots Of Fire - The Play",
+        "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 65266,
-      "name": "L'ours musicien - Remastered",
-      "url": "https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM"
+      "duration_ms": 246306,
+      "name": "Eric's Theme",
+      "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 65266,
+      "name": "L'ours musicien - Remastered",
+      "url": "https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 152906,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Main Theme - From \"Chariots of Fire\"",
+      "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
     }
   ],
   "unique_name": "This Is Vangelis",

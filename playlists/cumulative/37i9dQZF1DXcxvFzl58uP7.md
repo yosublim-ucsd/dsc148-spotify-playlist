@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-998 songs - 2 day 3 hr 46 min
+999 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Act This Way](https://open.spotify.com/track/0rPIMO7sLw5Z3FhSNLTA5Y) | [Lounge FM](https://open.spotify.com/artist/6hc0mVCpacCeXn2M8O8nj5) | [New Phone Who Dis / Act This Way](https://open.spotify.com/album/6l2bK6YGvTqe0YmekCLMJm) | 3:23 | 2019-07-31 | 2021-05-28 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-12-14 |  |
 | [Advice](https://open.spotify.com/track/2aYmP5Ar225yAtOvL6u7cS) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom: Ash](https://open.spotify.com/album/3xTy2o1qSa4tXJ60sCsYNY) | 4:24 | 2019-08-01 | 2021-05-28 |
-| [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 | 2022-06-14 |  |
+| [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 | 2022-06-14 | 2024-11-17 |
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-25 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-02-08 | 2022-12-17 |
 | [All My Love](https://open.spotify.com/track/3AdiSOZxa72xdHN6sGvYeu) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5DteD9lXKQ1jjeTQ04YIXK) | 2:45 | 2022-03-04 | 2022-07-29 |
@@ -45,6 +45,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 |  |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2021-05-01 | 2022-12-15 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-17 |
+| [angel like u](https://open.spotify.com/track/7c5nT959gFGPDnNRIUG0FO) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [angel like u](https://open.spotify.com/album/3AFpn9twmzqjSy1mfXSMmK) | 2:52 | 2024-11-15 |  |
 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 | 2024-10-19 |
 | [Another Moment \(That Hurt Me More Than Any Moment\)](https://open.spotify.com/track/42AsCRWwmQ1jNFwc7umFkR) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [All Trash No Love](https://open.spotify.com/album/3n619cmyhuoWFVwhTmRmDf) | 3:49 | 2019-09-18 | 2021-05-23 |
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-07-30\* | 2022-07-29 |

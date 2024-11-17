@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa ANI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,906 likes - 122 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,921 likes - 122 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 107 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 |
 | 108 | [On Hold](https://open.spotify.com/track/2x6NIeO7wXJRw4qb2WSQx7) | [Walt Miguel](https://open.spotify.com/artist/7qduWaGE7B21byKMK1tlGb) | [On Hold](https://open.spotify.com/album/0AVMhkQCF1VEiXw8ZVYBgr) | 2:51 |
 | 109 | [TTSO.](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 |
-| 110 | [Sticks and Stones \(ft\. Strandz & Kojey Radical\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Sticks and Stones \(ft\. Strandz & Kojey Radical\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
+| 110 | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
 | 111 | [Ihmeen pää](https://open.spotify.com/track/0eYbfN2ktdBTLGyLFqkWrB) | [Josén Pimeä Puoli](https://open.spotify.com/artist/0lgBoewZAmVb5NInEJ5b0n) | [Ohikulkija](https://open.spotify.com/album/2pC1pQLiJ71YhUznB0JxCy) | 3:48 |
 | 112 | [Safe](https://open.spotify.com/track/1a0AIAK11kXO3pLeBMl0nY) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Safe](https://open.spotify.com/album/4WaPtei4DNIgFkogSFPZ2v) | 3:15 |
 | 113 | [All My Life](https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [All My Life](https://open.spotify.com/album/6S8FOZlN0W1vWkgpBVXQdE) | 3:25 |

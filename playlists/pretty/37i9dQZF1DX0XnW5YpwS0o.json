@@ -1,6 +1,6 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 100607,
+  "num_followers": 100688,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 374653,
       "name": "Drunk Drivers/Killer Whales",
       "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
     },
     {
       "added_at": "2024-03-18 13:26:28",

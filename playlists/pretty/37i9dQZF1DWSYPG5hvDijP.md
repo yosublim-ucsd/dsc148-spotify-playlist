@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: FEROZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,300 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,322 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 19 | [5 Fingers of Death](https://open.spotify.com/track/67yUyKp6vDJrkbc4JU919E) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4 \- Episode 4](https://open.spotify.com/album/6Ca8GySrTKQk9epxxepkzx) | 4:20 |
 | 20 | [ME AND MY BROSKI](https://open.spotify.com/track/73c2jXpV3SbJCwn2MUxkFf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Hard Drive, Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 5:05 |
 | 21 | [Self Reflection](https://open.spotify.com/track/2xR8CLd8OnJvyN4wDrtL4P) | [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP) | [Self Reflection](https://open.spotify.com/album/0duxgDFmhVCuSLyj60XVnI) | 3:12 |
-| 22 | [Panic Attack](https://open.spotify.com/track/1RywGTVg772xlFjtIespBx) | [UZII](https://open.spotify.com/artist/67xKuiNrRl0tPOuXmgD4Jn), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Humble Poet 2.0](https://open.spotify.com/album/79mK0vAStt7AXaAJ879O47) | 2:40 |
+| 22 | [Panic Attack](https://open.spotify.com/track/1RywGTVg772xlFjtIespBx) | [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Humble Poet 2.0](https://open.spotify.com/album/79mK0vAStt7AXaAJ879O47) | 2:40 |
 | 23 | [Aja Laut Ke](https://open.spotify.com/track/2Ok7pIzsSWu4wmp7tfENcN) | [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Ricky on the Beat](https://open.spotify.com/artist/2bThg4vu5CITycJjAaAADK) | [Aja Laut Ke](https://open.spotify.com/album/5xC0K3OKHg81dhCZNCKCNQ) | 3:00 |
 | 24 | [Akhra](https://open.spotify.com/track/73QgPWCI16mwBaHSkEUTLv) | [Raajmusic](https://open.spotify.com/artist/0pH95ANpXdAB7O0TzW6UX9), [Sahil Surin](https://open.spotify.com/artist/5CxJFnzCH2qcId6WOlyKr7) | [Akhra](https://open.spotify.com/album/6zOSimmEneemtJPAaYmIhX) | 2:43 |
 | 25 | [Aaja Aaja](https://open.spotify.com/track/0feFfEEL7u8C9bLhF2pdu7) | [UKN](https://open.spotify.com/artist/1GrgvySkLXB0i9V062hjaB) | [Aaja Aaja](https://open.spotify.com/album/27VQ3g06b9q7THTz9kTY4P) | 2:54 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 36 | [Kill Switch \- Red Bull 64 Bars](https://open.spotify.com/track/3usJRla4JZx3Rz3EcNxejQ) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kill Switch \(Red Bull 64 Bars\)](https://open.spotify.com/album/3F8OrOkV7hYTj95UkCGurw) | 3:03 |
 | 37 | [Big Burrah](https://open.spotify.com/track/39smImvUMvCpPqGY7WntwC) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [HOTWIRE](https://open.spotify.com/album/2WkKWOqGDHOqlVwrXJusxn) | 2:32 |
 | 38 | [Chingari](https://open.spotify.com/track/759fUCN0mrdZu2ZcvrR0OW) | [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Chingari](https://open.spotify.com/album/6g0WqTmu6hNH6rMGi0iVVh) | 2:08 |
-| 39 | [Time Travel](https://open.spotify.com/track/7FNXfLRjO0m4lhKjIc3bZX) | [UZII](https://open.spotify.com/artist/67xKuiNrRl0tPOuXmgD4Jn), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Humble Poet 2.0](https://open.spotify.com/album/79mK0vAStt7AXaAJ879O47) | 3:20 |
+| 39 | [Time Travel](https://open.spotify.com/track/7FNXfLRjO0m4lhKjIc3bZX) | [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Humble Poet 2.0](https://open.spotify.com/album/79mK0vAStt7AXaAJ879O47) | 3:20 |
 | 40 | [The Man](https://open.spotify.com/track/3K0egsuQ6XWbF7FFB4wwJ9) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [WARTIME](https://open.spotify.com/album/4gsRmTAbP7Sj6pvnNDS7gW) | 2:40 |
 | 41 | [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 |
 | 42 | [Pricey](https://open.spotify.com/track/4EFrlWcIv3A11nrtWK3dcx) | [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs), [Preezol Nepali](https://open.spotify.com/artist/6rpRkfcT5gYlB0HaniKGvb) | [Pricey](https://open.spotify.com/album/5fmWJjgMVgKkus6xuINwtj) | 2:38 |

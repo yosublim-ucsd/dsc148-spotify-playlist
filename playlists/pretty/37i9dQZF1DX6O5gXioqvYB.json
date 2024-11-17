@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: SELMI",
-  "num_followers": 33711,
+  "num_followers": 33713,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "Come mare",
+        "url": "https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5"
+      },
+      "artists": [
+        {
+          "name": "NICOL",
+          "url": "https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg"
+        }
+      ],
+      "duration_ms": 173545,
+      "name": "Come mare",
+      "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "PARTITA A SCACCHI",
         "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 188933,
       "name": "PARTITA A SCACCHI",
       "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "Pasquale (guarda i cantieri)",
-        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
-      },
-      "artists": [
-        {
-          "name": "Primogenito",
-          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Pasquale (guarda i cantieri)",
-      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Come mare",
-        "url": "https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5"
+        "name": "Pasquale (guarda i cantieri)",
+        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
       "artists": [
         {
-          "name": "NICOL",
-          "url": "https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg"
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
         }
       ],
-      "duration_ms": 173545,
-      "name": "Come mare",
-      "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
+      "duration_ms": 154200,
+      "name": "Pasquale (guarda i cantieri)",
+      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "tutte le tue onde",
-        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
-        }
-      ],
-      "duration_ms": 144970,
-      "name": "tutte le tue onde",
-      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Perdo Il Tuo Amore",
         "url": "https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 154552,
       "name": "Come Stai?",
       "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "tutte le tue onde",
+        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
+        }
+      ],
+      "duration_ms": 144970,
+      "name": "tutte le tue onde",
+      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "206",
-        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
-      },
-      "artists": [
-        {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
-        }
-      ],
-      "duration_ms": 170323,
-      "name": "206",
-      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": ") ) ) echo ( ( ( (",
         "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 127049,
       "name": "( ARIA )",
       "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "206",
+        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "duration_ms": 170323,
+      "name": "206",
+      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Cosa Non Va?",
-        "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
-      },
-      "artists": [
-        {
-          "name": "CORSO ITALIA",
-          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
-        }
-      ],
-      "duration_ms": 184836,
-      "name": "Cosa Non Va?",
-      "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
         "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 151636,
       "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
       "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Cosa Non Va?",
+        "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
+      },
+      "artists": [
+        {
+          "name": "CORSO ITALIA",
+          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
+        }
+      ],
+      "duration_ms": 184836,
+      "name": "Cosa Non Va?",
+      "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v"
+      },
+      "artists": [
+        {
+          "name": "Mediterraneo",
+          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "Quel che eravamo",
         "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 177320,
       "name": "Quel che eravamo",
       "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "Portami via",
-        "url": "https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt"
-      },
-      "artists": [
-        {
-          "name": "Lucrezia",
-          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Portami via",
-      "url": "https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v"
+        "name": "Portami via",
+        "url": "https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt"
       },
       "artists": [
         {
-          "name": "Mediterraneo",
-          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
+          "name": "Lucrezia",
+          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
         }
       ],
-      "duration_ms": 179104,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW"
+      "duration_ms": 175426,
+      "name": "Portami via",
+      "url": "https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Sette di Cuori",
-        "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
-      },
-      "artists": [
-        {
-          "name": "CACTUS",
-          "url": "https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Siviglia",
-      "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "i miei fiumi",
         "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 184534,
       "name": "i miei fiumi",
       "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Sette di Cuori",
+        "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
+      },
+      "artists": [
+        {
+          "name": "CACTUS",
+          "url": "https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Siviglia",
+      "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "ALICE+",
-        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
+        "name": "Preda",
+        "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
       },
       "artists": [
         {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
         }
       ],
-      "duration_ms": 122666,
-      "name": "ALICE+",
-      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
+      "duration_ms": 156666,
+      "name": "Preda",
+      "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Preda",
-        "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
+        "name": "ALICE+",
+        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
       },
       "artists": [
         {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Preda",
-      "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
+      "duration_ms": 122666,
+      "name": "ALICE+",
+      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Sale",
-        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
-      },
-      "artists": [
-        {
-          "name": "r\u00f6a",
-          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sale",
-      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Se crolla il mondo poi ti salvo io",
         "url": "https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma"
       },
@@ -1143,18 +1127,34 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "se io morissi per stanotte?",
-        "url": "https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf"
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
       },
       "artists": [
         {
-          "name": "Dae",
-          "url": "https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ"
+          "name": "r\u00f6a",
+          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
         }
       ],
-      "duration_ms": 161310,
-      "name": "se io morissi per stanotte?",
-      "url": "https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o"
+      "duration_ms": 148000,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Canterino",
+        "url": "https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk"
+      },
+      "artists": [
+        {
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "Canterino",
+      "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
     }
   ],
   "unique_name": "Scuola Indie",

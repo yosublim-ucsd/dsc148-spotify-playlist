@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 93046,
+  "num_followers": 93138,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "rem junction",
-        "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
-      },
-      "artists": [
-        {
-          "name": "Papi Pier",
-          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
-        }
-      ],
-      "duration_ms": 123469,
-      "name": "rem junction",
-      "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "shelter",
         "url": "https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 125500,
       "name": "shelter",
       "url": "https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "rem junction",
+        "url": "https://open.spotify.com/album/4shkxp3tX0u92EFMnjDGpp"
+      },
+      "artists": [
+        {
+          "name": "Papi Pier",
+          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
+        }
+      ],
+      "duration_ms": 123469,
+      "name": "rem junction",
+      "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "LEVITATE",
-        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
-      },
-      "artists": [
-        {
-          "name": "Mel Atonin",
-          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "LEVITATE",
-      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/1mYw4GjZIdZMsguUOHn5tW"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Soul of Serenity",
-        "url": "https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT"
+        "name": "LEVITATE",
+        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
       },
       "artists": [
         {
-          "name": "Fya Playce",
-          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+          "name": "Mel Atonin",
+          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Soul of Serenity",
-      "url": "https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG"
+      "duration_ms": 139591,
+      "name": "LEVITATE",
+      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 143229,
       "name": "Napsters",
       "url": "https://open.spotify.com/track/6ky8uamfmfVrsmJqjnKFyF"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Soul of Serenity",
+        "url": "https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Soul of Serenity",
+      "url": "https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "typewriter",
+        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
+      },
+      "artists": [
+        {
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "typewriter",
+      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "after dark",
         "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 141886,
       "name": "after dark",
       "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "typewriter",
-        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
-      },
-      "artists": [
-        {
-          "name": "shawn pink",
-          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "typewriter",
-      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "melatones",
-        "url": "https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp"
-      },
-      "artists": [
-        {
-          "name": "Meliona",
-          "url": "https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle"
-        }
-      ],
-      "duration_ms": 144520,
-      "name": "melatones",
-      "url": "https://open.spotify.com/track/4uwvtcINcCtyQTDvBIUDzk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Intersections",
         "url": "https://open.spotify.com/album/5iLI3eUZ57osvD1pdjEL5w"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 131400,
       "name": "Intersections",
       "url": "https://open.spotify.com/track/51NtpncCFm7jTLxIcGpHgR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "melatones",
+        "url": "https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp"
+      },
+      "artists": [
+        {
+          "name": "Meliona",
+          "url": "https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle"
+        }
+      ],
+      "duration_ms": 144520,
+      "name": "melatones",
+      "url": "https://open.spotify.com/track/4uwvtcINcCtyQTDvBIUDzk"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "settling in",
-        "url": "https://open.spotify.com/album/6lUBBLyl2Hi1dXuuEqzTWH"
-      },
-      "artists": [
-        {
-          "name": "nora haze",
-          "url": "https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es"
-        }
-      ],
-      "duration_ms": 145203,
-      "name": "settling in",
-      "url": "https://open.spotify.com/track/14gPU8EWhOfT1QHweRwCvY"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "slow move",
         "url": "https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 142081,
       "name": "slow move",
       "url": "https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "settling in",
+        "url": "https://open.spotify.com/album/6lUBBLyl2Hi1dXuuEqzTWH"
+      },
+      "artists": [
+        {
+          "name": "nora haze",
+          "url": "https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es"
+        }
+      ],
+      "duration_ms": 145203,
+      "name": "settling in",
+      "url": "https://open.spotify.com/track/14gPU8EWhOfT1QHweRwCvY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/5IRa5BvZPCPnWwjzj3KfOe"
-      },
-      "artists": [
-        {
-          "name": "SLOWIFI",
-          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
-        }
-      ],
-      "duration_ms": 158719,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2udu8PBjGpmWh8iHYcKYQh"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "green velvet",
         "url": "https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 131625,
       "name": "green velvet",
       "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/5IRa5BvZPCPnWwjzj3KfOe"
+      },
+      "artists": [
+        {
+          "name": "SLOWIFI",
+          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
+        }
+      ],
+      "duration_ms": 158719,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2udu8PBjGpmWh8iHYcKYQh"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "fluffy",
-        "url": "https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50"
-      },
-      "artists": [
-        {
-          "name": "shawn pink",
-          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
-        }
-      ],
-      "duration_ms": 125805,
-      "name": "fluffy",
-      "url": "https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The City Weeps",
         "url": "https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 139502,
       "name": "The City Weeps",
       "url": "https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "fluffy",
+        "url": "https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50"
+      },
+      "artists": [
+        {
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
+        }
+      ],
+      "duration_ms": 125805,
+      "name": "fluffy",
+      "url": "https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "cloudy dreams & husky sun",
-        "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
-      },
-      "artists": [
-        {
-          "name": "yoshi the brilliant",
-          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "cloudy dreams",
-      "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Cortana's Nap",
         "url": "https://open.spotify.com/album/4Mgc8gBn6jiU5TLR6V7ztl"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 181640,
       "name": "Cortana's Nap",
       "url": "https://open.spotify.com/track/1UwTK3zUw4sKSZjRtwwLEz"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "cloudy dreams & husky sun",
+        "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
+      },
+      "artists": [
+        {
+          "name": "yoshi the brilliant",
+          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "cloudy dreams",
+      "url": "https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Sleep Under My Eyes",
+        "url": "https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "duration_ms": 138275,
+      "name": "Sleep Under My Eyes",
+      "url": "https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "under water",
         "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sleep Under My Eyes",
-        "url": "https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 138275,
-      "name": "Sleep Under My Eyes",
-      "url": "https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "butter",
-        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
-      },
-      "artists": [
-        {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
-        }
-      ],
-      "duration_ms": 138904,
-      "name": "butter",
-      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "calm the mind",
         "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 142791,
       "name": "calm the mind",
       "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "butter",
+        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "duration_ms": 138904,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
     },
     {
       "added_at": "2024-08-23 04:00:00",

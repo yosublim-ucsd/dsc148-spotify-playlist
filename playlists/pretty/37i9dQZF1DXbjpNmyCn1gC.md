@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,546 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,680 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 25 | [カラノココロ](https://open.spotify.com/track/2syPbR6XTK1ZUGYlLJCGT5) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [anly one](https://open.spotify.com/album/3DSSM8uCxwXdoqt5xcKFId) | 4:24 |
 | 26 | [透明だった世界](https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 3:52 |
 | 27 | [ビバ★ロック \~japanese side\~](https://open.spotify.com/track/1mYNlXFX7lLH69B11yNPZv) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [ビバ★ロック](https://open.spotify.com/album/2agPtSGmUaEF1Xk0TPMiHI) | 3:31 |
-| 28 | [美しき碧い野獣](https://open.spotify.com/track/5zHi6caMFuPsiarfo7PQNG) | [Toshio Masuda](https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw) | [NARUTO \-ナルト\- オリジナルサウンドトラック Ⅲ](https://open.spotify.com/album/1HObVU42QE1DcypM59MBFS) | 2:00 |
+| 28 | [美しき碧い野獣](https://open.spotify.com/track/5zHi6caMFuPsiarfo7PQNG) | [Toshio Masuda](https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw) | [NARUTO \-ナルト\-　オリジナルサウンドトラック Ⅲ](https://open.spotify.com/album/1HObVU42QE1DcypM59MBFS) | 2:00 |
 | 29 | [黒点](https://open.spotify.com/track/7mf6IzeXWHVkoczzu08Y6p) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 2:16 |
 | 30 | [Spin and Burst](https://open.spotify.com/track/1N39dPzIxDWzscoYwz8GWp) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-NARUTO THE MOVIE\- Original Soundtrack](https://open.spotify.com/album/2RhtwZGwEbxSOufZHWIlW2) | 2:51 |
 | 31 | [ユラユラ](https://open.spotify.com/track/2YdnF9mlB3XzToVfK4XFQz) | [HEARTS GROW](https://open.spotify.com/artist/0wyrrBOwzEYNIMp74rlAxw) | [ユラユラ](https://open.spotify.com/album/7jKn79HtGyKd1XWrDBVcE0) | 4:59 |

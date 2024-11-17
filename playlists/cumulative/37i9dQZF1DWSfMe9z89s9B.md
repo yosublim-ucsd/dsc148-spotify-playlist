@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Chase Shakur
 
-1,334 songs - 2 day 22 hr 20 min
+1,335 songs - 2 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-27 |
 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 | 2023-12-09 |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 | 2024-04-28 |
-| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 |  |
+| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 | 2024-11-17 |
 | [Confused](https://open.spotify.com/track/7ocp0iNDImb4PzHnjYTQi0) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Confused](https://open.spotify.com/album/5BRM2xQqW2bTL6qZR6qF7Q) | 2:06 | 2022-04-01 | 2022-04-05 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-20 | 2023-02-11 |
 | [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 | 2024-04-20 |
@@ -954,6 +954,7 @@
 | [Right Track \(feat\. Smino\)](https://open.spotify.com/track/439zbDDCpOPntEFlZFHKbY) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Right Track \(feat\. Smino\)](https://open.spotify.com/album/085JymZoUxeCSJlOYqLd5u) | 2:38 | 2021-09-10 | 2022-07-16 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-01 | 2022-05-14 |
 | [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 | 2022-09-30 | 2023-09-02 |
+| [Rockstar Baby](https://open.spotify.com/track/2TZyB1YQ6Fca7pCcsWQMGm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rockstar Baby](https://open.spotify.com/album/3SQ5qsIykXysL3Mf8HoQHn) | 3:27 | 2024-11-15 |  |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2022-11-18 | 2023-12-09 |
 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 | 2022-09-30 | 2023-07-08 |
 | [Rolling Stone](https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:23 | 2024-10-26 |  |

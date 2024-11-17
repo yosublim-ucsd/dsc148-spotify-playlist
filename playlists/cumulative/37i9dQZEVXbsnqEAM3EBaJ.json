@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 212025,
       "name": "Amor Descartable (En Vivo Bs.As.2024)",
       "url": "https://open.spotify.com/track/6omElAJj6KZgZrxILBZgK0"
@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 342229,
       "name": "Careless Whisper - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/7BSyOLBcFhI6kD6ADNnxtr"
@@ -8118,7 +8118,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 130000,
       "name": "Disembark at Your Peril",
       "url": "https://open.spotify.com/track/0cZLRfI3N3dqBpwiCCTetw"
@@ -9153,6 +9153,28 @@
     },
     {
       "album": {
+        "name": "Echo rustique",
+        "url": "https://open.spotify.com/album/1V0FG0athCY8lcZ6Im5xpi"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "BerceMuse",
+          "url": "https://open.spotify.com/artist/7I2RiyzBQkqPKRBSo7t6H5"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128880,
+      "name": "Echo rustique, Op. 72: No.13",
+      "url": "https://open.spotify.com/track/7iBepL7rwQ5yVdtDWWf6Js"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/2WgxP9eeZLCyd4SPIntmOH"
       },
@@ -9646,7 +9668,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 324180,
       "name": "Eleg\u00eda Para Una Muchacha Roja",
       "url": "https://open.spotify.com/track/6I6hnYWEBtABe2PqwNs6UU"
@@ -11978,7 +12000,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 254742,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi"
@@ -13056,7 +13078,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 285472,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
@@ -17034,7 +17056,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 387833,
       "name": "It Makes No Difference - Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023",
       "url": "https://open.spotify.com/track/3gijvmsddBYUiTrxdvMoF1"
@@ -20390,6 +20412,28 @@
       "duration_ms": 460573,
       "name": "Love To Love - 2024 Remaster",
       "url": "https://open.spotify.com/track/24PTESdfQkBEtfPLQjEt5o"
+    },
+    {
+      "album": {
+        "name": "Bad Sisters (Season 2) [Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        },
+        {
+          "name": "Tim Phillips",
+          "url": "https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181146,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/3FYnFqxfRBeAHdBRExnaUZ"
     },
     {
       "album": {
@@ -26588,7 +26632,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 102796,
       "name": "Rain-Kissed Raindrop Pearls",
       "url": "https://open.spotify.com/track/7ErUh24DNmMhd3jGuHB3Kj"
@@ -28036,7 +28080,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 222000,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/51BPUCS5GwKMOf6riOgBfO"
@@ -29696,7 +29740,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 236986,
       "name": "Sleep Now In the Fire - Live at 2000 Democratic National Convention",
       "url": "https://open.spotify.com/track/2d99olpB7A6w0Z0iAPy5eG"
@@ -29820,7 +29864,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 179047,
       "name": "Snus - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
@@ -29994,7 +30038,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 187973,
       "name": "Solo",
       "url": "https://open.spotify.com/track/687esSRIlcOYM5TwgbQYdf"
@@ -31468,7 +31512,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 139045,
       "name": "Swan Lake Act II 10 Scene - LoFi Version",
       "url": "https://open.spotify.com/track/2JFDreFLDf3c7HGd6y2EEh"
@@ -34815,6 +34859,28 @@
     },
     {
       "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/1RuNMWvDxQVNIhVcLux7oE"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110571,
+      "name": "THIS ISN'T ABOUT DRUGS (I SWEAR) (feat. From First to Last)",
+      "url": "https://open.spotify.com/track/3etCTJjUyaVrPP2XKUloYA"
+    },
+    {
+      "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
       },
@@ -38142,7 +38208,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 222000,
       "name": "Where Do We Go From Here? - Fairlane Remix",
       "url": "https://open.spotify.com/track/4VbnOwZ0CcBeDpr8t9dH54"
@@ -38390,7 +38456,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 200852,
       "name": "Wild World (Venom: The Last Dance)",
       "url": "https://open.spotify.com/track/2oYex4XLPn5NZ1uJJI4Kr1"
@@ -39164,7 +39230,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 259933,
       "name": "YOU GOTTA RUN",
       "url": "https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU"

@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208809,
+      "name": "Hillbilly Deluxe (with HARDY)",
+      "url": "https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC"
+    },
+    {
+      "album": {
         "name": "Hometown Boys (feat. Matt Stell, Dierks Bentley & HARDY)",
         "url": "https://open.spotify.com/album/1bbxGXkTZgxCwF2ApqpuwP"
       },
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 171626,
       "name": "Some Things Never Change (feat. HARDY)",
       "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"

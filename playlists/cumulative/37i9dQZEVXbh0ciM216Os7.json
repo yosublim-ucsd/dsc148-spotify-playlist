@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 171026,
       "name": "Aguas da Amazonia: Negro River",
       "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
@@ -13922,7 +13922,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 172800,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
@@ -15474,7 +15474,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 80136,
       "name": "Helen's Theme - Electric Guitar Version",
       "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
@@ -17298,7 +17298,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 204733,
       "name": "If You Can Count",
       "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
@@ -30017,6 +30017,32 @@
     },
     {
       "album": {
+        "name": "The Year of The Dragon",
+        "url": "https://open.spotify.com/album/71WWahpbR9ub5AhPqAKdK5"
+      },
+      "artists": [
+        {
+          "name": "Juke Drastik",
+          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
+        },
+        {
+          "name": "Gov L",
+          "url": "https://open.spotify.com/artist/0V61dEoNornkE9XVetikt9"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Rock Star Shit",
+      "url": "https://open.spotify.com/track/01zfu75kGdH1UF6zg1yF1G"
+    },
+    {
+      "album": {
         "name": "Rock Stars",
         "url": "https://open.spotify.com/album/30wqi2wghld9Iwrb7dLFhr"
       },
@@ -34192,7 +34218,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
@@ -35108,7 +35134,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 207261,
       "name": "Television of Memories",
       "url": "https://open.spotify.com/track/1jVFm68uQxsE6kUl9MlTec"
@@ -36638,7 +36664,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 156553,
       "name": "THE RHYTHM",
       "url": "https://open.spotify.com/track/6dNsYZysUU6KhKONae4SNc"
@@ -39044,6 +39070,28 @@
       "duration_ms": 175604,
       "name": "Verbal Swords",
       "url": "https://open.spotify.com/track/3izcPGbMdTZwhvv1l3Zwla"
+    },
+    {
+      "album": {
+        "name": "The Year of The Dragon",
+        "url": "https://open.spotify.com/album/71WWahpbR9ub5AhPqAKdK5"
+      },
+      "artists": [
+        {
+          "name": "Juke Drastik",
+          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175604,
+      "name": "Verbal Swords - Remix",
+      "url": "https://open.spotify.com/track/3KMSmRCxSCXolzrFg9URz5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36807,
+  "num_followers": 36809,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 167701,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 167701,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 187854,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Rollen in den Norden",
         "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 150648,
       "name": "Rollen in den Norden",
       "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 187854,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -503,38 +503,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 152816,
       "name": "Ready For It All",
       "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -591,6 +575,22 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        },
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 177317,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Milchstrass (feat. Aaron Asteria)",
         "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
@@ -843,18 +823,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        },
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+      "duration_ms": 177317,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -875,22 +859,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Ehrlich",
-        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
-      },
-      "artists": [
-        {
-          "name": "Baschi",
-          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
-        }
-      ],
-      "duration_ms": 230310,
-      "name": "Ehrlich",
-      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Coastline",
         "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
@@ -907,6 +875,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Ehrlich",
+        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+      },
+      "artists": [
+        {
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Ehrlich",
+      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Julia?",
         "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 224464,
       "name": "Julia?",
       "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 165946,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -991,22 +975,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Losing Grip",
-        "url": "https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Losing Grip",
-      "url": "https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 214340,
       "name": "Fomo",
       "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 165946,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Losing Grip",
+        "url": "https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Losing Grip",
+      "url": "https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 182408,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Long Year",
         "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
       },
       "artists": [
         {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
+      "duration_ms": 182408,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "POWERTRIP!",
-        "url": "https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf"
+        "name": "Old Again",
+        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
       },
       "artists": [
         {
-          "name": "Skyler Wind",
-          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 172180,
-      "name": "POWERTRIP!",
-      "url": "https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI"
+      "duration_ms": 197458,
+      "name": "Old Again",
+      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Old Again",
-        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
+        "name": "POWERTRIP!",
+        "url": "https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Skyler Wind",
+          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
         }
       ],
-      "duration_ms": 197458,
-      "name": "Old Again",
-      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
+      "duration_ms": 172180,
+      "name": "POWERTRIP!",
+      "url": "https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
     }
   ],
   "unique_name": "Swiss Made",

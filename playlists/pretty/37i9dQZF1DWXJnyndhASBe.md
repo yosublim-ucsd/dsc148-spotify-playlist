@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: White 2115, Bedoes 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,761 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,869 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 22 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
 | 23 | [Ona Mówi](https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Ona Mówi](https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU) | 2:32 |
 | 24 | [Hey Mercedes](https://open.spotify.com/track/5OV3tWNDXgJ4H9iMTYHhoF) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy) | [Hey Mercedes](https://open.spotify.com/album/0iOsoQK0f7wQG40mPTpDn0) | 2:38 |
-| 25 | [gdy za oknem](https://open.spotify.com/track/3HxvqQG9jkAxBJLXurpZW0) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD) | [autumn freestyle](https://open.spotify.com/album/0c6U5XSAKHw8erE0QuoYnP) | 2:58 |
+| 25 | [gdy za oknem](https://open.spotify.com/track/3HxvqQG9jkAxBJLXurpZW0) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [autumn freestyle](https://open.spotify.com/album/0c6U5XSAKHw8erE0QuoYnP) | 2:58 |
 | 26 | [911](https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [OG ENZO](https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi) | [911](https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio) | 2:29 |
 | 27 | [Kocie oczy](https://open.spotify.com/track/5elP52iIC8BW92SVbXQYYz) | [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [buffalo](https://open.spotify.com/artist/1bVkR5pJgnHF3XwmKbhv5v) | [Kocie oczy](https://open.spotify.com/album/0l6Lgu9yVhB7HjQLCj0mOX) | 2:21 |
 | 28 | [zostań, proszę](https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [zostań, proszę](https://open.spotify.com/album/4ZCCHJbKdusUv15RU5lJZH) | 2:44 |

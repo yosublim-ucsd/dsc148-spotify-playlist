@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Lost n' Found
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,838 likes - 55 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,837 likes - 55 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 4 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
 | 5 | [เปียก \(When it Rains\)](https://open.spotify.com/track/5xmwTim7B0P53CebEJsKze) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [เปียก \(When it Rains\)](https://open.spotify.com/album/4EaHgeUoO6Y5TwHrqjknlM) | 3:16 |
 | 6 | [Skuna](https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Skuna](https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg) | 3:47 |
-| 7 | [Dandiloin \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [Dandiloin \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T) | 3:41 |
+| 7 | [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T) | 3:41 |
 | 8 | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 |
 | 9 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
 | 10 | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/track/2uKpuyzGp90yYdSv7A1w2C) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat) | 3:40 |

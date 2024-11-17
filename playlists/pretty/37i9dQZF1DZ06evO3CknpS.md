@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 30 | [Opening remarks](https://open.spotify.com/track/4gcNQkAcGnyyFPLkMTYgln) | [Robert Sherman](https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 4:19 |
 | 31 | [Impromptu interview with Alexander Schneider](https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY) | [Bob Sherman](https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 4:11 |
 
-Snapshot ID: `ZzU9gAAAAAD6nh699glbS91sKp8Y4h9c`
+Snapshot ID: `ZzaPAAAAAADaZNHiRz4+Jmx/sRB4fMgu`

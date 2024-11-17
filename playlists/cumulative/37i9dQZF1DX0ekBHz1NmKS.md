@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,691 songs - 3 day 15 hr 48 min
+1,692 songs - 3 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1129,6 +1129,7 @@
 | [Pappa](https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Pappa](https://open.spotify.com/album/2JaHN74aTfEUdQblNKK6Ek) | 3:01 | 2024-03-02 | 2024-04-19 |
 | [Parasit](https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [Parasit](https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O) | 2:31 | 2024-08-29 | 2024-09-20 |
 | [Parking Lot Sunset](https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Travelling Forever](https://open.spotify.com/album/6O6FjErdZMrFL6bvd0Gfun) | 3:33 | 2024-04-11 | 2024-05-10 |
+| [Passivt aggressiv inkomst](https://open.spotify.com/track/4CikimfNXdaOfdZdeSUZEN) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf), [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Passivt aggressiv inkomst](https://open.spotify.com/album/11cpm6ipDpqikocjJcFYBf) | 2:39 | 2024-11-14 |  |
 | [Pathetic](https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Pathetic](https://open.spotify.com/album/2t0Nh8aldfMsfg4dEuYmxO) | 3:57 | 2022-04-01 | 2022-07-27 |
 | [Peace and Quiet](https://open.spotify.com/track/5PEGMGEcDvFM3dEZVIKw51) | [Flux Vortex](https://open.spotify.com/artist/1MNQjRAMxv130gsVbIbR0H) | [Peace and Quiet](https://open.spotify.com/album/5FQuCiGSXHB9TpVg9sgJSB) | 3:20 | 2024-10-24 | 2024-11-12 |
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
@@ -1172,7 +1173,7 @@
 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 | 2024-09-19 | 2024-10-11 |
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |
 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 | 2024-10-10 | 2024-11-12 |
-| [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-12 |  |
+| [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-12 | 2024-11-17 |
 | [Rasar](https://open.spotify.com/track/6XsbS58qJE2iJlSCFMiFME) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Rasar](https://open.spotify.com/album/57riTGSkCE0lFqZZigg96O) | 2:28 | 2024-05-09 | 2024-06-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |

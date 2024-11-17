@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 38 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 37 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 32 | [Do You Want Me To Go?](https://open.spotify.com/track/6vJ1DjEWXvZIGtXq6EeG3U) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Maude](https://open.spotify.com/artist/3V0aYZvJGDE2SZwNNv80Xa) | [Do You Want Me To Go?](https://open.spotify.com/album/2axMOrohY6LvYgXWINJwkv) | 2:20 |
 | 33 | [You Got Me](https://open.spotify.com/track/4nVayQ2bTwoQTTUEse49Pq) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Vergeet De Tijd](https://open.spotify.com/album/0f2JlVi8G2XI4hnSdVSrhk) | 3:07 |
 | 34 | [Always on the Run](https://open.spotify.com/track/4CTV9ktno6pAyLA56aG0NA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Luck Is for Suckers](https://open.spotify.com/album/4i1uCBh9i5Pfy6hDkvbHw1) | 3:45 |
-| 35 | [Take My Crown](https://open.spotify.com/track/7bp4ZpyUm8OigHpg6rhcB3) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Take My Crown](https://open.spotify.com/album/6bxGEJy8MRi3WcPhW4cwZf) | 2:12 |
-| 36 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 |
-| 37 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
-| 38 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
+| 35 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 |
+| 36 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
+| 37 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AbhmngAAAADCX98p4okoJldCHZOv4eHE`
+Snapshot ID: `AbhsPgAAAAB343S04faYRajk6qOHkGwF`

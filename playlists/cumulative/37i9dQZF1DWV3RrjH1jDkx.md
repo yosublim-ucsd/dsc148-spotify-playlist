@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-3,137 songs - 6 day 18 hr 52 min
+3,138 songs - 6 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2226,6 +2226,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-16 | 2024-05-24 |
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 | 2024-06-27 | 2024-07-05 |
 | [Reasons to Stay Indoors](https://open.spotify.com/track/2sJqnIHq08EeYaLfGedW31) | [Savoy](https://open.spotify.com/artist/3FArpx6nrs2yRh4gc74BLK) | [Reasons to Stay Indoors](https://open.spotify.com/album/2abCRQSTQ7vSamGD7C0Puh) | 5:29 | 2024-11-07 | 2024-11-15 |
+| [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5tKj53xg4V0pRkWCpFk2J7) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 2:51 | 2024-11-14 |  |
 | [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 | 2024-10-24 | 2024-11-01 |
 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-22 | 2024-08-30 |
 | [RECIPE FOR LOVE \(feat\. Future\)](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 | 2024-07-11 | 2024-07-19 |

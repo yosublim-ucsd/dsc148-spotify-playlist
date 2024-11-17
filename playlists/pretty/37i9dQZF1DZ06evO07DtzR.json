@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40304,
+  "num_followers": 40301,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAABmqioX6gA0cT42kNFobqqS",
+  "snapshot_id": "ZzaPAAAAAAA3v4HXlk0oI/0ZpseFPaSB",
   "tracks": [
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 431186,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
-      "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
+      "duration_ms": 95506,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c(TV Edit)-Instrumental-",
+      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 95506,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c(TV Edit)-Instrumental-",
-      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
+      "duration_ms": 431186,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
+      "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
     }
   ],
   "unique_name": "This Is EGOIST",

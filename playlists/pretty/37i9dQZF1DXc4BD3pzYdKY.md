@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:7r3HxO330lmabOprT2MMFK">Aklesso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,939 likes - 89 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,025 likes - 89 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 33 | [Stand On It](https://open.spotify.com/track/1emZYIpWUtTuhSjWPWYFiA) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [Stand On It](https://open.spotify.com/album/6XvlGJ6MkSqCur8IRVJmLj) | 2:36 |
 | 34 | [The Caterpillar](https://open.spotify.com/track/6XQ4Fn1nQdJlncoNe1CFOu) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [The Caterpillar](https://open.spotify.com/album/1oSLnLHtf1IeXebeaMggnm) | 2:34 |
 | 35 | [I Love It \(Remix\)](https://open.spotify.com/track/4uItU1qpsYuWkWKPsHBHX4) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [I Love It \(Remix\)](https://open.spotify.com/album/7kN2C7LKgWUav9K1OlLzR5) | 2:42 |
-| 36 | [Never Let Me Go \- Remix](https://open.spotify.com/track/7HAJYX1RMpI6el8FYzLd6S) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Carvello](https://open.spotify.com/artist/66dfL5D3arH0Tbgrle3Yfx), [Ace Harris](https://open.spotify.com/artist/4gfEAoOxuk8k9LF86gRdiG) | [Never Let Me Go \(Remix\)](https://open.spotify.com/album/0Me8lfJ8uai4eUVSxvZZz7) | 2:00 |
+| 36 | [Never Let Me Go \- Remix](https://open.spotify.com/track/7HAJYX1RMpI6el8FYzLd6S) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Never Let Me Go \(Remix\)](https://open.spotify.com/album/0Me8lfJ8uai4eUVSxvZZz7) | 2:00 |
 | 37 | [Worship Forreal](https://open.spotify.com/track/32GiKCXdkBsBLWON3pkYUw) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Worship Forreal](https://open.spotify.com/album/0S9Sll9VC2QDlYDiOdqQmA) | 3:01 |
 | 38 | [Theme Music](https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Theme Music](https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr) | 3:07 |
 | 39 | [BE](https://open.spotify.com/track/6g0GJJrBJeLlgKfq940wct) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [BE](https://open.spotify.com/album/3ODN0cjDIX8f7a9wdUETs1) | 4:19 |

@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Pude",
+        "url": "https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210413,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ"
       },

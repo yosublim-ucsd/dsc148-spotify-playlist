@@ -11815,6 +11815,28 @@
     },
     {
       "album": {
+        "name": "Obey",
+        "url": "https://open.spotify.com/album/4w6LmidRk4Joz88AojOfBb"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Obey",
+      "url": "https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn"
+    },
+    {
+      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
       },
@@ -12916,7 +12938,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 220153,
       "name": "PRETTY LITTLE WAIST",
       "url": "https://open.spotify.com/track/6hDmlzoJt6MtkjVsZMdIoI"
@@ -15938,7 +15960,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 151426,
       "name": "Tell Us How It Ends",
       "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
@@ -18440,6 +18462,24 @@
       "duration_ms": 226874,
       "name": "virus",
       "url": "https://open.spotify.com/track/56cIg3GhiWW5OLp87pQ8MA"
+    },
+    {
+      "album": {
+        "name": "Negative Spaces",
+        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200032,
+      "name": "vital",
+      "url": "https://open.spotify.com/track/4S92Ilu72gVBD66kwsRWOc"
     },
     {
       "album": {

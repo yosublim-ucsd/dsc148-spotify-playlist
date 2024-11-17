@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Tomás Ballardo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,163 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,237 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 95 | [Los Dos de Guerrero](https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Los Dos de Guerrero](https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS) | 3:27 |
 | 96 | [R1](https://open.spotify.com/track/6wWU9kWh5wKjQv5QVuPyFn) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 1:56 |
 | 97 | [El Guero Reyna](https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Al Gusto de Uno](https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg) | 2:54 |
-| 98 | [Buenas Vibras](https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Buenas Vibras](https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco) | 2:09 |
-| 99 | [Serafín y El Chavo Felix](https://open.spotify.com/track/0qqVhAPZWgZFTV7R8j5bEs) | [Grupo Renuente](https://open.spotify.com/artist/5XeyfGFfJRKI2nCtxjlZTE), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Serafín y El Chavo Felix](https://open.spotify.com/album/4A89Ienoqc2JWpvtzPsuRQ) | 2:41 |
+| 98 | [Serafín y El Chavo Felix](https://open.spotify.com/track/0qqVhAPZWgZFTV7R8j5bEs) | [Grupo Renuente](https://open.spotify.com/artist/5XeyfGFfJRKI2nCtxjlZTE), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Serafín y El Chavo Felix](https://open.spotify.com/album/4A89Ienoqc2JWpvtzPsuRQ) | 2:41 |
+| 99 | [Buenas Vibras](https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Buenas Vibras](https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco) | 2:09 |
 | 100 | [Bienvenidos a Guasave](https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [B.M.T](https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF) | 3:08 |
 
 Snapshot ID: `ZzehTgAAAAB9kcecBlQJ+kU9XmwwdTX7`

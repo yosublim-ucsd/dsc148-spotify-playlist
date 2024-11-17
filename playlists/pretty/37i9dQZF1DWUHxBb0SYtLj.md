@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Fiorella Mannoia
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,681 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,683 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DISOBBEDIRE](https://open.spotify.com/track/4MJRIuZ3e4JS7iX8I0w9CO) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [DISOBBEDIRE](https://open.spotify.com/album/6MTA8arkkHtoXTvjPAsh9j) | 3:27 |
+| 1 | [Disobbedire](https://open.spotify.com/track/4MJRIuZ3e4JS7iX8I0w9CO) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Disobbedire](https://open.spotify.com/album/6MTA8arkkHtoXTvjPAsh9j) | 3:27 |
 | 2 | [Si mette male](https://open.spotify.com/track/4d2C04FQ4e4RexeNFiQfnV) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Si mette male](https://open.spotify.com/album/7D6U1pD4YKzbP8s1vr9xeP) | 3:13 |
 | 3 | [BUTTALO VIA](https://open.spotify.com/track/1HpBoY16BEoyLpitEG9kTC) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [BUTTALO VIA](https://open.spotify.com/album/27V0r3kcxje96sG3e8cJab) | 4:05 |
 | 4 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 |

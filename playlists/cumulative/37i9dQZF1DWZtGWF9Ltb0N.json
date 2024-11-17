@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 196905,
       "name": "Break Slow Fast",
       "url": "https://open.spotify.com/track/5hmGd8oiC1B8wNoT9sIEU2"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 156163,
       "name": "Bright Shadows",
       "url": "https://open.spotify.com/track/3QJEatxNmx1QvARdoqvEzx"
@@ -1454,6 +1454,28 @@
       "duration_ms": 356571,
       "name": "Broken Chime",
       "url": "https://open.spotify.com/track/5NlGgnEhGpYorTmLOVvPu4"
+    },
+    {
+      "album": {
+        "name": "Broken Structures",
+        "url": "https://open.spotify.com/album/7rpVTKEqljxlNekBLs97zb"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        },
+        {
+          "name": "SUAHN",
+          "url": "https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132705,
+      "name": "Broken Structures",
+      "url": "https://open.spotify.com/track/0M4FKzW39lbX4301V8kyxh"
     },
     {
       "album": {
@@ -7814,7 +7836,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 157714,
       "name": "My Ones",
       "url": "https://open.spotify.com/track/6VHMKMKYQec5VW1wRJCNLL"

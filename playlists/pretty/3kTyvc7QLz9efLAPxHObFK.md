@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,829 songs - 4 day 1 hr 53 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,832 songs - 4 day 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1837,5 +1837,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1827 | [The Forest](https://open.spotify.com/track/7xYEF0C2n22DpTe2C5N1X5) | [Sunhiausa](https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x) | [The Forest](https://open.spotify.com/album/20ovZTHJ8M5gBUWZ6P0exH) | 3:35 |
 | 1828 | [Louder](https://open.spotify.com/track/118IF6OKdNVyXbhOsMNF4R) | [Matzic](https://open.spotify.com/artist/5icd9CGTLeERkT6s20imCs) | [Louder](https://open.spotify.com/album/3ZduC6F9D5VuCbZYFx1d85) | 2:34 |
 | 1829 | [HELIX](https://open.spotify.com/track/5Db4VuiKtGYoPKedpwICVo) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [VOID](https://open.spotify.com/album/4R4gA0HBU0TRTyJo4yiBpm) | 4:30 |
+| 1830 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
+| 1831 | [DANCE](https://open.spotify.com/track/3Lp5HFhm5uygXeOkNjC60Y) | [Suspect](https://open.spotify.com/artist/1g5TBMBIK1S48I5amyae6u), [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [DANCE](https://open.spotify.com/album/5lW1S7WK1RTWGbu47I00eY) | 2:51 |
+| 1832 | [ATTACK!](https://open.spotify.com/track/47DmpGRiVanRnmKHgLo3sU) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab) | [ATTACK!](https://open.spotify.com/album/1vyJeqIQUKXcB6jAmkVUYv) | 2:47 |
 
-Snapshot ID: `AAAHWBnUyNCQlRr+j8JCgxg4pNA3T3tt`
+Snapshot ID: `AAAHW6eQ13Ek+eseRaZxOuQMVslM1XIQ`

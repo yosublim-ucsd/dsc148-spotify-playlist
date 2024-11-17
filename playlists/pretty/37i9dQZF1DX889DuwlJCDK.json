@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30af\u30b8\u30e9\u591c\u306e\u8857",
-  "num_followers": 15978,
+  "num_followers": 15994,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "midori",
-        "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
-      },
-      "artists": [
-        {
-          "name": "FOMARE",
-          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "\u611b\u3059\u308b\u4eba",
-      "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "\u611b\u306e\u8f4d",
         "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 192430,
       "name": "\u611b\u306e\u8f4d",
       "url": "https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "midori",
+        "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
+      },
+      "artists": [
+        {
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "\u611b\u3059\u308b\u4eba",
+      "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/4GeiVCFuFw3Ifk95sZM1vg"
-      },
-      "artists": [
-        {
-          "name": "TRACK15",
-          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "\u79c1\u7684\u5e78\u798f\u8ad6",
-      "url": "https://open.spotify.com/track/4fLiqr8OyysFvF4zhWt6H1"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "\u541b\u306b\u5922\u4e2d!!",
         "url": "https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
-        "url": "https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/4GeiVCFuFw3Ifk95sZM1vg"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
         }
       ],
-      "duration_ms": 249600,
-      "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
-      "url": "https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr"
+      "duration_ms": 192186,
+      "name": "\u79c1\u7684\u5e78\u798f\u8ad6",
+      "url": "https://open.spotify.com/track/4fLiqr8OyysFvF4zhWt6H1"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1415,6 +1399,22 @@
       "duration_ms": 222352,
       "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
       "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
+        "url": "https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
+      "url": "https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
-        "url": "https://open.spotify.com/album/5E3CquCa3c6NH3Z4mtGS9B"
-      },
-      "artists": [
-        {
-          "name": "Fish and Lips",
-          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
-        }
-      ],
-      "duration_ms": 225256,
-      "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
-      "url": "https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
         "url": "https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b"
       },
@@ -1563,18 +1547,34 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37"
+        "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
+        "url": "https://open.spotify.com/album/5E3CquCa3c6NH3Z4mtGS9B"
       },
       "artists": [
         {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+          "name": "Fish and Lips",
+          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
         }
       ],
-      "duration_ms": 194813,
-      "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
+      "duration_ms": 225256,
+      "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "sanagi",
+        "url": "https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
+      "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
-        "url": "https://open.spotify.com/album/2PGNDSl1PFdTECL3AJn9VD"
+        "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37"
       },
       "artists": [
         {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
         }
       ],
-      "duration_ms": 234133,
-      "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
-      "url": "https://open.spotify.com/track/4LB2LhjrQf7OXzO4MSSpeJ"
+      "duration_ms": 194813,
+      "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

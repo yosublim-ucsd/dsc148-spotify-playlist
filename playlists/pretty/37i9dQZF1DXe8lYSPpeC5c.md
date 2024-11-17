@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8lYSPpeC5c.md) - [plain]
 
 > From gamer to racer\. Listen to the music from and inspired by Gran Turismo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,262 likes - 26 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,293 likes - 26 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8lYSPpeC5c.md) - [plain]
 | 21 | [Wash.](https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:58 |
 | 22 | [La Marseillaise](https://open.spotify.com/track/3UcgFpeFrrebm1upPSYsy8) | [Claude Joseph Rouget de Lisle](https://open.spotify.com/artist/2KSEkxp7sxOeuQs7LfaTyM), [Garde Républicaine \- Roger Boutry \- Choeur De L'Armée Française \- Mireille Mathieu](https://open.spotify.com/artist/58bttXKRCD5Wgd1hmdcWaY), [Roger Boutry](https://open.spotify.com/artist/38RtF0uAniPVIsnKEjpfdu) | [musiques militaires](https://open.spotify.com/album/72uEAOiMmzDhkF3BF5Squm) | 4:18 |
 | 23 | [Harder Than You Think](https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [How You Sell Soul to a Soulless People Who Sold Their Soul?](https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP) | 4:09 |
-| 24 | [God Moving Over the Face of the Waters](https://open.spotify.com/track/4WxOFybmhNxHGnkPGBJzIE) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/31qneFkDfKhjVNH0kqdhQ1) | 5:44 |
+| 24 | [God Moving Over the Face of the Waters](https://open.spotify.com/track/4WxOFybmhNxHGnkPGBJzIE) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/31qneFkDfKhjVNH0kqdhQ1) | 7:21 |
 | 25 | [Wilderness](https://open.spotify.com/track/0sv4mbBL2vLePRHa3fTyzA) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 4:36 |
 | 26 | [Hate Me Now \(feat\. Diddy\)](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:44 |
 

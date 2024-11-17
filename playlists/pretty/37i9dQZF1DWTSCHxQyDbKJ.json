@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: George Michael ",
-  "num_followers": 32161,
+  "num_followers": 32164,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "real feel",
+      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Late To The Party (feat. Declan McKenna)",
         "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 215693,
       "name": "Late To The Party (feat. Declan McKenna)",
       "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "#gigi",
-        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "real feel",
-      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 205330,
       "name": "Mountain out of a Molehill",
       "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -943,38 +943,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Glasgow",
-        "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 214245,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "2 Year Itch",
-        "url": "https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl"
-      },
-      "artists": [
-        {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
-        }
-      ],
-      "duration_ms": 165068,
-      "name": "2 Year Itch",
-      "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "The Sea",
         "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
       },
@@ -1003,6 +971,38 @@
       "duration_ms": 200699,
       "name": "Crumbling",
       "url": "https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Glasgow",
+        "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 214245,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "2 Year Itch",
+        "url": "https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 165068,
+      "name": "2 Year Itch",
+      "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Matriarchy",
         "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 164206,
       "name": "Matriarchy",
       "url": "https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "i can't get my shit together",
+        "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 173551,
+      "name": "i can't get my shit together",
+      "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "breakdown. (Underworld Rework)",
         "url": "https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 148135,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "i can't get my shit together",
-        "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 173551,
-      "name": "i can't get my shit together",
-      "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "SEWERSTAR",
         "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 244000,
       "name": "L.E.E.C.H.E.S",
       "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 65519,
+      "name": "Sex Metal",
+      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Love Second Music First",
-        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 245259,
-      "name": "Love Second Music First",
-      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 178364,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "Just Come Home With Me Tonight (Live at 45)",
+        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 280322,
+      "name": "Just Come Home With Me Tonight - Live at 45",
+      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Babette",
         "url": "https://open.spotify.com/album/7yk5DxilcuZft3NG3ZjzvY"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 240500,
       "name": "Babette",
       "url": "https://open.spotify.com/track/7dy1W1fBRAeQlcUdsL6ZeF"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Just Come Home With Me Tonight (Live at 45)",
-        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 280322,
-      "name": "Just Come Home With Me Tonight - Live at 45",
-      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
     },
     {
       "added_at": "2024-10-07 23:00:00",

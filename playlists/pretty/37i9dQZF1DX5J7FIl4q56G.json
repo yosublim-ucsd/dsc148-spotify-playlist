@@ -1,12 +1,12 @@
 {
   "description": "This week's best new tracks in metal, hard rock, and all things heavy. Cover: Machine Head",
-  "num_followers": 727492,
+  "num_followers": 727590,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbVUAAAAABLrVRgHcz33ka+kMJWRr/u",
+  "snapshot_id": "ZzkxCQAAAADpitGYX8S4LUJKyWzzWnSu",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -39,8 +39,8 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+        "name": "Two Faced",
+        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
       },
       "artists": [
         {
@@ -48,9 +48,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 140915,
-      "name": "Casualty",
-      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -199,6 +199,22 @@
       "duration_ms": 165697,
       "name": "End Times",
       "url": "https://open.spotify.com/track/4F0FwfRGv7pZmCiulrEUkp"
+    },
+    {
+      "added_at": "2024-11-16 15:29:40",
+      "album": {
+        "name": "The Faustian Spirit",
+        "url": "https://open.spotify.com/album/1jCwRzeLlXBdUEdMVQ34Y2"
+      },
+      "artists": [
+        {
+          "name": "Eidola",
+          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
+        }
+      ],
+      "duration_ms": 253416,
+      "name": "The Faustian Spirit",
+      "url": "https://open.spotify.com/track/4byVyX4rhBj26mCxD5R2aM"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -403,6 +419,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 140915,
+      "name": "Casualty",
+      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "FUCK THE SYSTEM",
         "url": "https://open.spotify.com/album/4piIzsBpalQzfAX4HCfS9S"
       },
@@ -415,22 +447,6 @@
       "duration_ms": 267213,
       "name": "FUCK THE SYSTEM",
       "url": "https://open.spotify.com/track/763Ws13IkCFMjodisEgCcw"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Two Faced",
-        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183584,
-      "name": "Two Faced",
-      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
       "added_at": "2024-11-15 05:00:00",

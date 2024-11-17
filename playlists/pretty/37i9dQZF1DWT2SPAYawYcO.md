@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,924 likes - 103 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,977 likes - 103 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 65 | [Press Against Me](https://open.spotify.com/track/60ht9ujk1yPAqycFf4pzfD) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Press Against Me](https://open.spotify.com/album/4A4R0sPrcJ2sL0FcUXOAfU) | 2:23 |
 | 66 | [Laila](https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Laila](https://open.spotify.com/album/1uLpQLcdpCv6F3MtxDm47b) | 3:18 |
 | 67 | [Higher Wave](https://open.spotify.com/track/6azHZZAjo2LhmRPZ9fWAgm) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Higher Wave](https://open.spotify.com/album/7qWP7co14icz1Z5c1Hp8Pc) | 2:52 |
-| 68 | [MAP](https://open.spotify.com/track/1CKkePrhEoioJX2FgzTFyf) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:17 |
+| 68 | [MAP](https://open.spotify.com/track/1CKkePrhEoioJX2FgzTFyf) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:13 |
 | 69 | [Cut U Off](https://open.spotify.com/track/6qH0ZL8JYxsW86UIrbmGbK) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [the other side](https://open.spotify.com/album/4APKs12NkexHOfaWbAFoBs) | 2:34 |
 | 70 | [I Want You To Know](https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe) | [I Want You To Know](https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS) | 3:10 |
 | 71 | [Obey](https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Obey](https://open.spotify.com/album/4w6LmidRk4Joz88AojOfBb) | 3:04 |

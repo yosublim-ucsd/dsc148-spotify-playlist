@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 6061,
+  "num_followers": 6187,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 140571,
       "name": "Hazy",
       "url": "https://open.spotify.com/track/40frhLpVMThTogyowcdNtb"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "chime in",
+        "url": "https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca"
+      },
+      "artists": [
+        {
+          "name": "robomoque",
+          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+        }
+      ],
+      "duration_ms": 134285,
+      "name": "chime in",
+      "url": "https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -55,22 +71,6 @@
       "duration_ms": 120000,
       "name": "Bottled Message",
       "url": "https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "chime in",
-        "url": "https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca"
-      },
-      "artists": [
-        {
-          "name": "robomoque",
-          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
-        }
-      ],
-      "duration_ms": 134285,
-      "name": "chime in",
-      "url": "https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Airy Dream",
-        "url": "https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3"
-      },
-      "artists": [
-        {
-          "name": "poems",
-          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
-        }
-      ],
-      "duration_ms": 129896,
-      "name": "Airy Dream",
-      "url": "https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Northern Lights",
         "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 149333,
       "name": "Cherry Orchards",
       "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Airy Dream",
+        "url": "https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3"
+      },
+      "artists": [
+        {
+          "name": "poems",
+          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
+        }
+      ],
+      "duration_ms": 129896,
+      "name": "Airy Dream",
+      "url": "https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Marupe Blues",
-        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
+        "name": "thyme moves slow",
+        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
       },
       "artists": [
         {
-          "name": "Gooee",
-          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Marupe Blues",
-      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
+      "duration_ms": 147107,
+      "name": "thyme moves slow",
+      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "Marupe Blues",
+        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Marupe Blues",
+      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Vanisher",
         "url": "https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 132692,
       "name": "Fika",
       "url": "https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "thyme moves slow",
-        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
-      },
-      "artists": [
-        {
-          "name": "new vibe",
-          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "thyme moves slow",
-      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "ghee",
         "url": "https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 180000,
       "name": "ghee",
       "url": "https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 145781,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -483,22 +483,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "autumn morning",
-        "url": "https://open.spotify.com/album/3hkpAm6vcGbjn9smI79zyi"
+        "name": "The Tallest Mountain",
+        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
       },
       "artists": [
         {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        },
-        {
-          "name": "re:fill",
-          "url": "https://open.spotify.com/artist/2YAjZCYyobcy0FTHSeiqOe"
+          "name": "Cyber Bloom",
+          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
         }
       ],
-      "duration_ms": 122432,
-      "name": "autumn morning",
-      "url": "https://open.spotify.com/track/4sO4UnfiATMXi4xZHdEFJO"
+      "duration_ms": 136750,
+      "name": "The Tallest Mountain",
+      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -519,6 +515,26 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "autumn morning",
+        "url": "https://open.spotify.com/album/3hkpAm6vcGbjn9smI79zyi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "re:fill",
+          "url": "https://open.spotify.com/artist/2YAjZCYyobcy0FTHSeiqOe"
+        }
+      ],
+      "duration_ms": 122432,
+      "name": "autumn morning",
+      "url": "https://open.spotify.com/track/4sO4UnfiATMXi4xZHdEFJO"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Long Road Home",
         "url": "https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 133333,
       "name": "Long Road Home",
       "url": "https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "The Tallest Mountain",
-        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
-      },
-      "artists": [
-        {
-          "name": "Cyber Bloom",
-          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "The Tallest Mountain",
-      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -607,30 +607,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Leaves Fallin'",
-        "url": "https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M"
-      },
-      "artists": [
-        {
-          "name": "MrAnthony",
-          "url": "https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx"
-        },
-        {
-          "name": "Dani Catal\u00e1",
-          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
-        },
-        {
-          "name": "Banks",
-          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
-        }
-      ],
-      "duration_ms": 138196,
-      "name": "Leaves Fallin'",
-      "url": "https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "midnight escape",
         "url": "https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 126857,
       "name": "Worcestershire dreaming",
       "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Leaves Fallin'",
+        "url": "https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M"
+      },
+      "artists": [
+        {
+          "name": "MrAnthony",
+          "url": "https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "duration_ms": 138196,
+      "name": "Leaves Fallin'",
+      "url": "https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Our Feelings",
-        "url": "https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS"
-      },
-      "artists": [
-        {
-          "name": "Akkoro",
-          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
-        }
-      ],
-      "duration_ms": 140321,
-      "name": "Our Feelings",
-      "url": "https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Stacks",
         "url": "https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 163214,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Our Feelings",
+        "url": "https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS"
+      },
+      "artists": [
+        {
+          "name": "Akkoro",
+          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
+        }
+      ],
+      "duration_ms": 140321,
+      "name": "Our Feelings",
+      "url": "https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "Drizzle",
+        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        }
+      ],
+      "duration_ms": 124931,
+      "name": "Drizzle",
+      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Muscot",
         "url": "https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "decorate",
-        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
-      },
-      "artists": [
-        {
-          "name": "okayokay",
-          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
-        }
-      ],
-      "duration_ms": 145626,
-      "name": "decorate",
-      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Give Me a Slice",
         "url": "https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 146250,
       "name": "Give Me a Slice",
       "url": "https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "decorate",
+        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "duration_ms": 145626,
+      "name": "decorate",
+      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 142516,
       "name": "Occasions",
       "url": "https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Drizzle",
-        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
-      },
-      "artists": [
-        {
-          "name": "Philanthrope",
-          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
-        }
-      ],
-      "duration_ms": 124931,
-      "name": "Drizzle",
-      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
     },
     {
       "added_at": "2024-11-15 04:00:00",

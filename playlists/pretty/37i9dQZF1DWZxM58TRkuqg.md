@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Anji, Fiersa Besari
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,119 likes - 93 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,137 likes - 93 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 2 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 |
 | 3 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 |
 | 4 | [Kasmaran](https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Kasmaran](https://open.spotify.com/album/0JCLBNTCR1M1e8zSTxE0S5) | 4:21 |
-| 5 | [Boleh Kau Adu \- Live](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 |
+| 5 | [Boleh Kau Adu \- Live Version](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live Version\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 |
 | 6 | [Surga](https://open.spotify.com/track/4cbtN78MM14iygONiGKkXN) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:26 |
 | 7 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
 | 8 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 |

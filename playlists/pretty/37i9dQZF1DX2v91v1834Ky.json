@@ -1,6 +1,6 @@
 {
   "description": "The greatest skating game music from over the years.",
-  "num_followers": 234131,
+  "num_followers": 234154,
   "original_name": "Kickflip",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-12-11 17:24:31",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3z3bcIS2CBJ5pqWQjKPiIo"
+    },
+    {
+      "added_at": "2023-12-11 17:24:31",
+      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
-    },
-    {
-      "added_at": "2023-12-11 17:24:31",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3z3bcIS2CBJ5pqWQjKPiIo"
     },
     {
       "added_at": "2023-12-11 17:24:31",

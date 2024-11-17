@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Marcos Barrientos
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,374 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,460 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Exaltado](https://open.spotify.com/track/5eE8NCgnG5b8vm7NudlsRw) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Eric Philips](https://open.spotify.com/artist/1JYGCh0j961BBH6rJiXkax) | [Exaltado](https://open.spotify.com/album/4nHCUq5Utbw744mlJWEsyr) | 11:44 |
+| 1 | [Exaltado](https://open.spotify.com/track/5eE8NCgnG5b8vm7NudlsRw) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY) | [Exaltado](https://open.spotify.com/album/4nHCUq5Utbw744mlJWEsyr) | 11:44 |
 | 2 | [No Me Avergüenzo](https://open.spotify.com/track/3DIxROb3rax8yTeetjGxMg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [No Me Avergüenzo](https://open.spotify.com/album/3YIlrzmzBejp0V5nSgytMh) | 4:35 |
 | 3 | [SIMPLICIDAD](https://open.spotify.com/track/0mN5nfmdkmVjslbzLfsfkJ) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [PARÉNTESIS](https://open.spotify.com/album/1T4TZDs7wcFvaHXv6hJVTv) | 2:53 |
 | 4 | [No Soy El Mismo](https://open.spotify.com/track/43Cn4CVlpTBOseALvTsjUY) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(Lado C\)](https://open.spotify.com/album/08chYpaWTSopN4t0AR3elu) | 2:26 |

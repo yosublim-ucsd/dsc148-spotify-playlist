@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-561 songs - 1 day 9 hr 33 min
+562 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Nobody Love](https://open.spotify.com/track/5yPbVKNdJVbb6CuhXbuHxG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Nobody Love](https://open.spotify.com/album/5zWabmw06meb7ufnaLuXAC) | 3:24 | 2024-01-31 | 2024-02-02 |
 | [NON PUOI LASCIARMI COSI](https://open.spotify.com/track/6uADgZjH3OQaHlPtHwc9wc) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [PER SEMPRE](https://open.spotify.com/album/0E3TKLXbAvLysz9fcaWSbR) | 3:51 | 2024-01-29 |  |
 | [Nothing To Lose](https://open.spotify.com/track/7JcmDCSadkBYCjc37MW1RS) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:44 | 2024-01-29 |  |
+| [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 | 2024-11-16 |  |
 | [Oh Oh](https://open.spotify.com/track/3lAYDUHm3i4TLpsjjhpPVk) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:53 | 2024-01-29 |  |
 | [Ohne Dich](https://open.spotify.com/track/5a8hlKNT5xIFor5nt3N5Qd) | [TEAM 5ÜNF](https://open.spotify.com/artist/1KrFD8M1dOfOZLz8qrQQiW) | [Einmal Boyband und zurück](https://open.spotify.com/album/0lr868sYp1U12KVmGNBbw1) | 3:30 | 2024-01-29 |  |
 | [Olympia](https://open.spotify.com/track/2eNKO7NQLFeoeNO8WKJsmG) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Olympia](https://open.spotify.com/album/2usbm3mqqOEN6w8ydMemOV) | 4:06 | 2024-01-29 |  |

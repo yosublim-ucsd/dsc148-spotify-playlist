@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,498 likes - 48 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,521 likes - 48 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 10 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
 | 11 | [BLUE SAPPHIRE \- 劇場版「名探偵コナン 紺青の拳」ver.](https://open.spotify.com/track/2GcMsWWplrmVUOpjZJGwoZ) | [Hiroomi Tosaka](https://open.spotify.com/artist/4lsSLCTKrmfULsRivqAShx) | [BLUE SAPPHIRE \(劇場版「名探偵コナン 紺青の拳」ver.\)](https://open.spotify.com/album/5aLaVAEs9778S0GlDQOXdq) | 3:52 |
 | 12 | [零 \-ZERO\-](https://open.spotify.com/track/04pyEgfLGPt3YUjZ9wQpOB) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [零 \-ZERO\-](https://open.spotify.com/album/6kNsz8bh9y5PTEm27hPXnp) | 4:14 |
-| 13 | [渡月橋 \~君 想ふ\~](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 |
+| 13 | [渡月橋 ～君 想ふ～](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 |
 | 14 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 |
 | 15 | [オー！リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 |
 | 16 | [ラブサーチライト](https://open.spotify.com/track/0b2xi61z1aBbmV60jQYigW) | [Ko Shibasaki](https://open.spotify.com/artist/5YixSA79eNkVmTq8xzRYF7) | [ラブサーチライト](https://open.spotify.com/album/5K2ywOgkx4bCxzmdtL5kgk) | 2:58 |
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 18 | [ハルウタ](https://open.spotify.com/track/3oicOknczVtpv7ZW6HLQrc) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [I](https://open.spotify.com/album/5js8fcSefJJNy9r9cE5B2n) | 4:53 |
 | 19 | [Don't Wanna Lie](https://open.spotify.com/track/0dOi2mmuyhHZ4PHTkyimtP) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [C'mon](https://open.spotify.com/album/38q4mQH7KXyL0oIZenRS7g) | 4:04 |
 | 20 | [Over Drive](https://open.spotify.com/track/6Pbw27Gnz4TdrcACPyXfOF) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [parallel universe](https://open.spotify.com/album/20NN5x5ImAa0JzSBJmTGZr) | 4:20 |
-| 21 | [PUZZLE](https://open.spotify.com/track/4vCxnhWLEaUTKLVTPAd6SJ) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 3:56 |
+| 21 | [PUZZLE](https://open.spotify.com/track/4vCxnhWLEaUTKLVTPAd6SJ) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 3:56 |
 | 22 | [翼を広げて](https://open.spotify.com/track/6rqejjcfbRUSQ0WXhV2bg6) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [翼を広げて / 愛は暗闇の中で](https://open.spotify.com/album/2VPyIHpSzemIBnEiTrKylf) | 4:30 |
 | 23 | [ゆるぎないものひとつ](https://open.spotify.com/track/6HOj3XHDPTIPxZxvl1gn4k) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [MONSTER](https://open.spotify.com/album/1KhVnTC6ZqlGauxbrkvu1w) | 4:37 |
 | 24 | [名探偵コナン愛のテーマ](https://open.spotify.com/track/1xq00MfmWouCjGppzvy4zr) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 探偵たちの鎮魂歌 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0dDgRi3DAoAPkevbJTyPym) | 1:12 |
 | 25 | [夏を待つセイル \(帆\)のように](https://open.spotify.com/track/5fEVHZXvkFmzA59csUBgXZ) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [星のかがやきよ/夏を待つセイル（帆）のように](https://open.spotify.com/album/2K0gt5eUoq9Rkhb6j8xdSD) | 4:33 |
 | 26 | [想い出たち～想い出～ \- 水平線上ヴァージョン](https://open.spotify.com/track/6LTrISx940TTFVPdpVXuT6) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 水平線上の陰謀 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0ajo3xLjRF2DHql3L8ukNm) | 4:16 |
-| 27 | [Time after time \~花舞う街で\~ \(theater version\)](https://open.spotify.com/track/6p7zWUrMceo4GrJyFQFlGY) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:10 |
+| 27 | [Time after time ～花舞う街で～ \(theater version\)](https://open.spotify.com/track/6p7zWUrMceo4GrJyFQFlGY) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:10 |
 | 28 | [ぼくがいる～コナンのテーマ～ \- 銀翼ヴァージョン](https://open.spotify.com/track/1mttCw9rm9WVgtcVM95ne3) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 銀翼の奇術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/40R0gMfyMtbF9cf3e0jd4v) | 2:46 |
 | 29 | [キミがいれば \- 十字路ヴァージョン](https://open.spotify.com/track/0SOFfTJMGdeyb4HZaE1dDP) | [Reiko](https://open.spotify.com/artist/2gNfmIDlKDgwqbilGU5i94) | [名探偵コナン 迷宮の十字路 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4USo0BCeycCmbYn8Z2peAv) | 3:03 |
 | 30 | [Everlasting](https://open.spotify.com/track/3D73y76E5mWefQZlb2P15z) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [GREEN](https://open.spotify.com/album/3u3gQjtXbYQFKeSp4OKLJJ) | 3:39 |
-| 31 | [always](https://open.spotify.com/track/7BUTvMscLY29cBxspSOsY6) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:06 |
+| 31 | [always](https://open.spotify.com/track/7BUTvMscLY29cBxspSOsY6) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:06 |
 | 32 | [あなたがいるから](https://open.spotify.com/track/19YFHOpIg62fgbueUQIesK) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [あなたがいるから](https://open.spotify.com/album/1DIfZ8vzCX0xNENyBQIZhW) | 4:33 |
 | 33 | [ONE](https://open.spotify.com/track/4nWtds0cKVjWcDv5yFbl1D) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [The Ballads \~Love & B'z\~](https://open.spotify.com/album/0hbj2cplJOMdpWUeq168l1) | 4:10 |
 | 34 | [キミがいれば \- 世紀末ヴァージョン](https://open.spotify.com/track/7M1SJuMlbIA0LP6Uw6Ca5O) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 3:04 |

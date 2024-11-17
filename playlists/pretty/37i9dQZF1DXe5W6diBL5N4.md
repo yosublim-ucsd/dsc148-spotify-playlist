@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ENHYPEN\(엔하이픈\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,311 likes - 170 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,375 likes - 170 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 5 | [Viola](https://open.spotify.com/track/4ZfaL1CGxoK5LiBDYZ2AKm) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [I Did](https://open.spotify.com/album/1q2JFgioSFXUGv2twp27n7) | 2:55 |
 | 6 | [Doggie Hola](https://open.spotify.com/track/3fmwCYXRaI7yndoRuvT4Yk) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [Doggie Hola](https://open.spotify.com/album/30x5hMLLbs4D6pEQ2SChHs) | 2:43 |
 | 7 | [Rodeo Girls \(Feat\. Kid Milli\)](https://open.spotify.com/track/5JWhqhdDhVaZLZdP0ksDGb) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Rodeo Girls](https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH) | 3:08 |
-| 8 | [no rumor without sounds \(feat\. Just nochang\)](https://open.spotify.com/track/36Ou5yhKLcD2HI8TXMuZPX) | [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Just nochang](https://open.spotify.com/artist/0viv3iK9STttXXGJ4oTnGu) | [ZIP\-OFF](https://open.spotify.com/album/2pn6K8pXA3BKjRYp7cR7TU) | 3:56 |
+| 8 | [no rumor without sounds \(feat\. Nochang\)](https://open.spotify.com/track/36Ou5yhKLcD2HI8TXMuZPX) | [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO) | [ZIP\-OFF](https://open.spotify.com/album/2pn6K8pXA3BKjRYp7cR7TU) | 3:56 |
 | 9 | [Ripple](https://open.spotify.com/track/59rwhdeWamWosT2jmih8Hz) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [Ripple](https://open.spotify.com/album/0K5pjapDWmmjXx7rTRYSpo) | 3:08 |
 | 10 | [do thang](https://open.spotify.com/track/4bl4shYKy7UakwKmCuWt8g) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [do thang](https://open.spotify.com/album/28eJyFQRpaHGe5MHVeumBS) | 3:08 |
 | 11 | [without.](https://open.spotify.com/track/01QIAqFxG6WQxTBR4Nzlop) | [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [without.](https://open.spotify.com/album/4FlKfvhMabxNcqiIGfMJFX) | 2:53 |

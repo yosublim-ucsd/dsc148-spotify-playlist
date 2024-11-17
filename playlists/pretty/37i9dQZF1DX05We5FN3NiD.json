@@ -1,6 +1,6 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 45585,
+  "num_followers": 45592,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Beware of the Dogs",
+        "url": "https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7"
+      },
+      "artists": [
+        {
+          "name": "Stella Donnelly",
+          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/6K9QPIt8AR422heY9O372w"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Eat, Sleep, Wake (Nothing But You)",
         "url": "https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Beware of the Dogs",
-        "url": "https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7"
+        "name": "Everything Not Saved Will Be Lost Pt. 1",
+        "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
       },
       "artists": [
         {
-          "name": "Stella Donnelly",
-          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 213137,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/6K9QPIt8AR422heY9O372w"
+      "duration_ms": 192695,
+      "name": "On the Luna",
+      "url": "https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1467,22 +1483,6 @@
       "duration_ms": 156293,
       "name": "Home",
       "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Everything Not Saved Will Be Lost Pt. 1",
-        "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 192695,
-      "name": "On the Luna",
-      "url": "https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz"
     },
     {
       "added_at": "2022-09-16 04:53:36",

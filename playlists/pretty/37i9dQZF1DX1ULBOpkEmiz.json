@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 5262,
+  "num_followers": 5265,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -939,18 +939,22 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+        "name": "The Red Light District",
+        "url": "https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
         }
       ],
-      "duration_ms": 274733,
-      "name": "Rock The Boat",
-      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
+      "duration_ms": 329626,
+      "name": "Pimpin' All Over The World",
+      "url": "https://open.spotify.com/track/6VixoRqnikN4QqegoKUSbH"
     }
   ],
   "unique_name": "Summer Nostalgia",

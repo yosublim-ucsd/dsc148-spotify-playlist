@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,647 likes - 253 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,679 likes - 253 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 6 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 |
 | 7 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 |
 | 8 | [Area 51 to 55](https://open.spotify.com/track/5cawJJYjXYXgnVXXlDbOta) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Venom: The Last Dance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7573cAzn5Ro3w2OPEPUtxH) | 2:35 |
-| 9 | [Los Nińos Perdidos](https://open.spotify.com/track/0ShSye63tULDJrTsifdzlE) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Los Niños Perdidos \(Banda sonora del documental de Netflix\)](https://open.spotify.com/album/2e3ELtpBouHaxm56HwBMBm) | 1:42 |
+| 9 | [Los Nińos Perdidos](https://open.spotify.com/track/0ShSye63tULDJrTsifdzlE) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Los Niños Perdidos \(Banda Sonora del Documental de Netflix\)](https://open.spotify.com/album/2e3ELtpBouHaxm56HwBMBm) | 1:42 |
 | 10 | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/track/4DXStGSl6efAunMKjuYc1e) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/1girrFjOqLJnwi5a9rLKts) | 1:32 |
 | 11 | [A Dangerous Orange](https://open.spotify.com/track/3mooJgs5miTAKdh954ng8J) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington in Peru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OzOSwO7SjTkGhYzx3o07t) | 2:56 |
 | 12 | [Endurance](https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Endurance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rauw Alejandro y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,875 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,983 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 21 | [La Jungla](https://open.spotify.com/track/3Xse6LugQujAQwF8OlTn7g) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i), [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [La Jungla](https://open.spotify.com/album/2hqlNyOoc4EJjhnxtaM9uR) | 2:46 |
 | 22 | [Disimular](https://open.spotify.com/track/5uDRcbIs7YONCB7zGNbZk9) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [Disimular](https://open.spotify.com/album/64FVJdVf0XVuEhIySK5Fl2) | 2:56 |
 | 23 | [vete a la luna](https://open.spotify.com/track/30STHEPu1Hn9oyDzMZqSMf) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [vete a la luna](https://open.spotify.com/album/5wzfL8xjVDOdUOzdUoSqdP) | 3:29 |
-| 24 | [DANDOLE LO MIO](https://open.spotify.com/track/6f52zN7UwbMdYzZMlnst5k) | [Abraham Garrido](https://open.spotify.com/artist/6BkA9Xf8ZSx2yX9jCUOZYz), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [DANDOLE LO MIO](https://open.spotify.com/album/2SfyvQo02tJhpxN0eHCZxV) | 3:33 |
+| 24 | [DANDOLE LO MIO](https://open.spotify.com/track/6f52zN7UwbMdYzZMlnst5k) | [Abraham Garrido](https://open.spotify.com/artist/6BkA9Xf8ZSx2yX9jCUOZYz), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Genio The Producer](https://open.spotify.com/artist/4gO5brClDfJLcmOH0mhaFm) | [DANDOLE LO MIO](https://open.spotify.com/album/2SfyvQo02tJhpxN0eHCZxV) | 3:33 |
 | 25 | [RUPIAS](https://open.spotify.com/track/0npNncu4hkA3aJ9L5ipZqI) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [RUPIAS](https://open.spotify.com/album/19Mi6N2VNpFsIfBRCuujGo) | 2:40 |
 | 26 | [DESPELUCATE](https://open.spotify.com/track/4hQ1eX9ynFhz1Cq75Be5v8) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [DESPELUCATE](https://open.spotify.com/album/5woPWKdnvURwLGx3EIGFYP) | 2:41 |
 | 27 | [Tarará](https://open.spotify.com/track/7AWN87G7vJmRwrvcHc9Hwp) | [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [Tarará](https://open.spotify.com/album/2f2XsqvPHW6wpHsbUMvTWz) | 2:36 |

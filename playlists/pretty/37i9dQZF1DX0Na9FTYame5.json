@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Monet192",
-  "num_followers": 585661,
+  "num_followers": 585655,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
       "artists": [
         {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
         }
       ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+      "duration_ms": 161882,
+      "name": "Vermissen (feat. Henning May)",
+      "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -551,22 +555,18 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
       },
       "artists": [
         {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
         }
       ],
-      "duration_ms": 161882,
-      "name": "Vermissen (feat. Henning May)",
-      "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -651,6 +651,46 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "Ich Liebe Dich",
+        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 155152,
+      "name": "Ich Liebe Dich",
+      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "Verschwendete Zeit",
         "url": "https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy"
       },
@@ -679,6 +719,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "In anderen Armen",
         "url": "https://open.spotify.com/album/2d5GhPYNkYPc90DrHPukVP"
       },
@@ -695,42 +751,6 @@
       "duration_ms": 159274,
       "name": "In anderen Armen",
       "url": "https://open.spotify.com/track/3HvuE5izgh6QG8dK3wqYsq"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -759,26 +779,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "Ich Liebe Dich",
-        "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 155152,
-      "name": "Ich Liebe Dich",
-      "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -855,26 +871,6 @@
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "So wie du",
-        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 152647,
-      "name": "So wie du",
-      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -919,6 +915,26 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "So wie du",
+        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 152647,
+      "name": "So wie du",
+      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 236533,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -995,6 +995,22 @@
       "duration_ms": 119047,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1063,22 +1079,6 @@
       "duration_ms": 147500,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Gott wei\u00df wie",
-        "url": "https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "Gott wei\u00df wie",
-      "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "Sterne (feat. Bozza)",
         "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 236056,
       "name": "Sterne (feat. Bozza)",
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "Gott wei\u00df wie",
+        "url": "https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "Gott wei\u00df wie",
+      "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "ufos",
-        "url": "https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 134317,
-      "name": "ufos",
-      "url": "https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "6 Minuten",
         "url": "https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "ufos",
+        "url": "https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 134317,
+      "name": "ufos",
+      "url": "https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "1000 Sterne",
         "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "verstecken",
-        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 162975,
-      "name": "verstecken",
-      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "Ende der Strasse",
         "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
       },
@@ -1715,26 +1699,6 @@
       "duration_ms": 156200,
       "name": "Ende der Strasse",
       "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "Bis zur Spree (feat. Juju)",
-        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
-      },
-      "artists": [
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 165219,
-      "name": "Bis zur Spree (feat. Juju)",
-      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1755,6 +1719,26 @@
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "Bis zur Spree (feat. Juju)",
+        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
+      },
+      "artists": [
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 165219,
+      "name": "Bis zur Spree (feat. Juju)",
+      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1815,6 +1799,38 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "Mufasa",
+        "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
+      },
+      "artists": [
+        {
+          "name": "METRICKZ",
+          "url": "https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "W\u00fcnsch mir was",
+      "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 162975,
+      "name": "verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
         "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
       },
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Mufasa",
-        "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
-      },
-      "artists": [
-        {
-          "name": "METRICKZ",
-          "url": "https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf"
-        }
-      ],
-      "duration_ms": 195859,
-      "name": "W\u00fcnsch mir was",
-      "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -1867,26 +1867,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Sommer",
-        "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
+        "name": "MISSED CALLS",
+        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
       },
       "artists": [
         {
-          "name": "Beatzarre & Djorkaeff",
-          "url": "https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD"
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
         },
         {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        },
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
         }
       ],
-      "duration_ms": 180146,
-      "name": "Sommer",
-      "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+      "duration_ms": 132800,
+      "name": "MISSED CALLS",
+      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
     }
   ],
   "unique_name": "Rap in deep",

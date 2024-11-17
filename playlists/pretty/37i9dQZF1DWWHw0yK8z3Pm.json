@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Milwaukee",
-        "url": "https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 179829,
-      "name": "Milwaukee",
-      "url": "https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Road Runner",
         "url": "https://open.spotify.com/album/78omrT8twYQBzaZWhy275N"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 156178,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Milwaukee",
+        "url": "https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 179829,
+      "name": "Milwaukee",
+      "url": "https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -803,38 +803,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Life Lessons",
-        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 195505,
-      "name": "Life Lessons",
-      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -851,6 +819,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Aw, Shoot!",
         "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208439,
       "name": "Aw, Shoot!",
       "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Visions of Dallas",
         "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Among Other Things",
+        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 288402,
+      "name": "Rhododendron",
+      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "LONESTAR",
         "url": "https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 218266,
       "name": "Twin Flame (feat. Goldie Boutilier)",
       "url": "https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Among Other Things",
-        "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 288402,
-      "name": "Rhododendron",
-      "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Thus Spoke the Fool",
-        "url": "https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n"
-      },
-      "artists": [
-        {
-          "name": "Pony Bradshaw",
-          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
-        }
-      ],
-      "duration_ms": 184985,
-      "name": "Going to Water",
-      "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Thus Spoke the Fool",
+        "url": "https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "duration_ms": 184985,
+      "name": "Going to Water",
+      "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Our Time In The Sun",
-        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 180475,
-      "name": "Our Time In The Sun",
-      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Come Morning",
         "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Our Time In The Sun",
+        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 180475,
+      "name": "Our Time In The Sun",
+      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/1NVXFnpdszTez8PHw65c7N"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "I Hope It Hurts",
-      "url": "https://open.spotify.com/track/4baf3XBeEdPUTXFMGa77vv"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "River of Tears",
         "url": "https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 183785,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/1NVXFnpdszTez8PHw65c7N"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "I Hope It Hurts",
+      "url": "https://open.spotify.com/track/4baf3XBeEdPUTXFMGa77vv"
     },
     {
       "added_at": "2024-11-15 05:00:00",

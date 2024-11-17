@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| SoundCloud mix series: Bassline Therapy Radio
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,988 likes - 70 songs - 3 hr 51 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,988 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,12 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 68 | [Play The Bass Loud](https://open.spotify.com/track/2Fzpvl8BF8aPVVsid5p6aS) | [Holt 88](https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu) | [Malu's Dream, Part 1](https://open.spotify.com/album/5LCODMHqw4DtmfdFW1eeGU) | 3:16 |
 | 69 | [CLOSER](https://open.spotify.com/track/1FWFoynNcE5JZFptZeDn0u) | [BOMBAYS](https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [CLOSER](https://open.spotify.com/album/2FR08aSiSTFspktZhiv3Dh) | 2:49 |
 | 70 | [Shaka](https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 2:33 |
+| 71 | [Run From Me](https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Run From Me](https://open.spotify.com/album/1XRhepAROO6tDpFgsi39zx) | 3:00 |
+| 72 | [Down](https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 3:20 |
+| 73 | [Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8) | [belac](https://open.spotify.com/artist/2kBo2Anr7eJA3hszGJMQ7D) | [Be with Me 2009](https://open.spotify.com/album/3bMj3P9gipZdQByUrOX2Px) | 3:16 |
+| 74 | [Right Back](https://open.spotify.com/track/2Tkxc7Zgs6IPBspdk3hzwS) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Right Back](https://open.spotify.com/album/57l4FXeuZHyAH1mTWK1fb6) | 2:51 |
+| 75 | [PARTY PEOPLE](https://open.spotify.com/track/0fD68JvMpwsybRF84J64aD) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [PARTY PEOPLE](https://open.spotify.com/album/3VLBNoaBjYAbTX1TxVSVPD) | 3:44 |
+| 76 | [Don't Touch](https://open.spotify.com/track/0o0gyBmKHpzibd45c4KmGR) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Don't Touch](https://open.spotify.com/album/6CkdzZUFSS7TuhgbT1koT9) | 3:08 |
+| 77 | [Priceless](https://open.spotify.com/track/7tQM4R95uZpu02joUPNDAP) | [timeslut](https://open.spotify.com/artist/38sPchxtETUoI9MVPboZc4), [Blue Jade](https://open.spotify.com/artist/7kLu4PjqPqz8bGqt1sbIqb) | [Priceless](https://open.spotify.com/album/78fCs82moRMwM4B7KthkAz) | 2:00 |
 
-Snapshot ID: `AAAaRSEQk9RLI/JYCWKM4Y9WF3+9KzSw`
+Snapshot ID: `AAAaTGAd7W0XKNl0k/Ra3ggo48ioUz2X`

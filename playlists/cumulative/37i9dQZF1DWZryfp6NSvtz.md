@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Linkin Park
 
-7,387 songs - 17 day 11 hr 37 min
+7,389 songs - 17 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,6 +1200,7 @@
 | [Coast](https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Coast](https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ) | 3:28 | 2024-07-19 | 2024-07-27 |
 | [COBRA](https://open.spotify.com/track/0aNCvRWOBMc7hjgoBvieAR) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [COBRA](https://open.spotify.com/album/5ZfSMbgCy1IC4Kcu5PQrU1) | 3:56 | 2023-08-18 | 2023-08-26 |
 | [Cockroach](https://open.spotify.com/track/3dX4DigiUmWX9LDDBjUKVh) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [Cockroach](https://open.spotify.com/album/0kkeqIkER3zOU3lvJusn1n) | 2:12 | 2023-05-19 | 2023-05-27 |
+| [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6NATDeW0BtSMd2KkLNVmKK) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 2:28 | 2024-11-15 |  |
 | [Cocoon](https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Cocoon](https://open.spotify.com/album/5wdTC4sxASTdWthmF5cRRR) | 4:07 | 2022-08-12 | 2022-08-20 |
 | [Coffee Mate](https://open.spotify.com/track/0mEaBLxY4MCNMSM3INemVR) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Love Boredom Bicycles](https://open.spotify.com/album/79W6cWIR0t0EFc4jcJj6qg) | 2:24 | 2022-03-24 | 2022-04-01 |
 | [Coffin](https://open.spotify.com/track/3RdJk7GkFKGJDnyTI6LMoS) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 3:51 | 2022-08-05 | 2022-08-13 |
@@ -5098,6 +5099,7 @@
 | [Reap A Hurricane](https://open.spotify.com/track/6HtG17GT7yVuZiwhcPWPOY) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Reap A Hurricane](https://open.spotify.com/album/3eUtW3WFfthYpb1Amei78r) | 3:15 | 2021-12-16 | 2022-01-07 |
 | [Rearview](https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/1yAho8rcGoW4O1QXbObxyu) | 3:11 | 2024-01-19 | 2024-01-27 |
 | [Reasons To Live](https://open.spotify.com/track/3aBrBN6oAOGTLAS8taoNu8) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Reasons To Live](https://open.spotify.com/album/43qFxImtoXuGobNLMKOrbi) | 2:47 | 2022-06-09 | 2022-06-17 |
+| [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5tKj53xg4V0pRkWCpFk2J7) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 2:51 | 2024-11-15 |  |
 | [Rebounds](https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Spiritual Sickness](https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO) | 4:20 | 2024-03-01 | 2024-03-09 |
 | [Receding Hairlines](https://open.spotify.com/track/1LoqsE92WXai4UkfSoCBzF) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [This Is How We Dance](https://open.spotify.com/album/3mUOOM6v6ZPfbYmhp0iQH0) | 3:18 | 2023-11-17 | 2023-11-25 |
 | [Reckless](https://open.spotify.com/track/5xJ9WXXDxVsZIutIHQRXlq) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Reckless](https://open.spotify.com/album/7GWri0vOM50HLghDtW0ZAd) | 3:35 | 2023-08-04 | 2023-08-12 |

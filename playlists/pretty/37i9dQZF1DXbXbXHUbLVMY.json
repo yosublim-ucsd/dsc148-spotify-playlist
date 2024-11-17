@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28370,
+  "num_followers": 28373,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "V\u00c5GA",
-        "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
-      },
-      "artists": [
-        {
-          "name": "Awave",
-          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
-        },
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Uno Dos Tres",
-      "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Ung & Dum",
         "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 147678,
       "name": "On It",
       "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "V\u00c5GA",
+        "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 153053,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Real Life (feat. Arif Murakami)",
-        "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
         },
         {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
         }
       ],
-      "duration_ms": 151897,
-      "name": "Real Life (feat. Arif Murakami)",
-      "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "SIPPER",
-        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
+        "name": "Real Life (feat. Arif Murakami)",
+        "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
       },
       "artists": [
         {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
         },
         {
-          "name": "Dutty Dior",
-          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 135333,
-      "name": "SIPPER",
-      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
+      "duration_ms": 151897,
+      "name": "Real Life (feat. Arif Murakami)",
+      "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "LA LIGA",
-        "url": "https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "LA LIGA",
-      "url": "https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK"
       },
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "FLEX",
-        "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
+        "name": "LA LIGA",
+        "url": "https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa"
       },
       "artists": [
         {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
         }
       ],
-      "duration_ms": 134400,
-      "name": "FLEX",
-      "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
+      "duration_ms": 141176,
+      "name": "LA LIGA",
+      "url": "https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1427,6 +1407,26 @@
       "duration_ms": 221276,
       "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
     },
     {
       "added_at": "2024-11-14 23:00:00",

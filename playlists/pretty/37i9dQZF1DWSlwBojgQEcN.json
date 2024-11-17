@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1719580,
+  "num_followers": 1719600,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "The War Inside (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Seth Avett",
-          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
-        }
-      ],
-      "duration_ms": 226967,
-      "name": "I'm so in Love with You (feat. Seth Avett)",
-      "url": "https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Marry Me",
         "url": "https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 206133,
       "name": "From This Valley - Acoustic",
       "url": "https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "The War Inside (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Seth Avett",
+          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+        }
+      ],
+      "duration_ms": 226967,
+      "name": "I'm so in Love with You (feat. Seth Avett)",
+      "url": "https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z"
     },
     {
       "added_at": "2024-07-05 22:35:53",

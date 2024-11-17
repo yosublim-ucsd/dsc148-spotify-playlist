@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 85455,
+  "num_followers": 85596,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dance No More (with Kaleena Zanders)",
         "url": "https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 202657,
       "name": "Dance No More (with Kaleena Zanders)",
       "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -625,6 +625,26 @@
       "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
     },
     {
+      "added_at": "2024-10-09 21:20:16",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Enfant Sauvage",
+          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/05o0VN6ld61e3843bPgTyg"
+    },
+    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "USB",
@@ -647,26 +667,6 @@
       "duration_ms": 327508,
       "name": "ItsNotREEAALLLLLLLL",
       "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
-    },
-    {
-      "added_at": "2024-10-09 21:20:16",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Enfant Sauvage",
-          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/05o0VN6ld61e3843bPgTyg"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Big Time Nothing",
-        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
-    },
-    {
       "added_at": "2024-09-16 18:33:06",
       "album": {
         "name": "NASSY",
@@ -1287,6 +1271,22 @@
       "duration_ms": 238346,
       "name": "MIKOTO ~SUN NO KUNI~ (feat. Tsubaki & Awich)",
       "url": "https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Big Time Nothing",
+        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
+      },
+      "artists": [
+        {
+          "name": "Arka",
+          "url": "https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "DESI TRILL (Remix)",
         "url": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 160645,
       "name": "DESI TRILL (Remix)",
       "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
-      },
-      "artists": [
-        {
-          "name": "Arka",
-          "url": "https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/2iIEK9OCit36V2wOxAlJY9"
-      },
-      "artists": [
-        {
-          "name": "Kat Dahlia",
-          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Futuro Amor",
-      "url": "https://open.spotify.com/track/51SFG4BRBBefJqXdy9acFE"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Los Hombres Tambi\u00e9n Lloran",
-        "url": "https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2"
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/2iIEK9OCit36V2wOxAlJY9"
       },
       "artists": [
         {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+          "name": "Kat Dahlia",
+          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
         }
       ],
-      "duration_ms": 131684,
-      "name": "Billete",
-      "url": "https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4"
+      "duration_ms": 167000,
+      "name": "Futuro Amor",
+      "url": "https://open.spotify.com/track/51SFG4BRBBefJqXdy9acFE"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1947,6 +1931,22 @@
       "duration_ms": 195831,
       "name": "Tha Rhythm",
       "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Los Hombres Tambi\u00e9n Lloran",
+        "url": "https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 131684,
+      "name": "Billete",
+      "url": "https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Black Eye",
-        "url": "https://open.spotify.com/album/5YounM3AehIFLPltsa5kGN"
-      },
-      "artists": [
-        {
-          "name": "SANITY",
-          "url": "https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 292364,
-      "name": "Black Eye",
-      "url": "https://open.spotify.com/track/67P2PR85vDePx5x2wvCL2V"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Don't Forget To Breathe",
         "url": "https://open.spotify.com/album/5MBfkQZYnJJgeSHeEOGHL4"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 183920,
       "name": "Should've Known (feat. Smino & Cedxric)",
       "url": "https://open.spotify.com/track/4V8iRao70OTxshu74BMEBE"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Black Eye",
+        "url": "https://open.spotify.com/album/5YounM3AehIFLPltsa5kGN"
+      },
+      "artists": [
+        {
+          "name": "SANITY",
+          "url": "https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 292364,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/67P2PR85vDePx5x2wvCL2V"
     },
     {
       "added_at": "2024-09-16 11:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,279 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,410 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 16 | [Shadow and Truth](https://open.spotify.com/track/7o3gAMq6ZwOQzkE0Zg53cq) | [ONE Ⅲ NOTES](https://open.spotify.com/artist/31a9NQSz0FMcHVcUcetb4V) | [Shadow and Truth](https://open.spotify.com/album/52RXF3L59X40qv0JDwq8G5) | 4:14 |
 | 17 | [風を呼べ](https://open.spotify.com/track/1S3E32fYpv1BYGmSUod9YM) | [UNDER GRAPH](https://open.spotify.com/artist/2Ox7XO5C0tbbk9pfZVDGA1) | [風を呼べ](https://open.spotify.com/album/6AhRX7P2urN0xyPJhIW7RB) | 3:49 |
 | 18 | [ひまわりの約束](https://open.spotify.com/track/21pskqT1foelQsFWyW4PQG) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [ひまわりの約束](https://open.spotify.com/album/5u7yszzjjSJyhcOQ7BBRDb) | 5:14 |
-| 19 | [渡月橋 \~君 想ふ\~](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 |
+| 19 | [渡月橋 ～君 想ふ～](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 |
 | 20 | [運命の子たち](https://open.spotify.com/track/1BMKlBWbvai4q8FzUKuKZ3) | [Yukari Hashimoto](https://open.spotify.com/artist/2oThAjMW6yMMqpjt0ffmcE) | [輪るピングドラム オリジナルサウンドトラック 1](https://open.spotify.com/album/0H2fia2CFkC4eONBtAmRR5) | 3:46 |
 | 21 | [ユキトキ](https://open.spotify.com/track/2m2HiaiQeTVrLjC4g2KzOz) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキトキ](https://open.spotify.com/album/1WgQyGoQ6VXI1oSEtYJcik) | 4:29 |
 | 22 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |

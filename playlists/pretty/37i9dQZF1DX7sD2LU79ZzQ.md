@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,076 likes - 130 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,095 likes - 130 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 12 | [Terbaik](https://open.spotify.com/track/4oZYiXBwrd8w8drTisFtku) | [Hugo Kasela](https://open.spotify.com/artist/1SBsX2VwIcpPKcjTqrtIiz) | [Terbaik](https://open.spotify.com/album/6za6C9lT3O7eixKkcxAudM) | 5:13 |
 | 13 | [Sampaikan Kepadanya](https://open.spotify.com/track/6xPmaa0xUwO4yFTnQqtvPU) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS) | [Sampaikan Kepadanya](https://open.spotify.com/album/25g3WqPL8izBIxfkHsx678) | 4:33 |
 | 14 | [Penyangkalan \- Acoustic](https://open.spotify.com/track/3TMzUKhjdK2ZVkcrNX6dXG) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan \- Acoustic](https://open.spotify.com/album/51qLRfAQjut38kkv6gSPUv) | 3:57 |
-| 15 | [Boleh Kau Adu \- Live](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 |
+| 15 | [Boleh Kau Adu \- Live Version](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live Version\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 |
 | 16 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 17 | [Fall Over Me](https://open.spotify.com/track/0oriH3sjxlK2u8HDhna9BG) | [Shae](https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1) | [Fall Over Me](https://open.spotify.com/album/31MOJKRp31sl8NbgSZBGO4) | 4:28 |
 | 18 | [Tuk Singgah](https://open.spotify.com/track/2e0k4u5vNgmEG7nS8oajKq) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI), [Prilly Latuconsina](https://open.spotify.com/artist/2ZMfLZnfHC3oXgvA3kKFwi) | [Tuk Singgah](https://open.spotify.com/album/4LGDSqn5T0y7hSgcmbVIbH) | 3:08 |

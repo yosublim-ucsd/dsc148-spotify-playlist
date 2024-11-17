@@ -5599,6 +5599,24 @@
     },
     {
       "album": {
+        "name": "Contre-c\u0153ur",
+        "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "Contre-c\u0153ur",
+      "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT"
       },
@@ -6582,7 +6600,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 245454,
       "name": "Dear Vicky",
       "url": "https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT"
@@ -13680,7 +13698,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 253280,
       "name": "January",
       "url": "https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl"
@@ -16392,7 +16410,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 194000,
       "name": "Make Up Moves",
       "url": "https://open.spotify.com/track/2FHDnPBi1bSAI5gVMd8tL8"
@@ -18698,6 +18716,24 @@
       "duration_ms": 167253,
       "name": "Niedosyt",
       "url": "https://open.spotify.com/track/79cmiNPdQVHeu2qs6x4JMp"
+    },
+    {
+      "album": {
+        "name": "niemand",
+        "url": "https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146999,
+      "name": "niemand",
+      "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
     },
     {
       "album": {
@@ -23312,6 +23348,24 @@
       "duration_ms": 143660,
       "name": "scared to lose me",
       "url": "https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF"
+    },
+    {
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     },
     {
       "album": {
@@ -29474,7 +29528,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 183000,
       "name": "Zapomniana Twarz",
       "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
@@ -32082,6 +32136,28 @@
       "duration_ms": 254760,
       "name": "\u6b8b\u97ff",
       "url": "https://open.spotify.com/track/7MLSslPjNnlclco2Gbtaev"
+    },
+    {
+      "album": {
+        "name": "\u6ce1\u6cab",
+        "url": "https://open.spotify.com/album/4n6T1B13KYgQZz80hYer1o"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182407,
+      "name": "\u6ce1\u6cab",
+      "url": "https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h"
     },
     {
       "album": {

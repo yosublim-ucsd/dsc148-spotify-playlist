@@ -2071,6 +2071,28 @@
     },
     {
       "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "album": {
         "name": "Dance In Chicago",
         "url": "https://open.spotify.com/album/1Rx2SbmHXaMwuESq3l1a2s"
       },
@@ -9518,7 +9540,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 156022,
       "name": "Stay Together (Baby Baby) [feat. Vula]",
       "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"

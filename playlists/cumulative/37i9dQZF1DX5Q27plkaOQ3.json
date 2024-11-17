@@ -3963,6 +3963,28 @@
     },
     {
       "album": {
+        "name": "Cyberspace EP",
+        "url": "https://open.spotify.com/album/1zgeL6E1p4SWHtRxKrkaWB"
+      },
+      "artists": [
+        {
+          "name": "Skellytn",
+          "url": "https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3"
+        },
+        {
+          "name": "No Etiquette",
+          "url": "https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Digital Conscience",
+      "url": "https://open.spotify.com/track/0Hgzk0iRGkQODdAd9yOitz"
+    },
+    {
+      "album": {
         "name": "DEMOLITION DAYS",
         "url": "https://open.spotify.com/album/45ZATtU1Oh2haiLtfXNwNZ"
       },
@@ -4480,7 +4502,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-17",
       "duration_ms": 134450,
       "name": "Down Without U",
       "url": "https://open.spotify.com/track/0wW6PWKTppjv5fC1uTLnqr"

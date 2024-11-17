@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051863,
+  "num_followers": 1051918,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Oceanside",
+        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Oceanside",
+      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "i don't mind floating",
         "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 174240,
       "name": "september lightning",
       "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Oceanside",
-      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Ocean Girl",
         "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 250625,
       "name": "Ocean Girl",
       "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 157232,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Make me think of you",
+        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
+      },
+      "artists": [
+        {
+          "name": "ELIS NOA",
+          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Make me think of you",
+      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Mitternacht (feat. Josi Miller)",
         "url": "https://open.spotify.com/album/6YnEJWrRSfdmd1nZuNiaoO"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 151500,
       "name": "Mitternacht (feat. Josi Miller)",
       "url": "https://open.spotify.com/track/4eiBSDEa9x6fEpA2fy94vU"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Make me think of you",
-        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
-      },
-      "artists": [
-        {
-          "name": "ELIS NOA",
-          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Make me think of you",
-      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1587,6 +1587,26 @@
       "duration_ms": 182889,
       "name": "Built To Break",
       "url": "https://open.spotify.com/track/01YbTRYArW2qEQb3hQjnSB"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "L'\u00c9t\u00e9 en Hiver",
+        "url": "https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY"
+      },
+      "artists": [
+        {
+          "name": "Whisper",
+          "url": "https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f"
+        },
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 152373,
+      "name": "L'\u00c9t\u00e9 en Hiver",
+      "url": "https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1663,6 +1683,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -1679,42 +1715,6 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "shades",
-        "url": "https://open.spotify.com/album/56hNHlahRLNbdDGhcXdYcz"
-      },
-      "artists": [
-        {
-          "name": "ilayda",
-          "url": "https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "save myself",
-      "url": "https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        },
-        {
-          "name": "Thala",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
     }
   ],
   "unique_name": "Herbst Chillout",

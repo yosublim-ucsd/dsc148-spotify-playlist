@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-480 songs - 1 day 3 hr 24 min
+481 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [3:15 \(Breathe\)](https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(Breathe\)](https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J) | 3:04 | 2023-06-22 | 2023-12-14 |
 | [@ Night \- Remastered](https://open.spotify.com/track/4P3dQ3P6ms9ul9gfn2b16v) | [DJ Mellow\-D](https://open.spotify.com/artist/7EpSqyHBxkLPillT6GP2bo) | [@ Night](https://open.spotify.com/album/1fOpCyyYDtri79hJXAk6kQ) | 7:37 | 2022-12-15 | 2023-12-14 |
 | [A Sweeter Place \(feat\. Kid Cudi\)](https://open.spotify.com/track/4bb94wZVF1cX66vQjNeJTX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 4:23 | 2022-09-08 |  |
+| [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-16 |  |
 | [About Last Night..\. \(Intro\)](https://open.spotify.com/track/4h7pGYo2Ciay17qYsPXwfL) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 0:34 | 2023-06-22 |  |
 | [Ain't My Fault](https://open.spotify.com/track/66JV5o6Nk07PMjVX0fqDkS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Ain't My Fault \(Official Video\)](https://open.spotify.com/album/2RWp7Mvl4uYRwcPPeiCUqs) | 3:43 | 2023-12-13 | 2024-02-02 |
 | [Ain't My Fault](https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:44 | 2022-09-08 |  |
