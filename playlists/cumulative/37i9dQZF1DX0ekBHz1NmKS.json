@@ -6813,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "D\u00e5 \u00e4r det inte jag",
+        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207532,
+      "name": "D\u00e5 \u00e4r det inte jag",
+      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
+    },
+    {
+      "album": {
         "name": "D\u00d6 F\u00d6R",
         "url": "https://open.spotify.com/album/5p8nmQfGIiNyX1w2oHVhbb"
       },
@@ -18820,7 +18838,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 160655,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX"

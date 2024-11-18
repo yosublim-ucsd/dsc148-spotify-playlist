@@ -30731,6 +30731,24 @@
     },
     {
       "album": {
+        "name": "Spletter Techno",
+        "url": "https://open.spotify.com/album/7sb4lbePIX6MzCivAO1zAE"
+      },
+      "artists": [
+        {
+          "name": "Triangler",
+          "url": "https://open.spotify.com/artist/4qs4QsC3mHzptvkqrGMlBg"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68762,
+      "name": "Spletter Techno",
+      "url": "https://open.spotify.com/track/6vvdKKpfb645nvLkO2C1tH"
+    },
+    {
+      "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F"
       },

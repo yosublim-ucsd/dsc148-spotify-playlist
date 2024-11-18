@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,455 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,451 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [CROSS MY HEART + HOPE WE DIE](https://open.spotify.com/track/7gcgL794e0YiiOMthSf4ol) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [CROSS MY HEART + HOPE WE DIE](https://open.spotify.com/album/1lKjm8oYELSENTN2eBB8Lw) | 2:54 |
 | 7 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 8 | [Whine](https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Whine](https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR) | 2:19 |
-| 9 | [Küss dein Herz](https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Küss dein Herz](https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym) | 2:42 |
-| 10 | [Time](https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Time](https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9) | 3:20 |
+| 9 | [Time](https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Time](https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9) | 3:20 |
+| 10 | [Küss dein Herz](https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Küss dein Herz](https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym) | 2:42 |
 | 11 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
 | 12 | [so als ob](https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Ist es schon wieder Abend?](https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1) | 2:34 |
 | 13 | [Brenne](https://open.spotify.com/track/2fv5ZNriD458IXRR9qffTu) | [ILO](https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP) | [Brenne](https://open.spotify.com/album/7vMoDNGKcNbriWELFzZZV5) | 2:51 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 |
 | 18 | [the melody](https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [the melody](https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX) | 2:25 |
 | 19 | [du glaubst](https://open.spotify.com/track/0zmvXiGQAPxFDJrVFipPx7) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [du glaubst](https://open.spotify.com/album/6rWezpqsfVo0E0vBsW9cYT) | 2:40 |
-| 20 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
-| 21 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
+| 20 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
+| 21 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
 | 22 | [Victoria](https://open.spotify.com/track/5CkhyCtC9h6dlhgbYTDngg) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Victoria](https://open.spotify.com/album/3fFlaIr9zh0AK3BwEP9i7x) | 2:12 |
 | 23 | [Here Again](https://open.spotify.com/track/6anKq8vb5g5FvYm0Q91c5A) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Here Again](https://open.spotify.com/album/4ZHO5oxcVKziyr5Z0eBhTc) | 2:56 |
 | 24 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Welcome Back](https://open.spotify.com/track/1lmaPGAWk6bAq2PlZU5YN8) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Welcome Back](https://open.spotify.com/album/4qP2cbqLyu4sHbEiRARY8z) | 2:48 |
 | 41 | [CATCH ME IF YOU CAN](https://open.spotify.com/track/1ltkUFNP6ce7PtvB0idL2c) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/6oj7D6Nz6xzwRLoDAmJF3t) | 2:50 |
 | 42 | [riding it](https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [spirallore](https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF) | 2:28 |
-| 43 | [point nemo \(ya ya ya\)](https://open.spotify.com/track/2aMlMQssBEDyATmHhFEZTB) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [point nemo \(ya ya ya\)](https://open.spotify.com/album/561R0OrhW0KfPTYQdr6kKR) | 2:10 |
-| 44 | [wie es früher einmal war](https://open.spotify.com/track/45lyaLLHetseCEwipYs8YB) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [wie es früher einmal war](https://open.spotify.com/album/47NjhmnFHSw5KxG0xpvXlX) | 2:31 |
+| 43 | [wie es früher einmal war](https://open.spotify.com/track/45lyaLLHetseCEwipYs8YB) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [wie es früher einmal war](https://open.spotify.com/album/47NjhmnFHSw5KxG0xpvXlX) | 2:31 |
+| 44 | [point nemo \(ya ya ya\)](https://open.spotify.com/track/2aMlMQssBEDyATmHhFEZTB) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [point nemo \(ya ya ya\)](https://open.spotify.com/album/561R0OrhW0KfPTYQdr6kKR) | 2:10 |
 | 45 | [heimlich](https://open.spotify.com/track/4xwtVstipPkPtQ14x6oJqk) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [SO WIES GRADE IST](https://open.spotify.com/album/1eBVF7QejpNfPhrqKyH4OY) | 1:48 |
 | 46 | [Internet](https://open.spotify.com/track/3FVfPTNFr0Qkc1dm7G3YRO) | [Angelic In Jeans](https://open.spotify.com/artist/2SZVRwlSSNBJNYCcX3KTiD) | [Internet](https://open.spotify.com/album/09k8r1zdn7a2WlRWf31OQb) | 3:01 |
 | 47 | [Lose Somebody](https://open.spotify.com/track/4w6qKOQFW6QgTk3XOL3x22) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [See More Glass](https://open.spotify.com/album/0inybIppQ1YFOXscrIDzEA) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 
 > Music From "Fate/Grand Order"! 音楽で辿る「Fate/Grand Order」の世界!<br/>©TYPE\-MOON / FGO PROJECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,777 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 | 68 | [それってとってもマハトマね☆](https://open.spotify.com/track/1Qqdyxpokk683q5RUJSUv3) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM song material](https://open.spotify.com/album/6iH4KCoMzKq5QyEldHQMX2) | 4:06 |
 | 69 | [Bright Voyager](https://open.spotify.com/track/4AKkzUGI7n3YKFDgxn5JB8) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM song material](https://open.spotify.com/album/6iH4KCoMzKq5QyEldHQMX2) | 5:08 |
 | 70 | [Grand Order / カルデア \(orchestra ver.\)](https://open.spotify.com/track/751BU03OglCUldGkf0Yttc) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Orchestra performed by 東京都交響楽団](https://open.spotify.com/album/5tX8McyqlzKL0Hf9OYjOqS) | 4:56 |
-| 71 | [色彩 \~訣別の時来たれり\~ orchestra ver.\(Live\)](https://open.spotify.com/track/5mNzoFrC8mfydJ1wJL6JuB) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Orchestra Concert \-Live Album\- performed by 東京都交響楽団](https://open.spotify.com/album/0inrr8sZtgIwjJFV0NSNzv) | 4:24 |
+| 71 | [色彩 ～訣別の時来たれり～ orchestra ver.\(Live\)](https://open.spotify.com/track/5mNzoFrC8mfydJ1wJL6JuB) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Orchestra Concert \-Live Album\- performed by 東京都交響楽団](https://open.spotify.com/album/0inrr8sZtgIwjJFV0NSNzv) | 4:24 |
 | 72 | [Overture \~ Wandering; Agateram](https://open.spotify.com/track/6T9aVgdcyef0cBA0F2GEv1) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [劇場版 Fate/Grand Order \-神聖円卓領域キャメロット\- Original Soundtrack](https://open.spotify.com/album/1acro4oo2NV4hKuVO340Dk) | 3:08 |
 
 Snapshot ID: `ZzVeOwAAAACdhAdgFxo58KnjkMqCHoMq`

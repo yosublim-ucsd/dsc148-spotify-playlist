@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 58819,
+  "num_followers": 58837,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPAAAAAABHiS+GM/Vr47hj8Bk+NX+p",
+  "snapshot_id": "ZzfggAAAAACqrdWfiljPt7hA0FwIw7zw",
   "tracks": [
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Young (Acoustic)",
-        "url": "https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu"
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 297399,
-      "name": "Die Young (Acoustic)",
-      "url": "https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb"
+      "duration_ms": 213800,
+      "name": "Struck a Nerve",
+      "url": "https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf"
     }
   ],
   "unique_name": "This Is Machine Head",

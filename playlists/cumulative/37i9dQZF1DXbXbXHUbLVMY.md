@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-251 songs - 10 hr 56 min
+252 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cecilia Lind](https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Cecilia Lind](https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD) | 1:41 | 2024-10-10 |  |
 | [CHICANO](https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [CHICANO](https://open.spotify.com/album/5pAM6Ft7kGCj4wyWAIpQTU) | 2:31 | 2024-05-23 | 2024-08-16 |
 | [Come Up](https://open.spotify.com/track/5YPVk5H7KIIKFo2Qf24cqG) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Come Up](https://open.spotify.com/album/5gF7ulkH0pjCqJlTnF2kAE) | 1:55 | 2024-02-29 | 2024-03-22 |
+| [Cph Freestyle](https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [Peder Nord](https://open.spotify.com/artist/54m555rji218uiKKLkIMzX) | [Bra År](https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA) | 1:49 | 2024-11-14 |  |
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-09-21 | 2024-03-01 |
 | [Daddy Issues \(feat\. Simon Superti\)](https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [BABA IVO](https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU) | 2:29 | 2024-02-29 | 2024-04-26 |
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-21 |  |
@@ -132,7 +133,7 @@
 | [Ka Kac](https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SKAPAD AV SMÄRTAN](https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp) | 2:41 | 2023-09-21 | 2023-12-19 |
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2023-09-21 | 2024-03-22 |
 | [KAN JAG FRÅGA DIG?](https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [LUANDA](https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe) | 3:21 | 2024-05-30 |  |
-| [King Of The Hill \(feat\. Roc Boyz\)](https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Stikk I Brystet](https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7) | 2:34 | 2024-04-27 |  |
+| [King Of The Hill \(feat\. Roc Boyz\)](https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Stikk I Brystet](https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7) | 2:34 | 2024-04-27 | 2024-11-18 |
 | [kjemiker/romantiker.](https://open.spotify.com/track/3PWtq9chrzLwFdGc9a7IIx) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [kjemiker/romantiker.](https://open.spotify.com/album/6uRQ5gZJtJ9v5wHBmTGTWF) | 2:35 | 2023-09-21 | 2023-10-13 |
 | [Konstnärer](https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Konstnärer](https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4) | 2:30 | 2023-09-28 | 2024-07-19 |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-09-21 | 2023-11-11 |

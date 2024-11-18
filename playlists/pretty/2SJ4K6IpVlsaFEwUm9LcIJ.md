@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,116 likes - 15 songs - 46 min 51 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 22,124 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 11 | [A/B \- 2023 Remaster](https://open.spotify.com/track/3a62IVw5rTTmcjQrvTT89M) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 3:40 |
 | 12 | [Your New Boyfriend](https://open.spotify.com/track/1aNxWiJCgnFWIzsah4HNZ2) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 1:51 |
 | 13 | [Marginalia \#181](https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#181](https://open.spotify.com/album/4hwb1r1XKuxn3gAS3VTr8i) | 3:28 |
-| 14 | [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 |
-| 15 | [The Homecoming Queen's Got a Gun](https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh) | [Julie Brown](https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv) | [Trapped In The Body Of A White Girl](https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2) | 4:38 |
+| 14 | [Invitation](https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [Song for the Moon](https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5) | 4:22 |
+| 15 | [Clearing](https://open.spotify.com/track/6arhzyP34P8MjjjwGylUbX) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:13 |
+| 16 | [The Homecoming Queen's Got a Gun](https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh) | [Julie Brown](https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv) | [Trapped In The Body Of A White Girl](https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2) | 4:38 |
+| 17 | [Fool](https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml) | [The Slaps](https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl) | [Mudglimmer](https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3) | 3:29 |
+| 18 | [Summertime](https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 3:21 |
+| 19 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 |
+| 20 | [If I Am](https://open.spotify.com/track/7vO8kQ5RVYQdmdApypvjAi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [If I Am](https://open.spotify.com/album/6SRNDhfOZNAKR1d9qkYARJ) | 2:22 |
 
-Snapshot ID: `AAALVH2pA+HojdlhcP2eShyJUr0ECJYm`
+Snapshot ID: `AAALX3neiWudYU/dIxBlJDCNK+qPLpHO`

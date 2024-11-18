@@ -853,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Kid At Christmas",
+        "url": "https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213828,
+      "name": "Kid At Christmas",
+      "url": "https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90"
+    },
+    {
+      "album": {
         "name": "Cedarmont",
         "url": "https://open.spotify.com/album/1su801cFXN57dqGWV8sN1u"
       },

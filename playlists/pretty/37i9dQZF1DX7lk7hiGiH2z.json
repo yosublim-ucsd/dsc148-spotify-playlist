@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 47839,
+  "num_followers": 47882,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
+        "name": "Allergr\u00f6\u00dfter Wunsch (feat. Fidi Steinbeck)",
+        "url": "https://open.spotify.com/album/5JwhZ2T6j68gj9OZH0Sjnz"
+      },
+      "artists": [
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Fidi Steinbeck",
+          "url": "https://open.spotify.com/artist/5jiQJuf5PswA0Cbp0PPcA9"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Allergr\u00f6\u00dfter Wunsch (feat. Fidi Steinbeck)",
+      "url": "https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
         "name": "Schnee",
         "url": "https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 157333,
       "name": "Alle Jahre wieder",
       "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
-        "name": "Allergr\u00f6\u00dfter Wunsch (feat. Fidi Steinbeck)",
-        "url": "https://open.spotify.com/album/5JwhZ2T6j68gj9OZH0Sjnz"
-      },
-      "artists": [
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Fidi Steinbeck",
-          "url": "https://open.spotify.com/artist/5jiQJuf5PswA0Cbp0PPcA9"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Allergr\u00f6\u00dfter Wunsch (feat. Fidi Steinbeck)",
-      "url": "https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
-        "name": "Giraffenaffen 4 - Winterzeit",
-        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
+        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
       },
       "artists": [
         {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Kleiner Eisb\u00e4r",
+          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
-      "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
+      "duration_ms": 237826,
+      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
+      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -387,22 +383,6 @@
       "duration_ms": 156760,
       "name": "Kekse",
       "url": "https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
-        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
-        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
-      },
-      "artists": [
-        {
-          "name": "Kleiner Eisb\u00e4r",
-          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
-      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -435,18 +415,22 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
-        "name": "Folge 74 - Benjamin Bl\u00fcmchen singt Weihnachtslieder",
-        "url": "https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
         {
-          "name": "Benjamin Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 195280,
-      "name": "Weihnachten im Zoo",
-      "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
+      "duration_ms": 235266,
+      "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
+      "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -463,6 +447,22 @@
       "duration_ms": 144000,
       "name": "Zootierpolka",
       "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
+        "name": "Folge 74 - Benjamin Bl\u00fcmchen singt Weihnachtslieder",
+        "url": "https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Weihnachten im Zoo",
+      "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -487,50 +487,6 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
-        "name": "Winterlieder: Bayerisch-Verschmitzte Kinderlieder f\u00fcr Winter und Weihnachten",
-        "url": "https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ"
-      },
-      "artists": [
-        {
-          "name": "Sternschnuppe",
-          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
-        }
-      ],
-      "duration_ms": 273725,
-      "name": "Eisb\u00e4rn (Kinderlied zum Winter)",
-      "url": "https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
-        "name": "Das Weihnachtsalbum Deluxe",
-        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
-      },
-      "artists": [
-        {
-          "name": "Bibi und Tina",
-          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
-        },
-        {
-          "name": "Peter Plate",
-          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
-        },
-        {
-          "name": "Ulf Leo Sommer",
-          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
-        },
-        {
-          "name": "Benjamin Weygand",
-          "url": "https://open.spotify.com/artist/41xc05UxOoE4gWJOQ40KPA"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
-      "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
         "name": "HIGHFIVE!",
         "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
@@ -543,6 +499,22 @@
       "duration_ms": 184173,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
+        "name": "Winterlieder: Bayerisch-Verschmitzte Kinderlieder f\u00fcr Winter und Weihnachten",
+        "url": "https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "duration_ms": 273725,
+      "name": "Eisb\u00e4rn (Kinderlied zum Winter)",
+      "url": "https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -591,6 +563,34 @@
       "duration_ms": 174760,
       "name": "Schnee im Gefrierfach",
       "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
+        "name": "Das Weihnachtsalbum Deluxe",
+        "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Bibi und Tina",
+          "url": "https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        },
+        {
+          "name": "Benjamin Weygand",
+          "url": "https://open.spotify.com/artist/41xc05UxOoE4gWJOQ40KPA"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
+      "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Heut Nacht hat's geschneit",
+      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Heut Nacht hat's geschneit",
-      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
+      "duration_ms": 138486,
+      "name": "Winterkinder",
+      "url": "https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -751,18 +767,34 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 138486,
-      "name": "Winterkinder",
-      "url": "https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj"
+      "duration_ms": 183626,
+      "name": "Der Baum ist schief",
+      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
+        "name": "Lamettawetter EP",
+        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
+      },
+      "artists": [
+        {
+          "name": "Raketen Erna",
+          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "Wo ist der Schneemann?",
+      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -803,38 +835,6 @@
       "duration_ms": 88160,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Der Baum ist schief",
-      "url": "https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
-        "name": "Lamettawetter EP",
-        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
-      },
-      "artists": [
-        {
-          "name": "Raketen Erna",
-          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "Wo ist der Schneemann?",
-      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
     },
     {
       "added_at": "2024-11-14 09:06:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-11-14 09:06:00",
       "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
+    },
+    {
+      "added_at": "2024-11-14 09:06:00",
+      "album": {
         "name": "Feste feiern auf dem singenden Bauernhof",
         "url": "https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 153207,
       "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
       "url": "https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq"
-    },
-    {
-      "added_at": "2024-11-14 09:06:00",
-      "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 169591,
-      "name": "Schneeengel",
-      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
     }
   ],
   "unique_name": "Familienzeit: Winter",

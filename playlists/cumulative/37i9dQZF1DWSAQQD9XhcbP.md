@@ -2,7 +2,7 @@
 
 ### [Mellow Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSAQQD9XhcbP)
 
-> Cozy Christmas vibes\. Cover: Laufey
+> Cozy Christmas vibes\. Cover: Lyn Lapid
 
 145 songs - 8 hr 1 min
 

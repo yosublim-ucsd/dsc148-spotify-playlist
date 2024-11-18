@@ -23488,7 +23488,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 192000,
       "name": "Fine Lines",
       "url": "https://open.spotify.com/track/6CdJA3CP9fOrb1kJiN26Ed"
@@ -26818,7 +26818,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 236615,
       "name": "Give Me A Sign?",
       "url": "https://open.spotify.com/track/7pccPyIVWGHZ7LF9V7FdTK"
@@ -40796,7 +40796,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 298500,
       "name": "LONG DRIVE (stripped)",
       "url": "https://open.spotify.com/track/1bQiY1zmmRCZCuVC9jRFGa"
@@ -42800,7 +42800,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 131625,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6zgvXX52nlSRVsY5mfkT8u"
@@ -51218,6 +51218,24 @@
       "duration_ms": 220493,
       "name": "One Two Three",
       "url": "https://open.spotify.com/track/1OYBNcyWtEik36mDHkJFp6"
+    },
+    {
+      "album": {
+        "name": "ONE WISH",
+        "url": "https://open.spotify.com/album/4xIjUIY2jN4vAEpbJJUZbe"
+      },
+      "artists": [
+        {
+          "name": "Veldor",
+          "url": "https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "ONE WISH",
+      "url": "https://open.spotify.com/track/1ND85SvaizoVfj6rJDvD1M"
     },
     {
       "album": {
@@ -63012,7 +63030,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 165117,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/0Dl2nrGqxIEh2zmWnXn9Q3"
@@ -65800,7 +65818,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 163076,
       "name": "SUPERMARKET SUSHI",
       "url": "https://open.spotify.com/track/2W2SxbrgKxD7BV5lfqOd0M"
@@ -68426,7 +68444,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 151581,
       "name": "The Local",
       "url": "https://open.spotify.com/track/3onJ6ztBx5RI9BzdKW0kez"
@@ -69866,7 +69884,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 173990,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH"

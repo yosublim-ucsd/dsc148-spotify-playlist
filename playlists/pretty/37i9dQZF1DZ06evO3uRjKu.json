@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 70047,
+  "num_followers": 70058,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAAC45zeNp/p9jUTjRPgIBwsC",
+  "snapshot_id": "ZzfggAAAAABAlCnSGdHJltVOU+LZcm7g",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Pienso de Vos (En Vivo)",
-        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 192699,
-      "name": "Lo Que Pienso de Vos - En Vivo",
-      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agarrate Fuerte",
         "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180706,
       "name": "Animales Sueltos",
       "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Pienso de Vos (En Vivo)",
+        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192699,
+      "name": "Lo Que Pienso de Vos - En Vivo",
+      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABwxP2DWgkMbwBS8pTqMhRv",
+  "snapshot_id": "AAAAAAAAAABoCalb+MPZHUfqosHdPLFd",
   "tracks": [
     {
       "added_at": "2024-11-15 03:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Echo rustique",
-        "url": "https://open.spotify.com/album/1V0FG0athCY8lcZ6Im5xpi"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "BerceMuse",
-          "url": "https://open.spotify.com/artist/7I2RiyzBQkqPKRBSo7t6H5"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "Echo rustique, Op. 72: No.13",
-      "url": "https://open.spotify.com/track/7iBepL7rwQ5yVdtDWWf6Js"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Piano for Calming Piano Melodies",
         "url": "https://open.spotify.com/album/5WTwfINK82dqWuZKteIgtQ"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 168133,
       "name": "Sunshine Life For Me (Sail Away Raymond)",
       "url": "https://open.spotify.com/track/4tuAZPolXBr6xGr6y79nQ4"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Swan Lake Act II 10 Scene (LoFi Version)",
+        "url": "https://open.spotify.com/album/3Y3ul85qvL3wDf9Timfthp"
+      },
+      "artists": [
+        {
+          "name": "ClassicFi",
+          "url": "https://open.spotify.com/artist/1RkfzwDP8VmtgSp7hCd3kB"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "duration_ms": 139045,
+      "name": "Swan Lake Act II 10 Scene - LoFi Version",
+      "url": "https://open.spotify.com/track/2JFDreFLDf3c7HGd6y2EEh"
     },
     {
       "added_at": "2024-11-15 03:00:00",

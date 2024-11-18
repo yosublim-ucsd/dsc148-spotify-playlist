@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 7594,
+  "num_followers": 7606,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Cindy's Messiah",
         "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
@@ -207,30 +207,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Sound from Heaven",
-        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        },
-        {
-          "name": "Naa Mercy",
-          "url": "https://open.spotify.com/artist/21ARrGfmU7xp92nCM0N4ib"
-        },
-        {
-          "name": "Calvis Hammond",
-          "url": "https://open.spotify.com/artist/7BtTdyh7xO8z4T7gpXA6Hh"
-        },
-        {
-          "name": "Negar Wujanji",
-          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 977893,
-      "name": "Ghana Local Worship",
-      "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -283,6 +271,34 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "A Sound from Heaven",
+        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        },
+        {
+          "name": "Naa Mercy",
+          "url": "https://open.spotify.com/artist/21ARrGfmU7xp92nCM0N4ib"
+        },
+        {
+          "name": "Calvis Hammond",
+          "url": "https://open.spotify.com/artist/7BtTdyh7xO8z4T7gpXA6Hh"
+        },
+        {
+          "name": "Negar Wujanji",
+          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+        }
+      ],
+      "duration_ms": 977893,
+      "name": "Ghana Local Worship",
+      "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Nyame Eguamba",
-      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -379,6 +363,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Nyame Eguamba",
+      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 458000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Mahunu Awurade",
+        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 359366,
+      "name": "Okura Yen Mu",
+      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -415,18 +431,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mahunu Awurade",
-        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
+        "name": "Obi Nyanime",
+        "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
       },
       "artists": [
         {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+          "name": "Patience Nyarko",
+          "url": "https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI"
         }
       ],
-      "duration_ms": 359366,
-      "name": "Okura Yen Mu",
-      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
+      "duration_ms": 374230,
+      "name": "Obi Nyanime",
+      "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -447,18 +463,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Obi Nyanime",
-        "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Patience Nyarko",
-          "url": "https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 374230,
-      "name": "Obi Nyanime",
-      "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
+      "duration_ms": 301400,
+      "name": "Aseda Nwom",
+      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "Aseda Nwom",
-      "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Pentecost Soree Nwom",
         "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 354150,
       "name": "Hymm",
       "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Asomdwoe Hene",
-        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 312058,
-      "name": "Twediampong Nyame",
-      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -607,6 +591,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Yehowa Ne Mabankese",
+        "url": "https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx"
+      },
+      "artists": [
+        {
+          "name": "Rev. Mensah Bonsu",
+          "url": "https://open.spotify.com/artist/3dKVL03pFxZrR2yutmLHw0"
+        }
+      ],
+      "duration_ms": 383120,
+      "name": "Asem kese bi reba",
+      "url": "https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 318876,
       "name": "Afurumuba",
       "url": "https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Asomdwoe Hene",
+        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 312058,
+      "name": "Twediampong Nyame",
+      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -655,6 +671,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Ghana Gospel Mix",
+        "url": "https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY"
+      },
+      "artists": [
+        {
+          "name": "Philipa Baafi",
+          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
+        }
+      ],
+      "duration_ms": 296752,
+      "name": "Yesu Ne Me Last Stop",
+      "url": "https://open.spotify.com/track/5dg3UDruST8ro3QGWpEDeu"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Yesom Nyame Otease",
         "url": "https://open.spotify.com/album/7nuaCvUOo6iDURklwaSHuV"
       },
@@ -671,18 +703,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Yehowa Ne Mabankese",
-        "url": "https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx"
+        "name": "Afe Ato Me",
+        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
       },
       "artists": [
         {
-          "name": "Rev. Mensah Bonsu",
-          "url": "https://open.spotify.com/artist/3dKVL03pFxZrR2yutmLHw0"
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
         }
       ],
-      "duration_ms": 383120,
-      "name": "Asem kese bi reba",
-      "url": "https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg"
+      "duration_ms": 331520,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -723,22 +755,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ghana Gospel Mix",
-        "url": "https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY"
-      },
-      "artists": [
-        {
-          "name": "Philipa Baafi",
-          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
-        }
-      ],
-      "duration_ms": 296752,
-      "name": "Yesu Ne Me Last Stop",
-      "url": "https://open.spotify.com/track/5dg3UDruST8ro3QGWpEDeu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Counselor I",
         "url": "https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 306741,
       "name": "E Be God",
       "url": "https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Afe Ato Me",
-        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 331520,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,606 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,713 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [What A Loss](https://open.spotify.com/track/3UvqQpBrhM9GfgCDoTl28G) | [Taffy Ghazali](https://open.spotify.com/artist/3Q0iumVR9I3LUs7RY0QY4s), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [What a loss](https://open.spotify.com/album/6IBO1yvczU6NmnhZ3p2Mw8) | 4:19 |
 | 49 | [Elles demandent](https://open.spotify.com/track/3V2IuZQ2ZVvsrsrUVjhHDb) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [SUMMER](https://open.spotify.com/album/651oHJ0RhcjPfJQY1hjsz8) | 2:23 |
 
-Snapshot ID: `ZzaA8AAAAABzPnnV+JgHOTsCpnpfJQPB`
+Snapshot ID: `Zzpx3QAAAACRAUyInHt6NZbR2scPr6x+`

@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68379,
+  "num_followers": 68380,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Everything's Blurred But You",
+        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Set Me Free (feat. MAX)",
         "url": "https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 193364,
       "name": "Set Me Free (feat. MAX)",
       "url": "https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Everything's Blurred But You",
-        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA"
+      },
+      "artists": [
+        {
+          "name": "GoodLuck",
+          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "\u2018Til I Found You (Montmartre Remix)",
         "url": "https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn"
       },
@@ -775,18 +791,26 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Passionfruit",
-        "url": "https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA"
+        "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
+        "url": "https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm"
       },
       "artists": [
         {
-          "name": "GoodLuck",
-          "url": "https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Nate Highfield",
+          "url": "https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF"
+        },
+        {
+          "name": "SILVER",
+          "url": "https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv"
+      "duration_ms": 204789,
+      "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
+      "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -827,30 +851,6 @@
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
-        "url": "https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Nate Highfield",
-          "url": "https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF"
-        },
-        {
-          "name": "SILVER",
-          "url": "https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u"
-        }
-      ],
-      "duration_ms": 204789,
-      "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
-      "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
     },
     {
       "added_at": "2024-05-10 06:34:25",

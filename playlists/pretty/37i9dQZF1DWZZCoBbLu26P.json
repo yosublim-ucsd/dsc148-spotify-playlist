@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 90920,
+  "num_followers": 90942,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -195,30 +195,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Queens Everywhere (Cast Version)",
-        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 11",
-          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
-        },
-        {
-          "name": "Markaholic",
-          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
-        }
-      ],
-      "duration_ms": 197422,
-      "name": "Queens Everywhere - Cast Version",
-      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Break Up Bye Bye (Frock Destroyers Version)",
         "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
       },
@@ -255,18 +231,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "I Made It / Mirror Song / Losing is the New Winning (Las Vegas Live Medley)",
-        "url": "https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr"
+        "name": "Queens Everywhere (Cast Version)",
+        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
       },
       "artists": [
         {
-          "name": "The Cast of RuPaul's Drag Race, Season 12",
-          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 11",
+          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
+        },
+        {
+          "name": "Markaholic",
+          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
         }
       ],
-      "duration_ms": 469047,
-      "name": "I Made It / Mirror Song / Losing is the New Winning - Las Vegas Live Medley",
-      "url": "https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn"
+      "duration_ms": 197422,
+      "name": "Queens Everywhere - Cast Version",
+      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -283,6 +267,22 @@
       "duration_ms": 157920,
       "name": "Hectic",
       "url": "https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "I Made It / Mirror Song / Losing is the New Winning (Las Vegas Live Medley)",
+        "url": "https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 12",
+          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
+        }
+      ],
+      "duration_ms": 469047,
+      "name": "I Made It / Mirror Song / Losing is the New Winning - Las Vegas Live Medley",
+      "url": "https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Werqin' Girl (Professional)",
         "url": "https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "One Stone",
-        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 185744,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Bitch Like Me",
         "url": "https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 200160,
       "name": "Hot Couture",
       "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -435,42 +451,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Soak It Up",
-        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        },
-        {
-          "name": "Bob the Drag Queen",
-          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
-        }
-      ],
-      "duration_ms": 256298,
-      "name": "Soak It Up (Remix)",
-      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Soak It Up",
+        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        },
+        {
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+        }
+      ],
+      "duration_ms": 256298,
+      "name": "Soak It Up (Remix)",
+      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
-      },
-      "artists": [
-        {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
-        }
-      ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Everyone Is A Little Bit Gay",
         "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Drag Den",
         "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 195474,
       "name": "Drag Den",
       "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -887,22 +867,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
-      },
-      "artists": [
-        {
-          "name": "Sharon Needles",
-          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
-        }
-      ],
-      "duration_ms": 198391,
-      "name": "Flamin' Hot",
-      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
@@ -919,18 +883,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
       },
       "artists": [
         {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+          "name": "Sharon Needles",
+          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+      "duration_ms": 198391,
+      "name": "Flamin' Hot",
+      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -947,6 +911,26 @@
       "duration_ms": 209603,
       "name": "Zubi Zubi Zubi",
       "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Sweet T",
         "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Much Betta",
-        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
-      },
-      "artists": [
-        {
-          "name": "Baga chipz",
-          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Much Betta",
-      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Diamond Crowned Queen",
         "url": "https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 231932,
       "name": "Diamond Crowned Queen - Original",
       "url": "https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Much Betta",
+        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
+      },
+      "artists": [
+        {
+          "name": "Baga chipz",
+          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Much Betta",
+      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Transphibian",
         "url": "https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 253585,
       "name": "Supermarch\u00e9",
       "url": "https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186686,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2024-05-31 17:55:47",

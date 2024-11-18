@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,492 songs - 2 day 8 hr 9 min
+1,493 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Douceur d'hiver](https://open.spotify.com/track/3ZDj7S4o3p2QKATSbStsDY) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Douceur d'hiver](https://open.spotify.com/album/6o3MUyyv61DzDsyFbEDWri) | 2:34 | 2022-12-16 | 2023-10-06 |
 | [Dove](https://open.spotify.com/track/5s99iO6r9w8EPuH6aXDBPH) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Dove](https://open.spotify.com/album/08UlZLX299ul1lJfzylHaf) | 2:07 | 2024-09-13 |  |
 | [Downpour](https://open.spotify.com/track/2fioad7JuJ3sw3NSA7nCBG) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Downpour](https://open.spotify.com/album/20wA5V3P3FkbJ934euFlE6) | 2:32 | 2022-10-28 | 2023-03-09 |
-| [downtime](https://open.spotify.com/track/4350h6v6CUgKVh9YWnvMjw) | [lomix](https://open.spotify.com/artist/25bLrD0Ko3DxkuA5mhdEZA) | [downtime](https://open.spotify.com/album/2jBxi0LJumaJNoKFWY3sWT) | 2:20 | 2022-12-09 | 2024-11-16 |
+| [downtime](https://open.spotify.com/track/4350h6v6CUgKVh9YWnvMjw) | [lomix](https://open.spotify.com/artist/25bLrD0Ko3DxkuA5mhdEZA) | [downtime](https://open.spotify.com/album/2jBxi0LJumaJNoKFWY3sWT) | 2:20 | 2022-12-09 |  |
 | [Downtime](https://open.spotify.com/track/5OCnlqUft1qW9k0CxbGc3t) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Downtime](https://open.spotify.com/album/4FydsPgeeBLIa8e0VW4Pht) | 1:54 | 2022-09-30 | 2023-09-22 |
 | [Dream Infinite](https://open.spotify.com/track/6V8CcTlVfqScjBMEyt1tih) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dream Infinite](https://open.spotify.com/album/2qEPJMiTNxXFt2Wpq73e4Q) | 1:44 | 2022-09-23 | 2023-09-22 |
 | [Dreamin](https://open.spotify.com/track/4VKvd5JszOMtL1riX0QbDG) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Fantasy Island](https://open.spotify.com/album/5hBy7hsiIQoSMlKBCtqveR) | 2:50 | 2023-03-08 | 2024-05-14 |
@@ -790,7 +790,7 @@
 | [Medicinal Sushi](https://open.spotify.com/track/3mbwQJDnCQxyclWLlj47FG) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Medicinal Sushi](https://open.spotify.com/album/46UGUGL6oz0XVuSN6SkMcs) | 2:24 | 2022-01-27 | 2022-06-10 |
 | [Melancholy Day](https://open.spotify.com/track/3T7MF3XTwynzBtjK90uQrq) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN) | [Melancholy Day](https://open.spotify.com/album/1aQVcBW6FOpE6X6OGbg1wS) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [mellow](https://open.spotify.com/track/2a4h0dv6sfDs8UN4p54RN3) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [mellow](https://open.spotify.com/album/0FNTsPW58jkxgq6X5GWGfc) | 1:57 | 2022-01-27 | 2022-05-27 |
-| [Mellow Out](https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Mellow Out](https://open.spotify.com/album/7gZ6sGJpzHS4yQHJ9uBabA) | 2:50 | 2023-09-22 |  |
+| [Mellow Out](https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Mellow Out](https://open.spotify.com/album/7gZ6sGJpzHS4yQHJ9uBabA) | 2:50 | 2023-09-22 | 2024-11-18 |
 | [Mellow Soul](https://open.spotify.com/track/2PTqDoJuM3W9Z9Zn1ddJfU) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Highway](https://open.spotify.com/album/0mk205AAszddbq1ogyLECX) | 2:28 | 2022-01-27 | 2023-04-21 |
 | [Memories](https://open.spotify.com/track/5llvDpJbfpRKqMpYh8Zem6) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Memories](https://open.spotify.com/album/2O1AbZ6WJw2IpkgWVNGweR) | 2:03 | 2024-10-04 |  |
 | [Memphis](https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Memphis](https://open.spotify.com/album/2PbkjD4087IcLhi28LIZUM) | 2:39 | 2022-08-19 | 2023-01-13 |
@@ -875,7 +875,7 @@
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-01-27 | 2022-06-10 |
 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 | 2022-05-27 |  |
 | [Neighborhood](https://open.spotify.com/track/4MdB7vfKHChyBTrewDIo2Z) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Neighborhood](https://open.spotify.com/album/1jxtwSifLltjn8t4UHeqCp) | 2:35 | 2022-01-27 | 2022-07-01 |
-| [neo wave](https://open.spotify.com/track/373L1sf5eqPaoJnrE67x5J) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [neo wave](https://open.spotify.com/album/0YMhzt7mWfsfZQjpr5NX8U) | 2:30 | 2023-03-08 |  |
+| [neo wave](https://open.spotify.com/track/373L1sf5eqPaoJnrE67x5J) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [neo wave](https://open.spotify.com/album/0YMhzt7mWfsfZQjpr5NX8U) | 2:30 | 2023-03-08 | 2024-11-18 |
 | [Neon Moon](https://open.spotify.com/track/2oZFGXToaoT7opNSoIqE9A) | [Peter Rushing](https://open.spotify.com/artist/3vXOWOgq3me2u65bCXJbwJ) | [Neon Moon](https://open.spotify.com/album/6206QPsdGTbbHnRmFE8Ciw) | 1:52 | 2022-05-20 | 2024-01-12 |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-01-27 | 2022-09-03 |
@@ -1425,6 +1425,7 @@
 | [walkin out](https://open.spotify.com/track/7DRxO3BorogSatHXzVxWIt) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [walkin out](https://open.spotify.com/album/3HPAwqLkFTR8NN3M49OFM5) | 2:09 | 2022-09-23 | 2023-09-22 |
 | [Walking Away](https://open.spotify.com/track/6D92s9XsxCMSx7cnRRyIm6) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Tapeloop](https://open.spotify.com/album/25R3bF7LFwPRg3ORzO8Age) | 1:58 | 2022-01-27 | 2022-09-17 |
 | [Walking In The Rain](https://open.spotify.com/track/2rQ6jDIoT94aUR8p8RrC20) | [Nadja Salkova](https://open.spotify.com/artist/7tmmBlFgiMjRHlv1GY1l18) | [Walking In The Rain](https://open.spotify.com/album/6aoHysv4kqrMuVixhuONsk) | 2:03 | 2022-01-27 | 2022-06-03 |
+| [Wandering](https://open.spotify.com/track/1z2qQVXj6OkkW0DrgGiIno) | [Hayde Kole](https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd) | [Wandering](https://open.spotify.com/album/0eDeatHZVyRtT8DIOfE6Ex) | 2:08 | 2024-11-14 |  |
 | [Wanderlust](https://open.spotify.com/track/3H4uTtG1wEOaEgMt5TuTim) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [Wanderlust](https://open.spotify.com/album/0Nf2gi4zB4TQ4PZme0xgZo) | 2:09 | 2023-05-19 |  |
 | [wandsworth park](https://open.spotify.com/track/4fWFGd70ErhNWIr3B1caod) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [wandsworth park](https://open.spotify.com/album/3uTFiBnVfCwU8mOaPtpqOb) | 1:47 | 2022-01-27 | 2023-05-20 |
 | [want ya](https://open.spotify.com/track/6HV10yCjxRNOM0prvTdfhj) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX) | [want ya](https://open.spotify.com/album/4d75yP2t7jB1gBRsPNt7S9) | 2:18 | 2022-01-27 | 2022-05-14 |

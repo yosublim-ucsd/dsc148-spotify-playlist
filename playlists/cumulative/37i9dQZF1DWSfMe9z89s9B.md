@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Chase Shakur
 
-1,335 songs - 2 day 22 hr 23 min
+1,336 songs - 2 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [FLIGHTS](https://open.spotify.com/track/1W12kMWCu5O4zZQMZ8vqjQ) | [JEMS!](https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m) | [FLIGHTS](https://open.spotify.com/album/0u1o8ISszon1vkIkYQRRlA) | 3:52 | 2024-07-26 | 2024-10-11 |
 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 | 2022-11-18 | 2023-05-27 |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-03-15 | 2024-09-01 |
-| [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
+| [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 | 2024-11-18 |
 | [Fly](https://open.spotify.com/track/5i7ZEk2uiG4t4Czf8MKImF) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Fly](https://open.spotify.com/album/4PdghOXArMQYltT3xYpCQI) | 3:05 | 2023-07-28 | 2023-10-07 |
 | [Fly On the Wall\. \(Osaka Version\)](https://open.spotify.com/track/6lZC0P2I2CB1zL1bSbijpz) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Fly On the Wall\. \(Osaka Version\)](https://open.spotify.com/album/229219MaA5bdnCL9XFHfw5) | 3:42 | 2024-07-19 | 2024-09-14 |
 | [Fly on Your Wall](https://open.spotify.com/track/5a3wssFEZkJ14B7UeUg0GS) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Ezra Martin](https://open.spotify.com/artist/1DDWw9aZYz7pXgs9jmf6Go) | [Fly on Your Wall](https://open.spotify.com/album/5VuZOE3FqvMJ5lwfVVweSk) | 3:17 | 2022-09-16 | 2022-09-24 |
@@ -1105,6 +1105,7 @@
 | [Superpower](https://open.spotify.com/track/2MqlJQo7jUdUpRKwCpd1B4) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Superpower](https://open.spotify.com/album/7FF5zdaq1Y8T7f7uUwoPTz) | 3:08 | 2021-03-19 | 2022-04-25 |
 | [Superstar](https://open.spotify.com/track/5a4IW2MzERTAMJteRzoy1t) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Superstar](https://open.spotify.com/album/3NufSjKHNbdeHHMm9ZxnbF) | 2:44 | 2024-06-14 | 2024-09-07 |
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-04-01 | 2022-07-27 |
+| [Survival](https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Survival](https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h) | 3:33 | 2024-11-15 |  |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-20 | 2024-06-29 |
 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 | 2024-08-23 |  |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-09-08 | 2024-06-29 |

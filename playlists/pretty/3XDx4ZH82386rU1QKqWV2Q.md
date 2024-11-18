@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,058,056 likes - 122 songs - 5 hr 7 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,057,906 likes - 124 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,15 +120,17 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 110 | [FIVE O](https://open.spotify.com/track/5SZbLPei4iH9VTJCdNYZza) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Ku$h Drifter](https://open.spotify.com/artist/17PKqjvXIlUPIx2TrwnVnb), [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [FIVE O](https://open.spotify.com/album/0ppOPijiKKZ9VyGOSL44Uz) | 2:02 |
 | 111 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 |
 | 112 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 |
-| 113 | [Saved](https://open.spotify.com/track/7ndhYyR0sUdZ4WkVrZEhKF) | [Rexlambo](https://open.spotify.com/artist/0I83Jj4OE4Y102cx1R5mjV) | [Saved](https://open.spotify.com/album/2VKR7xA4o7fm7Guokwnu5Q) | 2:28 |
-| 114 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 |
-| 115 | [Quadrant](https://open.spotify.com/track/5aCUd0qFRMuILkp6SujeQS) | [Another Time](https://open.spotify.com/artist/6UPkJPAeJXdVccWYXSVFpc) | [Synapse](https://open.spotify.com/album/5cP4G8ARggPY692Jgfghap) | 6:46 |
-| 116 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 |
-| 117 | [Hell To Ascend](https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Hell To Ascend](https://open.spotify.com/album/68txpz9LvmBgNq7Sfb0U8W) | 2:29 |
-| 118 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 |
-| 119 | [Beautiful Day](https://open.spotify.com/track/6R2qWja1mSvUWowJYGkwb9) | [Silence Decibel and Colors](https://open.spotify.com/artist/0cAo2MDp2DEdO1ecqfSL65) | [Beautiful Day](https://open.spotify.com/album/4FVDEY1p359v8u8agzF4G8) | 2:53 |
-| 120 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 |
-| 121 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
-| 122 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
+| 113 | [Let The Rhythm Take Control](https://open.spotify.com/track/6r95PbMDWnqCJtrenM9tJ8) | [Pojrene](https://open.spotify.com/artist/5lYBjyTseVvvFM08JITkU7) | [Let The Rhythm Take Control](https://open.spotify.com/album/0bZ0HKIMHVjn0q4P344nPf) | 4:13 |
+| 114 | [Saved](https://open.spotify.com/track/7ndhYyR0sUdZ4WkVrZEhKF) | [Rexlambo](https://open.spotify.com/artist/0I83Jj4OE4Y102cx1R5mjV) | [Saved](https://open.spotify.com/album/2VKR7xA4o7fm7Guokwnu5Q) | 2:28 |
+| 115 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 |
+| 116 | [Quadrant](https://open.spotify.com/track/5aCUd0qFRMuILkp6SujeQS) | [Another Time](https://open.spotify.com/artist/6UPkJPAeJXdVccWYXSVFpc) | [Synapse](https://open.spotify.com/album/5cP4G8ARggPY692Jgfghap) | 6:46 |
+| 117 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 |
+| 118 | [Hell To Ascend](https://open.spotify.com/track/4fbJi65jCwaMi4Xs5ZNAri) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Hell To Ascend](https://open.spotify.com/album/68txpz9LvmBgNq7Sfb0U8W) | 2:29 |
+| 119 | [Trunk](https://open.spotify.com/track/4ksthl89nVr3tzPF4AFWM2) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Trunk](https://open.spotify.com/album/04FG9gwVAhiqj66ocmrbu7) | 2:05 |
+| 120 | [Beautiful Day](https://open.spotify.com/track/6R2qWja1mSvUWowJYGkwb9) | [Silence Decibel and Colors](https://open.spotify.com/artist/0cAo2MDp2DEdO1ecqfSL65) | [Beautiful Day](https://open.spotify.com/album/4FVDEY1p359v8u8agzF4G8) | 2:53 |
+| 121 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 |
+| 122 | [Chasing Clouds](https://open.spotify.com/track/758IEPNmSNNTdTDnOJwCsq) | [L8DB8](https://open.spotify.com/artist/5qWtBYifEde6m5ddJAXAKk) | [Chasing Clouds](https://open.spotify.com/album/7vqlVz60LkxHGXTHCjUO60) | 1:52 |
+| 123 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
+| 124 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 
-Snapshot ID: `AAAMZv5bJPZVfarnejuUI4IoDZwNuNi9`
+Snapshot ID: `AAAMaPGjND1i5Ns3pP+V8B5DAkrm5XYm`

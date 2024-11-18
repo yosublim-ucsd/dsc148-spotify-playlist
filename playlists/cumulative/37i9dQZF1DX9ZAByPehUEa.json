@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 169523,
       "name": "Don't Wanna Be Alone",
       "url": "https://open.spotify.com/track/6P68mrx6JfMUsLeeBwKnAe"
@@ -3508,6 +3508,28 @@
       "duration_ms": 190413,
       "name": "HIGH SUMMER",
       "url": "https://open.spotify.com/track/0gCPea4rNIFLfXwJUPI9MJ"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7DQdOjhYGmp4nfzRaGvqtm"
+      },
+      "artists": [
+        {
+          "name": "Addy Ace",
+          "url": "https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63"
+        },
+        {
+          "name": "Monde",
+          "url": "https://open.spotify.com/artist/2W7qynuWq1MsPtPNFugxQ1"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0qJyAFX66MbbB8sHT4PYAM"
     },
     {
       "album": {
@@ -7320,7 +7342,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 183414,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1igxWL3hFmQTISSoq2KvYq"
@@ -9816,6 +9838,36 @@
       "duration_ms": 167906,
       "name": "Without U",
       "url": "https://open.spotify.com/track/1S9e5tJI9K8Qpgrh7MKgnM"
+    },
+    {
+      "album": {
+        "name": "Yellow Daze (Opolopo Remix)",
+        "url": "https://open.spotify.com/album/4jLtYpmbUZHlPJ2Sorg9zx"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Opolopo",
+          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Yellow Daze - Opolopo Remix",
+      "url": "https://open.spotify.com/track/67128y97g2y4zrT3ZPWdUG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Fernandinho, Gabriela Rocha",
-  "num_followers": 1093861,
+  "num_followers": 1094270,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -331,22 +331,6 @@
       "duration_ms": 303582,
       "name": "Eu Confio em Ti",
       "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -431,6 +415,22 @@
       "duration_ms": 295714,
       "name": "Bondade De Deus",
       "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
         "name": "Palavras",
         "url": "https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG"
       },
@@ -743,26 +759,6 @@
       "duration_ms": 264693,
       "name": "Palavras",
       "url": "https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "Eu Te Ouvi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 243368,
-      "name": "Eu Te Ouvi - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -783,18 +779,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+        "name": "Eu Te Ouvi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
+      "duration_ms": 243368,
+      "name": "Eu Te Ouvi - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "Inflama (Ao Vivo)",
         "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 411976,
       "name": "Inflama - Ao Vivo",
       "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -931,26 +931,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
+        "name": "\u00c1guas Purificadoras/Oceanos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         },
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "John Dias",
+          "url": "https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc"
         }
       ],
-      "duration_ms": 309590,
-      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
+      "duration_ms": 398188,
+      "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -995,22 +991,26 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "\u00c1guas Purificadoras/Oceanos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5"
+        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         },
         {
-          "name": "John Dias",
-          "url": "https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 398188,
-      "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
+      "duration_ms": 309590,
+      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 528693,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 528693,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
         "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 258146,
       "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
       "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": "2024-10-18 03:01:00",

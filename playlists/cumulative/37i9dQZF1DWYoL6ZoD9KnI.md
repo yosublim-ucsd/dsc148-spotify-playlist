@@ -4,12 +4,13 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-126 songs - 8 hr 16 min
+127 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [amen](https://open.spotify.com/track/4bryMKHEjBRSHW8VNXUj7U) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/7IZFdzxga2A1TMDSateh9A) | 4:34 | 2024-04-08 |  |
 | [amen](https://open.spotify.com/track/6XZdQi6kAR6Ez0O998Erm3) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/3z72r7aIYUDpTElMaBQuxq) | 4:34 | 2022-11-22 | 2024-04-19 |
+| [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 | 2024-11-17 |  |
 | [Decollete \(正式名称はDecolleteの1つ目と3つ目の「e」にアキュートアクセント付き\)](https://open.spotify.com/track/6yDSklr76uHzhyS2Jw442u) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/4DBYRaB42DDZjxyjOfTkzC) | 3:29 | 2024-04-08 |  |
 | [Décolleté](https://open.spotify.com/track/0KAzU42MoxDYo7XXGAdMhk) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:29 | 2022-11-22 | 2024-04-19 |
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-11-22 |  |

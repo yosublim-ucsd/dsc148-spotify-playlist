@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,071 songs - 11 day 4 hr 4 min
+7,073 songs - 11 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4025,7 +4025,7 @@
 | [Moonshine](https://open.spotify.com/track/7vGvapVSzHd9JAVQpWrVr0) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [Moonshine](https://open.spotify.com/album/2dLDylI3cinzFN1Xlfxjxx) | 2:51 | 2021-08-29 | 2022-03-21 |
 | [Moonshine Plaza](https://open.spotify.com/track/0eV0GhobQSqR4K0DQQQ3mH) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 | 2022-09-30 |
 | [Moonwake](https://open.spotify.com/track/4L9Mh0etZXTjvS3YdZW0Ka) | [Cherry Vans](https://open.spotify.com/artist/1TAqi3mSEZKy6tE4phpnJo) | [Moonwake](https://open.spotify.com/album/0BqlxyjuQpMrAijorHIolB) | 2:54 | 2023-02-21 | 2023-03-18 |
-| [Moradia](https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Moradia](https://open.spotify.com/album/4tVHSfSB1xUUxm77D9Ym6n) | 2:47 | 2023-10-20 |  |
+| [Moradia](https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Moradia](https://open.spotify.com/album/4tVHSfSB1xUUxm77D9Ym6n) | 2:47 | 2023-10-20 | 2024-11-18 |
 | [More Love](https://open.spotify.com/track/5OQn5iK9axhAhxx4tDkChX) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Letters From The Heart](https://open.spotify.com/album/2wGJNm55yZvms7WUGDaOzG) | 2:18 | 2023-04-27 | 2023-09-30 |
 | [More Than This](https://open.spotify.com/track/44jMRNYa2UvNX327NHQguc) | [Mike Gusavo](https://open.spotify.com/artist/60qzkDytnh2qZYqMC890qv) | [More Than This](https://open.spotify.com/album/50DX1IxwzOZyCmoBgWYbfN) | 2:38 | 2022-09-16 | 2023-02-28 |
 | [More Time](https://open.spotify.com/track/2Tgv0ulhEINEmtJ1Blh0lO) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [No Time](https://open.spotify.com/album/63T6Lnrl85HcUHjC9OP8u3) | 3:47 | 2020-10-24 | 2021-10-20 |
@@ -4037,6 +4037,7 @@
 | [Morning Breeze](https://open.spotify.com/track/3yMiFGPgp7t7xvvm84Ji4j) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Morning Breeze](https://open.spotify.com/album/5C10piHNCKZXbaOOief4Xl) | 2:21 | 2022-08-26 | 2022-12-16 |
 | [Morning Coffee](https://open.spotify.com/track/47njpbBAeAtVSGpekwh07g) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Sunday Spelunking](https://open.spotify.com/album/0CzYN24ofXBNRAuJ0J9k0H) | 2:11 | 2021-10-26 | 2022-05-05 |
 | [Morning Dew](https://open.spotify.com/track/6LldfZLHQMlNYLG19mDR6x) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0) | 2:31 | 2019-05-27 | 2019-06-12 |
+| [Morning Dew](https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Morning Dew](https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470) | 2:38 | 2024-11-15 |  |
 | [Morning Dew](https://open.spotify.com/track/0QsvdIltgzC5sx4gVhLmEQ) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Morning Dew](https://open.spotify.com/album/5TTuial85QLMSpGcXiqtOJ) | 2:38 | 2021-08-22 | 2022-03-12 |
 | [Morning Dew](https://open.spotify.com/track/6n6LHUnk5CNF14c3tp9A9i) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Morning Dew](https://open.spotify.com/album/1DzytQphtlQwaWHs79Lirl) | 2:26 | 2023-03-16 | 2023-04-21 |
 | [Morning Embers](https://open.spotify.com/track/1I73LYFQsiuQYJxkx2k1iv) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Morning Embers](https://open.spotify.com/album/4fnBiMtBGid5KJM7PGPDwi) | 1:58 | 2021-08-11 | 2022-03-12 |
@@ -4942,6 +4943,7 @@
 | [Raindrops & Jazz](https://open.spotify.com/track/5A8u4hhSSBG41GRIF93rQx) | [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Raindrops & Jazz](https://open.spotify.com/album/5PhVDvblJDbbPF5sgC6OKe) | 2:38 | 2022-07-08 | 2022-10-21 |
 | [Raindrops And Breakups](https://open.spotify.com/track/2IQkm0VKYLIJCGCs1rLQ7x) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Raindrops And Breakups](https://open.spotify.com/album/7sHU3iZ8mmpgho0hZBQOpV) | 1:54 | 2022-10-28 | 2023-01-20 |
 | [Rained In](https://open.spotify.com/track/19HQQW3lGcT8Yq7svGJnbA) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Rained In](https://open.spotify.com/album/7ohFFeTof1lGfxV7VxWTYw) | 2:37 | 2020-01-03 | 2021-08-22 |
+| [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 | 2024-11-15 |  |
 | [Rainfall](https://open.spotify.com/track/3ilVKo3hDULfzLQ0YDl3GH) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Rainfall](https://open.spotify.com/album/5AUbxQORMxA4LJhSO2BJG9) | 2:57 | 2022-08-19 | 2022-11-25 |
 | [Rainmaker](https://open.spotify.com/track/1AzPMYuFDiLAQPcSMaio19) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Rainmaker](https://open.spotify.com/album/0iq5hhSB8jhkga19XgPUyY) | 2:57 | 2022-09-23 | 2022-11-20 |
 | [Rainmaker](https://open.spotify.com/track/451Ilr5PyMWjNbhos9OEE1) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Rainmaker](https://open.spotify.com/album/2xIIru2oIpZJr5vXzcdEjA) | 2:57 | 2022-11-18 | 2022-12-16 |
@@ -6547,7 +6549,7 @@
 | [Up](https://open.spotify.com/track/0vMZrX9RZ8yEqaNIjUmV7y) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 2:00 | 2021-03-06 | 2022-01-14 |
 | [up and upper](https://open.spotify.com/track/5fFgCGDi9eP2A0yUM6LG7k) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [up and upper](https://open.spotify.com/album/03B0KT5nLYh9uSf33frzYk) | 2:24 | 2024-06-14 |  |
 | [Up For Debate](https://open.spotify.com/track/0RTZzUgu0MQ3h8vTGOBKVP) | [Diego Masa](https://open.spotify.com/artist/5RX5BLkadTIqJeXRBWKOSy) | [Up For Debate](https://open.spotify.com/album/5hVmYZDBbQSB4XJSG24SE1) | 2:36 | 2022-04-08 | 2022-10-07 |
-| [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 |  |
+| [Up In The Air](https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Up In The Air](https://open.spotify.com/album/1Ld3X6frL6PwPcI036ltV3) | 2:23 | 2024-03-22 | 2024-11-18 |
 | [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-19 | 2024-08-10 |
 | [UP TO U](https://open.spotify.com/track/6thF5Uau9BJvyT1CmHYjVY) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UP TO U](https://open.spotify.com/album/6CCWR8MSJLkFPMbWxwH8ES) | 1:55 | 2019-11-08 | 2020-10-21 |
 | [Up Up](https://open.spotify.com/track/67BApmtjPdXu5gBfdCbDZ2) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L) | [Up Up](https://open.spotify.com/album/5P0zMkVSWsajg1dWXR6zCM) | 2:13 | 2023-10-06 | 2023-11-11 |

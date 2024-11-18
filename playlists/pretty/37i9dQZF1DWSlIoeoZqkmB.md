@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト！2日間のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,201 likes - 95 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,205 likes - 95 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 | 11 | [メリトクラシー](https://open.spotify.com/track/58YNC52MIqpH5l4p1cDF2R) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [メリトクラシー](https://open.spotify.com/album/72kKMvW8r7t3sS1z3txjVn) | 3:30 |
 | 12 | [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 |
 | 13 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 |
-| 14 | [SHAKE!SHAKE!SHAKE!](https://open.spotify.com/track/5YyQwnxOOwC2oGnu5cLBdg) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [SHAKE!SHAKE!SHAKE!](https://open.spotify.com/album/60g581zoHNrgyW7xZxW2SJ) | 3:37 |
+| 14 | [SHAKE！SHAKE！SHAKE！](https://open.spotify.com/track/5YyQwnxOOwC2oGnu5cLBdg) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [SHAKE！SHAKE！SHAKE！](https://open.spotify.com/album/60g581zoHNrgyW7xZxW2SJ) | 3:37 |
 | 15 | [NEW WORLD](https://open.spotify.com/track/2ckIDrwTftjPS4dXQjsQAv) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [NEW WORLD](https://open.spotify.com/album/7lCfkZLpoX85YOHPPGn7jD) | 3:40 |
 | 16 | [星のオーケストラ](https://open.spotify.com/track/1VGBeOne3Y96yU7MMgPo1e) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [ユーリカ](https://open.spotify.com/album/61MxLBYnrgOm0kwnSAAMvk) | 3:55 |
 | 17 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 |

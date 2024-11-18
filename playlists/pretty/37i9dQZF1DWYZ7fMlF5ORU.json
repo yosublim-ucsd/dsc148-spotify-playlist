@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 167097,
+  "num_followers": 167124,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Os Anjos Te Louvam - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Os Anjos Te Louvam - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Comprou",
         "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
       },
@@ -179,18 +179,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "One Vision",
-        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
       },
       "artists": [
         {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
         }
       ],
-      "duration_ms": 257586,
-      "name": "Far\u00e1 Outra Vez",
-      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
+      "duration_ms": 230519,
+      "name": "Viver O Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -243,6 +247,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "One Vision",
+        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Far\u00e1 Outra Vez",
+      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Cuida de Mim",
         "url": "https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 301426,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        }
-      ],
-      "duration_ms": 230519,
-      "name": "Viver O Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -315,38 +315,6 @@
       "duration_ms": 198681,
       "name": "Aten\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -403,6 +371,38 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Sonhos de Deus",
         "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 240520,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Laborat\u00f3rio Do Groove",
+        "url": "https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 251989,
+      "name": "Pela F\u00e9",
+      "url": "https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -467,22 +483,6 @@
       "duration_ms": 228000,
       "name": "O Dom da Vida",
       "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Laborat\u00f3rio Do Groove",
-        "url": "https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 251989,
-      "name": "Pela F\u00e9",
-      "url": "https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+      },
+      "artists": [
+        {
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
-      },
-      "artists": [
-        {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Banda Salluz",
-          "url": "https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Alegria do C\u00e9u (feat. Banda Salluz)",
-      "url": "https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Quero Te Levar Comigo",
         "url": "https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Banda Salluz",
+          "url": "https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Alegria do C\u00e9u (feat. Banda Salluz)",
+      "url": "https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
       },
@@ -943,38 +943,6 @@
       "duration_ms": 166581,
       "name": "Permanecer",
       "url": "https://open.spotify.com/track/4nBhXPQZP4YurzudIPHR9X"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Saudade, Vol. 1",
-        "url": "https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 259683,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/09HItbO4pDpApuAhf6GwUP"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD"
-      },
-      "artists": [
-        {
-          "name": "Vinicius Motta",
-          "url": "https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Louvarei",
-      "url": "https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -995,18 +963,18 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
+        "name": "Saudade, Vol. 1",
+        "url": "https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 244826,
-      "name": "A Voz do Senhor",
-      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
+      "duration_ms": 259683,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/09HItbO4pDpApuAhf6GwUP"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1035,6 +1003,38 @@
       "duration_ms": 195765,
       "name": "Tamo Junto",
       "url": "https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD"
+      },
+      "artists": [
+        {
+          "name": "Vinicius Motta",
+          "url": "https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "Louvarei",
+      "url": "https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "A Voz do Senhor",
+      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Ele Continua Sendo Deus",
-        "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 174098,
-      "name": "V\u00ea Se Vigia",
-      "url": "https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Tome a Decis\u00e3o",
         "url": "https://open.spotify.com/album/0l6x075Ird90ooE1sKdnhR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 310693,
       "name": "Antes & Depois",
       "url": "https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Ele Continua Sendo Deus",
+        "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 174098,
+      "name": "V\u00ea Se Vigia",
+      "url": "https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd"
     },
     {
       "added_at": "2024-11-08 03:01:00",

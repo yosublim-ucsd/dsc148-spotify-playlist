@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-980 songs - 2 day 2 hr 3 min
+981 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Bande organisée](https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Bande organisée](https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6) | 2:07 | 2024-03-19 | 2024-03-22 |
 | [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 | 2024-04-22 | 2024-06-26 |
 | [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 | 2024-04-23 | 2024-05-01 |
-| [BARCOLA](https://open.spotify.com/track/7dQieA4pEOUV2G9s3jkEX6) | [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [BARCOLA](https://open.spotify.com/album/3LeimKCyYLLbm33aSI1y3G) | 2:45 | 2024-11-13 |  |
+| [BARCOLA](https://open.spotify.com/track/7dQieA4pEOUV2G9s3jkEX6) | [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [BARCOLA](https://open.spotify.com/album/3LeimKCyYLLbm33aSI1y3G) | 2:45 | 2024-11-13 | 2024-11-18 |
 | [Bauch Beine Po](https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bauch Beine Po](https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW) | 2:13 | 2024-08-13 | 2024-09-10 |
 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 | 2024-09-24 | 2024-10-06 |
 | [BBL](https://open.spotify.com/track/5ZY8ovLhI7bLuddKmkq6cf) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:52 | 2024-04-16 | 2024-05-01 |
@@ -885,6 +885,7 @@
 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-06-12 | 2024-06-16 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-06-12 | 2024-06-14 |
 | [U23 \- Freestyle](https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [U23 \- Freestyle](https://open.spotify.com/album/5KKRZt3Yi7PmctbZNqRjfb) | 2:16 | 2024-09-22 | 2024-10-21 |
+| [UH VEI VEI](https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1) | [KREZUS](https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq) | [UH VEI VEI](https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y) | 1:30 | 2024-11-17 |  |
 | [Ulveham](https://open.spotify.com/track/4Fo5QwbxjpNKW191lHQhnm) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/2JUURbJ2d1rCQRayCepXnv) | 3:00 | 2024-05-13 | 2024-05-21 |
 | [Ulveham](https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ) | 3:02 | 2024-03-04 | 2024-03-11 |
 | [Un monde parfait \- Techno Mix](https://open.spotify.com/track/5yAJ48kDBWoggEg9GQhHlt) | [Ilona Mitrecey](https://open.spotify.com/artist/5CNueVdkXCAEod4Zf1dU2D), [Jesse Bloch](https://open.spotify.com/artist/5wDknXKPbdkrxxmDKi7alc) | [Un monde parfait \(Techno Mix\)](https://open.spotify.com/album/7FHpbtVuYG0n3BcCOdK8An) | 2:51 | 2024-04-27 | 2024-05-09 |

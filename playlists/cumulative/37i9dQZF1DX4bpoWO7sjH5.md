@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-219 songs - 14 hr 28 min
+220 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 | 2021-12-24 |  |
 | [Acaso No Estoy Yo Aquí \(Guadalupe\)](https://open.spotify.com/track/3H35sKzn68od8OmBQFGYXK) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Alfa y Omega](https://open.spotify.com/album/40DddG3lEyrPAdp737kG7B) | 4:40 | 2021-12-24 | 2024-07-30 |
 | [Acaso No Estoy Yo Aquí \(Mariachi\)](https://open.spotify.com/track/4VUuJ6phYofwp5zwuXzF39) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Acaso No Estoy Yo Aquí \(Mariachi\)](https://open.spotify.com/album/2MG4IIRY5tzMmViyY8cFYW) | 4:27 | 2024-11-16 |  |
-| [Al mundo paz](https://open.spotify.com/track/0iXYn3CZgv5IOKyjy3pFmP) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Navidad Vol\. 1](https://open.spotify.com/album/09CzmGJuKKU1uGQbH0fama) | 2:55 | 2021-12-24 |  |
+| [Al mundo paz](https://open.spotify.com/track/0iXYn3CZgv5IOKyjy3pFmP) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Navidad Vol\. 1](https://open.spotify.com/album/09CzmGJuKKU1uGQbH0fama) | 2:55 | 2021-12-24 | 2024-11-18 |
 | [Al mundo paz](https://open.spotify.com/track/5rwDCjAAaUSqCs5IjYIaid) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Navidad Vol\. 1](https://open.spotify.com/album/11906jCVhIBhj5s5dBxQYb) | 2:55 | 2021-12-24 | 2024-04-19 |
 | [AL MUNDO PAZ](https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [AL MUNDO PAZ](https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3) | 2:59 | 2022-11-26 |  |
 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 | 2022-12-10 |  |
@@ -138,6 +138,7 @@
 | [Naciste en Mi Corazón](https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 4:17 | 2021-12-24 | 2024-07-30 |
 | [Nació El Perdón](https://open.spotify.com/track/3Cw3DoeXcDh4kHvJtx76cW) | [Conquistando Fronteras](https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3) | [Nació El Perdón](https://open.spotify.com/album/4wATMFKV8ygIQvCFLc66Ze) | 5:13 | 2021-12-24 | 2024-04-19 |
 | [Nació El Perdón](https://open.spotify.com/track/5NCrHgbPj4HbAwUhtVp1X5) | [Conquistando Fronteras](https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3) | [Nació El Perdón](https://open.spotify.com/album/2AD84XcqncWlEBtWjX2GKV) | 5:13 | 2021-12-24 |  |
+| [Nació la Luz](https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 3:17 | 2024-11-17 |  |
 | [Nadie Se Lo Imaginó](https://open.spotify.com/track/1hjpA2QecgiBKX8JB8I38V) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:23 | 2021-12-24 | 2024-04-19 |
 | [Nadie Se Lo Imaginó](https://open.spotify.com/track/6ag9XT4JrxCEbiw4fwOgGG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:23 | 2021-12-24 |  |
 | [Nattyvidad](https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Nattyvidad](https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss) | 4:24 | 2021-12-24 |  |

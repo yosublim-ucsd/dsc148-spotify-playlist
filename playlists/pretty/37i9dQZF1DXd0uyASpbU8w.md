@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=klKfxHf3SM2mVEvR7Qfraw">Tyler ICU</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,376 likes - 96 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,444 likes - 96 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

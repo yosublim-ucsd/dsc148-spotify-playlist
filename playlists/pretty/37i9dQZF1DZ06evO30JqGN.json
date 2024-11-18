@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 126400,
+  "num_followers": 126432,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPAAAAAADVYPILpKYo1vGbxZXcmJ63",
+  "snapshot_id": "ZzfggAAAAAC7doSrjpV3/tfus4wfoC1e",
   "tracks": [
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "+1 (404) 476-6404",
-        "url": "https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX"
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
       "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 48000,
-      "name": "+1 (404) 476-6404",
-      "url": "https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj"
+      "duration_ms": 244000,
+      "name": "You're Stuck (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
     },
     {
       "added_at": null,

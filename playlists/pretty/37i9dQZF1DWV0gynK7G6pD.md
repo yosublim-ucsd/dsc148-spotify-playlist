@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jan Lisiecki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,771 likes - 69 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,840 likes - 69 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

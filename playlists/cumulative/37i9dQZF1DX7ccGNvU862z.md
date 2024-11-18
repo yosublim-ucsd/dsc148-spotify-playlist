@@ -4,7 +4,7 @@
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Saran, Blackheart, Rifle
 
-497 songs - 1 day 3 hr 42 min
+498 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [หน้าหนาว](https://open.spotify.com/track/2XLDBHzNLCHbNygcZ7wXgA) | [MQT Squad](https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [FATBOII MQT](https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Jakkaphat MQT](https://open.spotify.com/artist/6Xv0v3Vlmgax5RVQYPcZs6) | [หน้าหนาว](https://open.spotify.com/album/2a0KAwifvA59awte5mrU26) | 3:33 | 2024-03-01 | 2024-03-15 |
 | [หวังว่าจะดี](https://open.spotify.com/track/4x8v9usS4BBpWZVE080Dc2) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ), [VIPER](https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL) | [หวังว่าจะดี](https://open.spotify.com/album/3zy7LxS0OpFSV8F10LNK0n) | 4:02 | 2024-06-20 | 2024-07-13 |
 | [หัวใจว้าวุ่น](https://open.spotify.com/track/7bPl0qB6bEIXFOnGdWDWPV) | [Pondering](https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2) | [หัวใจว้าวุ่น](https://open.spotify.com/album/5YoNKdpE9Q3eWlS5qfCwLM) | 2:37 | 2023-12-08 | 2023-12-30 |
+| [ห้องที่ว่างเปล่า](https://open.spotify.com/track/2W17wDsmVimJMMGT8UgVfi) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ห้องที่ว่างเปล่า](https://open.spotify.com/album/5E35Zeo0hMyHLqNE4rlvI2) | 3:08 | 2024-11-17 |  |
 | [อนาคอนด้า](https://open.spotify.com/track/4YL3JwgWt0FhnJBcLFhxI7) | [M\-Pee](https://open.spotify.com/artist/2LhJBUC3yGxXNK3gBLZidT), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz) | [อนาคอนด้า](https://open.spotify.com/album/7Kfp4NiXiHZW1sOtS3a8IT) | 2:53 | 2024-03-01 | 2024-03-09 |
 | [อยากจะพาเธอไปดูคอนเสิร์ตวันมิล](https://open.spotify.com/track/5wC0pEdfBw4ugv41doWRWh) | [LIL YOKY](https://open.spotify.com/artist/4KbDLzX6a16gvgFqV20kL4) | [อยากจะพาเธอไปดูคอนเสิร์ตวันมิล](https://open.spotify.com/album/66yQqq3PLlxzJ3h7lniKSS) | 2:31 | 2024-01-26 | 2024-02-02 |
 | [อยากร้องเดี๋ยวร้องเอง](https://open.spotify.com/track/6XsEjeRe3qhe5m1JIYQsZX) | [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [อยากร้องเดี๋ยวร้องเอง](https://open.spotify.com/album/29VRG9RsWj7zW9toqZcSGg) | 3:07 | 2023-11-17 | 2023-12-02 |
@@ -435,7 +436,7 @@
 | [เธอรู้มั้ยความคิดถึง ฉันให้เธอไปเท่าไหร่](https://open.spotify.com/track/3eHNbtm3zR0fGBd203kQIT) | [FLUKz](https://open.spotify.com/artist/18LN2QhD5dG6YFKT4BkMFc), [M$T](https://open.spotify.com/artist/3N5RU692hPQ8eUCTVWdUop) | [เธอรู้มั้ยความคิดถึง ฉันให้เธอไปเท่าไหร่](https://open.spotify.com/album/11Nfz0FIMYkhXs5JBXBWss) | 3:30 | 2024-09-13 | 2024-11-02 |
 | [เธอหายไปในตอนที่ฉันยังรัก](https://open.spotify.com/track/5bIpvK76ecqRdjYJjFgSXo) | [Lil tan](https://open.spotify.com/artist/1xc4qfheU05JJYzDnjs9KR), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [เธอหายไปในตอนที่ฉันยังรัก](https://open.spotify.com/album/3B9ugdjfSjytE4Qf5KNPPj) | 5:38 | 2023-10-27 | 2023-11-03 |
 | [เธอเป็นของฉันแล้ว](https://open.spotify.com/track/1xLIirkup3VJ2MtcQDXeAO) | [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ) | [เธอเป็นของฉันแล้ว](https://open.spotify.com/album/3OO4fvO0hXUULEhX4ezUwK) | 3:29 | 2024-10-11 |  |
-| [เธอไม่ชอบเด็ก ก.ท\. เธอชอบแต่เด็กอัสสัมชัญ](https://open.spotify.com/track/1jan7lM5FsAiDDTNUVUNec) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [เธอไม่ชอบเด็ก ก.ท\. เธอชอบแต่เด็กอัสสัมชัญ](https://open.spotify.com/album/6OUVjEpY6KObXiEwYbHvCD) | 1:46 | 2023-09-29 |  |
+| [เธอไม่ชอบเด็ก ก.ท\. เธอชอบแต่เด็กอัสสัมชัญ](https://open.spotify.com/track/1jan7lM5FsAiDDTNUVUNec) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [เธอไม่ชอบเด็ก ก.ท\. เธอชอบแต่เด็กอัสสัมชัญ](https://open.spotify.com/album/6OUVjEpY6KObXiEwYbHvCD) | 1:46 | 2023-09-29 | 2024-11-18 |
 | [เธอไม่แคร์ด้วยซ้ำ](https://open.spotify.com/track/3AwoYBlVUYuypP6tKOZDMz) | [KRK](https://open.spotify.com/artist/69jmffWjz5TWglZkReTYJC), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40), [Ptrp Studio](https://open.spotify.com/artist/1zUaU29NK5rZxdJoDdGaTM) | [เธอไม่แคร์ด้วยซ้ำ](https://open.spotify.com/album/5jNQB75V1HSdFjDAPdyh76) | 2:50 | 2024-02-16 | 2024-03-30 |
 | [เบอร์ตอง](https://open.spotify.com/track/7jPWyCxbed8dIRUOeKLGXs) | [RachYO](https://open.spotify.com/artist/620yKKXiTGmnZg0MVqUGo8) | [เบอร์ตอง](https://open.spotify.com/album/3po5ppmEAOQZKCpYPZHOBS) | 3:34 | 2023-11-10 | 2023-11-25 |
 | [เปรียบเทียบ](https://open.spotify.com/track/6IBmg964GsDoprMJVuNG1X) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [เปรียบเทียบ](https://open.spotify.com/album/4tpINIfkDekxrdoazlax2C) | 4:09 | 2024-02-23 | 2024-03-09 |

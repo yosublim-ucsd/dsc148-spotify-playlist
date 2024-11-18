@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Lost n' Found
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,837 likes - 55 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,850 likes - 55 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

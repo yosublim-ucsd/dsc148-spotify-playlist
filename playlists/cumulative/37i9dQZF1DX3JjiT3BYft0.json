@@ -4599,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250566,
+      "name": "\u305d\u3070\u304b\u3059 - Cover",
+      "url": "https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300dOP\u4e3b\u984c\u6b4c\u300c\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!\u300d",
         "url": "https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh"
       },
@@ -5826,7 +5844,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 239533,
       "name": "\u30d1\u30c3\u30d1\u30ec\u2606\u4eba\u751f\uff01\u30d0\u30fc\u30f3\u4e07\u6b73\uff01",
       "url": "https://open.spotify.com/track/6WV66ZeRZ7nAGKYKjjaBQX"

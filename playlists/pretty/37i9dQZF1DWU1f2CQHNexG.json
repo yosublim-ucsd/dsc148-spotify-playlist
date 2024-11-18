@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 160090,
+  "num_followers": 160172,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "Rio - 2009 Remaster",
-      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 269800,
       "name": "If You Leave - Remastered 2019",
       "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "Rio - 2009 Remaster",
+      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "West End Girls - 2001 Remaster",
+      "url": "https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "Burning Bridges",
         "url": "https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8"
       },
@@ -1055,38 +1071,6 @@
       "duration_ms": 299240,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "The Sound Of The Crowd - Remastered 2002",
-      "url": "https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "West End Girls - 2001 Remaster",
-      "url": "https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 246973,
+      "name": "The Sound Of The Crowd - Remastered 2002",
+      "url": "https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "Only Yazoo - The Best Of",
         "url": "https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 271240,
       "name": "Nobody's Diary",
       "url": "https://open.spotify.com/track/0DCJUyPArbtLcJlRhjCew9"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Please: Further Listening 1984-1986",
+        "url": "https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 307440,
+      "name": "Suburbia - 2001 Remaster",
+      "url": "https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1183,22 +1199,6 @@
       "duration_ms": 192293,
       "name": "Only You",
       "url": "https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Please: Further Listening 1984-1986",
-        "url": "https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 307440,
-      "name": "Suburbia - 2001 Remaster",
-      "url": "https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY"
     },
     {
       "added_at": "2024-07-09 02:45:34",

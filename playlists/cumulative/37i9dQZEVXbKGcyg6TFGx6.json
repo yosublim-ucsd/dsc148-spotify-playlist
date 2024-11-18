@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3558,6 +3558,24 @@
       "duration_ms": 206271,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
+    },
+    {
+      "album": {
+        "name": "AVATARIAN",
+        "url": "https://open.spotify.com/album/2ntmtp3ZfRrPy3zG6sbchS"
+      },
+      "artists": [
+        {
+          "name": "Universal King",
+          "url": "https://open.spotify.com/artist/3Q98Ay4P4Skp7Pjtp8xGnj"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123524,
+      "name": "AVATARIAN",
+      "url": "https://open.spotify.com/track/71T6RLSxxPbDTskWGoMhI2"
     },
     {
       "album": {
@@ -5114,7 +5132,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -8502,7 +8520,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 155066,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/4ejn3u2wHmV4lQ4WGWIPeI"
@@ -15465,6 +15483,24 @@
     },
     {
       "album": {
+        "name": "Romani",
+        "url": "https://open.spotify.com/album/56kg4WYNhXi4sT67h3mFMA"
+      },
+      "artists": [
+        {
+          "name": "Tremonte",
+          "url": "https://open.spotify.com/artist/0SaPInhyrXdHjJ8ooeLLgT"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121626,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/0YvkS7JMZXQXt041Y2QmWW"
+    },
+    {
+      "album": {
         "name": "forever",
         "url": "https://open.spotify.com/album/1qDpcf2WKZJfDTPK4VO7P0"
       },
@@ -19690,7 +19726,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -21543,6 +21579,24 @@
     },
     {
       "album": {
+        "name": "Presenting Bobby Helms",
+        "url": "https://open.spotify.com/album/6rxEZkfRTatrDUm4MCyJqm"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133426,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
       },
@@ -22946,7 +23000,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 216973,
       "name": "Laisse-moi tranquille.",
       "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
@@ -24046,7 +24100,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 172866,
       "name": "Limbisa ngai",
       "url": "https://open.spotify.com/track/1zLscEYm2cKiTAunAvZbjv"
@@ -27590,7 +27644,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 158453,
       "name": "Mony (feat. Michkavie)",
       "url": "https://open.spotify.com/track/7n2iLVGvqGR0FLcfacwi2M"
@@ -31448,7 +31502,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 182000,
       "name": "Party",
       "url": "https://open.spotify.com/track/1cRtvrg3obMXE8ls9Zxv1G"
@@ -34490,7 +34544,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -35834,7 +35888,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 187813,
       "name": "Sch\u00e9ma",
       "url": "https://open.spotify.com/track/0cAdtf6J8dsPFi04OVpKzx"
@@ -39782,7 +39836,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -40962,7 +41016,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -42508,7 +42562,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 178640,
       "name": "Tout tenter",
       "url": "https://open.spotify.com/track/0VE1NQ4QwD6B69kSMfpIG7"
@@ -43036,6 +43090,24 @@
       "duration_ms": 217933,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3"
+    },
+    {
+      "album": {
+        "name": "Tu Quizas",
+        "url": "https://open.spotify.com/album/4QNbNEIpiBVC9dsXk5OEqQ"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Gallo",
+          "url": "https://open.spotify.com/artist/4ePAwakFZQ4jXFvuZQAQLC"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213322,
+      "name": "Tu Quizas",
+      "url": "https://open.spotify.com/track/7hr8WWP56K2HDpAYRNU4Xo"
     },
     {
       "album": {
@@ -47190,7 +47262,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 176248,
       "name": "\u00c7a parle mal",
       "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"

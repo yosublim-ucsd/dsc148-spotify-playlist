@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Pinpilinpussies  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,549 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,562 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 20 | [BAILÉN](https://open.spotify.com/track/1Up9aLPfvc5rC5VhYMiASJ) | [Puño Dragón](https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK) | [BAILÉN](https://open.spotify.com/album/33v5WgNeFiqWoagn74j4kB) | 2:33 |
 | 21 | [A un cuerpo de distancia](https://open.spotify.com/track/7El9MGSVxCUUX5GTZ1a2mb) | [Marte Diem](https://open.spotify.com/artist/0F97tki4V1pG8gxqojGdTd) | [A un cuerpo de distancia](https://open.spotify.com/album/4ysvDEI2gmgXolrRKJLV3o) | 6:15 |
 | 22 | [Cansado de disimular](https://open.spotify.com/track/6PYWpEfBKE2uzfIJIhAzEW) | [GENZ](https://open.spotify.com/artist/3KHVhDRKyPkEZqHj8nQ0xU) | [Cansado de disimular](https://open.spotify.com/album/7eUhm0Rl4xYcazYSA61JtV) | 2:43 |
-| 23 | [Ojalá](https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Ojalá](https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo) | 3:13 |
+| 23 | [ojalá](https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Ojalá](https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo) | 3:13 |
 | 24 | [Huella](https://open.spotify.com/track/1WRwIdGrDVC5cEvv60gB2i) | [Kike M](https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9) | [Cantares de arcilla](https://open.spotify.com/album/0I9Hzokb1QMvnzvvHpKhEJ) | 3:55 |
 | 25 | [Luces de Neón](https://open.spotify.com/track/6L5447zFFA6zfd9foTfwug) | [Gato Gris](https://open.spotify.com/artist/5fNcvHGY4sOInZaitCmK6e) | [Luces de Neón](https://open.spotify.com/album/2Dl1HYh2rqbQfle9seKODe) | 2:59 |
 | 26 | [Piropos](https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs) | [Naitinain](https://open.spotify.com/artist/75k1x4oYTR0db8FBm9VbCy), [Joder Juan](https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9) | [Piropos](https://open.spotify.com/album/1bktsgFPfHw9XRiVaGsWoE) | 2:34 |

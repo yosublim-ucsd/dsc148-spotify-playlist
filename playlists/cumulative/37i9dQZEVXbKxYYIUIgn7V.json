@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/7v4U1UWo5FHd70GRRgzz8c"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6tHi0nD0Xx9irn5LyR1Bu1"
@@ -4756,7 +4756,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -9076,7 +9076,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 135745,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2T8xKfwHaLttXsKp5NhuPh"
@@ -11695,6 +11695,28 @@
     },
     {
       "album": {
+        "name": "Luftballon",
+        "url": "https://open.spotify.com/album/5A8R5xBPgqpXoZeqdNi1r7"
+      },
+      "artists": [
+        {
+          "name": "H1",
+          "url": "https://open.spotify.com/artist/5P1zpATcTyrlvh4tMBQT16"
+        },
+        {
+          "name": "TeeageBeatz",
+          "url": "https://open.spotify.com/artist/5QbMWqBUKfupZ91N55cGVr"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147267,
+      "name": "Luftballon",
+      "url": "https://open.spotify.com/track/7Ds4KiHFco0Ud3fBhWQHMX"
+    },
+    {
+      "album": {
         "name": "Luktelk",
         "url": "https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ"
       },
@@ -14228,7 +14250,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 143416,
       "name": "Outfit Check",
       "url": "https://open.spotify.com/track/1SM6ss2QblSsTBJAyczfDN"
@@ -15218,6 +15240,24 @@
       "duration_ms": 193000,
       "name": "Princess Cuts My Wrist",
       "url": "https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b"
+    },
+    {
+      "album": {
+        "name": "Pro7",
+        "url": "https://open.spotify.com/album/2gJLzpqejWN0znLVlI4HJF"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91013,
+      "name": "Pro7",
+      "url": "https://open.spotify.com/track/1YmHOcjmp69C0bAxYtfhH5"
     },
     {
       "album": {
@@ -20692,6 +20732,28 @@
       "duration_ms": 141650,
       "name": "Willkommen in Autriche",
       "url": "https://open.spotify.com/track/0V3aF1AzXM09yHxdPjVPY4"
+    },
+    {
+      "album": {
+        "name": "Wmnb (Remix)",
+        "url": "https://open.spotify.com/album/43HmizuwY1IghaPbg1mubu"
+      },
+      "artists": [
+        {
+          "name": "NilsZee",
+          "url": "https://open.spotify.com/artist/4RUskDmyH3sYkk8zLA1RS4"
+        },
+        {
+          "name": "187erz",
+          "url": "https://open.spotify.com/artist/4eEcSTVgt3sDHrjiXslXbQ"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197791,
+      "name": "Wmnb (Remix)",
+      "url": "https://open.spotify.com/track/0YiosPaXidNJQ2ZraPwc9L"
     },
     {
       "album": {

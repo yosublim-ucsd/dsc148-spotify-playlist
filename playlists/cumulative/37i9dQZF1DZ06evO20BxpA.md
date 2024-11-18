@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-103 songs - 4 hr 49 min
+104 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 | 2023-08-04 |  |
 | [The Apartment](https://open.spotify.com/track/1ei4vm7G5R6vit9NuEzSGZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 0:58 | 2023-09-12 | 2024-05-22 |
 | [The Blue Whale](https://open.spotify.com/track/0llny9ylQqeIK0MCQ5XQ45) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 5:12 | 2023-08-04 |  |
-| [The Clam Shell Challenge](https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 1:37 | 2023-08-19 |  |
+| [The Clam Shell Challenge](https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 1:37 | 2023-08-19 | 2024-11-18 |
 | [The Importance Of This River \- From "Our Planet"](https://open.spotify.com/track/3ANHtbWlWe0Nqzv1rTmHfq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:40 | 2023-08-30 |  |
 | [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 | 2023-08-04 | 2024-10-17 |
 | [The Next Twenty Years \- From "Our Planet"](https://open.spotify.com/track/2GWv7nrW3EYNclXKi5jOhA) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 1:41 | 2023-10-04 | 2024-04-16 |
@@ -91,6 +91,7 @@
 | [They Have To Run The Gauntlet](https://open.spotify.com/track/6OpNkdiSQXSe1Oi68MTSTe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 2:02 | 2023-08-25 | 2023-08-31 |
 | [They Will Return](https://open.spotify.com/track/67D1r6U2o0cYDyIIuzWIuF) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 1:04 | 2023-12-29 | 2024-01-24 |
 | [They Work As A Team \- From "Our Planet"](https://open.spotify.com/track/7JNLPRTdBrABPZuQwFKufZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:41 | 2024-03-18 | 2024-11-06 |
+| [This Fight Is Ours](https://open.spotify.com/track/2oVlGavyUh0aNBRvFMHBcy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:09 | 2024-11-18 |  |
 | [This Is My Home](https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:43 | 2023-08-04 |  |
 | [This Is My Witness Statement](https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:35 | 2024-04-02 | 2024-11-15 |
 | [This Is Our Planet \- From "Our Planet"](https://open.spotify.com/track/1twnThKLYDlaKpP4WSW2QS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:43 | 2023-08-04 |  |

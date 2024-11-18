@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Carolina Durante.
 
-217 songs - 11 hr 12 min
+218 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 | 2024-11-15 |
 | [Aún Quedan Sensaciones](https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu) | [LOS VALIENTES](https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN) | [Dos De Cal](https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ) | 3:01 | 2024-11-14 |  |
 | [Bailaremos](https://open.spotify.com/track/6NKepMBqaJaR2DLpZgROgY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Calle Liberación](https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ) | 3:44 | 2024-06-27 | 2024-08-23 |
-| [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 | 2024-06-27 |  |
+| [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 | 2024-06-27 | 2024-11-18 |
 | [Bats \- Bonus Track](https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:03 | 2024-10-04 | 2024-10-25 |
 | [Cada instante](https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH) | [Ártico](https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ) | [Cada instante](https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR) | 3:25 | 2024-08-15 | 2024-10-30 |
 | [Calle Plata](https://open.spotify.com/track/6VsaC41vcwH8AczuZZZERO) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [Calle Plata](https://open.spotify.com/album/6vFve1hrFj2UBoSRW2beM9) | 2:05 | 2024-10-17 |  |
@@ -144,6 +144,7 @@
 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 | 2024-06-27 | 2024-10-18 |
 | [nunca voy a decirte lo que quiero decirte](https://open.spotify.com/track/4p0Cbn2Hq30afyP6AyPfef) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc), [Quinto Cuarta](https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH) | [13m² con trastos de por medio](https://open.spotify.com/album/3NTJpNjsxmvblquqWCfrRF) | 3:31 | 2024-08-01 | 2024-09-06 |
 | [O Todos o Ninguno](https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [O Todos o Ninguno](https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB) | 3:49 | 2024-06-27 |  |
+| [ojalá](https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Ojalá](https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo) | 3:13 | 2024-11-14 |  |
 | [onvres](https://open.spotify.com/track/0Fju7NJJGIkYCJ3JtxKbuT) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [onvres](https://open.spotify.com/album/4uA5lsjxxyrooWErwuaVyi) | 3:10 | 2024-06-27 | 2024-07-05 |
 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 | 2024-06-27 |  |
 | [Paga y Señal](https://open.spotify.com/track/1v9VKI3Xikbei4lyaqzSGA) | [Vecinos](https://open.spotify.com/artist/42g6k1iU30Z2lDl0E2oKZR) | [Paga y Señal](https://open.spotify.com/album/1qorXCYFm9ZHWC4LmJUkTY) | 3:02 | 2024-10-03 | 2024-11-08 |

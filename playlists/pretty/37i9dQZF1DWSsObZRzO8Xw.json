@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 187944,
+  "num_followers": 188021,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "World Class Listening Problem",
-        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
-      },
-      "artists": [
-        {
-          "name": "Don Caballero",
-          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
-        }
-      ],
-      "duration_ms": 316213,
-      "name": "Railroad Cancellation",
-      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 173106,
       "name": "Los Bajos Fondos",
       "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "World Class Listening Problem",
+        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+      },
+      "artists": [
+        {
+          "name": "Don Caballero",
+          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+        }
+      ],
+      "duration_ms": 316213,
+      "name": "Railroad Cancellation",
+      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213512,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Route One or Die",
+        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+      },
+      "artists": [
+        {
+          "name": "Three Trapped Tigers",
+          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Cramm",
+      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Trees Before Fall",
         "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 299484,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -875,22 +907,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Route One or Die",
-        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
-      },
-      "artists": [
-        {
-          "name": "Three Trapped Tigers",
-          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Cramm",
-      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Sorrow EP",
         "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 138891,
       "name": "Mimi Ashi",
       "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Valerio Benustelli",
-        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "Valerio Benustelli",
-      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Asbestos Weak Hood",
         "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 182750,
       "name": "Ruth Leslie (Cigregrets Pt. 1)",
       "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Valerio Benustelli",
+        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "Valerio Benustelli",
+      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Valuables",
+        "url": "https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "itsallwaves",
+      "url": "https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Memory Lame",
         "url": "https://open.spotify.com/album/1MUGe9LNk7uyaIEdqIhwQp"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Valuables",
-        "url": "https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR"
-      },
-      "artists": [
-        {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "itsallwaves",
-      "url": "https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Twin Galaxies",
         "url": "https://open.spotify.com/album/2ip3aGH8KWEA8EugbTdsNZ"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 189828,
       "name": "Camp Adventure",
       "url": "https://open.spotify.com/track/6umKcjGSEcThGs5dcYEnoU"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1599,8 +1615,8 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
       },
       "artists": [
         {
@@ -1608,25 +1624,9 @@
           "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
         }
       ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Medium Bastard",
-        "url": "https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns"
-      },
-      "artists": [
-        {
-          "name": "You Slut!",
-          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Fifzteen",
-      "url": "https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa"
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     }
   ],
   "unique_name": "Math Rock",

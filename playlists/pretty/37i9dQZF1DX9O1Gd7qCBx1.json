@@ -1,6 +1,6 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 225048,
+  "num_followers": 225027,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 144640,
+      "name": "Me Toc\u00f3 Morir",
+      "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -327,22 +347,18 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 144640,
-      "name": "Me Toc\u00f3 Morir",
-      "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
+      "duration_ms": 174800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "El Enterrador",
-      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 227466,
       "name": "Don Diablo",
       "url": "https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "El Enterrador",
+      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "El Abuelo",
-        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 209133,
       "name": "Tata Dios",
       "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
+        "name": "Inmortales de Pedro Infante (USA)",
+        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Dios nunca muere",
+      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
         "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
         "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Inmortales de Pedro Infante (USA)",
-        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Dios nunca muere",
-      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Tiempo transcurrido",
         "url": "https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Viene la Muerte Echando Rasero",
-      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Cartas (Primera carta: La Calavera)",
         "url": "https://open.spotify.com/album/0CGDKXhlm6ACcfn1qgadc2"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 219043,
       "name": "Cartas (Primera carta: La Calavera)",
       "url": "https://open.spotify.com/track/5wEmK84AIP35bb3TNWTLqu"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Viene la Muerte Echando Rasero",
+      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 195533,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 192765,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
-      },
-      "artists": [
-        {
-          "name": "Susana Harp",
-          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "La Catrina",
-      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "El Mexico Que Se Nos Fue",
         "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 211933,
       "name": "Muerto en Vida",
       "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
+      },
+      "artists": [
+        {
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "La Catrina",
+      "url": "https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "A Mi Me Mato\u0301 La Vida",
+      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
         "name": "Flor de Biznaga",
         "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 219807,
       "name": "El Corrido de Miguel Rivera - En Vivo",
       "url": "https://open.spotify.com/track/5hX714XFVzo8n6pUtIovFc"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "A Mi Me Mato\u0301 La Vida",
-      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Rosa Mexicano",
-        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Monton de Tierra",
-      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Basico",
         "url": "https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 276973,
       "name": "Se le apag\u00f3 la luz - Versi\u00f3n B\u00e1sico",
       "url": "https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Rosa Mexicano",
+        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
+      },
+      "artists": [
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Monton de Tierra",
+      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "La Danza de la Muerte (D\u00eda de Muertos)",
-        "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
-      },
-      "artists": [
-        {
-          "name": "Fanko",
-          "url": "https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "La Danza de la Muerte - D\u00eda de Muertos",
-      "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Chao",
         "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 309221,
       "name": "Viento",
       "url": "https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "La Danza de la Muerte (D\u00eda de Muertos)",
+        "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
+      },
+      "artists": [
+        {
+          "name": "Fanko",
+          "url": "https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n"
+        }
+      ],
+      "duration_ms": 194092,
+      "name": "La Danza de la Muerte - D\u00eda de Muertos",
+      "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "duration_ms": 145484,
+      "name": "El Funeral",
+      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 240613,
       "name": "Antes Paso por la Gloria",
       "url": "https://open.spotify.com/track/6aEXuG2SnDuZLZiEJuW952"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 145484,
-      "name": "El Funeral",
-      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1655,34 +1655,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
-      },
-      "artists": [
-        {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Cristian Quintero",
-          "url": "https://open.spotify.com/artist/38YbQD8tO1wfo7e9The37q"
-        },
-        {
-          "name": "Gabriel Felipe",
-          "url": "https://open.spotify.com/artist/1ywpwZd29hq6OPCLnthnj1"
-        },
-        {
-          "name": "Constantino Gar\u00edn",
-          "url": "https://open.spotify.com/artist/2pZG4XjBTOdPxQKzua7Asm"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Xochipitzahua",
-      "url": "https://open.spotify.com/track/0r82j8iwYUY9XMA2YX5S9s"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Contestadas Y Rancheras",
         "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
       },
@@ -1699,6 +1671,22 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
+        "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
+      },
+      "artists": [
+        {
+          "name": "Tzotzollin",
+          "url": "https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "Vengan Abuelitos",
+      "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

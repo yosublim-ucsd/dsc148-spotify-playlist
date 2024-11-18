@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -12878,7 +12878,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 190231,
       "name": "Hymy (feat. Yrj\u00e4n\u00e4)",
       "url": "https://open.spotify.com/track/6DrsojWtw0lTn0slCJmNAk"
@@ -13114,7 +13114,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 182746,
       "name": "H\u00e4it\u00e4 pidelly",
       "url": "https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO"
@@ -14782,7 +14782,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 193600,
       "name": "Italia",
       "url": "https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK"
@@ -15684,7 +15684,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 199460,
       "name": "Jumalan terve (feat. LAVV)",
       "url": "https://open.spotify.com/track/0bnvukHoSfdKrIgVbHFiA8"
@@ -24444,7 +24444,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 210570,
       "name": "Mit\u00e4 musta j\u00e4\u00e4",
       "url": "https://open.spotify.com/track/57WZCZnymBS3Dsr09ePN3H"
@@ -26474,6 +26474,24 @@
       "duration_ms": 153259,
       "name": "Neliapila",
       "url": "https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr"
+    },
+    {
+      "album": {
+        "name": "Nemo (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/5rqXicVme82bQntXUesDxa"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197711,
+      "name": "Nemo (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/3MqLgelI9thDWLvjhH1zEg"
     },
     {
       "album": {
@@ -32882,7 +32900,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 180061,
       "name": "Sanansaattaja",
       "url": "https://open.spotify.com/track/0k7nmNRIf4lXJlWCuGzFke"
@@ -33146,7 +33164,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 160106,
       "name": "Satama",
       "url": "https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx"
@@ -39564,7 +39582,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 181250,
       "name": "Tunnista tuntiin",
       "url": "https://open.spotify.com/track/0SUcbn6qR8N07qb7QOIkN2"
@@ -40580,7 +40598,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 121306,
       "name": "UMK",
       "url": "https://open.spotify.com/track/36JQJ4CEb8bgJb9JpVVN7F"
@@ -41256,7 +41274,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 145105,
       "name": "Vaisto (feat. Juuna Chill)",
       "url": "https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr"

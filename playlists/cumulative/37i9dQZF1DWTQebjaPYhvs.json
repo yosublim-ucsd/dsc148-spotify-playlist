@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "For a Long While",
+      "url": "https://open.spotify.com/track/1dfYs3gkkNESpRSCQY9Rz6"
+    },
+    {
+      "album": {
         "name": "Forgiveness Don't Grow on Trees",
         "url": "https://open.spotify.com/album/0x0K0Ct16p0HfYhJ0AxHJp"
       },
@@ -2119,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
+    },
+    {
+      "album": {
         "name": "Diamonds & Gasoline",
         "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
@@ -2530,6 +2566,24 @@
       "duration_ms": 255413,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g"
+    },
+    {
+      "album": {
+        "name": "Songs of the Plains",
+        "url": "https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140080,
+      "name": "Night Herding Song",
+      "url": "https://open.spotify.com/track/3HOvQ8hExcNftjC1QxgYA9"
     },
     {
       "album": {

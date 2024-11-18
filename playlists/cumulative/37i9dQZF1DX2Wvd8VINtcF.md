@@ -2,7 +2,7 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> pearls of an oyster\. Cover: Tyler, The Creator
+> pearls of an oyster\. Cover: Becky and the Birds
 
 1,569 songs - 3 day 13 hr 27 min
 

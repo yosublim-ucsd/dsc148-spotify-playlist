@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 160537,
+  "num_followers": 160553,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,38 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "Lose Control (feat. Grace Barton)",
         "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
       },
@@ -547,22 +579,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "flight fm",
-        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 247820,
-      "name": "flight fm",
-      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Beamin\u2019",
         "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "Pon Di Bill",
+        "url": "https://open.spotify.com/album/49I7wRDjGNocN5R2jIHFQ9"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Pon Di Bill",
+      "url": "https://open.spotify.com/track/0BMVmNzlAXSjrJGk2VcEYr"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "Mwah! (I'm That Bitch)",
         "url": "https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 189176,
       "name": "Jungle Diva",
       "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "Pon Di Bill",
-        "url": "https://open.spotify.com/album/49I7wRDjGNocN5R2jIHFQ9"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Pon Di Bill",
-      "url": "https://open.spotify.com/track/0BMVmNzlAXSjrJGk2VcEYr"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Jolie P",
-          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Stay In Your Lane",
-      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "A Little More (Friendly Foe Remix)",
-        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
-      },
-      "artists": [
-        {
-          "name": "JUSTDEE",
-          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
-        },
-        {
-          "name": "Friendly Foe",
-          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
-        }
-      ],
-      "duration_ms": 188275,
-      "name": "A Little More - Friendly Foe Remix",
-      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Rhythm & Gash VIP",
         "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
@@ -1051,22 +1031,22 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+        "name": "A Little More (Friendly Foe Remix)",
+        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+          "name": "JUSTDEE",
+          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Friendly Foe",
+          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
         }
       ],
-      "duration_ms": 199090,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
+      "duration_ms": 188275,
+      "name": "A Little More - Friendly Foe Remix",
+      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1091,6 +1071,26 @@
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Wa-Fu",
-          "url": "https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Champion Sound",
-      "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Wearing My Tracky",
         "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
       },
@@ -1191,22 +1167,6 @@
       "duration_ms": 105090,
       "name": "Wearing My Tracky",
       "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 226086,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1231,6 +1191,46 @@
       "duration_ms": 219577,
       "name": "Jordan 1s - Effy Rework",
       "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Wa-Fu",
+          "url": "https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Destiny Part II",
-        "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Destiny Part II",
-      "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Killamanjaro",
         "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 178466,
       "name": "Killamanjaro",
       "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Destiny Part II",
+        "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Destiny Part II",
+      "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Ain't No Way 2024 (Badger Remix)",
-        "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "The Riddler",
-          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Ain't No Way 2024 - Badger Remix",
-      "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
         "url": "https://open.spotify.com/album/3F6S5cU7BDdYZ82mgRPP66"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 188965,
       "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
       "url": "https://open.spotify.com/track/0mvry4vm6Xyhjxl3EcqY4o"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Ain't No Way 2024 (Badger Remix)",
+        "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "The Riddler",
+          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ain't No Way 2024 - Badger Remix",
+      "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
     },
     {
       "added_at": "2024-11-08 00:00:00",

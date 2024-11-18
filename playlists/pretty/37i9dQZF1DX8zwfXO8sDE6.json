@@ -1,6 +1,6 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 62485,
+  "num_followers": 62517,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "COBALT HOUR",
+        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "COBALT HOUR",
+      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "\u30a2\u30ef\u30fc\u30fb\u30b3\u30cd\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/6bSYfNaRLzYBsmHDBwHjM1"
       },
@@ -211,74 +227,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "WE ARE JUST TAKING OFF",
-        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
-      },
-      "artists": [
-        {
-          "name": "Sadistics",
-          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "CLOSE YOUR EYES",
-      "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "COBALT HOUR",
-        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "COBALT HOUR",
-      "url": "https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "\u30c7\u30ad\u30b7\u30fc\u30fb\u30d5\u30a3\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur"
-      },
-      "artists": [
-        {
-          "name": "Makoto Kubota",
-          "url": "https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA"
-        },
-        {
-          "name": "\u5915\u713c\u3051\u697d\u56e3",
-          "url": "https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "\u661f\u304f\u3059\u3099",
-      "url": "https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
-        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
-      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
       },
@@ -311,6 +259,42 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
+        "name": "WE ARE JUST TAKING OFF",
+        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
+      },
+      "artists": [
+        {
+          "name": "Sadistics",
+          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "CLOSE YOUR EYES",
+      "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "\u30c7\u30ad\u30b7\u30fc\u30fb\u30d5\u30a3\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur"
+      },
+      "artists": [
+        {
+          "name": "Makoto Kubota",
+          "url": "https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA"
+        },
+        {
+          "name": "\u5915\u713c\u3051\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "\u661f\u304f\u3059\u3099",
+      "url": "https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
         "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
         "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "WE ARE JUST TAKING OFF",
-        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
       },
       "artists": [
         {
-          "name": "Sadistics",
-          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 371226,
-      "name": "ON THE SEASHORE",
-      "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
+      "duration_ms": 242200,
+      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
+      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -375,6 +359,22 @@
       "duration_ms": 237160,
       "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30fb\u30b7\u30fc\u30fb\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "WE ARE JUST TAKING OFF",
+        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
+      },
+      "artists": [
+        {
+          "name": "Sadistics",
+          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
+        }
+      ],
+      "duration_ms": 371226,
+      "name": "ON THE SEASHORE",
+      "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
-      },
-      "artists": [
-        {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "\u591c\u9593\u98db\u884c",
-      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "Amii - versary (\u6771\u829dEMI\u7de8)",
         "url": "https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 197040,
       "name": "\u30de\u30a4\u30fb\u30d4\u30e5\u30a2\u30fb\u30ec\u30c7\u30a3",
       "url": "https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "\u591c\u9593\u98db\u884c",
+      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
     },
     {
       "added_at": "2024-06-27 02:23:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-27 02:23:42",
       "album": {
-        "name": "THRILL[Remaster]",
-        "url": "https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A"
-      },
-      "artists": [
-        {
-          "name": "Char",
-          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "YOU GOT THE MUSIC",
-      "url": "https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5"
-    },
-    {
-      "added_at": "2024-06-27 02:23:42",
-      "album": {
         "name": "Memorial Rain",
         "url": "https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 264040,
       "name": "\u30df\u30b9\u30c6\u30a3\u30fc\u30fb\u30ec\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J"
+    },
+    {
+      "added_at": "2024-06-27 02:23:42",
+      "album": {
+        "name": "invitation",
+        "url": "https://open.spotify.com/album/2Vfm8k2ciRjGKpR8Q5T0Bb"
+      },
+      "artists": [
+        {
+          "name": "Yuko Kanai",
+          "url": "https://open.spotify.com/artist/6VdzbVLd8ck1HPPpBBMvo0"
+        }
+      ],
+      "duration_ms": 277373,
+      "name": "\u30b5\u30de\u30fc\u30d7\u30ec\u30a4\u30b9\u30b5\u30de\u30fc\u30e9\u30f4",
+      "url": "https://open.spotify.com/track/09tmSzM2ugauLzrtJV2ueP"
     }
   ],
   "unique_name": "City Pop '70s",

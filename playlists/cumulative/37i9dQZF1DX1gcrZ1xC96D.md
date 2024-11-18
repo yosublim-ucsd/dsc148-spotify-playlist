@@ -4,7 +4,7 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-237 songs - 12 hr 10 min
+238 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Didn't Know](https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl) | 2:48 | 2022-07-05 | 2022-09-28 |
 | [Didn't Know](https://open.spotify.com/track/6t8XoDG0YGFGBqUsgj9Ih9) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/3qpEkXRsDiail2jK8DS6Ml) | 2:48 | 2022-05-10 | 2022-07-04 |
 | [Didn't Know \- Tobtok Remix](https://open.spotify.com/track/0TgAsV5VoewfCIT9y6KQYR) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Didn't Know \(Tobtok Remix\)](https://open.spotify.com/album/03G4hEf2EjJh6UY9ilPUF9) | 3:02 | 2022-04-15 | 2022-07-29 |
+| [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-11-15 |  |
 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-08-11 |  |
 | [Disconnect \- Ben Nicky Remix](https://open.spotify.com/track/5JqdCWMl6ZoMwVT6RW7n1x) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [Disconnect \(Ben Nicky Remix\)](https://open.spotify.com/album/3CMCNk2WQaBGbmxUF0eCX3) | 2:32 | 2023-09-22 | 2024-08-10 |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2022-07-05 | 2023-02-15 |
@@ -227,7 +228,7 @@
 | [Want No Other](https://open.spotify.com/track/2hR6MOgJZfiemGNzxK0U2p) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Want No Other](https://open.spotify.com/album/5On5ieTBpi2hy2IT8cAtz9) | 2:34 | 2022-05-10 | 2022-07-29 |
 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 | 2024-05-16 |  |
 | [We Ain't Here For Long](https://open.spotify.com/track/427747J57kLmFjqk7PZrpp) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9) | 2:55 | 2024-03-22 | 2024-04-19 |
-| [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 | 2024-04-11 |  |
+| [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 | 2024-04-11 | 2024-11-18 |
 | [We Can Come Together](https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [We Can Come Together](https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q) | 3:36 | 2022-05-10 | 2022-07-04 |
 | [We Rise](https://open.spotify.com/track/75dqS7aowpZLpwxARSpoUJ) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [We Rise](https://open.spotify.com/album/1xx8omgUAkLqiv4dK2Hwig) | 3:13 | 2022-05-10 | 2022-07-02 |
 | [What I Need](https://open.spotify.com/track/6XqXja4FXM2WVJSkbKK1PU) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU) | [What I Need](https://open.spotify.com/album/4rCS2cW5gqIhDtzwMRXhzR) | 3:21 | 2022-04-15 | 2022-07-28 |

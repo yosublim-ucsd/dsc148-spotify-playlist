@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (10/11/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (17/11/2024)",
   "tracks": [
     {
       "album": {
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 162906,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Nom\u00e9s viure",
+        "url": "https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136048,
+      "name": "Nom\u00e9s viure",
+      "url": "https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru"
+    },
+    {
+      "album": {
         "name": "Octubre del 24",
         "url": "https://open.spotify.com/album/3qEuV0K77UIdIbtojbrvlK"
       },
@@ -1495,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Papallones",
+        "url": "https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB"
+      },
+      "artists": [
+        {
+          "name": "JULS",
+          "url": "https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168163,
+      "name": "Papallones",
+      "url": "https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM"
+    },
+    {
+      "album": {
         "name": "Passen coses",
         "url": "https://open.spotify.com/album/6v7R079cecpwRJjUwVwJou"
       },
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 167595,
       "name": "Passen coses",
       "url": "https://open.spotify.com/track/2zCFH8oIRZnk0NLbMGYPqH"

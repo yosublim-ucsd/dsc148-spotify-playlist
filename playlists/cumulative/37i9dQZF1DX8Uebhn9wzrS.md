@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,142 songs - 3 day 9 hr 40 min
+2,143 songs - 3 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1162,6 +1162,7 @@
 | [Memories](https://open.spotify.com/track/3pivtCoFbIjlMklLAmeuiT) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Memories](https://open.spotify.com/album/2g1ev5m7Q4BlpMxwtx6irX) | 2:49 | 2024-04-26 |  |
 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 | 2022-10-14 |  |
 | [memories we made](https://open.spotify.com/track/01dT6aejWkATblUn3zs0l0) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [memories we made](https://open.spotify.com/album/0tH4sqm0Rpc9fLcJfRRAFN) | 2:25 | 2023-07-13 |  |
+| [memories we memories we share](https://open.spotify.com/track/44cZtxOv8dYUpYPtxLkVRA) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [memories we memories we share](https://open.spotify.com/album/19yj9XW6biEBOq1BV9UtNJ) | 2:04 | 2024-11-15 |  |
 | [memory](https://open.spotify.com/track/3ebhxXMw4iM3wbyX9jGX7b) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [sove](https://open.spotify.com/artist/3qpcpvSv3LQSgRzofyKLlt) | [memory](https://open.spotify.com/album/6Nc4XAdh054rJ2ZOF1OrVF) | 2:35 | 2024-10-18 |  |
 | [memory charms](https://open.spotify.com/track/0kPEFxePX7UsPZ6oEjsWYx) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [memory charms](https://open.spotify.com/album/6ShTwHsI507gYdgtOcibrs) | 1:46 | 2024-07-12 |  |
 | [Memory Lane](https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Memory Lane](https://open.spotify.com/album/280ABIKRcVoUXHuuPC5MGv) | 1:56 | 2022-11-11 |  |
@@ -2145,7 +2146,7 @@
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
 | [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 |  |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-08-23 | 2024-10-08 |
-| [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 |  |
+| [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 | 2024-11-18 |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 | 2024-10-28 |
 | [Zodiac](https://open.spotify.com/track/01tUhIL7bgA6UrByND0Cg3) | [LXXXVII](https://open.spotify.com/artist/311w5PIT9AJHKLoVXGxboO) | [Zodiac](https://open.spotify.com/album/4KJIA7JL7y4Rhfpgb7BeVF) | 2:19 | 2024-02-02 |  |
 | [zodiac](https://open.spotify.com/track/52IDolnJNCfL4rA6UwDCi3) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [zodiac](https://open.spotify.com/album/6cyHjL3dwTcUhaYmdkrCxa) | 2:21 | 2023-03-08 |  |

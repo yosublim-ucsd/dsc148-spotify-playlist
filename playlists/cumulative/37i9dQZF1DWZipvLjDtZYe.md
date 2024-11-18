@@ -142,6 +142,6 @@
 | [貴方に花を 私に唄を](https://open.spotify.com/track/7bJYzpRYFxnMnyasWqTIMJ) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [period 1](https://open.spotify.com/album/2WJRGYOctQEqfFFaxiKmf3) | 3:03 | 2021-09-23 | 2022-07-07 |
 | [透明水彩](https://open.spotify.com/track/0WFb5FY1w7jV1DnDmwXpbd) | [Yasuo](https://open.spotify.com/artist/7EvlO09zOVmTWQKe7AH8Bc) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 4:05 | 2021-09-23 | 2022-07-03 |
 | [電気予報 \(feat\. 初音ミク\)](https://open.spotify.com/track/35sayLCpOsy7aCAp8sppG1) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [電気予報](https://open.spotify.com/album/0rxIQEIM9GkmhegoOORAJy) | 3:51 | 2024-01-05 |  |
-| [魔法みたいなミュージック! \(feat\. 初音ミク\)](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [魔法みたいなミュージック!](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 | 2021-09-23 |  |
+| [魔法みたいなミュージック！ \(feat\. 初音ミク\)](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [魔法みたいなミュージック！](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 | 2021-09-23 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

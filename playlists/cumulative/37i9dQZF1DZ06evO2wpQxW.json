@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "El Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/0S2vdWW0P6Tj7EBZJzsqaW"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "El Sue\u00f1o Americano",
+      "url": "https://open.spotify.com/track/4NANPwin7KV3pQcFChSbvr"
+    },
+    {
+      "album": {
         "name": "De Sinaloa Para El Mundo",
         "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
       },

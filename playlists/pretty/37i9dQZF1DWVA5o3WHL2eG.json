@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35455,
+  "num_followers": 35451,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
         "name": "K\u00fcss dein Herz",
         "url": "https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 162058,
       "name": "K\u00fcss dein Herz",
       "url": "https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "bulletholes",
-        "url": "https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "bulletholes",
-      "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "Navigator",
         "url": "https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 209090,
       "name": "Navigator",
       "url": "https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "bulletholes",
+        "url": "https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "bulletholes",
+      "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "point nemo (ya ya ya)",
-        "url": "https://open.spotify.com/album/561R0OrhW0KfPTYQdr6kKR"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 130496,
-      "name": "point nemo (ya ya ya)",
-      "url": "https://open.spotify.com/track/2aMlMQssBEDyATmHhFEZTB"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "wie es fr\u00fcher einmal war",
         "url": "https://open.spotify.com/album/47NjhmnFHSw5KxG0xpvXlX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 151715,
       "name": "wie es fr\u00fcher einmal war",
       "url": "https://open.spotify.com/track/45lyaLLHetseCEwipYs8YB"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "point nemo (ya ya ya)",
+        "url": "https://open.spotify.com/album/561R0OrhW0KfPTYQdr6kKR"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "point nemo (ya ya ya)",
+      "url": "https://open.spotify.com/track/2aMlMQssBEDyATmHhFEZTB"
     },
     {
       "added_at": "2024-11-05 23:00:00",

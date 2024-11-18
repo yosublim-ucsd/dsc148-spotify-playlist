@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "all night",
+        "url": "https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F"
+      },
+      "artists": [
+        {
+          "name": "outofhere",
+          "url": "https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129190,
+      "name": "all night",
+      "url": "https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9"
+    },
+    {
+      "album": {
         "name": "Alles was ich will",
         "url": "https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa"
       },
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 172180,
       "name": "POWERTRIP!",
       "url": "https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI"

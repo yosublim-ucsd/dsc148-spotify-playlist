@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap og den vibe 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,406 likes - 56 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,419 likes - 56 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

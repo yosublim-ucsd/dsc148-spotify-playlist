@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "LIGHT AGAIN!",
+        "url": "https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177252,
+      "name": "LIGHT AGAIN!",
+      "url": "https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3"
+    },
+    {
+      "album": {
         "name": "Light Flex (From the Original Motion Picture Soundtrack 'Uncle Drew') (feat. 2 Chainz)",
         "url": "https://open.spotify.com/album/1RKcmHPNIjZVAaXklTOPjO"
       },

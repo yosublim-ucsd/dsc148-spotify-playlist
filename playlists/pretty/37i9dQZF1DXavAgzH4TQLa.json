@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 286121,
+  "num_followers": 286147,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
         "name": "La Pollera Amarilla",
         "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 189106,
       "name": "La Pollera Amarilla",
       "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
         "name": "El Comboloco",
         "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 206333,
       "name": "Ser\u00e1 Porque Te Amo",
       "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
         }
       ],
-      "duration_ms": 249219,
-      "name": "Andrea",
-      "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 192120,
       "name": "El Soy Yo",
       "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 249219,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
+        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
+        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+      },
+      "artists": [
+        {
+          "name": "Amar y yo",
+          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "La pata sucia",
+      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+        "name": "Si hay alguien en tu vida",
+        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
       },
       "artists": [
         {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 201346,
-      "name": "La pata sucia",
-      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
+      "duration_ms": 231280,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1091,22 +1107,6 @@
       "duration_ms": 366812,
       "name": "Mix El Polaco - Fer Palacio",
       "url": "https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "Si hay alguien en tu vida",
-        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1159,54 +1159,6 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Bomb\u00f3n Asesino 2x1",
-        "url": "https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/76nWePJSD6vm3jWimfTDSf"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "Que Ves",
-        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 243456,
-      "name": "Que Ves",
-      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 129973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/5VNipMioOFUAdeUEfC5hkb"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
         "name": "Un sue\u00f1o hecho realidad",
         "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
@@ -1227,6 +1179,54 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
+        "name": "Que Ves",
+        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 243456,
+      "name": "Que Ves",
+      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "Bomb\u00f3n Asesino 2x1",
+        "url": "https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/76nWePJSD6vm3jWimfTDSf"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 129973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/5VNipMioOFUAdeUEfC5hkb"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
         "name": "En Peligro de Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 221823,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "C\u00f3mo le Gusta",
-        "url": "https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 190138,
-      "name": "C\u00f3mo le Gusta",
-      "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
+        "name": "C\u00f3mo le Gusta",
+        "url": "https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 190138,
+      "name": "C\u00f3mo le Gusta",
+      "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
         "name": "Como Olvidarme",
         "url": "https://open.spotify.com/album/2Q4QQNuTsCdwPnhiGbYdvf"
       },
@@ -1287,38 +1287,6 @@
       "duration_ms": 217775,
       "name": "Como Olvidarme",
       "url": "https://open.spotify.com/track/1l44SjqWN8MpmaOHjAFUvj"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Si Hay Alguien en Tu Vida",
-      "url": "https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "Manos de Tijera / Si Decides Regresar",
-        "url": "https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U"
-      },
-      "artists": [
-        {
-          "name": "Diego R\u00edos",
-          "url": "https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI"
-        }
-      ],
-      "duration_ms": 198005,
-      "name": "Manos de Tijera / Si Decides Regresar",
-      "url": "https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1339,6 +1307,38 @@
       "duration_ms": 203493,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "Manos de Tijera / Si Decides Regresar",
+        "url": "https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U"
+      },
+      "artists": [
+        {
+          "name": "Diego R\u00edos",
+          "url": "https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI"
+        }
+      ],
+      "duration_ms": 198005,
+      "name": "Manos de Tijera / Si Decides Regresar",
+      "url": "https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Si Hay Alguien en Tu Vida",
+      "url": "https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY"
     },
     {
       "added_at": "2024-06-14 13:34:36",

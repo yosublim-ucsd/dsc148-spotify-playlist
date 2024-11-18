@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14693,
+  "num_followers": 14699,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "DEGRENGOLADA",
-        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        }
-      ],
-      "duration_ms": 247249,
-      "name": "Pi\u0119kna degrengolada",
-      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Pracownia (deluks)",
         "url": "https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 260146,
       "name": "Etna",
       "url": "https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "DEGRENGOLADA",
+        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "duration_ms": 247249,
+      "name": "Pi\u0119kna degrengolada",
+      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Narkotyki",
-        "url": "https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp"
-      },
-      "artists": [
-        {
-          "name": "Jan Emil Mlynarski",
-          "url": "https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw"
-        },
-        {
-          "name": "Brass Federacja",
-          "url": "https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8"
-        },
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Alkohol i mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "COINCIDENCE",
         "url": "https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 127535,
       "name": "Coincidence - Part 1 - Prologue",
       "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Narkotyki",
+        "url": "https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp"
+      },
+      "artists": [
+        {
+          "name": "Jan Emil Mlynarski",
+          "url": "https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw"
+        },
+        {
+          "name": "Brass Federacja",
+          "url": "https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8"
+        },
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Alkohol i mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5"
     },
     {
       "added_at": "2024-03-25 08:52:09",

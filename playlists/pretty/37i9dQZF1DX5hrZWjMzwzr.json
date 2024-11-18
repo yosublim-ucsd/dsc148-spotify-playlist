@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10128,
+  "num_followers": 10127,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "K\u0141AMCZUCH",
         "url": "https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 161142,
       "name": "K\u0142amczuch",
       "url": "https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Na jedna karte",
-        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "Na jedna karte",
-      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 zawsze jest",
         "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 184260,
       "name": "Mi\u0142o\u015b\u0107 zawsze jest",
       "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Na jedna karte",
+        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "Na jedna karte",
+      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Miasto Boga",
+        "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Miasto Boga",
+      "url": "https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "SQNHEAD",
         "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Miasto Boga",
-        "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Miasto Boga",
-      "url": "https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH"
     },
     {
       "added_at": "2024-02-27 08:21:33",

@@ -291,6 +291,32 @@
     },
     {
       "album": {
+        "name": "PLATICAME DE TI (En Vivo)",
+        "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mi Tierra",
+          "url": "https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "GUILLERMO RAFAEL HERNANDEZ RAMOS",
+          "url": "https://open.spotify.com/artist/6TV8tWJXeXlIeQg8YrW0hE"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174155,
+      "name": "PLATICAME DE TI - En Vivo",
+      "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
+    },
+    {
+      "album": {
         "name": "Seguiremos Trabajando",
         "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-396 songs - 20 hr 6 min
+397 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,8 +376,9 @@
 | [Where Is the Song of Songs for Me](https://open.spotify.com/track/6vt4SPesfCCQywLGbelFWK) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Lupé Velez](https://open.spotify.com/artist/1xwrF7P4vEez0D7IPyNCrZ), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [Vintage Hollywood Classics, Vol\. 13: The Glamour & Glitter Days \(Recorded 1929–1946\)](https://open.spotify.com/album/7wpfNBLv3c3o9M0Z3yUwVJ) | 2:39 | 2024-07-26 |  |
 | [While the Band Played an American Rag](https://open.spotify.com/track/3vWCeSH4GnnLL5Timdz4oU) | [Alec Deland](https://open.spotify.com/artist/1atjbI8nPMrnfNzjmBOf3s) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:59 | 2024-07-26 |  |
 | [Whisper It](https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ) | [Glory Crampton](https://open.spotify.com/artist/3YcgIXrZUpOir8AMlniUFg), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:49 | 2024-07-26 | 2024-10-29 |
-| [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2024-09-22 |  |
+| [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2024-09-22 | 2024-11-18 |
 | [White Christmas](https://open.spotify.com/track/3hScEmuagcQ0TvoJa5oFyI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:06 | 2024-07-26 | 2024-09-23 |
+| [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 | 2024-11-17 |  |
 | [Who Do You Love, I Hope \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5IGLynxpu5v4E2QOs5xkWU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 5:01 | 2024-07-26 |  |
 | [Whose Little Heart Are You Breaking Now?](https://open.spotify.com/track/3Llf04lDLqyKCCJSJVLRpf) | [Emily Bordonaro](https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 3:40 | 2024-07-26 |  |
 | [Wild About You](https://open.spotify.com/track/05szrKIEWCjfbAT41BJLdH) | [Summer Strallen](https://open.spotify.com/artist/3kLvGkqEQgwbcImiA8qBVb) | [Top Hat: The Musical \(Original London Cast Recording\)](https://open.spotify.com/album/2Jyv99HYnlhy0Fut0k4Yls) | 2:30 | 2024-07-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22116,
+  "num_followers": 22124,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALVH2pA+HojdlhcP2eShyJUr0ECJYm",
+  "snapshot_id": "AAALX3neiWudYU/dIxBlJDCNK+qPLpHO",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq"
     },
     {
+      "added_at": "2024-11-17 14:38:23",
+      "album": {
+        "name": "Song for the Moon",
+        "url": "https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5"
+      },
+      "artists": [
+        {
+          "name": "The Fascinating Chimera Project",
+          "url": "https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA"
+        }
+      ],
+      "duration_ms": 262578,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF"
+    },
+    {
       "added_at": "2024-11-15 22:11:11",
       "album": {
         "name": "Suntub",
@@ -259,6 +275,70 @@
       "duration_ms": 278360,
       "name": "The Homecoming Queen's Got a Gun",
       "url": "https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh"
+    },
+    {
+      "added_at": "2024-11-17 15:03:29",
+      "album": {
+        "name": "Mudglimmer",
+        "url": "https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3"
+      },
+      "artists": [
+        {
+          "name": "The Slaps",
+          "url": "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
+        }
+      ],
+      "duration_ms": 209748,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml"
+    },
+    {
+      "added_at": "2024-11-17 16:12:21",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC"
+      },
+      "artists": [
+        {
+          "name": "Autocamper",
+          "url": "https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT"
+    },
+    {
+      "added_at": "2024-11-17 19:31:12",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC"
+      },
+      "artists": [
+        {
+          "name": "Autocamper",
+          "url": "https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx"
+        }
+      ],
+      "duration_ms": 166353,
+      "name": "Ken Hom",
+      "url": "https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r"
+    },
+    {
+      "added_at": "2024-11-17 16:42:24",
+      "album": {
+        "name": "If I Am",
+        "url": "https://open.spotify.com/album/6SRNDhfOZNAKR1d9qkYARJ"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "If I Am",
+      "url": "https://open.spotify.com/track/7vO8kQ5RVYQdmdApypvjAi"
     }
   ],
   "unique_name": "thoughts never said aloud",

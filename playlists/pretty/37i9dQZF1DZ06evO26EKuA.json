@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 434141,
+  "num_followers": 434205,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPAAAAAACVoeJ5IHvhJcU0KgCZg2dJ",
+  "snapshot_id": "ZzfggAAAAAAw+vLc+u6Q8LIO4Wdtt7pT",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Vete Con \u00c9l",
-      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver\u00e9 a Amar",
         "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 144613,
       "name": "Se\u00f1ora Equivocada",
       "url": "https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos De Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "El Huizache",
+      "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mejor Colecci\u00f3n De Corridos",
         "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 157280,
       "name": "La Tambora Va A Sonar",
       "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos De Valent\u00edn Elizalde",
-        "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "El Huizache",
-      "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
     },
     {
       "added_at": null,

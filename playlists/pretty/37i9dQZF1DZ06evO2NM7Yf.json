@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAACq+y8RqXjH9eMVS/p8umTN",
+  "snapshot_id": "ZzfggAAAAABwvbnru0+a6nAr09C+afw+",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 148357,
       "name": "cupids on cocaine",
       "url": "https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
     },
     {
       "added_at": null,
@@ -159,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin (Sad Girl Version)",
-        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 179260,
-      "name": "All the Things You'd Ruin (Sad Girl Version)",
-      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "breakup with a friend",
         "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 162000,
       "name": "breakup with a friend",
       "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All the Things You'd Ruin (Sad Girl Version)",
+        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 179260,
+      "name": "All the Things You'd Ruin (Sad Girl Version)",
+      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
     },
     {
       "added_at": null,
@@ -219,6 +235,22 @@
       "duration_ms": 230703,
       "name": "Joni",
       "url": "https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 39696,
+      "name": "Evangelium Advenit...",
+      "url": "https://open.spotify.com/track/2rUuyhlCpbsslr7UXPsZhw"
     },
     {
       "added_at": null,

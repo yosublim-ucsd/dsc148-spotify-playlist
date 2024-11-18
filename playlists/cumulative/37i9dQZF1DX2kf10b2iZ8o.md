@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-183 songs - 13 hr 27 min
+184 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Platinum MASK](https://open.spotify.com/track/3QsDMmFNQRCb58jUqlsdwT) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM GROWING SIGN@L 17](https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY) | 3:25 | 2023-03-07 |  |
 | [Pleasure Forever...](https://open.spotify.com/track/4g25jIzhmV7y2vu80ezETN) | [W](https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok) | [THE IDOLM@STER SideM ST@RTING LINE\-05 W](https://open.spotify.com/album/0l7nhxLWcTLIyY8zupFA4f) | 4:32 | 2024-03-05 | 2024-10-29 |
 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 | 2022-12-01 |  |
-| [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 | 2022-12-13 |  |
+| [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 | 2022-12-13 | 2024-11-18 |
 | [Present For You!!!!! ～A day in the café～](https://open.spotify.com/track/7aQQAxzHdVekvg7LHm2JLH) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:40 | 2023-05-09 | 2023-12-26 |
 | [PRIDE STAR](https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR](https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz) | 4:55 | 2022-12-01 | 2024-11-07 |
 | [PROOF OF ONESELF](https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:20 | 2022-12-01 |  |
@@ -153,6 +153,7 @@
 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 | 2022-12-01 | 2024-10-17 |
 | [アトモスフィア](https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD) | [握野英雄 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 5:46 | 2023-05-09 |  |
 | [エウレカダイアリー](https://open.spotify.com/track/7oIyoSF18q8FlaGPrc90wi) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:48 | 2022-12-01 |  |
+| [オモイノウタ](https://open.spotify.com/track/7gtny036HpwwqgFyOXSRQX) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM 5th ANNIVERSARY 02](https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n) | 4:23 | 2024-03-05 |  |
 | [オレたちの最強伝説\~一世一代、破羅駄威棲!\~](https://open.spotify.com/track/7I1PQc0TghgrtXfunQWZf8) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 3:15 | 2022-12-01 | 2022-12-03 |
 | [オーロラ・モーメント](https://open.spotify.com/track/6NDULHujTVayp2bfgyMyOV) | [神楽 麗 \(CV.永野由祐\)](https://open.spotify.com/artist/362D8P2T3DvFL9bU2Zs3jo) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 3:52 | 2023-05-09 | 2023-12-21 |
 | [カレイド TOURHYTHM](https://open.spotify.com/track/2Zy5r8fEzg5hdJMcxmH0lN) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 03](https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk) | 4:44 | 2024-03-05 |  |

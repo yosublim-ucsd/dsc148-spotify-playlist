@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 48926,
+  "num_followers": 48930,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "I Chose Good",
-        "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
-      },
-      "artists": [
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
-        }
-      ],
-      "duration_ms": 163914,
-      "name": "I Chose Good",
-      "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "High Off You",
         "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 233760,
       "name": "High Off You",
       "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "I Chose Good",
+        "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "duration_ms": 163914,
+      "name": "I Chose Good",
+      "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "No Apologies 1.9 V2_demo",
-        "url": "https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 127329,
-      "name": "No Apologies 1.9 V2_demo",
-      "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 222945,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "No Apologies 1.9 V2_demo",
+        "url": "https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 127329,
+      "name": "No Apologies 1.9 V2_demo",
+      "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1055,34 +1055,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "SEE YOU TRY...",
-        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
-      },
-      "artists": [
-        {
-          "name": "Yawdoesitall",
-          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
-        },
-        {
-          "name": "Yasmina Sadiki",
-          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
-        },
-        {
-          "name": "TAWANDA",
-          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
-        },
-        {
-          "name": "DEVAURA",
-          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "SEE YOU TRY...",
-      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Autumn Girl",
         "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
       },
@@ -1127,6 +1099,34 @@
       "duration_ms": 201680,
       "name": "maryjane",
       "url": "https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "SEE YOU TRY...",
+        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
+      },
+      "artists": [
+        {
+          "name": "Yawdoesitall",
+          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
+        },
+        {
+          "name": "Yasmina Sadiki",
+          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
+        },
+        {
+          "name": "TAWANDA",
+          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
+        },
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "SEE YOU TRY...",
+      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Sway (Remix)",
+        "url": "https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH"
+      },
+      "artists": [
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
+        },
+        {
+          "name": "Rex Atirai",
+          "url": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW"
+        }
+      ],
+      "duration_ms": 236006,
+      "name": "Sway - Remix",
+      "url": "https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Laying Low",
         "url": "https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL"
       },
@@ -1207,22 +1227,6 @@
       "duration_ms": 180841,
       "name": "Unapologetically",
       "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3"
     }
   ],
   "unique_name": "Soulful",

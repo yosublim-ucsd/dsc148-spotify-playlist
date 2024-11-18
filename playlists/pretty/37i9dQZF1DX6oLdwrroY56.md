@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: Wiji Kun
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,836 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,847 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 13 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 |
 | 14 | [Pessimist](https://open.spotify.com/track/5sbbdNVTJJQtn2tdprM10H) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK), [GRE!](https://open.spotify.com/artist/0chN87LPw5RqChtuYbmQwQ) | [Pessimist](https://open.spotify.com/album/4CJNUGpXOnx4y39eovTDfn) | 2:11 |
 | 15 | [Sa Huli](https://open.spotify.com/track/0UbJwLj4ZlNps0NDocAoEw) | [Kjwan](https://open.spotify.com/artist/5kUrUkpqUuCYX0eLEhvcQ3) | [Sa Huli](https://open.spotify.com/album/3JT8gixfqepfk3PrsCKY7q) | 2:26 |
-| 16 | [No Control ft\. \(e\)motion engine](https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Lost & Found](https://open.spotify.com/album/3TR1Bd2VseCPtjaBgEzaI6) | 4:09 |
+| 16 | [No Control \(feat\. \(e\)motion engine\)](https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [Lost & Found](https://open.spotify.com/album/3TR1Bd2VseCPtjaBgEzaI6) | 4:09 |
 | 17 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 |
 | 18 | [Patay](https://open.spotify.com/track/4YG4n8EHpRe5mLnDLxrdBM) | [Sean Archer](https://open.spotify.com/artist/19SziRzo0hKaQCP037qnkz) | [Patay](https://open.spotify.com/album/4g1PnUcI0HllNmIzc6Urj6) | 4:00 |
 | 19 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |

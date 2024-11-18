@@ -4,7 +4,7 @@
 
 > 
 
-2,021 songs - 4 day 12 hr 34 min
+2,022 songs - 4 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1633,6 +1633,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-02-26 |  |
 | [Spit It Out](https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 2:39 | 2023-03-07 |  |
 | [Spit It Out \- Hyper Version](https://open.spotify.com/track/6ftph4VaiX6aG2NwZUWd3q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:24 | 2024-03-30 |  |
+| [Spletter Techno](https://open.spotify.com/track/6vvdKKpfb645nvLkO2C1tH) | [Triangler](https://open.spotify.com/artist/4qs4QsC3mHzptvkqrGMlBg) | [Spletter Techno](https://open.spotify.com/album/7sb4lbePIX6MzCivAO1zAE) | 1:08 | 2024-11-18 |  |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2021-08-05 |  |
 | [Spring Fever](https://open.spotify.com/track/4XnxaBO6zyRszK6G3g8Ohz) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 2:48 | 2021-08-05 |  |
 | [spy?](https://open.spotify.com/track/0QsZ3W21xNvnUnUMbiAY4z) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:33 | 2021-08-05 |  |

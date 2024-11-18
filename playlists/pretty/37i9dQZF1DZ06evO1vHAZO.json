@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 4441,
+  "num_followers": 4454,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAAAVsEaibTtnjV2DgaANqhv7",
+  "snapshot_id": "ZzfggAAAAACMmq/z9LDrBaHiPFu17aAL",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Go Let It Out",
-      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
+      "duration_ms": 198533,
+      "name": "Fuckin' in the Bushes",
+      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Fuckin' in the Bushes",
-      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
+      "duration_ms": 278693,
+      "name": "Go Let It Out",
+      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
     },
     {
       "added_at": null,

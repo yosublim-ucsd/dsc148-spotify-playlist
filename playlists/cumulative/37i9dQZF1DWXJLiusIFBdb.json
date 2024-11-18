@@ -1107,24 +1107,6 @@
     },
     {
       "album": {
-        "name": "Fate/Grand Order Orchestra Concert -Live Album- performed by \u6771\u4eac\u90fd\u4ea4\u97ff\u697d\u56e3",
-        "url": "https://open.spotify.com/album/0inrr8sZtgIwjJFV0NSNzv"
-      },
-      "artists": [
-        {
-          "name": "Fate/Grand Order",
-          "url": "https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k"
-        }
-      ],
-      "date_added": "2023-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264160,
-      "name": "\u8272\u5f69 ~\u8a23\u5225\u306e\u6642\u6765\u305f\u308c\u308a~ orchestra ver.(Live)",
-      "url": "https://open.spotify.com/track/5mNzoFrC8mfydJ1wJL6JuB"
-    },
-    {
-      "album": {
         "name": "Fate/Grand Order Original Soundtrack \u2160",
         "url": "https://open.spotify.com/album/0i7YKsa2uqga79z4KvfXMg"
       },
@@ -1140,6 +1122,24 @@
       "duration_ms": 131720,
       "name": "\u8272\u5f69 \uff5e\u8a23\u5225\u306e\u6642\u6765\u305f\u308c\u308a\uff5e",
       "url": "https://open.spotify.com/track/27USaeHKJVNJV8bShVmwUF"
+    },
+    {
+      "album": {
+        "name": "Fate/Grand Order Orchestra Concert -Live Album- performed by \u6771\u4eac\u90fd\u4ea4\u97ff\u697d\u56e3",
+        "url": "https://open.spotify.com/album/0inrr8sZtgIwjJFV0NSNzv"
+      },
+      "artists": [
+        {
+          "name": "Fate/Grand Order",
+          "url": "https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264160,
+      "name": "\u8272\u5f69 \uff5e\u8a23\u5225\u306e\u6642\u6765\u305f\u308c\u308a\uff5e orchestra ver.(Live)",
+      "url": "https://open.spotify.com/track/5mNzoFrC8mfydJ1wJL6JuB"
     },
     {
       "album": {

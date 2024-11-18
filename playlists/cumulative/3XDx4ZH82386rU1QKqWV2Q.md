@@ -4,7 +4,7 @@
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-648 songs - 1 day 3 hr 46 min
+650 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [CATACLYSM](https://open.spotify.com/track/0rDoIX84nNoFgYwJOY1rem) | [bckrøøm$](https://open.spotify.com/artist/5umOc7U00gyTlobZXuQe0o), [Ploragé](https://open.spotify.com/artist/0h9fLPM2Nz1ZShCD6IHa7w) | [CATACLYSM](https://open.spotify.com/album/2V1LeQpf1yWZmP0jx921fI) | 1:30 | 2023-07-24 | 2023-08-20 |
 | [Champione](https://open.spotify.com/track/15vyWTQp2jXmsK5AAfTd78) | [A!MS](https://open.spotify.com/artist/4kRfa7RBzBu7mxeWo3FkOe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Champione](https://open.spotify.com/album/50lpPl3PK2P5Nq3qwNQdU7) | 3:19 | 2023-06-12 | 2023-08-03 |
 | [Chaos](https://open.spotify.com/track/24xTsHVX9WYG7GCBBsYQrF) | [Shyler](https://open.spotify.com/artist/1kuXmaEhPZkQt0IroDihvL) | [Chaos](https://open.spotify.com/album/2sYfbM5mTAtDqKjm2O513p) | 1:49 | 2023-12-08 | 2024-01-19 |
+| [Chasing Clouds](https://open.spotify.com/track/758IEPNmSNNTdTDnOJwCsq) | [L8DB8](https://open.spotify.com/artist/5qWtBYifEde6m5ddJAXAKk) | [Chasing Clouds](https://open.spotify.com/album/7vqlVz60LkxHGXTHCjUO60) | 1:52 | 2024-11-17 |  |
 | [Chill Drive](https://open.spotify.com/track/31eVB6GiQD62FgPukVbG5p) | [Kusal Binara](https://open.spotify.com/artist/4s42KgZh4KNZgSm4ByzFvd) | [Chill Drive](https://open.spotify.com/album/6OE5dQacAZ75xqph2gbLPx) | 2:12 | 2023-12-08 | 2024-06-08 |
 | [CHOKE](https://open.spotify.com/track/2d9xzEUkRDvvmTjtqR6KrC) | [Blackillac](https://open.spotify.com/artist/2jLzs9V2OgbWNyTalT7rDq) | [CHOKE](https://open.spotify.com/album/22cw0ctnYn8FG26SbRWcm1) | 2:33 | 2024-01-23 | 2024-03-01 |
 | [Cinema](https://open.spotify.com/track/6ZCAoPaurm8pUPDj6bODf2) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [Cinema](https://open.spotify.com/album/1fMxTQ3HXmiIiCmsdjcLjv) | 1:54 | 2023-08-10 | 2023-12-14 |
@@ -332,6 +333,7 @@
 | [Last Glitch Effort](https://open.spotify.com/track/3aZrnyRK9nbP6sii23M7EN) | [Lincoln 6 Echo](https://open.spotify.com/artist/6F225Xirzc3yZPPj7HkOVx) | [Last Glitch Effort](https://open.spotify.com/album/5rY4wHMjlArFM48s0sv0f6) | 3:48 | 2024-07-02 | 2024-09-28 |
 | [LED Poisoning](https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj) | [James Dece](https://open.spotify.com/artist/5gjFmHkcGaw4xa0n5MH13y) | [LED Poisoning](https://open.spotify.com/album/17k7YvT4HE7Ed3vzCSqY3l) | 3:32 | 2023-12-08 | 2024-02-01 |
 | [Let Me Rot While I Battle For Serenity](https://open.spotify.com/track/1kvgSzbpAmk3yqMafKe5Fc) | [86Casino](https://open.spotify.com/artist/42CKsZqwmnsdWM3Pn53Vje) | [Let Me Rot While I Battle For Serenity](https://open.spotify.com/album/5rn3NS4yjKysSuYg3pqg2q) | 1:43 | 2024-03-08 | 2024-05-08 |
+| [Let The Rhythm Take Control](https://open.spotify.com/track/6r95PbMDWnqCJtrenM9tJ8) | [Pojrene](https://open.spotify.com/artist/5lYBjyTseVvvFM08JITkU7) | [Let The Rhythm Take Control](https://open.spotify.com/album/0bZ0HKIMHVjn0q4P344nPf) | 4:13 | 2024-11-17 |  |
 | [Life:Joy](https://open.spotify.com/track/2w0X8WC1qjH7j2pgB99HF1) | [I Passed Away](https://open.spotify.com/artist/483wNOICJmY6aycl3dCvZT), [AkZeNT](https://open.spotify.com/artist/3bnZFh0obkEldJTmSZ1ez5) | [Life:Joy](https://open.spotify.com/album/70WM6IGQoyw6XOG0KUP8ig) | 3:09 | 2023-07-22 | 2023-09-26 |
 | [Like OMG](https://open.spotify.com/track/1BAuo4COJSUWDADH1ZOW1a) | [ZodiacTrac](https://open.spotify.com/artist/1uAN3DQgiZwXbVHmkEqXKM) | [Bravo Six](https://open.spotify.com/album/0wDkY5RJKjuvIpOOxm8yua) | 1:43 | 2024-04-02 | 2024-08-29 |
 | [Limbo](https://open.spotify.com/track/46cCwdcirgFCYPZosLIof0) | [K.E.903](https://open.spotify.com/artist/4aVU5WW1G7KVeVLj4nTdl2) | [Limbo](https://open.spotify.com/album/0FreK2pSYfhSgHi20Y02Fv) | 2:11 | 2024-02-14 | 2024-03-01 |

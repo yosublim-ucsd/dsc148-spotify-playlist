@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavitória
 
-741 songs - 1 day 12 hr 58 min
+742 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Deixa o Amanhã pra Amanhã](https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 3:13 | 2023-09-01 | 2024-01-27 |
 | [Deixa o Coração Falar](https://open.spotify.com/track/0tPgb75mRXhU8Pc6I6NiZW) | [Rock in Rio Dia Brasil](https://open.spotify.com/artist/28tpBvLYAATwcqiUxkQRkp) | [Deixa o Coração Falar](https://open.spotify.com/album/4if3vrrDdIEneH5mNijjvn) | 4:29 | 2024-05-06 | 2024-06-08 |
 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 | 2022-05-13 | 2022-10-11 |
-| [Deixo Você Ir](https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe) | [VERANEIO](https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH) | [Veraneio, Ep\. 1](https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4) | 3:28 | 2024-09-27 |  |
+| [Deixo Você Ir](https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe) | [VERANEIO](https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH) | [Veraneio, Ep\. 1](https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4) | 3:28 | 2024-09-27 | 2024-11-18 |
 | [Delírio](https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Delírio](https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN) | 2:42 | 2023-03-17 | 2023-06-10 |
 | [delírio coletivo](https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [delírio coletivo](https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx) | 2:44 | 2023-08-18 | 2023-09-16 |
 | [Dentro de Um Pra Sempre](https://open.spotify.com/track/1rvHw5yWjvDTf1oWArAM8O) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Dentro de Um Pra Sempre](https://open.spotify.com/album/08iFkrBPToLgMmI78o7W5M) | 2:16 | 2024-08-09 | 2024-09-06 |
@@ -600,6 +600,7 @@
 | [SOL DE ABRIL](https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [P.A](https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV) | 2:31 | 2024-11-08 |  |
 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 | 2024-06-14 |  |
 | [Solar](https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Solar](https://open.spotify.com/album/05ZhiHl1TZIpishuIxN8HK) | 2:50 | 2022-06-03 | 2022-07-02 |
+| [Sombra No Sol](https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [TUDO ACONTECE AGORA PT.2](https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C) | 3:33 | 2024-11-15 |  |
 | [Somos Instantes](https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Somos Instantes](https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB) | 3:45 | 2022-05-13 | 2023-01-21 |
 | [Sonho](https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Label 67 \(Ao Vivo\)](https://open.spotify.com/album/3EipZjFInVdWgrda8PgoZf) | 4:16 | 2023-04-28 | 2023-08-19 |
 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 | 2023-10-20 | 2023-11-11 |

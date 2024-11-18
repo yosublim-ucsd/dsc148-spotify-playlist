@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: The Great(\ub354 \uadf8\ub808\uc774\ud2b8)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 92471,
+  "num_followers": 92481,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Fox Rain (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Fox Rain (The Moon during the Day)",
-      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "You, you (Nth Romance X Whee In)",
         "url": "https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 271213,
       "name": "You, you (Nth Romance X Whee In)",
       "url": "https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Fox Rain (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Fox Rain (The Moon during the Day)",
+      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -707,42 +707,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "After (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
-        "url": "https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I"
-      },
-      "artists": [
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "After",
-      "url": "https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
         "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 306499,
       "name": "I Don't Want To Say Goodbye",
       "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "After (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
+        "url": "https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I"
+      },
+      "artists": [
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "After",
+      "url": "https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
+        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
+      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Confession (Romance 101 X Huh Gak)",
-        "url": "https://open.spotify.com/album/3S8BS4rLJ63faZgACxiID8"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Confession (Romance 101 X Huh Gak)",
-      "url": "https://open.spotify.com/track/7iW3Ygc2Boioeykec6Jcdh"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Lee Doona Project Part 2",
         "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 212426,
       "name": "Something I want to tell you only.",
       "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Confession (Romance 101 X Huh Gak)",
+        "url": "https://open.spotify.com/album/3S8BS4rLJ63faZgACxiID8"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Confession (Romance 101 X Huh Gak)",
+      "url": "https://open.spotify.com/track/7iW3Ygc2Boioeykec6Jcdh"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H"
+      },
+      "artists": [
+        {
+          "name": "MION",
+          "url": "https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho"
+        },
+        {
+          "name": "near",
+          "url": "https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR"
+        }
+      ],
+      "duration_ms": 201645,
+      "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
+      "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
         "name": "Love Revolution (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt"
       },
@@ -1003,22 +1023,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H"
+        "name": "The Extra (One of a Kind Romance)",
+        "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
       },
       "artists": [
         {
-          "name": "MION",
-          "url": "https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho"
-        },
-        {
-          "name": "near",
-          "url": "https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR"
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
         }
       ],
-      "duration_ms": 201645,
-      "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
-      "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+      "duration_ms": 175480,
+      "name": "The Extra (One of a Kind Romance)",
+      "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 196680,
       "name": "The day",
       "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "The Extra (One of a Kind Romance)",
-        "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
-      },
-      "artists": [
-        {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "The Extra (One of a Kind Romance)",
-      "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
+        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
         "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
         "url": "https://open.spotify.com/album/3zlaBKIqfjp78kCxhpuOwy"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+        "name": "Only you (Romance 101 X Yang Yo Seop)",
+        "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
       },
       "artists": [
         {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
+      "duration_ms": 203253,
+      "name": "Only you (Romance 101 X Yang Yo Seop)",
+      "url": "https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 212786,
       "name": "99 (Guide to Proper Romance X Standing Egg)",
       "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "Only you (Romance 101 X Yang Yo Seop)",
-        "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
-      },
-      "artists": [
-        {
-          "name": "YANG YO SEOP",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Only you (Romance 101 X Yang Yo Seop)",
-      "url": "https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Only you (The Moon during the Day X GB9)",
-        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
-      },
-      "artists": [
-        {
-          "name": "GB9",
-          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Only you (The Moon during the Day X GB9)",
-      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Love Diary (Back to You X Lee MinHyuk)",
         "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 230853,
       "name": "Love Diary (Back to You X Lee MinHyuk)",
       "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Only you (The Moon during the Day X GB9)",
+        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Only you (The Moon during the Day X GB9)",
+      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
       },
@@ -1415,22 +1395,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Crazily, Only You (Original Webtoon Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/0piyJgT9xSg5w6jhzpHoI7"
-      },
-      "artists": [
-        {
-          "name": "Woo Eun Mi",
-          "url": "https://open.spotify.com/artist/3A6pL3y2Oj3BDRj370VsE9"
-        }
-      ],
-      "duration_ms": 211135,
-      "name": "We loved each other, It was so good",
-      "url": "https://open.spotify.com/track/15msDYboC50riZFMdOv3HK"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Dear You (She is My Type\u2661 X Standing Egg)",
         "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
       },
@@ -1443,6 +1407,42 @@
       "duration_ms": 185533,
       "name": "Dear You (She is My Type\u2661 X Standing Egg)",
       "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Crazily, Only You (Original Webtoon Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/0piyJgT9xSg5w6jhzpHoI7"
+      },
+      "artists": [
+        {
+          "name": "Woo Eun Mi",
+          "url": "https://open.spotify.com/artist/3A6pL3y2Oj3BDRj370VsE9"
+        }
+      ],
+      "duration_ms": 211135,
+      "name": "We loved each other, It was so good",
+      "url": "https://open.spotify.com/track/15msDYboC50riZFMdOv3HK"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "An Old Love Story (2021) (Romance 101 X KCM)",
-        "url": "https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG"
-      },
-      "artists": [
-        {
-          "name": "KCM",
-          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
-        }
-      ],
-      "duration_ms": 266829,
-      "name": "An Old Love Story (2021) (Romance 101 X KCM)",
-      "url": "https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Love Revolution (Lee Kyung-woo Theme) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 231426,
       "name": "Sand Castle",
       "url": "https://open.spotify.com/track/3onn360zmsghT2igHXp4qt"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "An Old Love Story (2021) (Romance 101 X KCM)",
+        "url": "https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "duration_ms": 266829,
+      "name": "An Old Love Story (2021) (Romance 101 X KCM)",
+      "url": "https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Lost Way (Good Doctor X Gaho)",
-        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
       },
       "artists": [
         {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+          "name": "LIZRO",
+          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Lost Way",
-      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
+      "duration_ms": 186862,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
     }
   ],
   "unique_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",

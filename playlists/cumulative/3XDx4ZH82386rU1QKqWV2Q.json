@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Chasing Clouds",
+        "url": "https://open.spotify.com/album/7vqlVz60LkxHGXTHCjUO60"
+      },
+      "artists": [
+        {
+          "name": "L8DB8",
+          "url": "https://open.spotify.com/artist/5qWtBYifEde6m5ddJAXAKk"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112099,
+      "name": "Chasing Clouds",
+      "url": "https://open.spotify.com/track/758IEPNmSNNTdTDnOJwCsq"
+    },
+    {
+      "album": {
         "name": "Chill Drive",
         "url": "https://open.spotify.com/album/6OE5dQacAZ75xqph2gbLPx"
       },
@@ -6534,6 +6552,24 @@
       "duration_ms": 103225,
       "name": "Let Me Rot While I Battle For Serenity",
       "url": "https://open.spotify.com/track/1kvgSzbpAmk3yqMafKe5Fc"
+    },
+    {
+      "album": {
+        "name": "Let The Rhythm Take Control",
+        "url": "https://open.spotify.com/album/0bZ0HKIMHVjn0q4P344nPf"
+      },
+      "artists": [
+        {
+          "name": "Pojrene",
+          "url": "https://open.spotify.com/artist/5lYBjyTseVvvFM08JITkU7"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253342,
+      "name": "Let The Rhythm Take Control",
+      "url": "https://open.spotify.com/track/6r95PbMDWnqCJtrenM9tJ8"
     },
     {
       "album": {

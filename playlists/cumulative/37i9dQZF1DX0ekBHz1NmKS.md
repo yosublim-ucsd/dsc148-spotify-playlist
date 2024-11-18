@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,692 songs - 3 day 15 hr 50 min
+1,693 songs - 3 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |
+| [Då är det inte jag](https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Då är det inte jag](https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV) | 3:27 | 2024-11-14 |  |
 | [DÖ FÖR](https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3) | [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [DÖ FÖR](https://open.spotify.com/album/5p8nmQfGIiNyX1w2oHVhbb) | 2:41 | 2022-03-10 | 2022-07-24 |
 | [DÖ FÖR DIG](https://open.spotify.com/track/42DuzCIKIA7g2ibkxW5c9C) | [ROBACO](https://open.spotify.com/artist/47kbrpfjbY1owNBaCUSwAP) | [DÖ FÖR DIG](https://open.spotify.com/album/7aAXkstpkuKCcBHaUIdeRL) | 2:41 | 2024-05-30 | 2024-06-28 |
 | [Dö före dig \- akustisk version](https://open.spotify.com/track/552Whv8lDoc9tGJninXBsv) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Dö före dig \(akustisk version\)](https://open.spotify.com/album/1vFo2cYQvSoM5N1m8lQbAu) | 2:11 | 2024-03-14 | 2024-04-26 |
@@ -1012,7 +1013,7 @@
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-05-23 | 2024-06-21 |
 | [My Love](https://open.spotify.com/track/72fMoh2AJMXDPEdSM26Tb9) | [Adrijana](https://open.spotify.com/artist/0bOSgUryDiUCvVbJUjM3y5) | [My Love](https://open.spotify.com/album/46QxSO9AdvIrXm2Dbu3PbB) | 2:45 | 2024-05-23 | 2024-06-21 |
 | [My Love](https://open.spotify.com/track/7z1w4IrnedvSTn5GZ2P5qm) | [Ess Bogale](https://open.spotify.com/artist/0iR8N3LhYx9AqADZL9RKd7) | [My Love](https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy) | 2:49 | 2022-03-24 | 2022-04-19 |
-| [My Mistake](https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [My Mistake](https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP) | 2:40 | 2024-10-24 |  |
+| [My Mistake](https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [My Mistake](https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP) | 2:40 | 2024-10-24 | 2024-11-18 |
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |
 | [Mycket bättre](https://open.spotify.com/track/3eCfXw6wt5ejoEt4sBrv9C) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Mycket bättre](https://open.spotify.com/album/3FowZl9TscFdAmRsUfdTI7) | 2:39 | 2024-04-18 | 2024-05-10 |
 | [Mästerverk](https://open.spotify.com/track/3A2cYgrSFJZu4KeYKNOQmt) | [Trofé](https://open.spotify.com/artist/73f5jwqJwX59X2tzNFDyBx), [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Mästerverk](https://open.spotify.com/album/3Ski67nWnQRMOVCe0xohbj) | 3:14 | 2024-05-02 | 2024-06-01 |

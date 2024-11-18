@@ -1,13 +1,61 @@
 {
   "description": "Generations of blood have lead to this. Listen to the music from Yellowstone, airing Sundays on Paramount Network. ",
-  "num_followers": 541190,
+  "num_followers": 541994,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzFlIAAAAABCI4r7eUCi+0vXpmfFgOIA",
+  "snapshot_id": "ZzqfoAAAAABX6YSdr+coSWDlH7DEYP0l",
   "tracks": [
+    {
+      "added_at": "2024-11-18 02:00:00",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "For a Long While",
+      "url": "https://open.spotify.com/track/1dfYs3gkkNESpRSCQY9Rz6"
+    },
+    {
+      "added_at": "2024-11-18 02:00:00",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
+    },
+    {
+      "added_at": "2024-11-18 02:00:00",
+      "album": {
+        "name": "Songs of the Plains",
+        "url": "https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Night Herding Song",
+      "url": "https://open.spotify.com/track/3HOvQ8hExcNftjC1QxgYA9"
+    },
     {
       "added_at": "2024-11-11 02:00:00",
       "album": {

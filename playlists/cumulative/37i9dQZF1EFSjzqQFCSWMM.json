@@ -518,10 +518,28 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 403948,
       "name": "EQUINOX",
       "url": "https://open.spotify.com/track/3hB80p4bHJMUEF50droDWh"
+    },
+    {
+      "album": {
+        "name": "IN LOVING MEMORY",
+        "url": "https://open.spotify.com/album/2FPjQQbVnARRqSF7vYVDlo"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403949,
+      "name": "EQUINOX",
+      "url": "https://open.spotify.com/track/4fTV1GLwzVAoiC1d7eQtDY"
     },
     {
       "album": {

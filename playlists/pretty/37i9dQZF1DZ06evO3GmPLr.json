@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 46779,
+  "num_followers": 46788,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzU9gAAAAABDGvWLSYJco3hDOkH2cEF+",
+  "snapshot_id": "ZzfggAAAAADodrCdVPrW2i6CbeJx2WbC",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,26 @@
       "duration_ms": 245045,
       "name": "Location (feat. Little Simz)",
       "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As If It Were Forever",
+        "url": "https://open.spotify.com/album/0FigctguQk2RfTwJ9V7TT6"
+      },
+      "artists": [
+        {
+          "name": "Anna Wise",
+          "url": "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 246936,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/18D4rkZpJJMwQ8ypxuHyvP"
     }
   ],
   "unique_name": "This Is Little Simz",

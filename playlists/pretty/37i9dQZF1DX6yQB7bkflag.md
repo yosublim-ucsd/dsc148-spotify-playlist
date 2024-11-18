@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: LAUV
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,107 likes - 139 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,110 likes - 139 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

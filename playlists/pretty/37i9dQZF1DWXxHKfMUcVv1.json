@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 118763,
+  "num_followers": 118804,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Qmbia Juan",
+        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Juan",
+          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Ay Que Vida",
+      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "My Destiny",
         "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Qmbia Juan",
-        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
       "artists": [
         {
-          "name": "Qmbia Juan",
-          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
         }
       ],
-      "duration_ms": 237844,
-      "name": "Ay Que Vida",
-      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -315,22 +331,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Amor pirata",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Rumbo a Tu Corazon",
+        "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
+      },
+      "artists": [
+        {
+          "name": "Rumberos",
+          "url": "https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "En La Luna Y En Marte",
+      "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 203253,
       "name": "Que Loco Amor",
       "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Rumbo a Tu Corazon",
-        "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
-      },
-      "artists": [
-        {
-          "name": "Rumberos",
-          "url": "https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "En La Luna Y En Marte",
-      "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Imposible",
         "url": "https://open.spotify.com/album/3GK2930aijx836XgQ720GV"
       },
@@ -615,6 +631,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "I Will Be: Like Big Stars!",
+        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
+      },
+      "artists": [
+        {
+          "name": "Chapa C",
+          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "No Llores por M\u00ed",
+      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Canciones Rotas",
         "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
       },
@@ -647,34 +679,18 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
       },
       "artists": [
         {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
         }
       ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "I Will Be: Like Big Stars!",
-        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
-      },
-      "artists": [
-        {
-          "name": "Chapa C",
-          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "No Llores por M\u00ed",
-      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -755,22 +771,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Verano \u00b499",
         "url": "https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A"
       },
@@ -787,34 +787,6 @@
       "duration_ms": 163494,
       "name": "Verano \u00b499",
       "url": "https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
-        }
-      ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -847,6 +819,34 @@
       "duration_ms": 245720,
       "name": "Que Divague",
       "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
+        }
+      ],
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2024-06-13 21:06:26",

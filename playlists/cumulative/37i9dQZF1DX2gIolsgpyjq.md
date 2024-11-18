@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> Catch Becky and the Birds on the Fresh Finds stage at Dunya Fest on Saturday!
+> The best new music by independent Nordic artists! Cover: Bavé
 
 663 songs - 1 day 10 hr 46 min
 
@@ -310,7 +310,7 @@
 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2024-11-07 |  |
 | [It's you](https://open.spotify.com/track/0Ce0FuRKEG6QmuVFDlxtFK) | [Linnea Awad](https://open.spotify.com/artist/4ol01UJxFIWX3X1zxExtXU) | [It's you](https://open.spotify.com/album/2XFMf8DdW14HdPdx5WUJPe) | 3:00 | 2024-05-30 | 2024-07-27 |
 | [Joyride](https://open.spotify.com/track/6Bl0uyF2IBvY8MVFheuEz8) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Joyride](https://open.spotify.com/album/4Lh3gKLOIRMlkJL6duFPKl) | 2:56 | 2024-02-15 | 2024-03-22 |
-| [Jump In The Ride](https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Jump In The Ride](https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1) | 3:50 | 2024-10-31 |  |
+| [Jump In The Ride](https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Jump In The Ride](https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1) | 3:50 | 2024-10-31 | 2024-11-18 |
 | [Just Like Heaven](https://open.spotify.com/track/5jllHkxe3JUdEpsrMYywv4) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Just Like Heaven](https://open.spotify.com/album/4vj87sOnqARYS2nsfc3C6B) | 2:02 | 2024-02-08 | 2024-03-08 |
 | [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-02-08 | 2024-03-15 |
 | [Keep Forgetting](https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Keep Forgetting](https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj) | 2:53 | 2024-08-29 |  |
@@ -369,7 +369,7 @@
 | [Maybe](https://open.spotify.com/track/6Ot12y6i3DK8HoGKh7pgz0) | [BELLANI](https://open.spotify.com/artist/3UNt97eGmLa7Q1Qp2VkXDD) | [Maybe](https://open.spotify.com/album/4Yjn4iipDcFyRuD6WCnkzJ) | 2:35 | 2024-05-16 | 2024-05-24 |
 | [Medicine](https://open.spotify.com/track/6eHh1bzjr3d1ehQbdscPta) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Medicine](https://open.spotify.com/album/4twXTIntJbADqWYqNDi6QW) | 3:07 | 2024-02-08 | 2024-03-15 |
 | [Mega Drive](https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Mega Drive](https://open.spotify.com/album/1FbqOdPsjrpayMjEjlA3wL) | 3:54 | 2024-10-17 |  |
-| [Melt](https://open.spotify.com/track/1diAoCB2sXmLmnPISTDi9b) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Melt](https://open.spotify.com/album/1pbL9FxmoojxtBHaFronQn) | 4:16 | 2024-11-11 |  |
+| [Melt](https://open.spotify.com/track/1diAoCB2sXmLmnPISTDi9b) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Melt](https://open.spotify.com/album/1pbL9FxmoojxtBHaFronQn) | 4:16 | 2024-11-11 | 2024-11-18 |
 | [MESSY](https://open.spotify.com/track/6WauGH6oUHdcuqVegbEXqx) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MESSY](https://open.spotify.com/album/2GMCZXwj6YEwl605OPEfge) | 2:57 | 2024-06-06 | 2024-08-30 |
 | [Middle Man](https://open.spotify.com/track/650Gl0mOtKdKFeA84LnapZ) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Middle Man](https://open.spotify.com/album/5hPhlLsFJFtyG5Ylr3YLsP) | 6:00 | 2024-10-10 |  |
 | [Midwest](https://open.spotify.com/track/32r19pzc2eu9ccqlsU3I7J) | [Mall Girl](https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf) | [Pure Love \(Deluxe version\)](https://open.spotify.com/album/5cWWdIJ0UAIdBJ7QKUhuxn) | 3:31 | 2024-02-29 | 2024-04-05 |
@@ -456,7 +456,7 @@
 | [Play With It](https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Play With It](https://open.spotify.com/album/149jwSDkfMGFnPf0saue6R) | 2:22 | 2024-06-27 | 2024-08-23 |
 | [Please Be Careful](https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Please Be Careful](https://open.spotify.com/album/7ryr4h1oUwQiJfvKSFT4Cl) | 2:23 | 2024-02-08 | 2024-05-09 |
 | [Point Out The Crime](https://open.spotify.com/track/3eMQWAvCNS5ZUMrkTFdsv1) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Point Out The Crime](https://open.spotify.com/album/1WiSFvWNaHNTd1AmYu3ES1) | 2:40 | 2024-09-05 | 2024-10-11 |
-| [Poison](https://open.spotify.com/track/1N9jzEJmaNZw8lSqTSLwZR) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Poison](https://open.spotify.com/album/49hw5yv8BUKx6OQ578yt6T) | 2:55 | 2024-11-11 |  |
+| [Poison](https://open.spotify.com/track/1N9jzEJmaNZw8lSqTSLwZR) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Poison](https://open.spotify.com/album/49hw5yv8BUKx6OQ578yt6T) | 2:55 | 2024-11-11 | 2024-11-18 |
 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe), [Yung Sherman](https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 | 2024-02-29 | 2024-04-05 |
 | [Post Alone](https://open.spotify.com/track/2frzLceyhJy1y704AnEfnt) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Post Alone](https://open.spotify.com/album/44AdeCHNlXMuTiNbJQNGQE) | 3:12 | 2024-03-07 | 2024-04-05 |
 | [Pray for Tomorrow](https://open.spotify.com/track/3sv8IXAdbYviQG2mmfPSe5) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Pray for Tomorrow](https://open.spotify.com/album/016AFceCQzfWdtbueFVGVg) | 3:29 | 2024-08-08 | 2024-09-27 |
@@ -593,7 +593,7 @@
 | [time's up](https://open.spotify.com/track/5afsRzVgGVSj4otcEXIgom) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [time's up](https://open.spotify.com/album/5HhbGkJ7rsptMJJQo73cNO) | 3:42 | 2024-05-23 | 2024-06-28 |
 | [Tirami Su](https://open.spotify.com/track/5JSyHpR8G4VbxPExEtHT2I) | [Francesca Fiore](https://open.spotify.com/artist/3VS61R07jRigP5u3RHkYOs) | [Tirami Su](https://open.spotify.com/album/1buosHuyhq47Vwcn4TJzwC) | 4:21 | 2024-04-04 | 2024-04-12 |
 | [To Let Things Go](https://open.spotify.com/track/7urLpCIuZHpvuWrGdIFOp2) | [Rakel](https://open.spotify.com/artist/6UK7PrBGajQDo2sWvRtdPR) | [To Let Things Go](https://open.spotify.com/album/2avAO1hXM1yaWFL6H0KTKF) | 2:59 | 2024-10-17 |  |
-| [To trust you](https://open.spotify.com/track/0emTjEtk1LhzxUeCG4CC4m) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 2:27 | 2024-11-14 |  |
+| [To trust you](https://open.spotify.com/track/0emTjEtk1LhzxUeCG4CC4m) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 2:27 | 2024-11-14 | 2024-11-18 |
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2024-02-08 | 2024-03-01 |
 | [Too Late](https://open.spotify.com/track/0sm6WPRYaHxmHRFnhcmfwK) | [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN) | [Too Late](https://open.spotify.com/album/3RLkmKyGnDZ9ZsqYee6hEl) | 3:43 | 2024-05-30 | 2024-07-27 |
 | [Top 10 Things You Need in the City](https://open.spotify.com/track/50kLi72nLyX5ECh0FCn3LU) | [Kindsight](https://open.spotify.com/artist/69INXmdJGXIPAZQuThqRjw) | [No Shame No Fame](https://open.spotify.com/album/7zgJarUu8JQqK6qWi5AHFV) | 2:08 | 2024-04-18 | 2024-05-03 |

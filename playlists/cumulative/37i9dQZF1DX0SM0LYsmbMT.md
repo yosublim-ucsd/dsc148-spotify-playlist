@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,281 songs - 6 day 19 hr 17 min
+4,282 songs - 6 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1921,7 +1921,7 @@
 | [Koto](https://open.spotify.com/track/5o92FSV6JxfXg6E4qn0Xej) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Koto](https://open.spotify.com/album/0kZ7OfGrHpsKpba4c8IrMM) | 2:34 | 2021-05-29 | 2022-02-18 |
 | [Kranam](https://open.spotify.com/track/30nT3prZFX5dITIbZGSbVA) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Exoplanet](https://open.spotify.com/album/21QlxFzpFfy7vlmPs8E0qF) | 2:32 | 2022-12-15 | 2023-02-10 |
 | [Kranam](https://open.spotify.com/track/7GtPNCWStytQdEmbVJ1NEC) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Kranam](https://open.spotify.com/album/0Us78xw7fDPbjZ9DH1mOPS) | 2:32 | 2021-05-22 | 2022-11-21 |
-| [Krautology](https://open.spotify.com/track/3Zylvt4YmBroyRajWjzChM) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Krautology](https://open.spotify.com/album/1o5TbW1lttYs7pc6M0Fdy9) | 2:33 | 2024-10-24 |  |
+| [Krautology](https://open.spotify.com/track/3Zylvt4YmBroyRajWjzChM) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Krautology](https://open.spotify.com/album/1o5TbW1lttYs7pc6M0Fdy9) | 2:33 | 2024-10-24 | 2024-11-18 |
 | [Krispl Alone](https://open.spotify.com/track/0Xy6qQ6CkxU52vscFNyawQ) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Krispl Alone](https://open.spotify.com/album/3XJXU8X7rT1mE9HAM2x8r1) | 2:19 | 2022-06-16 | 2022-11-21 |
 | [Krispl Alone](https://open.spotify.com/track/64VtmW9P5rbYb0y6btPCNg) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:19 | 2022-11-17 | 2023-10-20 |
 | [Krushed Brew](https://open.spotify.com/track/4tWN96pUilQdHsrO2oXUWo) | [O\-Wells](https://open.spotify.com/artist/2rmhAboyZRLK0ZZnEd7QdY) | [Krushed Brew](https://open.spotify.com/album/1Lwd99Y7BxPiTpiuZDglff) | 3:31 | 2020-08-08 | 2020-09-11 |
@@ -2301,6 +2301,7 @@
 | [Midnight Taxi](https://open.spotify.com/track/7vtYAPiwMZvOR5rsf5JqRT) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [Midnight Taxi](https://open.spotify.com/album/1pkiaCYvxE7vH2sQ0AxIAT) | 3:25 | 2021-11-27 | 2022-05-13 |
 | [Midsummer Breeze](https://open.spotify.com/track/2SSAZg0KffHzAXdq3PXnAl) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Teñido](https://open.spotify.com/album/7nT4joVBAnFmC5HvzO0s5s) | 1:36 | 2019-08-09 | 2020-02-11 |
 | [Migratory Bird](https://open.spotify.com/track/1SJcAnuUDI8nJhMdp6ziiS) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/1owPNAaXMDvIonCXvGphVQ) | 3:35 | 2021-10-27 | 2021-11-19 |
+| [Milan](https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Milan](https://open.spotify.com/album/1ArWhIgs9AndfjneCPIPJj) | 1:52 | 2024-11-11 |  |
 | [Milch \- Instrumental](https://open.spotify.com/track/2rMXQwP0PkWYdT4OKUBiGo) | [Torky Tork](https://open.spotify.com/artist/2ULrSviyq7At3VlxHGe1ml), [Fid Mella](https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp) | [Doposole Bonus EP \(Dopo Solo Rap\)](https://open.spotify.com/album/6Rue4vRoCNleOASgyZHX7T) | 2:02 | 2020-09-18 | 2020-12-04 |
 | [Mild Winter](https://open.spotify.com/track/2KftAinNpmLPK85eFu4h7L) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Mild Winter](https://open.spotify.com/album/3su1s77UkMaHDmFhS6XxJG) | 2:00 | 2023-04-27 | 2023-10-20 |
 | [Mile High Roast](https://open.spotify.com/track/0l2betcuO1KqLNUb0CxAdd) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS) | [Mile High Roast](https://open.spotify.com/album/4Y2DHoDjCuyHXbm7fVNE7E) | 2:12 | 2021-05-21 | 2021-06-18 |

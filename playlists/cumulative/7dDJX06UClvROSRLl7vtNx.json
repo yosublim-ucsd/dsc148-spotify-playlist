@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/1dN4X7ArobIEGG5hwOfOXx"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138007,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6BTJEauio7VgCelhJPRuGA"
+    },
+    {
+      "album": {
         "name": "All of My Life",
         "url": "https://open.spotify.com/album/22wSHnzCTUhm3SZW6Zv0BO"
       },
@@ -2747,6 +2765,32 @@
     },
     {
       "album": {
+        "name": "Don't Wake Me",
+        "url": "https://open.spotify.com/album/0mlCgH9XNcJBZBqNdhkyyg"
+      },
+      "artists": [
+        {
+          "name": "We Architects",
+          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "Tyler Burdic",
+          "url": "https://open.spotify.com/artist/107fQktaxyxclTkqRp1xej"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Don't Wake Me",
+      "url": "https://open.spotify.com/track/5JaZ28x1JbN25VaRRuqEs1"
+    },
+    {
+      "album": {
         "name": "Don't Waste My Time",
         "url": "https://open.spotify.com/album/6JD71V9kfkWeA7K9h5Ajy7"
       },
@@ -5162,7 +5206,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 126500,
       "name": "Hope You Love Me Too",
       "url": "https://open.spotify.com/track/3i7cPXSDkJRYOKplg5Jzoj"
@@ -5812,7 +5856,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 137478,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP"
@@ -6028,7 +6072,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 160000,
       "name": "In Your Hands",
       "url": "https://open.spotify.com/track/0xELhaF1TNGxiInGwbZwyG"
@@ -7188,6 +7232,28 @@
       "duration_ms": 121487,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/3DRjXvW1SSfzbCBjrE0aFx"
+    },
+    {
+      "album": {
+        "name": "Little Talks",
+        "url": "https://open.spotify.com/album/3HX6bww5bAdPXmSUWZPlnK"
+      },
+      "artists": [
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        },
+        {
+          "name": "Luna Belle",
+          "url": "https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153272,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/4pD6Ck8J4gRGr4sBgfgApz"
     },
     {
       "album": {
@@ -9362,7 +9428,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 158581,
       "name": "Open Sky",
       "url": "https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U"
@@ -11744,7 +11810,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 125672,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/6gtJ6fD4Z71KwIrpXiMOP8"
@@ -11908,7 +11974,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-18",
       "duration_ms": 188869,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6nJFd7o25QSjV14rIFIMND"

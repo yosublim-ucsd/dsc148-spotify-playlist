@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,009 songs - 4 day 11 hr 51 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,010 songs - 4 day 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2017,5 +2017,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2007 | [U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b) | [Cult Member](https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF) | [U Weren't Here I Really Miss You](https://open.spotify.com/album/6Ky5coUkQosChvDtdzjBWE) | 2:40 |
 | 2008 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 |
 | 2009 | [You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 2](https://open.spotify.com/album/1SHqiM8BmiWkZlZ3ozOi5q) | 2:21 |
+| 2010 | [Spletter Techno](https://open.spotify.com/track/6vvdKKpfb645nvLkO2C1tH) | [Triangler](https://open.spotify.com/artist/4qs4QsC3mHzptvkqrGMlBg) | [Spletter Techno](https://open.spotify.com/album/7sb4lbePIX6MzCivAO1zAE) | 1:08 |
 
-Snapshot ID: `AAADj3CfPFZo6ArtWoIdr0UgFx2Tn2LT`
+Snapshot ID: `AAADkODZmVJCTIK27rHNUcIf9/QPwdn9`

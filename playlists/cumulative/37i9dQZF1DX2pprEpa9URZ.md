@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-428 songs - 1 day 21 hr 19 min
+429 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Losing My Impatience \- Alvaro Suarez Remix](https://open.spotify.com/track/0OuXJfHcnyjiWraFGw0Gpw) | [Persian Electro Orchestra](https://open.spotify.com/artist/0a8cZDsBGT9Oj1OJqs05Qz), [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv) | [Losing My Impatience \(Alvaro Suarez Remix\)](https://open.spotify.com/album/62C8T1Rp36AFG0tr5Rx3iO) | 6:42 | 2021-02-11 | 2021-03-19 |
 | [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-30 | 2023-09-02 |
 | [Lotus \- Radio Edit](https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Lotus \(Radio Edit\)](https://open.spotify.com/album/4T9DDQJLabUvrjfAucsNjg) | 3:43 | 2020-08-08 | 2023-03-25 |
-| [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 | 2023-04-20 |  |
+| [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 | 2023-04-20 | 2024-11-18 |
 | [Lutar \- Chronical Deep Clap Back](https://open.spotify.com/track/3O1VFIfue3HJskTTPUou7g) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Offkey](https://open.spotify.com/artist/6ufQp4V8xUqJphvbke0j97) | [Lutar](https://open.spotify.com/album/5bKM4dE8NKTYCg6bvWTYAl) | 7:22 | 2022-04-04 | 2022-04-21 |
 | [Luv Machine](https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF) | [Luv Machine](https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3) | 6:11 | 2022-02-04 |  |
 | [Maasai \- Doctor Flake Remix](https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK) | [Maasai \(Doctor Flake Remix\)](https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q) | 7:50 | 2020-12-23 | 2023-11-16 |
@@ -288,6 +288,7 @@
 | [Novicani](https://open.spotify.com/track/03H38O3fdOhuqp3ampvKUQ) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3) | [Beli](https://open.spotify.com/album/1PHFUcVg4AbwQZalFwP5rG) | 6:07 | 2020-07-24 | 2022-04-19 |
 | [Novicani](https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Beli](https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW) | 6:07 | 2022-06-14 | 2023-11-16 |
 | [Nterini \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Nterini \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm) | 6:03 | 2020-06-29 | 2023-11-16 |
+| [Objetos enterrados](https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Objetos enterrados](https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk) | 4:50 | 2024-11-15 |  |
 | [Odessa](https://open.spotify.com/track/7zIGw3iG06WGvBrnFvCqCV) | [Monohøle](https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Odessa](https://open.spotify.com/album/4XBWH8o5lqFAYiJd0CCduG) | 6:09 | 2022-02-11 | 2022-06-01 |
 | [Oloro Nyager](https://open.spotify.com/track/0kkl54s2QMnS0xb91HmyDT) | [Djuma Soundsystem](https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF), [Fake Mood](https://open.spotify.com/artist/4yqyJ83ZJGOaqnh9BlqjUn), [Olith](https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf) | [Oloro Nyager](https://open.spotify.com/album/7h4IpgcwRxbdcHGRCR2LCH) | 6:50 | 2019-08-02\* | 2022-08-13 |
 | [Om Kleem](https://open.spotify.com/track/37JESGxGGFfgPwpLd0j1bo) | [Jota Karloza](https://open.spotify.com/artist/2KdksZS2pms1aLm2dbAxdc) | [Beta](https://open.spotify.com/album/24u7QWXi3LFe2NkrBDeMAg) | 7:26 | 2019-08-02\* | 2021-06-26 |

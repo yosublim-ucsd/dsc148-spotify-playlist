@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 32300,
+  "num_followers": 32310,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPAAAAAAA0C8CAspAsSulIl1ROAXwG",
+  "snapshot_id": "ZzfggAAAAADW4+eGM8eRR2dlYeQOcNPN",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 406506,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 250800,
       "name": "Give the People What They Want",
       "url": "https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 406506,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message In The Music",
-        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 380160,
-      "name": "Message In Our Music",
-      "url": "https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Reunion (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 339573,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Message In The Music",
+        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 380160,
+      "name": "Message In Our Music",
+      "url": "https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 577066,
-      "name": "Ship Ahoy",
-      "url": "https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj"
+      "duration_ms": 536266,
+      "name": "Don't Call Me Brother",
+      "url": "https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 536266,
-      "name": "Don't Call Me Brother",
-      "url": "https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1"
+      "duration_ms": 577066,
+      "name": "Ship Ahoy",
+      "url": "https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj"
     },
     {
       "added_at": null,

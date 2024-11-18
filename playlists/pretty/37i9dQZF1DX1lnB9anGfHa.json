@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 233378,
+  "num_followers": 233441,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 196982,
       "name": "Mommy",
       "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -275,22 +275,18 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Dr\u00efpsody",
-        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
       },
       "artists": [
         {
-          "name": "WTRGRL",
-          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
-        },
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 212949,
-      "name": "Drip Coda",
-      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -315,18 +311,22 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Evening Mood",
-        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+        "name": "Dr\u00efpsody",
+        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
       },
       "artists": [
         {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+          "name": "WTRGRL",
+          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
         }
       ],
-      "duration_ms": 384589,
-      "name": "Evening Mood",
-      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
+      "duration_ms": 212949,
+      "name": "Drip Coda",
+      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -343,6 +343,38 @@
       "duration_ms": 187632,
       "name": "Even It Out",
       "url": "https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
+        "name": "Princ\u20acss",
+        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+      },
+      "artists": [
+        {
+          "name": "Princ\u20acss",
+          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -367,50 +399,18 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Princ\u20acss",
-        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
       "artists": [
         {
-          "name": "Princ\u20acss",
-          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
         }
       ],
-      "duration_ms": 173515,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
         "name": "A Soul With No King - Remix (feat. NATURE)",
         "url": "https://open.spotify.com/album/596bNFZ0FCXSzoFcyQOb89"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
         "name": "Estradas",
         "url": "https://open.spotify.com/album/7wNdvXT62MA5VF6EdK2ozB"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
       "artists": [
         {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -703,6 +703,30 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
+        "name": "Shade Under Your Hands",
+        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
+      },
+      "artists": [
+        {
+          "name": "OSOO",
+          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "21 Reasons",
+      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
         "name": "Carmina XVII",
         "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 233610,
       "name": "Archeological Longing",
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
-        "name": "Shade Under Your Hands",
-        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
-      },
-      "artists": [
-        {
-          "name": "OSOO",
-          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "21 Reasons",
-      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Get Still",
-        "url": "https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta"
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
       "artists": [
         {
-          "name": "Alan Sparhawk",
-          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
         }
       ],
-      "duration_ms": 222561,
-      "name": "Get Still",
-      "url": "https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq"
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
+        "name": "Get Still",
+        "url": "https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        }
+      ],
+      "duration_ms": 222561,
+      "name": "Get Still",
+      "url": "https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
         "name": "Pt. I",
         "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Iddu - Sicilian Letters (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0E8U5NMPQnpHDazyTH7M9f"
-      },
-      "artists": [
-        {
-          "name": "Colapesce",
-          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
-        }
-      ],
-      "duration_ms": 430325,
-      "name": "Omini e armali - Ouverture",
-      "url": "https://open.spotify.com/track/5k2Bl35y57gSdb3YOMQuGF"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 224524,
       "name": "The King",
       "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
+        "name": "Iddu - Sicilian Letters (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0E8U5NMPQnpHDazyTH7M9f"
+      },
+      "artists": [
+        {
+          "name": "Colapesce",
+          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
+        }
+      ],
+      "duration_ms": 430325,
+      "name": "Omini e armali - Ouverture",
+      "url": "https://open.spotify.com/track/5k2Bl35y57gSdb3YOMQuGF"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 208458,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
         "name": "LP.8",
         "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 234186,
       "name": "One",
       "url": "https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 208458,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "Image Langage",
-        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "The House That Agnes Built",
-      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 237999,
       "name": "Travel Lite",
       "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
+        "name": "Image Langage",
+        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The House That Agnes Built",
+      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
     },
     {
       "added_at": "2024-11-07 15:42:34",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-11-07 15:42:34",
       "album": {
-        "name": "The Order of the Rain",
-        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "The Order of the Rain",
-      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
-    },
-    {
-      "added_at": "2024-11-07 15:42:34",
-      "album": {
         "name": "Figura",
         "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 196891,
       "name": "The Fountain",
       "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
+    },
+    {
+      "added_at": "2024-11-07 15:42:34",
+      "album": {
+        "name": "The Order of the Rain",
+        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "The Order of the Rain",
+      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
     },
     {
       "added_at": "2024-11-07 15:42:34",
