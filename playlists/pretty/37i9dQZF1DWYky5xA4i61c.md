@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2024! \(WONDERLIVET 2024의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,078 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 70 | [Like That](https://open.spotify.com/track/0DsC26vzbRes14ed43dNKK) | [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [Like That](https://open.spotify.com/album/3gzBnFRSbnzXerpUXJimQe) | 3:12 |
 | 71 | [W / X / Y](https://open.spotify.com/track/3ZnMe3b6WeuZislPMmCTZN) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [W / X / Y](https://open.spotify.com/album/0M7PpUvqAneY1EgcoI986E) | 4:39 |
 | 72 | [Okaeri](https://open.spotify.com/track/0aLfQ35218wQrfCwNr0woA) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 3:45 |
-| 73 | [ガオガオ・オールスター](https://open.spotify.com/track/5Ox0S9yZtSfo1KlHcsjcTv) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [人生は一度きり/ガオガオ・オールスター \(コンプリートパック\)](https://open.spotify.com/album/3qncc4DvIoFbH2XBryroGV) | 5:09 |
+| 73 | [ガオガオ・オールスター](https://open.spotify.com/track/5Ox0S9yZtSfo1KlHcsjcTv) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [人生は一度きり/ガオガオ・オールスター （コンプリートパック）](https://open.spotify.com/album/3qncc4DvIoFbH2XBryroGV) | 5:09 |
 | 74 | [世界はあなたに笑いかけている](https://open.spotify.com/track/0ovs8Z1ZvFSyo3irudmLHu) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Flava](https://open.spotify.com/album/5fz19GZS4s2Sh0rzzGEoUZ) | 3:52 |
 | 75 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 |
 | 76 | [Itsuka](https://open.spotify.com/track/37ZddqLVyF23NIg5I17SBd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Country Road](https://open.spotify.com/album/6ZtpnrvdBqke77cOazRblq) | 4:34 |

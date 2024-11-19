@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,319 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,318 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 23 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 24 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
 | 25 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
-| 26 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
-| 27 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 |
+| 26 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 |
+| 27 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 28 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 29 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 |
 | 30 | [Paraphernalia](https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx) | 4:23 |

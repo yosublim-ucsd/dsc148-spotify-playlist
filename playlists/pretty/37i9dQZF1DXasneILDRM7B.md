@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,017,345 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,017,291 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 20 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
 | 21 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
 | 22 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
-| 23 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
-| 24 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
+| 23 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
+| 24 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 25 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
 | 26 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
 | 27 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 86 | [I Just Wanna Live](https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Chronicles of Life and Death \("LIFE" version\)](https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc) | 2:46 |
 | 87 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
 | 88 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 |
-| 89 | [Linoleum](https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:10 |
-| 90 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
+| 89 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
+| 90 | [Linoleum](https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:10 |
 | 91 | [Shut Up!](https://open.spotify.com/track/78pHMOI9qUWonIMySjO3XY) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU) | 3:02 |
 | 92 | [In Too Deep](https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer No Filler](https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw) | 3:26 |
 | 93 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |

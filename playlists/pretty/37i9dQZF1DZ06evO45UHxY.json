@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2469,
+  "num_followers": 2470,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABmCvEFeTDUtengwrrGBPRX",
+  "snapshot_id": "ZzkyAAAAAABGk4J9fNT48YCR1/nRiWzs",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festival Grupero Vol. I",
-        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 145853,
-      "name": "El esdr\u00fajulo",
-      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Calentura",
-        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
+        "name": "Festival Grupero Vol. I",
+        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184693,
-      "name": "La Calentura",
-      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+      "duration_ms": 145853,
+      "name": "El esdr\u00fajulo",
+      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
-        "url": "https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 188923,
-      "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
-      "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
+        "url": "https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 174013,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
+      "duration_ms": 188923,
+      "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
+      "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 206067,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1478735,
+  "num_followers": 1478931,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 222226,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 243026,
       "name": "Let It Be - Remastered 2009",
       "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 227613,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -851,34 +851,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+      "duration_ms": 227613,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -895,6 +879,22 @@
       "duration_ms": 235626,
       "name": "En alg\u00fan lugar",
       "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Voluma",
-        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+        "name": "Voluma",
+        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 240613,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+      "duration_ms": 177600,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1011,6 +995,22 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1399,6 +1399,38 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Como Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
       },
@@ -1431,38 +1463,6 @@
       "duration_ms": 265306,
       "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
       "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2021-10-25 21:05:32",

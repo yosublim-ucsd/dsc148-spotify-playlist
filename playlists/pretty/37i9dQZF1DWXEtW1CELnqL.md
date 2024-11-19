@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 
 > Laisse go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,136 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,205 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 13 | [First Date](https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
 | 14 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 15 | [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 |
-| 16 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 |
-| 17 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
+| 16 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
+| 17 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 |
 | 18 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 19 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
 | 20 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 43 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 |
 | 44 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 |
 | 45 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 |
-| 46 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
-| 47 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 46 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
+| 47 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
 | 48 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 49 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 |
 | 50 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |

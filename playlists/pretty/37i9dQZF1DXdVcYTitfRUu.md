@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,029 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,045 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 45 | [Get To You](https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [KING THE LAND \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU) | 3:27 |
 | 46 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
 | 47 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 |
-| 48 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 |
-| 49 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
+| 48 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
+| 49 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 |
 | 50 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 |
 | 51 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
 | 52 | [a sad invitation](https://open.spotify.com/track/5LvFaKs1QN2nR65h4tJN4R) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [a sad invitation](https://open.spotify.com/album/3Miicdgx3CUIAfLiMUja2F) | 4:06 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 64 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 |
 | 65 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 |
 | 66 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
-| 67 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
-| 68 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
+| 67 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
+| 68 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 69 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
 | 70 | [When Spring Comes](https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [When Spring Comes](https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me) | 3:58 |
 | 71 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |

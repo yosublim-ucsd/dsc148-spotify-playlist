@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 154820,
       "name": "Bandeyaa (Unplugged)",
       "url": "https://open.spotify.com/track/6siaS68UXrW7wLVxlP3DMl"
@@ -5321,6 +5321,28 @@
     },
     {
       "album": {
+        "name": "Mannat",
+        "url": "https://open.spotify.com/album/0u0DkhdY7VxcdVMcHvPg3T"
+      },
+      "artists": [
+        {
+          "name": "Prabhash Joshi",
+          "url": "https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0"
+        },
+        {
+          "name": "Zenxae",
+          "url": "https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202242,
+      "name": "Mannat",
+      "url": "https://open.spotify.com/track/0VyhMA8lGSmapWgH86UkGs"
+    },
+    {
+      "album": {
         "name": "Manzoor Hai (Acoustic)",
         "url": "https://open.spotify.com/album/4BsWJq2U1Wo0H9OlDzNlOI"
       },
@@ -5508,7 +5530,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 215795,
       "name": "Mere Ho Tum",
       "url": "https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9"
@@ -7630,6 +7652,28 @@
       "duration_ms": 177026,
       "name": "Tere Hi Hum",
       "url": "https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO"
+    },
+    {
+      "album": {
+        "name": "Tere Sath",
+        "url": "https://open.spotify.com/album/4cnLfGzNDwFLXRvchtKfJR"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176959,
+      "name": "Tere Sath",
+      "url": "https://open.spotify.com/track/4y2Zpy2SxLylO13y0sJzzH"
     },
     {
       "album": {

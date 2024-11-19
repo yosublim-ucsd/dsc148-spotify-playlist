@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: DESH, Young Fly, Azahriah
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: HENN
 
-78 songs - 3 hr 49 min
+80 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 | 2024-07-01 | 2024-07-16 |
 | [Dealer](https://open.spotify.com/track/2wMFX5mdyz7RVzxUr8o9Ql) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Dealer](https://open.spotify.com/album/75K2OKdnhDWARooA6QCwRe) | 2:09 | 2024-07-01 | 2024-08-20 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-16 |  |
-| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 |  |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 | 2024-11-19 |
 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 | 2024-07-01 |  |
 | [Don't Turn The Bass Down](https://open.spotify.com/track/70xt0VZFShxSbfhTg3NcmF) | [L'Entourloop](https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Don't Turn The Bass Down](https://open.spotify.com/album/0CiOjI1XyhoRhyvdq1icOh) | 3:22 | 2024-07-01 | 2024-10-08 |
 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 | 2024-08-13 |  |
+| [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 | 2024-11-18 |  |
 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-13 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 |  |
 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 | 2024-08-19 |  |
@@ -36,7 +37,7 @@
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 | 2024-10-08 |
 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 | 2024-09-09 |  |
 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 | 2024-10-29 |
-| [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-07-01 |  |
+| [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-07-01 | 2024-11-19 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-09-10 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-15 | 2024-11-05 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 |  |
@@ -52,6 +53,7 @@
 | [mariana.árok](https://open.spotify.com/track/4iLTcaEz2yfnUDkO5XTe3B) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [mariana.árok](https://open.spotify.com/album/4gv0VIH1MPraYV0foPyFP0) | 4:04 | 2024-07-01 | 2024-08-20 |
 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 | 2024-07-01 |  |
 | [MOKKA](https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [MOKKA](https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk) | 2:43 | 2024-08-06 |  |
+| [Nekem ez a fless](https://open.spotify.com/track/1z9TztWBItgIKO3vmiBB9d) | [HENN](https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb), [Hibrid](https://open.spotify.com/artist/4eQzOeeIdEKVDAhOA2y0JP) | [Nekem ez a fless](https://open.spotify.com/album/145gn7ULDwmk73BPFKIMam) | 3:00 | 2024-11-18 |  |
 | [Nem vagyok rosszul](https://open.spotify.com/track/20WM1IuecsXUcc0qPcqoeV) | [Misshmusic](https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nem vagyok rosszul](https://open.spotify.com/album/79HTuN78Nzh6Ht6Q4IGF0U) | 2:56 | 2024-07-01 | 2024-07-16 |
 | [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2024-07-01 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-15 | 2024-10-22 |

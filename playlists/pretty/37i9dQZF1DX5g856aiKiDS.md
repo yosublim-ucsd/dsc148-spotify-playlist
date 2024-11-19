@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,971 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,030 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 21 | [It's You \(Feat\. ZICO\)](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 |
 | 22 | [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 |
 | 23 | [Gloomy Star \(feat\. 1ho & Chan\)](https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:07 |
-| 24 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
+| 24 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 25 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
 | 26 | [YOU AND I](https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [YOU AND I](https://open.spotify.com/album/5YK3qLjNjkCNx3OzQf5oIV) | 2:41 |
 | 27 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
-| 28 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
-| 29 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
-| 30 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 |
+| 28 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 |
+| 29 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
+| 30 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 | 31 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
 | 32 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
 | 33 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |

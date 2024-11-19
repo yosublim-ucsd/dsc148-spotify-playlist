@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 150000,
       "name": "GOLEMALE",
       "url": "https://open.spotify.com/track/4W3ssO1PeXqNVAIdcSMY7F"
@@ -3037,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Hua Savera",
+        "url": "https://open.spotify.com/album/237GQ61AFUgd7qgckF6Zxb"
+      },
+      "artists": [
+        {
+          "name": "Samira Koppikar",
+          "url": "https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198214,
+      "name": "Hua Savera",
+      "url": "https://open.spotify.com/track/5ofmnZn7ZlnGhJC3O9EIXQ"
+    },
+    {
+      "album": {
         "name": "Love Songs By Tulsi Kumar - Valentine's Special",
         "url": "https://open.spotify.com/album/1guOKfow7HxLyERfE6Wugm"
       },
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 209000,
       "name": "Jaanu Na",
       "url": "https://open.spotify.com/track/2jTCSkWe0JDsvUTX3Q3nw8"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 201459,
       "name": "Khushiyon Ki Khidkiyaan",
       "url": "https://open.spotify.com/track/79g912tBMwgvwQznCDwfNu"
@@ -5645,6 +5663,32 @@
     },
     {
       "album": {
+        "name": "Naam Toh Tu Jaanta Hai",
+        "url": "https://open.spotify.com/album/2li8D8P7MZ0aPXmn6ebRM4"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        },
+        {
+          "name": "Sameer Uddin",
+          "url": "https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156702,
+      "name": "Naam Toh Tu Jaanta Hai",
+      "url": "https://open.spotify.com/track/6LQcvhQHdoDAr09PENVdjx"
+    },
+    {
+      "album": {
         "name": "NAARI",
         "url": "https://open.spotify.com/album/3LmAmPUPO7T5hUsirZYPBK"
       },
@@ -6842,7 +6886,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 171149,
       "name": "Rabb Warga - Neeti Mohan Version",
       "url": "https://open.spotify.com/track/2s5qPuDXoeVzKsPOmD9vXd"
@@ -7204,6 +7248,28 @@
       "duration_ms": 225897,
       "name": "Rihaa Rihaa",
       "url": "https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe"
+    },
+    {
+      "album": {
+        "name": "Roothe Piya",
+        "url": "https://open.spotify.com/album/4TOZZUnG2OTRWhLeWHW8jh"
+      },
+      "artists": [
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        },
+        {
+          "name": "Aditi Raj",
+          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137743,
+      "name": "Roothe Piya",
+      "url": "https://open.spotify.com/track/3MJ0aHDqkZfLNKGdSglEC4"
     },
     {
       "album": {
@@ -8264,6 +8330,28 @@
       "duration_ms": 271280,
       "name": "Tere Rang",
       "url": "https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI"
+    },
+    {
+      "album": {
+        "name": "Tere Sath",
+        "url": "https://open.spotify.com/album/4cnLfGzNDwFLXRvchtKfJR"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176959,
+      "name": "Tere Sath",
+      "url": "https://open.spotify.com/track/4y2Zpy2SxLylO13y0sJzzH"
     },
     {
       "album": {

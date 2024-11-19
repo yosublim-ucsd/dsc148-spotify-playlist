@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 174285,
       "name": "Bye",
       "url": "https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA"
@@ -5949,6 +5949,28 @@
     },
     {
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/2x0UIFBhpw66dD4JcH7Q8p"
+      },
+      "artists": [
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        },
+        {
+          "name": "4TheWorld",
+          "url": "https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "November",
+      "url": "https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m"
+    },
+    {
+      "album": {
         "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
       },
@@ -6510,7 +6532,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
@@ -8838,6 +8860,24 @@
       "duration_ms": 236168,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
+    },
+    {
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
     },
     {
       "album": {

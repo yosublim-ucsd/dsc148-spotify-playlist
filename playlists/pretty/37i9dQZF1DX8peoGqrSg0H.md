@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: MABELZ PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,782 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,826 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 13 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 14 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
 | 15 | [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \- Single](https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX) | 3:37 |
-| 16 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [Atlas](https://open.spotify.com/artist/41sSAsIQKBF0VE8RjT5Kbj) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 |
+| 16 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 |
 | 17 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
 | 18 | [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 |
 | 19 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |

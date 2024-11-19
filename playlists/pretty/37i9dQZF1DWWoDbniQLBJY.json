@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: ELENA ROSE",
-  "num_followers": 1896181,
+  "num_followers": 1896141,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Universo Amor",
-        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
       "artists": [
         {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Universo Amor",
-      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -679,6 +675,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Universo Amor",
+        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Universo Amor",
+      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "La Llave De Mi Corazon",
         "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 162066,
       "name": "Si Tu No Bailas Conmigo",
       "url": "https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Natalia Lafourcade (Spotify Session)",
         "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 280080,
       "name": "Nunca Es Suficiente - Spotify Session",
       "url": "https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 258412,
       "name": "Volv\u00ed a Nacer - Live from Spotify",
       "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 179501,
       "name": "Navegando",
       "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Dimos Tanto",
+        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "Dimos Tanto",
+      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Dimos Tanto",
-        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
+        "name": "Agua Del Pozo",
+        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
       },
       "artists": [
         {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 189437,
-      "name": "Dimos Tanto",
-      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
+      "duration_ms": 206800,
+      "name": "De Camino",
+      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Agua Del Pozo",
-        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "De Camino",
-      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "No Puedo Extra\u00f1arte",
         "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 192656,
       "name": "No Puedo Extra\u00f1arte",
       "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
       "artists": [
         {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
         }
       ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2024-10-18 04:00:00",

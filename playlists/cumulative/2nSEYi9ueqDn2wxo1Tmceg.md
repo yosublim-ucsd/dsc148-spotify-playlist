@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,138 songs - 3 day 5 hr 56 min
+1,139 songs - 3 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-25 | 2023-09-28 |
 | [Nietzsche on the Beach \- Raf Rundell Remix](https://open.spotify.com/track/1yMkWzGdFnyyL4We4Vqbvu) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6), [Raf Rundell](https://open.spotify.com/artist/3ndq9cOqNc3DEQOBsO10DG) | [All These Things \(Deluxe Edition\)](https://open.spotify.com/album/1m4JpY8QSuyeLk5L0ypRD1) | 5:52 | 2023-12-08 | 2024-02-08 |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 | 2022-09-22 |
+| [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2024-11-18 |  |
 | [Night Walk](https://open.spotify.com/track/1ufmBDHamjH3v8Ms1cyNsN) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Night Walk](https://open.spotify.com/album/4gSxWOsNY1BvLAzHPc3lOU) | 4:49 | 2022-09-21 | 2022-10-21 |
 | [No Caffeine](https://open.spotify.com/track/4if3aJ01ZXMajhwZctU06a) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [No Caffeine](https://open.spotify.com/album/37fWX21foAwqgvhdFvm3KX) | 3:11 | 2023-10-05 | 2023-11-16 |
 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-09-05 | 2023-10-26 |

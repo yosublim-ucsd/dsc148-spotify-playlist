@@ -9519,6 +9519,24 @@
     },
     {
       "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
+    },
+    {
+      "album": {
         "name": "Perpetual Terminal",
         "url": "https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd"
       },

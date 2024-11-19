@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: Yuma Abe
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,034 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,073 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 39 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 40 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 |
 | 41 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
-| 42 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 |
-| 43 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
+| 42 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
+| 43 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 |
 | 44 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 45 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
 | 46 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 67 | [初夏](https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [初夏](https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F) | 3:48 |
 | 68 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 |
 | 69 | [アクマ](https://open.spotify.com/track/6ebno1nYxxJd6Soz0TyjIr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アクマ](https://open.spotify.com/album/5rr61rXAJXNGLPUVgZUcp3) | 3:37 |
-| 70 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
-| 71 | [お先に失礼します。](https://open.spotify.com/track/51o21I12ZFahXaCviz95M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [来世は偉人！](https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi) | 3:10 |
+| 70 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
+| 71 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
 | 72 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
-| 73 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
+| 73 | [お先に失礼します。](https://open.spotify.com/track/51o21I12ZFahXaCviz95M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [来世は偉人！](https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi) | 3:10 |
 | 74 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 75 | [ラムネ](https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [ラムネ](https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0) | 3:42 |
 | 76 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |

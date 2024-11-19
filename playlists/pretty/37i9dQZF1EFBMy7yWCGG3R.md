@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,129 likes - 253 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,128 likes - 253 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 31 | [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
 | 32 | [Nervous](https://open.spotify.com/track/5wxurz8J6YlyQRNnGN8zXS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:44 |
 | 33 | [Sorry \- Latino Remix](https://open.spotify.com/track/3grxgV6Ot8KqtysApjYLs1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Sorry \(Latino Remix\)](https://open.spotify.com/album/6GY8rrxuEzSJI08F0rfigi) | 3:39 |
-| 34 | [You're Such A](https://open.spotify.com/track/5lS7KHsdvkMJp8eASqZWzb) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:36 |
-| 35 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 |
+| 34 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 |
+| 35 | [You're Such A](https://open.spotify.com/track/5lS7KHsdvkMJp8eASqZWzb) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:36 |
 | 36 | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/track/3icbmPGKTsKAa0IinkizCM) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [That's How You Know \(feat\. Kid Ink & Bebe Rexha\)](https://open.spotify.com/album/7skmxw0M4VQMZwY4lICAHl) | 3:06 |
 | 37 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 |
 | 38 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 63 | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/album/2BGe2R4RsBOGdzZF7bGglE) | 3:07 |
 | 64 | [Fast Times](https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:54 |
 | 65 | [Hell Nos And Headphones](https://open.spotify.com/track/6nHBJFQz4gsK2Q6RIpBD0M) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:50 |
-| 66 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
-| 67 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
+| 66 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
+| 67 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
 | 68 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 |
 | 69 | [Love Me Land](https://open.spotify.com/track/5knSvwiFenQOkDoriHi2Rg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:40 |
 | 70 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 |
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 252 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 253 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `Abhx3gAAAAAz/ya6XeV264VYUy2MPoTk`
+Snapshot ID: `Abh3iAAAAABXdGqRA5p6onBE1Pd/rD3n`

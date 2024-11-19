@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 147749,
+  "num_followers": 147789,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADWMlM1OcmhE1H88MROek3w",
+  "snapshot_id": "ZzkyAAAAAAC7nfzrHs0ZkH8Ga1Z2z90n",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -87,34 +115,6 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
     },
     {
       "added_at": null,
@@ -1087,26 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vetin",
-        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 202451,
-      "name": "Sem Compaix\u00e3o",
-      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viz\u00e3o de Cria 3",
         "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
       },
@@ -1175,6 +1155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -1239,26 +1239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00edmica",
         "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
       },
@@ -1291,42 +1291,6 @@
       "duration_ms": 153413,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
-        "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
     },
     {
       "added_at": null,
@@ -1387,6 +1351,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RICKNELSO",
         "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
       },
@@ -1439,6 +1439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "G\u00eanio",
+        "url": "https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "Fe Blindada",
+      "url": "https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nosso Momento",
         "url": "https://open.spotify.com/album/19GojuGTrUrLoQtqQitNZi"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 176633,
       "name": "Nosso Momento",
       "url": "https://open.spotify.com/track/0JW7E8cOVpddY5pik4Wtil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00eanio",
-        "url": "https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "Fe Blindada",
-      "url": "https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

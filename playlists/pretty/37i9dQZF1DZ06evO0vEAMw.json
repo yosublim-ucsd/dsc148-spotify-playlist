@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 84769,
+  "num_followers": 84815,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAJyWLEUYigSW5KPZeXiOo5",
+  "snapshot_id": "ZzkyAAAAAAC+7z7cTqb5EtW2EXjx48aZ",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
         "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nwa Baby",
-        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 222327,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deal with It",
         "url": "https://open.spotify.com/album/73chBzty2A658sLKCYy54h"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 217154,
       "name": "Ride for You",
       "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nwa Baby",
+        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 222327,
+      "name": "Nwa Baby",
+      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
     },
     {
       "added_at": null,

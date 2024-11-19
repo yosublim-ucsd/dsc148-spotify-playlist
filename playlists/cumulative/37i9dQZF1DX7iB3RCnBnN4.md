@@ -4,7 +4,7 @@
 
 > All the songs with more than 1 BILLION streams on Spotify\.  Cover: Sabrina Carpenter
 
-855 songs - 2 day 3 hr 52 min
+856 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2024-09-18 |  |
 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 | 2022-12-05 |  |
 | [Another Love](https://open.spotify.com/track/7otCGmgp9h4CsR2LhwB6gt) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 4:04 | 2022-08-29 |  |
-| [Another One Bites The Dust](https://open.spotify.com/track/5HkFTCxSeJ3kGNyQJbT4rJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh) | 3:35 | 2021-07-21 |  |
+| [Another One Bites The Dust](https://open.spotify.com/track/5HkFTCxSeJ3kGNyQJbT4rJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh) | 3:35 | 2021-07-21 | 2024-11-19 |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 | 2021-07-21 | 2024-04-19 |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/6hfNDGNTJBR029RmV63IoO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 3:35 | 2021-07-21 | 2022-11-14 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-07-24 |  |
@@ -612,6 +612,7 @@
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-10-30 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2022-02-08 |  |
 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2022-11-11 |  |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2024-11-18 |  |
 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:15 | 2024-11-11 |  |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2021-07-21 |  |
 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2023-04-14 |  |

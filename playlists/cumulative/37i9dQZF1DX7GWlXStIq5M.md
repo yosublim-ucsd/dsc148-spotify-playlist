@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hiran
 
-868 songs - 1 day 19 hr 29 min
+869 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [NOSSA MÚSICA](https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:22 | 2023-02-14 |  |
 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 | 2020-10-20 | 2022-07-28 |
 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 | 2023-04-21 |  |
+| [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 | 2024-11-18 |  |
 | [Não consigo ir embora](https://open.spotify.com/track/5OLUTfWPXyMGL696s54mnW) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Não consigo ir embora](https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8) | 1:56 | 2023-11-17 | 2024-02-17 |
 | [não consigo mais chorar](https://open.spotify.com/track/5yFSlEnufHWEwZPw79cQVP) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [não consigo mais chorar](https://open.spotify.com/album/1PUjhle1aE7ntdXqMh9qgG) | 3:06 | 2023-02-14 | 2023-04-09 |
 | [Não conversamos, mas](https://open.spotify.com/track/6IiO96wuVwJhvXZVUwjGeX) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Futuruz](https://open.spotify.com/album/7v3QqNKdhBQ6n3IrjZO5mq) | 3:15 | 2020-10-20 | 2022-07-29 |
@@ -586,7 +587,7 @@
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-03-13 |  |
 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-09-11 |  |
 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2020-10-20 | 2023-01-27 |
-| [Piña Colada](https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Piña Colada](https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S) | 3:09 | 2024-04-19 |  |
+| [Piña Colada](https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Piña Colada](https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S) | 3:09 | 2024-04-19 | 2024-11-19 |
 | [Plaqtudum](https://open.spotify.com/track/6TLHo63Z3wqHkW6adVeEwZ) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [Plaqtudum](https://open.spotify.com/album/7wELyO14kBKEMrimHEOxuW) | 2:55 | 2020-10-20 | 2022-07-28 |
 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2023-02-14 | 2023-07-22 |
 | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM) | 2:28 | 2023-08-25 | 2023-09-23 |

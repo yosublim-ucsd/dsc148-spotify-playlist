@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,286 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,292 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 57 | [fault](https://open.spotify.com/track/6IqDy55cICsmdek7oxvo00) | [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [fault / vapour](https://open.spotify.com/album/2bKSKjVmDrbe8aBYg68YNk) | 2:35 |
 | 58 | [너의 전생 \- Miho Hatori Remix](https://open.spotify.com/track/5hsvlArgC9SGS6SIGYILOA) | [HWI](https://open.spotify.com/artist/36ufm9GkQyfL4ngCk47olG), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [너의 전생 \(Miho Hatori Remix\)](https://open.spotify.com/album/4Oozkyc5ieBggvmiKNWN2F) | 4:05 |
 | 59 | [Good Kisses](https://open.spotify.com/track/7bjwvWMuGobr3qre7d0Lpc) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Good Kisses](https://open.spotify.com/album/30P5LzvjUMniT9wJcIAM0H) | 3:22 |
-| 60 | [DUMB \(feat\. Tuna\)](https://open.spotify.com/track/6GPIS6nAmyBkCOUCAw5vHC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup) | [DUMB \(feat\. Tuna\)](https://open.spotify.com/album/2XOBEDdrtSqaj3zxq3SRet) | 2:46 |
+| 60 | [DUMB \(feat\. Tuna\)](https://open.spotify.com/track/6GPIS6nAmyBkCOUCAw5vHC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [DUMB \(feat\. Tuna\)](https://open.spotify.com/album/2XOBEDdrtSqaj3zxq3SRet) | 2:46 |
 | 61 | [Rockstar Baby](https://open.spotify.com/track/2TZyB1YQ6Fca7pCcsWQMGm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rockstar Baby](https://open.spotify.com/album/3SQ5qsIykXysL3Mf8HoQHn) | 3:27 |
 | 62 | [ULTRA SHXT \(with Key Nyata\)](https://open.spotify.com/track/3JlQAvuSPRdxVsBYcSgIJG) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 3:16 |
 | 63 | [FLYGOTT](https://open.spotify.com/track/42wwqN6Iad7dywHWgU8qVK) | [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH), [HUGO](https://open.spotify.com/artist/18phqaSgyEPtKxRBjbP4Nd) | [FLYGOTT](https://open.spotify.com/album/4albTMkzYknzjNEPrS976w) | 2:26 |

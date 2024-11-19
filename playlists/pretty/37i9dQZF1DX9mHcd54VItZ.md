@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k?si=zsG4AiBaTyWV4\-BZYzNchg">We Kill Cowboys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,840 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,862 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

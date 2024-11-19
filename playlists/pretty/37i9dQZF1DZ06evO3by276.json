@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3114891,
+  "num_followers": 3115072,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACHytQylHvhmWg9l3PFVFuC",
+  "snapshot_id": "ZzkyAAAAAAD6kVT5Iz80copikRgAtDe7",
   "tracks": [
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+      "duration_ms": 200573,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     },
     {
       "added_at": null,

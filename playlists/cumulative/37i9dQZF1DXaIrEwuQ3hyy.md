@@ -4,7 +4,7 @@
 
 > Die Tage werden kürzer und die Luft frischer\. Hier ist dein Soundtrack für den goldenen Herbst.
 
-214 songs - 12 hr 8 min
+215 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 | 2023-07-26 |  |
 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 | 2023-07-26 |  |
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-07-26 | 2024-04-19 |
-| [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 | 2024-11-14 |  |
+| [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 | 2024-11-14 | 2024-11-19 |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-07-26 |  |
 | [From The Start](https://open.spotify.com/track/4HqQu5tgwmRupi96Qk3LhM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 2:49 | 2023-07-26 | 2023-09-09 |
 | [getting used to](https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [getting used to](https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y) | 3:47 | 2024-10-11 |  |
@@ -185,6 +185,7 @@
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-26 | 2023-08-15 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-07-26 | 2023-09-27 |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-10-27 |  |
+| [Survival](https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Survival](https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h) | 3:33 | 2024-11-14 |  |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2023-07-26 | 2024-04-19 |
 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 | 2024-04-19 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2024-03-19 |  |

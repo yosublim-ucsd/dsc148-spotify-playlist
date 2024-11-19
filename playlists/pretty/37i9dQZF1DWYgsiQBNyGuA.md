@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,516 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,540 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 43 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 |
 | 44 | [Remember \(feat\. Samara Joy, Robert Glasper\)](https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Remember](https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU) | 4:00 |
 | 45 | [Love Goes](https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Love Goes](https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ) | 2:46 |
-| 46 | [Fire](https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Joi](https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5) | [Fire](https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm) | 3:43 |
-| 47 | [All I Ever Wonder](https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:29 |
+| 46 | [All I Ever Wonder](https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:29 |
+| 47 | [Fire](https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Joi](https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5) | [Fire](https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm) | 3:43 |
 | 48 | [Rescue](https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 4:59 |
 | 49 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 |
 | 50 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
 | 51 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
 | 52 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
 | 53 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
-| 54 | [Can't Explain This Love](https://open.spotify.com/track/0q76TcRclfJfgC0XnpLFbO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can't Explain This Love](https://open.spotify.com/album/2liSppC10mqkaU5WZYhGZ9) | 3:01 |
-| 55 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
+| 54 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
+| 55 | [Can't Explain This Love](https://open.spotify.com/track/0q76TcRclfJfgC0XnpLFbO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can't Explain This Love](https://open.spotify.com/album/2liSppC10mqkaU5WZYhGZ9) | 3:01 |
 | 56 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 |
 | 57 | [I've Got A Right](https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 3:58 |
 | 58 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 |

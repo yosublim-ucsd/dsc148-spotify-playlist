@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2783707,
+  "num_followers": 2785025,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADGru0W8h6g/hyX7HBLMhu0",
+  "snapshot_id": "ZzkyAAAAAAABuOEFG3jHs/3cWZdEH0RC",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+      "duration_ms": 209844,
+      "name": "Good Things Go",
+      "url": "https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
       "duration_ms": 187933,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 209844,
-      "name": "Good Things Go",
-      "url": "https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meteora 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "No More Sorrow",
+      "url": "https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 169800,
       "name": "Heavy (feat. Kiiara)",
       "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "No More Sorrow",
-      "url": "https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf"
     },
     {
       "added_at": null,

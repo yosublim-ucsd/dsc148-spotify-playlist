@@ -1,6 +1,6 @@
 {
   "description": "Siento que arranco la carretera...",
-  "num_followers": 224880,
+  "num_followers": 224940,
   "original_name": "Viaje en Carretera: Arremangado",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Zzeg4gAAAAA9sRXSJyvCCnrjdd7GsDsi",
   "tracks": [
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "\u00bfQui\u00e9n?",
+        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 183315,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
+    },
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 209266,
       "name": "El Vals Del Olvido",
       "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 183315,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -307,22 +307,18 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Sin Querer Queriendo",
-        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
+        "name": "\u00bfQui\u00e9n?",
+        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 206077,
-      "name": "Sin Querer Queriendo",
-      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+      "duration_ms": 128177,
+      "name": "Coraz\u00f3n Malo",
+      "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -375,18 +371,22 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+        "name": "Sin Querer Queriendo",
+        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 128177,
-      "name": "Coraz\u00f3n Malo",
-      "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
+      "duration_ms": 206077,
+      "name": "Sin Querer Queriendo",
+      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "Blanco y Negro Vol. 1",
         "url": "https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 223998,
       "name": "El Hombre Del Equipo",
       "url": "https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Yo Ya Sabia Pa Donde Iba",
-        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Yo Ya Sabia Pa Donde Iba",
-      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "De Boca En Boca",
         "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 187835,
       "name": "Se Fue La Pantera",
       "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -691,6 +675,22 @@
       "duration_ms": 245376,
       "name": "El Comerciante",
       "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -731,22 +731,6 @@
       "duration_ms": 97240,
       "name": "Qui\u00e9n Se Anima",
       "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -851,22 +835,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "El Tequilero",
-        "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
-      },
-      "artists": [
-        {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "La Troca Del Mo\u00f1o Negro",
-      "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "20 Memorias Norte\u00f1as",
         "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 190360,
       "name": "El Rey De Mil Coronas",
       "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "El Tequilero",
+        "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "La Troca Del Mo\u00f1o Negro",
+      "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "10 Corridos Pesados",
-        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suburban Dorada",
-      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "El Profeta Y Otros Caballos Famosos",
         "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 140880,
       "name": "Chalito",
       "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "10 Corridos Pesados",
+        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Suburban Dorada",
+      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Las N\u00famero 1...",
-        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Necesito Decirte",
-      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
         "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 121013,
       "name": "La Escuadra (En Que Trabaja El Muchacho)",
       "url": "https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Las N\u00famero 1...",
+        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Voy a Pintar Mi Raya",
-      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "Otro Golpe",
         "url": "https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 198814,
       "name": "El Nano - Versi\u00f3n Estudio",
       "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Voy a Pintar Mi Raya",
+      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Norte\u00f1o 2000",
-        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 163082,
-      "name": "Veinte Mujeres De Negro",
-      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "El Amor Que Nunca Fue",
         "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 163082,
+      "name": "Veinte Mujeres De Negro",
+      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1259,6 +1259,26 @@
       "duration_ms": 229565,
       "name": "Miami Vibe",
       "url": "https://open.spotify.com/track/2gBrYprM7YhB7WgVwes5Gx"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1347,50 +1367,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
-        "name": "Y Ahora Resulta",
-        "url": "https://open.spotify.com/album/1a5ieU77NxfKsZKYZuZno9"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        },
-        {
-          "name": "Mario \"El Cachorro\" Delgado",
-          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
-        },
-        {
-          "name": "Escolta De Guerra",
-          "url": "https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "La Hummer Y El Camaro 2 \"La Revancha\"",
-      "url": "https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "Con Experiencia Y Juventud",
         "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
       },
@@ -1423,6 +1399,30 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
+        "name": "Y Ahora Resulta",
+        "url": "https://open.spotify.com/album/1a5ieU77NxfKsZKYZuZno9"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        },
+        {
+          "name": "Mario \"El Cachorro\" Delgado",
+          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
+        },
+        {
+          "name": "Escolta De Guerra",
+          "url": "https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "La Hummer Y El Camaro 2 \"La Revancha\"",
+      "url": "https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
         "name": "Al Frente y de Frente",
         "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 150880,
       "name": "El Comando del Diablo",
       "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "La Historia De Los Exitos (Mexico)",
+        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "La Raza Michoacana",
+      "url": "https://open.spotify.com/track/4zrfDtVonK8tesOsYIhMAp"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1463,18 +1479,34 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "La Historia De Los Exitos (Mexico)",
-        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+        "name": "Tu Reemplazo",
+        "url": "https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE"
       },
       "artists": [
         {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 163813,
-      "name": "La Raza Michoacana",
-      "url": "https://open.spotify.com/track/4zrfDtVonK8tesOsYIhMAp"
+      "duration_ms": 143293,
+      "name": "Tu Reemplazo",
+      "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1495,26 +1527,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Denver Ruleteamos",
-        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Denver Ruleteamos",
-      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
@@ -1531,34 +1543,22 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+        "name": "Denver Ruleteamos",
+        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
-      },
-      "artists": [
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
+      "duration_ms": 212973,
+      "name": "Denver Ruleteamos",
+      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
+        "name": "Pura Pieza de Mi Gusto",
+        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "Noches de Junio",
+      "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
         "name": "Esperando Tu Llamada",
         "url": "https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Pura Pieza de Mi Gusto",
-        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 135616,
-      "name": "Noches de Junio",
-      "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Tu Reemplazo",
-        "url": "https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 143293,
-      "name": "Tu Reemplazo",
-      "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "300 Locos (En Vivo)",
         "url": "https://open.spotify.com/album/3FJKfGDxTfo47JG6JDJJW5"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 149163,
       "name": "300 Locos - En Vivo",
       "url": "https://open.spotify.com/track/2v7r3q9rDqNWfrhAU157gV"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Roman Iriarte",
+      "url": "https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Roman Iriarte",
-      "url": "https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "Los Amos del Terror",
         "url": "https://open.spotify.com/album/4mMSrnCY36DJpb92fbEGpq"
       },
@@ -1915,22 +1915,6 @@
       "duration_ms": 204906,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6l6gnB0E9BxlryxdfLm1ZX"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
-        "name": "Cuando Los Hombres Lloran",
-        "url": "https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 136440,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
+        "name": "La Raza de Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 155018,
+      "name": "La Raza de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
         "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
         "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
       },
@@ -2015,18 +2015,34 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Traficantes Michoacanos",
-        "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
+        "name": "Cuando Los Hombres Lloran",
+        "url": "https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2"
       },
       "artists": [
         {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
         }
       ],
-      "duration_ms": 199038,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
+      "duration_ms": 136440,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA"
+    },
+    {
+      "added_at": "2024-11-15 19:28:34",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3oyyvyglavv8YAAjDelk7X"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 205798,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/4WPDwIkb0HBGxRWSUGo0gC"
     },
     {
       "added_at": "2024-11-15 19:28:34",
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/3oyyvyglavv8YAAjDelk7X"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 205798,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/4WPDwIkb0HBGxRWSUGo0gC"
-    },
-    {
-      "added_at": "2024-11-15 19:28:34",
-      "album": {
         "name": "Se Les Pel\u00f3 Baltazar, Vol 2",
         "url": "https://open.spotify.com/album/2XRnvXmXyXUSKsxqJaDs8g"
       },
@@ -2111,22 +2111,18 @@
     {
       "added_at": "2024-11-15 19:28:34",
       "album": {
-        "name": "Se Me Esta Antojando",
-        "url": "https://open.spotify.com/album/2OUbYQ9LDdEArruCFkmFdG"
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
       },
       "artists": [
         {
-          "name": "Don Zares",
-          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
-        },
-        {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
         }
       ],
-      "duration_ms": 153231,
-      "name": "Se Me Esta Antojando",
-      "url": "https://open.spotify.com/track/2NwTwxmMpM3wBNexFaZ49w"
+      "duration_ms": 199038,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
     }
   ],
   "unique_name": "Viaje en Carretera: Arremangado",

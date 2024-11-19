@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: H.E.R & Lila Ike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,185 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,247 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 34 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 35 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
 | 36 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
-| 37 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
-| 38 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
+| 37 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
+| 38 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 39 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
 | 40 | [Make Me Feel \(feat\. Rick Ross & Ari Lennox\)](https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Make Me Feel](https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0) | 3:12 |
 | 41 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 52 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 53 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
 | 54 | [Stay](https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Stay](https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e) | 4:07 |
-| 55 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
-| 56 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
+| 55 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
+| 56 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
 | 57 | [Final Warning](https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [Skank N Prod](https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0) | [Final Warning](https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk) | 3:42 |
 | 58 | [Ready](https://open.spotify.com/track/6VDgMJdCeStxNkwBr6AQB3) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready](https://open.spotify.com/album/4vDMTgy7svuDfJK5nXHPtu) | 2:50 |
 | 59 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 67 | [Time Is of Essence](https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Toxicity](https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym) | 3:18 |
 | 68 | [1865 \(96 Degrees In The Shade\) \[Re\-Recorded\]](https://open.spotify.com/track/4tI7IW2L7UfI052FOwgS5N) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [1865 \(96 Degrees In The Shade\) \[Re\-Recorded\] \[Acapella\] \- Single](https://open.spotify.com/album/7MU0ZWUVRON6MvGzA3sHMb) | 4:18 |
 | 69 | [Mama's Prayer](https://open.spotify.com/track/12zOHhw84rjzStFU9EJDgs) | [Zagga](https://open.spotify.com/artist/7kxhAigiReN4qjtyOZPeg5) | [Mama's Prayer](https://open.spotify.com/album/1VG17Zkbog3ddUDLcu5P43) | 3:14 |
-| 70 | [Moonage Daydream](https://open.spotify.com/track/01jTcKw2oL7Ho0J3wvkR7e) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Naomi Cowan](https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m) | [Moonage Daydream](https://open.spotify.com/album/7B4rzkIjVtGyxPEGYUgizu) | 4:33 |
+| 70 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
 
 Snapshot ID: `ZnFvPQAAAABDbqwjwRc1z9pUi69UTwqL`

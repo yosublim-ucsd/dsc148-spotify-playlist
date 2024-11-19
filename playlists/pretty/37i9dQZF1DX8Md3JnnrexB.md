@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,417 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,419 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 90 | [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 |
 | 91 | [Tell Him](https://open.spotify.com/track/3pSL8LoyWexY7vgq84baOA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him](https://open.spotify.com/album/1QuizmDDKmJctBcHL931aG) | 3:54 |
 | 92 | [Love Buddies](https://open.spotify.com/track/5ILMeTJNgTldGWbbI0YQ4L) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 3:41 |
-| 93 | [Top of My Love](https://open.spotify.com/track/06OLc5fiVflTp05NSsXPDw) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Let Yourself Be Loved \(Deluxe Version\)](https://open.spotify.com/album/59t2Z3zDQNx1wx8Xz7MLiy) | 3:19 |
-| 94 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
+| 93 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
+| 94 | [Top of My Love](https://open.spotify.com/track/06OLc5fiVflTp05NSsXPDw) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Let Yourself Be Loved \(Deluxe Version\)](https://open.spotify.com/album/59t2Z3zDQNx1wx8Xz7MLiy) | 3:19 |
 | 95 | [Blood Is Thicker Than Water](https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:21 |
 | 96 | [Can't Afford Therapy](https://open.spotify.com/track/6urArILLJCAMySnR4RA92s) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Can't Afford Therapy](https://open.spotify.com/album/0ZSD6U53FhsMV2N7tUyITc) | 4:09 |
 | 97 | [This Close To You](https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4) | 3:31 |
 | 98 | [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 |
-| 99 | [Show and Tell \- Rerecorded](https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Al Wilson](https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR) | 3:31 |
-| 100 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
+| 99 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
+| 100 | [Show and Tell \- Rerecorded](https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Al Wilson](https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR) | 3:31 |
 
 Snapshot ID: `Zy3QMwAAAAC9VSVxmvFr7QDbZQngbMJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Hermanos Gutiérrez
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,231 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,249 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 54 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
 | 55 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 |
 | 56 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
-| 57 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
-| 58 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
+| 57 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
+| 58 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
 | 59 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 60 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 61 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
@@ -80,14 +80,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 70 | [Poquitito de Té](https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Poquitito de Té](https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH) | 3:24 |
 | 71 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 72 | [todos menos yo](https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh) | [Anna García](https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [todos menos yo](https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag) | 3:16 |
-| 73 | [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 |
-| 74 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
+| 73 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 |
+| 74 | [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 |
 | 75 | [Kevin Garvey](https://open.spotify.com/track/3hRUlliVQPHxWPGo4nyzUs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Aún No Existía Beatrice](https://open.spotify.com/album/72nobYM1if8xQLwU5I193A) | 3:02 |
 | 76 | [Somos raros](https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Todo alrededor](https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO) | 4:08 |
 | 77 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
 | 78 | [Una Noche Más](https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Una Noche Más](https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD) | 3:20 |
-| 79 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
-| 80 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
+| 79 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
+| 80 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 81 | [Oh, Sweet Honey](https://open.spotify.com/track/2Yd6qoD71geLrQN436PuJt) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Oh, Sweet Honey](https://open.spotify.com/album/6vQABaZxu3xzRcyFlIXomN) | 3:50 |
 | 82 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 | 83 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |

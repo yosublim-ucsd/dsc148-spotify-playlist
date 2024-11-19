@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 153777,
+  "num_followers": 153782,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -855,22 +855,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Still the Same (feat. Boy In Space)",
-        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
       },
       "artists": [
         {
           "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 178139,
-      "name": "Still the Same (feat. Boy In Space)",
-      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -963,18 +959,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+        "name": "Still the Same (feat. Boy In Space)",
+        "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
       },
       "artists": [
         {
           "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+      "duration_ms": 178139,
+      "name": "Still the Same (feat. Boy In Space)",
+      "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Eternal, Pt. I",
+        "url": "https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg"
+      },
+      "artists": [
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Hardest Thing",
+      "url": "https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "Eternal, Pt. I",
-        "url": "https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg"
-      },
-      "artists": [
-        {
-          "name": "Coco O.",
-          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Hardest Thing",
-      "url": "https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "The Things I Can't Take With Me",
-        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 74303,
-      "name": "you up?",
-      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Kuffert Fuld Af Mursten",
         "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
+        "name": "The Things I Can't Take With Me",
+        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 144720,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
+      "duration_ms": 74303,
+      "name": "you up?",
+      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1315,6 +1299,22 @@
       "duration_ms": 218142,
       "name": "Love Is In The Picture",
       "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Fin Regn",
         "url": "https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 201079,
       "name": "Fin Regn",
       "url": "https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Wish I Was Right For You",
-        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
-      },
-      "artists": [
-        {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
-        }
-      ],
-      "duration_ms": 182562,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/0W0vF3I0amUEMT05E83lmz"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 173944,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/6PspLxCglJJH7bu14CZf4T"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Wish I Was Right For You",
+        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        }
+      ],
+      "duration_ms": 182562,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q"
+      },
+      "artists": [
+        {
+          "name": "Yehra",
+          "url": "https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Lying To Myself",
         "url": "https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 210473,
       "name": "Lying To Myself",
       "url": "https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "I'm Not Her (Acoustic)",
-        "url": "https://open.spotify.com/album/4LLOsUgnaD6Gsp6pEKI3GC"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 197569,
-      "name": "I'm Not Her - Acoustic",
-      "url": "https://open.spotify.com/track/4yr1dDskFzkDY8q6gBUNXw"
     }
   ],
   "unique_name": "ren hygge",

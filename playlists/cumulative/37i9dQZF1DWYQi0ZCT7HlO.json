@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12 Days of Christmas (Fireside)",
+        "url": "https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS"
+      },
+      "artists": [
+        {
+          "name": "Henri La Mer",
+          "url": "https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245517,
+      "name": "12 Days of Christmas (Fireside)",
+      "url": "https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq"
+    },
+    {
+      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/29mX15TJbXi1MZPwFZQpBz"
       },
@@ -275,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Ding Dong Merrily On High (Fireside)",
+        "url": "https://open.spotify.com/album/1n2GbxFLKrmd7IcyNrgJNY"
+      },
+      "artists": [
+        {
+          "name": "Esra Michel",
+          "url": "https://open.spotify.com/artist/7kqNdKnas5bJYYxqG0AIcg"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Ding Dong Merrily On High (Fireside)",
+      "url": "https://open.spotify.com/track/11AGGljy12ibWovgXqAd9E"
+    },
+    {
+      "album": {
         "name": "Do They Know It's Christmas",
         "url": "https://open.spotify.com/album/5JZ987EnoYnRKNQwSfXTGG"
       },
@@ -344,6 +380,24 @@
       "duration_ms": 175880,
       "name": "Give Love on Christmas Day",
       "url": "https://open.spotify.com/track/5Un2fvHZqhPpmUnwilx5jS"
+    },
+    {
+      "album": {
+        "name": "Go Tell it on the Mountain (Fireside)",
+        "url": "https://open.spotify.com/album/1JaFyNm2oLE1XF4vH0Oium"
+      },
+      "artists": [
+        {
+          "name": "N Piccolina",
+          "url": "https://open.spotify.com/artist/47ZGaS4IcMwkIutwnhNJjC"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Go Tell it on the Mountain (Fireside)",
+      "url": "https://open.spotify.com/track/5sLlO2yezDpmxwGzou9wPP"
     },
     {
       "album": {
@@ -563,6 +617,24 @@
     },
     {
       "album": {
+        "name": "It Came Upon a Midnight Clear (Fireside)",
+        "url": "https://open.spotify.com/album/71eWnkKIR1WFPLL9tKrvug"
+      },
+      "artists": [
+        {
+          "name": "Etienne Pomme",
+          "url": "https://open.spotify.com/artist/5B2iGNGRPzQ8KEWruVmZPC"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "It Came Upon a Midnight Clear (Fireside)",
+      "url": "https://open.spotify.com/track/2ivyXGyBGz7275DuKNxW4w"
+    },
+    {
+      "album": {
         "name": "It's Beggining to Look a Lot like Christmas",
         "url": "https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5"
       },
@@ -614,6 +686,42 @@
       "duration_ms": 122483,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/4D2S9Ox5FGqMGuBqa5QqcV"
+    },
+    {
+      "album": {
+        "name": "Jolly Old St. Nicholas (Fireside)",
+        "url": "https://open.spotify.com/album/17DCn5bYqjc1uyJw3iy8bt"
+      },
+      "artists": [
+        {
+          "name": "Margaret Anderson",
+          "url": "https://open.spotify.com/artist/06ka7R4BK3BOYNQxjGG7Un"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113793,
+      "name": "Jolly Old St. Nicholas (Fireside)",
+      "url": "https://open.spotify.com/track/6bEjEJgG100YGqJL56BEod"
+    },
+    {
+      "album": {
+        "name": "Joy To the World (Fireside)",
+        "url": "https://open.spotify.com/album/1Y8vgvwHus0sIg4lIwnKHo"
+      },
+      "artists": [
+        {
+          "name": "Markus Palm",
+          "url": "https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Joy To the World (Fireside)",
+      "url": "https://open.spotify.com/track/1W74Qnoa3kp4uTTlIcTTPL"
     },
     {
       "album": {
@@ -725,6 +833,24 @@
     },
     {
       "album": {
+        "name": "O Christmas Tree (Fireside)",
+        "url": "https://open.spotify.com/album/5HEi2OEFIBDCEK4M8mtFRD"
+      },
+      "artists": [
+        {
+          "name": "J Stepan",
+          "url": "https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117931,
+      "name": "O Christmas Tree (Fireside)",
+      "url": "https://open.spotify.com/track/0Zvi3AZ3nhWcziyGBfrtDi"
+    },
+    {
+      "album": {
         "name": "O Come All Ye Faithfull",
         "url": "https://open.spotify.com/album/1mQ3opSxvgjQuTJavy7Y4N"
       },
@@ -740,6 +866,24 @@
       "duration_ms": 115613,
       "name": "O Come All Ye Faithfull",
       "url": "https://open.spotify.com/track/6usUk86fecWoerNAsEpT6L"
+    },
+    {
+      "album": {
+        "name": "O Come O Come Emmanuel (Fireside)",
+        "url": "https://open.spotify.com/album/6ijZhFQ3RVW3RCGwjLTrQG"
+      },
+      "artists": [
+        {
+          "name": "Forrest St. Marie",
+          "url": "https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148448,
+      "name": "O Come O Come Emmanuel (Fireside)",
+      "url": "https://open.spotify.com/track/3CjuWaW96mw2gHKYTAWkZV"
     },
     {
       "album": {
@@ -1082,6 +1226,24 @@
       "duration_ms": 108330,
       "name": "The Holly and the Ivy",
       "url": "https://open.spotify.com/track/4ZZ6DHVvkm5BV6fFG1106x"
+    },
+    {
+      "album": {
+        "name": "Up on a Rooftop (Fireside)",
+        "url": "https://open.spotify.com/album/0XXUzSavzEmS5Ej7qytvOc"
+      },
+      "artists": [
+        {
+          "name": "Katya Karenenov",
+          "url": "https://open.spotify.com/artist/2wazbooFwVj41LSoHtBdzj"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Up on a Rooftop (Fireside)",
+      "url": "https://open.spotify.com/track/0MnlhIpXJeX17ugHmzcjqp"
     },
     {
       "album": {

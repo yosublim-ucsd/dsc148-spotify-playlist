@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,043,445 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,044,056 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 59 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 |
 | 60 | [Les](https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 5:17 |
 | 61 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 |
-| 62 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
-| 63 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 |
+| 62 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 |
+| 63 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
 | 64 | [From Eden](https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:43 |
 | 65 | [Good For You](https://open.spotify.com/track/5xdVqHtFS0eLuNp4Z8Wbpa) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:41 |
 | 66 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 |
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 84 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 |
 | 85 | [Saturday Nights](https://open.spotify.com/track/5kfNriitmkNE8mUbZ7gbq8) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:30 |
 | 86 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
-| 87 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 |
-| 88 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
-| 89 | [safety net \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:28 |
-| 90 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
-| 91 | [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 |
-| 92 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 |
+| 87 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
+| 88 | [safety net \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:28 |
+| 89 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
+| 90 | [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 |
+| 91 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 |
+| 92 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 |
 | 93 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 |
 | 94 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 |
 | 95 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |

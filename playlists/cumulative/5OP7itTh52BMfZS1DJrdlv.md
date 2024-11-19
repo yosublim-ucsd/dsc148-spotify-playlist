@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-121 songs - 6 hr 22 min
+122 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Little Saint Nick](https://open.spotify.com/track/3ahS3KCvUPpWfr4lIUlkel) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Holiday Spirits](https://open.spotify.com/album/0vqQal2i8RBPLtmvpIzErC) | 2:14 | 2023-12-19 |  |
 | [Lonely This Christmas](https://open.spotify.com/track/1pVbEGfj945M4TrRPWUPSm) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:33 | 2023-12-09 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/2D0ACOH09uEKBAvImNSzsP) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:21 | 2023-12-09 | 2023-12-16 |
+| [Maybe This Christmas](https://open.spotify.com/track/3oef7EIlHHOXYIM1OMQAaH) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Maybe This Christmas](https://open.spotify.com/album/1qf65cYlsoY4AcGXW5a2k6) | 3:28 | 2024-11-18 |  |
 | [mele malikimaka](https://open.spotify.com/track/16JQocflwZHEVZzI7i8fRo) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 1:35 | 2023-12-09 |  |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2024-10-21 | 2024-11-06 |
 | [Merry Christmas](https://open.spotify.com/track/5PudLgyFZMHvtcI9qTs9Uf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:28 | 2023-12-09 |  |
@@ -115,7 +116,7 @@
 | [The Power of Love](https://open.spotify.com/track/7FTyjQwlWyg0AeghomXjVY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 | 2024-11-05 |
 | [Think of Christmas](https://open.spotify.com/track/60ypavjPmJKbrcoDLd7NJH) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:50 | 2023-12-09 |  |
 | [This Christmas](https://open.spotify.com/track/4xEUfPbamZ3tlwNxLUo2nr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:51 | 2023-12-09 |  |
-| [This Christmas](https://open.spotify.com/track/4dmllVoANTAb2jDuieDo22) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [This Christmas](https://open.spotify.com/album/20TOto2tIkD8b9OK04yLil) | 2:59 | 2023-12-09 |  |
+| [This Christmas](https://open.spotify.com/track/4dmllVoANTAb2jDuieDo22) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [This Christmas](https://open.spotify.com/album/20TOto2tIkD8b9OK04yLil) | 2:59 | 2023-12-09 | 2024-11-19 |
 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 | 2023-12-09 |  |
 | [Twelve Nights of Christmas](https://open.spotify.com/track/7ldZwZnZ9FTpmb07SgqN2M) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:03 | 2023-12-09 |  |
 | [Under the Mistletoe](https://open.spotify.com/track/0OciKTNrWHda78cixRGJdq) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:45 | 2023-12-09 |  |

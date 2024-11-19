@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 11947,
+  "num_followers": 11953,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABXmsNUT4Lm5XqEJi/zG5J3",
+  "snapshot_id": "ZzkyAAAAAACqxTvFu1dkS7LhOs/uP3s/",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER NEED (feat. Selfpaid Savage)",
-        "url": "https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Selfpaid Savage",
-          "url": "https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo"
-        }
-      ],
-      "duration_ms": 172419,
-      "name": "NEVER NEED (feat. Selfpaid Savage)",
-      "url": "https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistolz & Pearlz",
         "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 233597,
       "name": "Dirt McGerk (feat. EST Gee & Lil Crix)",
       "url": "https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER NEED (feat. Selfpaid Savage)",
+        "url": "https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Selfpaid Savage",
+          "url": "https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo"
+        }
+      ],
+      "duration_ms": 172419,
+      "name": "NEVER NEED (feat. Selfpaid Savage)",
+      "url": "https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 156981,
-      "name": "Balloons (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SNOFALL",
         "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 204791,
       "name": "Scarface (feat. EST Gee)",
       "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 156981,
+      "name": "Balloons (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "THE ONE & ONLY",
+      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 125017,
       "name": "Free The Shiners",
       "url": "https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "THE ONE & ONLY",
-      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 163402,
       "name": "Death Around The Corner (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
     },
     {
       "added_at": null,

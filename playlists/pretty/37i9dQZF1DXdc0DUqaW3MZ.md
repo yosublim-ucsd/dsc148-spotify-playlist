@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,071 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,144 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 67 | [On The Low](https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 3:46 |
 | 68 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 |
 | 69 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
-| 70 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
+| 70 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 |
 
 Snapshot ID: `Zxu/dwAAAAAO86AAcLxErNT9GqaJd9Pe`

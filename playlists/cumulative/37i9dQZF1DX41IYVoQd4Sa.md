@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. : אהוד בנאי
 
-132 songs - 7 hr 56 min
+133 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Mon Amour Fou](https://open.spotify.com/track/3UBtgU4NVwM9eShMqiOzJC) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49), [Shir Frum](https://open.spotify.com/artist/31Cz2bC0pRyLQ7Xpsu16L9) | [Mon Amour Fou](https://open.spotify.com/album/54dZ9gGpwdgeqGKmD3IGA0) | 2:37 | 2024-09-12 | 2024-09-27 |
 | [Not in Vain \- In A Box III Version](https://open.spotify.com/track/5Yc2fKkRskvU7l2f8gRiHh) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [In A Box III: Acoustic Recordings](https://open.spotify.com/album/28FLk4QDTvSQWJoSS6NNoM) | 4:44 | 2024-06-27 | 2024-07-27 |
 | [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 | 2024-08-01 | 2024-09-20 |
+| [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 | 2024-11-14 |  |
 | [Out of Reach](https://open.spotify.com/track/7hOQIADSK0zU0FEuZJUoi7) | [Ziv Moran](https://open.spotify.com/artist/2rbMHBakqM1TudxGhkyv9q), [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9) | [Out of Reach](https://open.spotify.com/album/0BSoCHrlcG0P6n9tRHOFdz) | 3:20 | 2024-10-17 |  |
 | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc) | 2:59 | 2024-06-27 | 2024-09-20 |
 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 | 2024-06-27 | 2024-10-28 |
@@ -78,7 +79,7 @@
 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 | 2024-06-27 |  |
 | [ואולי הסוף כבר היה](https://open.spotify.com/track/6lUclGjzAqTH0KJ74HYbxh) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB), [יענקל'ה רוטבליט](https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Itamar Ziegler](https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV), [Gedy Ronen](https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535) | [החצר האחורית 3](https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE) | 4:00 | 2024-08-15 | 2024-10-22 |
 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 | 2024-07-25 |  |
-| [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 | 2024-06-27 |  |
+| [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 | 2024-06-27 | 2024-11-19 |
 | [זנב לאריות](https://open.spotify.com/track/65XRdzcboylqk9YbfOHjbu) | [Haze'evot](https://open.spotify.com/artist/4p3CuBU6qQdQgIqec3hooj) | [זנב לאריות](https://open.spotify.com/album/63puPTqi1TeyCgpurPx7v7) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [חברה שלי \- Havera Sheli](https://open.spotify.com/track/05DpO0iqMUbE7O02BaVp5l) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [חור בלב](https://open.spotify.com/album/5ArcoQTg4d5o1e1Dgd0ZzX) | 3:56 | 2024-06-27 | 2024-07-19 |
 | [חלל](https://open.spotify.com/track/027SVPM08BanKMpLLPS9WS) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [חלל](https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD) | 4:12 | 2024-09-12 |  |

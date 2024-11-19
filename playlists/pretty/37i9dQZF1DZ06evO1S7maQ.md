@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,161 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,196 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 34 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 |
 | 35 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 |
 | 36 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
-| 37 | [Pink Cadillac \- Single B\-Side \- 1984](https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:33 |
-| 38 | [Sea Of Heartbreak](https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The List](https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb) | 3:06 |
+| 37 | [Sea Of Heartbreak](https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The List](https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb) | 3:06 |
+| 38 | [Pink Cadillac \- Single B\-Side \- 1984](https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:33 |
 | 39 | [Hello Sunshine](https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:54 |
 | 40 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:30 |
 | 41 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [She Don't Love Me Now](https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Don't Love Me Now](https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn) | 3:27 |
 | 51 | [Racing in the Street](https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 6:52 |
 
-Snapshot ID: `ZzfggAAAAAD/dJe2UaBkeM8CUSR98s1z`
+Snapshot ID: `ZzkyAAAAAAAs4yDlqA0QLuO5jl1E/l4f`

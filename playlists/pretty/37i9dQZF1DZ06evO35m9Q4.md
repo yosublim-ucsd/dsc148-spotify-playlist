@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,020 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,029 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 49 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 | 50 | [Come On, Pt\. III](https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 4:30 |
 
-Snapshot ID: `ZzfggAAAAACrBxABmP4u/3ScXs901C1W`
+Snapshot ID: `ZzkyAAAAAADYSsTuExpe3dkrqRJd9Ibs`

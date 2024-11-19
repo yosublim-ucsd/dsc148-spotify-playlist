@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,632 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,653 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 11 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
 | 12 | [Close Ear to Ear Whispered Countdown to Sleep Pt.4](https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:39 |
 | 13 | [Triggers I'm Wearing Pt.1](https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Triggers I'm Wearing](https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ) | 4:37 |
-| 14 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 |
-| 15 | [Personal Attention and Positive Affirmations Just For You Pt.1](https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm) | [Jinx ASMR](https://open.spotify.com/artist/0xl6qcCkuTgiBrb4pGEOrx) | [Personal Attention and Positive Affirmations Just For You](https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn) | 5:06 |
+| 14 | [Personal Attention and Positive Affirmations Just For You Pt.1](https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm) | [Jinx ASMR](https://open.spotify.com/artist/0xl6qcCkuTgiBrb4pGEOrx) | [Personal Attention and Positive Affirmations Just For You](https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn) | 5:06 |
+| 15 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 |
 | 16 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
 | 17 | [Showering You In Compliments Pt.2](https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL) | [ASMR Darling](https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7) | [Showering You In Compliments](https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh) | 3:31 |
 | 18 | [Close Ear to Ear Whispered Countdown to Sleep Pt.2](https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:56 |

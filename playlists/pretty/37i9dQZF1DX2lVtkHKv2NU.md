@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,143 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,152 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 51 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 52 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 53 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
-| 54 | [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 |
-| 55 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
+| 54 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
+| 55 | [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 |
 | 56 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 57 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 58 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 96 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 97 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
 | 98 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
-| 99 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
-| 100 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
+| 99 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
+| 100 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 
 Snapshot ID: `Zxsz4AAAAADdbxmmBmY/Cs8vx1d9qEuf`

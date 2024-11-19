@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 214091,
+  "num_followers": 214182,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 175027,
       "name": "ME ACTIVO",
       "url": "https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -483,34 +483,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Sentosa",
-        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        },
-        {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
-        }
-      ],
-      "duration_ms": 151594,
-      "name": "Sentosa",
-      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Pacas De Billetes",
         "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
@@ -579,6 +551,34 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Sentosa",
+        "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "duration_ms": 151594,
+      "name": "Sentosa",
+      "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -595,30 +595,6 @@
       "duration_ms": 183797,
       "name": "El Menos Visto",
       "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "LA DURANGO",
-        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 262883,
-      "name": "LA DURANGO",
-      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -699,6 +675,30 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "LA DURANGO",
+        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 262883,
+      "name": "LA DURANGO",
+      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -731,22 +731,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Delivery",
-        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 209367,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -771,46 +771,6 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
-        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 223019,
-      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
-      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -855,6 +815,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
+        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 223019,
+      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
+      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -923,6 +903,26 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Delivery",
+        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209367,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+        "name": "Qui\u00faboles Que!",
+        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+      "duration_ms": 221541,
+      "name": "Qui\u00faboles Que",
+      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Qui\u00faboles Que!",
-        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 221541,
-      "name": "Qui\u00faboles Que",
-      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "El Spider",
-        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "El Spider",
-      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "El Spider",
+        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "El Spider",
+      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "VRGCRA",
-        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "VRGCRA",
-      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Los Archivos",
         "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 218794,
       "name": "Van y Vienen",
       "url": "https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "VRGCRA",
+        "url": "https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "VRGCRA",
+      "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "No Te La Sabes",
-        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Te La Sabes",
-      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Robot Montana",
         "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "No Te La Sabes",
+        "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Te La Sabes",
+      "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
     },
     {
       "added_at": "2024-11-15 06:00:00",

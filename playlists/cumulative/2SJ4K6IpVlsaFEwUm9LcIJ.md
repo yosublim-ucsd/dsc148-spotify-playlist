@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-359 songs - 19 hr 5 min
+360 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 | 2024-08-10 | 2024-09-08 |
+| [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 | 2024-11-18 |  |
 | [Why I Cry](https://open.spotify.com/track/63eLvJ4LTI1Q30s0980UT7) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Get Lost](https://open.spotify.com/album/41xkD8HnEZ4ad9DPeL2kY0) | 3:37 | 2024-05-30 | 2024-07-12 |
 | [Wild Eyes](https://open.spotify.com/track/06kfJgnlXLbXhhRFXS42xP) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP) | 1:55 | 2024-07-12 | 2024-09-08 |
 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 | 2024-10-23 | 2024-11-14 |

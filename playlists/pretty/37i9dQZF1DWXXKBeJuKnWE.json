@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Malevolence",
-  "num_followers": 507934,
+  "num_followers": 507897,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "CONCRETE JUNGLE [THE OST]",
-        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 235092,
-      "name": "ANYTHING > HUMAN",
-      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
         "name": "You Won't Go Before You're Supposed To",
         "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Bleeders",
-        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 274320,
-      "name": "Bleeders",
-      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
+      "duration_ms": 217830,
+      "name": "Spare Me",
+      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Vol. 3",
-        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
+        "name": "Bleeders",
+        "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
       },
       "artists": [
         {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 217830,
-      "name": "Spare Me",
-      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
+      "duration_ms": 274320,
+      "name": "Bleeders",
+      "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Ipecac",
-      "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
         "name": "DOWN (feat. Malevolence)",
         "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Ipecac",
+      "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "MURDERER + NOSEBLEEDS",
-        "url": "https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8"
+        "name": "Don't Tell Me (feat. Ann Wilson) [PLZ Tethered Version]",
+        "url": "https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU"
       },
       "artists": [
         {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "Ann Wilson",
+          "url": "https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs"
         }
       ],
-      "duration_ms": 198212,
-      "name": "MURDERER",
-      "url": "https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG"
+      "duration_ms": 271515,
+      "name": "Don't Tell Me (feat. Ann Wilson)",
+      "url": "https://open.spotify.com/track/47RXxwVW825H8bMiBw4Ve5"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Don't Tell Me (feat. Ann Wilson) [PLZ Tethered Version]",
-        "url": "https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU"
+        "name": "MURDERER + NOSEBLEEDS",
+        "url": "https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "Ann Wilson",
-          "url": "https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 271515,
-      "name": "Don't Tell Me (feat. Ann Wilson)",
-      "url": "https://open.spotify.com/track/47RXxwVW825H8bMiBw4Ve5"
+      "duration_ms": 198212,
+      "name": "MURDERER",
+      "url": "https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1811,22 +1811,6 @@
       "duration_ms": 205962,
       "name": "CREEP HEAT",
       "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 354400,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1871,18 +1855,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "The Beautiful Dark of Life",
-        "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
         }
       ],
-      "duration_ms": 188608,
-      "name": "The Beautiful Dark of Life",
-      "url": "https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU"
+      "duration_ms": 354400,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
+        "name": "The Beautiful Dark of Life",
+        "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 188608,
+      "name": "The Beautiful Dark of Life",
+      "url": "https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/2gJfVLm0zyL1Oe4SNaUPhK"
       },
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "HIGHER POWER",
-        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
+        "name": "Shadowlight",
+        "url": "https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4"
       },
       "artists": [
         {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "Defences",
+          "url": "https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv"
         }
       ],
-      "duration_ms": 163413,
-      "name": "HIGHER POWER",
-      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
+      "duration_ms": 217669,
+      "name": "Ego (Maniac)",
+      "url": "https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Shadowlight",
-        "url": "https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4"
+        "name": "HIGHER POWER",
+        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
       },
       "artists": [
         {
-          "name": "Defences",
-          "url": "https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 217669,
-      "name": "Ego (Maniac)",
-      "url": "https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL"
+      "duration_ms": 163413,
+      "name": "HIGHER POWER",
+      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
         "name": "Stillpoint",
         "url": "https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 217944,
       "name": "Stillpoint",
       "url": "https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "all i know",
-        "url": "https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V"
-      },
-      "artists": [
-        {
-          "name": "glasseyed",
-          "url": "https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "all i know",
-      "url": "https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
         "name": "Straycations",
         "url": "https://open.spotify.com/album/7tLQKPKKgOwcWQgZ2MekC5"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 229134,
       "name": "Straycations",
       "url": "https://open.spotify.com/track/7zCZWACsSVwEnc0Bt2C7qh"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
+        "name": "all i know",
+        "url": "https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V"
+      },
+      "artists": [
+        {
+          "name": "glasseyed",
+          "url": "https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "all i know",
+      "url": "https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Times Change",
-        "url": "https://open.spotify.com/album/44qhZVKMcawuh5cv4L8miP"
-      },
-      "artists": [
-        {
-          "name": "Seething Akira",
-          "url": "https://open.spotify.com/artist/6UxRNE2TDlQP0GFEGJyvSQ"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Times Change",
-      "url": "https://open.spotify.com/track/5BmLX8NdUtJZvanDta96dx"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
         "name": "Shoot",
         "url": "https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ"
       },
@@ -2835,6 +2819,22 @@
       "duration_ms": 127706,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
+        "name": "Times Change",
+        "url": "https://open.spotify.com/album/44qhZVKMcawuh5cv4L8miP"
+      },
+      "artists": [
+        {
+          "name": "Seething Akira",
+          "url": "https://open.spotify.com/artist/6UxRNE2TDlQP0GFEGJyvSQ"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Times Change",
+      "url": "https://open.spotify.com/track/5BmLX8NdUtJZvanDta96dx"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -2887,22 +2887,6 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7gKqJH0pDuiFRoOHmEKqeT"
-      },
-      "artists": [
-        {
-          "name": "Crimson Veil",
-          "url": "https://open.spotify.com/artist/2PM21vTrqaUvtvZcUNZ1B2"
-        }
-      ],
-      "duration_ms": 327717,
-      "name": "HEX",
-      "url": "https://open.spotify.com/track/0MrXchooeS8n6m6xFYT1ax"
-    },
-    {
-      "added_at": "2024-11-08 13:13:50",
-      "album": {
         "name": "I Think You Should Leave",
         "url": "https://open.spotify.com/album/3PzFW7lRfp0eqw3X3fpHKU"
       },
@@ -2919,18 +2903,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Limousine",
-        "url": "https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7gKqJH0pDuiFRoOHmEKqeT"
       },
       "artists": [
         {
-          "name": "Death Lens",
-          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+          "name": "Crimson Veil",
+          "url": "https://open.spotify.com/artist/2PM21vTrqaUvtvZcUNZ1B2"
         }
       ],
-      "duration_ms": 201390,
-      "name": "Limousine",
-      "url": "https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM"
+      "duration_ms": 327717,
+      "name": "HEX",
+      "url": "https://open.spotify.com/track/0MrXchooeS8n6m6xFYT1ax"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -2955,18 +2939,18 @@
     {
       "added_at": "2024-11-08 13:13:50",
       "album": {
-        "name": "Love, Lies & Alibis",
-        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+        "name": "Limousine",
+        "url": "https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh"
       },
       "artists": [
         {
-          "name": "The Calamatix",
-          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
         }
       ],
-      "duration_ms": 128317,
-      "name": "Love, Lies & Alibis",
-      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
+      "duration_ms": 201390,
+      "name": "Limousine",
+      "url": "https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM"
     },
     {
       "added_at": "2024-11-08 13:13:50",
@@ -2983,6 +2967,22 @@
       "duration_ms": 154582,
       "name": "Weird Punx",
       "url": "https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz"
+    },
+    {
+      "added_at": "2024-11-08 13:13:50",
+      "album": {
+        "name": "Love, Lies & Alibis",
+        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+      },
+      "artists": [
+        {
+          "name": "The Calamatix",
+          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+        }
+      ],
+      "duration_ms": 128317,
+      "name": "Love, Lies & Alibis",
+      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
     },
     {
       "added_at": "2024-11-08 13:13:50",

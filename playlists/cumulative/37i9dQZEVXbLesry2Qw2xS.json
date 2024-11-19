@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -11266,7 +11266,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "Falling Down - Bonus Track",
       "url": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
@@ -15882,7 +15882,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -20656,7 +20656,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 154077,
       "name": "leekiv armastus",
       "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
@@ -23762,7 +23762,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 141293,
       "name": "mesimagus",
       "url": "https://open.spotify.com/track/1DAWkOlV6rBUte0wgJW82h"
@@ -25452,7 +25452,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -27496,7 +27496,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 175200,
       "name": "Ololufe",
       "url": "https://open.spotify.com/track/2atFVwmCuqUcpvdB1u0G89"
@@ -28468,7 +28468,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
@@ -28964,7 +28964,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 109870,
       "name": "ParisLove",
       "url": "https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12"
@@ -31300,7 +31300,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -31478,7 +31478,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -35216,6 +35216,24 @@
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "album": {
+        "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"
     },
     {
       "album": {
@@ -39366,7 +39384,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 153290,
       "name": "trampoliino",
       "url": "https://open.spotify.com/track/1PaVrZirju9QgP7cvjG1MZ"

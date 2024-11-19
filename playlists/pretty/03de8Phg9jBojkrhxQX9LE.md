@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,023 likes - 159 songs - 8 hr 40 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,024 likes - 159 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 21 | [Still In Love](https://open.spotify.com/track/7zB0Rfnc9u7Cx0xJAWK6Po) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Still In Love](https://open.spotify.com/album/6hQeO7qGSyDTcI1mBbqSqy) | 3:36 |
 | 22 | [IJUSTWANNA](https://open.spotify.com/track/7a0YkuVvfsSeJm8OaYUqRQ) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [IJUSTWANNA](https://open.spotify.com/album/3zNemNKV2qjm7R50IIZRpy) | 2:59 |
 | 23 | [tip toe \- Tsu Nami Remix](https://open.spotify.com/track/083R8Xo2Zhj1Pvb4QA12cN) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [tip toe \(Tsu Nami Remix\)](https://open.spotify.com/album/66VnJcCiZuIUgVLMF37IBM) | 4:08 |
-| 24 | [Pon De Streets](https://open.spotify.com/track/5rjAwhKYU3f6mJBnvFYSlr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Guns Don't Kill People..\. Lazers Do \(15th Anniversary Edition\)](https://open.spotify.com/album/4pKGn8AnP7pud241wHb9gA) | 4:22 |
+| 24 | [Pon De Streets](https://open.spotify.com/track/5rjAwhKYU3f6mJBnvFYSlr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Guns Don't Kill People..\. Lazers Do \(15th Anniversary Edition\)](https://open.spotify.com/album/4pKGn8AnP7pud241wHb9gA) | 4:22 |
 | 25 | [Wake UP](https://open.spotify.com/track/5tiKz376uXROAzXTdDZi2a) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Wake UP](https://open.spotify.com/album/2WcBVDyY61Ma7KIWTftcQB) | 3:46 |
 | 26 | [I TOLD YA](https://open.spotify.com/track/4ewH8JfcFyfTgsU6Nz55a3) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [I TOLD YA](https://open.spotify.com/album/6DM7BdltRh8frEqyabx4pp) | 2:52 |
 | 27 | [You Were the Sign](https://open.spotify.com/track/1JC7fh0rRKpu8OSQOe4wQC) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [Thank You, Dream Girl](https://open.spotify.com/album/78fb8mCjI4ZFk50yeiqYNM) | 3:20 |

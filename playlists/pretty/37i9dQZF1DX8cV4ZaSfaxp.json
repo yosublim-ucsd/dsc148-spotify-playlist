@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56243,
+  "num_followers": 56254,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Loving you",
-        "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
         }
       ],
-      "duration_ms": 213768,
-      "name": "Loving you",
-      "url": "https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN"
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Loving you",
+        "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 213768,
+      "name": "Loving you",
+      "url": "https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
         "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "The Story Of The Year (feat. Wonwoo)",
         "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "My Universe - Home Recording Project #4",
-        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
-      },
-      "artists": [
-        {
-          "name": "W24",
-          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Universe - Home Recording Project #4",
-      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "My Universe - Home Recording Project #4",
+        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
+      },
+      "artists": [
+        {
+          "name": "W24",
+          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "My Universe - Home Recording Project #4",
+      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
-        "url": "https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K"
-      },
-      "artists": [
-        {
-          "name": "\ud574\uc778",
-          "url": "https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS"
-        }
-      ],
-      "duration_ms": 197391,
-      "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
-      "url": "https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 212750,
       "name": "Midnight (feat. SFC.JGR & B JYUN.)",
       "url": "https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
+        "url": "https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K"
+      },
+      "artists": [
+        {
+          "name": "\ud574\uc778",
+          "url": "https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS"
+        }
+      ],
+      "duration_ms": 197391,
+      "name": "\uc6b0\ub9ac \uc0ac\ub791\uc774 \ud22d \ub05d\ub098\uba74",
+      "url": "https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O"
     },
     {
       "added_at": "2024-09-30 08:00:00",

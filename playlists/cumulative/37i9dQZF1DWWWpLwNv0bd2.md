@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Amaran
 
-254 songs - 16 hr 39 min
+255 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Ice Katti Kuruvi \- From "D Block"](https://open.spotify.com/track/4WQjkG66fNyFE1N7XOSoL6) | [Ron Ethan Yohann](https://open.spotify.com/artist/0AojazIcemdBzAX3LqAGFF), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Ice Katti Kuruvi \(From "D Block"\)](https://open.spotify.com/album/6kR7SUlPfVCDFZ3LkLn9RF) | 4:23 | 2022-02-04 | 2023-04-19 |
 | [Idaiyinil Oru Dhooram \- From "Konjam Pesinaal Yenna"](https://open.spotify.com/track/6RkxZavvmUqCB1KJXuvsGF) | [Vishal Chandrasekhar](https://open.spotify.com/artist/39VjmNPvbN5Kd93O2KEZFv), [Deepan Chakravarthy](https://open.spotify.com/artist/5xMVYjHf8rYai5EnhWpkej), [Raajasheela Raajarajan](https://open.spotify.com/artist/1Tv6qmKeiHco7tBtgRz63d) | [Idaiyinil Oru Dhooram \(From "Konjam Pesinaal Yenna"\)](https://open.spotify.com/album/7reCrMEQnYygO4cQUknbAY) | 4:09 | 2023-01-20 | 2023-02-22 |
 | [Idhaya Idhaya](https://open.spotify.com/track/7AsFn91CpxFxj8h6UGpKB2) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thalli Pogathey](https://open.spotify.com/album/1NrPJQZZbyjtxQykc7rJeP) | 3:31 | 2021-11-29 | 2022-06-21 |
+| [Idhayam \- From "Once More"](https://open.spotify.com/track/3WEHEubXe0I1Sne6NS8DnQ) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Vignesh Srikanth](https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1) | [Idhayam \(From "Once More"\)](https://open.spotify.com/album/7ExRAD8avgtjKVFDXYsWOI) | 3:48 | 2024-11-18 |  |
 | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/track/50Rf38ZlA5ZfXILE3DXXoG) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/album/4eRoVd92V5F6k5Bfee2EJv) | 4:01 | 2023-09-18 | 2023-10-04 |
 | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/track/6lVU7wfTaG6Qkn2CttY1gi) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/album/3xRlsmGq7kvikUzAzzJaeC) | 4:01 | 2023-09-18 | 2023-11-07 |
 | [Ilakana Kavithai \(From "Banaras"\)](https://open.spotify.com/track/47qipCp5de04CHAfhcUNLu) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ilakana Kavithai \(From "Banaras"\)](https://open.spotify.com/album/1qB4Ev7xVIikxCNyifThY1) | 3:37 | 2022-10-27 | 2022-11-06 |

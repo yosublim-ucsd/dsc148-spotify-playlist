@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 58363,
+  "num_followers": 58395,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+        "name": "Blame It On The Mistletoe",
+        "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+      "duration_ms": 185739,
+      "name": "Blame It On The Mistletoe",
+      "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -811,22 +815,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Blame It On The Mistletoe",
-        "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Blame It On The Mistletoe",
-      "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "duration_ms": 104793,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "The Hotel Caf\u00e9 presents... Winter Songs",
         "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 266640,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "Holidays",
-        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 104793,
-      "name": "Dance of the Sugar Plum Fairy",
-      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
+        "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
+      },
+      "artists": [
+        {
+          "name": "Marie Mich\u00e8le Desrosiers",
+          "url": "https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Mon Beau Sapin",
+      "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
-        "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
-      },
-      "artists": [
-        {
-          "name": "Marie Mich\u00e8le Desrosiers",
-          "url": "https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Mon Beau Sapin",
-      "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "On attendait No\u00ebl",
+        "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "duration_ms": 226786,
+      "name": "On attendait No\u00ebl",
+      "url": "https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "Baby It's Cold Outside",
         "url": "https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 157733,
       "name": "Baby It's Cold Outside",
       "url": "https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "On attendait No\u00ebl",
-        "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Boulay",
-          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
-        }
-      ],
-      "duration_ms": 226786,
-      "name": "On attendait No\u00ebl",
-      "url": "https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "Please Come Home For Christmas",
+        "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "Six heures d'avion nous s\u00e9parent",
         "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Please Come Home For Christmas",
-        "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Please Come Home For Christmas",
-      "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
         "name": "Chante et raconte 25 d\u00e9cembre",
         "url": "https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT"
       },
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Ken Darby Singers",
-          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
-        },
-        {
-          "name": "John Scott Trotter & His Orchestra",
-          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
-        }
-      ],
-      "duration_ms": 177480,
-      "name": "White Christmas - 1947 Version",
-      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
         "name": "La nuit de No\u00ebl",
         "url": "https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO"
       },
@@ -1651,6 +1627,22 @@
       "duration_ms": 190429,
       "name": "La nuit de No\u00ebl",
       "url": "https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
+        "name": "Encore (Bonus Album)",
+        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
+      },
+      "artists": [
+        {
+          "name": "Brigitte",
+          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
+        }
+      ],
+      "duration_ms": 146426,
+      "name": "No\u00ebl blanc",
+      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1691,18 +1683,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Encore (Bonus Album)",
-        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
+        "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
+        "url": "https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK"
       },
       "artists": [
         {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
         }
       ],
-      "duration_ms": 146426,
-      "name": "No\u00ebl blanc",
-      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
+      "duration_ms": 242506,
+      "name": "Jolis sapins",
+      "url": "https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

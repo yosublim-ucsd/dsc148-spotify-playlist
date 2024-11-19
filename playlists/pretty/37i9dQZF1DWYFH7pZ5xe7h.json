@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 52283,
+  "num_followers": 52295,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 2",
-        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 632386,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato - Sehr gem\u00e4chlich - Nie eilen",
-      "url": "https://open.spotify.com/track/0dDjHMJbArRUuK6K4dH9rG"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Brahms, Schumann & Mahler: Lieder",
         "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 309209,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/2hurAdmJRAKfQBZCfVhNAM"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato - Sehr gem\u00e4chlich - Nie eilen",
+      "url": "https://open.spotify.com/track/0dDjHMJbArRUuK6K4dH9rG"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1199,42 +1199,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 8",
-        "url": "https://open.spotify.com/album/0v90cyaG7HGzM8pLfaLiZ8"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "New York Choral Artists",
-          "url": "https://open.spotify.com/artist/70AeZLjqrd7QxYqwqFZ7Ed"
-        },
-        {
-          "name": "The Dessoff Symphonic Choir",
-          "url": "https://open.spotify.com/artist/0aWo0yS64FFhiebkTVJp9m"
-        },
-        {
-          "name": "Anthony Dean Griffey",
-          "url": "https://open.spotify.com/artist/0RQCOqfLa62jcI6Wb3Gt6Q"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 349497,
-      "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
-      "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 10",
         "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
       },
@@ -1275,6 +1239,42 @@
       "duration_ms": 250986,
       "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
       "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 8",
+        "url": "https://open.spotify.com/album/0v90cyaG7HGzM8pLfaLiZ8"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "New York Choral Artists",
+          "url": "https://open.spotify.com/artist/70AeZLjqrd7QxYqwqFZ7Ed"
+        },
+        {
+          "name": "The Dessoff Symphonic Choir",
+          "url": "https://open.spotify.com/artist/0aWo0yS64FFhiebkTVJp9m"
+        },
+        {
+          "name": "Anthony Dean Griffey",
+          "url": "https://open.spotify.com/artist/0RQCOqfLa62jcI6Wb3Gt6Q"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 349497,
+      "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
+      "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
     },
     {
       "added_at": "2022-06-27 09:16:34",

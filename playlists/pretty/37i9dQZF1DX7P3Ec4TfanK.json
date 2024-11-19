@@ -1,6 +1,6 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e buonumore! ",
-  "num_followers": 409128,
+  "num_followers": 409107,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-03 12:36:03",
       "album": {
-        "name": "MALAVITA",
-        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 166725,
-      "name": "MALAVITA",
-      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
-    },
-    {
-      "added_at": "2024-06-03 12:36:03",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2024-06-03 12:36:03",
+      "album": {
+        "name": "MALAVITA",
+        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "duration_ms": 166725,
+      "name": "MALAVITA",
+      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
     },
     {
       "added_at": "2024-06-03 12:36:03",

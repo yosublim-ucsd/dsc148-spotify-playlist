@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 175178,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM"
@@ -2384,6 +2384,24 @@
       "duration_ms": 123251,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "album": {
+        "name": "Despair, Light",
+        "url": "https://open.spotify.com/album/7GqUlt6r213NNVRqKqkbMI"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Despair, Light",
+      "url": "https://open.spotify.com/track/55vvvRHlfFqR66NUDUxFLI"
     },
     {
       "album": {
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 293000,
       "name": "I Am at Home - Edit",
       "url": "https://open.spotify.com/track/6b1rOz6b2jFd0FECz1JcLe"
@@ -9212,7 +9230,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"

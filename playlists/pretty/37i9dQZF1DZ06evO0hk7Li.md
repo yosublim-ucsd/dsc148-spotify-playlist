@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,267 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,266 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
 | 50 | [Take My Hand Precious Lord \- Intro](https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 1:24 |
 
-Snapshot ID: `ZzfggAAAAADx07I7HqsMKqEkdPlYGIZA`
+Snapshot ID: `ZzkyAAAAAABUL6XkH9fHLnpP0a80y6Jb`

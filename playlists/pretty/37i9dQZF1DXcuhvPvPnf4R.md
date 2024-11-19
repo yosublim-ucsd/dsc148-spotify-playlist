@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,896 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,900 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 12 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
 | 13 | [Tambourine](https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Tambourine](https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK) | 3:12 |
 | 14 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
-| 15 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
-| 16 | [Guilty \(feat\. Barry Gibb\)](https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 4:24 |
+| 15 | [Guilty \(feat\. Barry Gibb\)](https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 4:24 |
+| 16 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
 | 17 | [Get Money \(feat\. Junior M.A.F.I.A.\) \- 2007 Remaster](https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:34 |
 | 18 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
 | 19 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 26 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
 | 27 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
 | 28 | [You're the One](https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:42 |
-| 29 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
-| 30 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
+| 29 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
+| 30 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 |
 | 31 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
 | 32 | [Dr\. Carter](https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:24 |
 | 33 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 |

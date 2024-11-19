@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Mariah Carey",
-  "num_followers": 378519,
+  "num_followers": 378696,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-09-30 19:20:00",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "added_at": "2024-09-30 19:20:00",
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
-    },
-    {
-      "added_at": "2024-09-30 19:20:00",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2024-09-30 19:20:00",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2024-09-30 19:20:00",
       "album": {
-        "name": "This Is Me...Then",
-        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
-      "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
-    },
-    {
-      "added_at": "2024-09-30 19:20:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2024-09-30 19:20:00",
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
     },
     {
       "added_at": "2024-09-30 19:20:00",

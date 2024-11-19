@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,800 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,851 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 17 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 |
 | 18 | [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 |
 | 19 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
-| 20 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 |
-| 21 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
+| 20 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
+| 21 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 |
 | 22 | [Water Runs Dry](https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:21 |
 | 23 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
 | 24 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 |

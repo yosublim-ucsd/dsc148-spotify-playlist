@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,461 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,495 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 79 | [Más Que Un Rolex](https://open.spotify.com/track/6MMncjTGNQewjmTPEHATtO) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Más Que Un Rolex](https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh) | 3:29 |
 | 80 | [NADIE TE NECESITA](https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [NADIE TE NECESITA](https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx) | 2:57 |
 | 81 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
-| 82 | [Quien Te Dijo Que Eres Tu](https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Quien Te Dijo Que Eres Tu](https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg) | 3:03 |
-| 83 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
+| 82 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
+| 83 | [Quien Te Dijo Que Eres Tu](https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Quien Te Dijo Que Eres Tu](https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg) | 3:03 |
 | 84 | [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 |
 | 85 | [Por Ti](https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Ti](https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9) | 2:43 |
 | 86 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 89 | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 |
 | 90 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 |
 | 91 | [La Lámpara](https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [La Lámpara](https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK) | 3:40 |
-| 92 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
-| 93 | [ME PRENDO UN GALLO](https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [ME PRENDO UN GALLO](https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX) | 3:14 |
+| 92 | [ME PRENDO UN GALLO](https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [ME PRENDO UN GALLO](https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX) | 3:14 |
+| 93 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
 | 94 | [Mucha Mujer](https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2) | [Herly RG](https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt) | [Mucha Mujer](https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz) | 2:36 |
 | 95 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
 | 96 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 97 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
-| 98 | [Mi Casita](https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mi Casita](https://open.spotify.com/album/6OlLFigu7as8Cee3dKyfpz) | 2:39 |
-| 99 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
-| 100 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
+| 98 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
+| 99 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
+| 100 | [Esa Mujer](https://open.spotify.com/track/1jdXAgNLIoYMgoZXzjJbKj) | [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Esa Mujer](https://open.spotify.com/album/57pPuLYBt71Y19uqfWlvWt) | 3:17 |
 
 Snapshot ID: `Zxsz4AAAAAAK9bNbIR6I7S7UyLcSRcLm`

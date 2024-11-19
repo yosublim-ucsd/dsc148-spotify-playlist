@@ -483,6 +483,32 @@
     },
     {
       "album": {
+        "name": "Bomb Girls",
+        "url": "https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT"
+      },
+      "artists": [
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        },
+        {
+          "name": "Jashan Heer",
+          "url": "https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3"
+        },
+        {
+          "name": "Ritu Jass",
+          "url": "https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Bomb Girls",
+      "url": "https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO"
+    },
+    {
+      "album": {
         "name": "Broken Glass",
         "url": "https://open.spotify.com/album/1BtsJ1KnKpCjoTYud3z7EU"
       },
@@ -1840,7 +1866,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 196097,
       "name": "Main Teri Hoyi",
       "url": "https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO"

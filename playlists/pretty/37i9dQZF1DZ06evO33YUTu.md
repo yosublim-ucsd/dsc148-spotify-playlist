@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,729 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,774 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 26 | [Cuando Te Vi](https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:10 |
 | 27 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
 | 28 | [Locos Dementes](https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:35 |
-| 29 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
-| 30 | [Guatapé](https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:59 |
+| 29 | [Guatapé](https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:59 |
+| 30 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
 | 31 | [Lo Malo \- Remix](https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Lo Malo \(Remix\)](https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf) | 3:04 |
 | 32 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 |
 | 33 | [Te Estás Enamorando de Mí \- Fiesta Remix](https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Te Estás Enamorando de Mí \(Fiesta Remix\)](https://open.spotify.com/album/7gLrC5Ix8bZCFAX2U28tzh) | 2:15 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 51 | [Los Besos \- Versión Piano](https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos \(Versión Piano\)](https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g) | 3:50 |
 | 52 | [I Try For You](https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:16 |
 
-Snapshot ID: `ZzfggAAAAACR5YJmUyW5X5OhJUNNgKTg`
+Snapshot ID: `ZzkyAAAAAAA9EKfYGo4EPo5oOksKQX8Z`

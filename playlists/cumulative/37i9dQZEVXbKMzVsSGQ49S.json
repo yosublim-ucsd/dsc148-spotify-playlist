@@ -9324,7 +9324,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 189107,
       "name": "Draumaprins",
       "url": "https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS"
@@ -10318,6 +10318,24 @@
       "duration_ms": 162818,
       "name": "Eitt lag enn",
       "url": "https://open.spotify.com/track/6p87m8IQhHCTqOmOSeakWd"
+    },
+    {
+      "album": {
+        "name": "Komdu um j\u00f3lin",
+        "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
+      },
+      "artists": [
+        {
+          "name": "Birgitta Haukdal",
+          "url": "https://open.spotify.com/artist/1O3sO8IS9U6jkX4AdEza4A"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122601,
+      "name": "Eitt l\u00edti\u00f0 j\u00f3lalag",
+      "url": "https://open.spotify.com/track/675lRaSVfxNG6Iyo3YNE2c"
     },
     {
       "album": {
@@ -19890,7 +19908,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -20784,7 +20802,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/5PBsDt2vYSTSjuSnf35qMp"
@@ -23498,7 +23516,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -26828,7 +26846,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 215109,
       "name": "Nei, nei, ekki um j\u00f3lin",
       "url": "https://open.spotify.com/track/2Oh97IIdGSJ8jrIeIAPwMO"
@@ -29048,7 +29066,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 358237,
       "name": "Over",
       "url": "https://open.spotify.com/track/3l4oaTjo7AQkHsWRHf3rON"
@@ -29622,7 +29640,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 182000,
       "name": "Party",
       "url": "https://open.spotify.com/track/1cRtvrg3obMXE8ls9Zxv1G"
@@ -34118,7 +34136,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 161972,
       "name": "Sika Asem",
       "url": "https://open.spotify.com/track/6l8spDeNJS8fprHYTzDmgn"
@@ -45610,7 +45628,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 122866,
       "name": "\u00c9g \u00e1 m\u00f3ti m\u00e9r",
       "url": "https://open.spotify.com/track/3S2NE1lNouet4BZ08Hvtfu"
@@ -46266,6 +46284,28 @@
     {
       "album": {
         "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
+        "url": "https://open.spotify.com/album/2fd1rSY3AKpXIaKnob5uDh"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197241,
+      "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
+      "url": "https://open.spotify.com/track/07d7gcSd3Jja0W7S1jDYKh"
+    },
+    {
+      "album": {
+        "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
         "url": "https://open.spotify.com/album/2yoJjzBcFKa1Bf726pAmqe"
       },
       "artists": [
@@ -46562,7 +46602,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 234960,
       "name": "\u00de\u00fa komst me\u00f0 j\u00f3lin til m\u00edn",
       "url": "https://open.spotify.com/track/4VTQl8TUosCskPMqTg6thG"

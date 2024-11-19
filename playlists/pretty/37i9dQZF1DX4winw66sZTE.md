@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,922 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,941 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 26 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
 | 27 | [FIRE](https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:45 |
 | 28 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 |
-| 29 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
-| 30 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
+| 29 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
+| 30 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
 | 31 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 32 | [Something](https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:20 |
 | 33 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
@@ -73,22 +73,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 63 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 |
 | 64 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
 | 65 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 |
-| 66 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
+| 66 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
 | 67 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
-| 68 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
+| 68 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
 | 69 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 |
 | 70 | [LUV](https://open.spotify.com/track/7EZ79Zl4XsPS320q0KXC6E) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV](https://open.spotify.com/album/7BV2JxBA453SWGGe6ije4K) | 3:58 |
 | 71 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 |
 | 72 | [Secret](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [THE SECRET](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) | 3:42 |
-| 73 | [ONE SHOT](https://open.spotify.com/track/3ECzwLt2OYNXjLMeTnYzp2) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [ONE SHOT](https://open.spotify.com/album/3BknHo4UqGPK53v5cHaM2U) | 3:57 |
-| 74 | [Hard To Love](https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:39 |
+| 73 | [Hard To Love](https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:39 |
+| 74 | [ONE SHOT](https://open.spotify.com/track/3ECzwLt2OYNXjLMeTnYzp2) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [ONE SHOT](https://open.spotify.com/album/3BknHo4UqGPK53v5cHaM2U) | 3:57 |
 | 75 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |
 | 76 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 |
 | 77 | [Just Like a Dream](https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
 | 78 | [Darling](https://open.spotify.com/track/63M8a0AXYVBoZZfZmJbt6O) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:13 |
 | 79 | [Nitpicking](https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Nitpicking](https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT) | 3:33 |
-| 80 | [Severely](https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Grown\-Up](https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx) | 4:10 |
-| 81 | [WEE WOO](https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa) | [PRISTIN](https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D) | [The 1st Mini Album 'HI! PRISTIN'](https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe) | 3:12 |
+| 80 | [WEE WOO](https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa) | [PRISTIN](https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D) | [The 1st Mini Album 'HI! PRISTIN'](https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe) | 3:12 |
+| 81 | [Severely](https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Grown\-Up](https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx) | 4:10 |
 | 82 | [Second confession](https://open.spotify.com/track/3gJp5iMDX2yM0PN9CXrHBF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Second confession](https://open.spotify.com/album/37qwQFW0AB3WMmFwEhC8xN) | 3:54 |
 | 83 | [NU ABO](https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [NU ABO](https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO) | 3:44 |
 | 84 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |

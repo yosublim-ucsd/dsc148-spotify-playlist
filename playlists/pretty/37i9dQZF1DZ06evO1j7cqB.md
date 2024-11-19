@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,229 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,229 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 16 | [Valinor](https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:39 |
 | 17 | [Old Tom Bombadil \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:10 |
 | 18 | [God of War](https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 4:06 |
-| 19 | [Fallen Through Time](https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 5:38 |
+| 19 | [Comin' Thro' The Rye](https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 1:45 |
 | 20 | [Elrond Half\-elven](https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:23 |
 | 21 | [The Sun Yet Shines](https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 4:34 |
 | 22 | [Memories of Mother \(feat\. Eivør\)](https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:39 |
-| 23 | [Castle Leoch](https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 2:58 |
+| 23 | [Fallen Through Time](https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 5:38 |
 | 24 | [Bronwyn and Arondir](https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:47 |
 | 25 | [Forgiveness Takes an Age](https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 2:40 |
 | 26 | [Raeb's Lament](https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:24 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 40 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
 | 41 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 |
 
-Snapshot ID: `ZzfggAAAAAC7Wusbuzxj7zbfqYCgF0by`
+Snapshot ID: `ZzkyAAAAAAD4xPFhV0wtyj1nAcfbICBJ`

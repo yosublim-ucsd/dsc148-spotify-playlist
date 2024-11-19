@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,531 songs - 3 day 20 hr 47 min
+1,532 songs - 3 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-03-06 |
 | [Gacha Gacha](https://open.spotify.com/track/6dpzlQqI1Ngp4zsO3aw3Fr) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Gacha Gacha](https://open.spotify.com/album/2ad11ILhJNc7LKjEbOwzBu) | 2:24 | 2024-01-16 | 2024-02-14 |
 | [gadja](https://open.spotify.com/track/3WACxt3lwEqbY472GCnK34) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [gadja](https://open.spotify.com/album/7EdCjLHar1xl5sOaJ18l9f) | 2:26 | 2022-07-12 | 2022-08-10 |
+| [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 |  |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-05 | 2023-03-08 |
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2023-06-06 | 2024-04-19 |
 | [gaucherie](https://open.spotify.com/track/4P0gWxtEvf7apvG5qlyrjh) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [gaucherie](https://open.spotify.com/album/1agej49fTgkqT8peeoNaZS) | 2:57 | 2024-02-27 | 2024-03-06 |
@@ -769,7 +770,7 @@
 | [Pixie](https://open.spotify.com/track/0cY7dMIDQEvJpm9QLhwUJ5) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Pixie](https://open.spotify.com/album/05uzTmVeUHezTbQ1TKLsCB) | 5:12 | 2022-05-26 | 2022-06-17 |
 | [Plastic Romance](https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Plastic Romance](https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux) | 4:53 | 2024-05-14 | 2024-06-05 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-26 | 2023-02-03 |
-| [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 | 2024-09-04 |  |
+| [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 | 2024-09-04 | 2024-11-19 |
 | [Pluto](https://open.spotify.com/track/4BgjikxDGRtrzGkuNmTsZo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [住](https://open.spotify.com/album/1AbYtHL8CaXQgJIu8ctq7C) | 3:10 | 2023-01-10 | 2023-01-18 |
 | [Pointless 5](https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pointless 5](https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX) | 4:18 | 2024-05-23 | 2024-11-03 |
 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-07 | 2023-02-15 |

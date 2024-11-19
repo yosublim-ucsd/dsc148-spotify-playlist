@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
+      },
+      "artists": [
+        {
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
+    },
+    {
+      "album": {
         "name": "Out of Reach",
         "url": "https://open.spotify.com/album/0BSoCHrlcG0P6n9tRHOFdz"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 175313,
       "name": "\u05d6\u05d4 \u05d4\u05e1\u05d5\u05e3",
       "url": "https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5"

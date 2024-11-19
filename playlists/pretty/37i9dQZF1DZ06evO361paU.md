@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,259 likes - 51 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,297 likes - 51 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 50 | [Here to Love](https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:42 |
 | 51 | [Stop Draggin' Around](https://open.spotify.com/track/4UeM5va3UhQ5hRsiW8F2Di) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 2:39 |
 
-Snapshot ID: `ZzfggAAAAAC/92VBpk9Xwgt26Ps7do+Z`
+Snapshot ID: `ZzkyAAAAAABZ5zzC6kfA5dpHaADFFgUw`

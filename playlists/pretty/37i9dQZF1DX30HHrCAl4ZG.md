@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Medium Build
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,052 likes - 105 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,055 likes - 105 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

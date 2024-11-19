@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,062 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,193 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 34 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 35 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
 | 36 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
-| 37 | [Girls Gone Wild](https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Girls Gone Wild](https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r) | 2:22 |
-| 38 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
+| 37 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
+| 38 | [Girls Gone Wild](https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Girls Gone Wild](https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r) | 2:22 |
 | 39 | [In Limbo](https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [In Limbo](https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv) | 4:36 |
 | 40 | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz) | 2:41 |
 | 41 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 80 | [Animal](https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Animal](https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44) | 3:59 |
 | 81 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
 | 82 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
-| 83 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
-| 84 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
+| 83 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
+| 84 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 |
 | 85 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
 | 86 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 |
 | 87 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 97 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 | 98 | [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 |
 | 99 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
-| 100 | [MILF](https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [MILF](https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO) | 2:00 |
+| 100 | [AN ITERATION](https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AN ITERATION](https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da) | 2:53 |
 
 Snapshot ID: `ZppwkAAAAABh3bTkIUckSMSyB3D2mBAO`

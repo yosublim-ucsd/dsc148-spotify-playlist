@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Yuma Abe",
-  "num_followers": 290034,
+  "num_followers": 290073,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-11-13 01:22:18",
       "album": {
-        "name": "\u30a2\u30dd\u30ed\u30c9\u30ed\u30b9",
-        "url": "https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 284900,
-      "name": "\u30a2\u30dd\u30ed\u30c9\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP"
-    },
-    {
-      "added_at": "2024-11-13 01:22:18",
-      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 222640,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
+    },
+    {
+      "added_at": "2024-11-13 01:22:18",
+      "album": {
+        "name": "\u30a2\u30dd\u30ed\u30c9\u30ed\u30b9",
+        "url": "https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 284900,
+      "name": "\u30a2\u30dd\u30ed\u30c9\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP"
     },
     {
       "added_at": "2024-11-13 01:22:18",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-11-13 01:22:18",
       "album": {
+        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "\u7a81\u7834\u53e3",
+      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
+    },
+    {
+      "added_at": "2024-11-13 01:22:18",
+      "album": {
         "name": "\u5fd8\u30ec\u30ca\u5504",
         "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 176406,
       "name": "\u5fd8\u30ec\u30ca\u5504",
       "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
-    },
-    {
-      "added_at": "2024-11-13 01:22:18",
-      "album": {
-        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
-        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
-      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2024-11-13 01:22:18",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-11-13 01:22:18",
       "album": {
-        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
+        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
+        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
         }
       ],
-      "duration_ms": 253413,
-      "name": "\u7a81\u7834\u53e3",
-      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
+      "duration_ms": 190866,
+      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
+      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2024-11-13 01:22:18",

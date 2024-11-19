@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,435 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,509 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 22 | [Water Mirrors](https://open.spotify.com/track/1bT3Al9bsQa9LGf51j5yVw) | [Rainer & Co](https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y) | [Green Harmony](https://open.spotify.com/album/43H8m6IsGwcc9zHiXywu8C) | 2:22 |
 | 23 | [Hypnotic Green Noise](https://open.spotify.com/track/67abugPaIu3AZTbnyE8VsU) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Rain Forest Green Chill](https://open.spotify.com/album/1YlEIiFxpWl7TkeRI23pr1) | 3:15 |
 | 24 | [Enigmatic Calm \- Green Noise](https://open.spotify.com/track/6Cuk8wnlzCQgaTW0RLqRtg) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Emerald Meadows \(Green Noise\)](https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO) | 3:24 |
-| 25 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
-| 26 | [Pouring Noise](https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX) | [Mind Noises](https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN) | [Green Noise For Sleep](https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1) | 2:30 |
+| 25 | [Pouring Noise](https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX) | [Mind Noises](https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN) | [Green Noise For Sleep](https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1) | 2:30 |
+| 26 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
 | 27 | [Rainy Night \- Sweet Spot Green Noise](https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Soothing Green Noise](https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg) | 2:16 |
 | 28 | [Green Noise Ritual](https://open.spotify.com/track/2u6gCtrkaPT3IInl2MZIQc) | [Karma Ritual](https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b) | [Green Noise Ritual](https://open.spotify.com/album/2Sp5fhJUBzeLgYXTQlt0bf) | 2:48 |
 | 29 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 45 | [Aquatic Ambiance](https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA) | [Hill Of Noise](https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU) | [Paradise Noise](https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f) | 2:31 |
 | 46 | [Calm Pouring Ocean](https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:00 |
 | 47 | [Forest Rain](https://open.spotify.com/track/1gDhRTrbT942IknQqleVqB) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:28 |
-| 48 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
-| 49 | [Chill Waves](https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 2:12 |
+| 48 | [Chill Waves](https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 2:12 |
+| 49 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |
 | 50 | [Rain Clappering Outside](https://open.spotify.com/track/3PCbiNhD6DqC1kmeLfWVjk) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Rain Clappering Outside](https://open.spotify.com/album/2z9Oof7rdfBWFVGspxY4ha) | 2:49 |
 | 51 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
 | 52 | [Relaxing Afternoon Rain](https://open.spotify.com/track/6gfzHvzslUJYs1dVMMhyaF) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Hawaiian Rainforest](https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1) | 2:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 54 | [Distant Waves Pt\. 1](https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:52 |
 | 55 | [Stereo Waves](https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:34 |
 | 56 | [By The Docks](https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq) | [Ocean Bank](https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr) | [Ocean Noises](https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk) | 4:07 |
-| 57 | [Zen Nature Sounds](https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:45 |
-| 58 | [Current Green Noise](https://open.spotify.com/track/72JjmSeDk6lnjtuOAREB8T) | [Sleep Noise Island](https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z) | [Night Green Noise](https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk) | 2:12 |
+| 57 | [Current Green Noise](https://open.spotify.com/track/72JjmSeDk6lnjtuOAREB8T) | [Sleep Noise Island](https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z) | [Night Green Noise](https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk) | 2:12 |
+| 58 | [Zen Nature Sounds](https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:45 |
 | 59 | [Perfect Forest Rain](https://open.spotify.com/track/02IW5y4FjEqwWVtNeQO2o9) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Embrace The Rain](https://open.spotify.com/album/0fEyDdutiq26DBzd0eIjFw) | 2:35 |
 | 60 | [Trickling Light Rain](https://open.spotify.com/track/1HEx1AISZPde6pZ38Rw4tL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nightscapes and Rainscapes](https://open.spotify.com/album/2ukDvW2zZKwTXk0cyTRH8j) | 2:34 |
 | 61 | [Evergreen Escape \- Green Noise](https://open.spotify.com/track/4z55TgzgQGMpwL5TtyGdbe) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Evergreen Escape \(Green Noise\)](https://open.spotify.com/album/4pEJyRGQoHZP7u6ANKwTF1) | 3:04 |

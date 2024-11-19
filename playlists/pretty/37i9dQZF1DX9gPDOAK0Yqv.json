@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 126068,
+  "num_followers": 126110,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 323221,
-      "name": "Another Dimension",
-      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Where Are You Tonight",
         "url": "https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP"
       },
@@ -1139,22 +1123,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Strobe (Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm"
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 215156,
-      "name": "Strobe - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/2So9vITovkovvxlVerZccz"
+      "duration_ms": 323221,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1179,6 +1159,26 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Strobe (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Strobe - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/2So9vITovkovvxlVerZccz"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Bloom At Night",
         "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
       },
@@ -1195,26 +1195,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
       },
       "artists": [
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
           "name": "Massano",
           "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "David O'Dowda",
-          "url": "https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653"
         }
       ],
-      "duration_ms": 197416,
-      "name": "Glowing",
-      "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1239,22 +1231,6 @@
       "duration_ms": 333750,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1299,6 +1275,30 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "David O'Dowda",
+          "url": "https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Captain Nemo",
         "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 243840,
       "name": "Captain Nemo - Edit",
       "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Colossal",
-        "url": "https://open.spotify.com/album/3anbwyAI9TgmLyFTBjPTiY"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 240495,
-      "name": "Colossal",
-      "url": "https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "The Pledge",
         "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 215693,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Colossal",
+        "url": "https://open.spotify.com/album/3anbwyAI9TgmLyFTBjPTiY"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 240495,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Aran",
-        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
       },
       "artists": [
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
         }
       ],
-      "duration_ms": 342626,
-      "name": "Aran",
-      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
+      "duration_ms": 238125,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
+        "name": "Aran",
+        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
       },
       "artists": [
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         }
       ],
-      "duration_ms": 238125,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
+      "duration_ms": 342626,
+      "name": "Aran",
+      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1815,6 +1815,22 @@
       "duration_ms": 347520,
       "name": "Laura - Argy & Omnya Remix",
       "url": "https://open.spotify.com/track/548DlYhe2Pn8f9wGpOJsBV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Are We Truly Free?",
+        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 216850,
+      "name": "Are We Truly Free?",
+      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1855,22 +1871,6 @@
       "duration_ms": 220434,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/2YCgldCFM52mBBZdQCOfDE"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Are We Truly Free?",
-        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
-      },
-      "artists": [
-        {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Are We Truly Free?",
-      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Hellbound",
-        "url": "https://open.spotify.com/album/3Laz09fHvm5f5lRPkkaJ6E"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 177723,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/5fvVLhYMv13ygNvYlHaB5f"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
         "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
@@ -2375,6 +2355,46 @@
       "duration_ms": 254400,
       "name": "Len\u00e7\u00f3is (Love Me) - Cassian Remix",
       "url": "https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Welcome The Night",
+        "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
+      },
+      "artists": [
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Welcome The Night",
+      "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Hellbound",
+        "url": "https://open.spotify.com/album/3Laz09fHvm5f5lRPkkaJ6E"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 177723,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/5fvVLhYMv13ygNvYlHaB5f"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -2399,26 +2419,6 @@
       "duration_ms": 272180,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Welcome The Night",
-        "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
-      },
-      "artists": [
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Welcome The Night",
-      "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -2491,30 +2491,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Morenita (Marco Generani Remix)",
-        "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Marco Generani",
-          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 147844,
-      "name": "Morenita - Marco Generani Remix",
-      "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
       },
@@ -2547,6 +2523,30 @@
       "duration_ms": 174565,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Morenita (Marco Generani Remix)",
+        "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Marco Generani",
+          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 147844,
+      "name": "Morenita - Marco Generani Remix",
+      "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -2595,18 +2595,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Sun Will Rise",
-        "url": "https://open.spotify.com/album/2Ju3N26zvsKRGf9oGWsBl8"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC"
       },
       "artists": [
         {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        },
+        {
+          "name": "Hard Reset",
+          "url": "https://open.spotify.com/artist/6liKh5rs35Y5VML94ZCswV"
         }
       ],
-      "duration_ms": 223137,
-      "name": "Sun Will Rise",
-      "url": "https://open.spotify.com/track/026NUefvu7f2tdEqTRXT8J"
+      "duration_ms": 243934,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2GR1NiNV20Io0Wkqr5tub3"
     }
   ],
   "unique_name": "Melodic Techno Elements",

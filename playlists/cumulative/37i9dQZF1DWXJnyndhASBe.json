@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/6eaZJyOwkBeusyTpmRjS6x"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142176,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/7cQYTRbsDFuITw9trgoDxc"
+    },
+    {
+      "album": {
         "name": "CRAZY FROG",
         "url": "https://open.spotify.com/album/0bCQd3xcOyLh122uEsvwC8"
       },
@@ -7591,6 +7609,36 @@
     },
     {
       "album": {
+        "name": "Oh My Gawd",
+        "url": "https://open.spotify.com/album/09VBO00Nq8UBvPNB07XWJS"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        },
+        {
+          "name": "Kacpersuperswag",
+          "url": "https://open.spotify.com/artist/2XJdKwVmkAYEeJ6aXtmnB3"
+        },
+        {
+          "name": "Black Belt Greg",
+          "url": "https://open.spotify.com/artist/24ag4FuEapqSWU4NzhupTx"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Oh My Gawd",
+      "url": "https://open.spotify.com/track/5l3bpOrYpI2T1dxU4ec5CM"
+    },
+    {
+      "album": {
         "name": "FREE AGENT",
         "url": "https://open.spotify.com/album/1Shvu0oUTSFDOcKvwWdlYo"
       },
@@ -7972,7 +8020,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 171428,
       "name": "Papier",
       "url": "https://open.spotify.com/track/22lktt8sfUnZUdH80afFZT"
@@ -8466,7 +8514,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 138441,
       "name": "Poland Spring",
       "url": "https://open.spotify.com/track/2qoaHCjTVSHclJJvkhjUeb"

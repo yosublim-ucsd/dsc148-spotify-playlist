@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,424,407 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,424,292 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 35 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
 | 36 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
 | 37 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
-| 38 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
-| 39 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
+| 38 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
+| 39 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
 | 40 | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl) | 4:00 |
 | 41 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |
 | 42 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 90 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 |
 | 91 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
 | 92 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
-| 93 | [Get Me](https://open.spotify.com/track/6zGPytJiZmFuyVq7RTNO9G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Get Me](https://open.spotify.com/album/0GzsdiiItPCABfhuFIKiZi) | 3:05 |
-| 94 | [Sex Room](https://open.spotify.com/track/6GFR0u6aaNM6qnUQR91WT5) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [1320](https://open.spotify.com/album/3C442Onkmd4SFO1JCvaDji) | 3:22 |
+| 93 | [Sex Room](https://open.spotify.com/track/6GFR0u6aaNM6qnUQR91WT5) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [1320](https://open.spotify.com/album/3C442Onkmd4SFO1JCvaDji) | 3:22 |
+| 94 | [Get Me](https://open.spotify.com/track/6zGPytJiZmFuyVq7RTNO9G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Get Me](https://open.spotify.com/album/0GzsdiiItPCABfhuFIKiZi) | 3:05 |
 | 95 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
 | 96 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
 | 97 | [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 |

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Jacob Alon
 
-179 songs - 11 hr 24 min
+180 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 |  |
 | [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 | 2024-08-27 |
 | [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:10 | 2024-06-14 |  |
+| [Antarctica](https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Antarctica](https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG) | 3:14 | 2024-11-15 |  |
 | [Apple](https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [La Fusion](https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66) | 3:51 | 2024-06-14 | 2024-07-20 |
 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-06-14 | 2024-07-18 |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 |  |
@@ -65,7 +66,7 @@
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-14 |  |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-06-14 | 2024-10-07 |
 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 | 2024-06-14 | 2024-11-16 |
-| [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-06-14 |  |
+| [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-06-14 | 2024-11-19 |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-11 |  |
 | [Flying Fish](https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [66](https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp) | 4:41 | 2024-06-14 | 2024-11-18 |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-06-14 | 2024-10-07 |

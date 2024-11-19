@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,329 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,360 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 21 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3) | 3:26 |
 | 22 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/7JhvxJMvAEuwfVnA64DG7E) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/755inNisuJlbtx4Q2jNl1D) | 3:24 |
 | 23 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
-| 24 | [El Michoacano](https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:44 |
-| 25 | [Polvo Soy](https://open.spotify.com/track/0hTJPHYkKsSzf9gfejChCy) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/3HltDQreHZI013zu1J8Q60) | 2:53 |
+| 24 | [Polvo Soy](https://open.spotify.com/track/0hTJPHYkKsSzf9gfejChCy) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/3HltDQreHZI013zu1J8Q60) | 2:53 |
+| 25 | [El Michoacano](https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:44 |
 | 26 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 3:21 |
 | 27 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
 | 28 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 42 | [Si Esta Botella Hablara](https://open.spotify.com/track/5r8wUCktxdOwIZTxuCD9rJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:08 |
 | 43 | [Tolin Infante](https://open.spotify.com/track/6DC6QEVWPrSzu1VWuEPg9E) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Tolin Infante](https://open.spotify.com/album/6HEx9gAGWZrM78VgZcZcEz) | 3:26 |
 | 44 | [Alto y Piel Morena](https://open.spotify.com/track/4o6ZOfHlmVUxofni1mK6IG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 3:22 |
-| 45 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
-| 46 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 |
-| 47 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 |
+| 45 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 |
+| 46 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
+| 47 | [El Barbas \(En Vivo\)](https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Culiacan \(En Vivo\)](https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z) | 3:15 |
 | 48 | [Golpe De Suerte](https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:48 |
-| 49 | [El Barbas \(En Vivo\)](https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Culiacan \(En Vivo\)](https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z) | 3:15 |
+| 49 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 |
 | 50 | [El Markitos](https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Markitos](https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc) | 3:03 |
 | 51 | [El Kiri](https://open.spotify.com/track/427ITfPk80CFHqpD43ROcd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:42 |
 
-Snapshot ID: `ZzfggAAAAACy8VEaiEbVUjOHAuTp+n3Q`
+Snapshot ID: `ZzkyAAAAAADqLuVbDqzxMf8zLBAQjBeR`

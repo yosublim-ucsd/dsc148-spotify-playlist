@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The best of right now. Cover: 070 Shake",
+  "description": "The best of right now. Cover: The Mar\u00edas",
   "name": "Front Page Indie",
   "tracks": [
     {
@@ -3387,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193887,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7dXY4oHP51599HTGQJHJJT"
+    },
+    {
+      "album": {
         "name": "Supervision",
         "url": "https://open.spotify.com/album/3khQPGgmFLPQBPUHUDwPF2"
       },
@@ -3764,7 +3782,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 314007,
       "name": "backseat",
       "url": "https://open.spotify.com/track/61pyjiweMDS1h930OgS0XO"
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 148946,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/1TZTHHoSj7OcBIn23pV0SJ"
@@ -8994,7 +9012,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 207016,
       "name": "Crystal Breath",
       "url": "https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87"
@@ -19230,7 +19248,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
@@ -30983,6 +31001,24 @@
     },
     {
       "album": {
+        "name": "People Watching (Edit)",
+        "url": "https://open.spotify.com/album/7B55XuKBJVtYjKzOF6R4CB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/7AOl68x69yQKxhTPlewJas"
+    },
+    {
+      "album": {
         "name": "People, I've been sad",
         "url": "https://open.spotify.com/album/4RV4rhoQAX4KH7HME6AMnA"
       },
@@ -39848,7 +39884,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 217020,
       "name": "The Fun Of It",
       "url": "https://open.spotify.com/track/7n60f7KrHD1an5TLlHDzAs"
@@ -46022,7 +46058,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
@@ -46148,7 +46184,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 196200,
       "name": "You Don't Even Need It",
       "url": "https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz"

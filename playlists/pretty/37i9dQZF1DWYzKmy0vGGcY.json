@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 456972,
+  "num_followers": 457293,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Moon River And Other Great Movie Themes",
@@ -747,6 +731,22 @@
       "duration_ms": 162893,
       "name": "Moon River (From \"Breakfast at Tiffany's\")",
       "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Insight Out",
-        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Never My Love - Remastered Version",
-      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "At Last!",
@@ -1035,6 +1019,22 @@
       "duration_ms": 175626,
       "name": "All I Could Do Was Cry",
       "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Insight Out",
+        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
+      },
+      "artists": [
+        {
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Never My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "A Date with The Everly Brothers",
@@ -1199,6 +1183,22 @@
       "duration_ms": 145933,
       "name": "Cathy's Clown - 2007 Remaster",
       "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Then Was Then Now Is Now!",
-        "url": "https://open.spotify.com/album/0Hr3RytTYKr0fIN88VyRBx"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "I Go To Sleep",
-      "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 159080,
       "name": "Cowboys to Girls",
       "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Then Was Then Now Is Now!",
+        "url": "https://open.spotify.com/album/0Hr3RytTYKr0fIN88VyRBx"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "I Go To Sleep",
+      "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "A Date with The Everly Brothers",
         "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 142306,
       "name": "Love Hurts - 2007 Remaster",
       "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "You Don't Have To Say You Love Me",
-        "url": "https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh"
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh"
       },
       "artists": [
         {
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 170440,
-      "name": "You Don't Have To Say You Love Me",
-      "url": "https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux"
+      "duration_ms": 216266,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Oldies 60's",
         "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 160026,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2253,6 +2253,22 @@
       "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Greatest Motown Hits",
+        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "20 All-Time Greatest Hits!",
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Take It Easy With The Walker Brothers",
-        "url": "https://open.spotify.com/album/4i3uOn5MgkttGg798efCGi"
-      },
-      "artists": [
-        {
-          "name": "The Walker Brothers",
-          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Make It Easy On Yourself",
-      "url": "https://open.spotify.com/track/4NhFqirjszwBSFdOG7swnf"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
       },
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Take It Easy With The Walker Brothers",
+        "url": "https://open.spotify.com/album/4i3uOn5MgkttGg798efCGi"
+      },
+      "artists": [
+        {
+          "name": "The Walker Brothers",
+          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Make It Easy On Yourself",
+      "url": "https://open.spotify.com/track/4NhFqirjszwBSFdOG7swnf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Wish It Would Rain",
         "url": "https://open.spotify.com/album/5HSjEEA5qggoxsLJzxtQty"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 162706,
       "name": "I Wish It Would Rain",
       "url": "https://open.spotify.com/track/6ePg7Gsej17RfQQKjsY0rf"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Greatest Motown Hits",
-        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
     },
     {
       "added_at": "2022-05-30 13:00:37",

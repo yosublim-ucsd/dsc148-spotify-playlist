@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-144 songs - 5 hr 58 min
+145 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 | 2023-05-09 |  |
 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2023-05-09 |  |
 | [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-05-09 |  |
+| [Horizon 地平线](https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Horizon 地平线](https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U) | 2:37 | 2024-11-18 |  |
 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 | 2023-05-09 |  |
 | [Inner Peace Of Mind](https://open.spotify.com/track/1vQc1CMKybARohCOtrr7Oc) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Inner Peace Of Mind](https://open.spotify.com/album/1sys8kVADrVBBiPvB21JRi) | 3:06 | 2023-12-12 |  |
 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,961 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,373 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 28 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
 | 29 | [GATITA GANGSTER](https://open.spotify.com/track/5bD6mFl116xCxVMLy7IK9F) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:50 |
 | 30 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 |
-| 31 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
-| 32 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
-| 33 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
+| 31 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
+| 32 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 |
+| 33 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 |
 | 34 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 35 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 |
 | 36 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 46 | [Poblado \- Remix](https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado \(Remix\)](https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7) | 6:33 |
 | 47 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 |
 | 48 | [Mi Cama](https://open.spotify.com/track/3fFMAZtSAK5YQ3Zdl3EE4Q) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:29 |
-| 49 | [My Family \- from "The Addams Family"](https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [My Family \(feat\. Migos\) \[from "The Addams Family"\]](https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2) | 2:57 |
 
-Snapshot ID: `ZzfggAAAAABglZX4YAGBua+0k1htbVS2`
+Snapshot ID: `ZzkyAAAAAABXErEzb25J8NMn86quHDEf`

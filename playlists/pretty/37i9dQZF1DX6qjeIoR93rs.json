@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 73476,
+  "num_followers": 73510,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,6 @@
       "duration_ms": 203592,
       "name": "Ya Tal3een",
       "url": "https://open.spotify.com/track/1lUBzm6GAUlY9kovZifP9G"
-    },
-    {
-      "added_at": "2024-11-14 18:34:48",
-      "album": {
-        "name": "El Gad3ana",
-        "url": "https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492"
-      },
-      "artists": [
-        {
-          "name": "Daboor",
-          "url": "https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy"
-        },
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        }
-      ],
-      "duration_ms": 193370,
-      "name": "Inn Ann",
-      "url": "https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7"
     },
     {
       "added_at": "2024-11-14 18:34:48",
@@ -187,6 +167,26 @@
       "duration_ms": 499881,
       "name": "Rajieen (feat. Saif Safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, A5rass - \u0627\u0644\u0627\u062e\u0631\u0633, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo & Dafencii)",
       "url": "https://open.spotify.com/track/5ltxZlXp4kBQHSPjqbjJ8Q"
+    },
+    {
+      "added_at": "2024-11-14 18:34:48",
+      "album": {
+        "name": "El Gad3ana",
+        "url": "https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492"
+      },
+      "artists": [
+        {
+          "name": "Daboor",
+          "url": "https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy"
+        },
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        }
+      ],
+      "duration_ms": 193370,
+      "name": "Inn Ann",
+      "url": "https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7"
     },
     {
       "added_at": "2024-11-14 18:34:48",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-11-14 18:34:48",
       "album": {
+        "name": "Dalaa Dalouna",
+        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 199334,
+      "name": "Dalaa Dalouna",
+      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
+    },
+    {
+      "added_at": "2024-11-14 18:34:48",
+      "album": {
         "name": "Soundtrack to the Struggle 2",
         "url": "https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 317241,
       "name": "Long Live Palestine 3",
       "url": "https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r"
-    },
-    {
-      "added_at": "2024-11-14 18:34:48",
-      "album": {
-        "name": "Dalaa Dalouna",
-        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 199334,
-      "name": "Dalaa Dalouna",
-      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
     },
     {
       "added_at": "2024-11-14 18:34:48",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-11-14 18:34:48",
       "album": {
+        "name": "Ya Yuma Wen",
+        "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Ya Yuma Wen",
+      "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
+    },
+    {
+      "added_at": "2024-11-14 18:34:48",
+      "album": {
         "name": "Seasons of Violet - Lovesongs from Palestine",
         "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 306106,
       "name": "The Night Has Fallen Down",
       "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
-    },
-    {
-      "added_at": "2024-11-14 18:34:48",
-      "album": {
-        "name": "Palestine",
-        "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
-      },
-      "artists": [
-        {
-          "name": "Ministry Of Dubkey",
-          "url": "https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU"
-        }
-      ],
-      "duration_ms": 81005,
-      "name": "Palestine",
-      "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
     },
     {
       "added_at": "2024-11-14 18:34:48",
@@ -887,6 +887,22 @@
       "duration_ms": 174673,
       "name": "Overdose - From the Netflix Series \"Mo\"",
       "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
+    },
+    {
+      "added_at": "2024-11-14 18:34:48",
+      "album": {
+        "name": "Palestine",
+        "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
+      },
+      "artists": [
+        {
+          "name": "Ministry Of Dubkey",
+          "url": "https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU"
+        }
+      ],
+      "duration_ms": 81005,
+      "name": "Palestine",
+      "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
     },
     {
       "added_at": "2024-11-14 18:34:48",
@@ -939,22 +955,6 @@
       "duration_ms": 260555,
       "name": "Sobo El Gahwa",
       "url": "https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy"
-    },
-    {
-      "added_at": "2024-11-14 18:34:48",
-      "album": {
-        "name": "Ya Yuma Wen",
-        "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Ya Yuma Wen",
-      "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
     },
     {
       "added_at": "2024-11-14 18:34:48",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-14 18:34:48",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2024-11-14 18:34:48",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 136759,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
+    },
+    {
+      "added_at": "2024-11-14 18:34:48",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2024-11-14 18:34:48",

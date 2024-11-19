@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Afgan, thủy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,904 likes - 97 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,905 likes - 97 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

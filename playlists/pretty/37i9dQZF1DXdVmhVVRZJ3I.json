@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 288221,
+  "num_followers": 288381,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 174480,
       "name": "Pararam",
       "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Kikada",
-        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Kikada",
-      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Devotion (2020 Remix)",
         "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 152131,
       "name": "Devotion - 2020 Remix",
       "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Kikada",
+        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Kikada",
+      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Dali",
-        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Dali",
-      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Dali",
+        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        }
+      ],
+      "duration_ms": 179072,
+      "name": "Dali",
+      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1003,6 +1003,34 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Atomic Bomb (feat. Juan Alcasar)",
+        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Juan Alcasar",
+          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Atomic Bomb (feat. Juan Alcasar)",
+      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Terremoto EP",
         "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
       },
@@ -1059,34 +1087,6 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Atomic Bomb (feat. Juan Alcasar)",
-        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        },
-        {
-          "name": "Juan Alcasar",
-          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Atomic Bomb (feat. Juan Alcasar)",
-      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

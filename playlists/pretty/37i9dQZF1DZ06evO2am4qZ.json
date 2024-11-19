@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADsBe5Tzjh/4tpw1/wUFheH",
+  "snapshot_id": "ZzkyAAAAAABYavnRBpIzfkQBSnQKhkq9",
   "tracks": [
     {
       "added_at": null,
@@ -927,34 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty (Remix)",
-        "url": "https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs"
+        "name": "Bow (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
       },
       "artists": [
         {
-          "name": "grouptherapy.",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        },
-        {
-          "name": "TJOnline",
-          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
         }
       ],
-      "duration_ms": 247680,
-      "name": "Nasty - Remix",
-      "url": "https://open.spotify.com/track/2vyg7GnDSTYQQr0KbvLPvI"
+      "duration_ms": 94524,
+      "name": "Bow (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
     },
     {
       "added_at": null,
@@ -979,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bow (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
         {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        },
-        {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 94524,
-      "name": "Bow (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP"
     }
   ],
   "unique_name": "This Is Baby Tate",

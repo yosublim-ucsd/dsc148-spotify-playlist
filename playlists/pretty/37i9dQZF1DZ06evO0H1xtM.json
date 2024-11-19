@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 314432,
+  "num_followers": 314524,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAhGknsBI1DC/s9gyq5rZ0r",
+  "snapshot_id": "ZzkyAAAAAADtwq+H5/3ZJDkagkhSlID6",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 186142,
       "name": "Clausurado",
       "url": "https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "7x7",
+      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "7x7",
-      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eres Mi Crush",
+        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Eres Mi Crush",
+      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 198545,
       "name": "En El Audi",
       "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eres Mi Crush",
-        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Eres Mi Crush",
-      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
     },
     {
       "added_at": null,

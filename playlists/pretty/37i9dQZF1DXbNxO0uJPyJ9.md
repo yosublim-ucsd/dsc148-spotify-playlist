@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,053 likes - 80 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,173 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 20 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
 | 21 | [Maneater \- Extended Club Mix](https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Original Album Classics](https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy) | 5:58 |
 | 22 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
-| 23 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie Singles Collection: 1977\-1982](https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8) | 5:50 |
-| 24 | [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
+| 23 | [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
+| 24 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie Singles Collection: 1977\-1982](https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8) | 5:50 |
 | 25 | [Never Ending Story](https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 5:20 |
 | 26 | [When the Going Gets Tough \- Extended Version](https://open.spotify.com/track/3tT3CqBYG3peXXZx7xZUx9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Love Zone \(Expanded Edition\)](https://open.spotify.com/album/7oUQQI3USlnBTUeN6KXXoo) | 7:32 |
 | 27 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
 | 28 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
 | 29 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
-| 30 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
-| 31 | [Tainted Love / Where Did Our Love Go? \- Extended Version](https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:54 |
+| 30 | [Tainted Love / Where Did Our Love Go? \- Extended Version](https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:54 |
+| 31 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 | 32 | [Cruel Summer \- Extended Version](https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 4:55 |
 | 33 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
 | 34 | [The Great Commandment](https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Westside 25th Anniversary](https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2) | 5:28 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 76 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
 | 77 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
 | 78 | [Nightshift \- Club Mix](https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol\. 1](https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5) | 7:03 |
-| 79 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
-| 80 | [Love Changes \(Everything\) \- Love Mix](https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Love Changes Everything](https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7) | 7:42 |
+| 79 | [Love Changes \(Everything\) \- Love Mix](https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Love Changes Everything](https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7) | 7:42 |
+| 80 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
 
 Snapshot ID: `ZmmKwwAAAAC7WkdM0ZXBAIIyMDV/pvcV`

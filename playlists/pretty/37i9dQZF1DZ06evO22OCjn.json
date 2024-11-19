@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 301174,
+  "num_followers": 301212,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADHDtBH8GJde5dzfXQZcKLF",
+  "snapshot_id": "ZzkyAAAAAAAztehoNFn5Trf+rLyenh56",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jerusalema (Deluxe)",
         "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 328000,
       "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
       "url": "https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 209968,
-      "name": "Different Size (feat. Victony)",
-      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
     },
     {
       "added_at": null,

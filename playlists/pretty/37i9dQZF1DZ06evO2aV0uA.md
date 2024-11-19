@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,874 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,893 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 41 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 |
 | 42 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 |
 | 43 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 |
-| 44 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
+| 44 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
 | 45 | [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 |
-| 46 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
+| 46 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
 | 47 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 |
 | 48 | [Straight For The Sun](https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 2:28 |
 | 49 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 |
 | 50 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
 
-Snapshot ID: `ZzfggAAAAADuKOnTYxQzIsKMWHKfQ2nw`
+Snapshot ID: `ZzkyAAAAAAAbGABhHdzHDNl8fxjAEcWm`

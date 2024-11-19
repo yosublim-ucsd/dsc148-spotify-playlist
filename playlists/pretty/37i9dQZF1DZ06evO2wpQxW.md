@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,113 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,205 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 14 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 |
 | 15 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 |
 | 16 | [¿Por Qué Cambiaste De Opinión?](https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 4:01 |
-| 17 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 |
-| 18 | [El Tierno Se Fue](https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 4:19 |
-| 19 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
-| 20 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 |
+| 17 | [El Tierno Se Fue](https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 4:19 |
+| 18 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 |
+| 19 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 |
+| 20 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
 | 21 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 |
 | 22 | [Se Quedaron A Tres Pasos](https://open.spotify.com/track/2UyyNcLL7gRuzEjIMCq7np) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:19 |
 | 23 | [Te Volvería A Elegir](https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Volvería A Elegir](https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4) | 3:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 50 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
 | 51 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
 
-Snapshot ID: `ZzfggAAAAAAZYafn5BwlDcOyhdNsJsXT`
+Snapshot ID: `ZzkyAAAAAADJfLun0CMCEjG8bc9O1a0D`

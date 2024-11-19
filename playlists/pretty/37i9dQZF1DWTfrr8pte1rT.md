@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,172 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,225 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 53 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 54 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 |
 | 55 | [Skull n Bones](https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i) | [Skull n Bones](https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK) | 2:25 |
-| 56 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 |
+| 56 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 |
 | 57 | [Back to You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 |
 | 58 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 |
-| 59 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 |
+| 59 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 |
 | 60 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 |
 | 61 | [Crash & Burn](https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk) | [Crash & Burn](https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO) | 4:06 |
 | 62 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |

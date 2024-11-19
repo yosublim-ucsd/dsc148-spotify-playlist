@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACd5L9t5AYllw7ctmqtD9zV",
+  "snapshot_id": "ZzkyAAAAAADFg8tPbeRy1Z8Jil7eOeRz",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
       },
@@ -503,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": null,
@@ -715,30 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Life Is Eazi",
-      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Life Is Eazi",
+      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 168461,
       "name": "Short Skirt",
       "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e0\u00e0j\u00ed",
         "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 149741,
       "name": "F\u00e0\u00e0j\u00ed",
       "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "added_at": null,

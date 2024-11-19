@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479 likes - 311 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484 likes - 311 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 96 | [King](https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:40 |
 | 97 | [Sober II \(Melodrama\)](https://open.spotify.com/track/54ucfuN596MU25jQD3KjCL) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:58 |
 | 98 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 |
-| 99 | [Tulsa Jesus Freak](https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:35 |
-| 100 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
+| 99 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
+| 100 | [Tulsa Jesus Freak](https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:35 |
 | 101 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 |
 | 102 | [HEAVEN](https://open.spotify.com/track/5VrgqxF4HM4NgCboCTbMnL) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 4:21 |
 | 103 | [House On Fire](https://open.spotify.com/track/1fiKURoz6s2OXZhMkhF488) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 4:01 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 310 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 311 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `Abhx3gAAAADQkKnI8LHjClfmJwF1KSA7`
+Snapshot ID: `Abh3dAAAAADDrEozUDRnZLSojjHbhHJS`

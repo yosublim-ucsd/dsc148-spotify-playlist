@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,777 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,792 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 45 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 46 | [savage](https://open.spotify.com/track/14XHyR5B6XdSC80chxBajM) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw) | [savage](https://open.spotify.com/album/6VmdIvbJsb9ScZHox6jzoW) | 2:18 |
 | 47 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
-| 48 | [LVSNG](https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [ME TIME](https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s) | 2:17 |
-| 49 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 48 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 49 | [LVSNG](https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [ME TIME](https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s) | 2:17 |
 | 50 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 |
 | 51 | [MY RIDE](https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50) | [JASMINE](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [MY RIDE](https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2) | 3:06 |
 | 52 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
 | 53 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
 | 54 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [Sinae](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
-| 55 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
-| 56 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
+| 55 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
+| 56 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
 | 57 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 58 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
 | 59 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |

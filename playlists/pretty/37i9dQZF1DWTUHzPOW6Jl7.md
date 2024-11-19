@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,192 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,468 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 94 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 |
 | 95 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 | 96 | [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 |
-| 97 | [Like This \(feat\. Eve\)](https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Ms\. Kelly](https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW) | 3:35 |
-| 98 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
+| 97 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
+| 98 | [Like This \(feat\. Eve\)](https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Ms\. Kelly](https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW) | 3:35 |
 | 99 | [Try Again](https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:44 |
 | 100 | [Know Myself](https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Know Myself](https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK) | 2:47 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,606 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,613 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 28 | [Aseda Nwom](https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:01 |
 | 29 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
 | 30 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
-| 31 | [Me Ndi Nkugu](https://open.spotify.com/track/6pTwhtIBK0NjkIOlH2cOd1) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Dom Hene](https://open.spotify.com/album/5L9oBLWrIOhMdCCrFYK0SC) | 5:06 |
-| 32 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
+| 31 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
+| 32 | [Me Ndi Nkugu](https://open.spotify.com/track/6pTwhtIBK0NjkIOlH2cOd1) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Dom Hene](https://open.spotify.com/album/5L9oBLWrIOhMdCCrFYK0SC) | 5:06 |
 | 33 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
 | 34 | [Nyame Do Me](https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ) | [Isaac Ampong](https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:24 |
 | 35 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 |

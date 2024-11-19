@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. Cover: Wayne Shorter",
-  "num_followers": 4059648,
+  "num_followers": 4061048,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "B. G. In Hi Fi",
-        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Stompin At The Savoy",
-      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "B. G. In Hi Fi",
+        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Stompin At The Savoy",
+      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 438280,
       "name": "Song For My Father",
       "url": "https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 426800,
-      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "Tuesday Wonderland",
         "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
         "name": "On Time",
         "url": "https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 354573,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/1GZD0TZJHmdQaZsucHBmWT"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 369386,
-      "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -1419,6 +1403,22 @@
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 369386,
+      "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 449773,
-      "name": "Footprints - Remastered",
-      "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 185466,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 449773,
+      "name": "Footprints - Remastered",
+      "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
         "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 193866,
       "name": "Tea for Two",
       "url": "https://open.spotify.com/track/0Otf1ZfYNIjhqFIuJk0fsy"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+        "name": "F\u00e4bodjazz",
+        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Lars Gullin",
+          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
         }
       ],
-      "duration_ms": 440840,
-      "name": "Better Git It in Your Soul",
-      "url": "https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm"
+      "duration_ms": 338733,
+      "name": "Danny's Dream",
+      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "F\u00e4bodjazz",
-        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
       "artists": [
         {
-          "name": "Lars Gullin",
-          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         }
       ],
-      "duration_ms": 338733,
-      "name": "Danny's Dream",
-      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
+      "duration_ms": 440840,
+      "name": "Better Git It in Your Soul",
+      "url": "https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Idle Moments",
-        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 524093,
-      "name": "Django - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/4w7EnqiLksvE6rcuR8F8bn"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 403360,
       "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Idle Moments",
+        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 524093,
+      "name": "Django - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/4w7EnqiLksvE6rcuR8F8bn"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 259413,
-      "name": "For Lena And Lennie",
-      "url": "https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 164933,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/4wGYHJ2Mcvb2QvHinDVGEC"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 259413,
+      "name": "For Lena And Lennie",
+      "url": "https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
+        "name": "Everything I Play Is Funky",
+        "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 431266,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 255626,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
-        "name": "Everything I Play Is Funky",
-        "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 431266,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 503786,
-      "name": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
         "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 395560,
       "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Speak No Evil (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 503786,
+      "name": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2671,6 +2671,38 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
+        "name": "The Hub of Hubbard",
+        "url": "https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 439120,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -2695,38 +2727,6 @@
       "duration_ms": 370866,
       "name": "'Long As You Know You're Living Yours",
       "url": "https://open.spotify.com/track/5z7deaTe21B7QVPhSDouL1"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Four Brothers",
-      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
-        "name": "The Hub of Hubbard",
-        "url": "https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 439120,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 313440,
-      "name": "He's Younger Than You Are - From \"Alfie\" Score",
-      "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "The Complete Capitol Recordings Of Art Tatum",
         "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu"
       },
@@ -2815,22 +2799,6 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
-        "name": "I'm All For You (Ballad Songbook)",
-        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 347773,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
         "name": "The Charlie Parker Story",
         "url": "https://open.spotify.com/album/2jgWsNu1Nq8H8ZpPgHhYw8"
       },
@@ -2843,6 +2811,38 @@
       "duration_ms": 173733,
       "name": "Koko - Original Take 2",
       "url": "https://open.spotify.com/track/0d6m2xfXqMyEKOeRvfL7Ot"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 313440,
+      "name": "He's Younger Than You Are - From \"Alfie\" Score",
+      "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
+        "name": "I'm All For You (Ballad Songbook)",
+        "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 347773,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
     },
     {
       "added_at": "2024-07-17 11:21:34",
@@ -3099,6 +3099,22 @@
     {
       "added_at": "2024-07-17 11:21:34",
       "album": {
+        "name": "The Best Of Chick Corea",
+        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp"
+    },
+    {
+      "added_at": "2024-07-17 11:21:34",
+      "album": {
         "name": "The Swingin's Mutual (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7"
       },
@@ -3115,22 +3131,6 @@
       "duration_ms": 180200,
       "name": "The Nearness Of You - Remastered",
       "url": "https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo"
-    },
-    {
-      "added_at": "2024-07-17 11:21:34",
-      "album": {
-        "name": "The Best Of Chick Corea",
-        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp"
     },
     {
       "added_at": "2024-07-17 11:21:34",

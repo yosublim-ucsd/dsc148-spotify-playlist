@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: a\u5b50",
-  "num_followers": 59368,
+  "num_followers": 59384,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
         "name": "Pathway",
         "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 231924,
       "name": "Ethos",
       "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Dangomushi",
-        "url": "https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Dangomushi",
-      "url": "https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
         "name": "\u67d4\u8edf\u5264DOPE",
         "url": "https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "\u3075\u305f\u308a\u306e\u6620\u753b",
-        "url": "https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII"
+        "name": "Dangomushi",
+        "url": "https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
         }
       ],
-      "duration_ms": 207966,
-      "name": "\u3075\u305f\u308a\u306e\u6620\u753b",
-      "url": "https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf"
+      "duration_ms": 199930,
+      "name": "Dangomushi",
+      "url": "https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -999,6 +983,22 @@
       "duration_ms": 244416,
       "name": "Sick!!!",
       "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "\u3075\u305f\u308a\u306e\u6620\u753b",
+        "url": "https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 207966,
+      "name": "\u3075\u305f\u308a\u306e\u6620\u753b",
+      "url": "https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 164992,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
         "name": "\u590f\u3088",
         "url": "https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph"
       },
@@ -1067,50 +1051,18 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         }
       ],
-      "duration_ms": 157133,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
-        "name": "\u53cb\u9054\u3055",
-        "url": "https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP"
-      },
-      "artists": [
-        {
-          "name": "Yuma Abe",
-          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
-        }
-      ],
-      "duration_ms": 150885,
-      "name": "\u53cb\u9054\u3055",
-      "url": "https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
-        "name": "\u597d\u4eba\u7d00\u884c",
-        "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 243100,
-      "name": "\u597d\u4eba\u7d00\u884c",
-      "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
+      "duration_ms": 164992,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1131,18 +1083,34 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd"
+        "name": "\u597d\u4eba\u7d00\u884c",
+        "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
       },
       "artists": [
         {
-          "name": "ALBATROSS",
-          "url": "https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47"
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
         }
       ],
-      "duration_ms": 224864,
-      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki"
+      "duration_ms": 243100,
+      "name": "\u597d\u4eba\u7d00\u884c",
+      "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "\u53cb\u9054\u3055",
+        "url": "https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "duration_ms": 150885,
+      "name": "\u53cb\u9054\u3055",
+      "url": "https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
         "name": "Saladbowl",
         "url": "https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 209256,
       "name": "Shock!!\u4e2d\u6bd2",
       "url": "https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd"
+      },
+      "artists": [
+        {
+          "name": "ALBATROSS",
+          "url": "https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47"
+        }
+      ],
+      "duration_ms": 224864,
+      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ea\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
-        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
-      },
-      "artists": [
-        {
-          "name": "Lovely Summer Chan",
-          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
-        }
-      ],
-      "duration_ms": 436349,
-      "name": "Garden of Remembrance",
-      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
         "name": "Sorrow (feat. Mandark)",
         "url": "https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 192857,
       "name": "Sorrow (feat. Mandark)",
       "url": "https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
+        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
+      },
+      "artists": [
+        {
+          "name": "Lovely Summer Chan",
+          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
+        }
+      ],
+      "duration_ms": 436349,
+      "name": "Garden of Remembrance",
+      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
     },
     {
       "added_at": "2024-11-13 01:29:52",

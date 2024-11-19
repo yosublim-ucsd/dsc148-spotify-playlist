@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Tassia Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,831 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,102 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 21 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
 | 22 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 23 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 |
-| 24 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
-| 25 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
+| 24 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
+| 25 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
 | 26 | [Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:08 |
 | 27 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
 | 28 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
 | 46 | [KOINO MYSTIKO](https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [KOINO MYSTIKO](https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG) | 2:26 |
 | 47 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 |
-| 48 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 |
-| 49 | [If It Makes You Happy](https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 5:24 |
+| 48 | [If It Makes You Happy](https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 5:24 |
+| 49 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 |
 | 50 | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh) | 4:20 |
 
 Snapshot ID: `ZzMfugAAAACkhNmbanzh6rbThB/rBToI`

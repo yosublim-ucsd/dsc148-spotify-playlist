@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,905 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,915 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 13 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
 | 14 | [Shake That](https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90) | 2:59 |
 | 15 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 |
-| 16 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 |
+| 16 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
 | 17 | [Somebody That I Used to Know](https://open.spotify.com/track/19g33fGnzBMWNf7ILmbmuw) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Tyzn](https://open.spotify.com/artist/4RtLJ6ksxpaktS32qE6kxo) | [Somebody That I Used to Know](https://open.spotify.com/album/1BvepLFynGGKZSF1rtgTcc) | 2:42 |
-| 18 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |
+| 18 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 |
 | 19 | [Wonderful Life](https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj) | [Wonderful Life](https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd) | 2:40 |
 | 20 | [Cheri Cheri Lady](https://open.spotify.com/track/5fiFfpaMThpPDBFkOO39iy) | [KARMA](https://open.spotify.com/artist/0E0D3kAD5sz1jf2HCTIfQT), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Cheri Cheri Lady](https://open.spotify.com/album/1J2ZhftJ3i4jE9kucljwmP) | 2:24 |
 | 21 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |

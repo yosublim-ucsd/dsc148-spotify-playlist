@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
+    },
+    {
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/12Cz4pEEUkmbc7FaLJL1Pf"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -860,6 +882,28 @@
       "duration_ms": 216573,
       "name": "More Than My Hometown",
       "url": "https://open.spotify.com/track/5OELUCYgOHKFAvCERnAvfS"
+    },
+    {
+      "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251776,
+      "name": "Neon Moon (with Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
     },
     {
       "album": {

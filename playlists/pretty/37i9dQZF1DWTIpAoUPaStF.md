@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,266 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,274 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 42 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
 | 43 | [Back To The Sky \(feat\. JFDR\)](https://open.spotify.com/track/05fi8xNQnQhoJhdb6pIEmO) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:23 |
 | 44 | [Solid Air](https://open.spotify.com/track/7EDrSW40rkvj1O1l2pAcbJ) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 5:44 |
-| 45 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 |
-| 46 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
+| 45 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
+| 46 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 |
 | 47 | [ocean eyes](https://open.spotify.com/track/1DSASw2UZSNl5r9pgxc6KW) | [Fiona Floyd](https://open.spotify.com/artist/1Tp7LWhw2Ug8UgAIRN7o2I) | [ocean eyes](https://open.spotify.com/album/5ZZ3UBXTwMM1gg19stt35n) | 2:27 |
 | 48 | [Lead On, Lead On](https://open.spotify.com/track/3v1Ywbvm1Nm9D5yysUezV5) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Lead On, Lead On](https://open.spotify.com/album/1ZydMM7m88Uh4tphwEYi2E) | 3:41 |
 | 49 | [Like a Song](https://open.spotify.com/track/3lIxP6Gt1QgNFFLAqnnDXp) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Like a Song](https://open.spotify.com/album/7ME05eOFVBnMfhjf0PjzRz) | 3:04 |
-| 50 | [Basket Case](https://open.spotify.com/track/2WM7ZRdvK3YEMKzkLUtVwJ) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Basket Case](https://open.spotify.com/album/7CGhJlFFbyjsz7oRfvjOTp) | 2:49 |
+| 50 | [Criminals](https://open.spotify.com/track/3VXYFcGHEIw5ywsr5Iv2fR) | [HuskyMe](https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM) | [Criminals](https://open.spotify.com/album/3HWhIQCFFhGypEYwbmnGMb) | 5:04 |
 
 Snapshot ID: `Zo9ewwAAAAC9WBcaspPL/E24jr5BQT67`

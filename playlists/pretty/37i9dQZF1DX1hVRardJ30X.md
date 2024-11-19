@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by ELENA ROSE & Maria Becerra, Rauw Alejandro & Bad Bunny, Ela Taubert, Blessd and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,066 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,091 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

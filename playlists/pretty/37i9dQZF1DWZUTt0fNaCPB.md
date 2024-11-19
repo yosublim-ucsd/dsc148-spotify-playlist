@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,772 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,791 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 41 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 42 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
 | 43 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
-| 44 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 45 | [Bleed It Out](https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 2:44 |
+| 44 | [Bleed It Out](https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 2:44 |
+| 45 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 46 | [Rats](https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:21 |
 | 47 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 |
 | 48 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 71 | [Trouble](https://open.spotify.com/track/4xlxojOaZyOQi7P8ig1BvH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Trouble](https://open.spotify.com/album/4vNOIupUcx5xCsGgbBImRp) | 3:12 |
 | 72 | [Low Life](https://open.spotify.com/track/4yKnTwWOmQjMTF6U9sgWtY) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Low Life](https://open.spotify.com/album/3SVsxqKsdad0fd8rBbdqCN) | 4:20 |
 | 73 | [War Is Killing Us All](https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [War Is Killing Us All](https://open.spotify.com/album/2p19Bf53q3lieWDazEtHU7) | 3:38 |
-| 74 | [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 |
-| 75 | [Calling](https://open.spotify.com/track/13xXQeT3nVgdf8k2y9lCNa) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Top Contenders: The Best of Strung Out](https://open.spotify.com/album/3Lm6hA1iqn2jEilCFJOVYV) | 3:35 |
+| 74 | [Calling](https://open.spotify.com/track/13xXQeT3nVgdf8k2y9lCNa) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Top Contenders: The Best of Strung Out](https://open.spotify.com/album/3Lm6hA1iqn2jEilCFJOVYV) | 3:35 |
+| 75 | [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 |
 
 Snapshot ID: `ZxjoPQAAAAD3g/pv3+QHDA2jN8o+qjKA`

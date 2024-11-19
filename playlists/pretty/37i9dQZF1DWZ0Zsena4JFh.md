@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. St\. Vincent en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,301 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,309 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 4 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 5 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 6 | [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 |
-| 7 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 7 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 | 8 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
-| 9 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
+| 9 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 10 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
 | 11 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 12 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 |
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 27 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 28 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 29 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
-| 30 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 |
+| 30 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
 | 31 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 |
 | 32 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
-| 33 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
+| 33 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 |
 | 34 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |
 | 35 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 36 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
 | 37 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
-| 38 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
-| 39 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
-| 40 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
+| 38 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
+| 39 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 40 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 41 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
-| 42 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
-| 43 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
+| 42 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
+| 43 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
 | 44 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 45 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 46 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
-| 47 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
-| 48 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
-| 49 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
-| 50 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
+| 47 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
+| 48 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
+| 49 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
+| 50 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
 
 Snapshot ID: `ZzdcFAAAAAB/dK0IzOpFFVoGCc2dHD1P`

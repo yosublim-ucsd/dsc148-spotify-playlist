@@ -1,6 +1,6 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 194448,
+  "num_followers": 194451,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "Sin Pagar Renta",
         "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
@@ -647,6 +663,22 @@
       "duration_ms": 202443,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -671,38 +703,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+      "duration_ms": 187986,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 187986,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 230811,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 230811,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "Poco",
         "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
       },
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Ac\u00e1bame De Matar",
-      "url": "https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 200386,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
+        "name": "Te Presumo",
+        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Ac\u00e1bame De Matar",
+      "url": "https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno Y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno Y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2024-09-20 22:10:22",

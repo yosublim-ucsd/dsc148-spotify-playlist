@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "5-7",
       "url": "https://open.spotify.com/track/3IEvQ1CzszUJtTRLmmMJ2X"
@@ -4300,6 +4300,28 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+    },
+    {
+      "album": {
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+      },
+      "artists": [
+        {
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
     },
     {
       "album": {
@@ -10520,7 +10542,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 253834,
       "name": "Darling, I (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
@@ -14170,7 +14192,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 152022,
       "name": "EL \u00daNICO",
       "url": "https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7"
@@ -21314,7 +21336,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 209018,
       "name": "La Brabus",
       "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
@@ -23146,7 +23168,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 204069,
       "name": "Lib\u00e9rame",
       "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"

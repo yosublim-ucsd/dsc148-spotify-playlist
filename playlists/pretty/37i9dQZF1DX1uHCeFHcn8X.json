@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2010s. Cover: Adele",
-  "num_followers": 1280649,
+  "num_followers": 1281253,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 196077,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Love On The Brain",
-      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1183,26 +1183,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "FourFiveSeconds",
-        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 188238,
-      "name": "FourFiveSeconds",
-      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+      "duration_ms": 219080,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1227,18 +1219,26 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+        "name": "FourFiveSeconds",
+        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
+      "duration_ms": 188238,
+      "name": "FourFiveSeconds",
+      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 249933,
       "name": "Who You Love (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3255,26 +3255,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Lie To Me (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Lie To Me (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Me. I Am Mariah\u2026The Elusive Chanteuse",
         "url": "https://open.spotify.com/album/6hGRm1piHNE0Xp7I5Guesy"
       },
@@ -3291,6 +3271,26 @@
       "duration_ms": 199946,
       "name": "#Beautiful",
       "url": "https://open.spotify.com/track/1ahAuX3F6tDdNRfMdiLsv6"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Lie To Me (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/2rSrRHcfwJXxni8HczqKAT"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Lie To Me (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -4119,18 +4119,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Oceans Away",
-        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 193981,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
+      "duration_ms": 245160,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/1m5eFhE34yyYv2lkjtcKPG"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -4151,22 +4151,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/1m5eFhE34yyYv2lkjtcKPG"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Freedom Child",
         "url": "https://open.spotify.com/album/3W9NClLDhTHyRmy8ZLfoJf"
       },
@@ -4179,6 +4163,22 @@
       "duration_ms": 240826,
       "name": "Arms Open",
       "url": "https://open.spotify.com/track/3WTUNLFtzWaDwfFfZJZ9d8"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Oceans Away",
+        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
     },
     {
       "added_at": "2024-07-15 19:36:11",

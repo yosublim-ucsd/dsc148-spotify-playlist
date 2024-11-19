@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,054 likes - 125 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,146 likes - 125 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 63 | [El Fantasma del Amor](https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [Cumbias y Bachatas Vol.2](https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ) | 4:13 |
 | 64 | [No Puedo Olvidarte Cumbia Rosa](https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0), [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [No Puedo Olvidarte Cumbia Rosa](https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n) | 4:45 |
 | 65 | [El Ritmo Mamalon](https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [El Ritmo Mamalon](https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I) | 3:13 |
-| 66 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
-| 67 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
-| 68 | [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 |
-| 69 | [Por Un Rato](https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Enamoradas](https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA) | 2:57 |
-| 70 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
-| 71 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
-| 72 | [Tu y yo](https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx) | [Grupo Konfusion](https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4) | [Tu y Yo](https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q) | 4:31 |
-| 73 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
+| 66 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
+| 67 | [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 |
+| 68 | [Por Un Rato](https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Enamoradas](https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA) | 2:57 |
+| 69 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
+| 70 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
+| 71 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
+| 72 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
+| 73 | [Tu y yo](https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx) | [Grupo Konfusion](https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4) | [Tu y Yo](https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q) | 4:31 |
 | 74 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Fake Lover](https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz) | 3:24 |
 | 75 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 76 | [Noches Oscuras](https://open.spotify.com/track/2Yr4K1V5LXpSMjWpQ6FGt9) | [Grupo Yeah!](https://open.spotify.com/artist/4kssNc4REeCjtcorA7rxt7) | [Noches Oscuras](https://open.spotify.com/album/5TJ4Loi2pZaTEfIqFpRh4B) | 5:50 |

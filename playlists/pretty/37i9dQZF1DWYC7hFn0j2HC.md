@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,038 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,125 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 54 | [Cuando Sale la Luna](https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Que Te Vaya Bonito](https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6) | 3:05 |
 | 55 | [Media Vuelta](https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La Malagradecida](https://open.spotify.com/album/47G10Sm0a5KsorzrGoeLWR) | 2:38 |
 | 56 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
-| 57 | [Un Mundo Raro](https://open.spotify.com/track/6l13zG1kziZAn5LnaIqFjv) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Ella...La Que Se Fue](https://open.spotify.com/album/6nXy5pKpv1JY4WLqZczzcH) | 3:48 |
-| 58 | [Muy despacito](https://open.spotify.com/track/2kRPH2YipMzJd4BxCRuNYE) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:33 |
+| 57 | [Muy despacito](https://open.spotify.com/track/2kRPH2YipMzJd4BxCRuNYE) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:33 |
+| 58 | [Un Mundo Raro](https://open.spotify.com/track/6l13zG1kziZAn5LnaIqFjv) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Ella...La Que Se Fue](https://open.spotify.com/album/6nXy5pKpv1JY4WLqZczzcH) | 3:48 |
 | 59 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
 | 60 | [La Ley del Monte](https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:23 |
 | 61 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |

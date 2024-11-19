@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,798 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,841 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-248 songs - 14 hr 30 min
+249 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,9 +167,10 @@
 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 | 2022-06-30 |  |
 | [Older](https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:37 | 2022-06-30 | 2022-08-03 |
 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 | 2022-03-30 | 2022-07-29 |
+| [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 | 2024-08-01 |  |
 | [Other Side](https://open.spotify.com/track/20LfGhxnRtlpfaYKv0hhs2) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2PKQcwEl6dvMbu4mfz8yUF) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Paradise](https://open.spotify.com/track/792raQlbqlsC71L0djqZwU) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Paradise](https://open.spotify.com/album/3BI7cK0Z5Upgodb9UyS4RJ) | 3:18 | 2022-03-30 | 2022-06-18 |
-| [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2022-03-30 |  |
+| [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 | 2022-03-30 | 2024-11-19 |
 | [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 | 2022-06-30 |  |
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2022-09-23 | 2022-11-13 |
 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 | 2023-06-09 | 2023-10-08 |

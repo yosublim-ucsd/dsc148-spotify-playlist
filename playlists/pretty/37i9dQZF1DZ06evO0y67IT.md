@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,338 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,340 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 34 | [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 |
 | 35 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 |
 | 36 | [Tired and Alone](https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 4:05 |
-| 37 | [Photograph](https://open.spotify.com/track/6Lp2tmIuneO3w3YMlYQ0bP) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:25 |
+| 37 | [Until Her Heart Stops](https://open.spotify.com/track/3q0SifbZDLTCh3p78eXcac) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:53 |
 | 38 | [Hate](https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:43 |
-| 39 | [Somewhere In Between](https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:21 |
+| 39 | [Pet Sematary](https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:37 |
 | 40 | [Thunder in Our Hearts](https://open.spotify.com/track/4lR93dysMoS3kf8QYSBwpv) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:45 |
-| 41 | [Pet Sematary](https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:37 |
+| 41 | [Somewhere In Between](https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:21 |
 | 42 | [Gold Econoline](https://open.spotify.com/track/1N747HibtK5DZUwezC6zV9) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Gold Econoline](https://open.spotify.com/album/6KSH1Uegz02CQlhVL5uOLj) | 3:28 |
 | 43 | [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 |
 | 44 | [Holy Coast](https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:42 |
-| 45 | [Corps Of Corpses](https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:12 |
-| 46 | [Bury My Bones at Crystal Cove](https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 4:49 |
+| 45 | [Bury My Bones at Crystal Cove](https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 4:49 |
+| 46 | [Corps Of Corpses](https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:12 |
 | 47 | [So Hopelessly](https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:00 |
 | 48 | [Lucerne Valley](https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lucerne Valley](https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy) | 3:27 |
 | 49 | [Drive](https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:06 |
 | 50 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 |
 
-Snapshot ID: `ZzfggAAAAABKTOBdwcs1WwMzgS6yFTpn`
+Snapshot ID: `ZzkyAAAAAACddOCFoi38v8cHCPj8Fsta`

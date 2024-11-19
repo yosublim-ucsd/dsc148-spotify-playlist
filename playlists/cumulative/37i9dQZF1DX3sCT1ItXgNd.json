@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Kapo, Manuel Turizo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Danny Ocean, Kapo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 223690,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 226626,
       "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
       "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
@@ -4854,6 +4854,28 @@
       "duration_ms": 145919,
       "name": "JET_Set.mp3",
       "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Kh\u00e9?",
+      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
       "album": {
@@ -6908,7 +6930,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 199701,
       "name": "Mil preguntas",
       "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
@@ -7614,7 +7636,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 189781,
       "name": "no te deseo lo peor :)",
       "url": "https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0"
@@ -8220,6 +8242,28 @@
       "duration_ms": 127125,
       "name": "patio andaluz",
       "url": "https://open.spotify.com/track/11PnAfgNDIq9pKmDNG9gZI"
+    },
+    {
+      "album": {
+        "name": "Pa\u2019 Qu\u00e9 Volviste?",
+        "url": "https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192167,
+      "name": "Pa\u2019 Qu\u00e9 Volviste?",
+      "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
     },
     {
       "album": {
@@ -9091,6 +9135,28 @@
     },
     {
       "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "Recorrerte",
+      "url": "https://open.spotify.com/track/6wd1evlNUcukPO1Hip1A95"
+    },
+    {
+      "album": {
         "name": "RED FLAGS",
         "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
       },
@@ -9401,6 +9467,28 @@
     },
     {
       "album": {
+        "name": "Se Fue",
+        "url": "https://open.spotify.com/album/09nnMPXpLA4fFWdCZOFNPq"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241087,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/57ZbyAga41GuUkzjbMNDXW"
+    },
+    {
+      "album": {
         "name": "Se Pregunta La Vecina",
         "url": "https://open.spotify.com/album/0e7xhSOtgSwUo8WRufleoq"
       },
@@ -9474,7 +9562,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 129360,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/4suTBZ521uqrgLsOWwY8sg"
@@ -9518,7 +9606,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 165901,
       "name": "SEXO ES LA MODA",
       "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
@@ -11036,7 +11124,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 157725,
       "name": "UN DOMINGO TRISTE VOL. I",
       "url": "https://open.spotify.com/track/0hQyAxsrOqM4xsJRtEjEiE"

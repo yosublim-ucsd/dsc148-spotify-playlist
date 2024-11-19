@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,938 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,963 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 30 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
 | 31 | [Quinto Patio](https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 3:03 |
 | 32 | [El Boogie de la Guitarra](https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 3:01 |
-| 33 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
-| 34 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
+| 33 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
+| 34 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
 | 35 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
 | 36 | [Perfídia](https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 2:53 |
 | 37 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 41 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
 | 42 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 | 43 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
-| 44 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
-| 45 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
+| 44 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
+| 45 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
 | 46 | ["Siboney"](https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1) | [Ernesto Lecuona](https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Karl\-Heinz Loges](https://open.spotify.com/artist/1VTpMc0kGScmCzqyur5D6c) | [Plácido Domingo \- Be My Love](https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW) | 3:37 |
 | 47 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
 | 48 | [Violetas Imperiales](https://open.spotify.com/track/78AoGsUdZx3a4ymoSu465r) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Exitos](https://open.spotify.com/album/25ZE2WbBSvLAJTxRNZqKHY) | 3:31 |

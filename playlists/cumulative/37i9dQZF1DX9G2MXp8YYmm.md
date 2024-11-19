@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Ceren Gündoğdu
 
-161 songs - 8 hr 1 min
+162 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 |  |
 | [Bedel](https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bedel](https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF) | 2:37 | 2024-07-04 | 2024-08-23 |
 | [Ben Böyle](https://open.spotify.com/track/4QCav8A7C8fOrX2gQNShuh) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ben Böyle](https://open.spotify.com/album/55EPPWTtxqRsqbyD7zkyng) | 2:10 | 2024-09-12 | 2024-10-11 |
+| [Ben Değilim](https://open.spotify.com/track/4Fcoc1T0sMSATaxoidF4ei) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Değilim](https://open.spotify.com/album/7sJGFksC9dYJlNG2wELOjt) | 3:42 | 2024-11-14 |  |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-06-27 |  |
 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 | 2024-06-27 |  |
 | [Beni Ancak](https://open.spotify.com/track/286BeRk7I8tkFQv8uJNie9) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 3:45 | 2024-11-14 |  |
@@ -86,7 +87,7 @@
 | [İçimde Sen](https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [İçimde Sen](https://open.spotify.com/album/48lOZljjxbF9IGkWpaU1eK) | 3:33 | 2024-06-27 | 2024-07-04 |
 | [Kafam İyi Esiyor](https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp) | [Bora Duran](https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI) | [Kafam İyi Esiyor](https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi) | 2:46 | 2024-08-15 | 2024-09-26 |
 | [Kafam Leyla](https://open.spotify.com/track/7MN4Igk2OkMaR2FbBUKEpa) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Kafam Leyla](https://open.spotify.com/album/6ZDZObHRFNHfMbT4x8lcjw) | 2:48 | 2024-09-26 |  |
-| [Kalbim Ağlama](https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Kalbim Ağlama](https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H) | 2:10 | 2024-06-27 |  |
+| [Kalbim Ağlama](https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Kalbim Ağlama](https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H) | 2:10 | 2024-06-27 | 2024-11-19 |
 | [Kalbimde Dikenli Teller](https://open.spotify.com/track/5JsV7S997H4gqUZJ7U0yow) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [Kalbimde Dikenli Teller](https://open.spotify.com/album/25ETW3eOPgdB6NypuzOpeX) | 4:17 | 2024-11-14 |  |
 | [Kapına Dayandım](https://open.spotify.com/track/0ba1gp7kIBwvcHPwKRGVe5) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Kapına Dayandım](https://open.spotify.com/album/6rrafkaUVL19kzgfRSw4VB) | 2:45 | 2024-07-25 | 2024-08-02 |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-06-27 | 2024-07-05 |

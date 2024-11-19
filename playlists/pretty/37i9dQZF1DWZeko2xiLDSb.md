@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,439 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,435 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 64 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 |
 | 65 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 |
 | 66 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
-| 67 | [Wish on an Eyelash](https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 0:58 |
-| 68 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
+| 67 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
+| 68 | [Wish on an Eyelash](https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 0:58 |
 | 69 | [Beige](https://open.spotify.com/track/5bs5GopDitBx9xjoHHRDoo) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0rwRaoJxFBwrVzdGFMXYQ8) | 3:24 |
 | 70 | [Fuzzybrain](https://open.spotify.com/track/5sVXCez77vrBgDoeJKfv4U) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:39 |
 | 71 | [Aglow](https://open.spotify.com/track/5YICiSTdTX0y9wwA7CuNYh) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Aglow](https://open.spotify.com/album/4gYkP020jxh3sMb2l3ccj1) | 2:47 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 82 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
 | 83 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
 | 84 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
-| 85 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 |
-| 86 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 85 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 86 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 |
 | 87 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
-| 88 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
-| 89 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
+| 88 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
+| 89 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
 | 90 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 91 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
 | 92 | [Honey](https://open.spotify.com/track/6RVhSOj4c0drAWKyoHemQS) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Honey](https://open.spotify.com/album/692s2gPrIiqJfZbg3yMyDu) | 3:58 |

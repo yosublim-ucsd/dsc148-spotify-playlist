@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,915 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,020 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 12 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 |
 | 13 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
 | 14 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 |
-| 15 | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 |
-| 16 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
+| 15 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
+| 16 | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 |
 | 17 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 18 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 19 | [Can't Get Enough](https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Down Bad \(feat\. JID, Bas, J\. Cole, EARTHGANG & Young Nudy\)](https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 2:49 |
 | 50 | [Ville Mentality](https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:14 |
 
-Snapshot ID: `ZzfggAAAAADy28xMuzNcuqsGepCSHuEM`
+Snapshot ID: `ZzkyAAAAAADX6F2pMaW1+SKdZmRj2gjG`

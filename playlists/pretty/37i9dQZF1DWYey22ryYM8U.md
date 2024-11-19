@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Las más pegadas\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,936 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,926 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 23 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
 | 24 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
 | 25 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 |
-| 26 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
-| 27 | [Solo Conmigo](https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:14 |
+| 26 | [Solo Conmigo](https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:14 |
+| 27 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
 | 28 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 |
 | 29 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 30 | [Bachata Rosa](https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:17 |

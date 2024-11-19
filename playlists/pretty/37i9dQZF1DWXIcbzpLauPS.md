@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > brutality and technicality collide\. fresh metalcore awaits\. Cover: Kublai Khan TX
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,064 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,112 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 14 | [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 |
 | 15 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 3:56 |
 | 16 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 |
-| 17 | [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 |
-| 18 | [Dystopia](https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Dystopia](https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH) | 4:37 |
+| 17 | [Dystopia](https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Dystopia](https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH) | 4:37 |
+| 18 | [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 |
 | 19 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 |
 | 20 | [Spare Me](https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 3](https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5) | 3:37 |
 | 21 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 37 | [FiftyFive](https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [FiftyFive](https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K) | 3:24 |
 | 38 | [Exhumed](https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Exhumed](https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15) | 3:54 |
 | 39 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 |
-| 40 | [Pittsburgh \- Redux](https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let The Ocean Take Me \(Redux\)](https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm) | 3:59 |
-| 41 | [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 |
+| 40 | [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 |
+| 41 | [Pittsburgh \- Redux](https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let The Ocean Take Me \(Redux\)](https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm) | 3:59 |
 | 42 | [Infection](https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Infection](https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF) | 2:47 |
 | 43 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 |
 | 44 | [Mana God](https://open.spotify.com/track/5dXZHtpvqrdJl4bhHHsDty) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Mana God](https://open.spotify.com/album/53yljPs8SPVBWJoqPTvje4) | 3:40 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 69 | [Made For Love](https://open.spotify.com/track/7sdGjtqEsJ7qYJAbztYdWi) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Made For Love](https://open.spotify.com/album/4e4eup3w1C6oG01P6hjAAg) | 3:34 |
 | 70 | [The Medicine](https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Leap of Death](https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6) | 4:43 |
 | 71 | [FLY AWAY](https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [FLY AWAY](https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd) | 2:41 |
-| 72 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 |
-| 73 | [Sacrifice Me](https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Sacrifice Me](https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN) | 3:58 |
+| 72 | [Sacrifice Me](https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Sacrifice Me](https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN) | 3:58 |
+| 73 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 |
 | 74 | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 |
 | 75 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 |
 | 76 | [Mistake](https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw) | [Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Mistake](https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW) | 3:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 97 | [Bloom](https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Bloom](https://open.spotify.com/album/0DhnBougYQz6wzMIyxL52g) | 3:25 |
 | 98 | [Monster](https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY) | [Take The Name](https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf) | [Monster](https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX) | 3:37 |
 | 99 | [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 |
-| 100 | [New Devil](https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Dickie Allen](https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E) | [New Devil](https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk) | 2:19 |
+| 100 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 |
 
 Snapshot ID: `Zy5XHgAAAAD430L7gbfGr1O2CiFJNP59`

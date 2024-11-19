@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Natasha Noorani
 
-104 songs - 5 hr 43 min
+106 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-07-31 |  |
 | [BETTER DAYS](https://open.spotify.com/track/7ysTYZIjZjI2aRGIZV4h24) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [BETTER DAYS](https://open.spotify.com/album/0Px9Hx8lsZAK42xU2Tx3qw) | 3:01 | 2024-02-23 |  |
 | [Bhaagoon](https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Sinnan Fazwani](https://open.spotify.com/artist/3gAgVxm4l9CwpWtTI0NF52) | [Bhaagoon](https://open.spotify.com/album/3vPIQjEt5lDTSgS6vRTFuV) | 3:06 | 2024-01-17 | 2024-09-10 |
+| [Bolo Unhein](https://open.spotify.com/track/5rmQQPdVfk4fZx99aqJeJe) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [CLUB SANDWICH](https://open.spotify.com/album/430Af0wtsNi3smXvzdvqgV) | 3:03 | 2024-11-18 |  |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-17 |  |
 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 | 2023-07-31 |  |
 | [Chashme Badoor](https://open.spotify.com/track/05dKfHUSODo2y9aF8QEltf) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [Chashme Badoor](https://open.spotify.com/album/10s72shVzavpDIKRvgyreQ) | 2:27 | 2023-09-03 |  |
@@ -73,7 +74,8 @@
 | [Mukhtasir Baatein](https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Mukhtasir Baatein](https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo) | 2:42 | 2023-07-31 | 2024-01-06 |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-07-31 |  |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2024-05-13 |  |
-| [Nehr](https://open.spotify.com/track/01fLCgZV9M3c6tzVGfOmKk) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Khyber13](https://open.spotify.com/artist/1KefUu2M5QS6jG0XQ8NtiZ) | [Nehr](https://open.spotify.com/album/0cfW2WzBbaLZrcPreok1I8) | 2:49 | 2024-10-07 |  |
+| [Nasha](https://open.spotify.com/track/2hxa69crD7YPyl8oGL0LV1) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [CLUB SANDWICH](https://open.spotify.com/album/430Af0wtsNi3smXvzdvqgV) | 3:12 | 2024-11-18 |  |
+| [Nehr](https://open.spotify.com/track/01fLCgZV9M3c6tzVGfOmKk) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Khyber13](https://open.spotify.com/artist/1KefUu2M5QS6jG0XQ8NtiZ) | [Nehr](https://open.spotify.com/album/0cfW2WzBbaLZrcPreok1I8) | 2:49 | 2024-10-07 | 2024-11-19 |
 | [Nishana](https://open.spotify.com/track/5yyS3rLURpzQBHZ5yIZQIU) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:31 | 2023-11-02 | 2024-09-10 |
 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 | 2024-07-22 |  |
 | [OMG](https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [OMG](https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87) | 3:12 | 2023-07-31 |  |

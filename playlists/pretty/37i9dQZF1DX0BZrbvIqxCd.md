@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,146 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,135 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 63 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 |
 | 64 | [i luv that u hate me](https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [i luv that u hate me](https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65) | 3:41 |
 | 65 | [Serotonin](https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Steady Glow](https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3) | 3:30 |
-| 66 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
-| 67 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
+| 66 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
+| 67 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 | 68 | [Worries](https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Worries](https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI) | 2:23 |
 | 69 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
-| 70 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
+| 70 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 |
 | 71 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 |
-| 72 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 |
-| 73 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
-| 74 | [Hit Like A Girl](https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Hit Like A Girl](https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0) | 3:59 |
+| 72 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
+| 73 | [Hit Like A Girl](https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Hit Like A Girl](https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0) | 3:59 |
+| 74 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 75 | [Out of It](https://open.spotify.com/track/73QyfpApOMk3fApexIedBR) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Out of It](https://open.spotify.com/album/2qDKuucfjxGHeCYmTCOeY8) | 2:41 |
 | 76 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 | 77 | [HOLIDAY](https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:52 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 83 | [I WANNA SKATE](https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [INTERNATIONALLY UNKNOWN](https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd) | 2:14 |
 | 84 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
 | 85 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
-| 86 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
-| 87 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
+| 86 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
+| 87 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
 | 88 | [Zero Remorse](https://open.spotify.com/track/3moomsVlUVM1oUEE5Wslsg) | [The Bombpops](https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke) | [Death in Venice Beach](https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p) | 2:35 |
 | 89 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
 | 90 | [Stealing Light](https://open.spotify.com/track/6VQbsmCXyrj3qNG00CGORa) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Railer](https://open.spotify.com/album/5K0mQbB88KPh6eoTJUcbAp) | 2:35 |

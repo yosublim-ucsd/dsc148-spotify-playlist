@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1117511,
+  "num_followers": 1117640,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dance Floor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 176466,
-      "name": "Campus",
-      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
       "artists": [
         {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
+      "duration_ms": 176466,
+      "name": "Campus",
+      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 287506,
       "name": "Yoshimi Battles the Pink Robots, Pt. 1",
       "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2024-08-15 21:23:27",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-15 21:23:27",
       "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
-    },
-    {
-      "added_at": "2024-08-15 21:23:27",
-      "album": {
         "name": "Grapes Upon the Vine",
         "url": "https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 246500,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
+    },
+    {
+      "added_at": "2024-08-15 21:23:27",
+      "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2024-08-15 21:23:27",

@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: SELMI",
-  "num_followers": 33716,
+  "num_followers": 33719,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Piccolo Tornado",
-        "url": "https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Toscano",
-          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Piccolo Tornado",
-      "url": "https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Posto Nuovo",
         "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 343138,
       "name": "Posto Nuovo",
       "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Piccolo Tornado",
+        "url": "https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Toscano",
+          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Piccolo Tornado",
+      "url": "https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Ondeggiando",
-        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
-      },
-      "artists": [
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
-        }
-      ],
-      "duration_ms": 154046,
-      "name": "Ondeggiando",
-      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Eroi",
         "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 208487,
       "name": "Eroi",
       "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Ondeggiando",
+        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "duration_ms": 154046,
+      "name": "Ondeggiando",
+      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -643,38 +643,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": ") ) ) echo ( ( ( (",
-        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
-      },
-      "artists": [
-        {
-          "name": "Memento",
-          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
-        }
-      ],
-      "duration_ms": 127049,
-      "name": "( ARIA )",
-      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "206",
-        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
-      },
-      "artists": [
-        {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
-        }
-      ],
-      "duration_ms": 170323,
-      "name": "206",
-      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "lecosepeggiori",
         "url": "https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn"
       },
@@ -711,6 +679,38 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": ") ) ) echo ( ( ( (",
+        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
+      },
+      "artists": [
+        {
+          "name": "Memento",
+          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
+        }
+      ],
+      "duration_ms": 127049,
+      "name": "( ARIA )",
+      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "206",
+        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "duration_ms": 170323,
+      "name": "206",
+      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "Pennette alla vodka",
         "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 215075,
       "name": "Canzone poco originale sulla solitudine",
       "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "Il contrario",
+        "url": "https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq"
+      },
+      "artists": [
+        {
+          "name": "Anna Carol",
+          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Il contrario",
+      "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -775,6 +791,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "Le nonne e le chiese",
+        "url": "https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P"
+      },
+      "artists": [
+        {
+          "name": "dimaggio",
+          "url": "https://open.spotify.com/artist/1dSY19tr0sfPJrNha6gt3l"
+        }
+      ],
+      "duration_ms": 262286,
+      "name": "Le nonne e le chiese",
+      "url": "https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "Cosa Non Va?",
         "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
       },
@@ -791,18 +823,18 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Le nonne e le chiese",
-        "url": "https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P"
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
       },
       "artists": [
         {
-          "name": "dimaggio",
-          "url": "https://open.spotify.com/artist/1dSY19tr0sfPJrNha6gt3l"
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
         }
       ],
-      "duration_ms": 262286,
-      "name": "Le nonne e le chiese",
-      "url": "https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH"
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -839,6 +871,22 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "Sette di Cuori",
+        "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
+      },
+      "artists": [
+        {
+          "name": "CACTUS",
+          "url": "https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Siviglia",
+      "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "Quel che eravamo",
         "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
       },
@@ -855,22 +903,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
-      },
-      "artists": [
-        {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "GRANDINE",
         "url": "https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 162000,
       "name": "GRANDINE",
       "url": "https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "Sette di Cuori",
-        "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
-      },
-      "artists": [
-        {
-          "name": "CACTUS",
-          "url": "https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Siviglia",
-      "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -935,6 +951,30 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
+        "name": "BELLA BALLA",
+        "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
+      },
+      "artists": [
+        {
+          "name": "Questo e Quello",
+          "url": "https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI"
+        },
+        {
+          "name": "Francesco Mannella",
+          "url": "https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7"
+        },
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW"
+        }
+      ],
+      "duration_ms": 176596,
+      "name": "BELLA BALLA",
+      "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
         "name": "CALICE",
         "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
       },
@@ -947,22 +987,6 @@
       "duration_ms": 171176,
       "name": "CALICE",
       "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
-        "name": "Tribale",
-        "url": "https://open.spotify.com/album/6cVecPpW14mhrqD8YywRRL"
-      },
-      "artists": [
-        {
-          "name": "DEN",
-          "url": "https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs"
-        }
-      ],
-      "duration_ms": 164139,
-      "name": "Tribale",
-      "url": "https://open.spotify.com/track/2tbNCOfkHmKhCoz8WuqBBO"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -983,18 +1007,18 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Il contrario",
-        "url": "https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq"
+        "name": "Tribale",
+        "url": "https://open.spotify.com/album/6cVecPpW14mhrqD8YywRRL"
       },
       "artists": [
         {
-          "name": "Anna Carol",
-          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
+          "name": "DEN",
+          "url": "https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs"
         }
       ],
-      "duration_ms": 174905,
-      "name": "Il contrario",
-      "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
+      "duration_ms": 164139,
+      "name": "Tribale",
+      "url": "https://open.spotify.com/track/2tbNCOfkHmKhCoz8WuqBBO"
     },
     {
       "added_at": "2024-11-14 23:01:00",
@@ -1047,30 +1071,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "BELLA BALLA",
-        "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
-      },
-      "artists": [
-        {
-          "name": "Questo e Quello",
-          "url": "https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI"
-        },
-        {
-          "name": "Francesco Mannella",
-          "url": "https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7"
-        },
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW"
-        }
-      ],
-      "duration_ms": 176596,
-      "name": "BELLA BALLA",
-      "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "catramen",
         "url": "https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "ALICE+",
-        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "ALICE+",
-      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
-    },
-    {
-      "added_at": "2024-11-14 23:01:00",
-      "album": {
         "name": "Se crolla il mondo poi ti salvo io",
         "url": "https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma"
       },
@@ -1151,18 +1135,34 @@
     {
       "added_at": "2024-11-14 23:01:00",
       "album": {
-        "name": "Miele di Luna",
-        "url": "https://open.spotify.com/album/2Y0os7GZ1raFSOlJmmhg6H"
+        "name": "Canterino",
+        "url": "https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk"
       },
       "artists": [
         {
-          "name": "Modivari",
-          "url": "https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41"
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
         }
       ],
-      "duration_ms": 216993,
-      "name": "Miele di Luna",
-      "url": "https://open.spotify.com/track/2A3q8rufFFgqr0GnLDpAl8"
+      "duration_ms": 164444,
+      "name": "Canterino",
+      "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
+    },
+    {
+      "added_at": "2024-11-14 23:01:00",
+      "album": {
+        "name": "ALICE+",
+        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "ALICE+",
+      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
     }
   ],
   "unique_name": "Scuola Indie",

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33274,
+  "num_followers": 33277,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADcWlvvUrC7s/X+kMXiFrSd",
+  "snapshot_id": "ZzkyAAAAAAB4Ag+cc/td19fpZfDK0GtN",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 170969,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/5H3xJrAEaqXlcwwMGg0rqd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -855,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
       "artists": [
         {
@@ -864,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 172581,
-      "name": "Nothin",
-      "url": "https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ"
+      "duration_ms": 170969,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5H3xJrAEaqXlcwwMGg0rqd"
     },
     {
       "added_at": null,
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
       "artists": [
         {
@@ -896,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 144034,
-      "name": "Splat",
-      "url": "https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x"
+      "duration_ms": 172581,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ"
     },
     {
       "added_at": null,
@@ -919,6 +903,22 @@
       "duration_ms": 127406,
       "name": "Vegeta",
       "url": "https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 144034,
+      "name": "Splat",
+      "url": "https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44502,
+  "num_followers": 44509,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAGPVSEuSf4/4kiAHMdwy6g",
+  "snapshot_id": "ZzkyAAAAAAC5ZRLdMoRlkANU3JqBAwlM",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Rey, Mi Santo",
-        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Mi Rey, Mi Santo",
-      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
     },
     {
       "added_at": null,
@@ -307,22 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordado a Mano",
-        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+        "name": "Mi Rey, Mi Santo",
+        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
         },
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
+      "duration_ms": 164400,
+      "name": "Mi Rey, Mi Santo",
+      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Te Llevaste - Original mix",
-      "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para No Extra\u00f1arte Tanto",
         "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 233536,
       "name": "Para No Extra\u00f1arte Tanto",
       "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Te Llevaste - Original mix",
+      "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Capullo Y Sorullo",
+      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 228436,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 281440,
-      "name": "Capullo Y Sorullo",
-      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
     },
     {
       "added_at": null,

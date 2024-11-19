@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zale\u015b",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover:  <a href=\"spotify:artist:07EyVrrbqIAHNLw9FEnQUs\">Lotta</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 136500,
       "name": "A\u017c tyle",
       "url": "https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 203128,
       "name": "Bez",
       "url": "https://open.spotify.com/track/6w3REoiYbuW9QxpRBJqnTt"
@@ -366,6 +366,24 @@
       "duration_ms": 193552,
       "name": "BIKINI GIRLIE",
       "url": "https://open.spotify.com/track/1c7I2V9oL4JdpZN514pGMo"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176521,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X"
     },
     {
       "album": {
@@ -732,6 +750,24 @@
       "duration_ms": 188936,
       "name": "Diament",
       "url": "https://open.spotify.com/track/4snpPHFGYvqvAywbtGTk61"
+    },
+    {
+      "album": {
+        "name": "diament",
+        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203434,
+      "name": "diament",
+      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
     },
     {
       "album": {
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 153750,
       "name": "hyperstar",
       "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
@@ -1376,7 +1412,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 155213,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
@@ -1434,6 +1470,28 @@
       "duration_ms": 128332,
       "name": "Klub Z\u0142amanych Serc",
       "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
+    },
+    {
+      "album": {
+        "name": "KOI-4427.01",
+        "url": "https://open.spotify.com/album/1iJ8EaRAE5jmHjJOZuDzh0"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        },
+        {
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207140,
+      "name": "KOI",
+      "url": "https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE"
     },
     {
       "album": {
@@ -1597,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s All About The Changes",
+        "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160002,
+      "name": "M&M\u2019s",
+      "url": "https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0"
+    },
+    {
+      "album": {
         "name": "Mam Ju\u017c Do\u015b\u0107",
         "url": "https://open.spotify.com/album/5ppmozRB4JkpmsEu5KHMVk"
       },
@@ -1674,7 +1750,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 211000,
       "name": "Mam kole\u017cank\u0119",
       "url": "https://open.spotify.com/track/0OM0RY3tiPFLXf3xQvg1Ln"
@@ -1888,7 +1964,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 180091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE"
@@ -2022,6 +2098,24 @@
       "duration_ms": 162353,
       "name": "MY I ONI",
       "url": "https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc"
+    },
+    {
+      "album": {
+        "name": "My\u015bl\u0119 o Tobie przed snem",
+        "url": "https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "My\u015bl\u0119 o Tobie przed snem",
+      "url": "https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X"
     },
     {
       "album": {
@@ -2174,7 +2268,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 162000,
       "name": "Nie m\u00f3w",
       "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
@@ -2268,6 +2362,24 @@
       "duration_ms": 174933,
       "name": "Niepewno\u015b\u0107",
       "url": "https://open.spotify.com/track/7rMtFn0tDxMB0WqN2DHKTd"
+    },
+    {
+      "album": {
+        "name": "girl's notes",
+        "url": "https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140771,
+      "name": "No Happy Ending",
+      "url": "https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT"
     },
     {
       "album": {
@@ -2452,7 +2564,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 283809,
       "name": "Outro",
       "url": "https://open.spotify.com/track/3ys9zEe2Pru33ihkvskHJ5"
@@ -2702,7 +2814,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 196573,
       "name": "przestrze\u0144",
       "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
@@ -3090,7 +3202,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 193846,
       "name": "Si\u0119 poznali",
       "url": "https://open.spotify.com/track/55vYFMLlZfoX7pPXT0Hzza"
@@ -3242,10 +3354,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 211685,
       "name": "S\u0142oneczniki",
       "url": "https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE"
+    },
+    {
+      "album": {
+        "name": "Na Dwoje Lampa \u015awieci\u0142a",
+        "url": "https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Taki plan",
+      "url": "https://open.spotify.com/track/11bS9b18NOz23W3Vwj6B9M"
     },
     {
       "album": {
@@ -3357,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Tortury",
+        "url": "https://open.spotify.com/album/4sZgeQIX8gM4DT2vJUxrPp"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179647,
+      "name": "Tortury",
+      "url": "https://open.spotify.com/track/171JR2rZMLiIALNAKOWcSu"
+    },
+    {
+      "album": {
         "name": "Trucizna",
         "url": "https://open.spotify.com/album/4RukUlawLMKeSlpdGvP0pE"
       },
@@ -3372,6 +3520,24 @@
       "duration_ms": 188653,
       "name": "Trucizna",
       "url": "https://open.spotify.com/track/55PNdqSS0ud4Kc80aswVsw"
+    },
+    {
+      "album": {
+        "name": "Tu (chcia\u0142bym wr\u00f3ci\u0107)",
+        "url": "https://open.spotify.com/album/0UljJW6XBDXqksj3hAfw2g"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238081,
+      "name": "Tu (chcia\u0142bym wr\u00f3ci\u0107)",
+      "url": "https://open.spotify.com/track/1gdxDK4TqduqX7TsMI2gGG"
     },
     {
       "album": {
@@ -3404,7 +3570,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 191666,
       "name": "Upadki i wzloty",
       "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
@@ -3592,6 +3758,32 @@
       "duration_ms": 152307,
       "name": "Za dobrze by zapomnie\u0107",
       "url": "https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD"
+    },
+    {
+      "album": {
+        "name": "Czas si\u0119 ba\u0107!",
+        "url": "https://open.spotify.com/album/0w9EUriZX10WQqy70TZ13F"
+      },
+      "artists": [
+        {
+          "name": "Ania Leon",
+          "url": "https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu"
+        },
+        {
+          "name": "Arek Kopera",
+          "url": "https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt"
+        },
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Zabij ze mn\u0105 czas",
+      "url": "https://open.spotify.com/track/2kqVXQ0xLYvkLUqgbBObHu"
     },
     {
       "album": {

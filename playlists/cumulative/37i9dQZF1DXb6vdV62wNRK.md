@@ -4,7 +4,7 @@
 
 > Siento que arranco la carretera...
 
-191 songs - 9 hr 43 min
+192 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 | 2023-06-19 |  |
 | [La Hummer Y El Camaro 2 "La Revancha"](https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl) | [Y Ahora Resulta](https://open.spotify.com/album/1a5ieU77NxfKsZKYZuZno9) | 3:29 | 2023-06-19 |  |
 | [La Innombrable](https://open.spotify.com/track/1gYC5iV1JzCnQi37yz49hi) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [La Innombrable](https://open.spotify.com/album/5oF0z7wL0zyKh2ua6ix3h9) | 3:17 | 2024-10-23 |  |
+| [La Raza de Michoacán](https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [La Raza de Michoacán](https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN) | 2:35 | 2024-11-15 |  |
 | [La Raza Michoacana](https://open.spotify.com/track/4zrfDtVonK8tesOsYIhMAp) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Historia De Los Exitos \(Mexico\)](https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91) | 2:43 | 2024-01-15 |  |
 | [La Raza Michoacana](https://open.spotify.com/track/7bTIHRRwHGOhWN9ggFxxT9) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero](https://open.spotify.com/album/0vb2KGJa1hHJVli2xq5lSL) | 2:45 | 2023-06-19 | 2024-04-19 |
 | [La Raza Michoacana \- Banda](https://open.spotify.com/track/5E3OwMsYmS9HFZaL4Qx12j) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [Sus Grandes Exitos \- Con Banda](https://open.spotify.com/album/063MoOtxMsfp8QhCcD2OZM) | 2:47 | 2023-06-19 | 2023-09-15 |
@@ -172,7 +173,7 @@
 | [Se Aceleró La Plebada](https://open.spotify.com/track/1UuhfKZQIUV7LuGNJspH4z) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:19 | 2023-06-19 |  |
 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 | 2023-06-19 |  |
 | [Se Les Peló Baltazar](https://open.spotify.com/track/1SptnhRor0JBN6y71KWCrW) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Se Les Peló Baltazar, Vol 2](https://open.spotify.com/album/2XRnvXmXyXUSKsxqJaDs8g) | 2:36 | 2023-06-19 |  |
-| [Se Me Esta Antojando](https://open.spotify.com/track/2NwTwxmMpM3wBNexFaZ49w) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf), [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Se Me Esta Antojando](https://open.spotify.com/album/2OUbYQ9LDdEArruCFkmFdG) | 2:33 | 2024-10-23 |  |
+| [Se Me Esta Antojando](https://open.spotify.com/track/2NwTwxmMpM3wBNexFaZ49w) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf), [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Se Me Esta Antojando](https://open.spotify.com/album/2OUbYQ9LDdEArruCFkmFdG) | 2:33 | 2024-10-23 | 2024-11-19 |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2023-06-19 |  |
 | [Sin Querer Queriendo](https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Sin Querer Queriendo](https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O) | 3:26 | 2024-11-15 |  |
 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 | 2024-01-15 | 2024-11-16 |

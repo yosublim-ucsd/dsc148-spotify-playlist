@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1503905,
+  "num_followers": 1503883,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Paradise State of Mind",
-        "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 189099,
-      "name": "See You In The Afterlife",
-      "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 220584,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Paradise State of Mind",
+        "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 189099,
+      "name": "See You In The Afterlife",
+      "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Sorry I'm Late, I Didn't Want To Come",
-        "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
+        "name": "Grief Chapter",
+        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 199760,
-      "name": "Sorry I'm Late, I Didn't Want To Come",
-      "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
+      "duration_ms": 151027,
+      "name": "Explode!",
+      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Grief Chapter",
-        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
+        "name": "Sorry I'm Late, I Didn't Want To Come",
+        "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 151027,
-      "name": "Explode!",
-      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
+      "duration_ms": 199760,
+      "name": "Sorry I'm Late, I Didn't Want To Come",
+      "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 186306,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "stay late",
-        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "stay late",
-      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "stay late",
+        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 173283,
+      "name": "stay late",
+      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "Lucky For You",
+        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "I Don't Wanna Party Anymore (Feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 111653,
       "name": "HEAD",
       "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Zombie (Wild Coming Out)",
-        "url": "https://open.spotify.com/album/4vGlG1585GRyZeInnoq7UE"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 276076,
-      "name": "Zombie (Wild Coming Out)",
-      "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Zombie (Wild Coming Out)",
+        "url": "https://open.spotify.com/album/4vGlG1585GRyZeInnoq7UE"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 276076,
+      "name": "Zombie (Wild Coming Out)",
+      "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "Ground Control",
         "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
       },
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+        "name": "run away girl",
+        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
         }
       ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+      "duration_ms": 230552,
+      "name": "run away girl",
+      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -2011,22 +2027,6 @@
       "duration_ms": 134647,
       "name": "Hold You (Responsible)",
       "url": "https://open.spotify.com/track/5SMydTMtNUn7h1hKNtclV1"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "run away girl",
-        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 230552,
-      "name": "run away girl",
-      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
     },
     {
       "added_at": "2024-10-18 18:01:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Yoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,480 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,491 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

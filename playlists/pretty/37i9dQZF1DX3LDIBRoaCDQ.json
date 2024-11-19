@@ -1,45 +1,13 @@
 {
-  "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1594178,
+  "description": "Classic songs that built the foundations of punk. ",
+  "num_followers": 1594268,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZltgtAAAAADI6g5SG4iWbzIOfwOOSqi6",
+  "snapshot_id": "Zzuu4AAAAABeT4jZuH8N6s97Z/RkMC0w",
   "tracks": [
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
-    },
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
@@ -52,9 +20,41 @@
           "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 200080,
-      "name": "God Save the Queen",
-      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+      "duration_ms": 211973,
+      "name": "Anarchy in the U.K.",
+      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Ramones (Expanded)",
+        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Blitzkrieg Bop - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -75,18 +75,98 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Rhino Hi-Five: Ramones",
-        "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 150333,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5qwqMAvWEPdUkprxmfceir"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Happy House",
+      "url": "https://open.spotify.com/track/0oU1wL8FqgKwTPa50nACdd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/4zR9SJXjzity4diWzcudYx"
+      },
+      "artists": [
+        {
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Neat Neat Neat",
+      "url": "https://open.spotify.com/track/5GXPPOmtympg9ul3hNQqW4"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "One Way Or Another",
+      "url": "https://open.spotify.com/track/2utvK2CuAEXbUnPpV9ataH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Blister in the Sun - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -111,22 +191,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Suicidal Tendencies",
         "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
       },
@@ -139,6 +203,38 @@
       "duration_ms": 229960,
       "name": "Institutionalized",
       "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered 1989",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -187,38 +283,6 @@
       "duration_ms": 113240,
       "name": "Bloodstains - Original Version",
       "url": "https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered 1989",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -275,6 +339,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -303,22 +383,6 @@
       "duration_ms": 205173,
       "name": "Redondo Beach",
       "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Anarchy in the U.K.",
-      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -367,6 +431,22 @@
       "duration_ms": 104360,
       "name": "Lexicon Devil",
       "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "God Save the Queen",
+      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,22 +611,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -563,6 +627,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -575,22 +655,6 @@
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Atomic/Atomix",
-        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "One Way Or Another",
-      "url": "https://open.spotify.com/track/2utvK2CuAEXbUnPpV9ataH"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -659,38 +723,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120360,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -719,6 +751,22 @@
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 120360,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -979,6 +1027,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Big Lizard In My Back Yard",
         "url": "https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93"
       },
@@ -1023,22 +1087,6 @@
       "duration_ms": 166533,
       "name": "Riot",
       "url": "https://open.spotify.com/track/7G3kh6Vtoc46aTS5GztTMD"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1187,54 +1235,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Blister in the Sun - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Ramones (Expanded)",
-        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Blitzkrieg Bop - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "This Year's Model",
         "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 85866,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Wild in the Streets",
         "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
       },
@@ -1331,18 +1347,66 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 85866,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Rhino Hi-Five: Ramones",
+        "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1379,34 +1443,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+        "name": "Peace Thru Vandalism (Re-Mastered)",
+        "url": "https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "The Vandals",
+          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
         }
       ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+      "duration_ms": 114133,
+      "name": "Anarchy Burger (Hold The Government)",
+      "url": "https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo"
     },
     {
       "added_at": "2024-01-11 00:51:37",
@@ -1443,22 +1491,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/5qwqMAvWEPdUkprxmfceir"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Happy House",
-      "url": "https://open.spotify.com/track/0oU1wL8FqgKwTPa50nACdd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
@@ -1487,6 +1519,22 @@
       "duration_ms": 157360,
       "name": "Mannequin - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Scream",
+        "url": "https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Hong Kong Garden",
+      "url": "https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1539,22 +1587,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Scream",
-        "url": "https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Hong Kong Garden",
-      "url": "https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Germ Free Adolescents: The Anthology",
         "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
       },
@@ -1583,38 +1615,6 @@
       "duration_ms": 139693,
       "name": "Ex Lion Tamer - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3XBD2pEimgCRsVwMazPeCa"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Hypnotised (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd"
-      },
-      "artists": [
-        {
-          "name": "The Undertones",
-          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Banned In D.C.",
-      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
     }
   ],
   "unique_name": "Classic Punk",

@@ -2,7 +2,7 @@
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: Coldplay
+> De mooiste liedjes van het moment\. Cover: Morgan Wallen
 
 535 songs - 1 day 7 hr 1 min
 

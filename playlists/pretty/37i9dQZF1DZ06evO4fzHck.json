@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 555190,
+  "num_followers": 555292,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADHjnxkjP5S6RYdbsyGyKpW",
+  "snapshot_id": "ZzkyAAAAAAAgo7098DFL1FPhKctKqQLu",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Mood Swings",
-        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Mint Car",
-      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
+      "duration_ms": 271293,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 271293,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
+      "duration_ms": 212533,
+      "name": "Mint Car",
+      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 250653,
       "name": "Cut Here",
       "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Grinding Halt",
-      "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 399866,
       "name": "One Hundred Years",
       "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Grinding Halt",
+      "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Doing The Unstuck",
-      "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+      "duration_ms": 266573,
+      "name": "Cold - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG"
     }
   ],
   "unique_name": "This Is The Cure",

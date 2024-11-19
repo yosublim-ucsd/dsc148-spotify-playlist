@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2089703,
+  "num_followers": 2089713,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -579,22 +563,34 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Kids in Love",
-      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -619,18 +615,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
       "artists": [
         {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+      "duration_ms": 167200,
+      "name": "Kids in Love",
+      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Thrilled To Be Here",
-        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Something Tells Me",
-      "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Something Tells Me",
+      "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ryan Tedder",
-          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
-      "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
+      "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "A Blemish In The Great Light",
+        "url": "https://open.spotify.com/album/4glltV3vRG9muJVQYxu5iU"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "Flesh and Blood",
+      "url": "https://open.spotify.com/track/5bkHkL10WqcJKYrrXrWRBo"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "A Blemish In The Great Light",
-        "url": "https://open.spotify.com/album/4glltV3vRG9muJVQYxu5iU"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 297573,
-      "name": "Flesh and Blood",
-      "url": "https://open.spotify.com/track/5bkHkL10WqcJKYrrXrWRBo"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "All This Time Running",
-        "url": "https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9"
-      },
-      "artists": [
-        {
-          "name": "Craig Cardiff",
-          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "All This Time Running",
-      "url": "https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 220175,
       "name": "Teenage Drug",
       "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "All This Time Running",
+        "url": "https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9"
+      },
+      "artists": [
+        {
+          "name": "Craig Cardiff",
+          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "All This Time Running",
+      "url": "https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 213169,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2024-07-05 22:00:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,852 likes - 92 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,874 likes - 92 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 18 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 19 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 20 | [Bruce Lee](https://open.spotify.com/track/5AeEH69Mp87Zx3wNmyeAK0) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 |
-| 21 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 |
-| 22 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
+| 21 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
+| 22 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 |
 | 23 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 |
 | 24 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 |
 | 25 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 52 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
 | 53 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
 | 54 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 |
-| 55 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
-| 56 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 |
+| 55 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 |
+| 56 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
 | 57 | [Why \(Remix\)](https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Why \(Remix\)](https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz) | 2:41 |
 | 58 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 |
 | 59 | [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 68 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
 | 69 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
 | 70 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
-| 71 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 |
-| 72 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |
+| 71 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |
+| 72 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 |
 | 73 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
 | 74 | [City's Burning](https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [City's Burning](https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred) | 4:14 |
 | 75 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |

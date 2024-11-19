@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,875 likes - 120 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,904 likes - 120 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 59 | [Love Songs For Robots](https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 3:37 |
 | 60 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 61 | [Heavy](https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 4:24 |
-| 62 | [The Gardener](https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:57 |
-| 63 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 |
+| 62 | [Cold Little Heart \- Acoustic](https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Acoustic\)](https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12) | 4:29 |
+| 63 | [The Gardener](https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:57 |
 | 64 | [Getting Ready to Get Down](https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sermon on the Rocks](https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH) | 3:16 |
-| 65 | [Cold Little Heart \- Acoustic](https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Acoustic\)](https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12) | 4:29 |
-| 66 | [Jealous Guy](https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:27 |
+| 65 | [Jealous Guy](https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:27 |
+| 66 | [Pulaski at Night](https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5) | 4:49 |
 | 67 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 | 68 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 69 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 94 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
 | 95 | [The Water \- feat\. Laura Marling](https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Been Listening](https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape) | 4:14 |
 | 96 | [Moonshine Freeze](https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:41 |
-| 97 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
-| 98 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
-| 99 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
+| 97 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
+| 98 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
+| 99 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
 | 100 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
 | 101 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
 | 102 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 104 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 |
 | 105 | [Advanced Falconry](https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Love's Crushing Diamond](https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM) | 5:05 |
 | 106 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
-| 107 | [Bashed Out](https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv) | 3:41 |
-| 108 | [Live And Die](https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG) | 4:31 |
+| 107 | [Live And Die](https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG) | 4:31 |
+| 108 | [Bashed Out](https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv) | 3:41 |
 | 109 | [Distant Sures](https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [No Witch](https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC) | 3:11 |
 | 110 | [Believe](https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Freedom](https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW) | 5:46 |
 | 111 | [I Don't Want Love](https://open.spotify.com/track/371oFaGHOqCmqRwx0XxEpo) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 3:19 |

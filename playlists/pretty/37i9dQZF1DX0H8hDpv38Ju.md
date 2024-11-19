@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,371 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,436 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 18 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 19 | [So Emotional](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:36 |
 | 20 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
-| 21 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
-| 22 | [Jungle Love](https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [Ice Cream Castle](https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4) | 5:33 |
+| 21 | [Jungle Love](https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [Ice Cream Castle](https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4) | 5:33 |
+| 22 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
 | 23 | [Never Knew Love Like This Before](https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 5:25 |
 | 24 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/7KEguG3CDoestm50v6XET5) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 3:54 |
 | 25 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |

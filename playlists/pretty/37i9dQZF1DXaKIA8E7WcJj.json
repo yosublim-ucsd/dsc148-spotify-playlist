@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: The Beatles",
-  "num_followers": 3152633,
+  "num_followers": 3152809,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -747,6 +731,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Led Zeppelin",
-        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Good Times Bad Times - 1993 Remaster",
-      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Runaway with Del Shannon",
-        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
       "artists": [
         {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 137306,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+        "name": "Runaway with Del Shannon",
+        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+      "duration_ms": 137306,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 271786,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1667,6 +1651,22 @@
       "duration_ms": 215293,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 271786,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 273573,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
       },
       "artists": [
         {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2019,6 +2003,22 @@
       "duration_ms": 143200,
       "name": "Travelin' Man - Remastered",
       "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Wheatfield Soul",
-        "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Sam Cooke: Portrait Of A Legend 1951-1964",
         "url": "https://open.spotify.com/album/6QGm9AGR7l5YYQPb66FGdc"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 158613,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5UrDFY2cYc7NMoheN4syct"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Wheatfield Soul",
+        "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Very Best of Solomon Burke",
-        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Mony Mony",
         "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 174133,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "The Very Best of Solomon Burke",
+        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx"
     }
   ],
   "unique_name": "All Out 60s",

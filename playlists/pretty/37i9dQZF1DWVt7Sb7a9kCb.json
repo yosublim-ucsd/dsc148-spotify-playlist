@@ -1,6 +1,6 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 183277,
+  "num_followers": 183334,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Kilerito",
         "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 225270,
       "name": "Kilerito",
       "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "TBC (KARMA)",
-        "url": "https://open.spotify.com/album/7s0eWl6syb8IFCR2HQUCZG"
-      },
-      "artists": [
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "TBC (KARMA)",
-      "url": "https://open.spotify.com/track/5PDXWKryvv1SRcmSozUdTZ"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Me Muevo Con Dios",
         "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "TBC (KARMA)",
+        "url": "https://open.spotify.com/album/7s0eWl6syb8IFCR2HQUCZG"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "TBC (KARMA)",
+      "url": "https://open.spotify.com/track/5PDXWKryvv1SRcmSozUdTZ"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Shampoo de Coco",
-        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Shampoo de Coco",
-      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Shampoo de Coco",
+        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Shampoo de Coco",
+      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "COCO LOCO",
         "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 166734,
       "name": "COCO LOCO",
       "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Thal\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Palabras Sobran",
+        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Palabras Sobran",
+      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Palabras Sobran",
-        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 216250,
-      "name": "Palabras Sobran",
-      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 194181,
       "name": "A POCA LUZ",
       "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-11-08 06:00:00",

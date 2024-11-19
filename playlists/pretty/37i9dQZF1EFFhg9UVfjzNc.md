@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 86 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 86 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 64 | [SHEKINAH \- Ao Vivo](https://open.spotify.com/track/4dphbue2PtpS20x23hL254) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Manuela Oliveira](https://open.spotify.com/artist/5zGU65cu61yKhlsaEr8VAj) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:51 |
 | 65 | [Coroas \- Ao Vivo](https://open.spotify.com/track/1fPaa1ApH0JEDgxpmgOOGl) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 10:05 |
 | 66 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
-| 67 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
-| 68 | [Caia Fogo \- Ao Vivo](https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Caia Fogo \(Ao Vivo\)](https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA) | 9:37 |
+| 67 | [Caia Fogo \- Ao Vivo](https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Caia Fogo \(Ao Vivo\)](https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA) | 9:37 |
+| 68 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
 | 69 | [Jesus \- English Version](https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 8:04 |
 | 70 | [Entrega](https://open.spotify.com/track/36dN66P4nDS98xP3RY1akX) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Entrega](https://open.spotify.com/album/5RoCRCrhaE4r9DQzJusMGk) | 6:13 |
 | 71 | [Nos Rendemos a Ti \(Toma O Teu Lugar\)](https://open.spotify.com/track/6c7Ch0zIb7926oTWhQZA8q) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:30 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 74 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/4zIOxt1byvZsFFPKJP9z7R) | [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A), [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/1jsXrSsrVd690Wa42Y9wZy) | 7:46 |
 | 75 | [Meu Amor](https://open.spotify.com/track/2ysfPsrP67ijXTbVlLxM6C) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim em Foz do Iguaçu](https://open.spotify.com/album/2hQUz5MjrqXcr5omp5vKnJ) | 3:36 |
 | 76 | [Mistério Da Criação \- Ao Vivo](https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [É Sobre Ele \(Ao Vivo\)](https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15) | 8:39 |
-| 77 | [Jesus](https://open.spotify.com/track/2CKVeV4XTiDJzJ6QhLJdMh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:00 |
-| 78 | [Nada Vai Nos Separar](https://open.spotify.com/track/6SpfklfmEgkO0ZlZ0szMDJ) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:01 |
+| 77 | [Nada Vai Nos Separar](https://open.spotify.com/track/6SpfklfmEgkO0ZlZ0szMDJ) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:01 |
+| 78 | [Jesus](https://open.spotify.com/track/2CKVeV4XTiDJzJ6QhLJdMh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:00 |
 | 79 | [Digno É O Cordeiro • BRAVE Night \- Ao Vivo](https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Digno É O Cordeiro • BRAVE Night \(Ao Vivo\)](https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW) | 9:51 |
 | 80 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 |
 | 81 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 85 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 86 | [Saudade](https://open.spotify.com/track/3FGMRWDJuA3D4UpsIs084q) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/0DTMyf02zFSa3ZHq5Ouv6h) | 3:52 |
 
-Snapshot ID: `Abhx6AAAAAD9MC3xsTdfPB7Gm/btd6sr`
+Snapshot ID: `Abh3dAAAAACsm5xfAPSKFleY8J8Dlo3v`

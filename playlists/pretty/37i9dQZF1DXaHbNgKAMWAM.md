@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,254 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,265 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 48 | [I Love Yuo](https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [TENT 0.3](https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J) | 2:26 |
 | 49 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 |
 | 50 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 |
-| 51 | [28k LOVE!!](https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:33 |
-| 52 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
-| 53 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
+| 51 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
+| 52 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
+| 53 | [28k LOVE!!](https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:33 |
 | 54 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 |
 | 55 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 |
 | 56 | [Sea&U&I](https://open.spotify.com/track/5wuYrY2inHss7V9zE7xKd9) | [polar](https://open.spotify.com/artist/61XcAsKXS3L7iElrRCN8hi) | [Sea&U&I](https://open.spotify.com/album/0e0k1c48udAcIXwwGJFa2W) | 3:15 |

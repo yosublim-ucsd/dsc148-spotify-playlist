@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,196 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 26 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 |
 | 27 | [Just One Kiss](https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:01 |
 | 28 | [Kyle](https://open.spotify.com/track/4SiHAz5DhGVoMtq34Tx6JB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 1:13 |
-| 29 | [Miniature Rock Dwellers](https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 1:04 |
+| 29 | [Spindrift](https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 4:36 |
 | 30 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
-| 31 | [Spindrift](https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 4:36 |
+| 31 | [Miniature Rock Dwellers](https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 1:04 |
 | 32 | [Kent Country Train](https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:28 |
 | 33 | [Black Mesa \(feat\. Joan Lorring & Leslie Howard\) \- \[Joris Voorn Remix\] \[Mixed\]](https://open.spotify.com/track/7etsqxB6RZWBImUKly4b5c) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b), [Leslie Howard](https://open.spotify.com/artist/3rtmHn2sseyxyY21Uh6B31), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Global Underground \#43: Joris Voorn \- Rotterdam \(DJ Mix\)](https://open.spotify.com/album/19mo8UP3Rhdqw1SGBbUFvf) | 1:43 |
 | 34 | [The Petrified Forest](https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:08 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 39 | [La Sconsolata](https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:04 |
 | 40 | [Shenzhou](https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:59 |
 | 41 | [Monju\-1](https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 2:41 |
-| 42 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
+| 42 | [Daddylonglegs \- Remastered](https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Birmingham Frequencies \(Remastered\)](https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o) | 2:59 |
 | 43 | [Mir](https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:18 |
 | 44 | [Heat Leak](https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:56 |
-| 45 | [Daddylonglegs \- Remastered](https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Birmingham Frequencies \(Remastered\)](https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o) | 2:59 |
+| 45 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 46 | [Green Reflections](https://open.spotify.com/track/4zErU7F1wLCWmtOdoyem0k) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:32 |
 | 47 | [Startoucher](https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:02 |
-| 48 | [Path Leading to the High Grass](https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:51 |
-| 49 | [Tentati](https://open.spotify.com/track/4DMD9pDs3oll1FomsVXeLq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:42 |
-| 50 | [Moistened and Dried](https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 2:25 |
+| 48 | [Tentati](https://open.spotify.com/track/4DMD9pDs3oll1FomsVXeLq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:42 |
+| 49 | [Tanß](https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 5:40 |
+| 50 | [Invariable Cowhandler](https://open.spotify.com/track/1rIf02nuNJVVcVumB0b7fu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:45 |
 
-Snapshot ID: `ZzfggAAAAABgETZopZ0h8EBFRuHut46F`
+Snapshot ID: `ZzkyAAAAAAB0yb+01j+SpF9k3BN/AANJ`

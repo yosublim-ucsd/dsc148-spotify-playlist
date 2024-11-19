@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 37329,
+  "num_followers": 37360,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACy8VEaiEbVUjOHAuTp+n3Q",
+  "snapshot_id": "ZzkyAAAAAADqLuVbDqzxMf8zLBAQjBeR",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 224448,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Soy",
         "url": "https://open.spotify.com/album/3HltDQreHZI013zu1J8Q60"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/0hTJPHYkKsSzf9gfejChCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 224448,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 151927,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CORRIDOS FELICES (DELUXE)",
         "url": "https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo"
       },
@@ -871,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
+        "name": "Desde Culiacan (En Vivo)",
+        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
       },
       "artists": [
         {
@@ -880,25 +896,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 151927,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157589,
-      "name": "No Me Trates De Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
+      "duration_ms": 195648,
+      "name": "El Barbas (En Vivo)",
+      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Culiacan (En Vivo)",
-        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 195648,
-      "name": "El Barbas (En Vivo)",
-      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
+      "duration_ms": 157589,
+      "name": "No Me Trates De Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,550 likes - 317 songs - 17 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,549 likes - 317 songs - 17 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 99 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
 | 100 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
 | 101 | [Always \(feat\. Alana\) \- Route 94 Radio Edit](https://open.spotify.com/track/7CR3K77OWWfklWYkHtcxQt) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Alana](https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u) | [Always \[feat\. Alana\] \(Route 94 Radio Edit\)](https://open.spotify.com/album/45ZxKD3AbXO2AgemEjaWld) | 3:01 |
-| 102 | [Don't Wanna Dance](https://open.spotify.com/track/6b56B8Ew3d0WDnd4Vq01Gh) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Wanna Dance](https://open.spotify.com/album/3KY9oIQZYFg1w2h2DQFmpz) | 2:49 |
-| 103 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 102 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 103 | [Don't Wanna Dance](https://open.spotify.com/track/6b56B8Ew3d0WDnd4Vq01Gh) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Wanna Dance](https://open.spotify.com/album/3KY9oIQZYFg1w2h2DQFmpz) | 2:49 |
 | 104 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 |
 | 105 | [Feel Good \(It's Alright\) \(feat\. Karen Harding\)](https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Feel Good \(It's Alright\) \[feat\. Karen Harding\]](https://open.spotify.com/album/0NQhCyUDNtZvd7pVBiHP4I) | 3:11 |
 | 106 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 133 | [All In](https://open.spotify.com/track/6ud5FYBgnM8II9iOk5P8r5) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [All In](https://open.spotify.com/album/3uXj3tSSEZQCX3xuoUu3UF) | 3:20 |
 | 134 | [Blow My Mind](https://open.spotify.com/track/6EezXKruq0dSlArA6WaYnp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 4:02 |
 | 135 | [Strong](https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:30 |
-| 136 | [Good Thing.](https://open.spotify.com/track/2mCLMdr0J2yBgPSL2gFVxc) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:30 |
-| 137 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
+| 136 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
+| 137 | [Good Thing.](https://open.spotify.com/track/2mCLMdr0J2yBgPSL2gFVxc) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:30 |
 | 138 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
 | 139 | [Stopped Believing In Santa](https://open.spotify.com/track/7ubY8IenhF5NZ5BBJBcTZ8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Stopped Believing In Santa](https://open.spotify.com/album/7my5qqD9eFJB33otwMTTxk) | 3:35 |
 | 140 | [Let Love Go \(feat\. Lil Tecca\)](https://open.spotify.com/track/6Dfi1zryJF6c5DoW0JHl7u) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:53 |
@@ -202,10 +202,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 192 | [Late At Night \(feat\. MNEK\)](https://open.spotify.com/track/6dtZRCZ6XdBHIycJbsRDtE) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Patience](https://open.spotify.com/album/4yXbhrPMl0cqMW1xTXFqxG) | 3:22 |
 | 193 | [PUFF PUFF PASS](https://open.spotify.com/track/3nZ2gr0kNxBqPCnBJx8Dil) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 3:46 |
 | 194 | [Word of Mouth \(feat\. Bree Runway\)](https://open.spotify.com/track/6DvYdNv3orNfi9wdyvAMlw) | [Metroplane](https://open.spotify.com/artist/4NV4qWnRhLrr41zy1IwFGm), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Word of Mouth \(feat\. Bree Runway\)](https://open.spotify.com/album/7tUTDwsjubTUmPkXislYo6) | 2:56 |
-| 195 | [Body](https://open.spotify.com/track/7vXnqJKU3ljgaBNa4Kjt7p) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:57 |
-| 196 | [Special](https://open.spotify.com/track/3FliSRXQ9bch8AxdU4UxkW) | [Billon](https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0) | [Special](https://open.spotify.com/album/3mIfiZdmfdmeeO93AmEnFn) | 4:31 |
-| 197 | [Basically over You \(B.O.Y.\)](https://open.spotify.com/track/3y32ElD6tg6G3yS0QpREan) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:59 |
-| 198 | [AAA](https://open.spotify.com/track/13jJewBlWN5XBWpSkwnl0O) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:24 |
+| 195 | [AAA](https://open.spotify.com/track/13jJewBlWN5XBWpSkwnl0O) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:24 |
+| 196 | [Body](https://open.spotify.com/track/7vXnqJKU3ljgaBNa4Kjt7p) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:57 |
+| 197 | [Special](https://open.spotify.com/track/3FliSRXQ9bch8AxdU4UxkW) | [Billon](https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0) | [Special](https://open.spotify.com/album/3mIfiZdmfdmeeO93AmEnFn) | 4:31 |
+| 198 | [Basically over You \(B.O.Y.\)](https://open.spotify.com/track/3y32ElD6tg6G3yS0QpREan) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:59 |
 | 199 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 |
 | 200 | [WHAT'S REALLY GOOD?](https://open.spotify.com/track/3BpV4X96v59dXv5bucIgXL) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 4:04 |
 | 201 | [In Your Clouds](https://open.spotify.com/track/5vx016WUYcrXIHZ9h0JxTy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:58 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 316 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 317 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Abhx3gAAAAAr9hgWLvHQ9/mNgmWsxDCN`
+Snapshot ID: `Abh3iAAAAADlIAokVT1TKmQq11P7lRfR`

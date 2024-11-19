@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -7518,7 +7518,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 158764,
       "name": "Calma Amor",
       "url": "https://open.spotify.com/track/43lpxVZbcOY4ew0M8wIhxR"
@@ -7966,7 +7966,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 140915,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
@@ -15494,7 +15494,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 121626,
       "name": "Foreign",
       "url": "https://open.spotify.com/track/0YvkS7JMZXQXt041Y2QmWW"
@@ -17240,7 +17240,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 209844,
       "name": "Good Things Go",
       "url": "https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7"
@@ -18620,6 +18620,24 @@
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+    },
+    {
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
     },
     {
       "album": {
@@ -20422,7 +20440,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 209083,
       "name": "IGYEIH",
       "url": "https://open.spotify.com/track/7M8eZBRTD9QNasEVReEM0H"
@@ -21326,7 +21344,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -21410,6 +21428,24 @@
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
       "album": {
@@ -23494,7 +23530,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -30972,7 +31008,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 211027,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf"
@@ -31502,7 +31538,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Party",
       "url": "https://open.spotify.com/track/1cRtvrg3obMXE8ls9Zxv1G"
@@ -32362,7 +32398,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 246978,
       "name": "PONA NINI",
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
@@ -34392,7 +34428,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -35368,7 +35404,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -37482,7 +37518,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -38358,7 +38394,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 185414,
       "name": "Stained",
       "url": "https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF"
@@ -39622,7 +39658,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -41016,7 +41052,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -43104,7 +43140,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 213322,
       "name": "Tu Quizas",
       "url": "https://open.spotify.com/track/7hr8WWP56K2HDpAYRNU4Xo"
@@ -47262,7 +47298,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 176248,
       "name": "\u00c7a parle mal",
       "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"

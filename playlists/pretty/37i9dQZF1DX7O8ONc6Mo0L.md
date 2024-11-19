@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,179 likes - 80 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,270 likes - 80 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 26 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 |
 | 27 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
 | 28 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
-| 29 | [Pode Morar Aqui \- Acústico](https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui \(Acústico\)](https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL) | 5:04 |
-| 30 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
+| 29 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
+| 30 | [Pode Morar Aqui \- Acústico](https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui \(Acústico\)](https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL) | 5:04 |
 | 31 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
 | 32 | [Teu Amor Por Mim](https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Teu Amor Por Mim](https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK) | 3:05 |
 | 33 | [Deus Não É Culpado \- Ao Vivo](https://open.spotify.com/track/7maxojilY61gGGWX6xcpo1) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Deus Não É Culpado \(Ao Vivo\)](https://open.spotify.com/album/66ThLOkhewpwuRcD6bsftw) | 4:49 |

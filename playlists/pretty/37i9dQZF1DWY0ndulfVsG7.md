@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Dato Aishah
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,143 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,151 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 44 | [Panasea](https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Panasea](https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp) | 4:31 |
 | 45 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 | 46 | [Sedih Tak Berujung](https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 3:48 |
-| 47 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 |
-| 48 | [Aku Cinta Padamu](https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Aku Cinta Padamu](https://open.spotify.com/album/2qSbdOw1byknZvx0RJsfHL) | 5:28 |
+| 47 | [Aku Cinta Padamu](https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Aku Cinta Padamu](https://open.spotify.com/album/2qSbdOw1byknZvx0RJsfHL) | 5:28 |
+| 48 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 |
 | 49 | [Penantian](https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:09 |
 | 50 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
 

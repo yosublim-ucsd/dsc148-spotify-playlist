@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,243 likes - 138 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,242 likes - 138 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 26 | [my strange addiction](https://open.spotify.com/track/3Tc57t9l2O8FwQZtQOvPXK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:59 |
 | 27 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 |
 | 28 | [COPYCAT](https://open.spotify.com/track/5nzw98JId7kPlL4LcUqI9M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me \(Expanded Edition\)](https://open.spotify.com/album/5YCdlD3eREt72lTZxNL7id) | 3:14 |
-| 29 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
-| 30 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 29 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 30 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
 | 31 | [Six Feet Under](https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Six Feet Under](https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY) | 3:09 |
 | 32 | [hostage](https://open.spotify.com/track/7hsI66hd2zDvcqDMOkGkfy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me \(Expanded Edition\)](https://open.spotify.com/album/5YCdlD3eREt72lTZxNL7id) | 3:49 |
 | 33 | [my future](https://open.spotify.com/track/3YUMWmx8EJq0DurfuIwoGh) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 57 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
 | 58 | [SKINNY](https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:39 |
 | 59 | [Past Life \(with Selena Gomez\)](https://open.spotify.com/track/7MN8RYSofZsFROBlEOAzXq) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Past Life \(with Selena Gomez\)](https://open.spotify.com/album/0VNOVfFWUXhUx8l3RNas8F) | 3:06 |
-| 60 | [WHEN I WAS OLDER \- Music Inspired By The Film ROMA](https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN I WAS OLDER \(Music Inspired By The Film ROMA\)](https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU) | 4:30 |
-| 61 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 |
+| 60 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 |
+| 61 | [WHEN I WAS OLDER \- Music Inspired By The Film ROMA](https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN I WAS OLDER \(Music Inspired By The Film ROMA\)](https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU) | 4:30 |
 | 62 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 63 | [I Lost a Friend](https://open.spotify.com/track/3XwTKOAP8Syq2GAcKBCAmN) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:57 |
 | 64 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 137 | [bad guy / Taki Taki \- X Factor Recording](https://open.spotify.com/track/1Rv2K9eIcpL2ELwcmXIZn0) | [V5](https://open.spotify.com/artist/1roSWM1RIG9K5RzA9Kde42) | [bad guy / Taki Taki \(X Factor Recording\)](https://open.spotify.com/album/1sjDnvyBzs92Pz1KMXbPhb) | 2:36 |
 | 138 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 
-Snapshot ID: `Abhx6AAAAAAEq7Cecc/T5w0Q1tuIl4be`
+Snapshot ID: `Abh3dAAAAAArvbnUDDby2eDacWfydOCU`

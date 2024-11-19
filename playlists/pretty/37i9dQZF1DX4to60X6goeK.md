@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,020 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,077 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 35 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
 | 36 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |
 | 37 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |
-| 38 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
-| 39 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 38 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 39 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
 | 40 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 41 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
 | 42 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |

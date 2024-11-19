@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 417719,
+  "num_followers": 417843,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-11-07 16:00:00",
       "album": {
-        "name": "Believe (feat. Goodboys)",
-        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Believe (feat. Goodboys)",
-      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
-    },
-    {
-      "added_at": "2024-11-07 16:00:00",
-      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "added_at": "2024-11-07 16:00:00",
+      "album": {
+        "name": "Believe (feat. Goodboys)",
+        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Believe (feat. Goodboys)",
+      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
       "added_at": "2024-11-07 16:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-11-07 16:00:00",
       "album": {
-        "name": "Thank You [Not So Bad]",
-        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "Thank You [Not So Bad]",
-      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2024-11-07 16:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
+    },
+    {
+      "added_at": "2024-11-07 16:00:00",
+      "album": {
+        "name": "Thank You [Not So Bad]",
+        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "Thank You [Not So Bad]",
+      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
     }
   ],
   "unique_name": "EDM Samplings",

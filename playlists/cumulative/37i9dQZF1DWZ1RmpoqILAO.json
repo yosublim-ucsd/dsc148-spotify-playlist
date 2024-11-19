@@ -4849,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Walking Song",
+        "url": "https://open.spotify.com/album/4ew6WVIlCjMuKMvthjftze"
+      },
+      "artists": [
+        {
+          "name": "The Slow Country",
+          "url": "https://open.spotify.com/artist/5kD1IXOvV30AavIW5so1tA"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302750,
+      "name": "Walking Song",
+      "url": "https://open.spotify.com/track/3asFmPu37s04nrH3zSBLdR"
+    },
+    {
+      "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
       },

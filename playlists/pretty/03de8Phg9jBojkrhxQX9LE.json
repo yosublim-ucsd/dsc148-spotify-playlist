@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21023,
+  "num_followers": 21024,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -474,6 +474,10 @@
         {
           "name": "Major Lazer",
           "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
       "duration_ms": 262896,

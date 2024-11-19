@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 179676,
+  "num_followers": 179707,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Agusticidad",
-        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Qu\u00e9 Agusticidad",
-      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "No estes triste",
         "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 203150,
-      "name": "SE MARCHIT\u00d3 LA FLOR",
-      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 203150,
+      "name": "SE MARCHIT\u00d3 LA FLOR",
+      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "BAD BEHAVIORS",
-        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
-      },
-      "artists": [
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        }
-      ],
-      "duration_ms": 190589,
-      "name": "BAD BEHAVIORS",
-      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "No Entiendo Nada",
         "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 223071,
       "name": "No Entiendo Nada",
       "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "BAD BEHAVIORS",
+        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "duration_ms": 190589,
+      "name": "BAD BEHAVIORS",
+      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Intento Tras Intento",
         "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 184000,
       "name": "Intento Tras Intento",
       "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ajena",
-      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Lo Sent\u00ed",
-        "url": "https://open.spotify.com/album/3DbQSZPD9wE6Y31mctRNvm"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Lo Sent\u00ed",
-      "url": "https://open.spotify.com/track/1vmSovbAMoXL6oF6Mk05Dx"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Confundido",
         "url": "https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 276000,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Lo Sent\u00ed",
+        "url": "https://open.spotify.com/album/3DbQSZPD9wE6Y31mctRNvm"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Lo Sent\u00ed",
+      "url": "https://open.spotify.com/track/1vmSovbAMoXL6oF6Mk05Dx"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Joven",
-        "url": "https://open.spotify.com/album/1AQDha8JcEGUDvU6qfdwRB"
-      },
-      "artists": [
-        {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        },
-        {
-          "name": "Don Bustos",
-          "url": "https://open.spotify.com/artist/2pXkb54x9Ve8vF6bMhvnps"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Joven",
-      "url": "https://open.spotify.com/track/5ZaWrrmSD02MiqjUpKXdPX"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/6pGKNM53b4PH1v015cjZfs"
       },
@@ -2331,6 +2311,26 @@
       "duration_ms": 173500,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/4xC6hpXVqIfUkiHswrI8Vr"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Joven",
+        "url": "https://open.spotify.com/album/1AQDha8JcEGUDvU6qfdwRB"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Don Bustos",
+          "url": "https://open.spotify.com/artist/2pXkb54x9Ve8vF6bMhvnps"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Joven",
+      "url": "https://open.spotify.com/track/5ZaWrrmSD02MiqjUpKXdPX"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -2775,6 +2775,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Entend\u00ed",
+        "url": "https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Entend\u00ed",
+      "url": "https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Cuanto Te Quiero",
         "url": "https://open.spotify.com/album/2pVZlqqcCf4Pk0JSPFIlsU"
       },
@@ -2791,22 +2807,6 @@
       "duration_ms": 200500,
       "name": "Cuanto Te Quiero",
       "url": "https://open.spotify.com/track/0jGb8pJxrEYSFlODVZ4k7D"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Entend\u00ed",
-        "url": "https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Entend\u00ed",
-      "url": "https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -3383,6 +3383,26 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/44cpqlHhTzyXBn9K47uPJj"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Dheltoro",
+          "url": "https://open.spotify.com/artist/6d1XMAgHlRTGDhfMURKHBB"
+        }
+      ],
+      "duration_ms": 213362,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1wGwRpMNV0fC3s3hNURMaY"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "No Est\u00e1s II",
         "url": "https://open.spotify.com/album/4tWQ9A0rlk3iGszgOLeVu0"
       },
@@ -3403,26 +3423,6 @@
       "duration_ms": 239330,
       "name": "No Est\u00e1s II",
       "url": "https://open.spotify.com/track/5PnpsdSrjziwHQW9KJySE7"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/44cpqlHhTzyXBn9K47uPJj"
-      },
-      "artists": [
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Dheltoro",
-          "url": "https://open.spotify.com/artist/6d1XMAgHlRTGDhfMURKHBB"
-        }
-      ],
-      "duration_ms": 213362,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1wGwRpMNV0fC3s3hNURMaY"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -3535,22 +3535,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Talento De Vida",
-        "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Apa y Can",
         "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
       },
@@ -3567,6 +3551,22 @@
       "duration_ms": 282697,
       "name": "Stupid Love Story",
       "url": "https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Talento De Vida",
+        "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -3943,6 +3943,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
+        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Te Estaba Pensando",
+      "url": "https://open.spotify.com/track/0zDShO01tPtc9UzORBXbiX"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Mis Ojos No Pod\u00edan Ver",
         "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
       },
@@ -3959,22 +3975,6 @@
       "duration_ms": 179000,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
-        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Te Estaba Pensando",
-      "url": "https://open.spotify.com/track/0zDShO01tPtc9UzORBXbiX"
     },
     {
       "added_at": "2024-11-15 06:00:00",

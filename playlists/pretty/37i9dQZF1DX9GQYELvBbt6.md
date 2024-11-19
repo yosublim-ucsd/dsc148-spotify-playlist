@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,934 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,945 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 28 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 29 | [LOSER](https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:03 |
 | 30 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
-| 31 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
-| 32 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
+| 31 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
+| 32 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 33 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
 | 34 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 |
 | 35 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 |

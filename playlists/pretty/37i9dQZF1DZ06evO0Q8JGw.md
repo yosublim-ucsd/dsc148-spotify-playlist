@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 > This is Pearl Jam\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,845 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,961 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 12 | [I Am Mine](https://open.spotify.com/track/79pY2Z5eFvXMt9bSdHLrnA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 3:35 |
 | 13 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
 | 14 | [Given to Fly](https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:58 |
-| 15 | [Soldier of Love](https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 2:54 |
-| 16 | [Rearviewmirror \- Remastered](https://open.spotify.com/track/5XtyytAig4m3HkO2XXaL9l) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 4:43 |
+| 15 | [Rearviewmirror \- Remastered](https://open.spotify.com/track/5XtyytAig4m3HkO2XXaL9l) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 4:43 |
+| 16 | [Soldier of Love](https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 2:54 |
 | 17 | [Once](https://open.spotify.com/track/4nRyBgsqXEP2oPfzaMeZr7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 3:51 |
 | 18 | [Wishlist](https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:26 |
-| 19 | [Won't Tell](https://open.spotify.com/track/4Lv7QegfYqPHTqBTH1WJ83) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:28 |
-| 20 | [Animal \- Remastered](https://open.spotify.com/track/2EzaNI2kE2AoBfJ8mRZLSJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 2:47 |
+| 19 | [Animal \- Remastered](https://open.spotify.com/track/2EzaNI2kE2AoBfJ8mRZLSJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 2:47 |
+| 20 | [Won't Tell](https://open.spotify.com/track/4Lv7QegfYqPHTqBTH1WJ83) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:28 |
 | 21 | [Nothingman](https://open.spotify.com/track/74kd56Y1oNbQVEQnMdO9LH) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:34 |
 | 22 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
-| 23 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
-| 24 | [Dissident \- Remastered](https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:34 |
+| 23 | [Dissident \- Remastered](https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:34 |
+| 24 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 25 | [Corduroy](https://open.spotify.com/track/5F6rwEF15hN1jnhNk2YQHn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:37 |
 | 26 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
 | 27 | [Do the Evolution](https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:51 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 31 | [Go \- Remastered](https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:13 |
 | 32 | [Running](https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 2:19 |
 | 33 | [Unthought Known](https://open.spotify.com/track/0mGBA5vtFH58DucfqaW6oG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 4:08 |
-| 34 | [Waiting For Stevie \- Radio Edit](https://open.spotify.com/track/2K1O1b3xtNmShlNndJhFjN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Waiting For Stevie \(Radio Edit\)](https://open.spotify.com/album/6luCi1srmvgzgPQH74ZMEw) | 4:00 |
-| 35 | [Off He Goes](https://open.spotify.com/track/0G6qDSSFmjzb9N0PK8PjGm) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:58 |
+| 34 | [Off He Goes](https://open.spotify.com/track/0G6qDSSFmjzb9N0PK8PjGm) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:58 |
+| 35 | [Waiting For Stevie \- Radio Edit](https://open.spotify.com/track/2K1O1b3xtNmShlNndJhFjN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Waiting For Stevie \(Radio Edit\)](https://open.spotify.com/album/6luCi1srmvgzgPQH74ZMEw) | 4:00 |
 | 36 | [Upper Hand](https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:57 |
 | 37 | [Come Back](https://open.spotify.com/track/0sHdUji2tWxiRDfShSWHUN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam](https://open.spotify.com/album/5PY2mZGCOMezmWH7hiCwFH) | 5:26 |
 | 38 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 45 | [Spin the Black Circle](https://open.spotify.com/track/7Al0ADUt8SCPiQIBbTcNdR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 2:47 |
 | 46 | [Light Years](https://open.spotify.com/track/1Tnixg8lMEydzmBsZzxQpR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Binaural](https://open.spotify.com/album/1RuYprt6Qlqu286h1f4dzZ) | 5:06 |
 | 47 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
-| 48 | [Getaway](https://open.spotify.com/track/5NHZFD1TXeBwAFV3EzRKjT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 3:26 |
-| 49 | [Low Light](https://open.spotify.com/track/1kLq84QrK6cJE11uX5iOj6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:44 |
+| 48 | [Low Light](https://open.spotify.com/track/1kLq84QrK6cJE11uX5iOj6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:44 |
+| 49 | [Getaway](https://open.spotify.com/track/5NHZFD1TXeBwAFV3EzRKjT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 3:26 |
 | 50 | [Hail, Hail](https://open.spotify.com/track/5cpnyC2TLztgxOWNzoxqbY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:41 |
 
-Snapshot ID: `ZzfggAAAAAAgy9gYWaC+4iqcMveD8+wY`
+Snapshot ID: `ZzkyAAAAAADH1Tz8gEhVJ3ROX1JwLWYu`

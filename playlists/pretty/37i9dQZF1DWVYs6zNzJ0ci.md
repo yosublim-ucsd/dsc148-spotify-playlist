@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,832 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,846 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 64 | [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 |
 | 65 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
 | 66 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
-| 67 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 |
-| 68 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
+| 67 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
+| 68 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 |
 | 69 | [Bonito y Cruel](https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Bonito y Cruel](https://open.spotify.com/album/2f3XnCTwhab107XAx7slip) | 3:40 |
 | 70 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
 | 71 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 77 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 |
 | 78 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
 | 79 | [Mi Fortaleza](https://open.spotify.com/track/32IImwtinyH53ah7mNAX0E) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Mi Fortaleza](https://open.spotify.com/album/4z4putTLPDht0Q6i0d87A5) | 3:47 |
-| 80 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
-| 81 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 |
+| 80 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 |
+| 81 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 82 | [Veneno](https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Veneno](https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp) | 3:19 |
 | 83 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 84 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |

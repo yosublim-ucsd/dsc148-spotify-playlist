@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 335172,
+  "num_followers": 335225,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "Good F**King Music",
-        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
+        "name": "DOMINATION",
+        "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
       "artists": [
         {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 206433,
-      "name": "Good F**King Music",
-      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
+      "duration_ms": 168800,
+      "name": "DOMINATION",
+      "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
     },
     {
       "added_at": "2024-11-15 20:29:39",
@@ -1167,26 +1175,18 @@
     {
       "added_at": "2024-11-15 20:29:39",
       "album": {
-        "name": "DOMINATION",
-        "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
+        "name": "Good F**King Music",
+        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
         }
       ],
-      "duration_ms": 168800,
-      "name": "DOMINATION",
-      "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+      "duration_ms": 206433,
+      "name": "Good F**King Music",
+      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2024-11-15 20:29:39",

@@ -5403,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0qYhWuV6mjluWUn5eVhX2M"
+      },
+      "artists": [
+        {
+          "name": "Lotus Trio",
+          "url": "https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180349,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/45Mk00Y1oOrqinUPukFMYV"
+    },
+    {
+      "album": {
         "name": "Love by the Shore",
         "url": "https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0"
       },
@@ -5486,7 +5504,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 238159,
       "name": "Lovely Valentine",
       "url": "https://open.spotify.com/track/1xWEYPgtgsPUWV0me7xDaR"
@@ -5848,6 +5866,24 @@
       "duration_ms": 190909,
       "name": "Merry Monday",
       "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
+    },
+    {
+      "album": {
+        "name": "Midday, Uptown, Out of Focus",
+        "url": "https://open.spotify.com/album/73WbfOESHIZgbBJW5Ik1ZP"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Sounds",
+          "url": "https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218972,
+      "name": "Midday, Uptown, Out of Focus",
+      "url": "https://open.spotify.com/track/5eoO0f1dg33nEpfMmn4X8o"
     },
     {
       "album": {
@@ -7864,7 +7900,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 202851,
       "name": "Soft Moments",
       "url": "https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB"
@@ -7922,6 +7958,24 @@
       "duration_ms": 223525,
       "name": "Someone Elses Love",
       "url": "https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6"
+    },
+    {
+      "album": {
+        "name": "Someone Special",
+        "url": "https://open.spotify.com/album/3tRrO8RE0mjqUKcVlwanzg"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190008,
+      "name": "Someone Special",
+      "url": "https://open.spotify.com/track/146Kdh5F6gLstWtGsY3IU9"
     },
     {
       "album": {
@@ -9843,6 +9897,24 @@
     },
     {
       "album": {
+        "name": "What's New?",
+        "url": "https://open.spotify.com/album/1rKOTPPnM8MYTC1LNwS4MT"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/5gZrDkL79PnqKg7OxOOdoM"
+    },
+    {
+      "album": {
         "name": "Whatever you have to do",
         "url": "https://open.spotify.com/album/2axM4krsVQ0zNKRBHlv3FG"
       },
@@ -9926,7 +9998,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 321855,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI"
@@ -10124,7 +10196,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 267747,
       "name": "Windows",
       "url": "https://open.spotify.com/track/7k8NabcxMk5x0Mro6nfm29"

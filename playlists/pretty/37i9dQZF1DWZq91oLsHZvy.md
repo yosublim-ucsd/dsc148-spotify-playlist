@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Let's go! 👟
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,844 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,970 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 15 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 16 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 17 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
-| 18 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 |
-| 19 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
+| 18 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
+| 19 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 |
 | 20 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
 | 21 | [Chelsea Dagger](https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 |
 | 22 | [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 28 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 29 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 30 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
-| 31 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
-| 32 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 |
-| 33 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 |
+| 31 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 |
+| 32 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 |
+| 33 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 34 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 35 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
 | 36 | [Junk Of The Heart \(Happy\)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:07 |

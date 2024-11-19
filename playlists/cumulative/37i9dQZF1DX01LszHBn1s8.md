@@ -4,7 +4,7 @@
 
 > it's sweater weather 🍁🧶
 
-1,538 songs - 3 day 8 hr 53 min
+1,539 songs - 3 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Are You Gone Already](https://open.spotify.com/track/1WTdZjiHI4vYnENXLn69x0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:30 | 2023-12-08 |  |
 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 | 2022-05-19 |  |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-04 |  |
+| [Armani](https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 3:02 | 2024-11-18 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2023-08-17 | 2024-04-19 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-05-19 |  |
 | [As Long As You’re Here \- Young Royals Remix](https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [As Long As You’re Here \(Young Royals Remix\)](https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ) | 3:30 | 2024-03-20 |  |

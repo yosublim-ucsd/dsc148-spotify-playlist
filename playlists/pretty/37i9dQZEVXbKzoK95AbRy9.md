@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,677 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,709 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sujeito Homem \- Ao Vivo](https://open.spotify.com/track/2cGRf9skACWnKRK1eLYBJn) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sujeito Homem \(Ao Vivo\)](https://open.spotify.com/album/4zwl5bcTHly4gwYqoiZCcC) | 2:58 |
 | 50 | [Pampa](https://open.spotify.com/track/0prrifDVNELg91qIr1K4p2) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Isso é CountryBeat](https://open.spotify.com/album/0qv0bMGZ3iY4K6I4qaoRev) | 1:59 |
 
-Snapshot ID: `Ls1cIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ls6toAAAAAAAAAAAAAAAAAAAAAAAAGVu`

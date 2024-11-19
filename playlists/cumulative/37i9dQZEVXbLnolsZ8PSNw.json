@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -10958,7 +10958,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -13400,7 +13400,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
@@ -14202,7 +14202,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
@@ -17225,6 +17225,24 @@
     },
     {
       "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    {
+      "album": {
         "name": "I\u2019m Just Ken (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5"
       },
@@ -19044,7 +19062,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -29144,7 +29162,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -36194,7 +36212,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"

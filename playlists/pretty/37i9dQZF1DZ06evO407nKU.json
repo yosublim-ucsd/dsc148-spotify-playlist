@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50176,
+  "num_followers": 50188,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACn6RpaCBxhdkOTrHmA3h+5",
+  "snapshot_id": "ZzkyAAAAAAD9a9htCrv18xS8jtZeVrxe",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "La Pura Verdad",
-      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Los Mochis",
         "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 303297,
       "name": "Popurri Cumbias - En Vivo",
       "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "La Pura Verdad",
+      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 243885,
       "name": "Conv\u00e9nceme (En Vivo)",
       "url": "https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Mil Motivos",
-          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
-        }
-      ],
-      "duration_ms": 215605,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuidala (En Vivo)",
         "url": "https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 198314,
       "name": "Cuidala (En Vivo)",
       "url": "https://open.spotify.com/track/1im5XPyQaApqcc37320tvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Mil Motivos",
+          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
+        }
+      ],
+      "duration_ms": 215605,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
     },
     {
       "added_at": null,

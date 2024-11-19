@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,332 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,336 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 20 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
 | 21 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
 | 22 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
-| 23 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 |
-| 24 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
+| 23 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
+| 24 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 |
 | 25 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 |
 | 26 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 |
 | 27 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |

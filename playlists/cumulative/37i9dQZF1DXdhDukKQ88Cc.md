@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdhDukKQ88Cc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdhDukKQ88Cc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdhDukKQ88Cc)
 
-### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
+### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe 💎
+> dk rap og den vibe 💎 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> 💎
 
 255 songs - 10 hr 59 min
 

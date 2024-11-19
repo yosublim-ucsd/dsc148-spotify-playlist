@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,259 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,263 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 |
 | 2 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 |
 | 3 | [Dance Monkey](https://open.spotify.com/track/6iCX17mrswsT0QgOclgqy3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Playlist!](https://open.spotify.com/album/16RDmf5uQgqZ7GgEA1nyK9) | 3:20 |
-| 4 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 |
+| 4 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 |
 | 5 | [Cruel Summer](https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:59 |
-| 6 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 |
+| 6 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 |
 | 7 | [Savage Love](https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:50 |
 | 8 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
 | 9 | [Calm Down](https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:39 |
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 12 | [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 |
 | 13 | [Vampire](https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:40 |
 | 14 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 |
-| 15 | [Ghostbusters](https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:20 |
-| 16 | [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 |
+| 15 | [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 |
+| 16 | [Ghostbusters](https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:20 |
 | 17 | [Paint The Town Red](https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 |
 | 18 | [Mood](https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 1:59 |
-| 19 | [I Don't Care](https://open.spotify.com/track/2iJJ6xdKdaLkFB6qVNaFsS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:41 |
-| 20 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 |
+| 19 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 |
+| 20 | [I Don't Care](https://open.spotify.com/track/2iJJ6xdKdaLkFB6qVNaFsS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:41 |
 | 21 | [Seven](https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 |
 | 22 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 |
 | 23 | [Thunder](https://open.spotify.com/track/7KrJI4fnTBGYIWzkEuCi1V) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:35 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 43 | [Timber](https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:10 |
 | 44 | [Wellerman – Sea Shanty](https://open.spotify.com/track/7IrlbBGU4Q0jVgpX6lEVYg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 1:55 |
 
-Snapshot ID: `ZzfggAAAAAAdk7MhGyJEpG1N8/h7yYeD`
+Snapshot ID: `ZzkyAAAAAAAaRcjXL4uDIfEvfiJ/CjzJ`

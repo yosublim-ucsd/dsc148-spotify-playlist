@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,299,059 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,299,108 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 37 | [Joyride \(home demo\)](https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Joyride \(home demo\)](https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6) | 3:44 |
 | 38 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 |
 | 39 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
-| 40 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
-| 41 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
-| 42 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
-| 43 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
+| 40 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
+| 41 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
+| 42 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
+| 43 | [Someone Else](https://open.spotify.com/track/3vyhs76SzpxIsf8o1rvgUW) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Someone Else](https://open.spotify.com/album/0Z5e42bnyBucUf0ur5Dfbe) | 1:41 |
 | 44 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
-| 45 | [Someone Else](https://open.spotify.com/track/3vyhs76SzpxIsf8o1rvgUW) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Someone Else](https://open.spotify.com/album/0Z5e42bnyBucUf0ur5Dfbe) | 1:41 |
+| 45 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
 | 46 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
 | 47 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 48 | [Part of Your Life](https://open.spotify.com/track/0Dzg3P15yPFUFLuR7HN0E8) | [Praers](https://open.spotify.com/artist/6GqH3F9ysSFc9pVn6DhLSO) | [Braille Moon County](https://open.spotify.com/album/5SXYZTcn77owiQbpZHYkhD) | 3:44 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 50 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
 | 51 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 | 52 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
-| 53 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
-| 54 | [A Little Closer](https://open.spotify.com/track/0xrN7hUFu6gOQumsG7jC8H) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV), [Easymess](https://open.spotify.com/artist/2f4HOPblKZdbYQf6GVNolE) | [A Little Closer](https://open.spotify.com/album/2W1UwVVaNZxs7xBdDmLorI) | 4:16 |
+| 53 | [A Little Closer](https://open.spotify.com/track/0xrN7hUFu6gOQumsG7jC8H) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV), [Easymess](https://open.spotify.com/artist/2f4HOPblKZdbYQf6GVNolE) | [A Little Closer](https://open.spotify.com/album/2W1UwVVaNZxs7xBdDmLorI) | 4:16 |
+| 54 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 55 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
 | 56 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |
 | 57 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 61 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 62 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 |
 | 63 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
-| 64 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
-| 65 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 |
+| 64 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 |
+| 65 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
 | 66 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 | 67 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
 | 68 | [My Space Is Overgrown](https://open.spotify.com/track/0rQXWkK5iqhKlUZaROzm4I) | [Aayushi](https://open.spotify.com/artist/1r2kTJ27zuaEoXasQT5NDd) | [My Space Is Overgrown](https://open.spotify.com/album/4ghpXfXSE8K7Fcb96Hgm4p) | 3:53 |

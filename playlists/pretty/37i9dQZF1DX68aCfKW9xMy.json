@@ -1,6 +1,6 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1596387,
+  "num_followers": 1596502,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "AYAYAY! (Deluxe)",
         "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 143933,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Atento Aviso ... Rey Sin Reina",
         "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 154918,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Por Mi No Te Detengas",
-      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 177949,
-      "name": "Sin Evidencias",
-      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 177949,
+      "name": "Sin Evidencias",
+      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1731,22 +1727,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1835,22 +1835,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 209673,
-      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
-      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+      "duration_ms": 227933,
+      "name": "Actos De Un Tonto",
+      "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1871,6 +1867,26 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 209673,
+      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
+      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Si Me Duele Que Duela",
         "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 171367,
       "name": "Si Me Duele Que Duela",
       "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Actos De Un Tonto",
-      "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+      "duration_ms": 159773,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1987,6 +1987,22 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -2059,22 +2075,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
     },
     {
       "added_at": "2024-10-25 06:00:00",

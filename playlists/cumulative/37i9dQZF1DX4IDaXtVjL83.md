@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: IVE, David Guetta\)
 
-207 songs - 11 hr 0 min
+208 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 | 2022-12-05 |  |
 | [PARTY](https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B) | [PimryPie](https://open.spotify.com/artist/7z8ogkK79YxSjsssdusjdm), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [PARTY](https://open.spotify.com/album/7cLnshDajDNJpTHY8bLoiM) | 3:15 | 2023-02-10 | 2024-08-14 |
 | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 |  |
-| [Perfect World](https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ) | 3:02 | 2021-12-20 |  |
+| [Perfect World](https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ) | 3:02 | 2021-12-20 | 2024-11-19 |
+| [Pivot \(Feat\. Armani White\)](https://open.spotify.com/track/54ltqcipQbEqZz3IhnzyB8) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot \(Feat\. Armani White\)](https://open.spotify.com/album/1ycCc4K1haLD4RX3ZcgmLi) | 2:56 | 2024-11-18 |  |
 | [Please Don't Change \(feat\. DJ Snake\)](https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:26 | 2023-11-03 |  |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-12-05 |  |
 | [PRESENTE \- Spanish Version](https://open.spotify.com/track/5X8BW1ms0Tu18Le3r6vTgx) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2021-12-20 | 2022-03-17 |

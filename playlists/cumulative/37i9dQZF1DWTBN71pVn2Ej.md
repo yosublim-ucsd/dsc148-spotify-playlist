@@ -2,7 +2,7 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Cloned Apparition \(pictured\), Heart to Gold, Touché Amoré, Skeever and more.
+> The shape of noise to come with Movements \(pictured\), Superheaven, Koyo, Secret World and more.
 
 733 songs - 1 day 17 hr 46 min
 

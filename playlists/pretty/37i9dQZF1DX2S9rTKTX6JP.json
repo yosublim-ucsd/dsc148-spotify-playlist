@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 700966,
+  "num_followers": 701090,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 363114,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 363114,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 252355,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 252355,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "By The People, For The People",
-        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "King Of Pain",
-      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "By The People, For The People",
+        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 230293,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 330653,
+      "name": "No Ordinary Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 330653,
-      "name": "No Ordinary Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
       },
@@ -1767,30 +1767,6 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        },
-        {
-          "name": "Tim Mcllrath",
-          "url": "https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw"
-        }
-      ],
-      "duration_ms": 246695,
-      "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
-      "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1815,6 +1791,30 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        },
+        {
+          "name": "Tim Mcllrath",
+          "url": "https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw"
+        }
+      ],
+      "duration_ms": 246695,
+      "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
+      "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 262967,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Hemorrhage",
         "url": "https://open.spotify.com/album/6BtA6047bgkAUPYSa3OODx"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 186886,
       "name": "Hemorrhage",
       "url": "https://open.spotify.com/track/56u2Yu2UYKR89oTHOmV24o"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 262967,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "I'm The Man",
         "url": "https://open.spotify.com/album/2cSNQGicM5NU7WRBBkKS41"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 241472,
       "name": "I'm The Man",
       "url": "https://open.spotify.com/track/23M1drWVpUCWb0bDy6fznD"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2024-11-08 21:08:22",

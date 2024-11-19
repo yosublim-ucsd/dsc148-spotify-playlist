@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 Emma Nolde in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,818 likes - 92 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,819 likes - 92 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

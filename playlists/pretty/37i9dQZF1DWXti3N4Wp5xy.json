@@ -1,6 +1,6 @@
 {
   "description": "A perfect little pop party. ",
-  "num_followers": 715371,
+  "num_followers": 715443,
   "original_name": "Pop Party",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 294226,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 294226,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
         "name": "Warrior (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 211920,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
-        "name": "Pink Friday (Complete Edition)",
-        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Super Bass",
-      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
         "name": "Queen Of The Clouds",
         "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 209160,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
         "name": "THIS IS... ICONA POP",
         "url": "https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 159735,
       "name": "Good as Hell",
       "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2024-10-26 22:00:42",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2024-10-26 22:00:42",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2024-10-26 22:00:42",
-      "album": {
         "name": "Nothing but the Beat Ultimate",
         "url": "https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd"
+    },
+    {
+      "added_at": "2024-10-26 22:00:42",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2024-10-26 22:00:42",

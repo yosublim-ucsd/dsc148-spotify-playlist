@@ -1,12 +1,12 @@
 {
   "description": "This is Biosphere. The essential tracks, all in one playlist.",
-  "num_followers": 3195,
+  "num_followers": 3196,
   "original_name": "This Is Biosphere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABgETZopZ0h8EBFRuHut46F",
+  "snapshot_id": "ZzkyAAAAAAB0yb+01j+SpF9k3BN/AANJ",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+        "name": "Shenzhou",
+        "url": "https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 64053,
-      "name": "Miniature Rock Dwellers",
-      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
+      "duration_ms": 276967,
+      "name": "Spindrift",
+      "url": "https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shenzhou",
-        "url": "https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS"
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 276967,
-      "name": "Spindrift",
-      "url": "https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl"
+      "duration_ms": 64053,
+      "name": "Miniature Rock Dwellers",
+      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
     },
     {
       "added_at": null,
@@ -679,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Birmingham Frequencies (Remastered)",
+        "url": "https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o"
       },
       "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        },
         {
           "name": "Biosphere",
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+      "duration_ms": 179659,
+      "name": "Daddylonglegs - Remastered",
+      "url": "https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P"
     },
     {
       "added_at": null,
@@ -727,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birmingham Frequencies (Remastered)",
-        "url": "https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        },
         {
           "name": "Biosphere",
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 179659,
-      "name": "Daddylonglegs - Remastered",
-      "url": "https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P"
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shenzhou [Reissue]",
-        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 231798,
-      "name": "Path Leading to the High Grass",
-      "url": "https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L'incoronazione Di Poppea",
         "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
       },
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
       "artists": [
         {
@@ -820,9 +804,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 145320,
-      "name": "Moistened and Dried",
-      "url": "https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F"
+      "duration_ms": 340974,
+      "name": "Tan\u00df",
+      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 225149,
+      "name": "Invariable Cowhandler",
+      "url": "https://open.spotify.com/track/1rIf02nuNJVVcVumB0b7fu"
     }
   ],
   "unique_name": "This Is Biosphere",

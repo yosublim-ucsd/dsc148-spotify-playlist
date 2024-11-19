@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 339,
+  "num_followers": 375,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "Somewhere In My Memory",
-        "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
-      },
-      "artists": [
-        {
-          "name": "Ron Bladworth",
-          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Somewhere In My Memory",
-      "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "A Jazzy Christmas",
         "url": "https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 307711,
       "name": "Happy Holiday",
       "url": "https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
+        "name": "Somewhere In My Memory",
+        "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Somewhere In My Memory",
+      "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "I Heard the Bells on Christmas Day",
-        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 149940,
-      "name": "I Heard the Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "A Jazzy Little Christmas",
         "url": "https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 188865,
       "name": "We Three Kings (Jazz Version)",
       "url": "https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 154096,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
+        "name": "With White Snow",
+        "url": "https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Jones Trio",
+          "url": "https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL"
+        }
+      ],
+      "duration_ms": 169828,
+      "name": "With White Snow",
+      "url": "https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
         "name": "I've Got My Love To Keep Me Warm",
         "url": "https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN"
-      },
-      "artists": [
-        {
-          "name": "Basinettes",
-          "url": "https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ"
-        }
-      ],
-      "duration_ms": 130263,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "Where Are You Christmas",
         "url": "https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 210682,
       "name": "Where Are You Christmas",
       "url": "https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN"
+      },
+      "artists": [
+        {
+          "name": "Basinettes",
+          "url": "https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ"
+        }
+      ],
+      "duration_ms": 130263,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "With White Snow",
-        "url": "https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz"
-      },
-      "artists": [
-        {
-          "name": "Hamilton Jones Trio",
-          "url": "https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL"
-        }
-      ],
-      "duration_ms": 169828,
-      "name": "With White Snow",
-      "url": "https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "Tomorrow Shall Be My Dancing Day",
         "url": "https://open.spotify.com/album/33ubXsrOIKgfeQtPAZDlBH"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "O Little Town Of Bethlehem",
-        "url": "https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb"
-      },
-      "artists": [
-        {
-          "name": "Jason Starman",
-          "url": "https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K"
-        }
-      ],
-      "duration_ms": 121585,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "Meet Me Under the Mistletoe",
         "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 204187,
       "name": "Meet Me Under the Mistletoe",
       "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
+        "name": "O Little Town Of Bethlehem",
+        "url": "https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb"
+      },
+      "artists": [
+        {
+          "name": "Jason Starman",
+          "url": "https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K"
+        }
+      ],
+      "duration_ms": 121585,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
       "artists": [
         {
-          "name": "Kyle Mendes Jazz Trio",
-          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx"
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK"
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
       },
       "artists": [
         {
-          "name": "Rudy Snow",
-          "url": "https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg"
+          "name": "Kyle Mendes Jazz Trio",
+          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
         }
       ],
-      "duration_ms": 158042,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr"
+      "duration_ms": 201802,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -1271,6 +1255,22 @@
       "duration_ms": 114393,
       "name": "Dance of the Sugar Plum Fairy",
       "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK"
+      },
+      "artists": [
+        {
+          "name": "Rudy Snow",
+          "url": "https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg"
+        }
+      ],
+      "duration_ms": 158042,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr"
     },
     {
       "added_at": "2024-11-11 13:46:46",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
+        "name": "A Wishful Night",
+        "url": "https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 147450,
+      "name": "A Wishful Night",
+      "url": "https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD"
+    },
+    {
+      "added_at": "2024-11-11 13:46:46",
+      "album": {
         "name": "Oh what a merry christmas day",
         "url": "https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 88172,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
-    },
-    {
-      "added_at": "2024-11-11 13:46:46",
-      "album": {
         "name": "It's Christmas in New York",
         "url": "https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-11-11 13:46:46",
       "album": {
-        "name": "A Wishful Night",
-        "url": "https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA"
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "Tom Stills Quartet",
+          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
         }
       ],
-      "duration_ms": 147450,
-      "name": "A Wishful Night",
-      "url": "https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD"
+      "duration_ms": 88172,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
     },
     {
       "added_at": "2024-11-11 13:46:46",

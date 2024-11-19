@@ -9753,6 +9753,24 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/1ZEEeHlnROsYni65smnt55"
+      },
+      "artists": [
+        {
+          "name": "Dino Archon",
+          "url": "https://open.spotify.com/artist/3aMxKso1iRRt8RBAymCbuP"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240090,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3CeEVNbns845IpQLghLTYl"
+    },
+    {
+      "album": {
         "name": "Factory",
         "url": "https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH"
       },
@@ -23322,6 +23340,24 @@
       "duration_ms": 144866,
       "name": "Fighting Words",
       "url": "https://open.spotify.com/track/2F8BREdlqWzj0ObIvaKGVo"
+    },
+    {
+      "album": {
+        "name": "Final Straw (Act 2)",
+        "url": "https://open.spotify.com/album/7vyp8EXQTTxtlP6YN6eyQH"
+      },
+      "artists": [
+        {
+          "name": "Antonita LeShae",
+          "url": "https://open.spotify.com/artist/3UGPNHv41RhHP6OQS2Ns4L"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176519,
+      "name": "Final Straw (Act 2)",
+      "url": "https://open.spotify.com/track/3hdfsHqq38tJCx1rADLhBR"
     },
     {
       "album": {
@@ -39265,6 +39301,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Dancin",
+        "url": "https://open.spotify.com/album/4y4YGZMOf9fr4HsfTcCclx"
+      },
+      "artists": [
+        {
+          "name": "Channing Armour",
+          "url": "https://open.spotify.com/artist/5LtquIruwgS2aRP2xQPABK"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228687,
+      "name": "Let's Go Dancin",
+      "url": "https://open.spotify.com/track/0frL2SQgk7X9Vu5EY7luA0"
+    },
+    {
+      "album": {
         "name": "Farther Down the Line",
         "url": "https://open.spotify.com/album/5qHWY2DOU5bnfu1CJ3i0WW"
       },
@@ -43046,6 +43100,28 @@
       "duration_ms": 216586,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/7JRC1lXT3fdZUCcgKu71pG"
+    },
+    {
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/2zgqjabdAlH56uDTxOpSFn"
+      },
+      "artists": [
+        {
+          "name": "Nuwamba",
+          "url": "https://open.spotify.com/artist/5wEUlJqSip7J4zKpSEZcA0"
+        },
+        {
+          "name": "Madukwu Chinwah -Upright Bass",
+          "url": "https://open.spotify.com/artist/4OzGDTT2SP4OmlbUbuyiR7"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/34mrVxv3pgWqNDZAkYYQut"
     },
     {
       "album": {
@@ -51819,6 +51895,24 @@
     },
     {
       "album": {
+        "name": "Outta My Head (Single Pack)",
+        "url": "https://open.spotify.com/album/4FCmSMeDC3OXrwLu0deeZc"
+      },
+      "artists": [
+        {
+          "name": "Perrin",
+          "url": "https://open.spotify.com/artist/13iZhlxhznbmvqO0an4FiN"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180833,
+      "name": "Outta My Head",
+      "url": "https://open.spotify.com/track/29hzYlFXKodzAT46DymQEq"
+    },
+    {
+      "album": {
         "name": "Outta My Head",
         "url": "https://open.spotify.com/album/40v4LbJn8Vi7iCMlNspM7v"
       },
@@ -57214,6 +57308,28 @@
       "duration_ms": 180410,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1HJpqiER8rSK7EvGyyWlyb"
+    },
+    {
+      "album": {
+        "name": "Right Through You",
+        "url": "https://open.spotify.com/album/7asgkFuN0VTmRhk4KBCfgY"
+      },
+      "artists": [
+        {
+          "name": "D'Lala",
+          "url": "https://open.spotify.com/artist/6hrmbeKkVwAep25tX9dgW6"
+        },
+        {
+          "name": "Bopert",
+          "url": "https://open.spotify.com/artist/5Rag9HXm2RpUTrleOvZK8D"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Right Through You",
+      "url": "https://open.spotify.com/track/5gK5DfGGAvMz5vd0FgmvWd"
     },
     {
       "album": {

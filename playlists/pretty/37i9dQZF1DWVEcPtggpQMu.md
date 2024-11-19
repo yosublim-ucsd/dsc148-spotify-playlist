@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn?si=SSBX2UrZQ2qfeFD6frjywQ">Thato Saul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,434 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,505 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

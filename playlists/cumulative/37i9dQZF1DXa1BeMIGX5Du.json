@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7"
+      },
+      "artists": [
+        {
+          "name": "Juanita Stein",
+          "url": "https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN"
+    },
+    {
+      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
@@ -1492,6 +1510,24 @@
       "duration_ms": 332986,
       "name": "Don't Know How To Keep Loving You",
       "url": "https://open.spotify.com/track/5OQaeU3MX9nMxQI7guLLGC"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Behind",
+        "url": "https://open.spotify.com/album/2DpBmDlGvt8oJz7HgGifV4"
+      },
+      "artists": [
+        {
+          "name": "Mark Wilkinson",
+          "url": "https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149826,
+      "name": "Don't Leave Me Behind",
+      "url": "https://open.spotify.com/track/6oMnaKyIFJgUHmatd5VuRi"
     },
     {
       "album": {
@@ -3325,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Pepperpot Magic",
+        "url": "https://open.spotify.com/album/3vkwODkm1Z6t0e3mCBR7GP"
+      },
+      "artists": [
+        {
+          "name": "Bec Sykes",
+          "url": "https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Last to Know",
+      "url": "https://open.spotify.com/track/3PsRifocO55RlBP0HQP0AX"
+    },
+    {
+      "album": {
         "name": "Latchkey",
         "url": "https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp"
       },
@@ -4586,7 +4640,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 178005,
       "name": "Scared To Start - Sun Mountain Sessions",
       "url": "https://open.spotify.com/track/0xVwILVFkJ1JECDhRUQB57"
@@ -4658,7 +4712,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 173571,
       "name": "Simply The Best",
       "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
@@ -5887,6 +5941,24 @@
     },
     {
       "album": {
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -6024,7 +6096,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 186050,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/2e7d58TsOtV2gNqs826Jnv"

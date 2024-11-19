@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,681 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,085 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 69 | [Your Hand Holding Mine](https://open.spotify.com/track/0jWHVt7QkVRWCj2Sw2Ncl3) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 4:10 |
 | 70 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 71 | [Crazy For Your Love](https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ) | 2:21 |
-| 72 | [Lovesick](https://open.spotify.com/track/4DambPeZPE1blOKXUgAPkc) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Lovesick](https://open.spotify.com/album/4rXILe1V7XO33x5R8N8O2s) | 2:13 |
-| 73 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 |
+| 72 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 |
+| 73 | [Lovesick](https://open.spotify.com/track/4DambPeZPE1blOKXUgAPkc) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Lovesick](https://open.spotify.com/album/4rXILe1V7XO33x5R8N8O2s) | 2:13 |
 | 74 | [beautiful baby](https://open.spotify.com/track/6R2YcTMGx3OrbuXFHtZICy) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [the wonderful world of nature \(deluxe\)](https://open.spotify.com/album/1L4ACpkhGFbIVJ4ZdCSFOW) | 4:40 |
 | 75 | [A Shot in the Arm](https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 4:19 |
 

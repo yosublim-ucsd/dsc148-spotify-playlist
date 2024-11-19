@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 60352,
+  "num_followers": 60418,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzTspQAAAABhtNNeE/QRsrPT/zeeBxIJ",
+  "snapshot_id": "Zzr46AAAAAAVkPiM6kJDWOcqvc/Dw1H3",
   "tracks": [
     {
       "added_at": "2024-11-07 07:34:58",
@@ -75,6 +75,26 @@
       "duration_ms": 199072,
       "name": "Neeniru Saaku Nanna Jothe (From \"Ellige Payana Yavudo Daari\")",
       "url": "https://open.spotify.com/track/2MHEEKQUJn1TDPtslw31mS"
+    },
+    {
+      "added_at": "2024-11-18 08:20:28",
+      "album": {
+        "name": "Gajarama Title Track (From \"Gajarama\")",
+        "url": "https://open.spotify.com/album/3tJikIfwUTiczQNdDKCpMW"
+      },
+      "artists": [
+        {
+          "name": "Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        }
+      ],
+      "duration_ms": 259219,
+      "name": "Gajarama Title Track (From \"Gajarama\")",
+      "url": "https://open.spotify.com/track/3w2ZRRaI61wwLmSeZ2f4Me"
     },
     {
       "added_at": "2024-11-12 10:27:58",
@@ -1729,30 +1749,6 @@
       "url": "https://open.spotify.com/track/34BFlmApswmeZ6lncVun3z"
     },
     {
-      "added_at": "2024-09-09 06:19:58",
-      "album": {
-        "name": "Your's Sincerely RAAM Theme Music (From \"Your's Sincerely RAAM\")",
-        "url": "https://open.spotify.com/album/2d8dew9MwlN8tvrCBwafuO"
-      },
-      "artists": [
-        {
-          "name": "Ramesh Aravind",
-          "url": "https://open.spotify.com/artist/4KxgRf1jSOykgPTZ8PWnIY"
-        },
-        {
-          "name": "Ganesh",
-          "url": "https://open.spotify.com/artist/1lpAD2Qk6jE2f8RZpShBzU"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "Your's Sincerely RAAM Theme Music (From \"Your's Sincerely RAAM\")",
-      "url": "https://open.spotify.com/track/0RbqZJ1Z85iIzSRj4uyFIn"
-    },
-    {
       "added_at": "2024-08-16 09:50:08",
       "album": {
         "name": "Krishnam Pranaya Sakhi (Original Motion Picture Soundtrack)",
@@ -1795,34 +1791,6 @@
       "duration_ms": 299400,
       "name": "Taare Nihaare (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/5djXSCWcbFURXWGlOylJHK"
-    },
-    {
-      "added_at": "2024-09-09 06:17:39",
-      "album": {
-        "name": "Hesare Irada Bandha Namadhu (From \"Orange Marriage\")",
-        "url": "https://open.spotify.com/album/7EmFwRK8OgI2JjhdILhNhW"
-      },
-      "artists": [
-        {
-          "name": "Jaskaran Singh",
-          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
-        },
-        {
-          "name": "Nazeeb Billu",
-          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
-        },
-        {
-          "name": "Vinayak",
-          "url": "https://open.spotify.com/artist/5gMKeMQFI4l9otWlXlea8b"
-        },
-        {
-          "name": "Venkatesh P Marakamdini",
-          "url": "https://open.spotify.com/artist/3Q3DaP4c9L8ne4mWyMpYLY"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Hesare Irada Bandha Namadhu - From \"Orange Marriage\"",
-      "url": "https://open.spotify.com/track/5q1Wr4SZowKXPQSMighi8v"
     },
     {
       "added_at": "2024-09-05 11:47:25",

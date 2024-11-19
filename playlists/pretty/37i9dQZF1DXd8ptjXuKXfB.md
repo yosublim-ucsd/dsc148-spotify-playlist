@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,188 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,200 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 52 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 |
 | 53 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 |
 | 54 | [Úgy Hiszem](https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 3:19 |
-| 55 | [Her Eyes](https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6) | 3:35 |
-| 56 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
+| 55 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
+| 56 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 |
 | 57 | [MOKKA](https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [MOKKA](https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk) | 2:43 |
 | 58 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 |
-| 59 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 |
+| 59 | [Her Eyes](https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6) | 3:35 |
 | 60 | [SENKI NEM SZÓL RÁNK](https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [BANNANI](https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO) | 2:50 |
 | 61 | [introvertált dal](https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 |
 | 62 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 71 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 |
 | 72 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
 | 73 | [lost tiki](https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 2:51 |
-| 74 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 |
-| 75 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
+| 74 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
+| 75 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 |
 | 76 | [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 |
 | 77 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 |
 | 78 | [Ali Ali](https://open.spotify.com/track/2lW57y7U7Pce21wRiMe6EA) | [Diorange](https://open.spotify.com/artist/1BKMGwVQOhbkZ1xEiPH2k3), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Ali Ali](https://open.spotify.com/album/0YOzjLEm1PqHp70POGMo02) | 2:04 |

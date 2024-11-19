@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,878 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,913 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 44 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
 | 45 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 46 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
-| 47 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 |
-| 48 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
-| 49 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
+| 47 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
+| 48 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 |
+| 49 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
 | 50 | [Hey Mama](https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5) | [Great Caesar](https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1) | [Hey Mama](https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma) | 3:13 |
 | 51 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 |
 | 52 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
@@ -80,22 +80,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 70 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 |
 | 71 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:12 |
 | 72 | [Believe](https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Believe](https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O) | 3:57 |
-| 73 | [Kaley](https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Kaley / Further Away](https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG) | 3:03 |
-| 74 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
-| 75 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
+| 73 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
+| 74 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
+| 75 | [Kaley](https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Kaley / Further Away](https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG) | 3:03 |
 | 76 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
 | 77 | [Stay Right Here](https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Stay Right Here](https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn) | 4:09 |
 | 78 | [Shine Your Light on Me \- Recorded at Electric Lady Studios](https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Live at Electric Lady](https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M) | 3:57 |
 | 79 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
 | 80 | [On My Mind](https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [On My Mind](https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0) | 3:33 |
 | 81 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
-| 82 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
-| 83 | [Under The Sun](https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0) | 3:49 |
+| 82 | [Under The Sun](https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0) | 3:49 |
+| 83 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
 | 84 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
 | 85 | [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 |
 | 86 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
-| 87 | [Better Broken](https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:29 |
-| 88 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
+| 87 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
+| 88 | [Better Broken](https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:29 |
 | 89 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
 | 90 | [Living Water](https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j) | [Liz Brasher](https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab) | [Painted Image](https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI) | 2:59 |
 

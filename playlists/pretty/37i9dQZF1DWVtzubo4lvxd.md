@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,918 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,919 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 11 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
 | 12 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
 | 13 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
-| 14 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
-| 15 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
+| 14 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
+| 15 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
 | 16 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
 | 17 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
 | 18 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
-| 19 | [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 |
-| 20 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
+| 19 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
+| 20 | [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 |
 | 21 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 |
 | 22 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 |
 | 23 | [Friendly Faces](https://open.spotify.com/track/0th7hewFkDGdoOR1N3QNBL) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Friendly Faces & Pocket Queens](https://open.spotify.com/album/5feRhvTa6tXjlQ3JIBip2Z) | 2:59 |
-| 24 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change EP](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
-| 25 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
+| 24 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
+| 25 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change EP](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
 | 26 | [Soul Charger](https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Soul Charger](https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv) | 2:20 |
 | 27 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
 | 28 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 44 | [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 |
 | 45 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
 | 46 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
-| 47 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
-| 48 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 |
+| 47 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 |
+| 48 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
 | 49 | [Move to safety](https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2) | [PLIZ DO](https://open.spotify.com/artist/4RsIWJ8P0WvfDQHYpq3idB) | [Move to safety](https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2) | 2:15 |
 | 50 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
 | 51 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 |

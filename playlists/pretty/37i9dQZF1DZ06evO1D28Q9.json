@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABlAr/Igos2KyMM53yqn7ny",
+  "snapshot_id": "ZzkyAAAAAADfzpjSxdUXM9PibPyxMAWm",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "Na Entrada Do C\u00e9u",
+      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 417831,
       "name": "Azz Veizz (Das Minas)",
       "url": "https://open.spotify.com/track/2SLR4vTHHs0zyR6B1UUqk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 207071,
-      "name": "Na Entrada Do C\u00e9u",
-      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
     },
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mulher MC",
+        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "Mulher MC",
+      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hip Hop Machine Temporada 2",
         "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 348314,
       "name": "Raio De Sol",
       "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mulher MC",
-        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "Mulher MC",
-      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
     },
     {
       "added_at": null,
@@ -475,34 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 366409,
-      "name": "Pelo Meus Amores",
-      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry Drummer & Friends, Vol. 2",
         "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
       },
@@ -535,6 +507,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 366409,
+      "name": "Pelo Meus Amores",
+      "url": "https://open.spotify.com/track/3io3tls450i36TahfFBSSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muita Calma",
         "url": "https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL"
       },
@@ -551,30 +551,6 @@
       "duration_ms": 210982,
       "name": "Muita Calma",
       "url": "https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voando Baixo",
-        "url": "https://open.spotify.com/album/2gzgDBVswfMDfLLAICpRjg"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 280037,
-      "name": "Nossa Lei",
-      "url": "https://open.spotify.com/track/5A03XUmhKizJKWRHcN6d1p"
     },
     {
       "added_at": null,
@@ -603,6 +579,30 @@
       "duration_ms": 258656,
       "name": "Coroa de Flores",
       "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voando Baixo",
+        "url": "https://open.spotify.com/album/2gzgDBVswfMDfLLAICpRjg"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 280037,
+      "name": "Nossa Lei",
+      "url": "https://open.spotify.com/track/5A03XUmhKizJKWRHcN6d1p"
     },
     {
       "added_at": null,

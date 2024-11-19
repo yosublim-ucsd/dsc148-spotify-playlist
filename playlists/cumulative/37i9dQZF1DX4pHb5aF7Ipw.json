@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/53hhOMLONIzABRycuPn47x"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/4VXPY3Caz6Tmmfh5WQJ8ih"
+    },
+    {
+      "album": {
         "name": "AnyTime",
         "url": "https://open.spotify.com/album/7oWh8bdG3uExbxZpTd8Yae"
       },
@@ -1021,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Cee",
+        "url": "https://open.spotify.com/album/4cqJW94fx8iFSuSdIibWU0"
+      },
+      "artists": [
+        {
+          "name": "Prince Jadon",
+          "url": "https://open.spotify.com/artist/3O3Ql9NcdVu82xHnvhAyK5"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146625,
+      "name": "Cee",
+      "url": "https://open.spotify.com/track/1fFlCCS4QhAbKWJ7K5xqWn"
+    },
+    {
+      "album": {
         "name": "Chakkar",
         "url": "https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3"
       },
@@ -1198,6 +1238,28 @@
       "duration_ms": 153707,
       "name": "Colt Buntlines",
       "url": "https://open.spotify.com/track/50UofRUiC8RvGh32B7CLrI"
+    },
+    {
+      "album": {
+        "name": "CULLINAN",
+        "url": "https://open.spotify.com/album/5JzoIApW11QEo5xKj0NJhl"
+      },
+      "artists": [
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        },
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141242,
+      "name": "CULLINAN",
+      "url": "https://open.spotify.com/track/5xAxz2XOH93HFIC1DaU1Tc"
     },
     {
       "album": {
@@ -1510,7 +1572,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 163474,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5QOwPqJ4KF5SouXIS8lou0"
@@ -2299,6 +2361,32 @@
     },
     {
       "album": {
+        "name": "Hola Hola",
+        "url": "https://open.spotify.com/album/1vE3bjejiL28KvyJiq7Qdw"
+      },
+      "artists": [
+        {
+          "name": "Sarthi Kalia",
+          "url": "https://open.spotify.com/artist/5CVkBgVvv5IHkXFWUd7Opr"
+        },
+        {
+          "name": "MNY.",
+          "url": "https://open.spotify.com/artist/1UtSYCO5safii2akIVHpk6"
+        },
+        {
+          "name": "kashout",
+          "url": "https://open.spotify.com/artist/4vWVikCL8NnXbV4cdPEyFZ"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153235,
+      "name": "Hola Hola",
+      "url": "https://open.spotify.com/track/7lpOh7K29ghmjECLhN5ya0"
+    },
+    {
+      "album": {
         "name": "Hood Icon",
         "url": "https://open.spotify.com/album/4Sdgyge8bqZDDDFVzibg4B"
       },
@@ -2674,7 +2762,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 145009,
       "name": "Jatt Da Jawab",
       "url": "https://open.spotify.com/track/2iq3vezWvSJpW2Rz6DhK7t"
@@ -3342,7 +3430,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 179340,
       "name": "Meter",
       "url": "https://open.spotify.com/track/3JRgcVZVuDVWanB4Nwje1Y"
@@ -3568,7 +3656,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 139310,
       "name": "Naa Bolda",
       "url": "https://open.spotify.com/track/5JGhthcLobI6e5G3xWoVwb"
@@ -4277,6 +4365,28 @@
     },
     {
       "album": {
+        "name": "Rarri",
+        "url": "https://open.spotify.com/album/1Xj6F6yyAfmoaxQJ5mZ01Q"
+      },
+      "artists": [
+        {
+          "name": "Preet chahal",
+          "url": "https://open.spotify.com/artist/1XOgp2U74ELSYZIRyJmuFp"
+        },
+        {
+          "name": "Kptaan",
+          "url": "https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rarri",
+      "url": "https://open.spotify.com/track/7myW9nk6CeBjCvunKGvRZm"
+    },
+    {
+      "album": {
         "name": "Rich Life",
         "url": "https://open.spotify.com/album/5jmBYAUyG3nqevklnEAnNO"
       },
@@ -4296,7 +4406,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 137400,
       "name": "Rich Life",
       "url": "https://open.spotify.com/track/2vWFL9GDgCrAvycqWvPVj2"
@@ -4604,6 +4714,24 @@
       "duration_ms": 180344,
       "name": "Sifar Safar",
       "url": "https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx"
+    },
+    {
+      "album": {
+        "name": "Bio (Level 1)",
+        "url": "https://open.spotify.com/album/3OzId8BhJCWqcOfaC8uKEM"
+      },
+      "artists": [
+        {
+          "name": "Saiz Bajwa",
+          "url": "https://open.spotify.com/artist/0t58TpmQBjBwBmtraKK8Ed"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Smith Wesson",
+      "url": "https://open.spotify.com/track/6LpePHdmg5IJSnLFBEOg22"
     },
     {
       "album": {
@@ -5164,7 +5292,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 138333,
       "name": "Unfreeze",
       "url": "https://open.spotify.com/track/1A629s5oIVLiBg03A2s4sl"

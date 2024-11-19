@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,709 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,751 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 20 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 21 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 22 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
-| 23 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
-| 24 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
+| 23 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
+| 24 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
 | 25 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |
 | 26 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 27 | [Madness](https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:45 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 50 | [Ouch!](https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp) | [Prince Unique](https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:08 |
 | 51 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
 | 52 | [Tribute to Sundar](https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 4:15 |
-| 53 | [Wine On A Bumsee](https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:03 |
-| 54 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
+| 53 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
+| 54 | [Wine On A Bumsee](https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:03 |
 | 55 | [Doye, Doye](https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke) | [Wayne T & Silky Slim](https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:36 |
 | 56 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 |
 | 57 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [CRAZY](https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |

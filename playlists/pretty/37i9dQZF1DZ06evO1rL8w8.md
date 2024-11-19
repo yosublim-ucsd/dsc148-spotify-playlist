@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,496 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,543 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 35 | [Yo Me Quiero Mas](https://open.spotify.com/track/4RfvSyMKUrF7BSN9TKojx2) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Yo Me Quiero Mas](https://open.spotify.com/album/6ZtcgGVyQRqkAK7kEYCjqO) | 3:10 |
 | 36 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 |
 | 37 | [Parrandero \(Remix\)](https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Banda Los Coyulitos](https://open.spotify.com/artist/0CVlSXCgXIMQgojZ2irFYT) | [Parrandero \(Remix\)](https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey) | 2:48 |
-| 38 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 |
-| 39 | [El Tamarindo](https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado Vol\. 3](https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO) | 2:22 |
+| 38 | [El Tamarindo](https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado Vol\. 3](https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO) | 2:22 |
+| 39 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 |
 | 40 | [100 Balazos Al Blindaje](https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:39 |
 | 41 | [Nomás Por Ser Sinaloense](https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 1:57 |
 | 42 | [Me Gustas Mucho \(En Vivo\)](https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:49 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 48 | [Como Me Haces Falta \- En Vivo](https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mis Caballerizas, Vol\. 1](https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy) | 4:08 |
 | 49 | [Le Pasé a la Plebe](https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:00 |
 | 50 | [La Chapiza \- En Vivo](https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [La Chapiza \(En Vivo\)](https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6) | 2:05 |
-| 51 | [El Primito \(Los Metros\)](https://open.spotify.com/track/3wlFHwxDoJ6KEncpQORv2B) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Carteles Vol.II](https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz) | 3:25 |
+| 51 | [El Empresario](https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Empresario](https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11) | 2:34 |
 
-Snapshot ID: `ZzfggAAAAABqFfob3Ha+1jGV3h0P90os`
+Snapshot ID: `ZzkyAAAAAAB022qO03jgVBJ7lQ7cfkMe`

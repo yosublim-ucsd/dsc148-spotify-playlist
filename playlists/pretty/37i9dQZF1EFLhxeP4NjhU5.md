@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069 likes - 185 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068 likes - 185 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 57 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 | 58 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 |
 | 59 | [La Fórmula \(feat\. Chris Jedi\)](https://open.spotify.com/track/55NwAn7bAl1edTEg1azLOW) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Mi Movimiento](https://open.spotify.com/album/52E77HSrg85k7NrRkKTGT1) | 3:52 |
-| 60 | [Bandolera](https://open.spotify.com/track/6zw6EBrOdGTbKzC0djTOlD) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:10 |
-| 61 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
+| 60 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
+| 61 | [Bandolera](https://open.spotify.com/track/6zw6EBrOdGTbKzC0djTOlD) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:10 |
 | 62 | [Me Dijeron](https://open.spotify.com/track/17UUYZ290omPaJY4wKeyHh) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:50 |
 | 63 | [Luz Apaga](https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Luz Apaga](https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh) | 4:05 |
 | 64 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 184 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 | 185 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 
-Snapshot ID: `Abhx3gAAAAC8d76roR7t6RXySorgk7Zz`
+Snapshot ID: `Abh3dAAAAAC5Bl/azvwHS1FFWDu/KiRa`

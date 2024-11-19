@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "A Lonely Room",
+        "url": "https://open.spotify.com/album/7mUS2pWrG0NSt9ln7mFOAu"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224297,
+      "name": "A Lonely Room",
+      "url": "https://open.spotify.com/track/5ISolGrawI8flAsU6KftfC"
+    },
+    {
+      "album": {
         "name": "A Lonely Walk",
         "url": "https://open.spotify.com/album/7z3Ybpfqcbdjv5riUCh05d"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 230547,
       "name": "April Calling",
       "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 244504,
       "name": "Blue Serenade",
       "url": "https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK"
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 173810,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X"
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 268288,
       "name": "Crestfallen",
       "url": "https://open.spotify.com/track/2hMC0mu9GmXSqNDC1RmkYR"
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 251656,
       "name": "Echoes of Elegance",
       "url": "https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 231032,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM"
@@ -7694,7 +7712,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 238374,
       "name": "Hear Hear",
       "url": "https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32"
@@ -8732,6 +8750,24 @@
       "duration_ms": 260540,
       "name": "I Saw The Sun",
       "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
+    },
+    {
+      "album": {
+        "name": "I Saw You Across the Room",
+        "url": "https://open.spotify.com/album/2MNqQEzYKkKBOCp9Z0gsg6"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233393,
+      "name": "I Saw You Across the Room",
+      "url": "https://open.spotify.com/track/04Vlww85iHY4GOpHmSsSVl"
     },
     {
       "album": {
@@ -11398,7 +11434,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 161444,
       "name": "Leaf Line",
       "url": "https://open.spotify.com/track/6GD9L0BqpyENa325mplxQ9"
@@ -12118,7 +12154,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 191874,
       "name": "Looking Forward",
       "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
@@ -12540,7 +12576,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 246636,
       "name": "Love Walked in",
       "url": "https://open.spotify.com/track/14I4CQ12r4exk4uhhLYewt"
@@ -13332,7 +13368,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 259173,
       "name": "Midnight Serenade",
       "url": "https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh"
@@ -13898,7 +13934,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 220000,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/0RV9OLeD2CyK9fudrSW5Wt"
@@ -15507,6 +15543,24 @@
     },
     {
       "album": {
+        "name": "One and Done",
+        "url": "https://open.spotify.com/album/0zrBKfDW9Voof090NMYXwf"
+      },
+      "artists": [
+        {
+          "name": "Tommie Blayne",
+          "url": "https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227089,
+      "name": "One and Done",
+      "url": "https://open.spotify.com/track/4rKhKEB6GReMXl52kEELlE"
+    },
+    {
+      "album": {
         "name": "One Day We'll Meet Again",
         "url": "https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3"
       },
@@ -15540,6 +15594,24 @@
       "duration_ms": 236609,
       "name": "One for Billy",
       "url": "https://open.spotify.com/track/4CkRvD2IAwUeZfye8yzjJT"
+    },
+    {
+      "album": {
+        "name": "One For My Baby",
+        "url": "https://open.spotify.com/album/0KwBI4McCL3stFxQB8M2EM"
+      },
+      "artists": [
+        {
+          "name": "Tree Nomads",
+          "url": "https://open.spotify.com/artist/5Yx5pz9BopNSoHRwZ0VBkF"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237488,
+      "name": "One For My Baby",
+      "url": "https://open.spotify.com/track/4OeW9RJnzMDf1Zh4JEQt1Q"
     },
     {
       "album": {
@@ -15836,6 +15908,24 @@
       "duration_ms": 222545,
       "name": "Pass the Salt",
       "url": "https://open.spotify.com/track/6c7YlCeNwLuua6LDeflx1U"
+    },
+    {
+      "album": {
+        "name": "Passing Strangers",
+        "url": "https://open.spotify.com/album/3K9hh07aun7cj8le4GSCXZ"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208283,
+      "name": "Passing Strangers",
+      "url": "https://open.spotify.com/track/2cefd1nuqltLshwT1eVyWX"
     },
     {
       "album": {
@@ -16394,7 +16484,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 211761,
       "name": "Puppy Eyes",
       "url": "https://open.spotify.com/track/520YkTPlI3EqAjgONKWYM5"
@@ -17564,7 +17654,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 272500,
       "name": "Sidewalk",
       "url": "https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x"
@@ -19544,7 +19634,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 212200,
       "name": "Tears",
       "url": "https://open.spotify.com/track/4g7dvHTmHnsr4buNGeAwOJ"
@@ -19688,7 +19778,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 198715,
       "name": "That\u2019s gotta be it",
       "url": "https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB"
@@ -19922,7 +20012,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 237883,
       "name": "The End of The Road",
       "url": "https://open.spotify.com/track/0Zt3JaQG7Bz8fVZgkyJC9K"
@@ -20300,7 +20390,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 156339,
       "name": "The Molly Pitchers",
       "url": "https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY"
@@ -20678,7 +20768,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 237679,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4"
@@ -20732,7 +20822,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 181238,
       "name": "Theme for Ruth",
       "url": "https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66"
@@ -20786,7 +20876,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 299349,
       "name": "There Will Be Better Days",
       "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
@@ -21895,6 +21985,24 @@
     },
     {
       "album": {
+        "name": "Urban Journey",
+        "url": "https://open.spotify.com/album/5koJx3NLRbTFaXuBonsY2R"
+      },
+      "artists": [
+        {
+          "name": "Diminished Fusion",
+          "url": "https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171135,
+      "name": "Urban Journey",
+      "url": "https://open.spotify.com/track/2il8vb5Pg88YLvTBKWWcGy"
+    },
+    {
+      "album": {
         "name": "Varenne",
         "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
       },
@@ -22104,7 +22212,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 226025,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/5Bta8U48xSE7r91zzuECxq"
@@ -22652,6 +22760,24 @@
       "duration_ms": 171096,
       "name": "What's New",
       "url": "https://open.spotify.com/track/7KkuAiPMECCD5FB2sbDyU2"
+    },
+    {
+      "album": {
+        "name": "What's New?",
+        "url": "https://open.spotify.com/album/1rKOTPPnM8MYTC1LNwS4MT"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/5gZrDkL79PnqKg7OxOOdoM"
     },
     {
       "album": {

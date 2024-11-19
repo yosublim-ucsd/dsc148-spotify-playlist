@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 587932,
+  "num_followers": 587924,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 288053,
       "name": "El lado oscuro",
       "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "Energ\u00eda Bacana",
         "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "The King Of Dance",
         "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 180453,
       "name": "Bailando por Ahi",
       "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "LAGRIMAS DE UN MALEANTE",
         "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Qu\u00e9 Bonita",
         "url": "https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Sin Enchufe",
+        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 263679,
+      "name": "Carolina - En directo 2000",
+      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1703,22 +1719,6 @@
       "duration_ms": 175601,
       "name": "Some Say",
       "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "Sin Enchufe",
-        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
-      },
-      "artists": [
-        {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
-        }
-      ],
-      "duration_ms": 263679,
-      "name": "Carolina - En directo 2000",
-      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 246240,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "Solo Si Es Contigo",
         "url": "https://open.spotify.com/album/680rsayhF1MrcsyjIzfFF7"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 303693,
       "name": "Copenhague",
       "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2347,26 +2347,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Camiseta de Rokanrol",
-        "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        },
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 229832,
-      "name": "Camiseta de Rokanrol",
-      "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Vivir (with Estopa)",
         "url": "https://open.spotify.com/album/4b0k7exKAA74bbUlKYBAi2"
       },
@@ -2383,6 +2363,26 @@
       "duration_ms": 172000,
       "name": "Vivir (with Estopa)",
       "url": "https://open.spotify.com/track/0n2lJjskWdFCvLI3ExAGha"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Camiseta de Rokanrol",
+        "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 229832,
+      "name": "Camiseta de Rokanrol",
+      "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Dos Caras Distintas",
         "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 195226,
       "name": "Pero a tu lado",
       "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "Correcaminos",
-        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Correcaminos",
-      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
         "name": "Canciones para el tiempo y la distancia",
         "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
       },
@@ -2619,18 +2599,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
-        "name": "te vas a inventar",
-        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
+        "name": "Correcaminos",
+        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 172029,
-      "name": "te vas a inventar",
-      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
+      "duration_ms": 182106,
+      "name": "Correcaminos",
+      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2671,6 +2655,22 @@
     {
       "added_at": "2024-07-12 12:21:41",
       "album": {
+        "name": "te vas a inventar",
+        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 172029,
+      "name": "te vas a inventar",
+      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
         "name": "Carne y Hueso",
         "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
       },
@@ -2683,6 +2683,22 @@
       "duration_ms": 178309,
       "name": "Carne y Hueso",
       "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
+    },
+    {
+      "added_at": "2024-07-12 12:21:41",
+      "album": {
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+      },
+      "artists": [
+        {
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2024-07-12 12:21:41",
@@ -2703,22 +2719,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2024-07-12 12:21:41",
-      "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
-      },
-      "artists": [
-        {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     }
   ],
   "unique_name": "En el Trabajo",

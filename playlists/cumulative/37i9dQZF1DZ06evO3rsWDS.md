@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 56 min
+80 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Ovarios \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Homenaje a la Gran Señora](https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr) | 3:23 | 2023-03-10 |  |
 | [Ovarios \- En Vivo](https://open.spotify.com/track/0HWGGvNTBFFljHmwUlW48V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:26 | 2023-09-15 | 2024-04-29 |
 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 | 2023-12-16 | 2024-04-25 |
-| [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 | 2023-03-10 |  |
+| [Paloma Blanca](https://open.spotify.com/track/4e2IC3gZ9KHtxrRee7XLk0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Paloma Blanca](https://open.spotify.com/album/5VovoV6VIKIAo5Ztn3sQPy) | 3:50 | 2024-11-19 |  |
+| [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 | 2023-03-10 | 2024-11-19 |
 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 | 2023-07-01 |  |
 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 | 2023-03-10 |  |
 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-03-10 |  |

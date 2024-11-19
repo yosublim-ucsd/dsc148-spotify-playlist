@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,140 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 22 | [Same God \- Live](https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 3:19 |
 | 23 | [Chasing Me Down \(feat\. Tye Tribbett\)](https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:12 |
 | 24 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 |
-| 25 | [We Are Victorious \(feat\. Tye Tribbett\)](https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Duets](https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4) | 5:07 |
-| 26 | [Nobody \- Live](https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:34 |
+| 25 | [Nobody \- Live](https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:34 |
+| 26 | [We Are Victorious \(feat\. Tye Tribbett\)](https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Duets](https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4) | 5:07 |
 | 27 | [Goodness Of God \- Live](https://open.spotify.com/track/2vpzga018mYLVXkE77wEds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:41 |
 | 28 | [Saviour](https://open.spotify.com/track/0iApjJnqkWle223SwRe78D) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Tim Bush](https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 10:41 |
-| 29 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
-| 30 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
+| 29 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
+| 30 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
 | 31 | [There Is Nothing Like \- Live](https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 0:50 |
 | 32 | [Anyhow \- Radio Edit](https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 3:58 |
 | 33 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [Baptize](https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:10 |
 | 50 | [Hallelujah To Your Name \- Live](https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:27 |
 
-Snapshot ID: `ZzfggAAAAABf+8v5KtEzVJpttcE2sSt4`
+Snapshot ID: `ZzkyAAAAAAAEG6k5Mr5D5inRHYsGAsh2`

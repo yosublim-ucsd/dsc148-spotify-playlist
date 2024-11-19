@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: Mgk666
 
-102 songs - 4 hr 51 min
+103 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-26 |  |
 | [E Adevărat](https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [E Adevărat](https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa) | 2:47 | 2024-09-23 |  |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-30 |  |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2024-11-19 |
 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 | 2024-07-01 | 2024-10-22 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 |  |
 | [GEME](https://open.spotify.com/track/6fhOjFfcxRKvzdtNw46KGr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [GEME](https://open.spotify.com/album/2PCfHV4wUKSgJ69FbYF6eK) | 2:12 | 2024-07-01 | 2024-07-16 |
@@ -106,6 +106,7 @@
 | [Vreau](https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Vreau](https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2) | 2:29 | 2024-10-31 |  |
 | [VTM](https://open.spotify.com/track/3O4haQKLphM55PL3Uc7rLo) | [Theo Zeciu](https://open.spotify.com/artist/7s0yc83w8OEjHtjOtHj0am), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [VTM](https://open.spotify.com/album/3lP1vJgYASuISagr9oeoSO) | 2:52 | 2024-07-01 | 2024-09-24 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-22 | 2024-11-06 |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-18 |  |
 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 | 2024-07-01 |  |
 | [Yali, Yali](https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Yali, Yali](https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g) | 2:35 | 2024-08-26 |  |
 | [Zi\-mi cine](https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Zi\-mi cine](https://open.spotify.com/album/6L97ViVxuQrKFtFFnLwBWV) | 2:21 | 2024-10-07 |  |

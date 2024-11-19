@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,670 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,668 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 55 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 |
 | 56 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 57 | [雪解けの朝](https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq) | [荒井桃子](https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr) | [雪解けの朝](https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp) | 3:42 |
-| 58 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
-| 59 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
+| 58 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
+| 59 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
 | 60 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 |
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
 | 62 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
-| 63 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
-| 64 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 63 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 64 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 66 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
 | 67 | [Chillin' In The Dark](https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k) | [Everyday is Sunday](https://open.spotify.com/artist/4ucm9OKtO5fac0lLRsngDW) | [Chillin' In The Dark](https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo) | 2:42 |

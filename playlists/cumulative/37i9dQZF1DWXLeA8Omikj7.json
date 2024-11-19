@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Alta Ripa",
+        "url": "https://open.spotify.com/album/3DhuM9FboF4HBIdK9zgIEu"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203263,
+      "name": "Alta Ripa",
+      "url": "https://open.spotify.com/track/1TiHYNZFOWb2rLTpqgK9Rk"
+    },
+    {
+      "album": {
         "name": "Ambre",
         "url": "https://open.spotify.com/album/6KmibxP8SSfsG9FcLu6wpz"
       },
@@ -7573,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "No One Really Listens to Oscillators",
+        "url": "https://open.spotify.com/album/2vZEZAEBbtc2LQN8Pv3vSe"
+      },
+      "artists": [
+        {
+          "name": "Indian Wells",
+          "url": "https://open.spotify.com/artist/0xGMNVyrwBJYVudabEW1Re"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213897,
+      "name": "I Cannot I",
+      "url": "https://open.spotify.com/track/5g6hwRzghn8aOzQo8xqpHF"
+    },
+    {
+      "album": {
         "name": "In Retrospect",
         "url": "https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU"
       },
@@ -7700,7 +7736,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 173217,
       "name": "I Remember Maine",
       "url": "https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK"
@@ -10094,7 +10130,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 168751,
       "name": "Moments",
       "url": "https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I"

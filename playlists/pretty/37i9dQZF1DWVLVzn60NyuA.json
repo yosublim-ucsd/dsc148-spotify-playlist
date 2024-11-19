@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 448116,
+  "num_followers": 448108,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 219481,
       "name": "Love Riddim",
       "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Yoga",
         "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 181045,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2187,30 +2187,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Essa Dan\u00e7a",
-        "url": "https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW"
-      },
-      "artists": [
-        {
-          "name": "Nsoki",
-          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
-        },
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Essa Dan\u00e7a",
-      "url": "https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -2235,22 +2211,26 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+        "name": "Essa Dan\u00e7a",
+        "url": "https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Nsoki",
+          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
         }
       ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+      "duration_ms": 216000,
+      "name": "Essa Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2267,6 +2247,26 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 153287,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Caribe 2.0",
         "url": "https://open.spotify.com/album/1tPnFAJ2ihuiKlh05HUh9o"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 155400,
       "name": "Caribe 2.0",
       "url": "https://open.spotify.com/track/4L8bFIYzXyK7U8EJk5POlO"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 153287,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2671,6 +2671,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Ojoro",
+        "url": "https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ"
+      },
+      "artists": [
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ojoro",
+      "url": "https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "\u00c7a Sert \u00e0 Rien",
         "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
       },
@@ -2691,22 +2707,6 @@
       "duration_ms": 170068,
       "name": "\u00c7a Sert \u00e0 Rien",
       "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Ojoro",
-        "url": "https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ"
-      },
-      "artists": [
-        {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ojoro",
-      "url": "https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2807,6 +2807,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/1VBdiqMYdsazDcUBDBPTRL"
       },
@@ -2823,22 +2839,6 @@
       "duration_ms": 193596,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/5wuUYQbVwJSLPvt4Ra7VUx"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Habri Porta",
-        "url": "https://open.spotify.com/album/61gJqPymaMSdlFuE1U42qg"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 146279,
-      "name": "Habri Porta",
-      "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Big Thug Boys (Dj Yo! Remix)",
         "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 174774,
       "name": "Big Thug Boys (Dj Yo! Remix)",
       "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Habri Porta",
+        "url": "https://open.spotify.com/album/61gJqPymaMSdlFuE1U42qg"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 146279,
+      "name": "Habri Porta",
+      "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
     },
     {
       "added_at": "2024-10-24 12:33:20",

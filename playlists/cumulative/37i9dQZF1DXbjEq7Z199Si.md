@@ -1,0 +1,31 @@
+[pretty](/playlists/pretty/37i9dQZF1DXbjEq7Z199Si.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbjEq7Z199Si) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbjEq7Z199Si)
+
+### [Wicked Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbjEq7Z199Si)
+
+> Everyone deserves a chance to fly\. Listen to the music inspired by Wicked, co\-curated by Cynthia Erivo and Ariana Grande.
+
+19 songs - 1 hr 14 min
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2024-11-18 |  |
+| [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 | 2024-11-18 |  |
+| [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2024-11-18 |  |
+| [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 | 2024-11-18 |  |
+| [Fly](https://open.spotify.com/track/7ehwVHUdeIfGSm5Fjc0GxL) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday \(Deluxe Edition\)](https://open.spotify.com/album/4cIAp0fnyPfICPqELp7LSH) | 3:32 | 2024-11-18 |  |
+| [Fly Like A Bird](https://open.spotify.com/track/7FE5kIgUX01HdQQyg1M26n) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:53 | 2024-11-18 |  |
+| [Good Bye](https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 4:10 | 2024-11-18 |  |
+| [Good Days](https://open.spotify.com/track/1bWh6WbYzSFxsOKzE4EpUu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/5JdcspRtnXWhBdvcGlfS3U) | 4:39 | 2024-11-18 |  |
+| [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2024-11-18 |  |
+| [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2024-11-18 |  |
+| [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2024-11-18 |  |
+| [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2024-11-18 |  |
+| [I'M THAT GIRL](https://open.spotify.com/track/1kINLseIy6cqaRZQSI7sPH) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 3:28 | 2024-11-18 |  |
+| [Magic](https://open.spotify.com/track/3buAGGo2YxasAhMkXqCiA0) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 4:10 | 2024-11-18 |  |
+| [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2024-11-18 |  |
+| [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/67gUqq3wVAztSquOpNZ4Xs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/0BxGRTcVhWVCAo5H3d8g9Q) | 3:35 | 2024-11-18 |  |
+| [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2024-11-18 |  |
+| [When You Believe \(from "The Prince of Egypt"\)](https://open.spotify.com/track/5zU97oceiatP1YDk51MLKY) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Greatest Hits](https://open.spotify.com/album/5NIt2v0wjaZAXPqOYerldC) | 4:33 | 2024-11-18 |  |
+| [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 | 2024-11-18 |  |
+
+\*This playlist was first scraped on 2024-11-19. Prior content cannot be recovered.

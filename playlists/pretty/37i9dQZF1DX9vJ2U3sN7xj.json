@@ -1,6 +1,6 @@
 {
   "description": "nos fuimos de fiesta con Myke Towers  \ud83c\udf89",
-  "num_followers": 903649,
+  "num_followers": 903683,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-10-31 09:05:34",
       "album": {
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
+    },
+    {
+      "added_at": "2024-10-31 09:05:34",
+      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2024-10-31 09:05:34",
-      "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": "2024-10-31 09:05:34",
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2024-10-31 09:05:34",
       "album": {
-        "name": "LA PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 190106,
-      "name": "SE TE NOTA (feat. Peso Pluma)",
-      "url": "https://open.spotify.com/track/1iIrqtbY2aogEHhQkmrV7w"
+      "duration_ms": 192000,
+      "name": "Diab\u00f3lica",
+      "url": "https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx"
     },
     {
       "added_at": "2024-10-31 09:05:34",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2024-10-31 09:05:34",
       "album": {
-        "name": "Partyson",
-        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Diab\u00f3lica",
-      "url": "https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx"
+      "duration_ms": 190106,
+      "name": "SE TE NOTA (feat. Peso Pluma)",
+      "url": "https://open.spotify.com/track/1iIrqtbY2aogEHhQkmrV7w"
     },
     {
       "added_at": "2024-10-31 09:05:34",

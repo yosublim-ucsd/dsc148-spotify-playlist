@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,248 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,276 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Fields of Desolation](https://open.spotify.com/track/78FiDVHeuL49rSjggEdF6g) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 5:31 |
 | 50 | [I Will Live Again](https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 3:32 |
 
-Snapshot ID: `ZzfggAAAAABwQFFfHbGH04ZCYLknAtfx`
+Snapshot ID: `ZzkyAAAAAADfzI//4/6+0QBwqVm0Bowu`

@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d7\u05e0\u05d9\u05dd \u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "\u05d0\u05d4\u05d5\u05d1\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e8\u05d5\u05d0\u05d4 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs"
+    },
+    {
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt"
       },
@@ -1215,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d7\u05e0\u05d9\u05dd \u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137299,
+      "name": "\u05e0\u05e8\u05e7\u05d5\u05de\u05df \u05e9\u05dc \u05d1\u05d3\u05d9\u05d3\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb"
+    },
+    {
+      "album": {
         "name": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
         "url": "https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9"
       },
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 211750,
       "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d4\u05ea\u05d5\u05e8 \u05dc\u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/49pn67BTjYDLqzDkOFrm1E"
@@ -1566,7 +1602,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 228320,
       "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
       "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"

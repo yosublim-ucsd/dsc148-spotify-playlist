@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "cloud 11",
+      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
+    },
+    {
+      "album": {
         "name": "cloud 11",
         "url": "https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7"
       },
@@ -176,7 +194,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 153142,
       "name": "cloud 11",
       "url": "https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD"
@@ -194,7 +212,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 191020,
       "name": "crash & burn",
       "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
@@ -654,7 +672,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 204528,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE"

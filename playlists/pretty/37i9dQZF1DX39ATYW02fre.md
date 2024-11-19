@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,710 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,798 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 44 | [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 |
 | 45 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
 | 46 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
-| 47 | [Faithless](https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Faithless](https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP) | 3:35 |
-| 48 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
+| 47 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
+| 48 | [Faithless](https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Faithless](https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP) | 3:35 |
 | 49 | [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 |
 | 50 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 |
 

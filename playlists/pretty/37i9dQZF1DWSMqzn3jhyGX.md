@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMqzn3jhyGX.md) - [plain]
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 76 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 918 likes - 76 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMqzn3jhyGX.md) - [plain]
 | 29 | [First Love](https://open.spotify.com/track/4qBva9xOk82fhCFPc52GjI) | [Jurrivh](https://open.spotify.com/artist/4xzXnYAMKDc0rY1CN0plep) | [First Love](https://open.spotify.com/album/2kr8HG09btDIh8vPyEJjWh) | 3:16 |
 | 30 | [With Everything \- Live](https://open.spotify.com/track/7dcX4P7koRDPZjnfhBIuIe) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Live In Miami](https://open.spotify.com/album/7DVBC9uavDM2X6LGHSLjU3) | 10:53 |
 | 31 | [All Glory And Honor \- Live](https://open.spotify.com/track/3B04hXI9c1JQg7Udmqnvtk) | [Justin Rizzo](https://open.spotify.com/artist/6znnBkIjUKsUIT17yfjbo6) | [All Glory And Honor \(Live\)](https://open.spotify.com/album/6ogu589CEKDdD5KjNbd3IP) | 7:54 |
-| 32 | [いのちの名前\(『千と千尋の神隠し』より\) \- piano](https://open.spotify.com/track/6l7daff7RZrxIy5fW0zOrs) | [Piano Echoes](https://open.spotify.com/artist/6yA7evyn4y17zrfCiqZDTp) | [千と千尋の神隠し〜ピアノで聴きたいジブリ名曲集](https://open.spotify.com/album/0afi3CeTvaSRMgN0iFyoI5) | 2:28 |
+| 32 | [いのちの名前（『千と千尋の神隠し』より） \- piano](https://open.spotify.com/track/6l7daff7RZrxIy5fW0zOrs) | [Piano Echoes](https://open.spotify.com/artist/6yA7evyn4y17zrfCiqZDTp) | [千と千尋の神隠し〜ピアノで聴きたいジブリ名曲集](https://open.spotify.com/album/0afi3CeTvaSRMgN0iFyoI5) | 2:28 |
 | 33 | [Lift Up Holy Hands/He's Alive \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0f4KJyCfLckEa8b3nncFwM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 6:59 |
 | 34 | [Vide Cor Meum](https://open.spotify.com/track/4AyRUVc4sDfVFJOgJvApie) | [Patrick Cassidy](https://open.spotify.com/artist/1orYvSnckUbc1jCwgeJ7cW), [Anthony Hopkins](https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p), [Danielle de Niese](https://open.spotify.com/artist/3OmGxqv6kFEH8C7Gy6y61P), [Bruno Lazzaretti](https://open.spotify.com/artist/73KcxLxwBYniS1Qdr5KnyD), [Libera](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [Hannibal \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6JgvWFkxKiG6Z2rDWZCLGV) | 4:20 |
 | 35 | [Cayman Islands](https://open.spotify.com/track/6R8agdKCfA4Poo0vnRKQKo) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:02 |

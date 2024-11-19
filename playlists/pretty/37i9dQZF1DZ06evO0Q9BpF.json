@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 43498,
+  "num_followers": 43507,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACMaVMIRDk8ZQ8ND1eliO6N",
+  "snapshot_id": "ZzkyAAAAAABx85Dt19n+ezwVe4LueR1k",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como En El Cielo (feat. Marcos Brunet)",
-        "url": "https://open.spotify.com/album/4u09zmFvxmof6OfmgZNQkn"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        }
-      ],
-      "duration_ms": 439810,
-      "name": "Como En El Cielo (feat. Marcos Brunet)",
-      "url": "https://open.spotify.com/track/3ysJ1hNyG3eAy3IdPVFd4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidos Somos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 256305,
       "name": "Unidos Somos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como En El Cielo (feat. Marcos Brunet)",
+        "url": "https://open.spotify.com/album/4u09zmFvxmof6OfmgZNQkn"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "duration_ms": 439810,
+      "name": "Como En El Cielo (feat. Marcos Brunet)",
+      "url": "https://open.spotify.com/track/3ysJ1hNyG3eAy3IdPVFd4R"
     },
     {
       "added_at": null,
@@ -555,18 +555,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Est\u00e1s T\u00fa",
-        "url": "https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW"
+        "name": "Si T\u00fa Est\u00e1s Conmigo",
+        "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 356204,
-      "name": "Ah\u00ed Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
+      "duration_ms": 245760,
+      "name": "Si T\u00fa Est\u00e1s Conmigo",
+      "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
     },
     {
       "added_at": null,
@@ -595,30 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa Est\u00e1s Conmigo",
-        "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
+        "name": "Ah\u00ed Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Stefy Espinosa",
-          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Si T\u00fa Est\u00e1s Conmigo",
-      "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
+      "duration_ms": 356204,
+      "name": "Ah\u00ed Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
+        "name": "Yo Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 349186,
-      "name": "Encuentro Glorioso",
-      "url": "https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V"
+      "duration_ms": 272857,
+      "name": "Yo Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
     },
     {
       "added_at": null,
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 272857,
-      "name": "Yo Te Seguir\u00e9",
-      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
+      "duration_ms": 349186,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V"
     },
     {
       "added_at": null,

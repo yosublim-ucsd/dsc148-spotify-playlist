@@ -4,7 +4,7 @@
 
 > Schlechte Laune? Drück den Play Button!
 
-185 songs - 9 hr 3 min
+186 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-04-24 | 2024-05-11 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-16 |  |
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-08-28 | 2024-02-10 |
-| [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 | 2023-07-21 |  |
+| [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 | 2023-07-21 | 2024-11-19 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-09 |  |
 | [Fieber](https://open.spotify.com/track/0SyQZaHDKeKscmd0x21nej) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [LIEBE IN GEFAHR](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 3:33 | 2024-09-11 | 2024-09-30 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-07-21 | 2023-08-04 |
@@ -166,6 +166,7 @@
 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 | 2023-09-15 | 2023-11-09 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-07-21 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-07-21 |  |
+| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-18 |  |
 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-07-21 | 2023-08-29 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-07-21 |  |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2023-07-21 |  |

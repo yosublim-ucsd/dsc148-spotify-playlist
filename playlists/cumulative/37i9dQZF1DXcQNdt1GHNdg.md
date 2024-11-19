@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-120 songs - 5 hr 57 min
+121 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Balle Jatta](https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Balle Jatta](https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5) | 3:32 | 2023-07-18 | 2024-07-02 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-07-18 | 2024-09-12 |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-07-18 | 2024-01-31 |
+| [Bhasudi \- From "Raduaa Returns"](https://open.spotify.com/track/3j3S4kIbYbv18Sx5X6jfn2) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Ullumanati](https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz) | [Bhasudi \(From "Raduaa Returns"\)](https://open.spotify.com/album/1Pr4LQoCZsoyorOCByrC97) | 3:00 | 2024-11-18 |  |
 | [Bitch I'm Back](https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2023-07-18 |  |
 | [Blackberry Sap](https://open.spotify.com/track/2MajsZJ85B49Rt1KWhu4P7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 4:52 | 2024-04-06 | 2024-08-27 |
 | [Blackberry Sap](https://open.spotify.com/track/35nhjyhtDdeDIyibcQ7Aa0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 4:52 | 2023-07-18 | 2024-04-19 |
@@ -117,7 +118,7 @@
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2023-07-18 | 2024-08-31 |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-07-18 |  |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-07-18 |  |
-| [Thumke 100](https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Thumke 100](https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2) | 2:07 | 2024-11-04 |  |
+| [Thumke 100](https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Thumke 100](https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2) | 2:07 | 2024-11-04 | 2024-11-19 |
 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 | 2023-09-04 |  |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t) | 2:32 | 2023-07-18 | 2023-09-05 |
 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 | 2023-11-15 |  |

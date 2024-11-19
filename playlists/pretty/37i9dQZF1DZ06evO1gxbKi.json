@@ -1,12 +1,12 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 20679,
+  "num_followers": 20691,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADRbSQHsnKdtJcT7A94Xl9Q",
+  "snapshot_id": "ZzkyAAAAAABV5GacEWKLHRvn/9W6cU27",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles, Vol. 4",
-        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
+        "name": "The Authorized Sister Rosetta Tharpe Collection",
+        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 183950,
-      "name": "Feed Me Jesus",
-      "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
+      "duration_ms": 282813,
+      "name": "This Train",
+      "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Authorized Sister Rosetta Tharpe Collection",
-        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
+        "name": "The Decca Singles, Vol. 4",
+        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 282813,
-      "name": "This Train",
-      "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
+      "duration_ms": 183950,
+      "name": "Feed Me Jesus",
+      "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
-        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 160731,
-      "name": "Rock Daniel (VD129)",
-      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Authorized Sister Rosetta Tharpe Collection",
         "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 171333,
       "name": "Down by the Riverside",
       "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 160731,
+      "name": "Rock Daniel (VD129)",
+      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 174000,
-      "name": "I Want a Tall Skinny Papa",
-      "url": "https://open.spotify.com/track/1ksXNmLDhq9Cv2qBLh7Yrn"
+      "duration_ms": 165613,
+      "name": "Stretch Out",
+      "url": "https://open.spotify.com/track/2ZT3NIKMCgtNdnEyTgxJd6"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Stretch Out",
-      "url": "https://open.spotify.com/track/2ZT3NIKMCgtNdnEyTgxJd6"
+      "duration_ms": 174000,
+      "name": "I Want a Tall Skinny Papa",
+      "url": "https://open.spotify.com/track/1ksXNmLDhq9Cv2qBLh7Yrn"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Truth: All New! Her Greatest Gospel Hits",
-        "url": "https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 187937,
-      "name": "This Is A Mean Old World To Live In",
-      "url": "https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 130442,
       "name": "Father Prepare Me",
       "url": "https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel Truth: All New! Her Greatest Gospel Hits",
+        "url": "https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 187937,
+      "name": "This Is A Mean Old World To Live In",
+      "url": "https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw"
     },
     {
       "added_at": null,

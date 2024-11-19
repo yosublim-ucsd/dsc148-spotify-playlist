@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,628 likes - 153 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,627 likes - 153 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 44 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/7em97lNMDo7LbIZ4Ys5TqV) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:45 |
 | 45 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 |
 | 46 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
-| 47 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
-| 48 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
+| 47 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
+| 48 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
 | 49 | [The one \(Pero no como yo\)](https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:56 |
 | 50 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 |
 | 51 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/3Xaiksu578RaSvmvq893dg) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:49 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 56 | [La Curiosidad \(feat\. Dj Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\) \- Red Grand Prix Remix](https://open.spotify.com/track/5E97zd7EDczPvQ6GRNr6y2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Curiosidad \(Red Grand Prix Remix\) \[feat\. DJ Nelson, Arcangel, Zion & Lennox, De La Ghetto & Brray\]](https://open.spotify.com/album/6Ffhoar8XZuB5v2zVQcC5y) | 7:49 |
 | 57 | [Quererte Bonito](https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 4:31 |
 | 58 | [La Despedida](https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:30 |
-| 59 | [Buscando Amor](https://open.spotify.com/track/5plZgpPu4LQpfj206Z5Uuy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:08 |
-| 60 | [la balada](https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:45 |
+| 59 | [la balada](https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:45 |
+| 60 | [Buscando Amor](https://open.spotify.com/track/5plZgpPu4LQpfj206Z5Uuy) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:08 |
 | 61 | [Vicio](https://open.spotify.com/track/3fi1xpGiyg5bRs64gJSak5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:40 |
 | 62 | [Party En Mi Casa](https://open.spotify.com/track/7CdCBGe3mOkOdbH2qT7EGK) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 2:37 |
 | 63 | [Tarde](https://open.spotify.com/track/7gVW4nW63TH4kjCc66j0c2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:06 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 152 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 153 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `Abhx3gAAAABWPsp7wQfswYDRCXsMjPGG`
+Snapshot ID: `Abh3fgAAAAD8S7SuhEI0CBD1Rbo6nEnq`

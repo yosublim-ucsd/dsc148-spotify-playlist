@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "YEMAYA",
+        "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "Armani",
+      "url": "https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 153277,
       "name": "Burna Boy",
       "url": "https://open.spotify.com/track/0BSUPnydTkUctGwgpsl20B"
@@ -6614,7 +6632,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 161434,
       "name": "Hur ska jag sova inatt",
       "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
@@ -11637,6 +11655,24 @@
     },
     {
       "album": {
+        "name": "YEMAYA",
+        "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "Santa Catalina",
+      "url": "https://open.spotify.com/track/4PLmun9Ww06dbdhCh0RtBd"
+    },
+    {
+      "album": {
         "name": "MOTY",
         "url": "https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij"
       },
@@ -12869,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "Stanna h\u00e4r",
+        "url": "https://open.spotify.com/album/22PPhrBYY8dwPzPSzvVZ3P"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219057,
+      "name": "Stanna h\u00e4r",
+      "url": "https://open.spotify.com/track/6H3xcu0AR7GylVYADcJM2g"
+    },
+    {
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -12956,7 +13010,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"

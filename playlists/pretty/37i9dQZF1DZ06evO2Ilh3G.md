@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,061 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,073 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 31 | [DON'T YOU LIE](https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:11 |
 | 32 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
 | 33 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 |
-| 34 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
-| 35 | [Realist In It \(feat\. Gucci Mane & Offset\)](https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:42 |
+| 34 | [Realist In It \(feat\. Gucci Mane & Offset\)](https://open.spotify.com/track/2WqTKOAUmv7hz9ZzGnXHrY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:42 |
+| 35 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 | 36 | [Nightmare](https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:27 |
 | 37 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 |
 | 38 | [Met Gala \(feat\. Offset\)](https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Droptopwop](https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Patek Water \(feat\. Offset\)](https://open.spotify.com/track/7r6LNJT2LqpLpEyZQJPygt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 3:09 |
 | 50 | [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 |
 
-Snapshot ID: `ZzfggAAAAACLmSXxfmGl6g+dfk4h63N0`
+Snapshot ID: `ZzkyAAAAAAANRhVUfQDLbb9i3LnqVA28`

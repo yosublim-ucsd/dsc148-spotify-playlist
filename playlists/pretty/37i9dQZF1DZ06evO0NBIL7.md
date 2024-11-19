@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472 likes - 28 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 28 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 27 | [Young Blood](https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:43 |
 | 28 | [Dreamcatcher](https://open.spotify.com/track/5epGSSIQKPc81a1y8n7I9U) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:27 |
 
-Snapshot ID: `ZzfggAAAAABWa6rma7F5lZqzlNLJIKOG`
+Snapshot ID: `ZzkyAAAAAABILQ/ChG+59uGRDQk4JqEQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 103771,
+  "num_followers": 103776,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADledTq5oPTTrkl6a8SONfv",
+  "snapshot_id": "ZzkyAAAAAACvVnnVq7iwwAx+Qax74Zge",
   "tracks": [
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "We're All In This Together",
+        "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
       "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+      "duration_ms": 477173,
+      "name": "We're All In This Together",
+      "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
     },
     {
       "added_at": null,
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All In This Together",
-        "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 477173,
-      "name": "We're All In This Together",
-      "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 232933,
       "name": "Long Distance Blues",
       "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -747,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
       "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 259226,
-      "name": "I Want My Crown",
-      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 297106,
       "name": "Train (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
     },
     {
       "added_at": null,

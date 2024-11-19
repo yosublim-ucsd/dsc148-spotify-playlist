@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 66 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
 | 67 | [Loved You First](https://open.spotify.com/track/32HwMdkZuUmHg9uznhs9xM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:04 |
 | 68 | [Alive](https://open.spotify.com/track/31tjImR06JCJswXViIvFuk) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:41 |
-| 69 | [how deep?](https://open.spotify.com/track/1nTzXNZCnZ0T7S8BqkL98r) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:34 |
-| 70 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
+| 69 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
+| 70 | [how deep?](https://open.spotify.com/track/1nTzXNZCnZ0T7S8BqkL98r) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:34 |
 | 71 | [Illusion](https://open.spotify.com/track/23xx852ectQgmp1G78zSpd) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:14 |
 | 72 | [Reflection](https://open.spotify.com/track/7IHlcNipLVFTGch6r2H354) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:08 |
 | 73 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 317 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 318 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Abhx3gAAAAC8ye76/0SXnXKM7E5J9rgd`
+Snapshot ID: `Abh3dAAAAABFVislcce+SB0kYgyNIQN6`

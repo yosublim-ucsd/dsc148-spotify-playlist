@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-323 songs - 18 hr 18 min
+324 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 | 2022-05-03 | 2024-07-03 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-20 | 2024-07-03 |
 | [Hanagasumi](https://open.spotify.com/track/09KW355wewsmvejccEewaE) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan) | [Hanagasumi](https://open.spotify.com/album/3bzrY1T1lJig4rGJOb4HbK) | 1:53 | 2024-07-02 |  |
+| [Hang On](https://open.spotify.com/track/5MgaoMdEUyyE5FzNLTScCX) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [The Spirit Within](https://open.spotify.com/album/2WRZe6iJDSjOapah1f2oG4) | 3:07 | 2024-07-02 |  |
 | [Hatsukoi](https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:25 | 2024-07-02 |  |
 | [heal](https://open.spotify.com/track/3ks1KtZzApZuYcVSgEnfu5) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [heal](https://open.spotify.com/album/0EY1QkbLqBHWAFvFLwDSdv) | 2:58 | 2024-07-02 |  |
 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 | 2022-05-03 | 2024-07-03 |
@@ -130,7 +131,7 @@
 | [I remember](https://open.spotify.com/track/0a0wzxfN5QbpSDxucbK4dy) | [Modern Darakbang](https://open.spotify.com/artist/5TuBqzdS4sdbYIj3tmbtOO) | [I remember](https://open.spotify.com/album/31TdrBwRjCJd0QOg3jtFIJ) | 4:19 | 2022-06-13 | 2022-07-15 |
 | [I'll remember you](https://open.spotify.com/track/78AudmluhvT8wSeOshMGrY) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [On & On](https://open.spotify.com/album/6yLvWDZeRqFzyjhsEVrfjG) | 3:08 | 2022-06-20 | 2022-06-30 |
 | [If I Was There \- Full Version](https://open.spotify.com/track/50T2Qs6xt60D7YksyuuXyk) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 3:47 | 2022-05-03 | 2022-07-16 |
-| [In Love With The Sky](https://open.spotify.com/track/7vD2PASnOKJssyqoRYggbS) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Soothing Breeze](https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6) | 2:42 | 2024-07-02 |  |
+| [In Love With The Sky](https://open.spotify.com/track/7vD2PASnOKJssyqoRYggbS) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Soothing Breeze](https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6) | 2:42 | 2024-07-02 | 2024-11-19 |
 | [In the Roses](https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Moonlit Tales](https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h) | 3:18 | 2024-07-02 |  |
 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 | 2024-07-02 |  |
 | [Into the Reverie](https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Blissful Dreams](https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd) | 2:36 | 2024-07-02 |  |

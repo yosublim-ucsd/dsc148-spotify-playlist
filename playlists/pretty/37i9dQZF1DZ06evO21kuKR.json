@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 92091,
+  "num_followers": 92126,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAuENIaLSicRNmMpEKlS4ue",
+  "snapshot_id": "ZzkyAAAAAAAhXmo6QNOFw3egm5iIWV8q",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Trust Nothing (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Of A Hotboii",
         "url": "https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 191926,
       "name": "I Really (feat. 42 Dugg & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Trust Nothing (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "ON GOD",
-      "url": "https://open.spotify.com/track/0oaPJvWMRthRdnoPNUsniz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 204285,
       "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "ON GOD",
+      "url": "https://open.spotify.com/track/0oaPJvWMRthRdnoPNUsniz"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 116141,
-      "name": "RAP N****S",
-      "url": "https://open.spotify.com/track/06dAi84ttJpX8MtNehYiAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 106379,
       "name": "Least Ian Lie",
       "url": "https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 116141,
+      "name": "RAP N****S",
+      "url": "https://open.spotify.com/track/06dAi84ttJpX8MtNehYiAj"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

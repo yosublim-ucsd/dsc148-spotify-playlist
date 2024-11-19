@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,794 likes - 152 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,798 likes - 152 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 75 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 | 76 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
 | 77 | [Strangers](https://open.spotify.com/track/0X5QlzgZD3UanxR4MIXb4f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:04 |
-| 78 | [Open My Mouth](https://open.spotify.com/track/4LmNvlS526vuPkPum7ap4A) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi \(Deluxe\)](https://open.spotify.com/album/0FOPaNxxRvboekbBtVfNd0) | 2:35 |
-| 79 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
+| 78 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
+| 79 | [Open My Mouth](https://open.spotify.com/track/4LmNvlS526vuPkPum7ap4A) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi \(Deluxe\)](https://open.spotify.com/album/0FOPaNxxRvboekbBtVfNd0) | 2:35 |
 | 80 | [STUPID BIG TEETH](https://open.spotify.com/track/44ESvGuO5spXkHDUNQcHyu) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [STUPID BIG TEETH](https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX) | 2:50 |
 | 81 | [is it new years yet?](https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:38 |
 | 82 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 |
 | 83 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
 | 84 | [Wind Tempos](https://open.spotify.com/track/53yn0gTKz24HM4ncMcLWwS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4btev9CC7D5soKdcIP6ApM) | 6:04 |
-| 85 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
-| 86 | [Thought of You](https://open.spotify.com/track/2ySKl9oGwZMZzXJraNiNgl) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:43 |
+| 85 | [Thought of You](https://open.spotify.com/track/2ySKl9oGwZMZzXJraNiNgl) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:43 |
+| 86 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
 | 87 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
 | 88 | [If You Love Me](https://open.spotify.com/track/4Mqlo3nYpi7HLhR6PR4nsd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:11 |
 | 89 | [Love In Common](https://open.spotify.com/track/1718AVNCRX6CvNA9fL3fUv) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:29 |
@@ -129,13 +129,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 119 | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/track/1PZ7VJ7abOVWjzWl19KKnd) | [Peyton List](https://open.spotify.com/artist/3nL1vFhHR6iRgKxadxCQjh) | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/album/0ewiIwbteCs1p0EjwX2Q7U) | 3:26 |
 | 120 | [Amanda](https://open.spotify.com/track/2jRbNChiY4mcKExiBiAR9j) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 2:56 |
 | 121 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 |
-| 122 | [Dotted Lines](https://open.spotify.com/track/5D18wfmj3SLc8S0BCiurOB) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:42 |
-| 123 | [Basement](https://open.spotify.com/track/3M4zpW1w9iP3UDJlfL5TP1) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 2:58 |
-| 124 | [In Between](https://open.spotify.com/track/34DIs8VG5CBKkOVSppTV6a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 1:57 |
+| 122 | [In Between](https://open.spotify.com/track/34DIs8VG5CBKkOVSppTV6a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 1:57 |
+| 123 | [Dotted Lines](https://open.spotify.com/track/5D18wfmj3SLc8S0BCiurOB) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:42 |
+| 124 | [Basement](https://open.spotify.com/track/3M4zpW1w9iP3UDJlfL5TP1) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 2:58 |
 | 125 | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/track/46h7B6jXj5S7TBZXqtFVEh) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 2:58 |
 | 126 | [Caught in Your Love](https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Caught in Your Love](https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH) | 2:18 |
-| 127 | [Loop](https://open.spotify.com/track/2p2WVrioQLEhL98bfmx5Bh) | [Paperwhite](https://open.spotify.com/artist/2JSBQeazRlk0kVp2gelwbZ) | [Loop](https://open.spotify.com/album/7I7lL676DwpBnlo3jzyIbO) | 3:43 |
-| 128 | [Different Kind of Pain](https://open.spotify.com/track/4Zs63yXBLMPHg6Q9gYoaxs) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:50 |
+| 127 | [Different Kind of Pain](https://open.spotify.com/track/4Zs63yXBLMPHg6Q9gYoaxs) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:50 |
+| 128 | [Loop](https://open.spotify.com/track/2p2WVrioQLEhL98bfmx5Bh) | [Paperwhite](https://open.spotify.com/artist/2JSBQeazRlk0kVp2gelwbZ) | [Loop](https://open.spotify.com/album/7I7lL676DwpBnlo3jzyIbO) | 3:43 |
 | 129 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 |
 | 130 | [Curfew](https://open.spotify.com/track/7tN842Ohxq58i3CzaJUMlA) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:34 |
 | 131 | [Stick Around](https://open.spotify.com/track/13WKD8bs1gFtDjyjf9xIMI) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Rome \- EP](https://open.spotify.com/album/6dD3fy27vEl64qEAvsJwBl) | 3:15 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 151 | [choices](https://open.spotify.com/track/1ew8ziYcyv8627lgOtppuf) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
 | 152 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 
-Snapshot ID: `Abhx3gAAAACUzDkpJNRLDcUL7+fsjWD6`
+Snapshot ID: `Abh3fgAAAAA7RyyPOAtogXGOAxRuU1Cc`

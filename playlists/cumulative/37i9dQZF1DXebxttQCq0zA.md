@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-427 songs - 21 hr 38 min
+430 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Mirage of Dreams](https://open.spotify.com/track/292efoDUXa95umxcSEJLks) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [A Mirage of Dreams](https://open.spotify.com/album/3yKFdsvS3nOKCcLv4wRupq) | 3:07 | 2024-10-11 |  |
 | [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2022-11-11 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2022-05-25 | 2022-09-28 |
-| [A Soft Echo](https://open.spotify.com/track/0p4YqnuGL81qRn6UNg4mxN) | [Lusciousness](https://open.spotify.com/artist/5mFwFCtioyQoqFUYY3VKtf) | [A Soft Echo](https://open.spotify.com/album/38a7MUTk2Rl9Za9HlGAB1O) | 3:53 | 2022-05-25 |  |
+| [A Soft Echo](https://open.spotify.com/track/0p4YqnuGL81qRn6UNg4mxN) | [Lusciousness](https://open.spotify.com/artist/5mFwFCtioyQoqFUYY3VKtf) | [A Soft Echo](https://open.spotify.com/album/38a7MUTk2Rl9Za9HlGAB1O) | 3:53 | 2022-05-25 | 2024-11-19 |
 | [A Tu Lado](https://open.spotify.com/track/2774iv7rt5UytxvyYe4z4O) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [A Tu Lado](https://open.spotify.com/album/3rxGCfwUAdQuABxVVYmY3k) | 3:17 | 2022-11-11 |  |
 | [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 | 2022-10-07 | 2024-08-03 |
 | [A World At Rest](https://open.spotify.com/track/4XJGAjvpgN5K84TsrUoTHp) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [A World At Rest](https://open.spotify.com/album/3QC3NCA8gebXV2hCyU1Sfg) | 2:59 | 2023-02-03 |  |
@@ -137,7 +137,8 @@
 | [Ethereal Mind](https://open.spotify.com/track/3X3vCAvMiO48mdC2lGxfIB) | [Albert Bauer](https://open.spotify.com/artist/5hyQScFDLQoAwXvwZgvT20) | [Ethereal Mind](https://open.spotify.com/album/6Htlnw2TkYQYA8EdNwInuN) | 3:27 | 2022-12-20 |  |
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2022-05-25 | 2022-09-28 |
 | [Ever Fading](https://open.spotify.com/track/1SVrLiEqupao1QEtMAgQwi) | [Úrkoma](https://open.spotify.com/artist/4XWAQN3T2e2rNDlcDO0lhS) | [Ever Fading](https://open.spotify.com/album/0ZlhYIqMFkkpMWRS8tzWi9) | 2:37 | 2024-06-10 |  |
-| [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2022-05-25 |  |
+| [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2022-05-25 | 2024-11-19 |
+| [Exhale](https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Exhale](https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN) | 2:58 | 2024-11-18 |  |
 | [Expansion](https://open.spotify.com/track/0daa1LEWIpYflspezKU3XF) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Expansion](https://open.spotify.com/album/1nnzI4GKBWurFE9LkAjtj9) | 2:08 | 2024-06-10 |  |
 | [Exploration](https://open.spotify.com/track/4N3WUjJMQEWB9SkZLck6IW) | [Photoautotroph](https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg) | [Exploration](https://open.spotify.com/album/6eDjNXJHgE6tEhO2SpJZ1F) | 2:53 | 2024-06-10 |  |
 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 | 2022-12-30 | 2024-08-22 |
@@ -260,6 +261,7 @@
 | [Newborn Soul](https://open.spotify.com/track/61I4iLWIWmmx7knqM6f5HL) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:36 | 2022-05-25 | 2023-03-31 |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-05-25 |  |
 | [Nightfall](https://open.spotify.com/track/2eYqdy2FDpIIDU6QyTHp4s) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Nightfall](https://open.spotify.com/album/6j6HoKkcGAKxgs8e1Uti3x) | 2:40 | 2024-09-05 |  |
+| [Nightfall](https://open.spotify.com/track/3lIMt3XL0CRwWGeaNZNlub) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Nightfall](https://open.spotify.com/album/6GniRMiPkWWL8YdSfHCrXY) | 2:37 | 2024-11-18 |  |
 | [Nocte Tace](https://open.spotify.com/track/2Uxc9Fo6ljOP4CDqYGZ2VL) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [Nocte Tace](https://open.spotify.com/album/35Swb39YQrdaKn0AhCXukz) | 2:41 | 2024-07-12 |  |
 | [Nocturnal Mind](https://open.spotify.com/track/1yXmlT3kSTdDfR202aTWR6) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Nocturnal Mind](https://open.spotify.com/album/6Wa9dyUAoj9uBjVfQEYWiF) | 3:00 | 2024-07-12 |  |
 | [Norrsken](https://open.spotify.com/track/7CKEwdroqVwANCOaxNxMJJ) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Norrsken](https://open.spotify.com/album/17heXTSEn53tdHjV9zucu1) | 2:26 | 2022-05-25 |  |
@@ -311,7 +313,7 @@
 | [Relaxing Pillow](https://open.spotify.com/track/15GJW2ovskjK0dKwr6hgAf) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 3:30 | 2022-05-25 | 2022-09-28 |
 | [Release](https://open.spotify.com/track/3WvLmahT84IZwXfK5S8cIb) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Release](https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr) | 2:17 | 2022-12-06 |  |
 | [Release Me](https://open.spotify.com/track/5yd9MBabXglxnZF8ZH5MQP) | [Vincent La Rossi](https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3) | [From Above](https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ) | 2:49 | 2023-04-28 |  |
-| [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-05-25 |  |
+| [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-05-25 | 2024-11-19 |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-05-25 | 2024-05-15 |
 | [Reverberations](https://open.spotify.com/track/4624YUHIaOF1aE0kvL2OSj) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Reverberations](https://open.spotify.com/album/4z6RAB5haUFYLgjukNnqiO) | 2:46 | 2024-10-24 |  |
 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |
@@ -363,6 +365,7 @@
 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 | 2022-11-11 |  |
 | [Spirito](https://open.spotify.com/track/7t8ODF7MgfkJzRRkpNb4DP) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 4:38 | 2022-05-25 | 2022-09-28 |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-25 | 2023-01-14 |
+| [Stella](https://open.spotify.com/track/307xoWpOJypO6nvS1dx7YR) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Stella](https://open.spotify.com/album/52JcE8PUN2E7x1rtjEHHmL) | 2:36 | 2024-11-18 |  |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-09-27 |  |
 | [Still](https://open.spotify.com/track/2VGYSiY8wnT9YLR8BjcJEF) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Still](https://open.spotify.com/album/7H8cwQxzzwOFGiKWNiEo9S) | 2:42 | 2024-10-11 |  |
 | [Stillness](https://open.spotify.com/track/6oVsQtNZKr5LjNRPSOprTr) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [Stillness](https://open.spotify.com/album/1Pl1k6Mkk5NVWy1BLzCi7H) | 3:31 | 2022-05-25 | 2024-08-03 |

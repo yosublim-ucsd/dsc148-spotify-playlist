@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,276 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,452 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 9 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 |
 | 10 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
 | 11 | [AMG](https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:54 |
-| 12 | [El Gabacho](https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Gabacho](https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq) | 2:42 |
-| 13 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
+| 12 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
+| 13 | [El Gabacho](https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Gabacho](https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq) | 2:42 |
 | 14 | [Sin Querer Queriendo](https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Sin Querer Queriendo](https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O) | 3:26 |
 | 15 | [TENDIDO](https://open.spotify.com/track/5jgvoAw4cyAYdxhPN7zwZb) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:44 |
 | 16 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Saudade](https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade](https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC) | 2:50 |
 | 51 | [No Se Va Poder](https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:31 |
 
-Snapshot ID: `ZzfggAAAAACrri6gMJUya7JKqTYFgFBU`
+Snapshot ID: `ZzkyAAAAAABxQWvyPd8GUtmxNAUAek9G`

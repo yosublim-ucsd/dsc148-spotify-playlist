@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,302 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,309 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 27 | [whoops](https://open.spotify.com/track/0RkW1ZtqR30QtxyUKHCmQv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 2:27 |
 | 28 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 |
 | 29 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
-| 30 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 |
-| 31 | [Maybe?](https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Maybe?](https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt) | 2:54 |
+| 30 | [Maybe?](https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Maybe?](https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt) | 2:54 |
+| 31 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 |
 | 32 | [Old Love \(Stripped\)](https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love \(Stripped\)](https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU) | 4:20 |
 | 33 | [talking to myself](https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 3:21 |
 | 34 | [Hours](https://open.spotify.com/track/4aaeCfnNc21IRpL7SsQexE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Hours](https://open.spotify.com/album/0VibEYS0NHzR76zvg7c5w1) | 2:43 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 36 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 37 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 |
 | 38 | [life with u](https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [life with u](https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8) | 3:25 |
-| 39 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
-| 40 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
+| 39 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
+| 40 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
 | 41 | [Give Me Your Forever \(ft\. Billkin\)](https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Give Me Your Forever](https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv) | 4:04 |
 | 42 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 43 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |

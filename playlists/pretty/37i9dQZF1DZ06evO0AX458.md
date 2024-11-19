@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,798 likes - 45 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,798 likes - 45 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 7 | [New Halloween](https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:27 |
 | 8 | [Limelight](https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 5:02 |
 | 9 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
-| 10 | [Disasters](https://open.spotify.com/track/3pHnXkd4Sh27LBQ0aOKd0h) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:53 |
+| 10 | [Mezzanine](https://open.spotify.com/track/4mjYcKnUZItzIvVYxfgt68) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:07 |
 | 11 | [Palm Dreams](https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:26 |
 | 12 | [Come Heroine](https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:50 |
 | 13 | [Uppers / Downers](https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
-| 14 | [Mezzanine](https://open.spotify.com/track/4mjYcKnUZItzIvVYxfgt68) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:07 |
+| 14 | [Disasters](https://open.spotify.com/track/3pHnXkd4Sh27LBQ0aOKd0h) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:53 |
 | 15 | [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 |
 | 16 | [Feign](https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:48 |
 | 17 | [Home Away from Here](https://open.spotify.com/track/698tUiegVocxceqJSBKK4S) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:50 |
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 42 | [Non Fiction](https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:05 |
 | 43 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 |
 | 44 | [Crescent\-Shaped Depression](https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Crescent\-Shaped Depression](https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o) | 2:24 |
-| 45 | [Social Caterpillar](https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:03 |
+| 45 | [Blue Angels](https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 1:31 |
 
-Snapshot ID: `ZzfggAAAAABTwpapIwmGPoG7vE7v2ovF`
+Snapshot ID: `ZzkyAAAAAAB+q8WsKn9muWv5/z/OeIVO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,639 likes - 45 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,658 likes - 45 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 44 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 45 | [Silver](https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 6:33 |
 
-Snapshot ID: `ZzfggAAAAADkI12/bYpQvmt+aQkEd+YU`
+Snapshot ID: `ZzkyAAAAAAD+OTzEQvQcGh0anQCt47XJ`

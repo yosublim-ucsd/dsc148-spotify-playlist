@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 146 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,407 likes - 146 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 145 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
 | 146 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `Abhx3gAAAACEF2H+OvfII0era7Gs4k8U`
+Snapshot ID: `Abh3fgAAAAAmS/zWa3vKuQXuMIXFIQ4U`

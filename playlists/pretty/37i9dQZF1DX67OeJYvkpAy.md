@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Stacy N.K.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,343 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,337 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 35 | [Toxic Veins](https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 3:20 |
 | 36 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
 | 37 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
-| 38 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
-| 39 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
+| 38 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
+| 39 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
 | 40 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabz](https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 41 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
 | 42 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
@@ -71,18 +71,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 61 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 |
 | 62 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
 | 63 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
-| 64 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
-| 65 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
-| 66 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
+| 64 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
+| 65 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
+| 66 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
 | 67 | [Late Night Trips](https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Late Night Trips](https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE) | 1:37 |
 | 68 | [I Thought I'd Die In Your Arms](https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA) | 2:56 |
-| 69 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
+| 69 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
 | 70 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
 | 71 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
 | 72 | [Love Don't Change](https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus) | [K5ive](https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM) | [Love Don't Change](https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5) | 3:34 |
-| 73 | [Up all night](https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871) | 2:41 |
+| 73 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
 | 74 | [Dreaming](https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Dreaming](https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s) | 1:50 |
-| 75 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
+| 75 | [Up all night](https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871) | 2:41 |
 | 76 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
 | 77 | [No Emotions](https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ) | 2:48 |
 | 78 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |

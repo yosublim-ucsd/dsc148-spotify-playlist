@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: LISA & ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,405 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,402 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 68 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
 | 69 | [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 |
 | 70 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
-| 71 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
-| 72 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
-| 73 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
+| 71 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
+| 72 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
+| 73 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
 | 74 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
 | 75 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 76 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |

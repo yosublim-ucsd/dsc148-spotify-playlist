@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-64 songs - 5 hr 37 min
+65 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-09-27 | 2024-10-07 |
 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-09-27 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-09-27 |  |
+| [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
 | [How Beautiful \- I Love You Lord Album Version](https://open.spotify.com/track/6sRcuKFjF2BordZxd6tHL2) | [I Love You Lord Performers](https://open.spotify.com/artist/7pWZRausRqxia6Og2ezPxz) | [I Love You Lord](https://open.spotify.com/album/0vD08lwfExgCo2odwgVDEj) | 4:40 | 2024-09-27 | 2024-10-04 |
 | [I Have Decided To Follow Jesus](https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [I Have Decided To Follow Jesus \- Single](https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK) | 3:08 | 2024-09-27 |  |
 | [I'm So Blessed](https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up](https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E) | 2:55 | 2024-09-27 |  |
@@ -59,7 +60,7 @@
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 |  |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2024-09-27 | 2024-10-28 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-09-27 |  |
-| [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 |  |
+| [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-11-19 |
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2024-09-27 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2024-09-27 |  |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 |  |

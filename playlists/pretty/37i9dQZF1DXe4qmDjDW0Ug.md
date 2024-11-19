@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,902 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,905 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 34 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
 | 35 | [Good Bye Sadness, Hello Happiness](https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:38 |
 | 36 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |
-| 37 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
+| 37 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
 | 38 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 39 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
 | 40 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
-| 41 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
+| 41 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
 | 42 | [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 |
 | 43 | [안되나요](https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:30 |
 | 44 | [Break Away](https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:20 |
 | 45 | [Memory Loss](https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:54 |
-| 46 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
+| 46 | [I hope It would be that way now](https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Gift](https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB) | 4:57 |
 | 47 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
-| 48 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
-| 49 | [All I Wanna Do \(feat\. Hoody & 로꼬 Loco\) \[Korean Version\]](https://open.spotify.com/track/2c37Gkpu75l3kvh1FUZrHV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:36 |
-| 50 | [I hope It would be that way now](https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Gift](https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB) | 4:57 |
+| 48 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
+| 49 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
+| 50 | [If You Comeback](https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:48 |
 
 Snapshot ID: `Zg8I8AAAAADMIv27dO/9TI0aAmmnAcHZ`

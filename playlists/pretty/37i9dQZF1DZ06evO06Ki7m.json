@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 389705,
+  "num_followers": 389780,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAB4TvYxsbhd9a2PntlyHza",
+  "snapshot_id": "ZzkyAAAAAAAf56HsK+KGkW1BoOyrr/r7",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Wayne (feat. Metro Boomin)",
-        "url": "https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx"
+        "name": "Savage Mode",
+        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 174133,
-      "name": "John Wayne (feat. Metro Boomin)",
-      "url": "https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG"
+      "duration_ms": 258880,
+      "name": "X (feat. Future)",
+      "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
     },
     {
       "added_at": null,
@@ -631,26 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage Mode",
-        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
+        "name": "John Wayne (feat. Metro Boomin)",
+        "url": "https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 258880,
-      "name": "X (feat. Future)",
-      "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
+      "duration_ms": 174133,
+      "name": "John Wayne (feat. Metro Boomin)",
+      "url": "https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG"
     },
     {
       "added_at": null,
@@ -727,22 +727,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 148640,
-      "name": "My Choppa Hate Niggas",
-      "url": "https://open.spotify.com/track/2D2w9943rsnJOGCrI4aMQp"
+      "duration_ms": 193600,
+      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
     },
     {
       "added_at": null,
@@ -791,26 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
+      "duration_ms": 148640,
+      "name": "My Choppa Hate Niggas",
+      "url": "https://open.spotify.com/track/2D2w9943rsnJOGCrI4aMQp"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/3CDVMejYHnB1SkEEx0T1N4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 207586,
       "name": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
       "url": "https://open.spotify.com/track/7i8ncEfBk3s0w5YoG43SV9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Many Men",
-      "url": "https://open.spotify.com/track/3CDVMejYHnB1SkEEx0T1N4"
     },
     {
       "added_at": null,

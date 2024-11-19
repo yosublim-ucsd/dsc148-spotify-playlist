@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,675 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,693 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 31 | [Precious and Grace \(2005 Remaster\)](https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:09 |
 | 32 | [Stages](https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:32 |
 | 33 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
-| 34 | [Asleep in the Desert \(Instrumental\)](https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:29 |
+| 34 | [El Diablo](https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 4:21 |
 | 35 | [Master of Sparks \(2006 Remaster\)](https://open.spotify.com/track/5Xk45LfYIcQbzH5wqHEFi8) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:29 |
 | 36 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
 | 37 | [Velcro Fly](https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:29 |
-| 38 | [El Diablo](https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 4:21 |
+| 38 | [Asleep in the Desert \(Instrumental\)](https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:29 |
 | 39 | [Pearl Necklace](https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 4:04 |
 | 40 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
 | 41 | [Delirious](https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Francine](https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 3:33 |
 | 50 | [La Grange](https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \(‘That Little Ol' Band From Texas’ Original Soundtrack\)](https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw) | 4:41 |
 
-Snapshot ID: `ZzfggAAAAADb+2lkq3Wtsg3MN+gOeWO8`
+Snapshot ID: `ZzkyAAAAAACcd5WfVxSYqY0HveLpOqcH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,129 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,134 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 | 37 | [Perlence](https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 3:25 |
 | 38 | [Fold4,Wrap5](https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 4:02 |
 | 39 | [Pen Expers](https://open.spotify.com/track/1ApkioB2tH12mouyXF4rXJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 7:08 |
-| 40 | [Cipater](https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 8:57 |
-| 41 | [jatevee C](https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 4:14 |
+| 40 | [jatevee C](https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 4:14 |
+| 41 | [Cipater](https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 8:57 |
 | 42 | [Arch Carrier](https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 6:49 |
 | 43 | [Cfern](https://open.spotify.com/track/3CCUQpIukE49RCkbrdQrwS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 6:41 |
 | 44 | [The Egg](https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 7:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 | 49 | [bladelores](https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 12:19 |
 | 50 | [Tewe](https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 6:56 |
 
-Snapshot ID: `ZzfggAAAAABkP7AdkOhf7gyqx/CeNN6e`
+Snapshot ID: `ZzkyAAAAAAD1/hrtkhMuNCEeDf4ZzA/c`

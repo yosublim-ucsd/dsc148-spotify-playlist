@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,052 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,079 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 50 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
 | 51 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
 | 52 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
-| 53 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
-| 54 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
-| 55 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
+| 53 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
+| 54 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
+| 55 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 56 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 |
 | 57 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
 | 58 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 66 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
 | 67 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
 | 68 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
-| 69 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
-| 70 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
+| 69 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
+| 70 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
 | 71 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 | 72 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 73 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 86 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 |
 | 87 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 88 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
-| 89 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
-| 90 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |
+| 89 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |
+| 90 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 91 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 |
 | 92 | [Knee Deep](https://open.spotify.com/track/0KKuy8PGYoCLiQ3thjQ54f) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Knee Deep](https://open.spotify.com/album/56SXpaauOVqfgqd8DrJgbg) | 5:17 |
 | 93 | [anything at all](https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [...and she's still listening](https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr) | 3:09 |

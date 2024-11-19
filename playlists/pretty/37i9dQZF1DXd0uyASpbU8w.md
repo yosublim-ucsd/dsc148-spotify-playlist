@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=klKfxHf3SM2mVEvR7Qfraw">Tyler ICU</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,444 likes - 96 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,515 likes - 96 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,6 +103,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 93 | [Ndaba Zayizolo \(feat\. Springle, Jayjay & UncleKay\)](https://open.spotify.com/track/0E0G92s29s8QdhYjqmnei5) | [AMAQHAWE](https://open.spotify.com/artist/7l99PveYdDE2REAMKj0IZr), [Springle](https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F), [JayJay](https://open.spotify.com/artist/4p68BQo1fUcusPf9sxp0wA), [UncleKay](https://open.spotify.com/artist/4yJcXAE06F1VGw8I8rXKVk) | [Ndaba Zayizolo \(feat\. Springle, Jayjay & UncleKay\)](https://open.spotify.com/album/35qh95K62BlD3pDFWjdbRG) | 6:49 |
 | 94 | [Uyingozi](https://open.spotify.com/track/1yFeCXNuXBEyK6IdXAba5y) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Uyingozi](https://open.spotify.com/album/0sRKMmWdoxlQzIbeUTWIPv) | 1:40 |
 | 95 | [Formal Letter](https://open.spotify.com/track/2SRmGXAV4D1xVDLTjVmJMZ) | [Dlala Regal](https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK) | [Formal Letter](https://open.spotify.com/album/33r8E2a06stx2zSVWHL0Wa) | 6:06 |
-| 96 | [Saisula \(feat\. Ego Slimflow & DJ Raybel\)](https://open.spotify.com/track/4Mg5vYY8YWcRXspkMmEMzC) | [Babygirlmint](https://open.spotify.com/artist/3h6u4GmSmqF1SO8M2vj4Ou), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Mr pilato](https://open.spotify.com/artist/1mODhMrVBvDlmdAhvqrMGz), [Ego Slimflow](https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy), [DJ Raybel](https://open.spotify.com/artist/6JDlk9tWyI6Kyp5bIaBWnr) | [Saisula \(feat\. Ego Slimflow & DJ Raybel\)](https://open.spotify.com/album/01BWVcrfm1nCyful8TUNMY) | 7:56 |
+| 96 | [Saisula \(feat\. Ego Slimflow & DJ Raybel\)](https://open.spotify.com/track/4Mg5vYY8YWcRXspkMmEMzC) | [Babygirlmint](https://open.spotify.com/artist/3h6u4GmSmqF1SO8M2vj4Ou), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Mr Pilato](https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa), [Ego Slimflow](https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy), [DJ Raybel](https://open.spotify.com/artist/6JDlk9tWyI6Kyp5bIaBWnr) | [Saisula \(feat\. Ego Slimflow & DJ Raybel\)](https://open.spotify.com/album/01BWVcrfm1nCyful8TUNMY) | 7:56 |
 
 Snapshot ID: `ZzcbaQAAAABZ6a3Lqmuc6NIBN3cSW18R`

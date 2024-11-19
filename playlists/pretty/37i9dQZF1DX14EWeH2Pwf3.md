@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Nayt in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,533 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,567 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 12 | [Gotham \(feat\. Kid Yugi\)](https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:27 |
 | 13 | [Entro nel posto \(feat\. Tony Boy, Kid Yugi & Capo Plaza\)](https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:59 |
 | 14 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 |
-| 15 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
+| 15 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
 | 16 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 |
 | 17 | [MILANO TESTAROSSA \(feat\. Guè\)](https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MILANO TESTAROSSA \(feat\. Guè\)](https://open.spotify.com/album/74vaTiWmSxllb0p5J1UyMB) | 3:18 |
 | 18 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 |

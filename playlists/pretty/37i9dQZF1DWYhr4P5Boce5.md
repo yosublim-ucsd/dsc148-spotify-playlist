@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,464 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,482 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 64 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 65 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
 | 66 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 |
-| 67 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
-| 68 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
+| 67 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
+| 68 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
 | 69 | [Route 777](https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Songs from the Cloud](https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu) | 3:29 |
 | 70 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 |
 | 71 | [Here for You](https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Here for You](https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl) | 2:32 |

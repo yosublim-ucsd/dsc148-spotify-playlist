@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: A.CHAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,139 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,135 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 97 | [Epica](https://open.spotify.com/track/61zBrSzch8LvD0oeOhC2LN) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 3:00 |
 | 98 | [Sigues Con El \- Remix](https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sigues Con El \(Remix\)](https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM) | 3:09 |
 | 99 | [KOMBOLEWA \- Remix](https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [KOMBOLEWA \(Remix\)](https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST) | 2:51 |
-| 100 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 |
+| 100 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 |
 
 Snapshot ID: `Zy5bngAAAAAs/UMYBJuFo8vTR8HvE6PB`

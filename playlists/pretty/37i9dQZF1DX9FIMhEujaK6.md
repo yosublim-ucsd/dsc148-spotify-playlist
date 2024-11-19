@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,910 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,070 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 31 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
 | 32 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
 | 33 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
-| 34 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
+| 34 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
 | 35 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
-| 36 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 36 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 37 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 38 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
 | 39 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |

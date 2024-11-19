@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 128415,
+  "num_followers": 128457,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "A-Sides, Vol. 6",
         "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Frequencies",
         "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
       },
@@ -507,6 +507,26 @@
       "duration_ms": 207960,
       "name": "LFO - Leeds Warehouse Mix",
       "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Gustaph",
+          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
+        }
+      ],
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -671,26 +691,6 @@
       "duration_ms": 205160,
       "name": "Acid Bit",
       "url": "https://open.spotify.com/track/62qTgeNdswNbPAsY9qm8vk"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "The Feast Of The Broken Heart",
-        "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        },
-        {
-          "name": "Gustaph",
-          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
-        }
-      ],
-      "duration_ms": 281815,
-      "name": "Do You Feel The Same?",
-      "url": "https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI"
     },
     {
       "added_at": "2024-07-10 08:16:23",

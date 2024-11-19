@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavit\u00f3ria",
-  "num_followers": 436108,
+  "num_followers": 436147,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Croch\u00ea",
+        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 217100,
+      "name": "Croch\u00ea",
+      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Mais de N\u00f3s",
         "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 134161,
       "name": "Te espero ou fujo?",
       "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Croch\u00ea",
-        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 217100,
-      "name": "Croch\u00ea",
-      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Degrad\u00ea",
+        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 238582,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 165568,
       "name": "Mina Sereia",
       "url": "https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Degrad\u00ea",
-        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 238582,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "TUDO ACONTECE AGORA PT.2",
+        "url": "https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C"
+      },
+      "artists": [
+        {
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+        }
+      ],
+      "duration_ms": 213338,
+      "name": "Sombra No Sol",
+      "url": "https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Embeleza o Meu Dia",
         "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 172760,
       "name": "Embeleza o Meu Dia",
       "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Fita do Bonfim",
-        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 205961,
-      "name": "Fita do Bonfim",
-      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+        "name": "Fita do Bonfim",
+        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
       },
       "artists": [
         {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
         }
       ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+      "duration_ms": 205961,
+      "name": "Fita do Bonfim",
+      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 227906,
       "name": "Prece",
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Todos os Futuros",
-        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 152027,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1355,6 +1355,22 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Todos os Futuros",
+        "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 152027,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 155100,
       "name": "Apressa",
       "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "TUDO ACONTECE AGORA PT.2",
-        "url": "https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C"
-      },
-      "artists": [
-        {
-          "name": "O Grilo",
-          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
-        }
-      ],
-      "duration_ms": 213338,
-      "name": "Sombra No Sol",
-      "url": "https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk"
     }
   ],
   "unique_name": "Pop Leve",

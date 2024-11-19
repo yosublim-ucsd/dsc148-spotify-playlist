@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Kid Cudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,862 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,045 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

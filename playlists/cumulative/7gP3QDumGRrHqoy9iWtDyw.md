@@ -4,7 +4,7 @@
 
 > 
 
-237 songs - 15 hr 17 min
+240 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Gasoline](https://open.spotify.com/track/0FEXT2ZA78cWVPHFLrZwdD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 4:21 | 2023-08-17 |  |
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-08-20 | 2024-01-21 |
 | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/track/0eL7XibRJtKYfWH5H0Fnk5) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN), [MariaDennis](https://open.spotify.com/artist/3YU24EoiqfIRzZ2RR1xsL1) | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/album/4leFDUKpsKCCwiBEpzDHIs) | 2:49 | 2024-02-14 |  |
+| [Get Hyped](https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Get Hyped](https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M) | 3:17 | 2024-11-18 |  |
 | [Get On The Floor](https://open.spotify.com/track/4pLcVoeZbGRnid7stPrsWy) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Get On The Floor](https://open.spotify.com/album/7ypxsAkBOezGD31T616zv4) | 2:22 | 2023-07-20 |  |
 | [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-08 | 2024-05-22 |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \- Edit Mix](https://open.spotify.com/track/2j3kCSx9ljhPkk2tYuNVZH) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Gonna Make You Sweat \(Everybody Dance Now\) \(Edit\)](https://open.spotify.com/album/2pslnaxRj3AB3O7Tzv2wGg) | 2:38 | 2023-07-28 |  |
@@ -97,6 +98,7 @@
 | [H\*es](https://open.spotify.com/track/27Dsm8IzYaLkec04yeCyzc) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [H\*es](https://open.spotify.com/album/62LmVQgKcN1LZlrfeKu5b6) | 4:12 | 2024-08-28 |  |
 | [Hold Me Close](https://open.spotify.com/track/7LY5bGhl8Pnx9LkIwyVgGq) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Hold Me Close EP](https://open.spotify.com/album/2WdPVFXYS5G0yIBMlM6jIq) | 2:32 | 2024-04-14 |  |
 | [Hold On](https://open.spotify.com/track/4N0D6t3zCjyYjF7GR3jH4T) | [Zsak](https://open.spotify.com/artist/6lDaKCEOsU9d3gedCSigq1) | [Hold On](https://open.spotify.com/album/3YvhnnkXqisgWsKXFvZJ6A) | 3:20 | 2022-12-18 |  |
+| [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 | 2024-11-18 |  |
 | [House Affair](https://open.spotify.com/track/5ZNomp1OsMpUMGNy9cXw6v) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Bruno Blanc](https://open.spotify.com/artist/0bkcBCt15UZF5yvj3b4NCa) | [House Affair](https://open.spotify.com/album/2YWrXRsChp6NHq0g1WsONZ) | 3:07 | 2023-09-21 |  |
 | [House All The Time](https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [House All The Time](https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc) | 2:44 | 2023-04-04 |  |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 |  |
@@ -111,6 +113,7 @@
 | [IRLY \(I Really Love You\)](https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [IRLY \(I Really Love You\)](https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk) | 2:50 | 2023-03-09 |  |
 | [Is It All Over My Face \- Black V Neck Remix](https://open.spotify.com/track/1WXqBRHwlkNGHHeSzw2tjA) | [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Is It All Over My Face \(Black V Neck Remix\)](https://open.spotify.com/album/2Aipcw26kHsVXwmy7AIZ8b) | 3:48 | 2022-10-21 |  |
 | [Island Fever](https://open.spotify.com/track/70Gms13Wyx7nMBE95TNJ8Q) | [Notorious Lynch](https://open.spotify.com/artist/41xBuYs7L9gowDXy9zM1Xg) | [Island Fever](https://open.spotify.com/album/1WHvcz2G4cvXpX12RFWsyc) | 2:51 | 2024-01-23 |  |
+| [It's a Party \(PRX002\)](https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [It's A Party \(PRX002\)](https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG) | 3:23 | 2024-11-18 |  |
 | [It's A Vibe](https://open.spotify.com/track/6MQQus7RpPd8ctQUnUwTnf) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [It's A Vibe](https://open.spotify.com/album/7InXXMcMWLaiVa1D6ToHy8) | 2:50 | 2024-01-19 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2024-04-05 |  |
 | [Its a House Thing \- Extended Mix](https://open.spotify.com/track/4OPPXzt27suid0jPCAKiHS) | [Trimtone](https://open.spotify.com/artist/4vkaR1SopziU4PUeEvhnoI) | [Its a House Thing](https://open.spotify.com/album/31C15JvMgxiEl8CWAIe343) | 5:50 | 2024-01-20 |  |

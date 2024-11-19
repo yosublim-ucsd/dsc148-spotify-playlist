@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Samuraï & Leo Rizzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,347 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,353 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 43 | [Cama Vacía](https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Cama Vacía](https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW) | 3:59 |
 | 44 | [Lo Siento](https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Lo Siento](https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ) | 3:33 |
 | 45 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
-| 46 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
-| 47 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
+| 46 | [MALAVIDA \(feat\. Evlay\)](https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 2:56 |
+| 47 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
 | 48 | [santos inocentes](https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [santos inocentes](https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9) | 2:52 |
 | 49 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
 | 50 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 55 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 56 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 |
 | 57 | [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 |
-| 58 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 |
-| 59 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 |
+| 58 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 |
+| 59 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 |
 | 60 | [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
 | 61 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
 | 62 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |

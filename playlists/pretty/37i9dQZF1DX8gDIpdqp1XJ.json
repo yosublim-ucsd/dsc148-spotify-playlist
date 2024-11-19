@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock, neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 868561,
+  "num_followers": 868734,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwRgjQAAAADfjnA3ul4tTaVVKbfmBcx7",
+  "snapshot_id": "ZzvK+AAAAACuXs3pGAXNHEqfJdA2/Jt9",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn"
     },
     {
+      "added_at": "2024-11-18 23:17:12",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/4KcksOCN8EwLzASgf2T7gB"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3SnOQ9JWdakJ4ta7Zte3mG"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "kazekage",
@@ -123,6 +139,22 @@
       "duration_ms": 267000,
       "name": "Weeping Song",
       "url": "https://open.spotify.com/track/7gg9gOpgVW1rxXrvpzqcUh"
+    },
+    {
+      "added_at": "2024-11-18 23:17:12",
+      "album": {
+        "name": "Graucha Max",
+        "url": "https://open.spotify.com/album/41rULKRqkYBboKmWkZmekn"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 335474,
+      "name": "Graucha Max",
+      "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -193,6 +225,22 @@
       "url": "https://open.spotify.com/track/0N3N1q600sON74ul6aF9O0"
     },
     {
+      "added_at": "2024-11-18 23:17:12",
+      "album": {
+        "name": "TANDANG",
+        "url": "https://open.spotify.com/album/5d2oeB6Uf0t0lTeQnIOXys"
+      },
+      "artists": [
+        {
+          "name": "Sego",
+          "url": "https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj"
+        }
+      ],
+      "duration_ms": 329516,
+      "name": "MOM",
+      "url": "https://open.spotify.com/track/56kFAxC94Ek5ZWFoY2TjaT"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "AMAMA",
@@ -251,6 +299,22 @@
       "duration_ms": 237727,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
+    },
+    {
+      "added_at": "2024-11-18 23:17:12",
+      "album": {
+        "name": "Different Directions",
+        "url": "https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc"
+      },
+      "artists": [
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Different Directions",
+      "url": "https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1163,22 +1227,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Gem & I",
-        "url": "https://open.spotify.com/album/3UQvkojaS56sOTpiKZalUW"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 219885,
-      "name": "Gem & I",
-      "url": "https://open.spotify.com/track/5cOaDhLJ6dGnIMAFeHsjT5"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Separate Ways (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
       },
@@ -1267,22 +1315,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hot Ghee",
-        "url": "https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh"
-      },
-      "artists": [
-        {
-          "name": "Night Beats",
-          "url": "https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Hot Ghee",
-      "url": "https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
       },
@@ -1295,26 +1327,6 @@
       "duration_ms": 188764,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "The Dark Prince (feat. Mac DeMarco)",
-        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 214356,
-      "name": "The Dark Prince (feat. Mac DeMarco)",
-      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1439,38 +1451,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Attractive",
-        "url": "https://open.spotify.com/album/0IKXyzQjx7rhwvpsKtT06p"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 172720,
-      "name": "Attractive",
-      "url": "https://open.spotify.com/track/2SsuEPUj0bM64zQkJTkiwY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Higher Self",
-        "url": "https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 191221,
-      "name": "Higher Self",
-      "url": "https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/0OteLvsgL7ZN14DLYQzBaO"
       },
@@ -1487,38 +1467,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Scattered Dreams",
-        "url": "https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh"
-      },
-      "artists": [
-        {
-          "name": "The Undercover Dream Lovers",
-          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
-        }
-      ],
-      "duration_ms": 234583,
-      "name": "Scattered Dreams",
-      "url": "https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Skin And The Glove",
         "url": "https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ"
       },
@@ -1531,22 +1479,6 @@
       "duration_ms": 362523,
       "name": "The Skin And The Glove",
       "url": "https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Famagusta Port",
-        "url": "https://open.spotify.com/album/6jX03XyIsmm6oGk0K6OCuH"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 118686,
-      "name": "Famagusta Port",
-      "url": "https://open.spotify.com/track/1iJuO3EHGlZO91i1Maz92b"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1579,22 +1511,6 @@
       "duration_ms": 210000,
       "name": "A Song About the Sun",
       "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "a brief dream of sun",
-        "url": "https://open.spotify.com/album/5m0OjAErvHNcREsNbY1SHG"
-      },
-      "artists": [
-        {
-          "name": "dayaway",
-          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
-        }
-      ],
-      "duration_ms": 206910,
-      "name": "a brief dream of sun",
-      "url": "https://open.spotify.com/track/4NnhwPaaRAxYQNjf63jixW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1663,26 +1579,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        },
-        {
-          "name": "BNYX\u00ae",
-          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
-        }
-      ],
-      "duration_ms": 98042,
-      "name": "Gave U My Love",
-      "url": "https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Exotico",
         "url": "https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1"
       },
@@ -1719,22 +1615,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "What U Want",
-        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "What U Want",
-      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Do You Love Her Now / He",
         "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
       },
@@ -1763,22 +1643,6 @@
       "duration_ms": 229053,
       "name": "Everything Unspoken",
       "url": "https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Dust Bunny",
-        "url": "https://open.spotify.com/album/0qMEPsD1rNIgtJ5dBdBtro"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Dust Bunny",
-      "url": "https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl"
     },
     {
       "added_at": "2024-08-02 04:00:00",

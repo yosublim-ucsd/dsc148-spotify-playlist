@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Lil Baby, BossMan DLow and Young Nudy.
+> Music from Lil Baby, GloRilla and Young Nudy.
 
 2,223 songs - 4 day 19 hr 9 min
 

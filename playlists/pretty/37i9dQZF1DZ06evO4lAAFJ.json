@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 634927,
+  "num_followers": 634964,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACJ4v53KLq1sLvEuvN2IiJm",
+  "snapshot_id": "ZzkyAAAAAABDWJ3NCLy9SNtEzA/tt/si",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 88545,
-      "name": "Que Se Muere Que Se Muere",
-      "url": "https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg"
+      "duration_ms": 253108,
+      "name": "Aunque Es De Noche",
+      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque Es De Noche",
-        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 253108,
-      "name": "Aunque Es De Noche",
-      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
+      "duration_ms": 88545,
+      "name": "Que Se Muere Que Se Muere",
+      "url": "https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg"
     },
     {
       "added_at": null,

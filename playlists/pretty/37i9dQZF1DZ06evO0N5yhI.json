@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 130723,
+  "num_followers": 130745,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAmWWX/l3+b5NcP4Q5+Hqqw",
+  "snapshot_id": "ZzkyAAAAAADgw+x16xCrPiYL+AQUPMmR",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Soft Machine",
-        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh_89rmgqQ\">Bonnie &quot;Prince&quot; Billy</a>",
-  "num_followers": 67583,
+  "num_followers": 67589,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQNeS+6qDkZGsV1jIMOrFGKJnoEpyU",
+  "snapshot_id": "AAAQN9CSl6ie0vKJcPh/UC9kL4G9XqWf",
   "tracks": [
+    {
+      "added_at": "2024-11-18 17:07:15",
+      "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
     {
       "added_at": "2024-11-13 17:52:37",
       "album": {

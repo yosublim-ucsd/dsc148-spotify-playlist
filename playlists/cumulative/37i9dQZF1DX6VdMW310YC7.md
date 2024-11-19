@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,697 songs - 4 day 20 hr 13 min
+1,698 songs - 4 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | [No Time Like Now](https://open.spotify.com/track/2uA2UMcHR5gztUSECJjK8k) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Awake](https://open.spotify.com/album/5rvIgXvAPGWspXY4rDLkeU) | 2:03 | 2020-05-18 | 2020-08-20 |
 | [No Time Like Now \- Yoste Remix](https://open.spotify.com/track/7aZnBNLw2fiQ2nFYSICkXs) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Awake \(Remixes\)](https://open.spotify.com/album/4f9voI47wfAZIp0UgwGy6o) | 3:01 | 2020-03-22 | 2022-04-19 |
 | [No Way Back](https://open.spotify.com/track/5pt3fpHOY7hevMXxyj8P4S) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Weird Kid](https://open.spotify.com/album/0exttWypl3tW1MIkkeqgVu) | 4:02 | 2020-03-18 | 2020-07-18 |
+| [No Way Back](https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Circle In Time: Bonus Tracks](https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC) | 4:33 | 2024-11-15 |  |
 | [Nobody](https://open.spotify.com/track/5b3VOW8Z3KRPrUS2889NfE) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Ghost Notes](https://open.spotify.com/album/17RQgvIhxDC17NKO71jkZx) | 4:28 | 2020-05-22 | 2021-12-21 |
 | [Nobody Seems To Care \- Anjunadeep 08 Mix](https://open.spotify.com/track/1x59oKVUwdqBUMWjc9OtQN) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 5:52 | 2020-05-22 | 2020-07-03 |
 | [Nocturne \- Frederic Robinson Remix](https://open.spotify.com/track/0QvohxRXfJAuCWNnaBk2N1) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Frederic Robinson](https://open.spotify.com/artist/3wCcW4YNnb7qT4wOMBfkfr) | [Nocturne \(Frederic Robinson Remix\)](https://open.spotify.com/album/1fYec5YDMGEWVff8XiXiBo) | 4:03 | 2020-05-18 | 2021-03-10 |
@@ -1166,7 +1167,7 @@
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2020-05-18 | 2020-10-09 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-26 | 2022-09-10 |
 | [Pieces](https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Pieces](https://open.spotify.com/album/1taAHUvfsRj7BYIkPO06zc) | 2:36 | 2024-09-20 |  |
-| [Pieces](https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Pieces](https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC) | 4:17 | 2024-04-05 |  |
+| [Pieces](https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Pieces](https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC) | 4:17 | 2024-04-05 | 2024-11-19 |
 | [Pipi Dormir](https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Pipi Dormir](https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU) | 6:34 | 2023-10-20 |  |
 | [Places](https://open.spotify.com/track/1FxZblJPTjTl7SWSOwdmBk) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Places](https://open.spotify.com/album/4f941DhLsNiB6DsqOojyhY) | 3:05 | 2021-03-19 | 2022-04-23 |
 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-07-19 |  |

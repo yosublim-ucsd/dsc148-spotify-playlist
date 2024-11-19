@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,659 likes - 47 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,656 likes - 47 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 41 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
 | 42 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
 | 43 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |
-| 44 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 |
-| 45 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 |
+| 44 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 |
+| 45 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 |
 | 46 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
 | 47 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 |
 
-Snapshot ID: `ZzfggAAAAACe9OfRyU1i+We/aetUf+EJ`
+Snapshot ID: `ZzkyAAAAAACkILpxYjZMa9OFiHxyfPIf`

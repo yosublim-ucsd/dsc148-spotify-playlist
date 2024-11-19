@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 233650,
       "name": "A Soft Echo",
       "url": "https://open.spotify.com/track/0p4YqnuGL81qRn6UNg4mxN"
@@ -2350,10 +2350,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 123392,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR"
+    },
+    {
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl"
     },
     {
       "album": {
@@ -4553,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/6GniRMiPkWWL8YdSfHCrXY"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3lIMt3XL0CRwWGeaNZNlub"
+    },
+    {
+      "album": {
         "name": "Nocte Tace",
         "url": "https://open.spotify.com/album/35Swb39YQrdaKn0AhCXukz"
       },
@@ -5482,7 +5518,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 183750,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr"
@@ -6404,6 +6440,24 @@
       "duration_ms": 175828,
       "name": "Stability",
       "url": "https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS"
+    },
+    {
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/52JcE8PUN2E7x1rtjEHHmL"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156540,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/307xoWpOJypO6nvS1dx7YR"
     },
     {
       "album": {

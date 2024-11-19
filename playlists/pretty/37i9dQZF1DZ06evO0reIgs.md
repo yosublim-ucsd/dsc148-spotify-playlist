@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,535 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,532 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 37 | [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 |
 | 38 | [Te Adoro](https://open.spotify.com/track/1QTGb30ZhoXhoWGbD2TpTE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:53 |
 | 39 | [Ela Tá Que Tá](https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Felipe Flip](https://open.spotify.com/artist/233YXmma3OPL1trG1x3WpS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Ela Tá Que Tá](https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27) | 3:26 |
-| 40 | [Subirusdoistiozin](https://open.spotify.com/track/5F6VXrAcAC0fQ9G6D2S646) | [Rap Reggae Party](https://open.spotify.com/artist/0H0rXzRoYQpQdzHOkfg1fl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Subirusdoistiozin](https://open.spotify.com/album/1bQIRQRTxfnLjBvkPZbavU) | 4:31 |
-| 41 | [Mar De Luz](https://open.spotify.com/track/27VLbNPyJyAtBdblDVepuz) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [ELAS](https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP) | 2:20 |
-| 42 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
+| 40 | [Mar De Luz](https://open.spotify.com/track/27VLbNPyJyAtBdblDVepuz) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [ELAS](https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP) | 2:20 |
+| 41 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
+| 42 | [Subirusdoistiozin](https://open.spotify.com/track/5F6VXrAcAC0fQ9G6D2S646) | [Rap Reggae Party](https://open.spotify.com/artist/0H0rXzRoYQpQdzHOkfg1fl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Subirusdoistiozin](https://open.spotify.com/album/1bQIRQRTxfnLjBvkPZbavU) | 4:31 |
 | 43 | [Dançar Com Você](https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:53 |
 | 44 | [Fé](https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:45 |
 | 45 | [Eu Penso](https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 50 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 |
 | 51 | [O Corre](https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [O Corre](https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx) | 3:03 |
 
-Snapshot ID: `ZzfggAAAAAB5VJM7ZKhZxrHPAjr4CM//`
+Snapshot ID: `ZzkyAAAAAAB/dWZuI84ly2e1AQfhKZgL`

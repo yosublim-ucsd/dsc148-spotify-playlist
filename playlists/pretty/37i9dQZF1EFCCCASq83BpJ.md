@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,595 likes - 112 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,596 likes - 112 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 7 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 8 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 |
 | 9 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
-| 10 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 |
-| 11 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
+| 10 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
+| 11 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 |
 | 12 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |
 | 13 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 |
 | 14 | [Problem](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:13 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 29 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 |
 | 30 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
 | 31 | [everytime](https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:52 |
-| 32 | [Focus](https://open.spotify.com/track/4r4V1wYecTxSAAXV11cFPD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1TVt7uWfV3vLiU8bEmBEWL) | 3:31 |
-| 33 | [Almost Is Never Enough](https://open.spotify.com/track/442j8VxaB60dWf9cBFuX5w) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:27 |
+| 32 | [Almost Is Never Enough](https://open.spotify.com/track/442j8VxaB60dWf9cBFuX5w) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:27 |
+| 33 | [Focus](https://open.spotify.com/track/4r4V1wYecTxSAAXV11cFPD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1TVt7uWfV3vLiU8bEmBEWL) | 3:31 |
 | 34 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 |
 | 35 | [Be Alright](https://open.spotify.com/track/6TOfPHF57Qhlbfm5lhZ9k1) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 2:59 |
 | 36 | [bad idea](https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:27 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 111 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
 | 112 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `Abhx3gAAAAAMLGUDqNv+giyJfrVJTqtv`
+Snapshot ID: `Abh3fgAAAABvDRnVO4MjOnfEjx0hcfBx`

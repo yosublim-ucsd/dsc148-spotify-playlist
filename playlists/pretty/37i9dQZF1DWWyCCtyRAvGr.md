@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,785 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,873 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 68 | [Like a Ship](https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 4:23 |
 | 69 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 |
 | 70 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 |
-| 71 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 |
+| 71 | [Big Town Playboy](https://open.spotify.com/track/46UJ5i1A99706FL2khLqhx) | [Eddie Taylor](https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot) | [Big Town Playboy](https://open.spotify.com/album/7EqusbcNeJfpCn5SW2vmOi) | 2:59 |
 | 72 | [The Game](https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6) | [Lightnin' Ray](https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s) | [Two Sides to the Story](https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn) | 6:05 |
-| 73 | [Big Town Playboy](https://open.spotify.com/track/46UJ5i1A99706FL2khLqhx) | [Eddie Taylor](https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot) | [Big Town Playboy](https://open.spotify.com/album/7EqusbcNeJfpCn5SW2vmOi) | 2:59 |
+| 73 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 |
 | 74 | [Rainy Day Blues](https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Songbird](https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv) | 5:31 |
-| 75 | [Keep On Eatin'](https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 2:37 |
-| 76 | [Jake's Blues](https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI) | [Johnnie Red Latham](https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U) | [Jake's Blues](https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I) | 3:56 |
+| 75 | [Jake's Blues](https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI) | [Johnnie Red Latham](https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U) | [Jake's Blues](https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I) | 3:56 |
+| 76 | [Keep On Eatin'](https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 2:37 |
 | 77 | [Help Me](https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 3:30 |
 | 78 | [Dynaflow Blues](https://open.spotify.com/track/5ZL5nn28AOKGDShsiJisMf) | [The Johnny Shines Blues Band](https://open.spotify.com/artist/72LpXS55YCS4rHy7NqiJ2N) | [Chicago/The Blues/Today!](https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw) | 2:40 |
 | 79 | [Back on the Road](https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc) | [Sean Taylor](https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe) | [The Beat Goes On](https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ) | 2:33 |

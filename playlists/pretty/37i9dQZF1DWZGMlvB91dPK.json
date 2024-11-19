@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 2957,
+  "num_followers": 2958,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Nouveau Genre",
-        "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
       },
       "artists": [
         {
-          "name": "KLON",
-          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+          "name": "Hyper Jacuzzi",
+          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
+      "duration_ms": 258560,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
     },
     {
       "added_at": "2024-01-15 17:31:32",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "De bois et de fum\u00e9e",
-        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
+        "name": "Nouveau Genre",
+        "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
       },
       "artists": [
         {
-          "name": "Joanne Radao",
-          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
         }
       ],
-      "duration_ms": 151000,
-      "name": "De bois et de fum\u00e9e",
-      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
+      "duration_ms": 267293,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "De bois et de fum\u00e9e",
+        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
+      },
+      "artists": [
+        {
+          "name": "Joanne Radao",
+          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "De bois et de fum\u00e9e",
+      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "and I can't breathe enough",
         "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 204320,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
-      },
-      "artists": [
-        {
-          "name": "Hyper Jacuzzi",
-          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "and I can't breathe enough",
+        "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "FUCK IT WE BALL !",
         "url": "https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "and I can't breathe enough",
-        "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
-      },
-      "artists": [
-        {
-          "name": "Cosmopaark",
-          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Can't Wait",
-      "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
     },
     {
       "added_at": "2023-11-23 11:08:33",

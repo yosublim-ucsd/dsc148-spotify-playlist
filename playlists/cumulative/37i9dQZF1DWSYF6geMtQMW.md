@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: סטטיק
 
-85 songs - 4 hr 27 min
+87 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-07-01 | 2024-08-13 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-11 |  |
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2024-07-01 | 2024-07-30 |
+| [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-18 |  |
 | [אין אותי](https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:28 | 2024-07-29 |  |
 | [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-07-01 |  |
 | [אין מרחק בינינו](https://open.spotify.com/track/5vrzcGVyLeru7vHm89EvRr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אין מרחק בינינו](https://open.spotify.com/album/7BdsF83eS87kdszoELUDcO) | 3:00 | 2024-09-30 |  |
@@ -71,13 +72,14 @@
 | [משהו אמיתי בעיניים](https://open.spotify.com/track/74kYHwU43s49Y5AukKArWQ) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [משהו אמיתי בעיניים](https://open.spotify.com/album/6QPX656Si3DHxKEgDXoi9G) | 2:51 | 2024-07-01 | 2024-10-01 |
 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 | 2024-07-01 | 2024-10-01 |
 | [נאדי באדי](https://open.spotify.com/track/6g84RaMubeO44LyTDghqUB) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [נאדי באדי](https://open.spotify.com/album/79JwxRq2qhfLrvxl7s03pR) | 2:30 | 2024-07-01 |  |
+| [נרקומן של בדידות](https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:17 | 2024-11-18 |  |
 | [נתראה בגלגול הבא](https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נתראה בגלגול הבא](https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9) | 2:45 | 2024-07-01 | 2024-07-23 |
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2024-07-01 | 2024-09-10 |
 | [עברנו הכל](https://open.spotify.com/track/4L5Uj4Dt6rjFL0H7hl2qHF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עברנו הכל](https://open.spotify.com/album/3PIMlTzSQFaYRYcsD2pwPn) | 3:15 | 2024-09-23 |  |
 | [עובד בכפר](https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [עובד בכפר](https://open.spotify.com/album/63aFSZxyANJzJYu4dQCLrw) | 3:02 | 2024-08-26 |  |
 | [עוד לא נגמר](https://open.spotify.com/track/2tVQnp6k62bMTsWQJYvQXz) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:46 | 2024-07-29 | 2024-09-10 |
 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2024-07-01 |  |
-| [עכשיו התור לאהבה](https://open.spotify.com/track/49pn67BTjYDLqzDkOFrm1E) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עכשיו התור לאהבה](https://open.spotify.com/album/2BdF5BnILzlecemuSOuzxE) | 3:31 | 2024-10-07 |  |
+| [עכשיו התור לאהבה](https://open.spotify.com/track/49pn67BTjYDLqzDkOFrm1E) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עכשיו התור לאהבה](https://open.spotify.com/album/2BdF5BnILzlecemuSOuzxE) | 3:31 | 2024-10-07 | 2024-11-19 |
 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 | 2024-07-01 |  |
 | [פלסטרים](https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [פלסטרים](https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV) | 2:58 | 2024-07-01 |  |
 | [צ'יק צ'ק](https://open.spotify.com/track/78FrkrO3KgizjXDObyFvzW) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [צ'יק צ'ק](https://open.spotify.com/album/6CPaapRNDzWiDB80rxJ2cn) | 2:12 | 2024-09-16 |  |
@@ -89,7 +91,7 @@
 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 | 2024-07-01 |  |
 | [שוב אני בדד](https://open.spotify.com/track/1EZj3gwDRCDVTxJAIGUtMQ) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [שוב אני בדד](https://open.spotify.com/album/6VooCgGF8j8NRBiOclQHUF) | 3:13 | 2024-08-19 | 2024-10-08 |
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-09 |  |
-| [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-07-01 |  |
+| [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-07-01 | 2024-11-19 |
 | [תמיד אוהב אותי](https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [תמיד אוהב אותי](https://open.spotify.com/album/1YdxoBErtg9MusUuZ6hjSp) | 2:52 | 2024-09-23 |  |
 | [תסביכים קשים](https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu) | [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [תסביכים קשים](https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip) | 2:29 | 2024-09-23 |  |
 | [תרקדי \(7.10.23\)](https://open.spotify.com/track/0CBpvL8Z0NRdazbJ4HDm9M) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [תרקדי \(7.10.23\)](https://open.spotify.com/album/1qjiaeASOpQs4MJbc5k3of) | 5:00 | 2024-07-01 | 2024-07-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: frytz, Dominik Hartz",
-  "num_followers": 441368,
+  "num_followers": 441425,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaA8AAAAAAKsvh3QpgX5dhYN7VRJyt/",
+  "snapshot_id": "ZztNLwAAAACdUP7UOA/9wRgicH+rodme",
   "tracks": [
     {
       "added_at": "2024-11-14 23:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "niemand",
-        "url": "https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 146999,
-      "name": "niemand",
-      "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 164585,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "niemand",
+        "url": "https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "duration_ms": 146999,
+      "name": "niemand",
+      "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -95,18 +95,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "mund zu mund",
-        "url": "https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c"
+        "name": "Juli",
+        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
       },
       "artists": [
         {
-          "name": "Wolke 8",
-          "url": "https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26"
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
         }
       ],
-      "duration_ms": 101461,
-      "name": "mund zu mund",
-      "url": "https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i"
+      "duration_ms": 189840,
+      "name": "Juli",
+      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "mund zu mund",
+        "url": "https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c"
+      },
+      "artists": [
+        {
+          "name": "Wolke 8",
+          "url": "https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26"
+        }
+      ],
+      "duration_ms": 101461,
+      "name": "mund zu mund",
+      "url": "https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Rosaroter Tee",
         "url": "https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9"
       },
@@ -143,18 +159,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Juli",
-        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
+        "name": "4 Uhr",
+        "url": "https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf"
       },
       "artists": [
         {
-          "name": "fyne",
-          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Juli",
-      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
+      "duration_ms": 180000,
+      "name": "4 Uhr",
+      "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -171,22 +187,6 @@
       "duration_ms": 164232,
       "name": "freier fall",
       "url": "https://open.spotify.com/track/4vGNeCPpopWVulbYqo7npP"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "4 Uhr",
-        "url": "https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf"
-      },
-      "artists": [
-        {
-          "name": "jaschu",
-          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "4 Uhr",
-      "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
     },
     {
       "added_at": "2024-11-14 23:00:00",

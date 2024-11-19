@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,866 likes - 89 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,872 likes - 89 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 34 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 35 | [Reggae en el Universo](https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:06 |
 | 36 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
-| 37 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
-| 38 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
+| 37 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
+| 38 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
 | 39 | [Cinco](https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [La Misión](https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko) | 3:28 |
 | 40 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
 | 41 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 42 | [Oyelo](https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 3:08 |
-| 43 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
-| 44 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 |
+| 43 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 |
+| 44 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
 | 45 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
 | 46 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 |
 | 47 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |

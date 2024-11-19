@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,977 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,011 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 44 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 |
 | 45 | [Corazón Cromado](https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:42 |
 | 46 | [Heisenbern](https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:07 |
-| 47 | [LC Farmz](https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [LC Farmz](https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas) | 2:44 |
-| 48 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 |
-| 49 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
-| 50 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 |
+| 47 | [Chakalon](https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Chakalon](https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg) | 2:50 |
+| 48 | [LC Farmz](https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [LC Farmz](https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas) | 2:44 |
+| 49 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 |
+| 50 | [The Bank Robbery](https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Bank Robbery \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C) | 2:38 |
 
-Snapshot ID: `ZzfggAAAAACmJjM9nxT1yYalrnb4rvu7`
+Snapshot ID: `ZzkyAAAAAACgeiRD810JkraoSpqW/XMq`

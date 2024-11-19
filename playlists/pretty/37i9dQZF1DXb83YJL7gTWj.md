@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,007 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,003 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 77 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 78 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
 | 79 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
-| 80 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
+| 80 | [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 |
 | 81 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 |
-| 82 | [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 |
-| 83 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
-| 84 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
+| 82 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
+| 83 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
+| 84 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
 | 85 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 |
 | 86 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 |
 | 87 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 90 | [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 |
 | 91 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 |
 | 92 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
-| 93 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
-| 94 | [Paper Airplanes](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 |
+| 93 | [Paper Airplanes](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 |
+| 94 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
 | 95 | [Hello Love](https://open.spotify.com/track/40bgBzGrYBURVjiQ4itEkh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:42 |
 | 96 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 97 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |

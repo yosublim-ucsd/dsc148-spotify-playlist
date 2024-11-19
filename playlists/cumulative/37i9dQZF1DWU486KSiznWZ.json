@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 258696,
       "name": "Admentik",
       "url": "https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 260346,
       "name": "Al Madina",
       "url": "https://open.spotify.com/track/4IXFCKbDeVXSEoNOMDxrFU"
@@ -432,6 +432,24 @@
       "duration_ms": 258599,
       "name": "Anazer Al Shobak",
       "url": "https://open.spotify.com/track/2TknqlPsUyLXkljtqw3LYW"
+    },
+    {
+      "album": {
+        "name": "Asaal El Najma",
+        "url": "https://open.spotify.com/album/5J6mbficCluwFxHcCvXNu9"
+      },
+      "artists": [
+        {
+          "name": "Khaled Abdul Rahman",
+          "url": "https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250410,
+      "name": "Asaal El Najma",
+      "url": "https://open.spotify.com/track/0brYzmKMkq8NGF7Y1W2VQ1"
     },
     {
       "album": {
@@ -864,7 +882,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 364205,
       "name": "Estihala",
       "url": "https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG"
@@ -948,6 +966,24 @@
       "duration_ms": 146760,
       "name": "Fi Bali",
       "url": "https://open.spotify.com/track/5qQCl5LhHzUXOW8ngCsCjq"
+    },
+    {
+      "album": {
+        "name": "Gedidi Ent",
+        "url": "https://open.spotify.com/album/2XMuog8bq0jcsClWvVzebk"
+      },
+      "artists": [
+        {
+          "name": "Waleed Al Shami",
+          "url": "https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261930,
+      "name": "Gedidi Ent",
+      "url": "https://open.spotify.com/track/1V0IXSeAke4TvLjy1cNIdj"
     },
     {
       "album": {
@@ -1275,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Estihala",
+        "url": "https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236652,
+      "name": "Khali Al Mahabba",
+      "url": "https://open.spotify.com/track/07aCucAZu8oV1JpoA4bjTv"
+    },
+    {
+      "album": {
         "name": "Khaloony",
         "url": "https://open.spotify.com/album/769Ve8jTV2eKv85Cjh9bdy"
       },
@@ -1322,7 +1376,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 280968,
       "name": "Kheft Bodak",
       "url": "https://open.spotify.com/track/0GOLg32xobuTOktjx0oMkd"
@@ -1344,6 +1398,24 @@
       "duration_ms": 253676,
       "name": "Kheira",
       "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
+    },
+    {
+      "album": {
+        "name": "Kheth Aoyooni",
+        "url": "https://open.spotify.com/album/5CgTnYK4kmkz8fomq4Gwh9"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Kheth Aoyooni",
+      "url": "https://open.spotify.com/track/5Zs2FzSOcxPYdsItUkZyiH"
     },
     {
       "album": {

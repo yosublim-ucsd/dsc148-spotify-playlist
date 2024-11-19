@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,110 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,150 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 23 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 24 | [Vem Cá](https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:52 |
 | 25 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
-| 26 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 |
-| 27 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
+| 26 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
+| 27 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 |
 | 28 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
-| 29 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
-| 30 | [coração tambor](https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 2:44 |
+| 29 | [coração tambor](https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 2:44 |
+| 30 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 31 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
 | 32 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
 | 33 | [Fiz Esse Som Pra Você \- Acústica](https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Fiz Esse Som Pra Você](https://open.spotify.com/album/3toYATEN96msGnJ34emqb5) | 3:29 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 48 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
 | 49 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
 | 50 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
-| 51 | [Conto as Horas](https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início](https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr) | 3:12 |
-| 52 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
-| 53 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 |
+| 51 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
+| 52 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 |
+| 53 | [Conto as Horas](https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início](https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr) | 3:12 |
 | 54 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
 | 55 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 56 | [PREAMAR](https://open.spotify.com/track/5vXucjlEods0fafmWCudxU) | [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Júnior Soares](https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON) | [PREAMAR](https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA) | 4:21 |

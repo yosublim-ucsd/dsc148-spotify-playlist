@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,564 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,742 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 34 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
 | 35 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
 | 36 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
-| 37 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
-| 38 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
-| 39 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
-| 40 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
+| 37 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
+| 38 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
+| 39 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
+| 40 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 | 41 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
 | 42 | [¿Y Qué?](https://open.spotify.com/track/4TZdC8azeblwQqbvFotNvS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:05 |
 | 43 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 54 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
 | 55 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
 | 56 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
-| 57 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 |
+| 57 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
 | 58 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
 | 59 | [Payaso](https://open.spotify.com/track/29XaS3POtNrgCl8sewWM0v) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 2:58 |
 | 60 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 |
-| 61 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
+| 61 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 |
 | 62 | [Atado a un Sentimiento](https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 3:17 |
 | 63 | [Fue un Placer Conocerte](https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:00 |
 | 64 | [Corazón de Poeta](https://open.spotify.com/track/5t6GyhawtK5itjpDdvGGx0) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 4:33 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 86 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
 | 87 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 |
 | 88 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
-| 89 | [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 |
+| 89 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
 | 90 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 |
-| 91 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
+| 91 | [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 |
 | 92 | [Enamorandonos \(Just Like Starting Over\)](https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [La Más Completa Colección \(CD2\)](https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5) | 4:02 |
 | 93 | [Tu Amante o Tu Enemigo](https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 2:59 |
 | 94 | [Lobo](https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Lobo](https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL) | 3:06 |
-| 95 | [Soldado Del Amor](https://open.spotify.com/track/2kJaoWF0iUmqma7fp9HPkh) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:39 |
-| 96 | [A Quien](https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Siempre Karina](https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6) | 3:55 |
+| 95 | [A Quien](https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Siempre Karina](https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6) | 3:55 |
+| 96 | [Soldado Del Amor](https://open.spotify.com/track/2kJaoWF0iUmqma7fp9HPkh) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:39 |
 | 97 | [Fotonovela](https://open.spotify.com/track/437MUs4kWnpM79CIwCHiRP) | [Ivan](https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq) | [Lo Mejor de Ivan](https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga) | 4:35 |
 | 98 | [Cachetada](https://open.spotify.com/track/034ZPIOtdd5zO0Cka0Sdt5) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 2:52 |
 | 99 | [Autos, Moda Y Rock N Roll](https://open.spotify.com/track/5JiRlyOGE2EYvzLyex6pdK) | [Fandango](https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0) | [Autos, Moda Y Rock And Roll](https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo) | 3:10 |
-| 100 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
+| 100 | [Me Duele La Cara De Ser Tan Guapo](https://open.spotify.com/track/0aIO4vndXigQGEo3hbIkhq) | [Los Inhumanos](https://open.spotify.com/artist/2Q7w7UHyeHu98cUhPcVEBz) | [30 Hombres Solos](https://open.spotify.com/album/0aFdQ1uCqwcrvsfSam3ydw) | 3:51 |
 
 Snapshot ID: `ZpE69gAAAAAboLG+9MMqQbZtTyeKpD+7`

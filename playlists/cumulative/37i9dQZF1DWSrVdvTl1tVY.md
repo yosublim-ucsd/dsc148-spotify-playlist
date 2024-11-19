@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Gorgon City at Drumsheds
+> The biggest house bangers popping off in the UK, let's go! Jamie Jones at Drumsheds
 
 922 songs - 2 day 5 hr 0 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,939 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,991 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 48 | [Who At The Door?](https://open.spotify.com/track/2ROmMcGqLYzPRWaUptuOv1) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX), [daedaePIVOT](https://open.spotify.com/artist/1H78Q8wCK3PAvs1G3ocexx), [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Who At The Door?](https://open.spotify.com/album/1XtlVJO44S5ktraWQsErP0) | 2:42 |
 | 49 | [Oliver \(feat\. AG Club, Jody Fontaine, P\-Lo, Michael Sneed\)](https://open.spotify.com/track/0tdD2b7fbnOT8KcLIA06QM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Jody Fontaine](https://open.spotify.com/artist/0Os9vXfT92P7eqdqDii0f0), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Love, The Rascals](https://open.spotify.com/album/3Fa5wkcFpzgTUw2N7uzw6E) | 4:22 |
 | 50 | [CHECK! \(B\)](https://open.spotify.com/track/4nIyaUE2laqMF2oxlCceJw) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [BRAVADO + INTiMO](https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R) | 2:31 |
-| 51 | [DAROLD](https://open.spotify.com/track/4BWfRHvJ0DaYMsUuO5oV7z) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 2:51 |
+| 51 | [DAROLD \(feat\. Nikki Nelms\)](https://open.spotify.com/track/4BWfRHvJ0DaYMsUuO5oV7z) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nikki Nelms](https://open.spotify.com/artist/2zRm5kTFVLwJQCPuWo7tU2) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 2:51 |
 | 52 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 | 53 | [\#baby boy! \(feat\. SONNY, NombreKari & Menace4hire\)](https://open.spotify.com/track/7DPc9VW1G2VJj0wZb0j6c5) | [Kaicrewsade](https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx), [SONNY](https://open.spotify.com/artist/3KDKJ7Z0kgJrQS1CH43PM4), [NombreKari](https://open.spotify.com/artist/02qDjHpQqiweSIMa5VKa8t), [Menace4hire](https://open.spotify.com/artist/4oFfYNnynfSqQVW3hOfIMb) | [Yvette](https://open.spotify.com/album/53388BPskJA1DRffgJiGaO) | 4:49 |
 | 54 | [I'll Be Right There](https://open.spotify.com/track/5Z6hdVHH39nARjTBfMUVl6) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:48 |

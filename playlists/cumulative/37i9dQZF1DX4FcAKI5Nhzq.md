@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Yves
+> Future K\-Pop hits! Cover: MEOVV
 
-1,171 songs - 2 day 15 hr 41 min
+1,172 songs - 2 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,6 +1040,7 @@
 | [Top or Cliff](https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Door](https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy) | 3:41 | 2023-09-11 | 2024-02-16 |
 | [Top Tier](https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:50 | 2023-03-06 | 2023-04-14 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-02 |  |
+| [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-18 |  |
 | [Trauma](https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RUMINATION](https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm) | 3:21 | 2021-11-24 | 2022-02-18 |
 | [TRIGGER](https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 2 : HOLE\]](https://open.spotify.com/album/6JUF0SnjI6ZUeQQUdZmdP9) | 3:01 | 2021-08-27 | 2021-09-18 |
 | [Trip](https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Trip](https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n) | 2:56 | 2021-03-18 | 2021-06-09 |

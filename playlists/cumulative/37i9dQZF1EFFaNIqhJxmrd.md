@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-106 songs - 5 hr 22 min
+107 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 | 2024-11-18 |  |
 | [A Little Quiet](https://open.spotify.com/track/0P6Pu971F284ie00FvsP08) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [A Little Quiet](https://open.spotify.com/album/38zy7283UPL20D92UaoaBb) | 4:43 | 2024-01-29 |  |
 | [Afterparties](https://open.spotify.com/track/4LpBxHHAGSFh3hFE5cNYWF) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Afterparties](https://open.spotify.com/album/1Ix2PS3yt0KEfbKSzLYSf1) | 3:04 | 2024-01-29 |  |
 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 | 2024-01-29 |  |

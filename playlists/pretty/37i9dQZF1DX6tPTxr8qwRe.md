@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Zoe Ko
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,998 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,029 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

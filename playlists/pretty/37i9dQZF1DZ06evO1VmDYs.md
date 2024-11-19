@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,785 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,804 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 39 | [Mr\. Blue Sky](https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:46 |
 | 40 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
 | 41 | [Devotion](https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:11 |
-| 42 | [Thank God for Girls](https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:30 |
-| 43 | [Grapes Of Wrath](https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 2:50 |
+| 42 | [Grapes Of Wrath](https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 2:50 |
+| 43 | [Thank God for Girls](https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:30 |
 | 44 | [Crab](https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:34 |
 | 45 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:34 |
 | 46 | [Memories](https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ) | 3:14 |
 | 47 | [Happy Hour](https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 2:57 |
 | 48 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
 | 49 | [Do You Wanna Get High?](https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:27 |
-| 50 | [Rainbow Connection](https://open.spotify.com/track/2i17YXd93A17BSsut23gEa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 4:00 |
-| 51 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 |
+| 50 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 |
+| 51 | [Rainbow Connection](https://open.spotify.com/track/2i17YXd93A17BSsut23gEa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 4:00 |
 
-Snapshot ID: `ZzfggAAAAADU8sWHfuhmBlEDUKm0nNTM`
+Snapshot ID: `ZzkyAAAAAAA58utW3B3M2lpoqJRcvX/J`

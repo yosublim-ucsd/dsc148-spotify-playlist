@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106983,
+  "num_followers": 106987,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -215,22 +219,18 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "\u00c9ramos lo m\u00e1s",
-        "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 211947,
-      "name": "\u00c9ramos lo m\u00e1s",
-      "url": "https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Acuerdo",
         "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+        "name": "\u00c9ramos lo m\u00e1s",
+        "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
       },
       "artists": [
         {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
+      "duration_ms": 211947,
+      "name": "\u00c9ramos lo m\u00e1s",
+      "url": "https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -623,6 +607,22 @@
       "duration_ms": 152405,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Im\u00e1n",
         "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 195483,
       "name": "Conexi\u00f3n de Almas",
       "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Vos y Yo :3",
-        "url": "https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 193270,
-      "name": "Vos y Yo :3",
-      "url": "https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Joderlo Todo",
         "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 227079,
       "name": "Joderlo Todo",
       "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Vos y Yo :3",
+        "url": "https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vos y Yo :3",
+      "url": "https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "T\u00fa me quieres m\u00e1s",
-        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        }
-      ],
-      "duration_ms": 202903,
-      "name": "T\u00fa me quieres m\u00e1s",
-      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "(re)definiciones",
         "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 166588,
       "name": "otr(a v)ez",
       "url": "https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "T\u00fa me quieres m\u00e1s",
+        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "duration_ms": 202903,
+      "name": "T\u00fa me quieres m\u00e1s",
+      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 227274,
       "name": "Sin m\u00ed :(",
       "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Domingo Escarlata",
         "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 195604,
       "name": "Ojos de Planeta",
       "url": "https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-10-24 20:31:41",

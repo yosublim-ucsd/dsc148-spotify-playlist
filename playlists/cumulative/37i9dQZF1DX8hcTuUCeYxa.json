@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Dazed & Confused",
+        "url": "https://open.spotify.com/album/2BmQTGnKZuvnO2Q11jkBaT"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Dazed & Confused",
+      "url": "https://open.spotify.com/track/6Bt5utTcV6CB2Uw3tHP34U"
+    },
+    {
+      "album": {
         "name": "Deadbeat Blues",
         "url": "https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk"
       },

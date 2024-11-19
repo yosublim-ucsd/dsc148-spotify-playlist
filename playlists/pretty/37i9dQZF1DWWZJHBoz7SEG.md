@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Mi buen fin sería que ya empiecen las pre\-posadas\. Plis no gastes tanto, ahorra, bebé\. Rolitas cool con Rauw Alejandro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,100 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,213 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

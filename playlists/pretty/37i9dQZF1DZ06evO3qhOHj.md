@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,305 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,311 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 35 | [Nothing Like It In The World](https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 5:00 |
 | 36 | [Undertow](https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:48 |
 | 37 | [Tears](https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:20 |
-| 38 | [How Does It Feel](https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:12 |
-| 39 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 |
+| 38 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 |
+| 39 | [How Does It Feel](https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:12 |
 | 40 | [All the Way Up](https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 5:12 |
 | 41 | [The Chain](https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:46 |
 | 42 | [My Kinda Woman \- 2021 Remastered](https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:12 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 46 | [Just Let Your Heart Decide](https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [...The Stories We Could Tell](https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe) | 4:19 |
 | 47 | [Never Say Never \- 2010 Remastered Version](https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:49 |
 | 48 | [Big Love \- 2009 Remastered Version](https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:49 |
-| 49 | [I Am You](https://open.spotify.com/track/6hFMnKj47KhtzduQiHlwcf) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:31 |
-| 50 | [As Far As I Can See](https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 3:54 |
+| 49 | [As Far As I Can See](https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 3:54 |
+| 50 | [What Were You Thinking](https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:18 |
 
-Snapshot ID: `ZzfggAAAAAAriFT76EkPyZQoBmUjZ1L5`
+Snapshot ID: `ZzkyAAAAAACAfPokREG9oZzVwSTGSvns`

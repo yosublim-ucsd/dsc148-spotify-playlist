@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 455200,
+  "num_followers": 455173,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 220290,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
     },
     {
       "added_at": "2024-08-07 16:03:32",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "Some Mad Hope",
-        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Come On Get Higher",
-      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 237800,
       "name": "Movement",
       "url": "https://open.spotify.com/track/0SFq19lgG4qbQAZaNZ3xhO"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "Some Mad Hope",
+        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Come On Get Higher",
+      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
     },
     {
       "added_at": "2024-08-07 16:03:32",

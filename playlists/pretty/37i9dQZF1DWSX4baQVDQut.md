@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,434 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869,391 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 48 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 49 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
 | 50 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
-| 51 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 |
-| 52 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
+| 51 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
+| 52 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 |
 | 53 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 54 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
 | 55 | [Tengo Un Plan](https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Tengo Un Plan](https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6) | 3:09 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 77 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
 | 78 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
 | 79 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 |
-| 80 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
-| 81 | [Sexy Sensual](https://open.spotify.com/track/7saa8t9KRzBnPXuyjNujvK) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sexy Sensual](https://open.spotify.com/album/2ODIMjRh2s81YSHaJyta3x) | 2:44 |
+| 80 | [Sexy Sensual](https://open.spotify.com/track/7saa8t9KRzBnPXuyjNujvK) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sexy Sensual](https://open.spotify.com/album/2ODIMjRh2s81YSHaJyta3x) | 2:44 |
+| 81 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 82 | [Rough](https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 1:42 |
 | 83 | [Lo Caro y Lo Bueno](https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Lo Caro y Lo Bueno](https://open.spotify.com/album/0OfQaUoTd5zBiB7J9KdjbX) | 3:16 |
 | 84 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |

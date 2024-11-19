@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Aspa
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,130 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,137 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 26 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
 | 27 | [Na Pernas](https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Na Pernas](https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI) | 4:21 |
 | 28 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
-| 29 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
-| 30 | [Tipota Tiheo](https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Tipota Tiheo](https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw) | 2:47 |
+| 29 | [Tipota Tiheo](https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Tipota Tiheo](https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw) | 2:47 |
+| 30 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
 | 31 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 3:00 |
 | 32 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 |
 | 33 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 45 | [Pyrkagia](https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pyrkagia](https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn) | 2:32 |
 | 46 | [As Tous Na Lene](https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [As Tous Na Lene](https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT) | 3:25 |
 | 47 | [Omorfi](https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [O,ti M' Aresei](https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp) | 2:25 |
-| 48 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
-| 49 | [Sikose To Tilefono](https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kalispera](https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx) | 2:29 |
+| 48 | [Sikose To Tilefono](https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kalispera](https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx) | 2:29 |
+| 49 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
 | 50 | [As Ta Leme Kala](https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [As Ta Leme Kala](https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz) | 2:53 |
 
 Snapshot ID: `ZzZy4AAAAACzHTlChCYsAE/KTK79NBtW`

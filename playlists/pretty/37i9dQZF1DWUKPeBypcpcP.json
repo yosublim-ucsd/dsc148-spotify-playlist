@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 909435,
+  "num_followers": 909509,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rainforest Soundscapes",
-        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
-      },
-      "artists": [
-        {
-          "name": "Rain Gems",
-          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
-        }
-      ],
-      "duration_ms": 162679,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Green Noise For Sleep",
         "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 150966,
       "name": "Pouring Noise",
       "url": "https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Rainforest Soundscapes",
+        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
+      },
+      "artists": [
+        {
+          "name": "Rain Gems",
+          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
+        }
+      ],
+      "duration_ms": 162679,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
-      },
-      "artists": [
-        {
-          "name": "Relaxed Minds",
-          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
-        }
-      ],
-      "duration_ms": 249739,
-      "name": "Wave Foam",
-      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Relax Waves",
         "url": "https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 132695,
       "name": "Chill Waves",
       "url": "https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "duration_ms": 249739,
+      "name": "Wave Foam",
+      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
-      },
-      "artists": [
-        {
-          "name": "The Rainforest Collective",
-          "url": "https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Zen Nature Sounds",
-      "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Night Green Noise",
         "url": "https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 132260,
       "name": "Current Green Noise",
       "url": "https://open.spotify.com/track/72JjmSeDk6lnjtuOAREB8T"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
+      },
+      "artists": [
+        {
+          "name": "The Rainforest Collective",
+          "url": "https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Zen Nature Sounds",
+      "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
     },
     {
       "added_at": "2023-06-20 09:13:06",

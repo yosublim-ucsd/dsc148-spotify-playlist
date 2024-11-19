@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Diss Gacha, Capo Plaza, Icy Subzero, Lorenzza e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,868 likes - 83 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,880 likes - 83 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GACHA](https://open.spotify.com/track/6epc4bpQjEwGPuV8zy2APf) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [GACHA](https://open.spotify.com/album/2EELavIJF247zj1n55sRA4) | 2:15 |
-| 2 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
+| 2 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
 | 3 | [J \(feat\. Nayt\)](https://open.spotify.com/track/2JwXWydDD5ASONulGVLzHJ) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [A LORENZZA](https://open.spotify.com/album/3uo3AECJ5Qw3Lwd6kXfQdL) | 2:45 |
 | 4 | [VERGINE MARIA](https://open.spotify.com/track/4QxvX0QHRWK10WfuOUiuMp) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [VERGINE MARIA](https://open.spotify.com/album/67iNHtyQUxt4eWZJBlbrVa) | 2:32 |
 | 5 | [Manca l'aria](https://open.spotify.com/track/2FloIlKRkr4EIxZrQbeEUf) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Lieto Fine](https://open.spotify.com/album/6q2xu2z7AFkOeGVxSCwNru) | 2:09 |

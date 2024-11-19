@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,277 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,290 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 89 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 |
 | 90 | [Station Romance](https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Station Romance](https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV) | 7:39 |
 | 91 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour](https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u) | 3:08 |
-| 92 | [Don't Stop Me Now](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd) | [Nathan Behrens](https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc) | [Don't Stop Me Now](https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1) | 3:28 |
-| 93 | [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 |
+| 92 | [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 |
+| 93 | [Don't Stop Me Now](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd) | [Nathan Behrens](https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc) | [Don't Stop Me Now](https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1) | 3:28 |
 | 94 | [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 |
 | 95 | [Shut Down](https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 4:02 |
 | 96 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |

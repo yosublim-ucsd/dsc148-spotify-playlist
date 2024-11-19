@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91906,
+      "name": "Blue Angels",
+      "url": "https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8"
+    },
+    {
+      "album": {
         "name": "Is Survived By (Revived [Remixed / Remastered])",
         "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 183533,
       "name": "Social Caterpillar",
       "url": "https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACQk7rFfBwRpEQ4JeJ4eKGS",
+  "snapshot_id": "ZzkyAAAAAADFDJCYjvwmJowylG2wuGf7",
   "tracks": [
     {
       "added_at": null,
@@ -627,42 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed Of Life",
-        "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "Speed Of Life",
-      "url": "https://open.spotify.com/track/6qgjCMasssUe7BEeBx95Oy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Is A Highway",
-        "url": "https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7"
-      },
-      "artists": [
-        {
-          "name": "Jason Owen",
-          "url": "https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05"
-        },
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Sweet Home Alabama (feat. Adam Brand)",
-      "url": "https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dust Will Settle",
         "url": "https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo"
       },
@@ -683,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm"
+        "name": "Speed Of Life",
+        "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
       },
       "artists": [
         {
@@ -692,9 +656,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 178518,
-      "name": "Get On Your Feet",
-      "url": "https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37"
+      "duration_ms": 182140,
+      "name": "Speed Of Life",
+      "url": "https://open.spotify.com/track/6qgjCMasssUe7BEeBx95Oy"
     },
     {
       "added_at": null,
@@ -715,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 178518,
+      "name": "Get On Your Feet",
+      "url": "https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still The One",
         "url": "https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 158095,
       "name": "Still The One",
       "url": "https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is A Highway",
+        "url": "https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7"
+      },
+      "artists": [
+        {
+          "name": "Jason Owen",
+          "url": "https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Sweet Home Alabama (feat. Adam Brand)",
+      "url": "https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Little Less Lonely",
-      "url": "https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adam Brand And The Outlaws",
         "url": "https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 214666,
       "name": "Good Year For The Outlaw",
       "url": "https://open.spotify.com/track/1p2pxUmCzV868AUHfw7Cei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Little Less Lonely",
+      "url": "https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN"
     },
     {
       "added_at": null,

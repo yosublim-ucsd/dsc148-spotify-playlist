@@ -4,7 +4,7 @@
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 40 min
+84 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Juma Marruá](https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:42 | 2023-12-30 |  |
 | [Kina](https://open.spotify.com/track/2vLmJJ6JeAdAXzj4QwI0GM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Suasória](https://open.spotify.com/album/2Aq4cexoooJTkd0mUmwtAu) | 3:03 | 2023-12-30 | 2024-01-25 |
 | [LADIES NIGHT](https://open.spotify.com/track/56GSv9UWfx2ydvuwBNi318) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [LADIES NIGHT](https://open.spotify.com/album/1zRexPtlrgVXfXzwT4EWfI) | 2:41 | 2024-01-20 | 2024-04-19 |
+| [Lonely](https://open.spotify.com/track/5EqsaI4AK0lij7cfXrgcqU) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Tchouzen](https://open.spotify.com/artist/7HVh9B5Q2bjs0FnS0yZMQq) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:14 | 2024-11-19 |  |
 | [Love Me Two Times](https://open.spotify.com/track/7j19DBFzaXdIRRtWjvulBk) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:04 | 2023-12-30 | 2024-05-19 |
 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 | 2023-12-30 |  |
 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 | 2023-12-30 |  |
-| [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 | 2023-12-30 |  |
+| [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 | 2023-12-30 | 2024-11-19 |
 | [Medley](https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:26 | 2023-12-30 | 2024-05-19 |
 | [Mega Pra Ouvir na Esquina](https://open.spotify.com/track/0WcJ44Jl4jZ90fKIWhB5Vt) | [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Mc Roba Cena](https://open.spotify.com/artist/3JDFG8UQZzliFU7BiKK40c), [Fabinho da Osk](https://open.spotify.com/artist/1g97at6QSRJ9coXwmWYy9V), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Jessica do escadão](https://open.spotify.com/artist/5GL61oWz7b59KKnJfzlgrC) | [Mega Pra Ouvir na Esquina](https://open.spotify.com/album/2k2h7ML0K4aRcgjKw2GGDU) | 3:04 | 2024-10-02 | 2024-10-04 |
 | [Meio](https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf) | [Kult](https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Meio](https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7) | 2:50 | 2023-12-30 |  |

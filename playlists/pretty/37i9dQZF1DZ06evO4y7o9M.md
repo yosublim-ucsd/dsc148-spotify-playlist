@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,125 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,413 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 9 | [TRES BOTELLAS](https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:42 |
 | 10 | [EN ALTAVOZ](https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:46 |
 | 11 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 |
-| 12 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
+| 12 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 13 | [ROCKSTAR](https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:48 |
-| 14 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
+| 14 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 15 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 |
 | 16 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 | 17 | [LA CHERRY](https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:32 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 31 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
 | 32 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 33 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 |
-| 34 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
-| 35 | [El F](https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 4:09 |
+| 34 | [Clausurado](https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:06 |
+| 35 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 36 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
-| 37 | [Clausurado](https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:06 |
+| 37 | [El F](https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 4:09 |
 | 38 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 |
 | 39 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 |
 | 40 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 49 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 | 50 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 
-Snapshot ID: `ZzfggAAAAAAEb1jnuSHmd8S1v0EUVlxY`
+Snapshot ID: `ZzkyAAAAAAAgrcSNLv2GZvRClatpfsK0`

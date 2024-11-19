@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > blue jeans, white shirt\. Cover: Clairo covering Lana Del Rey's Brooklyn Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,324 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,341 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 54 | [Come a Little Closer](https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:49 |
 | 55 | [Dollhouse](https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:51 |
 | 56 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
-| 57 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
-| 58 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 |
+| 57 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 |
+| 58 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 59 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
 | 60 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 61 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |

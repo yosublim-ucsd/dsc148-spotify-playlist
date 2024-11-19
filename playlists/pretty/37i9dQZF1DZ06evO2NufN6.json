@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 903509,
+  "num_followers": 903710,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABXpghX6a5UgI0n6mMc19WP",
+  "snapshot_id": "ZzkyAAAAAAB+CYew8GjMaOd++twUXrgd",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 197929,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "My Favorite Part",
-      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
     },
     {
       "added_at": null,
@@ -191,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 342040,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 202390,
       "name": "That's Life (feat. Mac Miller & Sia)",
       "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": null,

@@ -4,12 +4,13 @@
 
 > The UK's biggest playlist\. Cover: Gracie Abrams
 
-239 songs - 12 hr 35 min
+240 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2024-01-26 | 2024-01-30 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-01-26 | 2024-02-20 |
+| [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-18 |  |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-07-11 | 2024-10-11 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-13 | 2024-07-12 |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-07 | 2024-09-10 |
@@ -139,7 +140,7 @@
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-12 | 2024-04-23 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-23 | 2024-06-04 |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-04-22 | 2024-06-21 |
-| [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-21 |  |
+| [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-21 | 2024-11-19 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2024-01-26 | 2024-02-20 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-11-04 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-02 |  |

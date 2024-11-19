@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,085 likes - 122 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,204 likes - 122 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

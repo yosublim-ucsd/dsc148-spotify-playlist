@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,767 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,826 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 40 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 41 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
 | 42 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
-| 43 | [Go With The Flow](https://open.spotify.com/track/0ogtgveW3JxxtPE4YVJPaj) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 3:02 |
-| 44 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
+| 43 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
+| 44 | [Go With The Flow](https://open.spotify.com/track/0ogtgveW3JxxtPE4YVJPaj) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 3:02 |
 | 45 | [The Death & Resurrection Show](https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs) | 6:56 |
 | 46 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 47 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 64 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
 | 65 | [Merchant of the Void](https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Merchant of the Void](https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08) | 3:32 |
 | 66 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
-| 67 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
-| 68 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
+| 67 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
+| 68 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
 | 69 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
 | 70 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 | 71 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
 | 72 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 73 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
-| 74 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
-| 75 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
+| 74 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 |
+| 75 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
 | 76 | [Prey & Obey](https://open.spotify.com/track/010zNby24HBoMyMZClgViJ) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0) | [Prey & Obey](https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr) | 4:46 |
 | 77 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
 | 78 | [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 94 | [Small World](https://open.spotify.com/track/0cSd01K5jeFTDLSrD95dEb) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Never Is Now](https://open.spotify.com/album/4a42neJMlka7MRKNKwYsJb) | 4:56 |
 | 95 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
 | 96 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
-| 97 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 |
-| 98 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
+| 97 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |
+| 98 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 |
 | 99 | [Burn Everything](https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Burn Everything](https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od) | 4:23 |
 | 100 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 |
 

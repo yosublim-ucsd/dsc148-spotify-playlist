@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,418 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,511 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 34 | [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 |
 | 35 | [Song For Someone](https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 3:46 |
 | 36 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
-| 37 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
-| 38 | [Magnificent](https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 5:24 |
+| 37 | [Magnificent](https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 5:24 |
+| 38 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
 | 39 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 |
 | 40 | [Ultra Violet \(Light My Way\)](https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:30 |
 | 41 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 |
 | 50 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
 
-Snapshot ID: `ZzfggAAAAABCHk1Cp5ecGlZ24S7RXFbs`
+Snapshot ID: `ZzkyAAAAAAB3c23JZRd18My0Dx8kq4u4`

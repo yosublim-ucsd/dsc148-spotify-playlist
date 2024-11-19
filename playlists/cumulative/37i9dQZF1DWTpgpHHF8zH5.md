@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-433 songs - 22 hr 12 min
+434 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Maybe You’re The Problem](https://open.spotify.com/track/6WDG2ybdV3SBXV0lwBGu4D) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 | 2024-03-15 | 2024-04-19 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-06 | 2024-01-27 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2023-10-27 |
-| [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-10-03 |  |
+| [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-10-03 | 2024-11-19 |
 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 | 2023-07-07 | 2024-02-02 |
 | [Midnight Sun](https://open.spotify.com/track/0rY4VH4Gztiwi6uLGaQcdP) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Midnight Sun](https://open.spotify.com/album/15PdggN6xD2mtIE9odL5y2) | 3:18 | 2022-07-15 | 2022-07-20 |
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-06-16 | 2024-07-31 |
@@ -296,6 +296,7 @@
 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-02-06 | 2023-04-25 |
 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 | 2023-01-18 | 2023-01-30 |
 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 | 2024-01-09 | 2024-03-16 |
+| [One Too Many](https://open.spotify.com/track/3X7H1FAiWAW937WvsFeMhe) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 3:23 | 2024-11-15 |  |
 | [Out Of Reach](https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Out Of Reach](https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG) | 2:44 | 2023-04-16 | 2023-05-09 |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-14 | 2024-01-27 |
 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 | 2022-10-27 | 2023-12-22 |

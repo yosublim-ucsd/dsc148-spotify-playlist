@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 775662,
+  "num_followers": 775763,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 298760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 258026,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Third Album",
-        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The One Thing",
         "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 251760,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Avalon Sunset",
-        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Have I Told You Lately",
-      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Gold Experience",
-        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "The Most Beautiful Girl In the World",
-      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Seventh One",
         "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 269226,
       "name": "Stop Loving You",
       "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Empty Space",
         "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 228506,
       "name": "The Man Who Can't Be Moved - Acoustic",
       "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
-        "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+        "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 189066,
       "name": "Where Do I Begin - Love Theme from \"Love Story\"",
       "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Impossible - Acoustic",
-      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 215773,
       "name": "Don't Be A Fool",
       "url": "https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Impossible - Acoustic",
+      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Blower's Daughter",
         "url": "https://open.spotify.com/album/4TMMcbyi7mC5aJeOvTn6FW"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 288466,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/7tdXvaCZmWZJOrZE9zFXpr"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 253250,
       "name": "Every Breath You Take - Remastered 2003",
       "url": "https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2231,6 +2231,38 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
       },
@@ -2263,22 +2295,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Nobody Else (Deluxe)",
         "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",

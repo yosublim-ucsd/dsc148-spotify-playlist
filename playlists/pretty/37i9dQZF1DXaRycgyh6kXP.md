@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,678 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,836 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 59 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 60 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 61 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
-| 62 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
-| 63 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
+| 62 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
+| 63 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
 | 64 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
 | 65 | [If You Love Her \- Private Agenda Remix](https://open.spotify.com/track/6I4ABgetb4Q4vYXyq1JcxK) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD), [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [If You Love Her \(Private Agenda Remix\)](https://open.spotify.com/album/6IGhR8LbCzR5lj8TyunJmZ) | 4:04 |
 | 66 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 92 | [Can't Do Without You](https://open.spotify.com/track/6xiQVuzbG52jkyRmLpEFj2) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/7k7LfcXJsRSWzzlNb3zjDC) | 3:56 |
 | 93 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
 | 94 | [Water Music](https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 6:29 |
-| 95 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
-| 96 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
+| 95 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
+| 96 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
 | 97 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 |
 | 98 | [Pack Yr Romantic Mind](https://open.spotify.com/track/79vjmzHz7zmXOBzy1w4Zin) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transient Random\-Noise Bursts With Announcements \(Expanded Edition\)](https://open.spotify.com/album/7i6xvTqziHnOBKLxstx9va) | 5:06 |
 | 99 | [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 |

@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-421 songs - 22 hr 14 min
+422 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Olvídalo Conmigo](https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Y ¿Qué Tiene?](https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE) | 2:58 | 2024-05-10 |  |
 | [Otra Botella](https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Otra Botella](https://open.spotify.com/album/6Nr8ddIjhdjliv3Db8foiD) | 3:37 | 2023-09-22 | 2024-06-01 |
 | [Ovarios \- Banda](https://open.spotify.com/track/456cTYG9AxNpqpodK4qozJ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ovarios \(Banda\)](https://open.spotify.com/album/2rIxXW7RpXHgZwUxkvRicu) | 3:13 | 2024-06-28 | 2024-11-15 |
-| [Pa Donde Sea](https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Pa Donde Sea](https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded) | 2:06 | 2024-09-06 |  |
+| [Pa Donde Sea](https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Pa Donde Sea](https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded) | 2:06 | 2024-09-06 | 2024-11-19 |
 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 | 2022-03-07 | 2024-05-11 |
 | [Pa' la Sed](https://open.spotify.com/track/6snKIrvddCrgOiYlHx8yua) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Pa' la Sed](https://open.spotify.com/album/3r144MpSvmsfBRq5JI5xq6) | 3:57 | 2022-07-15 | 2022-07-25 |
 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 | 2023-08-04 |  |
@@ -410,6 +410,7 @@
 | [Ya Estuvo Suave](https://open.spotify.com/track/4biDENf02zmdKNU6kbFIFZ) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Ya Estuvo Suave](https://open.spotify.com/album/0ZSFczOfp9Y9wTU3n9zYBq) | 3:24 | 2022-08-26 | 2023-08-20 |
 | [Ya Lloré](https://open.spotify.com/track/7phuvtEYRNpvtJ9jntPI1S) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ya Lloré](https://open.spotify.com/album/7FtNiGin9XZ0TwHINvfIzq) | 2:57 | 2022-07-15 | 2022-07-20 |
 | [Ya Lo Pensé Mejor](https://open.spotify.com/track/3JNSvYlS3VnGJaaYbRmj2J) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Ya Lo Pensé Mejor](https://open.spotify.com/album/2P7P9QhqpOm961o6ptWUxc) | 3:06 | 2022-05-27 | 2022-07-29 |
+| [Ya Lo Sé \- Banda](https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ya Lo Sé \(Banda\)](https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN) | 3:22 | 2024-11-15 |  |
 | [Ya No Estoy Solo](https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Ya No Estoy Solo](https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji) | 2:58 | 2024-02-16 | 2024-05-11 |
 | [Ya No Estés Chingando](https://open.spotify.com/track/6cWW02JMQj4Ey06QtkRsDs) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Ya No Estés Chingando](https://open.spotify.com/album/1RD6tsQ8Hf4eg6HwcfsZZC) | 3:24 | 2022-09-23 | 2022-10-25 |
 | [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 | 2023-06-09 |  |

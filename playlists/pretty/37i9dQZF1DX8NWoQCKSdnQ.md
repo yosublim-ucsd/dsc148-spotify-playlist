@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,408 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,415 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 33 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 |
 | 34 | [Te Aviso, Te Anuncio \(Tango\)](https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:43 |
 | 35 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
-| 36 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
-| 37 | [Party Rock Anthem](https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/6g2Ig47IgyqyatDpj7UpHo) | 4:22 |
+| 36 | [Party Rock Anthem](https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/6g2Ig47IgyqyatDpj7UpHo) | 4:22 |
+| 37 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 38 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 39 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 | 40 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 52 | [Sabes A Chocolate](https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:47 |
 | 53 | [A Quien Le Importa](https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 3:45 |
 | 54 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
-| 55 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |
-| 56 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 |
+| 55 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 |
+| 56 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |
 | 57 | [Short Short Man](https://open.spotify.com/track/39c9Xc5genhWEMPs1eeqgn) | [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [On the Attack](https://open.spotify.com/album/5FFfNV7p2JCjaByOpGjQBf) | 3:18 |
 | 58 | [No Te Extraño](https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N) | [Litzy](https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB) | [Transparente](https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj) | 3:26 |
 | 59 | [Fiesta](https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 3:17 |

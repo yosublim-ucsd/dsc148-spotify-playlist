@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=cvPECtS4SWy3CuUea5JGhA">Droomsindroom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

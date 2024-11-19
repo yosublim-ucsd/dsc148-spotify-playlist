@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "A Lonely Room",
+        "url": "https://open.spotify.com/album/7mUS2pWrG0NSt9ln7mFOAu"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224297,
+      "name": "A Lonely Room",
+      "url": "https://open.spotify.com/track/5ISolGrawI8flAsU6KftfC"
+    },
+    {
+      "album": {
         "name": "A Lonely Walk",
         "url": "https://open.spotify.com/album/7z3Ybpfqcbdjv5riUCh05d"
       },
@@ -3568,7 +3586,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 251656,
       "name": "Echoes of Elegance",
       "url": "https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm"
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 187874,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz"
@@ -5476,7 +5494,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 236786,
       "name": "I Guess That Too",
       "url": "https://open.spotify.com/track/3H9howcJYmpW8d5wPqrgQd"
@@ -5854,7 +5872,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 231603,
       "name": "I'll never stop loving you",
       "url": "https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS"
@@ -7726,7 +7744,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 235174,
       "name": "Litania",
       "url": "https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo"
@@ -8612,6 +8630,24 @@
       "duration_ms": 210434,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/6EX8ZAwd8QWQDz7sPIYGza"
+    },
+    {
+      "album": {
+        "name": "Midnight Fog",
+        "url": "https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209904,
+      "name": "Midnight Fog",
+      "url": "https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH"
     },
     {
       "album": {
@@ -10271,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Passing Strangers",
+        "url": "https://open.spotify.com/album/3K9hh07aun7cj8le4GSCXZ"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208283,
+      "name": "Passing Strangers",
+      "url": "https://open.spotify.com/track/2cefd1nuqltLshwT1eVyWX"
+    },
+    {
+      "album": {
         "name": "Passing Time",
         "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
       },
@@ -10444,7 +10498,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 203507,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/4xHAgWSmUBXek3pkXxPcVk"
@@ -10714,7 +10768,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 190429,
       "name": "Remembering You",
       "url": "https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill"
@@ -13401,6 +13455,24 @@
     },
     {
       "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11"
+      },
+      "artists": [
+        {
+          "name": "Deer Groves",
+          "url": "https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y"
+    },
+    {
+      "album": {
         "name": "The Workers",
         "url": "https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0"
       },
@@ -14690,7 +14762,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
@@ -15554,7 +15626,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 223643,
       "name": "You're So Many Things",
       "url": "https://open.spotify.com/track/4dEC0DQ591ERJ4EqCbg521"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,011 likes - 138 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,010 likes - 138 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 39 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
 | 40 | [Teen Scene \(ft\. Buddy\)](https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 4:10 |
 | 41 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/73VGs4bdVRt4O8D7a4lCwJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 2:43 |
-| 42 | [Taste \(feat\. VanJess\)](https://open.spotify.com/track/0BrNxl46Vnt1Ln8jVJFktl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:37 |
-| 43 | [Honeymoon](https://open.spotify.com/track/350Chcil9fuAh7OpxwYLi5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:04 |
+| 42 | [Honeymoon](https://open.spotify.com/track/350Chcil9fuAh7OpxwYLi5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:04 |
+| 43 | [Taste \(feat\. VanJess\)](https://open.spotify.com/track/0BrNxl46Vnt1Ln8jVJFktl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:37 |
 | 44 | [NOTHIN LIKE U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5yPrF4nP6JoaXV8TIjndPc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 3:14 |
 | 45 | [Your Time \(feat\. KAYTRANADA\)](https://open.spotify.com/track/7JzXmXuqPRJNClCdOAE1Ah) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Missing Link](https://open.spotify.com/album/6GxbfAJrMfFhMNjuAYJ7Z0) | 4:04 |
 | 46 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj) | 4:26 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 137 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 138 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Abhx3gAAAABqGNlP+FYFV5WG/85anXkt`
+Snapshot ID: `Abh3iAAAAACZgjhWlpEQ5zaQNwYd+ls8`

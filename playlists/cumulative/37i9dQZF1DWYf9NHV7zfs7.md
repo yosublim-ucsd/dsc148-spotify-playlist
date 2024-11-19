@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Camilú
 
-301 songs - 16 hr 15 min
+302 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Flow HDP](https://open.spotify.com/track/6DToanpnoadBJvwaGUxmWw) | [joelle](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45), [Pablo Feliu](https://open.spotify.com/artist/3cXTpQLIUC0ANH1Ne9THCG) | [Flow HDP](https://open.spotify.com/album/7vcWnJL5cF2XRDXv3JFe3S) | 2:51 | 2024-01-19 | 2024-01-27 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2023-07-14 | 2023-10-24 |
 | [Foto](https://open.spotify.com/track/450D3ctT0VXyUO3av7TYkB) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Foto](https://open.spotify.com/album/3dUvqOzUTqpWmC5m6ncUJH) | 2:38 | 2024-03-01 | 2024-04-19 |
-| [Francotirador](https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Francotirador](https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb) | 2:23 | 2024-09-13 |  |
+| [Francotirador](https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Francotirador](https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb) | 2:23 | 2024-09-13 | 2024-11-19 |
 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 | 2023-10-23 |  |
 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 | 2023-10-23 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2023-07-14 | 2023-10-24 |
@@ -146,6 +146,7 @@
 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 | 2023-10-23 |  |
 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 | 2023-12-07 |  |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2023-07-14 | 2023-10-24 |
+| [Libélulas](https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Libélulas](https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e) | 3:26 | 2024-11-15 |  |
 | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0) | 3:03 | 2024-02-23 | 2024-04-10 |
 | [Live Sessions Vol\. 4 \- Todavía Voy Bien](https://open.spotify.com/track/2XDWIDPAHU2Xi82qeJZmhp) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Live Sessions Vol\. 4 \- Todavía Voy Bien](https://open.spotify.com/album/5gNyXBuZ7oadtEOMmmMwoW) | 2:33 | 2024-05-24 | 2024-07-27 |
 | [Llamame](https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:28 | 2023-10-23 |  |

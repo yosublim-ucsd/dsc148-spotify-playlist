@@ -4,7 +4,7 @@
 
 > trakas hdsptm 👿👹🍻🍾🫡💸
 
-288 songs - 15 hr 3 min
+289 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-11-30 | 2023-11-28 |
 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-11-30 | 2023-11-28 |
 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 | 2024-03-22 |  |
+| [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 | 2024-11-15 |  |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2024-01-29 |  |
 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy) | 4:10 | 2024-04-23 | 2024-05-18 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-01-29 |  |
@@ -200,7 +201,7 @@
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-11-30 | 2023-11-28 |
 | [On D Gas](https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:21 | 2024-10-18 |  |
 | [Oro](https://open.spotify.com/track/50QgKV8vabHHc7au535IqK) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 3:10 | 2023-11-27 | 2024-01-30 |
-| [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2024-01-29 |  |
+| [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2024-01-29 | 2024-11-19 |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-11-30 | 2023-11-28 |
 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 | 2023-11-27 | 2024-01-30 |
 | [PERREANDO MACHÍN](https://open.spotify.com/track/71derIcIhs0JN5sDtRGTJj) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [PERREANDO MACHÍN](https://open.spotify.com/album/7bbXrhDhcw1lFAzrciXk6M) | 2:30 | 2024-04-23 | 2024-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 146032,
+  "num_followers": 146059,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACa5FA7RkS2E1HdWUu9/xqO",
+  "snapshot_id": "ZzkyAAAAAAD0X7dLgmGFSK0Ug9amHJ/D",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 297946,
       "name": "Two Black Cadillacs",
       "url": "https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 240240,
       "name": "Mama's Song",
       "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
       "duration_ms": 228640,
       "name": "Love Wins",
       "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/2Hs036vmX6ywJrGHDTKPEv"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/2Hs036vmX6ywJrGHDTKPEv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

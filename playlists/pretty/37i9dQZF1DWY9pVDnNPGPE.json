@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2024-11-06 06:00:49",
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2024-11-06 06:00:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-06 06:00:49",
       "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
-    },
-    {
-      "added_at": "2024-11-06 06:00:49",
-      "album": {
         "name": "Me and U",
         "url": "https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2024-11-06 06:00:49",
       "album": {
-        "name": "Pink!",
-        "url": "https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP"
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Pink!",
-      "url": "https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM"
+      "duration_ms": 191906,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
     },
     {
       "added_at": "2024-11-06 06:00:49",
@@ -859,22 +843,38 @@
     {
       "added_at": "2024-11-06 06:00:49",
       "album": {
-        "name": "blanc",
-        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
+        "name": "Pink!",
+        "url": "https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "UNE",
-          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 181495,
-      "name": "Mugshot (Feat. UNE)",
-      "url": "https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer"
+      "duration_ms": 174800,
+      "name": "Pink!",
+      "url": "https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM"
+    },
+    {
+      "added_at": "2024-11-06 06:00:49",
+      "album": {
+        "name": "Tickle (feat. Joob A)",
+        "url": "https://open.spotify.com/album/0c4whAFm5Sc1ciPV7coUZT"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        },
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 154112,
+      "name": "Tickle (feat. Joob A)",
+      "url": "https://open.spotify.com/track/02gjmOulGmlgdwUcB3wqyz"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

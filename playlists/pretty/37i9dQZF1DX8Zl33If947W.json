@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 177044,
+  "num_followers": 177084,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 268515,
       "name": "So wie du bist",
       "url": "https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Diese Eine",
-        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
+        "name": "Irgendwie anders",
+        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
       },
       "artists": [
         {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
         }
       ],
-      "duration_ms": 138924,
-      "name": "Diese Eine",
-      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+      "duration_ms": 193200,
+      "name": "Kaum Erwarten",
+      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Irgendwie anders",
-        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
+        "name": "Diese Eine",
+        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
       },
       "artists": [
         {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Kaum Erwarten",
-      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+      "duration_ms": 138924,
+      "name": "Diese Eine",
+      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Herz",
         "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 210693,
       "name": "Liebe ist alles",
       "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     },
     {
       "added_at": "2024-11-09 06:24:53",

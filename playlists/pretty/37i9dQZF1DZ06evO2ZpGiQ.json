@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 441030,
+  "num_followers": 441106,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABmBBbwca6zbMbDacxj1VD2",
+  "snapshot_id": "ZzkyAAAAAABiY3XZAjWZhxsppwiLM9Up",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 155292,
-      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -235,6 +215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 155292,
+      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 223853,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/59NC8SuXPiSaiYL69XQ4dt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "HYFR (Hell Ya Fucking Right)",
-      "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -483,26 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
-      "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
+      "duration_ms": 206626,
+      "name": "HYFR (Hell Ya Fucking Right)",
+      "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
     },
     {
       "added_at": null,
@@ -531,26 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hall Of Fame (Deluxe)",
-        "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
+      "duration_ms": 222586,
+      "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
+      "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
     },
     {
       "added_at": null,
@@ -575,22 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Human Being",
-        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
+        "name": "Hall Of Fame (Deluxe)",
+        "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
       "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 271946,
-      "name": "Right Above It",
-      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
+      "duration_ms": 235186,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
     },
     {
       "added_at": null,
@@ -615,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+        "name": "I Am Not A Human Being",
+        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
       },
       "artists": [
         {
@@ -624,13 +604,13 @@
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 324189,
-      "name": "Mona Lisa (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+      "duration_ms": 271946,
+      "name": "Right Above It",
+      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 324189,
+      "name": "Mona Lisa (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Mornings (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Saturday Mornings (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 230560,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Mornings (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Saturday Mornings (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+        "name": "The Crossroads",
+        "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Droppin' Seeds (feat. Lil' Wayne)",
-      "url": "https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV"
+      "duration_ms": 156786,
+      "name": "Back on the Road (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3MsEJbnW0SYWNzQ6D1j5Xm"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
       "duration_ms": 296146,
       "name": "I'm On One",
       "url": "https://open.spotify.com/track/608a1wIsSd5KzMEqm1O7w3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Droppin' Seeds (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV"
     },
     {
       "added_at": null,
@@ -995,22 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crossroads",
-        "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
+        "name": "400 Degreez",
+        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Mannie Fresh",
+          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
         }
       ],
-      "duration_ms": 156786,
-      "name": "Back on the Road (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/3MsEJbnW0SYWNzQ6D1j5Xm"
+      "duration_ms": 265600,
+      "name": "Back That Azz Up",
+      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
     },
     {
       "added_at": null,
@@ -1047,30 +1071,6 @@
       "duration_ms": 229226,
       "name": "Drop The World",
       "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "400 Degreez",
-        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Mannie Fresh",
-          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Back That Azz Up",
-      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
     },
     {
       "added_at": null,

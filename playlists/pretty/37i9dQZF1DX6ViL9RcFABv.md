@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Diogo Piçarra
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,470 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,492 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

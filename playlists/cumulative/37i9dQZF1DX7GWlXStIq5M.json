@@ -11043,6 +11043,24 @@
     },
     {
       "album": {
+        "name": "Nuvem de Testemunhas - Spotify Singles",
+        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93377,
+      "name": "Nuvem de Testemunhas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
+    },
+    {
+      "album": {
         "name": "N\u00e3o consigo ir embora",
         "url": "https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8"
       },
@@ -12520,7 +12538,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 189375,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"

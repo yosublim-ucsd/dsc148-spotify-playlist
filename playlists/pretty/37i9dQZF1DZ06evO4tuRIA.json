@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 86270,
+  "num_followers": 86328,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABxMDxfh3lildGpZ7x8UiOw",
+  "snapshot_id": "ZzkyAAAAAAARlbf+1q5Tm7xw3bzqHBGz",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -731,6 +747,22 @@
       "duration_ms": 172303,
       "name": "Un Chamaco Sin Futuro",
       "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El 7 De La Suerte",
+        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "El Chili Willy",
+      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
     },
     {
       "added_at": null,
@@ -751,38 +783,6 @@
       "duration_ms": 201208,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El 7 De La Suerte",
-        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "El Chili Willy",
-      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4-20-20",
+        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 124574,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Gori",
         "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
       },
@@ -943,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4-20-20",
-        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
       "artists": [
         {
@@ -952,29 +968,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 124574,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
-        "url": "https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
-      "url": "https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG"
+      "duration_ms": 181800,
+      "name": "Vida Peligrosa El Solecito (En Vivo)",
+      "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
     }
   ],
   "unique_name": "This Is LEGADO 7",

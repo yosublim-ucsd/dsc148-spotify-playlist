@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Iman Fandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,899 likes - 104 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,900 likes - 104 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

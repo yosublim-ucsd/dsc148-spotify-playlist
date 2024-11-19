@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 169687,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/1FWFoynNcE5JZFptZeDn0u"
@@ -2661,6 +2661,28 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/5ipZ7FtDt7F7XPMFM0QOFm"
+      },
+      "artists": [
+        {
+          "name": "GUI2IN",
+          "url": "https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql"
+        },
+        {
+          "name": "OMERGY",
+          "url": "https://open.spotify.com/artist/32Y9uYyaQUetwzraaVE1SU"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4BWavbFqx9aJqDcFxTq08D"
+    },
+    {
+      "album": {
         "name": "Foot On The Gas",
         "url": "https://open.spotify.com/album/0vjWrkEPlimO369GpZ8AZI"
       },
@@ -2790,7 +2812,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 167175,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/1JoVZhP3kteamv5DD2Ihzs"
@@ -3100,6 +3122,24 @@
       "duration_ms": 182238,
       "name": "Get Rockin'",
       "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
+    },
+    {
+      "album": {
+        "name": "Gettin Hawt",
+        "url": "https://open.spotify.com/album/0lFmXOg4IBWY0vdwtCluGZ"
+      },
+      "artists": [
+        {
+          "name": "Gold Lemonade",
+          "url": "https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "Gettin Hawt",
+      "url": "https://open.spotify.com/track/6HqbX72YhBg8zrBDnHTXLd"
     },
     {
       "album": {
@@ -3714,7 +3754,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 183383,
       "name": "In The Place",
       "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
@@ -3978,7 +4018,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 191818,
       "name": "Keep On Pushing",
       "url": "https://open.spotify.com/track/3hxESOoUq0tc9NrI3yfKaE"
@@ -4124,7 +4164,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 216217,
       "name": "Let Your Hands Go",
       "url": "https://open.spotify.com/track/1e8j6YNvDaD0XlwTr8yfGy"
@@ -4826,7 +4866,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 219047,
       "name": "MUSIC IS OUR LIFE",
       "url": "https://open.spotify.com/track/0aJ7g4vz8WZfZIwaFsnj0F"
@@ -5526,7 +5566,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 196535,
       "name": "Play The Bass Loud",
       "url": "https://open.spotify.com/track/2Fzpvl8BF8aPVVsid5p6aS"
@@ -6432,7 +6472,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 169777,
       "name": "SEROTONIN",
       "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
@@ -6508,7 +6548,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 153000,
       "name": "Shaka",
       "url": "https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr"

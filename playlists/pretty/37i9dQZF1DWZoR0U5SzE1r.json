@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 328803,
+  "num_followers": 328896,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
+        "name": "Cover The Earth: Live In New York (Deluxe)",
+        "url": "https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 552251,
+      "name": "Drink Offering (Deluxe Version) - Live",
+      "url": "https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2AQV4UU80HM2CpUwcdT97s"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 442893,
       "name": "Nobody Like You (Live)",
       "url": "https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
-        "name": "Cover The Earth: Live In New York (Deluxe)",
-        "url": "https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 552251,
-      "name": "Drink Offering (Deluxe Version) - Live",
-      "url": "https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Fill This Place (Studio Version)",
-        "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Fill This Place (Studio Version)",
-      "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "A Million Saints (Live)",
         "url": "https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 208864,
       "name": "A Million Saints (Live)",
       "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 351213,
+      "name": "Inhabit - Live",
+      "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
     }
   ],
   "unique_name": "epicPRAISE",

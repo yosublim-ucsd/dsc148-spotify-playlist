@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,236 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,218 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 29 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 |
 | 30 | [The House of Wolves](https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:25 |
 | 31 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 |
-| 32 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
-| 33 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
+| 32 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
+| 33 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 |
 | 34 | [Hardwired](https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 3:09 |
 | 35 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
 | 36 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 37 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 38 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
-| 39 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:07 |
-| 40 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
+| 39 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
+| 40 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:07 |
 | 41 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 42 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
 | 43 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |

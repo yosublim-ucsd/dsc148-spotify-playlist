@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296741,
+  "num_followers": 296739,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "AB III",
-        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
         }
       ],
-      "duration_ms": 253720,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
+      "duration_ms": 277560,
+      "name": "The Pod",
+      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+        "name": "AB III",
+        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
       },
       "artists": [
         {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 277560,
-      "name": "The Pod",
-      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+      "duration_ms": 253720,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI"
-      },
-      "artists": [
-        {
-          "name": "Heart to Gold",
-          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
-        }
-      ],
-      "duration_ms": 175244,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Alone for You",
         "url": "https://open.spotify.com/album/1O6psTl2N99gIKkswuiBqD"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 193346,
       "name": "Alone for You",
       "url": "https://open.spotify.com/track/2HPSoQGW4Bw5k75Xa1VP1E"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI"
+      },
+      "artists": [
+        {
+          "name": "Heart to Gold",
+          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
+        }
+      ],
+      "duration_ms": 175244,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "to me",
-        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 243329,
-      "name": "to me",
-      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 212980,
       "name": "Bruise The Sore",
       "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 191543,
-      "name": "Ain't Hard To Tell",
-      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "All These Countless Nights (Reworked - Deluxe Version)",
         "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 186374,
       "name": "Engage",
       "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 191543,
+      "name": "Ain't Hard To Tell",
+      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Kill the Moth",
-        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 141630,
-      "name": "Kill the Moth",
-      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "duality",
         "url": "https://open.spotify.com/album/0YpkjYPstGWDkffW3SL9mQ"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 186474,
       "name": "over now",
       "url": "https://open.spotify.com/track/7fBre9lJfuG40HU2NLoCt8"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Kill the Moth",
+        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 141630,
+      "name": "Kill the Moth",
+      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 180263,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Self Defeater",
         "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
       },
@@ -2287,6 +2271,22 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
+        "name": "Who Will Fix Me Now?",
+        "url": "https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH"
+      },
+      "artists": [
+        {
+          "name": "Slow Degrade",
+          "url": "https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz"
+        }
+      ],
+      "duration_ms": 219352,
+      "name": "Who Will Fix Me Now?",
+      "url": "https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
         "name": "Static King",
         "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
       },
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Who Will Fix Me Now?",
-        "url": "https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH"
+        "name": "New",
+        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
       },
       "artists": [
         {
-          "name": "Slow Degrade",
-          "url": "https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz"
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
         }
       ],
-      "duration_ms": 219352,
-      "name": "Who Will Fix Me Now?",
-      "url": "https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0"
+      "duration_ms": 180263,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "hi mute",
-        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
-      },
-      "artists": [
-        {
-          "name": "Stock Manager",
-          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
-        }
-      ],
-      "duration_ms": 164376,
-      "name": "hi mute",
-      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Mush",
         "url": "https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal"
+        "name": "hi mute",
+        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
       },
       "artists": [
         {
-          "name": "Neighbourhood Void",
-          "url": "https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu"
+          "name": "Stock Manager",
+          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
         }
       ],
-      "duration_ms": 167437,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11"
+      "duration_ms": 164376,
+      "name": "hi mute",
+      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2411,6 +2395,22 @@
       "duration_ms": 231560,
       "name": "bury me.",
       "url": "https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal"
+      },
+      "artists": [
+        {
+          "name": "Neighbourhood Void",
+          "url": "https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu"
+        }
+      ],
+      "duration_ms": 167437,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11"
     },
     {
       "added_at": "2024-11-04 09:28:20",

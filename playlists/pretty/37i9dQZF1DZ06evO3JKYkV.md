@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,185 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,218 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 36 | [Mookid](https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 3:51 |
 | 37 | [Blue Calx](https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:20 |
 | 38 | [Analogue Bubblebath](https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 |
-| 39 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
-| 40 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
+| 39 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
+| 40 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
 | 41 | [\#2](https://open.spotify.com/track/5IVkC4o9erri6IqVZbGbxS) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:34 |
 | 42 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 4:28 |
 | 43 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 49 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
 | 50 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 |
 
-Snapshot ID: `ZzfggAAAAAA0oX5BujHVJjtqhx3I+Cp0`
+Snapshot ID: `ZzkyAAAAAADgC+4POmiMvZ2atvzy2631`

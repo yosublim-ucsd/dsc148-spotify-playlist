@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 33 min
+95 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 | 2023-10-10 | 2024-04-12 |
 | [Equalize](https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Equalize](https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf) | 3:38 | 2024-02-19 | 2024-07-30 |
 | [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 | 2023-10-10 | 2024-02-20 |
-| [Eu Te Amo / Eu Te Odeio \(IÔ\-IÔ\)](https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Eu Nunca Fui Embora \- PARTE 1](https://open.spotify.com/album/4LketVVipjzizVzYqTojSE) | 3:19 | 2024-04-07 |  |
+| [Eu Te Amo / Eu Te Odeio \(IÔ\-IÔ\)](https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Eu Nunca Fui Embora \- PARTE 1](https://open.spotify.com/album/4LketVVipjzizVzYqTojSE) | 3:19 | 2024-04-07 | 2024-11-19 |
+| [Eu Te Amo / Eu Te Odeio \(IÔ\-IÔ\)](https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Eu Nunca Fui Embora](https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB) | 3:19 | 2024-11-19 |  |
 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 | 2023-10-10 |  |
 | [Falta Coragem](https://open.spotify.com/track/2PQttFtH9rWyMxHPHfSckD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 2:37 | 2024-10-21 |  |
 | [Falta Coragem](https://open.spotify.com/track/6lRrel33k5DYgUX3GHBpFs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:37 | 2024-04-12 | 2024-08-06 |

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Keshi
 
-1,738 songs - 3 day 19 hr 49 min
+1,739 songs - 3 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,7 +1053,7 @@
 | [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2021-09-11 | 2021-10-23 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-09-24 |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-08-27 |
-| [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 | 2024-03-08 |  |
+| [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 | 2024-03-08 | 2024-11-19 |
 | [Muscle Memory](https://open.spotify.com/track/4Us0e0GX2jMpoLxIMXMvAX) | [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Muscle Memory](https://open.spotify.com/album/08kn3LxvdNMVWfpxUPNqMj) | 2:28 | 2021-04-30 | 2021-05-29 |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-27 | 2023-04-15 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-09 |
@@ -1189,6 +1189,7 @@
 | [Pillow](https://open.spotify.com/track/5xwtVHKuo5IxdlXQzqL6gQ) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Pillow](https://open.spotify.com/album/0zb47cMO6JyLvOcwj3m0B7) | 3:03 | 2020-10-13\* | 2021-01-15 |
 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 | 2023-10-06 | 2024-03-23 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-18 | 2023-03-04 |
+| [Pitfall](https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [chandol](https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz) | [Burnout](https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g) | 3:02 | 2024-11-18 |  |
 | [Planet Express](https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Planet Express](https://open.spotify.com/album/1pFOoKAoqMRWTIAdDdqTnF) | 4:19 | 2023-10-06 | 2023-11-08 |
 | [play w/ me](https://open.spotify.com/track/3xHxEedrD51HCQ91Hlt5qL) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0) | [play w/ me](https://open.spotify.com/album/2BdomxC5fNGCYMmhqBkAfC) | 3:03 | 2021-01-17 | 2021-02-19 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-04-05 | 2024-06-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2406611,
+  "num_followers": 2406616,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Tell Me What You Want",
         "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/6GbUYC6kB63fND2yunOVmZ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 188160,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/5OLSGox6JVpAyEQuoSYRcs"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Shades Of Love (feat. The Joy)",
-        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
+        "name": "High and I Like it",
+        "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
         },
         {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Shades Of Love (feat. The Joy)",
-      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
+      "duration_ms": 223379,
+      "name": "High and I Like it",
+      "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "High and I Like it",
-        "url": "https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL"
+        "name": "Shades Of Love (feat. The Joy)",
+        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
       "artists": [
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         },
         {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
         }
       ],
-      "duration_ms": 223379,
-      "name": "High and I Like it",
-      "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
+      "duration_ms": 203520,
+      "name": "Shades Of Love (feat. The Joy)",
+      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Starlight (Keep Me Afloat)",
         "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -1739,6 +1739,26 @@
       "duration_ms": 222675,
       "name": "JOY (By My Side)",
       "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1843,26 +1863,6 @@
       "duration_ms": 172033,
       "name": "B Somebody",
       "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Heaven In Your Arms",
-        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 248415,
-      "name": "Heaven In Your Arms",
-      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "3AM (LA LA LA)",
-        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 173731,
-      "name": "SO TRU",
-      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "3AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 173731,
+      "name": "SO TRU",
+      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2199,6 +2199,26 @@
       "duration_ms": 172867,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2371,26 +2391,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Janet Planet",
-          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
-        }
-      ],
-      "duration_ms": 198483,
-      "name": "Forever Baby",
-      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2775,6 +2775,26 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "I Knew It Was You",
+        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 175928,
+      "name": "I Knew It Was You",
+      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
       },
@@ -2811,26 +2831,6 @@
       "duration_ms": 183531,
       "name": "Are You Ready",
       "url": "https://open.spotify.com/track/4XAyy0wQa0pboXt3M0RbZi"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "I Knew It Was You",
-        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 175928,
-      "name": "I Knew It Was You",
-      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -3055,26 +3055,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "We Groovin",
-        "url": "https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "We Groovin",
-      "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Weekend Release",
         "url": "https://open.spotify.com/album/7cs732dE0Paj8fGS4nxdxQ"
       },
@@ -3095,6 +3075,26 @@
       "duration_ms": 185957,
       "name": "Weekend Release",
       "url": "https://open.spotify.com/track/4nuSOZtY2jRO2hdiKW5ehL"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "We Groovin",
+        "url": "https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "We Groovin",
+      "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
     },
     {
       "added_at": "2024-11-15 04:00:00",

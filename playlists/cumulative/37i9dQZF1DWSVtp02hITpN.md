@@ -4,7 +4,7 @@
 
 > The biggest pop tracks right now\. Cover: Myles Smith
 
-211 songs - 10 hr 46 min
+212 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [nothings changed \(!\)](https://open.spotify.com/track/4Lq6T5Hmn9lrRPVUoRjNE4) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [nothings changed \(!\)](https://open.spotify.com/album/34tsjIDnd3Z0EefNbKsr1e) | 2:24 | 2024-07-05 | 2024-07-27 |
 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 | 2024-06-28 | 2024-07-27 |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-25 |  |
+| [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-11-18 |  |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-19 | 2024-10-04 |
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-25 |  |
 | [Party In My Head](https://open.spotify.com/track/6s2jzhB86kZwMgDSRTkslw) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Party In My Head](https://open.spotify.com/album/2b2mHNd4HAzn8R8GcbmvnP) | 2:31 | 2024-06-28 | 2024-08-03 |

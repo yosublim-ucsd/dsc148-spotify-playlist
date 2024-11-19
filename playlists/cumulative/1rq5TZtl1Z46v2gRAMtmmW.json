@@ -2321,6 +2321,28 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "album": {
         "name": "Forgive Me (Live) / A Moment Apart (Live)",
         "url": "https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV"
       },
@@ -5904,7 +5926,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 271573,
       "name": "The Kiss",
       "url": "https://open.spotify.com/track/6jOg7Vcj5kzV8RML6YZAKF"

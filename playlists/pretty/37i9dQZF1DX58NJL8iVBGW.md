@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,037 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,145 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 41 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 42 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
 | 43 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
-| 44 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
-| 45 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
-| 46 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
+| 44 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
+| 45 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
+| 46 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
 | 47 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 | 48 | [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 |
 | 49 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 74 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |
 | 75 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 |
 | 76 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
-| 77 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
-| 78 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
+| 77 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
+| 78 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
 | 79 | [One Trip Pony](https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [One Trip Pony](https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3) | 3:40 |
 | 80 | [Skunks](https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Skunks](https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL) | 3:27 |
 | 81 | [Summer's Fingers Sweetly Linger \(Everywhere On Every Side\)](https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [When The Roses Come Again](https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt) | 4:21 |

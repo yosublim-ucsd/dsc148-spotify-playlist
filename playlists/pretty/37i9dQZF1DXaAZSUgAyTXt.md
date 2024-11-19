@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 
 > when life gives you lemons ¯\\\_\(ツ\)\_/¯
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,651 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,653 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 | 19 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
 | 20 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 21 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 |
-| 22 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
-| 23 | [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 |
+| 22 | [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 |
+| 23 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 24 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 25 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
 | 26 | [Ok Love You Bye](https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 2:34 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 | 33 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 34 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 |
 | 35 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
-| 36 | [Orange Blossoms](https://open.spotify.com/track/4IZTru7nKgBE8sBq6aMY56) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Orange Blossoms](https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao) | 3:12 |
-| 37 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
+| 36 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
+| 37 | [Orange Blossoms](https://open.spotify.com/track/4IZTru7nKgBE8sBq6aMY56) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Orange Blossoms](https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao) | 3:12 |
 | 38 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 |
 | 39 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 40 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 | 44 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 45 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
 | 46 | [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 |
-| 47 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
-| 48 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 47 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 48 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
 | 49 | [Strawberry Sunscreen](https://open.spotify.com/track/6Xve7pWqzW6CQV8mlXzpBe) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/1RYBqAoMBjelC8bI6UJX2O) | 2:09 |
 | 50 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 |
 

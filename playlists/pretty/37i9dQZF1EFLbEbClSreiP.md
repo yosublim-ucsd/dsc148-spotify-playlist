@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684 likes - 23 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 684 likes - 25 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 21 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
 | 22 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 23 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
+| 24 | [congrats! u did it!](https://open.spotify.com/track/1bUxz5fnnlXbNDTfPQcQhU) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 3:23 |
+| 25 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
 
-Snapshot ID: `Abhx3gAAAAA4FMk63qfSu6ucnG2bT4LO`
+Snapshot ID: `Abh3fgAAAACIwjXy7tlgWzbBqnqdn1PN`

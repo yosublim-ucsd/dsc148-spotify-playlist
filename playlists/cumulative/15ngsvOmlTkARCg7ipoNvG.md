@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,836 songs - 1 day 13 hr 41 min
+1,837 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1014,6 +1014,7 @@
 | [Mist In The Field \- Cello And Felt Piano Version](https://open.spotify.com/track/1cD0mUgwjeE2kxGHxxCaGO) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Mist In The Field \(Cello And Felt Piano Version\)](https://open.spotify.com/album/7kkXsPRO0I0cGZn3LpmZpO) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Mist On The Blue River](https://open.spotify.com/track/0K0szR7289GH42vLWIrifr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 1](https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1) | 1:01 | 2022-02-11 | 2024-01-30 |
 | [Misty Waters](https://open.spotify.com/track/2MAtKYN8Ih8U6ywPu7j8eX) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Misty Waters](https://open.spotify.com/album/6e76oMEZ8nq6yka7bKy1Wf) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Moment](https://open.spotify.com/track/0vCVCkcHwtE8UFlate9c8O) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Moment](https://open.spotify.com/album/0nA3EAd59tzry28sSiWGlL) | 1:00 | 2024-11-18 |  |
 | [Moment Of Calm](https://open.spotify.com/track/5eKSok7akEoxAirLgHgU4A) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Moment Of Calm](https://open.spotify.com/album/661hVRfTRoT1ixa7KNEFyL) | 1:01 | 2024-01-29 |  |
 | [Moment Of Calm \- Cello Version](https://open.spotify.com/track/4OXpGNrFUEz8ictzy68JgO) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Moment Of Calm \(Cello Version\)](https://open.spotify.com/album/79q2OwyGuYUttNQmgyLdUV) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Moment of Clarity](https://open.spotify.com/track/0r1QfLPGXrpLgz0NmG3tzb) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:25 | 2022-01-12 | 2024-01-30 |

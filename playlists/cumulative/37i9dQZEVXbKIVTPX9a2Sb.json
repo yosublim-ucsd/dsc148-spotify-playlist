@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 190253,
       "name": "Ako ty",
       "url": "https://open.spotify.com/track/67cK1EZ5pJEcUQAoC18Jiz"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 171722,
       "name": "AM4",
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 140915,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
@@ -10416,7 +10416,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -12306,7 +12306,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 209844,
       "name": "Good Things Go",
       "url": "https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7"
@@ -15346,7 +15346,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 209083,
       "name": "IGYEIH",
       "url": "https://open.spotify.com/track/7M8eZBRTD9QNasEVReEM0H"
@@ -19690,7 +19690,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -24274,7 +24274,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -25912,7 +25912,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 211027,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf"
@@ -27074,6 +27074,24 @@
       "duration_ms": 210000,
       "name": "POD DRN",
       "url": "https://open.spotify.com/track/1QJr9gqb6wqumAkLBHcJCq"
+    },
+    {
+      "album": {
+        "name": "Pod vodou",
+        "url": "https://open.spotify.com/album/2SPno6uXWxPljKew4vwsbQ"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Pod vodou",
+      "url": "https://open.spotify.com/track/22aNYoaOIkVTaEtb7OOz8K"
     },
     {
       "album": {
@@ -30256,7 +30274,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -32676,7 +32694,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 185414,
       "name": "Stained",
       "url": "https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF"
@@ -34130,7 +34148,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -35288,7 +35306,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -39272,7 +39290,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

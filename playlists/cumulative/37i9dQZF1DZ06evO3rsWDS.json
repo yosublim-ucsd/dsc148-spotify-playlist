@@ -1204,6 +1204,24 @@
     {
       "album": {
         "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/5VovoV6VIKIAo5Ztn3sQPy"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230648,
+      "name": "Paloma Blanca",
+      "url": "https://open.spotify.com/track/4e2IC3gZ9KHtxrRee7XLk0"
+    },
+    {
+      "album": {
+        "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
       "artists": [
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 233373,
       "name": "PALOMA BLANCA",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"

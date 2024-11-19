@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,833 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,196 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 6 | [ABU DHABI \(w/ Lancey Foux\)](https://open.spotify.com/track/5sv52cIHSsKw66yhHFFXyj) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ABU DHABI \(w/ Lancey Foux\)](https://open.spotify.com/album/65nf2NivqigHee4vVjsRT5) | 2:34 |
 | 7 | [I Rot, I Rot.](https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 1:59 |
 | 8 | [LOVE HURTS](https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOVE LASTS FOREVER](https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U) | 4:34 |
-| 9 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 |
-| 10 | [VENUS](https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 3:16 |
-| 11 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
-| 12 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 |
-| 13 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 |
+| 9 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 |
+| 10 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 |
+| 11 | [VENUS](https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 3:16 |
+| 12 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
+| 13 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 |
 | 14 | [Sound Design](https://open.spotify.com/track/7acjLOXbxtLthMU8Yy55hS) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Sound Design](https://open.spotify.com/album/3YUDjqJj5okB9QUFjH2yop) | 1:55 |
 | 15 | [Shibuya](https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 |
 | 16 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 54 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 |
 | 55 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 |
 
-Snapshot ID: `Zxvo0AAAAAADlSLmz/CYvchD3/J4Co1f`
+Snapshot ID: `ZztdxAAAAAAhlXydhDnNyQPM+Z4DRwvI`

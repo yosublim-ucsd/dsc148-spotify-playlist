@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,522 likes - 45 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,535 likes - 45 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 36 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 | 37 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 38 | [Here with Me](https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD) | 3:43 |
-| 39 | [Get the Time](https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:16 |
+| 39 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
 | 40 | [Cameage](https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
 | 41 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
-| 42 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
+| 42 | [Get the Time](https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:16 |
 | 43 | [Baby Doncha Know](https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 44 | [Sour Grapes](https://open.spotify.com/track/0ZTtzCeL6FqRF7mRlPK7RX) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:51 |
 | 45 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 |
 
-Snapshot ID: `ZzfggAAAAACdeYl1UBsCYq0nzWjWGd9C`
+Snapshot ID: `ZzkyAAAAAAASK9YrqurSjRydLCeS3KZw`

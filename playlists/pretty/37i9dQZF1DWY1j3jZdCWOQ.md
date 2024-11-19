@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,988 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,044 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 64 | [Beachboy](https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Beachboy](https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu) | 3:19 |
 | 65 | [Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [You're Gonna Miss It All](https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA) | 2:43 |
 | 66 | [Until the Day I Die](https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:55 |
-| 67 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
-| 68 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
+| 67 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
+| 68 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 69 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 70 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 71 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
 | 72 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 |
 | 73 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 74 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
-| 75 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
-| 76 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
+| 75 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 76 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
 | 77 | [synthesizer](https://open.spotify.com/track/3ST3gm2fbhUf3k7xi3ThiX) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [synthesizer](https://open.spotify.com/album/3Nvooh5H5kTox66kB68S85) | 3:00 |
-| 78 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 78 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
 | 79 | [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [zombie](https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS) | 2:11 |
 | 80 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 |
 | 81 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 |

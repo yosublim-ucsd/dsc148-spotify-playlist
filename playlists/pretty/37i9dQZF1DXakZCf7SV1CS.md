@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,851 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,870 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 44 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
 | 45 | [Hey QT](https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t) | [QT](https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z) | [Hey QT](https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W) | 3:55 |
 | 46 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 |
-| 47 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
-| 48 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
+| 47 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
+| 48 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
 | 49 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 50 | [doing it wrong](https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Dreamcache](https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa) | [doing it wrong](https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo) | 2:27 |
 | 51 | [serialkilled](https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [serialkilled](https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i) | 1:47 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 61 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 62 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 | 63 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
-| 64 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
-| 65 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
+| 64 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
+| 65 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
 | 66 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |
 | 67 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
 | 68 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 |

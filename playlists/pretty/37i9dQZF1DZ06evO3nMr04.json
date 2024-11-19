@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1354156,
+  "num_followers": 1354485,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAArrtk34o/P6DG0Nt8i8PfX",
+  "snapshot_id": "ZzkyAAAAAADmNXQ0JcwGcbmCdeaVkdK7",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 158980,
       "name": "PROMOTION",
       "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": null,

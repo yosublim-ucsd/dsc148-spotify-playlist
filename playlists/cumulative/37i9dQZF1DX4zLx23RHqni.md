@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-84 songs - 5 hr 27 min
+85 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kathali](https://open.spotify.com/track/1rMuC0v08MocBqVhDaIfwy) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Havoc Naven](https://open.spotify.com/artist/5ZWUML76b3ZPdKdYXm0cNf) | [Best of Havoc Brothers](https://open.spotify.com/album/666d9PNXmiyefgWdJpZbgG) | 4:25 | 2021-12-01 |  |
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 | 2024-01-24 |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2022-03-30 |  |
+| [Malayaala Desa Nesam](https://open.spotify.com/track/5mVPGfgilHgNwUdgFdCUv9) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Malayaala Desa Nesam](https://open.spotify.com/album/38HSqa8zdp6RblRBP2wuGF) | 3:54 | 2024-11-18 |  |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2024-06-06 |  |
 | [Manasara Sollu](https://open.spotify.com/track/5dmLyxAc4JnJ3L6gt3q9ZP) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Manasara Sollu](https://open.spotify.com/album/4SPE8chJmSFveu1QoBUjto) | 4:22 | 2022-03-30 |  |
 | [Manase](https://open.spotify.com/track/34jtyX2BPoKqQZ4bSAE0bZ) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Manase](https://open.spotify.com/album/4MRB2WTVMGk4aa3yCwzEvZ) | 3:04 | 2022-10-28 |  |
@@ -70,7 +71,7 @@
 | [Orasaadha \- Madras Gig](https://open.spotify.com/track/7fec0UcxeHVe6kHIez2GSs) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Orasaadha \(Madras Gig\)](https://open.spotify.com/album/1mnPDLW0l0ahapG5OXbgJe) | 3:55 | 2021-12-01 |  |
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 |  |
 | [Pagal Iravai \| Maraigirai](https://open.spotify.com/track/2jQQTuzwJWEtwayffAADIe) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI) | [Pagal Iravai \| Maraigirai](https://open.spotify.com/album/4Et3flF6ldGOucwRw22VEd) | 4:48 | 2021-12-01 |  |
-| [Pessamal](https://open.spotify.com/track/5nsHK5fiMpbeWtxF57JIaP) | [Amrita Jayakumar](https://open.spotify.com/artist/1nuDXCDGZJtV4HqeOJkOz1), [Nithinraj](https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD), [Sidhartha Pradeep](https://open.spotify.com/artist/1bzaqqpSNBNMnqqmIiLl8S) | [Mounam Sollum Varthaigal](https://open.spotify.com/album/6VtYIGyUTFMLJZzfliRykK) | 5:26 | 2021-12-01 |  |
+| [Pessamal](https://open.spotify.com/track/5nsHK5fiMpbeWtxF57JIaP) | [Amrita Jayakumar](https://open.spotify.com/artist/1nuDXCDGZJtV4HqeOJkOz1), [Nithinraj](https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD), [Sidhartha Pradeep](https://open.spotify.com/artist/1bzaqqpSNBNMnqqmIiLl8S) | [Mounam Sollum Varthaigal](https://open.spotify.com/album/6VtYIGyUTFMLJZzfliRykK) | 5:26 | 2021-12-01 | 2024-11-19 |
 | [Po Po Yen](https://open.spotify.com/track/31qVBkJJd48frcwBgIkBqF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI) | [Po Po Yen \- Single](https://open.spotify.com/album/4lRcrxaljMocjoJkQiWjzP) | 4:06 | 2021-12-01 |  |
 | [Po Po Yen](https://open.spotify.com/track/6Q5Qwg86SsmUhlWlVFc1Le) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI) | [Po Po Yen \- Single](https://open.spotify.com/album/09GPze3xA8OTTXJVflbstY) | 4:06 | 2021-12-01 | 2024-04-19 |
 | [Poomadhiye](https://open.spotify.com/track/6q75ZjYLIrWbCNwg052eZR) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO) | [Poomadhiye](https://open.spotify.com/album/1w3W46jmmLfvbMGyrxcwAf) | 3:36 | 2023-05-16 |  |

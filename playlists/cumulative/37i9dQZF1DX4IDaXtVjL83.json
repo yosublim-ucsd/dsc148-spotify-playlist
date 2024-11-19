@@ -2762,10 +2762,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 182680,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT"
+    },
+    {
+      "album": {
+        "name": "Pivot (Feat. Armani White)",
+        "url": "https://open.spotify.com/album/1ycCc4K1haLD4RX3ZcgmLi"
+      },
+      "artists": [
+        {
+          "name": "HEYOON",
+          "url": "https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176881,
+      "name": "Pivot (Feat. Armani White)",
+      "url": "https://open.spotify.com/track/54ltqcipQbEqZz3IhnzyB8"
     },
     {
       "album": {

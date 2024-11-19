@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 17573,
+  "num_followers": 17589,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "At What Cost",
-        "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
       "artists": [
         {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 176702,
-      "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
-      "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -247,18 +239,26 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+        "name": "At What Cost",
+        "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         }
       ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+      "duration_ms": 176702,
+      "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+      "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
     },
     {
       "added_at": "2022-10-01 04:00:00",

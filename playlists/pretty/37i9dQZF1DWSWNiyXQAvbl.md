@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,241 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,277 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 54 | [Follow You Follow Me \- Remastered 2007](https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three](https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg) | 4:00 |
 | 55 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
 | 56 | [Father And Son](https://open.spotify.com/track/19slC7k8bsPOAKDjHYLU2W) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea for the Tillerman](https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj) | 3:41 |
-| 57 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 58 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
-| 59 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 |
+| 57 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 |
+| 58 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
+| 59 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
 | 60 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
 | 61 | [Sweet Home Alabama](https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Lynyrd Skynyrd \- Rock Legends](https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC) | 4:45 |
 | 62 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |

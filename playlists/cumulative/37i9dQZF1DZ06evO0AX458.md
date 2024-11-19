@@ -4,7 +4,7 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 21 min
+84 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anyone / Anything \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/3dwwMlK4bFGjWmX36vZqqN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:39 | 2024-01-21 | 2024-11-01 |
 | [Art Official](https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:38 | 2022-09-24 | 2022-10-08 |
 | [Benediction](https://open.spotify.com/track/5P6RywcZKqvD8BvirxO58l) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:39 | 2022-09-18 | 2022-09-23 |
+| [Blue Angels](https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 1:31 | 2024-11-19 |  |
 | [Blue Angels \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/4bBU5YMY4daFmFFxMj9q9Z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 1:31 | 2024-01-20 | 2024-11-18 |
 | [Cadence \(Anniversary Version\)](https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Dead Horse X](https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa) | 1:39 | 2022-09-16 |  |
 | [Changing Lanes](https://open.spotify.com/track/6KZALHMfxxtqMCjQ3rJepi) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Touché Amoré](https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf) | 2:17 | 2022-09-16 | 2022-10-13 |
@@ -76,7 +77,7 @@
 | [Reminders](https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:03 | 2022-09-16 |  |
 | [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 | 2022-09-16 |  |
 | [Skyscraper](https://open.spotify.com/track/3Ni6RhAIjbaDvkHep6Afnr) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:53 | 2022-09-16 | 2022-10-12 |
-| [Social Caterpillar](https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:03 | 2022-10-05 |  |
+| [Social Caterpillar](https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:03 | 2022-10-05 | 2024-11-19 |
 | [Social Caterpillar \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/3OpGupuQpODzL7hszQZkJv) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 3:03 | 2024-01-20 | 2024-01-22 |
 | [Softer Spoken](https://open.spotify.com/track/7aoOy4QXKGhecDODluw2c6) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 1:55 | 2022-09-19 | 2022-10-13 |
 | [Steps](https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:38 | 2022-09-16 | 2024-11-01 |

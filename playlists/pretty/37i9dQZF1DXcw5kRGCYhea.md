@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,516 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,521 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

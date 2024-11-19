@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 388957,
+  "num_followers": 388977,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
-        "name": "99.9 Psychic Radio",
-        "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
-      },
-      "artists": [
-        {
-          "name": "PSYCHIC FEVER from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
-        },
-        {
-          "name": "JP THE WAVY",
-          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
-        }
-      ],
-      "duration_ms": 191132,
-      "name": "Just Like Dat feat. JP THE WAVY",
-      "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
         "name": "Luv Myself (feat. AKLO & KEIJU)",
         "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
+        "name": "99.9 Psychic Radio",
+        "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "duration_ms": 191132,
+      "name": "Just Like Dat feat. JP THE WAVY",
+      "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
       "added_at": "2024-11-13 01:26:05",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
+        "name": "\u4eca\u591c\u306f\u541b\u3068",
+        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 232134,
+      "name": "\u4eca\u591c\u306f\u541b\u3068",
+      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
         "name": "Stay With Me (feat. Hikaru Utada)",
         "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 172085,
       "name": "Stay With Me (feat. Hikaru Utada)",
       "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
-        "name": "\u4eca\u591c\u306f\u541b\u3068",
-        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 232134,
-      "name": "\u4eca\u591c\u306f\u541b\u3068",
-      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
     },
     {
       "added_at": "2024-11-13 01:26:05",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
         "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
         "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
-        "name": "GOLDENWEEK",
-        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
-      },
-      "artists": [
-        {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 200910,
-      "name": "GOLDENWEEK",
-      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
+        "name": "GOLDENWEEK",
+        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "duration_ms": 200910,
+      "name": "GOLDENWEEK",
+      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
     },
     {
       "added_at": "2024-11-13 01:26:05",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
         "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
         "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "added_at": "2024-11-13 01:26:05",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
+        "name": "GAME OVER",
+        "url": "https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "GAME OVER",
+      "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
         "name": "E-SIDE 3",
         "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
       },
@@ -1679,6 +1699,22 @@
       "duration_ms": 199082,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-11-13 01:26:05",
+      "album": {
+        "name": "\u30ab\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 228913,
+      "name": "\u30ab\u30eb\u30c8",
+      "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"
     },
     {
       "added_at": "2024-11-13 01:26:05",
@@ -1703,22 +1739,6 @@
     {
       "added_at": "2024-11-13 01:26:05",
       "album": {
-        "name": "\u30ab\u30eb\u30c8",
-        "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 228913,
-      "name": "\u30ab\u30eb\u30c8",
-      "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
         "name": "39 Minutes",
         "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
       },
@@ -1731,22 +1751,6 @@
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
-    },
-    {
-      "added_at": "2024-11-13 01:26:05",
-      "album": {
-        "name": "plum",
-        "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "plum",
-      "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
     }
   ],
   "unique_name": "Tokyo Rising",

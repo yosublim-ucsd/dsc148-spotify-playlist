@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,179 likes - 121 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,184 likes - 121 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
+| 1 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
 | 2 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 |
 | 3 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 |
 | 4 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |

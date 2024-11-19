@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Ruger",
-  "num_followers": 585723,
+  "num_followers": 585815,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-11-15 05:13:05",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2024-11-15 05:13:05",
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
-    },
-    {
-      "added_at": "2024-11-15 05:13:05",
-      "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2024-11-15 05:13:05",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-11-15 05:13:05",
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2024-11-15 05:13:05",
+      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
-    },
-    {
-      "added_at": "2024-11-15 05:13:05",
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2024-11-15 05:13:05",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-11-15 05:13:05",
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "added_at": "2024-11-15 05:13:05",
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 140166,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
-    },
-    {
-      "added_at": "2024-11-15 05:13:05",
-      "album": {
-        "name": "OFA (Oxlade From Africa)",
-        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "ASUNASA - HOLD YOUR WAIST",
-      "url": "https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4"
     },
     {
       "added_at": "2024-11-15 05:13:05",
@@ -1099,6 +1099,26 @@
       "duration_ms": 212666,
       "name": "back n forth",
       "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
+    },
+    {
+      "added_at": "2024-11-15 05:13:05",
+      "album": {
+        "name": "OFA (Oxlade From Africa)",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "ASUNASA - HOLD YOUR WAIST",
+      "url": "https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4"
     },
     {
       "added_at": "2024-11-15 05:13:05",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2024-11-15 05:13:05",
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": "2024-11-15 05:13:05",
-      "album": {
         "name": "Only Me",
         "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
       },
@@ -1243,6 +1243,26 @@
       "duration_ms": 129000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
+    },
+    {
+      "added_at": "2024-11-15 05:13:05",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
     },
     {
       "added_at": "2024-11-15 05:13:05",
@@ -1311,26 +1331,6 @@
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
-    },
-    {
-      "added_at": "2024-11-15 05:13:05",
-      "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 181646,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     }
   ],
   "unique_name": "Afropop",

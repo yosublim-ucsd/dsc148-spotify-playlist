@@ -1,6 +1,6 @@
 {
   "description": "The hottest in hip-hop, R&B and Afrobeats. Cover: Burna Boy",
-  "num_followers": 8850,
+  "num_followers": 8851,
   "original_name": "Now Playing...",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "INTOXYCATED",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 152593,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     }
   ],
   "unique_name": "Now Playing...",

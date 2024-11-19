@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 489044,
+  "num_followers": 489269,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -2031,30 +2031,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Calle Amor",
-        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
-      },
-      "artists": [
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        },
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
-        }
-      ],
-      "duration_ms": 218895,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "La Mia (Remix)",
         "url": "https://open.spotify.com/album/5KFoHD3Tby2JyPRZSCVZiC"
       },
@@ -2103,6 +2079,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Mente Gitana",
+        "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Mente Gitana",
+      "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Se Termin\u00f3 (feat. Kodigo)",
         "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
       },
@@ -2139,18 +2131,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Mente Gitana",
-        "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
+        "name": "Calle Amor",
+        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
         }
       ],
-      "duration_ms": 213818,
-      "name": "Mente Gitana",
-      "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
+      "duration_ms": 218895,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
     },
     {
       "added_at": "2024-03-08 16:14:30",

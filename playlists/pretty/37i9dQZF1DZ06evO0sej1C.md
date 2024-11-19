@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,692 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,706 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 44 | [Quisiera](https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Quisiera](https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc) | 3:08 |
 | 45 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 46 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
-| 47 | [Animales](https://open.spotify.com/track/4syVpbPa9RjMxcB8GPCMrG) | [Lio Avila](https://open.spotify.com/artist/18epaQFwoHjRcvwnk3kWXj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Animales](https://open.spotify.com/album/29wsl8ngOmYWkD6yRuMgSs) | 2:13 |
-| 48 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
-| 49 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
-| 50 | [Inigualable](https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Badly Rouse](https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8) | [Inigualable](https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj) | 3:05 |
+| 47 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
+| 48 | [Animales](https://open.spotify.com/track/4syVpbPa9RjMxcB8GPCMrG) | [Lio Avila](https://open.spotify.com/artist/18epaQFwoHjRcvwnk3kWXj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Animales](https://open.spotify.com/album/29wsl8ngOmYWkD6yRuMgSs) | 2:13 |
+| 49 | [Inigualable](https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Badly Rouse](https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8) | [Inigualable](https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj) | 3:05 |
+| 50 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
 
-Snapshot ID: `ZzfggAAAAADQ7kp7DZrZoad27Ks6n/dC`
+Snapshot ID: `ZzkyAAAAAABr5w8aqTwmacZ0Ocn8+uRw`

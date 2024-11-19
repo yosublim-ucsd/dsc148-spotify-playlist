@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 50852,
+  "num_followers": 50888,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Blues Helping - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Blues For Greeny",
         "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 126773,
       "name": "Long Grey Mare",
       "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Blues Helping - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Five Live Yardbirds (Live at the Marquee Club, London 1964 - 2015 Remaster)",
-        "url": "https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 336215,
-      "name": "Smokestack Lightning - Live at the Marquee Club, 1964",
-      "url": "https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "In London",
         "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 309293,
       "name": "Blue Shadows",
       "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Five Live Yardbirds (Live at the Marquee Club, London 1964 - 2015 Remaster)",
+        "url": "https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 336215,
+      "name": "Smokestack Lightning - Live at the Marquee Club, 1964",
+      "url": "https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Highway 60",
-      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
         "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 250906,
       "name": "Choo Choo Ch'Boogie",
       "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Highway 60",
+      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Basic Soul",
         "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 232226,
       "name": "Uh Huh My Baby",
       "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Lonesome Whistle Blues",
+      "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Retrospective 1957-62",
         "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
-      },
-      "artists": [
-        {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Lonesome Whistle Blues",
-      "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Chicago Blues Session Volume 12",
         "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "On The Waterfront",
-        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 144733,
-      "name": "Don\u2019t Want Nobody Else",
-      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Hot Boppin Girls Vol. 1",
         "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 123324,
       "name": "(He Said Yeah) Baby, You\u00b4re the One",
       "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "On The Waterfront",
+        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 144733,
+      "name": "Don\u2019t Want Nobody Else",
+      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
     },
     {
       "added_at": "2024-05-29 07:10:09",

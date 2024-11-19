@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,314 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,400 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 47 | [Back To Mars](https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 1:30 |
 | 48 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 |
 
-Snapshot ID: `ZzfggAAAAACTqM1bufkv2/d63ZcvpQ0P`
+Snapshot ID: `ZzkyAAAAAABCObBLrQ7JDpE3MeNbEOCM`

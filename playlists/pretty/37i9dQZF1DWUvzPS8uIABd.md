@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,331 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,333 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 7 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
 | 8 | [Miten sut mielest poistetaan](https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Miten sut mielest poistetaan](https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc) | 3:00 |
 | 9 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
-| 10 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
-| 11 | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/track/492nM6hzlMzbbbu4vE93bb) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm), [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/album/0RvRU3Y5vPTHuEIb2GIHkl) | 3:39 |
+| 10 | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/track/492nM6hzlMzbbbu4vE93bb) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm), [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/album/0RvRU3Y5vPTHuEIb2GIHkl) | 3:39 |
+| 11 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
 | 12 | [Roomaan](https://open.spotify.com/track/6zoZ6JjYbCNw3wHOfzVm1o) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Muutos](https://open.spotify.com/album/5z8rl6fJNKZXl01B4BI7Fq) | 2:49 |
 | 13 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 |
 | 14 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 68 | [Amaranth \(Vain elämää kausi 15\)](https://open.spotify.com/track/1coQO3QDwoujKGs34Kz3Q5) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Amaranth \(Vain elämää kausi 15\)](https://open.spotify.com/album/0k3zXybKHSpFQGk9CmoVLZ) | 3:19 |
 | 69 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 |
 
-Snapshot ID: `Zzj+SgAAAABbIrlWA6B+V2qPKyj9jUh4`
+Snapshot ID: `Zzro6QAAAADWfTdeY0+8ROrWbquDLmJJ`

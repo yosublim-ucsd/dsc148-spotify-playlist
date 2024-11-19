@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,733 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,765 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 60 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 61 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 62 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 |
-| 63 | [Ghetto Supastar \(That is What You Are\) \(feat\. Ol' Dirty Bastard & Mýa\)](https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6) | [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Ghetto Supastar](https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM) | 4:21 |
-| 64 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
-| 65 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
-| 66 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
+| 63 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
+| 64 | [Ghetto Supastar \(That is What You Are\) \(feat\. Ol' Dirty Bastard & Mýa\)](https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6) | [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Ghetto Supastar](https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM) | 4:21 |
+| 65 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
+| 66 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
 | 67 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 | 68 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
 | 69 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 95 | [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 |
 | 96 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 |
 | 97 | [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:41 |
-| 98 | [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 |
-| 99 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |
+| 98 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |
+| 99 | [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 |
 | 100 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
 
 Snapshot ID: `ZIyr9wAAAAA9/yggWLVNufzMEy7btoDv`

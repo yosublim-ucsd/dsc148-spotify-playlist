@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Gwen Stefani
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,329 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,322 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

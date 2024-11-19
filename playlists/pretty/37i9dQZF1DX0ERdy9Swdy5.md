@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,792 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,924 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 63 | [Pensamiento y Palabra](https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Clásicos](https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM) | 4:47 |
 | 64 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 65 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
-| 66 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 |
-| 67 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
+| 66 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
+| 67 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 |
 | 68 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
 | 69 | [Necesito Amarte](https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 4:53 |
 | 70 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 |

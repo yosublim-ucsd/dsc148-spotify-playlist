@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,756 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,761 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 26 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
 | 27 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 28 | [Count on Me](https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:17 |
-| 29 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
-| 30 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
+| 29 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
+| 30 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 31 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 32 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
 | 33 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 68 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 |
 | 69 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 |
 | 70 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
-| 71 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 |
-| 72 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 |
-| 73 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |
+| 71 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 |
+| 72 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |
+| 73 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 |
 | 74 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 75 | [Familiar](https://open.spotify.com/track/0Y4hwUppbGc8aIBmiTz30A) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Familiar](https://open.spotify.com/album/1L5GP3Zuu7BvI81OJ0VkpT) | 3:16 |
 

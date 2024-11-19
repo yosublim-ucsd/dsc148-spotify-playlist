@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,955 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,916 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

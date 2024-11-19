@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 29315,
+  "num_followers": 29324,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADoJ1WnWe+P95cjp+qZCj8U",
+  "snapshot_id": "ZzkyAAAAAADCPfGLqcBRZ09eXd1jiDwk",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Quiero Volver",
-      "url": "https://open.spotify.com/track/5kEubr1l8cqzEtSauan45U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 169953,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/5kEubr1l8cqzEtSauan45U"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 222820,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Toro Pinto",
         "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 211306,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 222820,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+      "duration_ms": 174040,
+      "name": "Dos Gotas de Agua",
+      "url": "https://open.spotify.com/track/6685gkTvHOFLb3go14K2I0"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Canciones Favoritas",
-        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Dos Gotas de Agua",
-      "url": "https://open.spotify.com/track/6685gkTvHOFLb3go14K2I0"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,

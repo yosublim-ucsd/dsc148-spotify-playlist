@@ -5152,7 +5152,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 126412,
       "name": "Pa Donde Sea",
       "url": "https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM"
@@ -7906,6 +7906,24 @@
       "duration_ms": 186305,
       "name": "Ya Lo Pens\u00e9 Mejor",
       "url": "https://open.spotify.com/track/3JNSvYlS3VnGJaaYbRmj2J"
+    },
+    {
+      "album": {
+        "name": "Ya Lo S\u00e9 (Banda)",
+        "url": "https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202777,
+      "name": "Ya Lo S\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW"
     },
     {
       "album": {

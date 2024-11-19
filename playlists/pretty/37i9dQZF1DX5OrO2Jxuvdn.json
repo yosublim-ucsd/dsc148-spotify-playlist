@@ -1,6 +1,6 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Carrie Underwood",
-  "num_followers": 112117,
+  "num_followers": 112121,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 188706,
       "name": "Aw Naw",
       "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "All To Myself",
-      "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "The Road And The Radio",
         "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 206586,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "All To Myself",
+      "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
@@ -1247,38 +1263,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ain't Worth the Whiskey",
-      "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ain't Worth the Whiskey",
+      "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
     },
     {
       "added_at": "2024-07-15 15:07:12",

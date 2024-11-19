@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Kevin Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,669 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,665 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 73 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
 | 74 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 |
 | 75 | [Soy Yo](https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Soy Yo](https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF) | 4:55 |
-| 76 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
+| 76 | [Hágale](https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe) | [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Hágale](https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC) | 2:47 |
 | 77 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
-| 78 | [Antes De Que Te Vayas](https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Antes De Que Te Vayas](https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD) | 4:31 |
-| 79 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
-| 80 | [Hágale](https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe) | [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Hágale](https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC) | 2:47 |
+| 78 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
+| 79 | [Antes De Que Te Vayas](https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Antes De Que Te Vayas](https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD) | 4:31 |
+| 80 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
 | 81 | [Dejémoslo Así](https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF) | [Frank Di](https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP), [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Dejémoslo Así](https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6) | 3:00 |
 | 82 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
 | 83 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |

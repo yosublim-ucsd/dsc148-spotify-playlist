@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 120419,
+  "num_followers": 120440,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -787,18 +787,26 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "Mejor Que Nunca...Sola Hay Una...!",
-        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf"
       },
       "artists": [
         {
-          "name": "Agua Bella",
-          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
+          "name": "Patrick Romantik",
+          "url": "https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA"
+        },
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        },
+        {
+          "name": "Erick Elera",
+          "url": "https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Voy a Buscarme un Amor",
-      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
+      "duration_ms": 209097,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM"
     },
     {
       "added_at": "2024-08-27 20:46:03",
@@ -835,26 +843,18 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/1KwqvNN3q7AOsalOiXOGlf"
+        "name": "Mejor Que Nunca...Sola Hay Una...!",
+        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
       "artists": [
         {
-          "name": "Patrick Romantik",
-          "url": "https://open.spotify.com/artist/3czJg4rK6iHdgBmjS1MiCA"
-        },
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        },
-        {
-          "name": "Erick Elera",
-          "url": "https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW"
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
         }
       ],
-      "duration_ms": 209097,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/0betY4GqNwj5KrvsUPs0RM"
+      "duration_ms": 243533,
+      "name": "Voy a Buscarme un Amor",
+      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
     }
   ],
   "unique_name": "Cumbias de Oro",

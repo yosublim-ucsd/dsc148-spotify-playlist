@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,467 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,481 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 25 | [Nate Growing Up](https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 26 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
 | 27 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
-| 28 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
+| 28 | [Juju Woman](https://open.spotify.com/track/5P874Jw02nufpahfrOlkik) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 0:48 |
 | 29 | [WTF Are We Talking For](https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:51 |
-| 30 | [Juju Woman](https://open.spotify.com/track/5P874Jw02nufpahfrOlkik) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 0:48 |
+| 30 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
 | 31 | [Mountains \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/0HCDvbGNsigLpkzCDwpKVr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:14 |
 | 32 | [Majesty \(with Labrinth & feat\. Eminem\)](https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:55 |
 | 33 | [Power Couple](https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 50 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 |
 
-Snapshot ID: `ZzfggAAAAABGE+QkcKJ81+91lZJ3dtIh`
+Snapshot ID: `ZzkyAAAAAACM7gBHdS1fq9VM48eEkvVW`

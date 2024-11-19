@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1349231,
+  "num_followers": 1349360,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Down to the River",
         "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 231253,
       "name": "Down to the River",
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
     },
     {
       "added_at": "2024-08-23 15:39:31",

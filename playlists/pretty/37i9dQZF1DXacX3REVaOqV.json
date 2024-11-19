@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 501019,
+  "num_followers": 501014,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Tell Me What You Want",
         "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Take Some Time",
-        "url": "https://open.spotify.com/album/59Nv1k8RX5ja09ejOATqB2"
-      },
-      "artists": [
-        {
-          "name": "Kellie Allen",
-          "url": "https://open.spotify.com/artist/0ITmVPvWLd1t4emVerjKAt"
-        }
-      ],
-      "duration_ms": 245594,
-      "name": "Take Some Time",
-      "url": "https://open.spotify.com/track/7CuzqluZbLC2ByREzICmPe"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Better World",
         "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Got This Love",
-        "url": "https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F"
+        "name": "Take Some Time",
+        "url": "https://open.spotify.com/album/59Nv1k8RX5ja09ejOATqB2"
       },
       "artists": [
         {
-          "name": "Ralph Felix",
-          "url": "https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV"
+          "name": "Kellie Allen",
+          "url": "https://open.spotify.com/artist/0ITmVPvWLd1t4emVerjKAt"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Got This Love",
-      "url": "https://open.spotify.com/track/1TTBJlatS49oAHVmROQ02Z"
+      "duration_ms": 245594,
+      "name": "Take Some Time",
+      "url": "https://open.spotify.com/track/7CuzqluZbLC2ByREzICmPe"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 239999,
       "name": "Beautiful Day (feat. Liisi Lafontaine)",
       "url": "https://open.spotify.com/track/2bBxIUeztazGNrbDYJF9RT"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Got This Love",
+        "url": "https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F"
+      },
+      "artists": [
+        {
+          "name": "Ralph Felix",
+          "url": "https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Got This Love",
+      "url": "https://open.spotify.com/track/1TTBJlatS49oAHVmROQ02Z"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 183475,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "You Got Heat",
         "url": "https://open.spotify.com/album/40YAosrDFxpayxG1FGoTRk"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0w1IHkAv7qF69rDu0raiDH"
       },
       "artists": [
         {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
         }
       ],
-      "duration_ms": 183475,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
+      "duration_ms": 316734,
+      "name": "All Times Disco",
+      "url": "https://open.spotify.com/track/0gc34e2YdDl8fB2bqD4LX2"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1687,38 +1703,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0w1IHkAv7qF69rDu0raiDH"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        }
-      ],
-      "duration_ms": 316734,
-      "name": "All Times Disco",
-      "url": "https://open.spotify.com/track/0gc34e2YdDl8fB2bqD4LX2"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Everyday People",
-        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 165494,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Contra La Par\u00e8",
         "url": "https://open.spotify.com/album/5PmLZIIEjPcMHKVaXJC8RZ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 135238,
       "name": "Contra La Par\u00e8",
       "url": "https://open.spotify.com/track/5NkpdXFz2kJbdaekLZtEKv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/3y8UGdJcrVulYXU1b8q6Ud"
+        "name": "Que Tal America (Dave Lee Mixes)",
+        "url": "https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH"
       },
       "artists": [
         {
-          "name": "Under Above",
-          "url": "https://open.spotify.com/artist/4k83yzQaZNeCZujEf03U8i"
+          "name": "Dos Hombres Sonido",
+          "url": "https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3VNzvfqYAMHiSktx33Zqgj"
+      "duration_ms": 240238,
+      "name": "Que Tal America - Dave Lee Mix",
+      "url": "https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1907,22 +1911,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Que Tal America (Dave Lee Mixes)",
-        "url": "https://open.spotify.com/album/27mGNjVjCoGo4LVFZKBbEH"
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/3y8UGdJcrVulYXU1b8q6Ud"
       },
       "artists": [
         {
-          "name": "Dos Hombres Sonido",
-          "url": "https://open.spotify.com/artist/2YSvLftkeQOm7eytBLiQbW"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+          "name": "Under Above",
+          "url": "https://open.spotify.com/artist/4k83yzQaZNeCZujEf03U8i"
         }
       ],
-      "duration_ms": 240238,
-      "name": "Que Tal America - Dave Lee Mix",
-      "url": "https://open.spotify.com/track/6TOgyLAm0RHrkS4wNswDvg"
+      "duration_ms": 158095,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3VNzvfqYAMHiSktx33Zqgj"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Hotswing",
+          "url": "https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Trapped - Club Mix",
+      "url": "https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/0zTGtc0HuqblFuXpBLZXyc"
       },
@@ -2135,26 +2155,6 @@
       "duration_ms": 166451,
       "name": "Boy (feat. JONES)",
       "url": "https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Trapped",
-        "url": "https://open.spotify.com/album/0Hxtes4PBdDwW22sgGf9Z0"
-      },
-      "artists": [
-        {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        },
-        {
-          "name": "Hotswing",
-          "url": "https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Trapped - Club Mix",
-      "url": "https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Family Business (Radio Edit)",
-        "url": "https://open.spotify.com/album/6vLzNZPI95rAPXGsiWRWwK"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Family Business - Radio Edit",
-      "url": "https://open.spotify.com/track/4PDUz6h6rzSkf5BmxhhGnC"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/1raEyMKcdrKGOunhy3FjQv"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 160000,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4QMVKr6wiETRCLuwMPdqJb"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Baby Voque",
+        "url": "https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683"
+      },
+      "artists": [
+        {
+          "name": "Ghostbusterz",
+          "url": "https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "Baby Voque",
+      "url": "https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ"
     }
   ],
   "unique_name": "House Supreme",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,193 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,211 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 51 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
 | 52 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 | 53 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
-| 54 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 |
+| 54 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 |
 | 55 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
-| 56 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 |
+| 56 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 |
 | 57 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
 | 58 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |
 | 59 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,409 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,369 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 29 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
 | 30 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
 | 31 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
-| 32 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
-| 33 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
-| 34 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 32 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
+| 33 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 34 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
 | 35 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 36 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
-| 37 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
-| 38 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
+| 37 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
+| 38 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 39 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
 | 40 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 | 41 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 64 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 |
 | 65 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
 | 66 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
-| 67 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
-| 68 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
+| 67 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
+| 68 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
 | 69 | [Zebra](https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Zebra](https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37) | 3:05 |
 | 70 | [Cherry In Tacoma](https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Cherry In Tacoma](https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR) | 3:42 |
 | 71 | [And You Evade Him/Born in the Blood](https://open.spotify.com/track/3QPb4YCMslM3omndws57Cr) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [And You Evade Him / Born in the Blood](https://open.spotify.com/album/6oHSZUOpJDThDiHdLQbskr) | 4:57 |

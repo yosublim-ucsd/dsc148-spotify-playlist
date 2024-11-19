@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,804 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,817 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 9 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
 | 10 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 |
 | 11 | [Tu No](https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Tu No](https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED) | 3:35 |
-| 12 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 |
-| 13 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 |
+| 12 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 |
+| 13 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 |
 | 14 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 |
 | 15 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 |
 | 16 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 19 | [E...](https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Buoni O Cattivi \(Remastered 2017\)](https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL) | 3:29 |
 | 20 | [Rondini Al Guinzaglio](https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 4:00 |
 | 21 | [Completamente](https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [Completamente Sold Out](https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj) | 3:36 |
-| 22 | [Margarita \(con Marracash\)](https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 2:57 |
-| 23 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
+| 22 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
+| 23 | [Margarita \(con Marracash\)](https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 2:57 |
 | 24 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
 | 25 | [Vieni A Vedere Perchè](https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Bagus](https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6) | 4:13 |
 | 26 | [Anche Fragile](https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:59 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 35 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 36 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
 | 37 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 |
-| 38 | [Fiore Di Maggio](https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za) | [Fabio Concato](https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra) | 3:53 |
-| 39 | [Il Regalo Più Grande](https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Alla Mia Età](https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj) | 3:48 |
+| 38 | [Il Regalo Più Grande](https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Alla Mia Età](https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj) | 3:48 |
+| 39 | [Fiore Di Maggio](https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za) | [Fabio Concato](https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra) | 3:53 |
 | 40 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 41 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
 | 42 | [Nessuno Vuole Essere Robin](https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 46 | [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 |
 | 47 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 |
 | 48 | [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 |
-| 49 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 |
-| 50 | [Per due che come noi](https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Cip!](https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV) | 3:50 |
+| 49 | [Per due che come noi](https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Cip!](https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV) | 3:50 |
+| 50 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 |
 
 Snapshot ID: `ZnrMhwAAAABit/mKxQCKQP4ns4Bj2zoV`

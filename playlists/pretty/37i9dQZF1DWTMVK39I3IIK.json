@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  APHACA!",
-  "num_followers": 45557,
+  "num_followers": 45564,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Space Rock",
+        "url": "https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0"
+      },
+      "artists": [
+        {
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+        }
+      ],
+      "duration_ms": 118561,
+      "name": "Space Rock",
+      "url": "https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "DR\u00d8MMEHUG",
         "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 168090,
       "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
       "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Space Rock",
-        "url": "https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0"
-      },
-      "artists": [
-        {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
-        }
-      ],
-      "duration_ms": 118561,
-      "name": "Space Rock",
-      "url": "https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Regn",
-        "url": "https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 222537,
-      "name": "Regn",
-      "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Under Din Sne",
         "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 264335,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Regn",
+        "url": "https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 222537,
+      "name": "Regn",
+      "url": "https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 182860,
-      "name": "Sang Til Min Far",
-      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -623,22 +607,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 188460,
-      "name": "Br\u00e6nder Stadig",
-      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Berlin (feat. Marcus.wav)",
         "url": "https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 172079,
       "name": "Berlin (feat. Marcus.wav)",
       "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 182860,
+      "name": "Sang Til Min Far",
+      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 188460,
+      "name": "Br\u00e6nder Stadig",
+      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Uvejr - Del 1",
+        "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Krystalklart Kaos",
+      "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Uvejr - Del 1",
-        "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
+        "name": "Det husker jeg",
+        "url": "https://open.spotify.com/album/4FovaogPU1BcjNZYDSd28O"
       },
       "artists": [
         {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
         }
       ],
-      "duration_ms": 215625,
-      "name": "Krystalklart Kaos",
-      "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
+      "duration_ms": 200882,
+      "name": "Det husker jeg",
+      "url": "https://open.spotify.com/track/6cikjpj9o546fDpXI8nuhX"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Ulykkelig",
-        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
+        "name": "ENGLE & BLAA MAERKER",
+        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
       "artists": [
         {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 136950,
-      "name": "Ulykkelig",
-      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
+      "duration_ms": 174017,
+      "name": "oslo til k\u00f8benhavn",
+      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "ENGLE & BLAA MAERKER",
-        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
+        "name": "Ulykkelig",
+        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
       },
       "artists": [
         {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
         }
       ],
-      "duration_ms": 174017,
-      "name": "oslo til k\u00f8benhavn",
-      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
+      "duration_ms": 136950,
+      "name": "Ulykkelig",
+      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "When you wake up",
-        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
-      },
-      "artists": [
-        {
-          "name": "Molina",
-          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
-        }
-      ],
-      "duration_ms": 266236,
-      "name": "I am your house",
-      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 185729,
       "name": "The Game",
       "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "When you wake up",
+        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        }
+      ],
+      "duration_ms": 266236,
+      "name": "I am your house",
+      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 197589,
       "name": "S\u00e6tter Alt P\u00e5 Spil",
       "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Dear Space",
-        "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 202243,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -939,18 +923,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "I Wanna Dive in the Seven Seas",
-        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
         }
       ],
-      "duration_ms": 164523,
-      "name": "I Wanna Dive in the Seven Seas",
-      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Dear Space",
+        "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 202243,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -971,38 +971,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Legeb\u00f8rn",
-        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
+        "name": "I Wanna Dive in the Seven Seas",
+        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
       },
       "artists": [
         {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        },
-        {
-          "name": "Peter Sommer",
-          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
         }
       ],
-      "duration_ms": 290291,
-      "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
-      "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Det husker jeg",
-        "url": "https://open.spotify.com/album/4FovaogPU1BcjNZYDSd28O"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 200882,
-      "name": "Det husker jeg",
-      "url": "https://open.spotify.com/track/6cikjpj9o546fDpXI8nuhX"
+      "duration_ms": 164523,
+      "name": "I Wanna Dive in the Seven Seas",
+      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1035,6 +1015,26 @@
       "duration_ms": 173028,
       "name": "Keep Forgetting",
       "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Legeb\u00f8rn",
+        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        },
+        {
+          "name": "Peter Sommer",
+          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
+        }
+      ],
+      "duration_ms": 290291,
+      "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
+      "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
         }
       ],
-      "duration_ms": 217242,
-      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
+      "duration_ms": 314708,
+      "name": "Cursing and Lying!",
+      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Caravan",
-        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
       },
       "artists": [
         {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
         }
       ],
-      "duration_ms": 314708,
-      "name": "Cursing and Lying!",
-      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
+      "duration_ms": 217242,
+      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
     }
   ],
   "unique_name": "ung kniv ",

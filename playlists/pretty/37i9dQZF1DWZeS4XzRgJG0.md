@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,204 likes - 151 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,236 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 62 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
 | 63 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |
 | 64 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
-| 65 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
-| 66 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 |
+| 65 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 |
+| 66 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
 | 67 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 68 | [Youth](https://open.spotify.com/track/2Ck6gblyk3UFCVPTh8o3TN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7) | 4:13 |
 | 69 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 81 | [Are You With Me](https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K) | [nilu](https://open.spotify.com/artist/1XplrA4Q9dPFcayYbJqX6K) | [Are You With Me](https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd) | 4:09 |
 | 82 | [Fire On Fire \- From "Watership Down"](https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fire On Fire \(From "Watership Down"\)](https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL) | 4:06 |
 | 83 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 |
-| 84 | [Sober](https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Sober](https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA) | 3:17 |
-| 85 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:00 |
+| 84 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:00 |
+| 85 | [Sober](https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Sober](https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA) | 3:17 |
 | 86 | [Waves](https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D) | 2:54 |
 | 87 | [Homesick](https://open.spotify.com/track/5E5MqaS6eOsbaJibl3YeMZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:50 |
 | 88 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 |
@@ -127,18 +127,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 117 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
 | 118 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
 | 119 | [Let Her Go](https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights](https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1) | 4:12 |
-| 120 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
-| 121 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
+| 120 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
+| 121 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 122 | [One Day](https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5Q1DDLoSIkSgwPCGH6luio) | 3:22 |
 | 123 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 |
 | 124 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
 | 125 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 |
-| 126 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
-| 127 | [7 Years](https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years](https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO) | 3:57 |
+| 126 | [7 Years](https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years](https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO) | 3:57 |
+| 127 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
 | 128 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
 | 129 | [Nicotine](https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg) | 3:58 |
-| 130 | [I'm Not The Only One](https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:59 |
-| 131 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
+| 130 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 |
+| 131 | [I'm Not The Only One](https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:59 |
 | 132 | [Nothing Really Matters](https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU) | 3:42 |
 | 133 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 |
 | 134 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 |
@@ -158,6 +158,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 148 | [Use Somebody](https://open.spotify.com/track/4PwNy6Qj8bdkyRXuwNXeEO) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [538 Hitzone 52](https://open.spotify.com/album/77uxqg6rzVeb3gnAtue7ss) | 3:25 |
 | 149 | [Brick By Brick](https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [All In Good Time](https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE) | 3:45 |
 | 150 | [Teach Me How To Dance With You](https://open.spotify.com/track/5Yp0jLnqMh0DZcy9Bfqiho) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [100x Winter 2015](https://open.spotify.com/album/6mFh8ub8d2MExl6pgK9OD0) | 3:24 |
-| 151 | [Teenage Mind](https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/37QVZrBFuo9PSLz6boslFw) | 2:35 |
 
-Snapshot ID: `ZzUvcAAAAADdW0GuoX54CTkMBPdeLm4L`
+Snapshot ID: `ZztbKwAAAADdJ2dBt7MYRogOw2DYBSxv`

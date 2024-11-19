@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover:  BUNT\. x Oaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,571 likes - 77 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,591 likes - 77 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 26 | [Mad World](https://open.spotify.com/track/50eY6nLtHp3Ya0krDjSYvY) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Mad World](https://open.spotify.com/album/5Q5cmMffCCIG7IX9N2S57l) | 2:47 |
 | 27 | [Give Me More](https://open.spotify.com/track/4MBMNnH4M5MHWKu7CI7kmO) | [MATRAKK](https://open.spotify.com/artist/5YJQDXCY8nFTf6BuHcYvJn) | [Romance Under The Sun](https://open.spotify.com/album/2A2O6JQatdr3vjda9ekqF0) | 2:51 |
 | 28 | [1975](https://open.spotify.com/track/6yWIOzRdXKHzVBOVQDsfyW) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [1975](https://open.spotify.com/album/29YyKDIeHCC9STNlRlJIb0) | 2:24 |
-| 29 | [Pon De Streets](https://open.spotify.com/track/5rjAwhKYU3f6mJBnvFYSlr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Guns Don't Kill People..\. Lazers Do \(15th Anniversary Edition\)](https://open.spotify.com/album/4pKGn8AnP7pud241wHb9gA) | 4:22 |
+| 29 | [Pon De Streets](https://open.spotify.com/track/5rjAwhKYU3f6mJBnvFYSlr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Guns Don't Kill People..\. Lazers Do \(15th Anniversary Edition\)](https://open.spotify.com/album/4pKGn8AnP7pud241wHb9gA) | 4:22 |
 | 30 | [Stiche](https://open.spotify.com/track/2GuQrkfNcYWiOs0t4eDGhy) | [KREMIK](https://open.spotify.com/artist/6JWRJCM7ErCEi55aWhHodD) | [Stiche](https://open.spotify.com/album/2lGRs42uk2wwqMFsxGgMSL) | 2:29 |
 | 31 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
 | 32 | [Sunshine \(My Girl\) \- Galantis Reshine](https://open.spotify.com/track/4upxdPRXgbUxTQ5yDPHueZ) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sunshine \(My Girl\) \[Galantis Reshine\]](https://open.spotify.com/album/6HiP9cKhki1PlP0Czfm6vH) | 2:31 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 76 | [Tattoo](https://open.spotify.com/track/4FQMBi54jBgENC6vaxv0rI) | [Sintica](https://open.spotify.com/artist/52tz2HSHkvRWTP5IGk8Mjt), [The Cleric](https://open.spotify.com/artist/2HrglV3sYvbiF070W0PK79), [Ryan T](https://open.spotify.com/artist/2E4rfccROlZIzUw66oznGl), [BENEMY](https://open.spotify.com/artist/63aSfnSReVTlV8HwRdpOzP) | [Tattoo](https://open.spotify.com/album/4vbKMUnzpSdpxsDBrv92EJ) | 2:52 |
 | 77 | [Danijehelia](https://open.spotify.com/track/1Ht5vkTUaqCsO9uwEzTL1t) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Danijehelia](https://open.spotify.com/album/7EPnxBEXwoBTSVDqYHtwdd) | 2:58 |
 
-Snapshot ID: `ZzaA8AAAAACwVL3zI/pSsmrahUhw8nTl`
+Snapshot ID: `ZzsdOwAAAAAMUnZQ4SLJeQGdlUMm+pGj`

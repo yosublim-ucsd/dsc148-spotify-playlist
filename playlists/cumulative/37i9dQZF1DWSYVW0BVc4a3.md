@@ -2,7 +2,7 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> pedro is back!!
+> money talks!!
 
 1,095 songs - 3 day 10 hr 47 min
 

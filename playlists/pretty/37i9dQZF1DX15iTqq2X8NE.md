@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,824 likes - 120 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,829 likes - 120 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 61 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
 | 62 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 63 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
-| 64 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 |
-| 65 | [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 |
+| 64 | [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 |
+| 65 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 |
 | 66 | [Stay Alive](https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/6BcaOyEe7OjryQ8EP3HUfF) | 3:01 |
 | 67 | [slow dance](https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [slow dance](https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u) | 2:15 |
 | 68 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
 | 69 | [Farasha فراشة](https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Farasha فراشة](https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG) | 3:52 |
-| 70 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
+| 70 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
 | 71 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
-| 72 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
+| 72 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
 | 73 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 |
 | 74 | [Nyctophilia](https://open.spotify.com/track/1XBbWRDkbUNl9We8ZebYmp) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 4:02 |
 | 75 | [Fuego](https://open.spotify.com/track/02Ddh1rBZbk5dmsfBWp6hn) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Fuego](https://open.spotify.com/album/1AsD9IvZZjFvhrpTpTBDW2) | 3:30 |
 | 76 | [Afta'h Albab](https://open.spotify.com/track/0GE8ZWfe1ohvn1Rf5FbxLC) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Let Me Be](https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG) | 4:32 |
 | 77 | [Bidaya](https://open.spotify.com/track/64T6QPLwO6W6WuJEW2UomN) | [Hiba Elgizouli](https://open.spotify.com/artist/6FyW17aFgoQAy4Rc6Zf0X4) | [Bidaya](https://open.spotify.com/album/5L4r6YgZUgHlu8aDaJDbwg) | 3:50 |
-| 78 | [My Girl](https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s) | [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT) | [My Girl](https://open.spotify.com/album/6Sz0YzCU8jAwGMEf60KiRx) | 4:03 |
-| 79 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 |
+| 78 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 |
+| 79 | [My Girl](https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s) | [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT) | [My Girl](https://open.spotify.com/album/6Sz0YzCU8jAwGMEf60KiRx) | 4:03 |
 | 80 | [Labis Toubo](https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf) | [Setona](https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9), [Said Ahmed](https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF) | [Queen of Hena](https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O) | 4:16 |
 | 81 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 |
 | 82 | [سارينة](https://open.spotify.com/track/2lglRe92A9P1ORVqkI2LI4) | [Wd3vtif](https://open.spotify.com/artist/0EIDNRtegsDirjwXFLuae5) | [سارينة](https://open.spotify.com/album/1vCzCD9bEfYFNnDw6gDAv6) | 3:22 |

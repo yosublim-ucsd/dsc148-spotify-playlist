@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 641280,
+  "num_followers": 641755,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABuPtVOZ86Q46in+JsWXfVj",
+  "snapshot_id": "ZzkyAAAAAADmK3rW/wXmdRO3HGfy/rxf",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracc Era",
-        "url": "https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC"
-      },
-      "artists": [
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 115914,
-      "name": "Cracc Era",
-      "url": "https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Biking",
         "url": "https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 277520,
       "name": "Biking",
       "url": "https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracc Era",
+        "url": "https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Cracc Era",
+      "url": "https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66"
     },
     {
       "added_at": null,

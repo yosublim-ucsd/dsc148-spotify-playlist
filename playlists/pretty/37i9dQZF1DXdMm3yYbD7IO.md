@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,938 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,158 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 50 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
 | 51 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
 | 52 | [Strike It Up](https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:58 |
-| 53 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
-| 54 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
+| 53 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
+| 54 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
 | 55 | [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 |
 | 56 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 57 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 68 | [\(You Drive Me\) Crazy \[The Stop Remix!\] \- Remastered](https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:17 |
 | 69 | [Boom Boom Boom \(Radio Version\)](https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [Boom Boom Boom](https://open.spotify.com/album/09KqsXmFtmMiRi885CPxOq) | 3:21 |
 | 70 | [Too Blind to See It](https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG) | [Kym Sims](https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM) | [Too Blind To See It](https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3) | 3:31 |
-| 71 | [Freedom! '90](https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 6:28 |
-| 72 | [Shine On](https://open.spotify.com/track/3Io2In7udpJEV80QePss2x) | [Degrees Of Motion](https://open.spotify.com/artist/0KsCD2zWvNNio55SHdC6s7) | [Degrees of Motion](https://open.spotify.com/album/65JXIFXtXfx2P3E1FL336I) | 5:01 |
+| 71 | [Shine On](https://open.spotify.com/track/3Io2In7udpJEV80QePss2x) | [Degrees Of Motion](https://open.spotify.com/artist/0KsCD2zWvNNio55SHdC6s7) | [Degrees of Motion](https://open.spotify.com/album/65JXIFXtXfx2P3E1FL336I) | 5:01 |
+| 72 | [Freedom! '90](https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 6:28 |
 | 73 | [Please Don't Go \(Radio Cut\)](https://open.spotify.com/track/0w7XcNz84saf5p1nigc22t) | [K.W.S.](https://open.spotify.com/artist/188XxH8QLu4w8GW7cxSJe9) | [Please Don't Go](https://open.spotify.com/album/2iExuSxQaFAmuyRVrnLyAy) | 3:45 |
 | 74 | [Uh La La La \- Almighty's Radio Edit](https://open.spotify.com/track/3JNUWpyJj2rgw25W11J08V) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB), [12 Almighty](https://open.spotify.com/artist/6lI87i3blMBsIBgGFFcxky) | [Uh La La La \(Original Remixes\)](https://open.spotify.com/album/7lkd0IRqHwAc8V2xmiHQVn) | 3:41 |
 | 75 | [Do You Miss Me \- Running Mix](https://open.spotify.com/track/3xrCsXsFJRWbZBpjVStBtl) | [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [Jocelyn](https://open.spotify.com/album/7KyQQ5lAMkVaoocNr4KZHj) | 3:45 |

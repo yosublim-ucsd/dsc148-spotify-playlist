@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,740 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,829 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 47 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
 | 48 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 49 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 |
-| 50 | [Malory](https://open.spotify.com/track/4T18CIOag4LfuqqfzyBQmw) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Malory](https://open.spotify.com/album/407qOoTCcCGtc6DP2Wm0zi) | 1:56 |
+| 50 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
 
 Snapshot ID: `ZlT6KgAAAADvr+lRayJSuhIJtQbVm6/Y`

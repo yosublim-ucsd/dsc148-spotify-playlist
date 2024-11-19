@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,849 likes - 40 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,755,990 likes - 40 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 8 | [I'M SO TIRED](https://open.spotify.com/track/2TJFaa2ewvTo1SLpevIEBI) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [I'M SO TIRED](https://open.spotify.com/album/7N3zDTxxrpLheNDk0VBiVG) | 2:15 |
 | 9 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 |
 | 10 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |
-| 11 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
-| 12 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
+| 11 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
+| 12 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
 | 13 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 |
 | 14 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
 | 15 | [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 |

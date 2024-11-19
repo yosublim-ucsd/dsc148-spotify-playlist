@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,968 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,015 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 75 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 76 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |
 | 77 | [You Can Get It If You Really Want](https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK) | 2:42 |
-| 78 | [Spirits](https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits](https://open.spotify.com/album/6YObUrJfBLhs4f2vfRMzqD) | 3:23 |
-| 79 | [Island In The Sun](https://open.spotify.com/track/1IRZwD3r9VOehOR8rGeV3Y) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Smallville: The Talon Mix](https://open.spotify.com/album/4ZS43VlYwOu0WUvFfQsleB) | 3:20 |
-| 80 | [The Cave](https://open.spotify.com/track/33e9HtOfO1ye1h8xQ7Foc9) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7KkiEooAVT3EyqQMOl6Iah) | 3:35 |
+| 78 | [The Cave](https://open.spotify.com/track/33e9HtOfO1ye1h8xQ7Foc9) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7KkiEooAVT3EyqQMOl6Iah) | 3:35 |
+| 79 | [Spirits](https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits](https://open.spotify.com/album/6YObUrJfBLhs4f2vfRMzqD) | 3:23 |
+| 80 | [Island In The Sun](https://open.spotify.com/track/1IRZwD3r9VOehOR8rGeV3Y) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Smallville: The Talon Mix](https://open.spotify.com/album/4ZS43VlYwOu0WUvFfQsleB) | 3:20 |
 
 Snapshot ID: `ZbkhrAAAAABgMiTVwbv5jSvRIjGAo/aq`

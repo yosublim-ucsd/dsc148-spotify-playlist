@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Horizon \u5730\u5e73\u7ebf",
+        "url": "https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157261,
+      "name": "Horizon \u5730\u5e73\u7ebf",
+      "url": "https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Meet You On The Clouds (World Sleep Day Mix)",
         "url": "https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93"
       },

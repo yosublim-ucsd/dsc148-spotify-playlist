@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,184 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,246 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 35 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 36 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 |
 | 37 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
-| 38 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 |
-| 39 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
-| 40 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
+| 38 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
+| 39 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 |
+| 40 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 41 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 42 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 43 | [Wynalazek Filipa Golarza](https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Wynalazek Filipa Golarza](https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz) | 3:48 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 60 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
 | 61 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 |
 | 62 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
-| 63 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 |
-| 64 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 |
-| 65 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
+| 63 | [June](https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj) | 3:18 |
+| 64 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
+| 65 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 |
 | 66 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 |
-| 67 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
-| 68 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
+| 67 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
+| 68 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
 | 69 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 70 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
 

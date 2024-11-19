@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: toconoma
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,851 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,867 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 13 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 14 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 15 | [Zero G](https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Wild Guys In The Universe](https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq) | 3:46 |
-| 16 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
+| 16 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 17 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
-| 18 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
+| 18 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 19 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 20 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 21 | [SignaL](https://open.spotify.com/track/6MpIMu6j9WkLaav0ucKmx5) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [SignaL](https://open.spotify.com/album/5wcdh9GwhmHAdyQmbpwmkd) | 3:37 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 39 | [Nica's Dream](https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Re:Tokage](https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c) | 4:25 |
 | 40 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 | 41 | [Infinite Mirror](https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Phantasia](https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ) | 4:39 |
-| 42 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
-| 43 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
+| 42 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
+| 43 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
 | 44 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
 | 45 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 | 46 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 |

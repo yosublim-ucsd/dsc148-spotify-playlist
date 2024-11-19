@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Major Lazer and Devon Again, plus the latest cuts from Blaketheman1000, Kito, and MRD.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,802 likes - 100 songs - 5 hr 38 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,801 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where's The Daddy?](https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy?](https://open.spotify.com/album/2m4Dup07tsQ28K3qWylAw0) | 2:52 |
-| 2 | [Pon De Streets](https://open.spotify.com/track/5voG1aHiU7MISZbKtCyUvn) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Pon De Streets](https://open.spotify.com/album/7Gin4803ffNvUrgZkMhSvP) | 4:22 |
+| 2 | [Pon De Streets](https://open.spotify.com/track/5voG1aHiU7MISZbKtCyUvn) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Pon De Streets](https://open.spotify.com/album/7Gin4803ffNvUrgZkMhSvP) | 4:22 |
 | 3 | [Nobody Move](https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Nobody Move](https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5) | 2:01 |
 | 4 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 |
 | 5 | [never goes away](https://open.spotify.com/track/2jcHQX9RCMAl0PgioVMC0a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [never goes away](https://open.spotify.com/album/1QXYV1u9xU4bPP3FmimTzb) | 3:55 |

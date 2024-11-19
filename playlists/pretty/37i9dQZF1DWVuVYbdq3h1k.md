@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuVYbdq3h1k.md) - [plain]
 
 > Sí, ¡ya estamos viejos! RBD en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,134 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,296 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuVYbdq3h1k.md) - [plain]
 | 48 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
 | 49 | [Puedes Contar Conmigo](https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 |
 | 50 | [De la Noche a la Mañana](https://open.spotify.com/track/2xezpH0r1pT7kcx2TPNsZ0) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 4:20 |
-| 51 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
-| 52 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
+| 51 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
+| 52 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
 | 53 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 |
 | 54 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
 | 55 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuVYbdq3h1k.md) - [plain]
 | 69 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 |
 | 70 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
 | 71 | [En el 2000](https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade](https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ) | 3:35 |
-| 72 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 |
-| 73 | [Baila Mi Corazón](https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Fantasía Pop](https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq) | 3:35 |
+| 72 | [Baila Mi Corazón](https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Fantasía Pop](https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq) | 3:35 |
+| 73 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 |
 | 74 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
 | 75 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 |
 | 76 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 |

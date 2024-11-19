@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:1FYE37rOHOrxO1lHAQUkCl">Antoine Bradford</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,187 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,203 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

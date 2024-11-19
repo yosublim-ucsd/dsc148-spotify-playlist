@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1027491,
+  "num_followers": 1027534,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -147,30 +147,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "VAGABUNDO",
-        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "VAGABUNDO",
-      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -191,6 +167,30 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 187172,
-      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
-      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+        "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+      "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "OMG (Remix)",
         "url": "https://open.spotify.com/album/0EXfIJ4nlIWMfgMpSt8Xxe"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 131144,
       "name": "OMG - Remix",
       "url": "https://open.spotify.com/track/46y7qVfQdcDCeo2pA868Ra"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1343,38 +1343,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
       "artists": [
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Correcaminos",
-        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 182106,
-      "name": "Correcaminos",
-      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1415,6 +1399,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Correcaminos",
+        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Correcaminos",
+      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
       },
@@ -1447,22 +1451,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
       "artists": [
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2024-11-15 05:00:00",

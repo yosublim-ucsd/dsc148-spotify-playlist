@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,973 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,043 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 45 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 |
 | 46 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 47 | [Black & Blue](https://open.spotify.com/track/529y37n9VZXubT1KlWM78i) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [Listening to the Music](https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO) | 3:10 |
-| 48 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 49 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
+| 48 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
+| 49 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 50 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 51 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 | 52 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
 | 53 | [I Feel Like Hank Williams Tonight](https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:48 |
-| 54 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
-| 55 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
+| 54 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
+| 55 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
 | 56 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
 | 57 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 | 58 | [I Thought You Were Somebody Else](https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 60 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
 | 61 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
 | 62 | [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 |
-| 63 | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 |
-| 64 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
+| 63 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
+| 64 | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 |
 | 65 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
 | 66 | [From What I Recall](https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ramblin' Soul](https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA) | 4:13 |
 | 67 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |

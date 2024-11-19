@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,174 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,208 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 28 | [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 |
 | 29 | [Loco](https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 4:04 |
 | 30 | [Las Parcelas de Mendoza](https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:44 |
-| 31 | [Zapatos Nuevos](https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:01 |
+| 31 | [El Licenciado](https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Serie Top Ten](https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ) | 2:53 |
 | 32 | [Me Vas A Doler](https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:33 |
 | 33 | [Te Han Dicho de Mí](https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:05 |
-| 34 | [El Licenciado](https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Serie Top Ten](https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ) | 2:53 |
+| 34 | [Zapatos Nuevos](https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:01 |
 | 35 | [El Santo De La Palma](https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:14 |
 | 36 | [Luto En El Cielo](https://open.spotify.com/track/693F8g19ECSFfMiejm00bo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [THE BEST OF](https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi) | 3:27 |
 | 37 | [Dos Botellas De Mezcal](https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Quince Minutos De Ti](https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 4:02 |
 | 50 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/0QlGXSHMfRUrzzPAC92nFo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:42 |
 
-Snapshot ID: `ZzfggAAAAABWRuZMere/FbUdM9ksTL+8`
+Snapshot ID: `ZzkyAAAAAAA883+1aerj7uEtbPApwQba`

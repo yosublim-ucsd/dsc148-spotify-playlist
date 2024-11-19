@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Lovelyz\(러블리즈\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: TAEYEON\(태연\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-454 songs - 1 day 1 hr 0 min
+455 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [CHO](https://open.spotify.com/track/0I8H0lm68BUZphZx3Qu611) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [CHO](https://open.spotify.com/album/3xRq6x8OjeM3rrLU2Mepgc) | 3:24 | 2023-05-09 | 2023-06-13 |
 | [Chococo](https://open.spotify.com/track/3uJiBnEDBji3kNOA22exfL) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:40 | 2021-11-29 | 2022-05-02 |
 | [Chocolate](https://open.spotify.com/track/0e9skrsECOVqRRNFgFdA5c) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Chocolate](https://open.spotify.com/album/1kQUndHexxKgQMfJxfPt8A) | 3:07 | 2024-02-14 | 2024-04-09 |
-| [Classified](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dreamy Resonance](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) | 3:14 | 2024-08-26 |  |
+| [Classified](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dreamy Resonance](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) | 3:14 | 2024-08-26 | 2024-11-19 |
 | [Close To You](https://open.spotify.com/track/1DS38HjEoXLWnPeIoyI2X9) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 6th Mini Album \[Once upon a time\]](https://open.spotify.com/album/5FH6bvjJY0GCZwMgNvarAR) | 3:36 | 2021-11-29 | 2022-06-27 |
 | [CLOVER](https://open.spotify.com/track/3NMNdvHprM0MoV1sAWO7LK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:21 | 2022-01-04 | 2022-07-16 |
 | [CoinciDestiny](https://open.spotify.com/track/5T2jsl6eFGylLpJy8qrCKI) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [CoinciDestiny](https://open.spotify.com/album/4n6ndoSFcaePpX8VSjihCI) | 3:22 | 2024-06-12 | 2024-06-26 |
@@ -200,6 +200,7 @@
 | [Let Me In](https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Let Me In](https://open.spotify.com/album/6Bdam86JkTBRhCz7Rohz1i) | 3:11 | 2021-11-29 | 2022-07-26 |
 | [Let me Love \(Prod\. by Jin Young\)](https://open.spotify.com/track/3DMvqQG9wibjtjmrUAvNBn) | [UNICODE](https://open.spotify.com/artist/3dX0pAE3FigjTzBiHajRra) | [HELLO WORLD : CODE J EP.1](https://open.spotify.com/album/4HUTCxTn5FEpdXrQUNWAIy) | 2:59 | 2024-04-17 | 2024-05-08 |
 | [Let's Go To The Sea](https://open.spotify.com/track/1StBQ6DpwvcS7cKeIld4g4) | [JEEWON \(cignature\)](https://open.spotify.com/artist/2O5ITV1R3gt5E4sAX5RxUD) | [Let's Go To The Sea](https://open.spotify.com/album/0OSwLuLDPyMBzUcdsqhSro) | 3:18 | 2024-07-30 | 2024-08-08 |
+| [Letter To Myself](https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:04 | 2024-11-18 |  |
 | [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 | 2023-09-06 | 2023-11-01 |
 | [LIFE IS A PARTY](https://open.spotify.com/track/1xG5krI48MsenYWnbfimxK) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 2:59 | 2022-03-29 | 2022-04-17 |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 | 2024-11-10 |

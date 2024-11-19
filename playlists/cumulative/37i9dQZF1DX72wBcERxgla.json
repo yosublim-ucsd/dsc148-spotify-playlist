@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A clear day",
+        "url": "https://open.spotify.com/album/4scQP4cQKQa1WwJyi4S8e4"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186608,
+      "name": "A clear day",
+      "url": "https://open.spotify.com/track/0wj4AimnPYzogQIvWNrz34"
+    },
+    {
+      "album": {
         "name": "A Dozy Afternoon",
         "url": "https://open.spotify.com/album/1rE0YWh57id27inaJawLT5"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 201500,
       "name": "Bellevue",
       "url": "https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 162221,
       "name": "City Lights and Midnight Blues",
       "url": "https://open.spotify.com/track/4wVMZkj5y4dpT8tvTIBaKw"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 244493,
       "name": "Evening Silence",
       "url": "https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r"
@@ -2882,6 +2900,24 @@
       "duration_ms": 201306,
       "name": "Flaming Katy",
       "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
+    },
+    {
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/1EOu72zZkpajfJEKIL1jQk"
+      },
+      "artists": [
+        {
+          "name": "Ray Love",
+          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150617,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/5hUBEW72nvmwnibrFUFemr"
     },
     {
       "album": {
@@ -4973,6 +5009,24 @@
     },
     {
       "album": {
+        "name": "Lake Shore Drive",
+        "url": "https://open.spotify.com/album/42WMzVgkQYMvxxWnr0McEN"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Lake Shore Drive",
+      "url": "https://open.spotify.com/track/1RsG0Br0wDCuGS1NgGDpig"
+    },
+    {
+      "album": {
         "name": "Last Rounds",
         "url": "https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J"
       },
@@ -6424,7 +6478,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 131120,
       "name": "My Roses",
       "url": "https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju"
@@ -8296,7 +8350,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 230694,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ"
@@ -8314,7 +8368,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 280124,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep"
@@ -9358,7 +9412,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 195533,
       "name": "The lost years",
       "url": "https://open.spotify.com/track/04JRbiVqdlIfiPSYhTQULz"
@@ -9538,7 +9592,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 247414,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1"

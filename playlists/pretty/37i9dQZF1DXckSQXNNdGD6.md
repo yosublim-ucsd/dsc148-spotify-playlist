@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Jordana B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,066 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,080 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 34 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 |
 | 35 | [CASI ALGO](https://open.spotify.com/track/1uGkcgGo5kq25dSJHOXQEL) | [ERRE JODR](https://open.spotify.com/artist/6kKVoJYoyaI1AKZOcOTv4u) | [CASI ALGO](https://open.spotify.com/album/5CQlx7B3h6eftZe63cz6IS) | 2:49 |
 | 36 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
-| 37 | [Lejos](https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Lejos](https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ) | 3:37 |
-| 38 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
-| 39 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
+| 37 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
+| 38 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
+| 39 | [Lejos](https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Lejos](https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ) | 3:37 |
 | 40 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
 | 41 | [Backstage](https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [No hay nada más de vampiro que tener unos primos en Portugal](https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq) | 2:42 |
 | 42 | [CATAЯATA](https://open.spotify.com/track/6G11Yc4cgQKfZKb6qA7jy2) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [CATAЯATA](https://open.spotify.com/album/4NsEdE7dGWOqmkCH5ADstB) | 2:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 44 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |
 | 45 | [ARTIFICIAL](https://open.spotify.com/track/5V6pQMM8bgFnocNxK5zPoI) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [METALLIX](https://open.spotify.com/album/72wMkN2RP0FGtmsgJ874xH) | 2:26 |
 | 46 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
-| 47 | [Éxtasis](https://open.spotify.com/track/5TSphrC9zuwCkee6vipDXl) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Éxtasis](https://open.spotify.com/album/1Ef1ajEw5q9GFax0zzmOjk) | 2:45 |
-| 48 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 |
-| 49 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
-| 50 | [iLUSÃO II](https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [GINGA](https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z) | 2:37 |
+| 47 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 48 | [Éxtasis](https://open.spotify.com/track/5TSphrC9zuwCkee6vipDXl) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Éxtasis](https://open.spotify.com/album/1Ef1ajEw5q9GFax0zzmOjk) | 2:45 |
+| 49 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 |
+| 50 | [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 |
 
 Snapshot ID: `ZyqjcAAAAABvSG6pvYS3YF1FQBbiYTUu`

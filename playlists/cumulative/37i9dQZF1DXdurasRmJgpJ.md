@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-307 songs - 18 hr 1 min
+308 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 | 2024-02-28 | 2024-07-19 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-12-12 | 2024-04-03 |
 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 | 2024-07-18 | 2024-09-27 |
-| [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-12-12 | 2024-11-16 |
+| [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-12-12 |  |
 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 | 2024-08-21 |  |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2023-12-12 | 2024-04-19 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-12-12 | 2024-04-19 |
@@ -136,6 +136,7 @@
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-12-12 | 2024-01-20 |
 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-01-17 | 2024-01-24 |
 | [Romantic](https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Romantic](https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G) | 4:10 | 2024-05-23 |  |
+| [Sailing](https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh) | 3:06 | 2024-11-18 |  |
 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 | 2024-10-11 |  |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-12-12 | 2024-04-19 |
 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-03-24 | 2024-06-26 |
@@ -231,7 +232,7 @@
 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 | 2024-09-19 | 2024-11-11 |
 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-05-01 | 2024-06-01 |
 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-04-23 |  |
-| [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:38 | 2024-07-04 |  |
+| [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:38 | 2024-07-04 | 2024-11-19 |
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2024-04-16 | 2024-05-02 |
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 | 2024-02-28 |
 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 | 2024-04-16 | 2024-05-20 |
@@ -279,7 +280,7 @@
 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 | 2024-04-02 | 2024-09-13 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-12-12 |  |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-26 |  |
-| [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-12-12 |  |
+| [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-12-12 | 2024-11-19 |
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-04-16 | 2024-04-20 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-04 | 2024-10-11 |
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 | 2024-04-19 |

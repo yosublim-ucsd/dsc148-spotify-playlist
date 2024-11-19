@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 42973,
+  "num_followers": 43013,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Down In Mississippi",
-        "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
-      },
-      "artists": [
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "I've Got News For You",
-        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
+        "name": "Down In Mississippi",
+        "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
       },
       "artists": [
         {
-          "name": "Hadda Brooks",
-          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         }
       ],
-      "duration_ms": 189146,
-      "name": "Anytime, Anyplace, Anywhere",
-      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
+      "duration_ms": 223386,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -479,6 +463,22 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "I've Got News For You",
+        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
+      },
+      "artists": [
+        {
+          "name": "Hadda Brooks",
+          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Anytime, Anyplace, Anywhere",
+      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "That's All Right (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
-      },
-      "artists": [
-        {
-          "name": "Piano Red",
-          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Rockin' with Red - Remastered 2002",
-      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Harlem Blues Operator",
         "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "That's All Right (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+      },
+      "artists": [
+        {
+          "name": "Piano Red",
+          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Rockin' with Red - Remastered 2002",
+      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
     },
     {
       "added_at": "2024-05-30 16:22:42",

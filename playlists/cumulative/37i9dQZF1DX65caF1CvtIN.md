@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-215 songs - 9 hr 38 min
+216 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cure Me](https://open.spotify.com/track/29bBm6109p8lSuPxk5DhIj) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Cure Me](https://open.spotify.com/album/4yErhA9EXftYt51OBRUk88) | 2:46 | 2022-12-06 |  |
 | [Dancing the twelve](https://open.spotify.com/track/2yDIfosvpcbhKj3liMHZov) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Dancing the twelve](https://open.spotify.com/album/2UTmoOVrkHOflkHZH7Nx6S) | 2:38 | 2022-08-03 |  |
 | [Danser sur l'eau](https://open.spotify.com/track/1xD8zsDs5DrdgAt5nLjld3) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Danser sur l'eau](https://open.spotify.com/album/5FvZePn0rnfnsc1OrxoElH) | 3:06 | 2022-08-03 | 2022-12-07 |
+| [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 | 2024-11-18 |  |
 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-08-01 |  |
 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 | 2022-08-03 |  |
 | [Dernière Maison](https://open.spotify.com/track/2RuC6Qw0PI5dOKmsx0jugB) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Dernière Maison](https://open.spotify.com/album/1l2rtplpp2AjuJCFNfkLqs) | 3:49 | 2022-08-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,249 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,386 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 6 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 |
 | 7 | [Silver Bells \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
 | 8 | [I'll Be Home For Christmas](https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:07 |
-| 9 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
-| 10 | [It's Christmas Time Again](https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas With Peggy Lee](https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr) | 3:00 |
+| 9 | [It's Christmas Time Again](https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas With Peggy Lee](https://open.spotify.com/album/1gEGRhDmUBbWEIHWPzERrr) | 3:00 |
+| 10 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
 | 11 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 |
 | 12 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
 | 13 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 19 | [Moonlight In Vermont](https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 5:00 |
 | 20 | [Maybe Next Christmas](https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Merry Christmas](https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE) | 3:56 |
 | 21 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:47 |
-| 22 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
-| 23 | [Jolis sapins](https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3) | 4:02 |
+| 22 | [Jolis sapins](https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3) | 4:02 |
+| 23 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
 | 24 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
 | 25 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 |
 | 26 | [Santa Baby](https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 4:22 |

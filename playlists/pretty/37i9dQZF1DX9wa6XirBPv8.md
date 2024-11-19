@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,265 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,515 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 58 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 59 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
 | 60 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
-| 61 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
+| 61 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
 | 62 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 |
-| 63 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 63 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
 | 64 | [Plane Vs\. Tank Vs\. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:02 |
 | 65 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
 | 66 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 89 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 90 | [My Favorite Accident](https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [I Am The Movie](https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i) | 3:20 |
 | 91 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
-| 92 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 |
-| 93 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
+| 92 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
+| 93 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 |
 | 94 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
 | 95 | [Nikki](https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [J.A.C.K.](https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr) | 3:44 |
 | 96 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 98 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
 | 99 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 100 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
-| 101 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
-| 102 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
+| 101 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
+| 102 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
 | 103 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
 | 104 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
 | 105 | [Shake It Out](https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Mean Everything To Nothing](https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s) | 5:11 |

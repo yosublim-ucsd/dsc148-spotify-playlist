@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Damso
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,136 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,149 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

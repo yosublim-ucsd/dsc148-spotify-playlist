@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,124 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,719 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 32 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 |
 | 33 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
 | 34 | [Let’s Ride](https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let’s Ride](https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO) | 2:00 |
-| 35 | [The Fallen](https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO) | [Caleb Bryant](https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn) | [The Fallen](https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2) | 2:13 |
-| 36 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
+| 35 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
+| 36 | [The Fallen](https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO) | [Caleb Bryant](https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn) | [The Fallen](https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2) | 2:13 |
 | 37 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 38 | [sunset dreams](https://open.spotify.com/track/6zg431pIV64icWpxl46rzk) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [sunset dreams](https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh) | 1:50 |
 | 39 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |

@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3641184,
+  "num_followers": 3641238,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 495400,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2023-03-28 15:59:00",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
       "added_at": "2024-02-29 20:11:01",
       "album": {
         "name": "The Kids & Me",
@@ -911,6 +895,22 @@
       "duration_ms": 156200,
       "name": "Nothing From Nothing",
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
       "added_at": "2024-02-29 20:11:01",
       "album": {
         "name": "Cry To Me-The Best Of Freddie Scott",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
         "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Watchout!",
-        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Jimmy Mack",
-      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
     },
     {
       "added_at": "2024-02-29 20:11:01",
@@ -1215,6 +1199,22 @@
       "duration_ms": 223520,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Watchout!",
+        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Jimmy Mack",
+      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Very Best of Solomon Burke",
         "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 166066,
       "name": "Everybody Needs Somebody to Love",
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1315,6 +1315,22 @@
       "duration_ms": 216573,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "It's Your Thing: The Story Of The Isley Brothers",
+        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw"
     },
     {
       "added_at": "2023-03-28 15:59:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 219146,
       "name": "Adonis - Feat. KIRBY",
       "url": "https://open.spotify.com/track/1Q6n0mQqqOCXsUGGKxQmrV"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "It's Your Thing: The Story Of The Isley Brothers",
-        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "It's Your Thing: The Story Of The Isley Brothers",
-        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "That Lady - Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5hTyIlRYTc0sNHk5wDk6Xl"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 181535,
       "name": "I Don't Wanna Lie",
       "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "It's Your Thing: The Story Of The Isley Brothers",
+        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "That Lady - Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5hTyIlRYTc0sNHk5wDk6Xl"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "I'm Back! Family & Friends",
+        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
+      },
+      "artists": [
+        {
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Black Heart (feat. The Dap-Kings)",
         "url": "https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 174688,
       "name": "Black Heart (feat. The Dap-Kings)",
       "url": "https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I'm Back! Family & Friends",
-        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
-      },
-      "artists": [
-        {
-          "name": "Sly Stone",
-          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
     },
     {
       "added_at": "2024-02-29 20:11:01",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Perfect Union",
+        "url": "https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 215403,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
       },
@@ -2325,22 +2341,6 @@
       "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Perfect Union",
-        "url": "https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 215403,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Love Peace and Happiness",
@@ -2355,6 +2355,26 @@
       "duration_ms": 232229,
       "name": "What's Good for the Goose",
       "url": "https://open.spotify.com/track/11SrvCEGNPmdhqVFnpruZf"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Ain't No Mountain High Enough - Stereo Version",
+      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2423,26 +2443,6 @@
       "duration_ms": 222370,
       "name": "Strictly Reserved for You",
       "url": "https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Very Best Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Ain't No Mountain High Enough - Stereo Version",
-      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
     },
     {
       "added_at": "2021-10-19 21:36:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,964 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,983 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 11 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 |
 | 12 | [Ya La Conecte](https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:46 |
 | 13 | [Va Por Todos](https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:58 |
-| 14 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
+| 14 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
 | 15 | [El Del Jolly Rancher](https://open.spotify.com/track/6x8tNMBrOiFAvA2WoqYKgU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 4:01 |
 | 16 | [No Andamos Solos](https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:37 |
-| 17 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
+| 17 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
 | 18 | [La Gente Del Toro](https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:29 |
 | 19 | [Para Ser Respetado](https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 |
 | 20 | [Crónicas De Mi Guitarra](https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:01 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 24 | [Cuartitos De Libra](https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:04 |
 | 25 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 |
 | 26 | [El Dios Del Trueno](https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:48 |
-| 27 | [Vida De Locura](https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:26 |
-| 28 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
+| 27 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
+| 28 | [Vida De Locura](https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:26 |
 | 29 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 |
 | 30 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 |
 | 31 | [JJ Es La Clave](https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 50 | [Rosas](https://open.spotify.com/track/5b7UcPpRAGQ8fc9d8jvq64) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Rosas](https://open.spotify.com/album/0E0NF6LtPOz3ZejtCnAXnp) | 3:26 |
 | 51 | [Cookies En Las Pipas](https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:30 |
 
-Snapshot ID: `ZzfggAAAAAA5cjuap7PqXjVIbgmgrllw`
+Snapshot ID: `ZzkyAAAAAAA4zK9LIUUWIdjzIm6kehZL`

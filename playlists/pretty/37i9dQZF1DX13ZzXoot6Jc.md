@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Waylon Wyatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,549 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,536 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 54 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 |
 | 55 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 56 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 |
-| 57 | [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 |
+| 57 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 58 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 |
-| 59 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
+| 59 | [Called Crazy](https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Called Crazy](https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8) | 3:19 |
 | 60 | [Wildflowers and Wild Horses](https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 4:10 |
 | 61 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 62 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 93 | [I Tried A Ring On](https://open.spotify.com/track/4mTeLG3YJ0NVFV1RF1h3D2) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Blonde](https://open.spotify.com/album/0Ea4snfqt1F5e7ZAv4jFuQ) | 3:31 |
 | 94 | [It's Going Down](https://open.spotify.com/track/11AhOBHzBFOYd5vrylorgK) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [It's Going Down](https://open.spotify.com/album/4mYrW2yjTVXSEhoSKjCF22) | 2:10 |
 | 95 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 |
-| 96 | [Old Dirt Roads](https://open.spotify.com/track/2pTBC0wyimbajdCQfwnKCA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:47 |
-| 97 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
+| 96 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
+| 97 | [Old Dirt Roads](https://open.spotify.com/track/2pTBC0wyimbajdCQfwnKCA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:47 |
 | 98 | [Small Town Somethin'](https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU) | 2:32 |
 | 99 | [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 |
 | 100 | [Way Out Here](https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO) | 3:41 |

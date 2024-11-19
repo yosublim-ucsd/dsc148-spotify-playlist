@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 147477,
       "name": "Amo, Amo",
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Compromis",
+        "url": "https://open.spotify.com/album/37jrMjKiHDLlKwGnm9hRcz"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/2S3C9sCcaSXmGzH4dVoiHF"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146548,
+      "name": "Compromis",
+      "url": "https://open.spotify.com/track/2iUFBWn0r43yVWxS99R8Lz"
+    },
+    {
+      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
@@ -850,6 +868,24 @@
       "duration_ms": 201290,
       "name": "C\u0102PITAN",
       "url": "https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9"
+    },
+    {
+      "album": {
+        "name": "Dansez Plangand",
+        "url": "https://open.spotify.com/album/3NqeTGAkEd4EcTU4zVc3RV"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173470,
+      "name": "Dansez Plangand",
+      "url": "https://open.spotify.com/track/2NwTDWyCkEAsNFWh4JGlAp"
     },
     {
       "album": {
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 167203,
       "name": "E Adev\u0103rat",
       "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
@@ -1457,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -1486,7 +1540,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
@@ -1951,6 +2005,42 @@
     },
     {
       "album": {
+        "name": "yeti",
+        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/0k2CKGR3pccvOTJZougMPd"
+    },
+    {
+      "album": {
+        "name": "Lalele",
+        "url": "https://open.spotify.com/album/4y1jBOFhRMOvXQ7uKr8H4V"
+      },
+      "artists": [
+        {
+          "name": "Carla's Dreams",
+          "url": "https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226791,
+      "name": "Lalele",
+      "url": "https://open.spotify.com/track/0WxfUn0nvxIpHMRYKLHtYA"
+    },
+    {
+      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
       },
@@ -2313,6 +2403,28 @@
     },
     {
       "album": {
+        "name": "Miss Romania",
+        "url": "https://open.spotify.com/album/29DuhNXRLB8Fq1y37fUEkq"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
+        },
+        {
+          "name": "CRBL",
+          "url": "https://open.spotify.com/artist/6J1tX83VM6Yf5d2Gx79fFP"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164596,
+      "name": "Miss Romania",
+      "url": "https://open.spotify.com/track/0Rm4rDf1wjOPf6rVLdv4AH"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -2667,6 +2779,32 @@
     },
     {
       "album": {
+        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115533,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -2682,6 +2820,24 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
+        "name": "paradyse",
+        "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "paradyse",
+      "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
     },
     {
       "album": {
@@ -2898,7 +3054,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 173872,
       "name": "Ratat",
       "url": "https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew"
@@ -3246,7 +3402,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 159194,
       "name": "Spania",
       "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
@@ -3592,7 +3748,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 169920,
       "name": "Tu mam\u0103, Tu tat\u0103",
       "url": "https://open.spotify.com/track/0qop3bdoYrtweMgOvioiwl"
@@ -3686,7 +3842,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 139200,
       "name": "Voila",
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
@@ -3734,7 +3890,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 217000,
       "name": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
       "url": "https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS"

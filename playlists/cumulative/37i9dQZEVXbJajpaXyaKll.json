@@ -809,6 +809,28 @@
     },
     {
       "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/0lJyDLioiZOIAHjs2LXDZa"
+      },
+      "artists": [
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "Club Misterio",
+          "url": "https://open.spotify.com/artist/3SF7RBtiLSJAfILCDDerO6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205928,
+      "name": "ALFA",
+      "url": "https://open.spotify.com/track/6siLjMHR3ZyaEEuiPlKGPh"
+    },
+    {
+      "album": {
         "name": "ALGO DENTRO DE MI",
         "url": "https://open.spotify.com/album/4521RW6Yo4YGV3IgMUEcRE"
       },
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 80225,
       "name": "AS NOVINHAS DO JACARE X BEAT PORRADEIRO",
       "url": "https://open.spotify.com/track/0WlTjonJRqcdp4Vf9tm0Ch"
@@ -3456,7 +3478,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 203000,
       "name": "Conselho - Ao Vivo",
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
@@ -5602,7 +5624,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 281522,
       "name": "Esclava - Remix",
       "url": "https://open.spotify.com/track/0fOjPUdkQjLH0aoGa5p5h4"
@@ -10676,7 +10698,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 154990,
       "name": "Mucho, poquito o nada",
       "url": "https://open.spotify.com/track/4T6SpksOqLQhHinENQXd3N"
@@ -12036,6 +12058,24 @@
       "duration_ms": 163862,
       "name": "ORO POR COBRE",
       "url": "https://open.spotify.com/track/2sOEhQs8YeH8t9WD6x7J6v"
+    },
+    {
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9"
     },
     {
       "album": {

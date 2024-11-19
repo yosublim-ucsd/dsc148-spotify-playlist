@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-952 songs - 2 day 3 hr 26 min
+953 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 | 2024-08-02 | 2024-10-26 |
 | [Dil Tutde](https://open.spotify.com/track/4ww9lfi68d6IM8UQ2IP14y) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Dil Tutde](https://open.spotify.com/album/44vfXmI2OtWHfBRmBBKVob) | 3:17 | 2022-11-25 | 2023-02-02 |
 | [Dil Vich Kho](https://open.spotify.com/track/5aqiljS9HFXlnjK6ZfJ4gD) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 2:34 | 2022-09-23 | 2023-02-04 |
-| [DIL WICH](https://open.spotify.com/track/53NtD7oSHolBHHeJiewgIV) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [MISFIT](https://open.spotify.com/album/1shLfCcEBHR1YVUeMyrmGN) | 3:48 | 2024-10-10 |  |
+| [DIL WICH](https://open.spotify.com/track/53NtD7oSHolBHHeJiewgIV) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [MISFIT](https://open.spotify.com/album/1shLfCcEBHR1YVUeMyrmGN) | 3:48 | 2024-10-10 | 2024-11-19 |
 | [Dilawara](https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Dilawara](https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh) | 3:42 | 2023-05-05 | 2024-02-06 |
 | [Diljale](https://open.spotify.com/track/2RZh8VELzYlLlJQsedmAdy) | [Rangrez Sidhu](https://open.spotify.com/artist/3cDu4bMjtFHdCvDD93cDUN), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [The Litt Boy](https://open.spotify.com/artist/3nOgLOsTAJECooiyefNhta) | [Diljale](https://open.spotify.com/album/2DyHNBY6qhQeLaEA1eY5rG) | 3:50 | 2022-09-23 | 2022-12-16 |
 | [Din Raat](https://open.spotify.com/track/2vmYATdmQRy6jEqztI5YBW) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ve Geetan Waleya](https://open.spotify.com/album/0wXhoRxRya32Hl9JPL3rb5) | 4:28 | 2022-03-21 | 2022-04-06 |
@@ -606,6 +606,7 @@
 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 | 2024-08-02 |  |
 | [Not Fair](https://open.spotify.com/track/3D7eyLcGALXoSk1SZOYX6V) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Not Fair](https://open.spotify.com/album/55RLvQn1Wk2LaOP4KpsQYi) | 3:05 | 2022-02-03 | 2022-03-11 |
 | [Notorious](https://open.spotify.com/track/0f823mn1k1w8QQb3dMiHOK) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Notorious](https://open.spotify.com/album/5tRIYgiPOH6Pr4z2ctV47O) | 2:18 | 2022-08-05 | 2022-08-18 |
+| [November](https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [November](https://open.spotify.com/album/2x0UIFBhpw66dD4JcH7Q8p) | 3:26 | 2024-11-18 |  |
 | [Number](https://open.spotify.com/track/3lQVy4ONHjiNFuThbQMwUd) | [Ranbir Dhaliwal](https://open.spotify.com/artist/2ENJOCxUIor2B9hLqfzvk0), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Number](https://open.spotify.com/album/4RbK4DvD3RgOgs3ff3Pjtc) | 3:11 | 2022-11-15 | 2023-02-02 |
 | [Oda Vyah](https://open.spotify.com/track/3HNS3MnORTpGwF2AzyAZ8G) | [Jashan Singh](https://open.spotify.com/artist/76Ae8xQK47gr8nrKDRW9Mj), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Oda Vyah](https://open.spotify.com/album/430x6Mrp0yrtzhEc46Ob6g) | 3:42 | 2022-10-25 | 2022-12-16 |
 | [Online](https://open.spotify.com/track/7fGrbGJKlgW8Kr2IB4aENm) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Online](https://open.spotify.com/album/7ljwwgTixfY9XDUs8J5kS7) | 3:22 | 2022-09-21 | 2023-02-04 |

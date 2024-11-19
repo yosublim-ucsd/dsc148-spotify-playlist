@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 127686,
+  "num_followers": 127748,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -71,26 +71,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "La Hora de la Verdad",
-        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        },
-        {
-          "name": "Andres Herrera",
-          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
-        }
-      ],
-      "duration_ms": 376533,
-      "name": "Vivo en el limbo",
-      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 270666,
       "name": "Que No Se enteren",
       "url": "https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "La Hora de la Verdad",
+        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
+      },
+      "artists": [
+        {
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
+        },
+        {
+          "name": "Andres Herrera",
+          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
+        }
+      ],
+      "duration_ms": 376533,
+      "name": "Vivo en el limbo",
+      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "La 9a Batalla",
+        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+        }
+      ],
+      "duration_ms": 214213,
+      "name": "Loco Paranoico",
+      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 276360,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Unico",
-        "url": "https://open.spotify.com/album/2gLXG7A0NC2pkVPauDFh0y"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        },
-        {
-          "name": "Juank Ricardo",
-          "url": "https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ"
-        }
-      ],
-      "duration_ms": 323733,
-      "name": "De Millon a Cero",
-      "url": "https://open.spotify.com/track/5GpzV7vCxkwdLloBSZg6Xg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -247,22 +247,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "La 9a Batalla",
-        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+        "name": "Unico",
+        "url": "https://open.spotify.com/album/2gLXG7A0NC2pkVPauDFh0y"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
         },
         {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+          "name": "Juank Ricardo",
+          "url": "https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ"
         }
       ],
-      "duration_ms": 214213,
-      "name": "Loco Paranoico",
-      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+      "duration_ms": 323733,
+      "name": "De Millon a Cero",
+      "url": "https://open.spotify.com/track/5GpzV7vCxkwdLloBSZg6Xg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Te Perdone",
-      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "Diomedes - 30 Grandes Exitos",
         "url": "https://open.spotify.com/album/2VccvTUqLh6SMYgAHKVMuS"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 289386,
       "name": "Amarte Mas No Pude",
       "url": "https://open.spotify.com/track/5ETEk6G40TFStO62Pa7Khe"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Te Perdone",
+      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -451,26 +451,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
-      "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
+      "duration_ms": 298706,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -507,22 +503,26 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 298706,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G"
+      "duration_ms": 292800,
+      "name": "Todo No Puede Llamarse Amor (with V\u00edctor Manuelle)",
+      "url": "https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -599,22 +599,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+      "duration_ms": 287826,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -639,22 +639,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 287826,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "added_at": "2024-05-28 19:20:48",

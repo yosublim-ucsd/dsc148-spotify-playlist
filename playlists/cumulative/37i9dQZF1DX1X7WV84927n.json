@@ -12667,6 +12667,24 @@
     },
     {
       "album": {
+        "name": "Precious Space",
+        "url": "https://open.spotify.com/album/62bSzTXBWIfTZoCOtf2cgV"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161016,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
+    },
+    {
+      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/3V8wl5gn1hXGQQC4SgbuA1"
       },
@@ -18552,7 +18570,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 237378,
       "name": "Voodoo Doll (feat. Eva Under Fire)",
       "url": "https://open.spotify.com/track/5NcvwkdGZCJ8CgJTXSI2Jt"

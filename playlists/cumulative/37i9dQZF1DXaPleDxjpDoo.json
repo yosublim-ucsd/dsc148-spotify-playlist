@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Arcane",
+        "url": "https://open.spotify.com/album/07tBVsAAVA7Z7yLMabbAXl"
+      },
+      "artists": [
+        {
+          "name": "Sola Slavic",
+          "url": "https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Arcane",
+      "url": "https://open.spotify.com/track/1Xigm4SFXMQWr2cbnvL3Px"
+    },
+    {
+      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY"
       },
@@ -1703,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Morning Serenade",
+        "url": "https://open.spotify.com/album/4Uk70M5CsAYMfyfTAnHw5Q"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Morning Serenade",
+      "url": "https://open.spotify.com/track/6sEbedbU8RXINBva1NF792"
+    },
+    {
+      "album": {
         "name": "In Wonder",
         "url": "https://open.spotify.com/album/0LN7ItqLuhqUo4dgyGpbzS"
       },
@@ -2060,6 +2096,24 @@
       "duration_ms": 165000,
       "name": "Peaceful Nature",
       "url": "https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq"
+    },
+    {
+      "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/5XeCWojGKryY5f3CqEbfmm"
+      },
+      "artists": [
+        {
+          "name": "Elias M\u00eda",
+          "url": "https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223710,
+      "name": "Perennial",
+      "url": "https://open.spotify.com/track/4Fjqn5eiBPOkwAbUo0kn67"
     },
     {
       "album": {
@@ -2806,6 +2860,24 @@
       "duration_ms": 170909,
       "name": "twentieth-night moon - Meditation",
       "url": "https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx"
+    },
+    {
+      "album": {
+        "name": "Under the Trees",
+        "url": "https://open.spotify.com/album/4Y1je9mpSfNIBbNxeD9j0c"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Under the Trees",
+      "url": "https://open.spotify.com/track/7ps3QI1bXjxixJzqRyTjD0"
     },
     {
       "album": {

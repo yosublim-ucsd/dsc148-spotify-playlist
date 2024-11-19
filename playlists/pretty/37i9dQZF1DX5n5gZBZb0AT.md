@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,960 likes - 40 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,203 likes - 40 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 10 | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/track/4XeElJ6zvozrMsDQRbfLp1) | [TOTZ](https://open.spotify.com/artist/3raDCuZ1EuUpmjKUm8qa1Q), [ZYZZ HARDSTYLE](https://open.spotify.com/artist/1MToCKholpDbeLDwDYtkyb), [Anime Lifestyle](https://open.spotify.com/artist/5CvDROubag3w5dW8WM6Ayy) | [RIOD RAGE \- GYM HARDSTYLE](https://open.spotify.com/album/02BsnneyniW01a9pyg51Yw) | 1:48 |
 | 11 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 12 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
-| 13 | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0) | [RXPOSO99](https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz) | 1:36 |
-| 14 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
+| 13 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
+| 14 | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0) | [RXPOSO99](https://open.spotify.com/artist/5joODcLQTClX0o3q13SOfU), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [SEQUÊNCIA MALÉFICA 1.0](https://open.spotify.com/album/4Fpr7mZ709qg0Iu1ESYNwz) | 1:36 |
 | 15 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 16 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 17 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |

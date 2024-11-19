@@ -17807,6 +17807,28 @@
     },
     {
       "album": {
+        "name": "You Want Me (VIP)",
+        "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285517,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is"
+    },
+    {
+      "album": {
         "name": "You Want Me",
         "url": "https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V"
       },

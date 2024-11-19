@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,821 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,830 likes - 74 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 61 | [Katturumbu](https://open.spotify.com/track/2jjzkXKzLB0iqq6YHXxeOD) | [Sangeeth](https://open.spotify.com/artist/3eLmrMxtn3oTcqng8BNoPZ) | [Katturumbu](https://open.spotify.com/album/0AVeHvPxaAuhDVprmsL4J8) | 4:56 |
 | 62 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 |
 | 63 | [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 |
-| 64 | [Travelling Gypsies](https://open.spotify.com/track/3mZdRWYIURgCCBkjTWXxJa) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Travelling Gypsies](https://open.spotify.com/album/0FS1GmvP4O1D7RF6QlHK5C) | 5:10 |
-| 65 | [Rangapura Vihara](https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ) | 8:57 |
-| 66 | [Arutharuthu](https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I) | 4:27 |
-| 67 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
-| 68 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 |
-| 69 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 |
-| 70 | [Nee Aara](https://open.spotify.com/track/5bmr1bA6jmwPyWIoZVcgSa) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nee Aara](https://open.spotify.com/album/30y65kQtOzKiEbn7qfbOsA) | 3:44 |
-| 71 | [Thoni](https://open.spotify.com/track/4BTqvALUMhQUEV85HRPfl4) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Thoni](https://open.spotify.com/album/7fOjQOPYGaBhEU7HsBQf6P) | 5:00 |
-| 72 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |
-| 73 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 |
-| 74 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 |
-| 75 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
+| 64 | [Rangapura Vihara](https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ) | 8:57 |
+| 65 | [Arutharuthu](https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I) | 4:27 |
+| 66 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
+| 67 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 |
+| 68 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 |
+| 69 | [Nee Aara](https://open.spotify.com/track/5bmr1bA6jmwPyWIoZVcgSa) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nee Aara](https://open.spotify.com/album/30y65kQtOzKiEbn7qfbOsA) | 3:44 |
+| 70 | [Thoni](https://open.spotify.com/track/4BTqvALUMhQUEV85HRPfl4) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Thoni](https://open.spotify.com/album/7fOjQOPYGaBhEU7HsBQf6P) | 5:00 |
+| 71 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |
+| 72 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 |
+| 73 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 |
+| 74 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 
-Snapshot ID: `ZzW+LQAAAAAYFdHrrpIa36fPmjTDbYnc`
+Snapshot ID: `ZzsduwAAAAD6WD6Pf3YcDXanasRL0b+c`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,274 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,277 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 36 | [Neph Nem \(feat\. Ballout & G Herbo\)](https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Ballout](https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 2:37 |
 | 37 | [YN](https://open.spotify.com/track/0wXXkm95S2RTr32ErPIKYw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:48 |
 | 38 | [One in the Head](https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sick of Myself](https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j) | 3:43 |
-| 39 | [Candyman](https://open.spotify.com/track/5H3xJrAEaqXlcwwMGg0rqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:50 |
-| 40 | [Go Part 1 \(with G Herbo\)](https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:41 |
-| 41 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
-| 42 | [Nothin](https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:52 |
-| 43 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
-| 44 | [Splat](https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:24 |
-| 45 | [Vegeta](https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Vegeta](https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE) | 2:07 |
+| 39 | [Go Part 1 \(with G Herbo\)](https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:41 |
+| 40 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
+| 41 | [Candyman](https://open.spotify.com/track/5H3xJrAEaqXlcwwMGg0rqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:50 |
+| 42 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
+| 43 | [Nothin](https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:52 |
+| 44 | [Vegeta](https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Vegeta](https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE) | 2:07 |
+| 45 | [Splat](https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:24 |
 | 46 | [2 for 6](https://open.spotify.com/track/0SAtnx2juacTBniqrwvYRU) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The Kid That Did](https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx) | 1:51 |
 | 47 | [Ball \(feat\. Meek Mill\)](https://open.spotify.com/track/5bHUIeEigheHTuIyNFAyms) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:30 |
 | 48 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 50 | [Trim](https://open.spotify.com/track/5MugZBMS6BgYnAHzoEdxCR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:09 |
 | 51 | [Clap](https://open.spotify.com/track/3nrGWia7GYsni8efepcHe6) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:11 |
 
-Snapshot ID: `ZzfggAAAAADcWlvvUrC7s/X+kMXiFrSd`
+Snapshot ID: `ZzkyAAAAAAB4Ag+cc/td19fpZfDK0GtN`

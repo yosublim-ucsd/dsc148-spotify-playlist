@@ -4,7 +4,7 @@
 
 > Poppy on top of today's best Metal playlist.
 
-808 songs - 2 day 5 hr 5 min
+809 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/3YYnFEXCLNbaWuC0hIEnIS) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 7:21 | 2022-10-14 | 2022-10-22 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2022-08-06 |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-04-01 |
+| [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-18 |  |
 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 | 2023-12-22 | 2024-05-11 |
 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [IHSAHN](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE) | 4:20 | 2024-02-23 | 2024-03-23 |
 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 | 2022-10-01 |

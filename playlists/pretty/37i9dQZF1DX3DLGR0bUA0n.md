@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. El Mimoso Luis Antonio Lopez, Toño y Fredy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,480 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,561 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

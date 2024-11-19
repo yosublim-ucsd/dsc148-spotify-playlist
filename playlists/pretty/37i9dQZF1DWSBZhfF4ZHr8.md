@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Kendji Girac
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,336 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,341 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

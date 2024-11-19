@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,850 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,851 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 17 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
 | 18 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 19 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
-| 20 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
-| 21 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
+| 20 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
+| 21 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 22 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 23 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 24 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 46 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 |
 | 47 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 48 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
-| 49 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
-| 50 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
+| 49 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
+| 50 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
 
 Snapshot ID: `ZfPHwAAAAACYg4k/i3z6xX4ZSY0Sc4IP`

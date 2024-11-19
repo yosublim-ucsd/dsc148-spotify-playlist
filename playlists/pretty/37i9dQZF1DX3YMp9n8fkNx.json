@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1366350,
+  "num_followers": 1366618,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Greatest Hits Volume One - The Singles",
-        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 271533,
       "name": "Ode To My Family",
       "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Greatest Hits Volume One - The Singles",
+        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "...Somewhere More Familiar",
-        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 316466,
       "name": "Crash into Me",
       "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "...Somewhere More Familiar",
+        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
     },
     {
       "added_at": "2024-06-26 02:07:58",

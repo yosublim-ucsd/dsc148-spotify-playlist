@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 167124,
+  "num_followers": 167166,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Pista do C\u00e9u (Quase 30)",
         "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "\u00c9s o Meu Amor",
-        "url": "https://open.spotify.com/album/0v8NOxHR61aVvzwPfxYi8k"
-      },
-      "artists": [
-        {
-          "name": "Veronica Sacer",
-          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
-        },
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 226791,
-      "name": "\u00c9s o Meu Amor",
-      "url": "https://open.spotify.com/track/5FJx6A87uRYHowoeHfEe7F"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Celebre a Vida",
         "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "\u00c9s o Meu Amor",
+        "url": "https://open.spotify.com/album/0v8NOxHR61aVvzwPfxYi8k"
+      },
+      "artists": [
+        {
+          "name": "Veronica Sacer",
+          "url": "https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v"
+        },
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 226791,
+      "name": "\u00c9s o Meu Amor",
+      "url": "https://open.spotify.com/track/5FJx6A87uRYHowoeHfEe7F"
     },
     {
       "added_at": "2024-11-08 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,938 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,936 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 12 | [Vanidosa](https://open.spotify.com/track/2YLoqYRDpNMwSvTGhjP3gC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:27 |
 | 13 | [El Cazador](https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I) | 3:32 |
 | 14 | [Eclipse](https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM) | [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Juntos](https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm) | 3:37 |
-| 15 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
-| 16 | [Algun Dia](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 |
+| 15 | [Algun Dia](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 |
+| 16 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
 | 17 | [Cantarle a Ella](https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I) | 2:54 |
 | 18 | [Permaneces en Mí](https://open.spotify.com/track/4p5UDTUZXr7T8ctt1X1zg0) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Zona de Peligro](https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA) | 3:02 |
 | 19 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 33 | [Zona de Peligro](https://open.spotify.com/track/3nvWPw6xafcHBK5Yghf6gk) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Zona de Peligro](https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA) | 3:38 |
 | 34 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 6:40 |
 | 35 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
-| 36 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
-| 37 | [Obsesión](https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:37 |
+| 36 | [Obsesión](https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:37 |
+| 37 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
 | 38 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 |
 | 39 | [No Sé Por Qué](https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 2:49 |
 | 40 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Se Murió de Amor](https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD) | [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Se Murió de Amor](https://open.spotify.com/album/4KGkWwBSQh4i4uT8HWt4vd) | 3:38 |
 | 50 | [Intro / Se Murió de Amor \- En Vivo](https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 4:56 |
 
-Snapshot ID: `ZzfggAAAAADFNonUzuPqr9Cx2Diu6Zz1`
+Snapshot ID: `ZzkyAAAAAABkG8JMH9T9Z49DDrxItX9j`

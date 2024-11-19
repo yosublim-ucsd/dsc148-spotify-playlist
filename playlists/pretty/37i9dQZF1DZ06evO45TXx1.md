@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,427 likes - 43 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,441 likes - 44 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 41 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 |
 | 42 | [Atacante](https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [JayP](https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 1:46 |
 | 43 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
+| 44 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
 
-Snapshot ID: `ZzfggAAAAABN504sQ3R8El0Hqu0pjuMR`
+Snapshot ID: `ZzkyAAAAAABW7yq8dL6g3x668LGppnoY`

@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "YEMAYA",
+        "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "Armani",
+      "url": "https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },

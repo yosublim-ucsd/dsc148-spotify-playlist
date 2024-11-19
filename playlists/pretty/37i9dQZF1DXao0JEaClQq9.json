@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Becky and the Birds",
-  "num_followers": 1627288,
+  "num_followers": 1627335,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -537,26 +537,6 @@
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
-    },
-    {
       "added_at": "2024-07-25 23:48:26",
       "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
@@ -575,6 +555,26 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -969,26 +969,6 @@
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
-      "added_at": "2024-09-13 04:02:00",
-      "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 196021,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
-    },
-    {
       "added_at": "2024-07-25 23:48:26",
       "album": {
         "name": "the record",
@@ -1015,6 +995,26 @@
       "duration_ms": 187653,
       "name": "Letter To An Old Poet",
       "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
+    },
+    {
+      "added_at": "2024-09-13 04:02:00",
+      "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 196021,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
     },
     {
       "added_at": "2024-09-13 04:02:00",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 353732,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "I LAY DOWN MY LIFE FOR YOU",
@@ -1115,22 +1131,6 @@
       "duration_ms": 244725,
       "name": "Don't Put Anything On the Bible (feat. Buzzy Lee)",
       "url": "https://open.spotify.com/track/65IOv36iYd3O3Ly4e1Pqrb"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
       "added_at": "2024-07-25 23:48:26",

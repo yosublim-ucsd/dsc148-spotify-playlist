@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u548c\u4e45\u4e95\u6c99\u826f",
-  "num_followers": 40074,
+  "num_followers": 40100,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
+        "name": "All Too Soon",
+        "url": "https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234758,
+      "name": "All Too Soon",
+      "url": "https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "All Too Soon",
-        "url": "https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234758,
-      "name": "All Too Soon",
-      "url": "https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
+        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
+        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "duration_ms": 277343,
+      "name": "\u3055\u304f\u3089\u3093\u307c\u306e\u5b9f\u308b\u9803\uff08\u7d05\u306e\u8c5a\uff09",
+      "url": "https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
         "name": "\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/3OeoTPhCDrJjoLv7k4q0xX"
       },
@@ -715,70 +731,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
-        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
-      },
-      "artists": [
-        {
-          "name": "Kazumi Tateishi Trio",
-          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
-        }
-      ],
-      "duration_ms": 277343,
-      "name": "\u3055\u304f\u3089\u3093\u307c\u306e\u5b9f\u308b\u9803\uff08\u7d05\u306e\u8c5a\uff09",
-      "url": "https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "MOMENTS",
-        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "\u77f3\u306e\u6559\u4f1a",
-      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "GOLD\uff06TURQUOISE",
-        "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 262499,
-      "name": "GOLD\uff06TURQUOISE",
-      "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "\u30e0\u30fc\u30c9\u30fb\u30a4\u30f3\u30c7\u30a3\u30b4",
-        "url": "https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM"
-      },
-      "artists": [
-        {
-          "name": "akiko",
-          "url": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
-        }
-      ],
-      "duration_ms": 287240,
-      "name": "\u30a2\u30a4\u30fb\u30df\u30b9\u30fb\u30e6\u30fc",
-      "url": "https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -803,18 +755,50 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
+        "name": "MOMENTS",
+        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
       },
       "artists": [
         {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 230057,
-      "name": "Night flight",
-      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
+      "duration_ms": 277840,
+      "name": "\u77f3\u306e\u6559\u4f1a",
+      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "\u30e0\u30fc\u30c9\u30fb\u30a4\u30f3\u30c7\u30a3\u30b4",
+        "url": "https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM"
+      },
+      "artists": [
+        {
+          "name": "akiko",
+          "url": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
+        }
+      ],
+      "duration_ms": 287240,
+      "name": "\u30a2\u30a4\u30fb\u30df\u30b9\u30fb\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "GOLD\uff06TURQUOISE",
+        "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 262499,
+      "name": "GOLD\uff06TURQUOISE",
+      "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -835,18 +819,34 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "Silent Jazz Case 4",
-        "url": "https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178"
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
       },
       "artists": [
         {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
         }
       ],
-      "duration_ms": 253413,
-      "name": "Japan Beauty",
-      "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
+      "duration_ms": 230057,
+      "name": "Night flight",
+      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
+        "name": "Silent Jazz Case 4",
+        "url": "https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Japan Beauty",
+      "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
         "name": "All in your palms",
         "url": "https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 244029,
       "name": "All in your palms",
       "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "15 Eunomia",
-      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
     },
     {
       "added_at": "2024-11-12 15:00:00",

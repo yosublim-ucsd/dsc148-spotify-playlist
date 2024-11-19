@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4019882,
+  "num_followers": 4019795,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 286928,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+      "duration_ms": 286928,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347525,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 191001,
       "name": "Older",
       "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347525,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Love You Goodbye",
-      "url": "https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Love You Goodbye",
+      "url": "https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 180640,
       "name": "I Can't Fall in Love Without You",
       "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2739,22 +2739,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
-      },
-      "artists": [
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Magnetised (Acoustic)",
         "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
       },
@@ -2767,6 +2751,22 @@
       "duration_ms": 292186,
       "name": "Magnetised - Acoustic",
       "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Habits of My Heart",
-        "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 248554,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Corrs Unplugged",
         "url": "https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 349666,
       "name": "Everybody Hurts - MTV Unplugged Live Version",
       "url": "https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Habits of My Heart",
+        "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 248554,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3131,6 +3131,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Black Hole (Acoustic Version)",
+        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 175979,
+      "name": "Black Hole - Acoustic Version",
+      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
       },
@@ -3147,22 +3163,6 @@
       "duration_ms": 211413,
       "name": "Why Don't You Love Me (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Black Hole (Acoustic Version)",
-        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 175979,
-      "name": "Black Hole - Acoustic Version",
-      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
     },
     {
       "added_at": "2024-05-22 11:00:00",

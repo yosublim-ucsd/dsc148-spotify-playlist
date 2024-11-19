@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,976 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,986 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 2 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
 | 3 | [Parempi unohtaa](https://open.spotify.com/track/7nMSu4judnFgalcm4gbfcR) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Parempi unohtaa](https://open.spotify.com/album/4XUNZuYOJoFTuWkMcS0XHb) | 2:50 |
 | 4 | [Pääs Kii](https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Pääs Kii](https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh) | 2:28 |
-| 5 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 |
-| 6 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
+| 5 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
+| 6 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 |
 | 7 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
 | 8 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
-| 9 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
-| 10 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
-| 11 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
-| 12 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
-| 13 | [Menneisyys](https://open.spotify.com/track/1bsOGitVlRlz2T1deVPXcY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Menneisyys](https://open.spotify.com/album/29IATF11KR4niQR5ceedGg) | 2:31 |
-| 14 | [Iha miten vaa](https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Iha miten vaa](https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm) | 3:16 |
+| 9 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
+| 10 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
+| 11 | [Iha miten vaa](https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Iha miten vaa](https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm) | 3:16 |
+| 12 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
+| 13 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
+| 14 | [Menneisyys](https://open.spotify.com/track/1bsOGitVlRlz2T1deVPXcY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Menneisyys](https://open.spotify.com/album/29IATF11KR4niQR5ceedGg) | 2:31 |
 | 15 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 |
 | 16 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 |
 | 17 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Päättäriltä päättärille 2](https://open.spotify.com/track/1CP7IsD2ZdeO1Y0sxVCM3q) | [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Likanen Etelä](https://open.spotify.com/artist/1QZB4c84BdcLM9MGD4EjBj), [Mikidi & Gaiaf](https://open.spotify.com/artist/16uKjzyikKfkjTjMtRgECE), [Painajainen](https://open.spotify.com/artist/2XIBChvoFldVMQhs8WwJV2), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Päättäriltä päättärille 2](https://open.spotify.com/album/5UGTs77dJdNJmW6Ne4mAkk) | 3:15 |
 | 50 | [Huuto](https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Kuivaa kyyneleet](https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP) | 2:57 |
 
-Snapshot ID: `Zzj+cwAAAAAhGUNk7Glop6CXAAm8BfV6`
+Snapshot ID: `ZzrpEgAAAABMxRSxD4xtaaZNCYMuH8I6`

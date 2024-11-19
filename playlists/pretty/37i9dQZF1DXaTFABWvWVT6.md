@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,203 likes - 44 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,204 likes - 44 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 14 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 |
 | 15 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 16 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
-| 17 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
-| 18 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
+| 17 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
+| 18 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
 | 19 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
 | 20 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 21 | [Cinco De Mayhem](https://open.spotify.com/track/6Ry0A0Le86i8vEqIk4cBXx) | [Van Damn](https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO) | [Cinco De Mayhem](https://open.spotify.com/album/0BLJMmmp68xNFY3wvOJ5qa) | 3:17 |

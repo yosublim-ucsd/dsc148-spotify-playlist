@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Alone Hours",
+        "url": "https://open.spotify.com/album/2JjSANGaR0NVdiWzJfRopy"
+      },
+      "artists": [
+        {
+          "name": "Palaestrio",
+          "url": "https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158076,
+      "name": "Alone Hours",
+      "url": "https://open.spotify.com/track/4eQStNR5mG3bIfo0ncssep"
+    },
+    {
+      "album": {
         "name": "Amethyst",
         "url": "https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5"
       },
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 228000,
       "name": "Going Back",
       "url": "https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84"
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 190000,
       "name": "Hush",
       "url": "https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7"
@@ -5118,7 +5136,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 177758,
       "name": "Passage",
       "url": "https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2"
@@ -5968,6 +5986,24 @@
       "duration_ms": 204000,
       "name": "Sacred Haven",
       "url": "https://open.spotify.com/track/58KoCXSQfOYtqIiLHJrbFq"
+    },
+    {
+      "album": {
+        "name": "Sacred Silence",
+        "url": "https://open.spotify.com/album/2lTvWZyymM6gOK5nYXTxmz"
+      },
+      "artists": [
+        {
+          "name": "Ceilidh",
+          "url": "https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192616,
+      "name": "Sacred Silence",
+      "url": "https://open.spotify.com/track/2582AytP8818E123Tax64z"
     },
     {
       "album": {
@@ -6886,6 +6922,24 @@
       "duration_ms": 169055,
       "name": "Sublimity",
       "url": "https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt"
+    },
+    {
+      "album": {
+        "name": "Subsequent",
+        "url": "https://open.spotify.com/album/0VZd7DplRRWqQ9yixMd8W2"
+      },
+      "artists": [
+        {
+          "name": "Obviame",
+          "url": "https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187148,
+      "name": "Subsequent",
+      "url": "https://open.spotify.com/track/082rvB2mNegtlBpRwF2dc1"
     },
     {
       "album": {

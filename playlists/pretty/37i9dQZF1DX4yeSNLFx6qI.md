@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,276 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,296 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 4 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 5 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 |
 | 6 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
-| 7 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
+| 7 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 8 | [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 |
-| 9 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 9 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 10 | [Lo Contrario](https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Lo Contrario](https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8) | 3:10 |
 | 11 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 12 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 24 | [Intercambio Injusto](https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Intercambio Injusto](https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y) | 3:25 |
 | 25 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 |
 | 26 | [Crecer](https://open.spotify.com/track/5QFGoDnMHWCFSvF2g0mz2I) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Crecer](https://open.spotify.com/album/1wZsIe0ESdi5lxbdfng3Wg) | 3:37 |
-| 27 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/7sa6E5h8yXMbK50kBDB91x) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
-| 28 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
+| 27 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
+| 28 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/7sa6E5h8yXMbK50kBDB91x) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
 | 29 | [OCEAN PIANO \)\)\)\)\)](https://open.spotify.com/track/7xKoXCGoIhL4TuSfLQCUuG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:15 |
 | 30 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 |
 | 31 | [Conversacion con mi ex](https://open.spotify.com/track/78vPSJOTl86KUM3cAVjty3) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Conversación con mi ex](https://open.spotify.com/album/29gAeBgjScLcbj805uuTsL) | 2:16 |

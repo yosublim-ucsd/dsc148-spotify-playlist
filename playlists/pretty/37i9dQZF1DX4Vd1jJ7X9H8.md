@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,613 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,650 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 39 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
 | 40 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
 | 41 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
-| 42 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
-| 43 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
+| 42 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
+| 43 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
 | 44 | [Rocky](https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:46 |
 | 45 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 46 | [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 |

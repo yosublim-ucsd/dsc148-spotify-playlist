@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 110667,
+  "num_followers": 110687,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAUyfJo9+z/VyEiFMeAlnqd",
+  "snapshot_id": "ZzkyAAAAAAAs1F9HMrMycVz+Zxy/MvGM",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
-        "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Carol Tauber",
-          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
-        }
-      ],
-      "duration_ms": 518306,
-      "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
-      "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
+        "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Carol Tauber",
+          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
+        }
+      ],
+      "duration_ms": 518306,
+      "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
+      "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 487384,
-      "name": "A Casa \u00e9 Sua + Labareda",
-      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bem Perto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 426318,
       "name": "Bem Perto - Ao Vivo",
       "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 487384,
+      "name": "A Casa \u00e9 Sua + Labareda",
+      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,934 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,951 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 53 | [La Pregunta](https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 4:58 |
 | 54 | [Puedo Sentirlo \(feat\. Julieta Venegas\)](https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lebón & Co.](https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2) | 3:27 |
 | 55 | [Y la Banda Sigue](https://open.spotify.com/track/1fHYfXMXkhrWd9dzIOharS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Y la Banda Sigue](https://open.spotify.com/album/2025IlqtTWDI90ejSXEulm) | 3:30 |
-| 56 | [Tanto amor](https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ringo](https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg) | 2:47 |
-| 57 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
+| 56 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
+| 57 | [Tanto amor](https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ringo](https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg) | 2:47 |
 | 58 | [La Luna de Neuquén](https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Destilar](https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh) | 4:20 |
-| 59 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
-| 60 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
+| 59 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
+| 60 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 61 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 62 | [El Sueño del Jinete](https://open.spotify.com/track/4q6ZHerrtO7gcF67KFX0BF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [La Luna Hueca](https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl) | 2:58 |
 | 63 | [Ves](https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Érase](https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy) | 3:15 |

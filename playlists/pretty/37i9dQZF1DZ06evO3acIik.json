@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 59622,
+  "num_followers": 59635,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACDOV9ZehLwlmnu56rPYIwv",
+  "snapshot_id": "ZzkyAAAAAABO2E6dElnoGlAKlKq6ASIa",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
+      "duration_ms": 200009,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 200009,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 235500,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,

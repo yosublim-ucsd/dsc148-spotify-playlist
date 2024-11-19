@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Tom\u00e1s Ballardo en portada.",
-  "num_followers": 236331,
+  "num_followers": 236415,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Me Dicen Pollito",
-        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 259035,
-      "name": "Me Dicen Pollito",
-      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Me Dicen Pollito",
+        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 259035,
+      "name": "Me Dicen Pollito",
+      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 205077,
-      "name": "Se Nos Fue El 2",
-      "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 151946,
       "name": "De LM a GVE",
       "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 205077,
+      "name": "Se Nos Fue El 2",
+      "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Vice City",
-        "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Vice City",
-      "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -1059,22 +1039,46 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+        "name": "Vice City",
+        "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         },
         {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+      "duration_ms": 183973,
+      "name": "Vice City",
+      "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "El R\u00e1pido (En vivo)",
+        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
+      },
+      "artists": [
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "El R\u00e1pido - En vivo",
+      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1119,30 +1123,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "El R\u00e1pido (En vivo)",
-        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
-      },
-      "artists": [
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "El R\u00e1pido - En vivo",
-      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "Me Recordar\u00e1 El Cartel",
         "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Carteles Vol.II",
-        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 223769,
-      "name": "El 40 (Durango)",
-      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 211866,
       "name": "El G\u00fcero Rey del Pop",
       "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Carteles Vol.II",
+        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 223769,
+      "name": "El 40 (Durango)",
+      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Asociacion Antrax",
-        "url": "https://open.spotify.com/album/68EP0SBEocxEtCeCBozk8c"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        }
-      ],
-      "duration_ms": 219684,
-      "name": "Asociacion Antrax",
-      "url": "https://open.spotify.com/track/38pjpQWm9JmIpTAyyUGRGp"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "Traficantes Michoacanos",
         "url": "https://open.spotify.com/album/5TgwAXNo1a9ROlqxkDJt9L"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 199038,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/6Wu6lpZXzVTVGlvDCDL2Qk"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Asociacion Antrax",
+        "url": "https://open.spotify.com/album/68EP0SBEocxEtCeCBozk8c"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        }
+      ],
+      "duration_ms": 219684,
+      "name": "Asociacion Antrax",
+      "url": "https://open.spotify.com/track/38pjpQWm9JmIpTAyyUGRGp"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Estilo Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 171519,
-      "name": "Estilo Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 116958,
       "name": "R1",
       "url": "https://open.spotify.com/track/6wWU9kWh5wKjQv5QVuPyFn"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Estilo Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 171519,
+      "name": "Estilo Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
+        "name": "B.M.T",
+        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 188393,
+      "name": "Bienvenidos a Guasave",
+      "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
         "name": "Seraf\u00edn y El Chavo Felix",
         "url": "https://open.spotify.com/album/4A89Ienoqc2JWpvtzPsuRQ"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 161000,
       "name": "Seraf\u00edn y El Chavo Felix",
       "url": "https://open.spotify.com/track/0qqVhAPZWgZFTV7R8j5bEs"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
-        "name": "B.M.T",
-        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 188393,
-      "name": "Bienvenidos a Guasave",
-      "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
     }
   ],
   "unique_name": "Corridos Chakalosos",

@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 647498,
+  "num_followers": 647530,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "On Top Of The World",
-      "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+      "duration_ms": 192280,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -771,6 +755,22 @@
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Gecko (Overdrive) [Radio Edit]",
         "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 165440,
       "name": "Gecko (Overdrive) - Radio Edit",
       "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "In Case You Didn't Know",
-        "url": "https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve"
-      },
-      "artists": [
-        {
-          "name": "Olly Murs",
-          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Dance with Me Tonight",
-      "url": "https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/72FNf7DAlWLmuHiLTBcNHY"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "In Case You Didn't Know",
+        "url": "https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Dance with Me Tonight",
+      "url": "https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf"
     },
     {
       "added_at": "2024-03-20 18:24:49",

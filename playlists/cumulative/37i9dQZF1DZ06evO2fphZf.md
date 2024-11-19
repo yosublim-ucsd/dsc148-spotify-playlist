@@ -4,7 +4,7 @@
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 6 min
+63 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 | 2024-01-29 |  |
 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 | 2024-01-29 |  |
 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 | 2024-01-29 |  |
-| [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 | 2024-09-01 |  |
-| [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 | 2024-10-07 |  |
+| [cloud 11](https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:33 | 2024-11-19 |  |
+| [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 | 2024-09-01 | 2024-11-19 |
+| [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 | 2024-10-07 | 2024-11-19 |
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-06-23 |  |
 | [D8](https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:41 | 2024-10-07 |  |
 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 | 2024-01-29 |  |
@@ -41,7 +42,7 @@
 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 | 2024-01-29 |  |
 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 | 2024-01-29 |  |
 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 | 2024-01-29 |  |
-| [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 | 2024-01-29 | 2024-11-14 |
+| [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 | 2024-01-29 |  |
 | [no ties](https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:17 | 2024-01-29 |  |
 | [obsessed](https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:05 | 2024-01-29 |  |
 | [Options](https://open.spotify.com/track/4CvV6VfT6taArl6ZnO85qK) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Options](https://open.spotify.com/album/0hHfrwPYO6iO340NK28Pw4) | 2:04 | 2024-01-29 |  |

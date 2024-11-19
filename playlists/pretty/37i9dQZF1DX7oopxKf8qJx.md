@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,621 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,703 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 9 | [I Will Wait For You \- From "The Umbrellas Of Cherbourg"](https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Film Festival](https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV) | 2:21 |
 | 10 | [Three O'Clock In The Morning](https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:33 |
 | 11 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
-| 12 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
+| 12 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
 | 13 | [The Summer Knows \(From "Summer of '42"\)](https://open.spotify.com/track/4852V4r33kQtMIWscamrac) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [The Mancini Pops Orchestra](https://open.spotify.com/artist/1vxjKNfdi39vzEeA36L31L) | [As Time Goes By](https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS) | 3:27 |
-| 14 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
+| 14 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
 | 15 | [I'm In The Mood For Love \- Remastered/1996](https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9) | [Jimmy McHugh](https://open.spotify.com/artist/7r1YNrUHsmDmcVCg8P4piG), [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [The Romantic Moods Of Jackie Gleason](https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly) | 3:30 |
 | 16 | [Alone Together](https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:05 |
 | 17 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,481 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,489 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 44 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
 | 45 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 |
 | 46 | [Volverás A Ser Feliz](https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 3:16 |
-| 47 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
-| 48 | [Y Ahora Te Vas](https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Vamos De Nuevo](https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR) | 3:35 |
+| 47 | [Y Ahora Te Vas](https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Vamos De Nuevo](https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR) | 3:35 |
+| 48 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
 | 49 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 |
 | 50 | [Confieso](https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Confieso](https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI) | 4:02 |
 | 51 | [La Repetidora](https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:35 |
 
-Snapshot ID: `ZzfggAAAAAC4dDe3byazI8DH43Vx1FUg`
+Snapshot ID: `ZzkyAAAAAADMN7WXLTWHkk+wOrGMI8Xv`

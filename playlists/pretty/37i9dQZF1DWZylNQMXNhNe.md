@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,487 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,462 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 31 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
 | 32 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |
 | 33 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 |
-| 34 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 |
-| 35 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 |
+| 34 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 |
+| 35 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 |
 | 36 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
 | 37 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
 | 38 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 43 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
 | 44 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
 | 45 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
-| 46 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
-| 47 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
+| 46 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
+| 47 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 48 | [Menino Pele Cor de Jambo](https://open.spotify.com/track/4aJmFKqNoJssmygH1WmeQG) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 3:42 |
 | 49 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
 | 50 | [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 |

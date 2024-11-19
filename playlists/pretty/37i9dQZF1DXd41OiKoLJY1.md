@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Leah Halili Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,490 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,496 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

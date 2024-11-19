@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > you're invited\. ft\. The Dare
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,239 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,504 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 81 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 | 82 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 | 83 | [Down the Drain](https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj) | [Julia Fox](https://open.spotify.com/artist/5fspZkvc27zQHB6PjbPoGK) | [Down the Drain](https://open.spotify.com/album/4VKv3mXNAsH0SLPTHiMfYd) | 2:46 |
-| 84 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
-| 85 | [Your English Is Good](https://open.spotify.com/track/0A4W1mAnTMVnq4v6SEyAwa) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Elephant Shell](https://open.spotify.com/album/5P63h0mTC5WRVXqVfA7InJ) | 3:11 |
+| 84 | [Your English Is Good](https://open.spotify.com/track/0A4W1mAnTMVnq4v6SEyAwa) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Elephant Shell](https://open.spotify.com/album/5P63h0mTC5WRVXqVfA7InJ) | 3:11 |
+| 85 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
 | 86 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
 | 87 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
 | 88 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |

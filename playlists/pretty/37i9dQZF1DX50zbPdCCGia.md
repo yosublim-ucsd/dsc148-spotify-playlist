@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Jimmy Buffett
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,825 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,890 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 28 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 |
 | 29 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
 | 30 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
-| 31 | [Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 2:30 |
-| 32 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
+| 31 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
+| 32 | [Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 2:30 |
 | 33 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 34 | [Lost Without Your Love](https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Lost Without Your Love](https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW) | 2:56 |
 | 35 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 58 | [Baby, What a Big Surprise \- Edit](https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago XI](https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1) | 3:03 |
 | 59 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
 | 60 | [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 |
-| 61 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
-| 62 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
+| 61 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
+| 62 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
 | 63 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:19 |
 | 64 | [Sexy Eyes](https://open.spotify.com/track/4V2cR7mSEDaRa7DXiZMN7o) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Sometimes You Win](https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22) | 3:31 |
 | 65 | [Never Be the Same](https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:09 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 69 | [Don't Let Me Be Lonely Tonight \- 2019 Remaster](https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [One Man Dog \(2019 Remaster\)](https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE) | 2:35 |
 | 70 | [It's A Long Way There \- Remastered 2022](https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Little River Band \(Remastered 2022\)](https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC) | 8:42 |
 | 71 | [Holdin' on to Yesterday](https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 4:16 |
-| 72 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
-| 73 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
+| 72 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
+| 73 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
 | 74 | [Better Love Next Time](https://open.spotify.com/track/3LrFVEZ9w4hVHS3sIRmzZk) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Sometimes You Win](https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22) | 3:02 |
 | 75 | [My Little Town](https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:51 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 364299,
+  "num_followers": 364381,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2024-07-05 21:33:59",

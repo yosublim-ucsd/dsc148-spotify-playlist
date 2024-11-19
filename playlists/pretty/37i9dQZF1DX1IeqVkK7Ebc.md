@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,209 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,218 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 4 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 5 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
 | 6 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 |
-| 7 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
-| 8 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 7 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 8 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 9 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 10 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 11 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 27 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 28 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 |
 | 29 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 |
-| 30 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
-| 31 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
+| 30 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
+| 31 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
 | 32 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 |
 | 33 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 34 | [History Of Man](https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:28 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 63 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 64 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
 | 65 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
-| 66 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 |
-| 67 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
+| 66 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
+| 67 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 |
 | 68 | [Better Half Of Me](https://open.spotify.com/track/4d27ZyAYfKRmIQAuF7mYKy) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Better Half Of Me](https://open.spotify.com/album/5vmTOY0PW95BnaViIt05qb) | 2:32 |
 | 69 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 |
 | 70 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Shawn Mendes, Tate McRae, Linkin Park, Shaboozey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,259 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,276 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [Safe](https://open.spotify.com/track/1a0AIAK11kXO3pLeBMl0nY) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Safe](https://open.spotify.com/album/4WaPtei4DNIgFkogSFPZ2v) | 3:15 |
 | 75 | [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 |
 | 76 | [Dangerous](https://open.spotify.com/track/3fKSm7Bq45k4iUAlFTmfNO) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Triggered, But Here](https://open.spotify.com/album/1TS7QegPT8foyilN65QNSU) | 3:28 |
-| 77 | [Pon De Streets](https://open.spotify.com/track/5rjAwhKYU3f6mJBnvFYSlr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Guns Don't Kill People..\. Lazers Do \(15th Anniversary Edition\)](https://open.spotify.com/album/4pKGn8AnP7pud241wHb9gA) | 4:22 |
+| 77 | [Pon De Streets](https://open.spotify.com/track/5rjAwhKYU3f6mJBnvFYSlr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Guns Don't Kill People..\. Lazers Do \(15th Anniversary Edition\)](https://open.spotify.com/album/4pKGn8AnP7pud241wHb9gA) | 4:22 |
 | 78 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 |
 | 79 | [TTSO.](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 |
 | 80 | [Lucky \(Song 7\)](https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lucky \(Song 7\)](https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa) | 3:51 |

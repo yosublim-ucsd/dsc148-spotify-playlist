@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Sam Fender
 
-341 songs - 19 hr 20 min
+342 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bite](https://open.spotify.com/track/2y0x5oohwPiUANKG4kqtEB) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/00KOYdLzspV1wDq6dU3Tna) | 3:10 | 2023-03-31 | 2023-06-08 |
 | [Black and Blue](https://open.spotify.com/track/0ZjSPaQetMbISiOX29JPCa) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Black and Blue](https://open.spotify.com/album/3Fb2CtRLLUdvTrvnODxW5u) | 3:26 | 2024-03-11 | 2024-08-22 |
 | [Black Cat](https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Black Cat](https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb) | 2:20 | 2023-09-19 | 2024-03-22 |
-| [Black Cat](https://open.spotify.com/track/6uYCBjnbnipZLNXcTWlpdv) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:20 | 2024-10-17 |  |
+| [Black Cat](https://open.spotify.com/track/6uYCBjnbnipZLNXcTWlpdv) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:20 | 2024-10-17 | 2024-11-19 |
 | [Bleachers Yard](https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Buck Rogers Time](https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ) | 4:34 | 2023-05-19 | 2023-10-20 |
 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 | 2024-03-11 |  |
 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 | 2023-02-03 | 2024-08-22 |
@@ -278,6 +278,7 @@
 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 | 2023-02-24 | 2024-01-30 |
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-12 |  |
 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 | 2023-02-24 | 2024-06-01 |
+| [Something To Hold On To](https://open.spotify.com/track/6nNxogHPcGYobCodixuKkr) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Something To Hold On To](https://open.spotify.com/album/7D8c36Se7rGEWmrIAVWRkd) | 3:12 | 2024-11-15 |  |
 | [Somewhere](https://open.spotify.com/track/0c0rRmQCeGG5AIHaDquaBd) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Somewhere](https://open.spotify.com/album/5S0sLBw7pyvohOvsvKB9zZ) | 3:44 | 2023-09-19 | 2023-11-18 |
 | [Somewhere](https://open.spotify.com/track/0xjNvmVnlOR8cfd0rWbVJH) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Somewhere](https://open.spotify.com/album/4SoegC5LmYExoePFDyHRBq) | 3:44 | 2023-10-20 | 2024-04-19 |
 | [Speak Up](https://open.spotify.com/track/7HY1G4kU9fqjjlHJIMgbCt) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [Speak Up](https://open.spotify.com/album/6AkqY69DtCP20y2yd6YmZG) | 3:36 | 2024-05-31 | 2024-10-25 |

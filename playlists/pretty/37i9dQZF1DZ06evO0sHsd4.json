@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 10442,
+  "num_followers": 10471,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAvJad7MSjZ/WSdFDWePp7W",
+  "snapshot_id": "ZzkyAAAAAAC59OmzwiTGeh6XcYZbVcd8",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Fr\u00edo",
-        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 263810,
-      "name": "Coraz\u00f3n Fr\u00edo",
-      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 263810,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
     },
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos Cambian",
-        "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
       "artists": [
-        {
-          "name": "Los Beltran",
-          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
-        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 186983,
-      "name": "Escuela 4 Letras",
-      "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+        "name": "Los Tiempos Cambian",
+        "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
       "artists": [
+        {
+          "name": "Los Beltran",
+          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+      "duration_ms": 186983,
+      "name": "Escuela 4 Letras",
+      "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 224147,
+  "num_followers": 224161,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABOkI6kMttsi5dJBuJQN7UI",
+  "snapshot_id": "ZzkyAAAAAADmfcDQ7Lt+N4n4puEHWqoD",
   "tracks": [
     {
       "added_at": null,
@@ -395,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 213307,
-      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 168507,
       "name": "Desce Pro Play (PA PA PA)",
       "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213307,
+      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Make It Nasty",
+      "url": "https://open.spotify.com/track/71Wf5qK9wdtjOfMgujlN6A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 299226,
       "name": "Go Loko (feat. Tyga, Jon Z)",
       "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 138166,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP"
       },
       "artists": [
         {
@@ -720,9 +720,29 @@
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 188866,
-      "name": "Make It Nasty",
-      "url": "https://open.spotify.com/track/71Wf5qK9wdtjOfMgujlN6A"
+      "duration_ms": 138166,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#BitchImTheShit",
+        "url": "https://open.spotify.com/album/6xJC9AbMpm4ebrTWz6Fd5S"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Dash D Cadet",
+          "url": "https://open.spotify.com/artist/60N2qoNBFLTHNSBElNpANC"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Bouncin On My D*ck",
+      "url": "https://open.spotify.com/track/3xJj1mU7B83yop2dA03Smk"
     },
     {
       "added_at": null,
@@ -779,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#BitchImTheShit",
-        "url": "https://open.spotify.com/album/6xJC9AbMpm4ebrTWz6Fd5S"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Dash D Cadet",
-          "url": "https://open.spotify.com/artist/60N2qoNBFLTHNSBElNpANC"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Bouncin On My D*ck",
-      "url": "https://open.spotify.com/track/3xJj1mU7B83yop2dA03Smk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Blessed (with Tyga)",
-      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hotel California (Deluxe)",
         "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 221493,
       "name": "Switch Lanes",
       "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Blessed (with Tyga)",
+      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,

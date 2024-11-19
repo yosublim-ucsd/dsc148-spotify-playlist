@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,143 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,155 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 36 | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 37 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
 | 38 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
-| 39 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 |
-| 40 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
+| 39 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
+| 40 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 |
 | 41 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 42 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
 | 43 | [1リッター分の愛をこめて](https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:10 |
 | 44 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 |
 | 45 | [minority](https://open.spotify.com/track/3ROjXRCm8LZYHgNUYCelc4) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/7rrjUIpahOnb2OU1prz6OK) | 2:27 |
-| 46 | [I gotta go \(feat\. Hiplin, WILYWNKA & kojikoji\)](https://open.spotify.com/track/5EBsireOwbvRqFb0md9BDu) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [Hiplin](https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [I gotta go \(feat\. Hiplin, WILYWNKA & kojikoji\)](https://open.spotify.com/album/3ABotZ0kjriT2TgaVIwo2y) | 5:12 |
-| 47 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
+| 46 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
+| 47 | [I gotta go \(feat\. Hiplin, WILYWNKA & kojikoji\)](https://open.spotify.com/track/5EBsireOwbvRqFb0md9BDu) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [Hiplin](https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [I gotta go \(feat\. Hiplin, WILYWNKA & kojikoji\)](https://open.spotify.com/album/3ABotZ0kjriT2TgaVIwo2y) | 5:12 |
 | 48 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 | 49 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 |
 | 50 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |

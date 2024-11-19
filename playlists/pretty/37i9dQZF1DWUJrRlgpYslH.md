@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,431 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,498 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 40 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
 | 41 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
 | 42 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
-| 43 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
-| 44 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 43 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 44 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
 | 45 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 46 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
 | 47 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 87 | [God Only Knows \- Remastered 1999](https://open.spotify.com/track/0xb6220jAyOgKwukn1VxZ8) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Love Songs](https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq) | 2:51 |
 | 88 | [Inside And Out](https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 4:17 |
 | 89 | [Betcha By Golly, Wow](https://open.spotify.com/track/187gUYsK3pDe3yoYNqGjBO) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:48 |
-| 90 | [Friends \- Extended Version](https://open.spotify.com/track/69Z2l0fNje3fG2S8XOarJm) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Amii Stewart : Great Classics Revisited](https://open.spotify.com/album/2qlmKLKOE2fNV5kSfqiZtK) | 4:48 |
-| 91 | [Summer Wind](https://open.spotify.com/track/5ZXHIeyneAhJHjR1JQ2cYs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:54 |
-| 92 | [I'd Like To](https://open.spotify.com/track/28MnrToCUJIrVRGNr0jcxk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:08 |
-| 93 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
+| 90 | [Summer Wind](https://open.spotify.com/track/5ZXHIeyneAhJHjR1JQ2cYs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:54 |
+| 91 | [Friends \- Extended Version](https://open.spotify.com/track/69Z2l0fNje3fG2S8XOarJm) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Amii Stewart : Great Classics Revisited](https://open.spotify.com/album/2qlmKLKOE2fNV5kSfqiZtK) | 4:48 |
+| 92 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
+| 93 | [I'd Like To](https://open.spotify.com/track/28MnrToCUJIrVRGNr0jcxk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:08 |
 | 94 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 |
 | 95 | [Why Can't There Be Love](https://open.spotify.com/track/0PkMN7Bq0iYwd0fzXyCYT3) | [Dee Edwards](https://open.spotify.com/artist/3Eq6DV1mdZgmSBI1LDqaMM) | [Gilles Peterson Digs America, Vol\. 2](https://open.spotify.com/album/7pmSUoYULXAkSdX5kaaUtC) | 2:44 |
 | 96 | [My Destiny](https://open.spotify.com/track/2c2QM7x721KtNva4g77PIT) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:49 |
 | 97 | [Oh My My! \(In Love Again\)](https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Stand By You](https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT) | 2:44 |
 | 98 | [Angel](https://open.spotify.com/track/3tXeOQmEq6Tm5zv52sZ78D) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Hey Now Hey \(The Other Side Of The Sky\)](https://open.spotify.com/album/1i4CdMNfc1A5Vsnej3OXtp) | 4:30 |
-| 99 | [\(There's\) Always Something There to Remind Me](https://open.spotify.com/track/2wc9DHQnBTnMKDIYcXFzoq) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Dionne Warwick Collection: Her All\-Time Greatest Hits](https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2) | 2:59 |
-| 100 | [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 |
+| 99 | [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 |
+| 100 | [\(There's\) Always Something There to Remind Me](https://open.spotify.com/track/2wc9DHQnBTnMKDIYcXFzoq) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Dionne Warwick Collection: Her All\-Time Greatest Hits](https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2) | 2:59 |
 
 Snapshot ID: `ZrYxmAAAAACsalcH/B8Uz48xXwKC5zDr`

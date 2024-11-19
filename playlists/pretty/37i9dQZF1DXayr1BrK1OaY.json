@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \ud83d\udc94",
-  "num_followers": 228505,
+  "num_followers": 228558,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 188338,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "U REALLY HURT ME",
         "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 185520,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 188338,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 230909,
       "name": "Fade Out (with MKLA)",
       "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "DESCEND",
         "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 221984,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/79slKnl1QR5Ah6hgJqThpw"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX"
       },
@@ -1359,46 +1375,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "Luis Torres",
-          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
-        },
-        {
-          "name": "Rico 56",
-          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "I Can Make It",
         "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
@@ -1411,6 +1387,26 @@
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        }
+      ],
+      "duration_ms": 200294,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1435,22 +1431,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         },
         {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
         }
       ],
-      "duration_ms": 200294,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
+      "duration_ms": 205440,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Ready (feat. Art School Girlfriend)",
         "url": "https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 227625,
       "name": "Ready (feat. Art School Girlfriend)",
       "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 186263,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "back2u",
-        "url": "https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "back2u",
-      "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 161777,
       "name": "Can It Be Easy",
       "url": "https://open.spotify.com/track/22GJxi8BjnUyoML2YW9YDv"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "back2u",
+        "url": "https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "back2u",
+      "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Love Tonight",
         "url": "https://open.spotify.com/album/1E7EGXHRWEh1fD66BIUVE5"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 200004,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/4O08MXwFgXuoyjmbz8boTe"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Ghost Of What Could Be",
-        "url": "https://open.spotify.com/album/48X57POaib4oaROKyrYGvS"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Ghost Of What Could Be",
-      "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Leave Me Slowly",
         "url": "https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 167142,
       "name": "Leave Me Slowly",
       "url": "https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Ghost Of What Could Be",
+        "url": "https://open.spotify.com/album/48X57POaib4oaROKyrYGvS"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Ghost Of What Could Be",
+      "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/5CFc8C22y0eOTiz1DbqTFJ"
-      },
-      "artists": [
-        {
-          "name": "OKAYVAL",
-          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
         "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5CFc8C22y0eOTiz1DbqTFJ"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Believe In Myself",
-        "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Believe In Myself",
-      "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Julia (deep diving)",
         "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 274500,
       "name": "Julia (deep diving)",
       "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Believe In Myself",
+        "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Believe In Myself",
+      "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD"
-      },
-      "artists": [
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 217631,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/0qeX1yqGMmsqAYWNWhDPgY"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "It Isn't Easy (feat. EKKSTACY)",
         "url": "https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 232999,
       "name": "It Isn't Easy (feat. EKKSTACY)",
       "url": "https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 217631,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/0qeX1yqGMmsqAYWNWhDPgY"
     },
     {
       "added_at": "2024-11-15 05:00:00",

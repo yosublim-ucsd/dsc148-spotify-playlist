@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 86740,
+  "num_followers": 86753,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+        "name": "Y As\u00ed Suena el 3030",
+        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -555,18 +551,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Y As\u00ed Suena el 3030",
-        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
       "artists": [
         {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         }
       ],
-      "duration_ms": 179610,
-      "name": "El Jami",
-      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "El Brillo De Tus Ojitos",
-        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
       },
       "artists": [
         {
-          "name": "Dorian Guerra",
-          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 179196,
-      "name": "El Brillo De Tus Ojitos",
-      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Entre La Maleza",
-        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+        "name": "El Brillo De Tus Ojitos",
+        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "Dorian Guerra",
+          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
         }
       ],
-      "duration_ms": 215956,
-      "name": "Entre La Maleza",
-      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+      "duration_ms": 179196,
+      "name": "El Brillo De Tus Ojitos",
+      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "RLUX",
         "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 186450,
       "name": "\u00d1ero Session 11",
       "url": "https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 265561,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Derecho y Chueco",
-        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 157364,
-      "name": "Derecho y Chueco",
-      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Peda Con Cupido",
-        "url": "https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Peda Con Cupido",
-      "url": "https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Amor Perdido",
         "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
       },
@@ -1147,6 +1115,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Derecho y Chueco",
+        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 157364,
+      "name": "Derecho y Chueco",
+      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Zapand\u00fa",
         "url": "https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 296965,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Peda Con Cupido",
+        "url": "https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Peda Con Cupido",
+      "url": "https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss"
     },
     {
       "added_at": "2024-07-26 14:56:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921 likes - 152 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922 likes - 152 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 20 | [Preach](https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:56 |
 | 21 | [Elevate](https://open.spotify.com/track/3szf2z1Cy1QMrtHrbn8rz9) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:04 |
 | 22 | [Shot Clock](https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:21 |
-| 23 | [U With Me?](https://open.spotify.com/track/03L2AoiRbWhvt7BDMx1jUB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:57 |
-| 24 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
+| 23 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
+| 24 | [U With Me?](https://open.spotify.com/track/03L2AoiRbWhvt7BDMx1jUB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:57 |
 | 25 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 |
 | 26 | [Shining \(feat\. Beyoncé & Jay\-Z\)](https://open.spotify.com/track/3OoZagIW3YK8vjt0ws6NOI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 4:43 |
 | 27 | [Wouldn't Leave](https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:25 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 102 | [Bad Intentions](https://open.spotify.com/track/3fVyVFzbi7kY9VL4Fimtv7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:14 |
 | 103 | [PGT](https://open.spotify.com/track/0oXy3jfrkWlhw3Kklndyhn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:13 |
 | 104 | [C o n t r o l](https://open.spotify.com/track/2LHtu3z8Xa9AToxLRlLm1g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:22 |
-| 105 | [Back It Up](https://open.spotify.com/track/5AKzfe0sWdn7UNV1gKbNYY) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV), [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Back It Up](https://open.spotify.com/album/0yUjuqWLKHrKPBQGzTKAgb) | 2:26 |
-| 106 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 |
+| 105 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 |
+| 106 | [Back It Up](https://open.spotify.com/track/5AKzfe0sWdn7UNV1gKbNYY) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV), [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Back It Up](https://open.spotify.com/album/0yUjuqWLKHrKPBQGzTKAgb) | 2:26 |
 | 107 | [NEVER AGAIN](https://open.spotify.com/track/4WSzt0Tdm6ziMxwfadYQk5) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:52 |
 | 108 | [High Hopes](https://open.spotify.com/track/47977ddRuDJUsPGBqoIKSt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 7:22 |
 | 109 | [Can't Hang](https://open.spotify.com/track/1VycJxkDtBSEClyVPrIlWT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 2:59 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 151 | [Like That](https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88) | [S.Carter](https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY) | [Vice Party Riddim](https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0) | 3:32 |
 | 152 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `Abhx3gAAAACtgxEylcDa3twioOgn3i71`
+Snapshot ID: `Abh3dAAAAADOmUcMqszsXnBDrwQG598N`

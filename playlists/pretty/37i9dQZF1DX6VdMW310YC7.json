@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3917075,
+  "num_followers": 3917206,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        }
-      ],
-      "duration_ms": 239334,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "duration_ms": 239334,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 294624,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 172622,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 294624,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
         "name": "Heartburn",
         "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 221707,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
         "name": "The Learning of Urgency",
         "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 197910,
       "name": "Carry Your Name",
       "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
         "name": "Lost Home / Solitude",
         "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 259474,
       "name": "No Ending - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
-        "name": "Kiss & Forget",
-        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+        "name": "Circle In Time: Bonus Tracks",
+        "url": "https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 218929,
-      "name": "You Belong To No-One",
-      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
+      "duration_ms": 273624,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1711,6 +1715,22 @@
       "duration_ms": 251303,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
+        "name": "Kiss & Forget",
+        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 218929,
+      "name": "You Belong To No-One",
+      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2024-11-15 18:48:19",
       "album": {
-        "name": "Essentialism.",
-        "url": "https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ"
-      },
-      "artists": [
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        },
-        {
-          "name": "Oliver River",
-          "url": "https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv"
-        }
-      ],
-      "duration_ms": 200105,
-      "name": "Essentialism.",
-      "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
         "name": "golden",
         "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
       },
@@ -1839,6 +1839,26 @@
       "duration_ms": 302486,
       "name": "golden",
       "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
+    },
+    {
+      "added_at": "2024-11-15 18:48:19",
+      "album": {
+        "name": "Essentialism.",
+        "url": "https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        },
+        {
+          "name": "Oliver River",
+          "url": "https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv"
+        }
+      ],
+      "duration_ms": 200105,
+      "name": "Essentialism.",
+      "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
     },
     {
       "added_at": "2024-11-15 18:48:19",
@@ -1939,26 +1959,6 @@
       "duration_ms": 216723,
       "name": "Floodlights",
       "url": "https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0"
-    },
-    {
-      "added_at": "2024-11-15 18:48:19",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"
     }
   ],
   "unique_name": "Chill Tracks",

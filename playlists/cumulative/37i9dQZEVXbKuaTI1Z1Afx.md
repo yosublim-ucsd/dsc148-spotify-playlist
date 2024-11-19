@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,268 songs - 7 day 6 hr 12 min
+3,269 songs - 7 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1177,7 +1177,7 @@
 | [Healing](https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:54 | 2024-08-13 | 2024-08-20 |
 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 | 2022-04-29 | 2022-04-30 |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-29 | 2022-04-03 |
-| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-11-12 |  |
+| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-11-12 | 2024-11-19 |
 | [Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(50th Anniversary Edition\)](https://open.spotify.com/album/2LOpi63tYGh0Suy8eLJDVQ) | 3:07 | 2024-03-20 | 2024-04-05 |
 | [Heart Racing](https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Heart Racing](https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ) | 2:36 | 2023-06-13 | 2023-06-27 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-13 | 2023-02-12 |
@@ -1988,6 +1988,7 @@
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-02-06 | 2024-02-08 |
 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 | 2023-08-14 | 2023-10-25 |
 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 | 2024-06-01 | 2024-06-16 |
+| [No Good Deed \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/7BYVb8ueEqGvcnPJWXihSt) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi), [Alex Lacamoire](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) | [Wicked](https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR) | 3:31 | 2024-11-18 |  |
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-05-03 | 2022-05-08 |
 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2023-01-10 | 2023-02-08 |
 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 | 2022-11-22 | 2022-11-27 |

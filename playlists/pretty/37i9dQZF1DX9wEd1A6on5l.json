@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 70438,
+  "num_followers": 70546,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
+        "name": "Kese (Dance)",
+        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
-        "name": "Kese (Dance)",
-        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "Abanikanda",
-        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Abanikanda",
-      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
+        "name": "Abanikanda",
+        "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Abanikanda",
+      "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -831,18 +831,42 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+        "name": "Pano Tona",
+        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
       },
       "artists": [
         {
           "name": "Kizz Daniel",
           "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
+      "duration_ms": 174107,
+      "name": "Pano Tona",
+      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -863,22 +887,6 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -927,22 +935,34 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
       "artists": [
         {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 150927,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -967,26 +987,6 @@
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
-        "name": "Pano Tona",
-        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Pano Tona",
-      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -1043,6 +1043,26 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 164121,
       "name": "by now",
       "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
+        "name": "DUMP ON DEM",
+        "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "1 WORK",
+      "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -1239,6 +1255,22 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2024-11-15 12:00:56",
+      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -1279,22 +1311,6 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "DUMP ON DEM",
-        "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "1 WORK",
-      "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
         "name": "\"Of Many Colors\": Orange",
         "url": "https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 159360,
       "name": "Emeka Dance",
       "url": "https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG"
-    },
-    {
-      "added_at": "2024-11-15 12:00:56",
-      "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -1375,30 +1375,22 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         },
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 163468,
-      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
-      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
+      "duration_ms": 177000,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
     },
     {
       "added_at": "2024-11-15 12:00:56",
@@ -1447,22 +1439,30 @@
     {
       "added_at": "2024-11-15 12:00:56",
       "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
+      "duration_ms": 163468,
+      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
+      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
     },
     {
       "added_at": "2024-11-15 12:00:56",

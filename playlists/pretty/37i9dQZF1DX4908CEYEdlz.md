@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,782 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,768 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 32 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
 | 33 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
 | 34 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
-| 35 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 |
-| 36 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
+| 35 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
+| 36 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 |
 | 37 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 |
 | 38 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
 | 39 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 67 | [Hourglass](https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:43 |
 | 68 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
 | 69 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
-| 70 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
+| 70 | [Talk Sick](https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Talk Sick](https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5) | 4:34 |
 | 71 | [Wouldn't You Rather](https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/6ER0MJlkiEGBKsebXRq2U7) | 3:49 |
 | 72 | [You And I](https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [You and I](https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I) | 5:16 |
 | 73 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 |
 | 74 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 |
-| 75 | [Talk Sick](https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Talk Sick](https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5) | 4:34 |
+| 75 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
 
 Snapshot ID: `ZxsJsAAAAAAkMli/EZXt8kSfpY1/37CM`

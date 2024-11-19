@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,176 likes - 130 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,197 likes - 130 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 42 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 |
 | 43 | [Between Memories](https://open.spotify.com/track/6Jdy4B9Q9UNynpibATGyV5) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:45 |
 | 44 | [Black Gold](https://open.spotify.com/track/0usVZ1hVbeBjmcGT7f6G8d) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:35 |
-| 45 | [夢を手に、戻れる場所もない日々を](https://open.spotify.com/track/5ETlRU6U6BloJC8MKHymMI) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [夢を手に、戻れる場所もない日々を/風の強い日は嫌いか?](https://open.spotify.com/album/1RXA7cmrytXDKr77WMAYl8) | 4:16 |
+| 45 | [夢を手に、戻れる場所もない日々を](https://open.spotify.com/track/5ETlRU6U6BloJC8MKHymMI) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [夢を手に、戻れる場所もない日々を/風の強い日は嫌いか？](https://open.spotify.com/album/1RXA7cmrytXDKr77WMAYl8) | 4:16 |
 | 46 | [大河よ共に泣いてくれ](https://open.spotify.com/track/4DutefDeVcpLpBKvKwENgO) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [大河よ共に泣いてくれ/Nope!!!!!](https://open.spotify.com/album/2X8cBRtpqSEjjPrL4QH2Ez) | 3:28 |
 | 47 | [衝撃](https://open.spotify.com/track/2GeK108DTmnSEfwwCR85mp) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [衝撃](https://open.spotify.com/album/6wuiJYEregDGHkpvtHKmEU) | 3:01 |
 | 48 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,795 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 64 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
 | 65 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
 | 66 | [Tell Me Something](https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 4:17 |
-| 67 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
-| 68 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
-| 69 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
-| 70 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 67 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
+| 68 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
+| 69 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
+| 70 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
 | 71 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 72 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 |
 | 73 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 79 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 80 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 81 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
-| 82 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 |
-| 83 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
+| 82 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
+| 83 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 |
 | 84 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 85 | [sunset blvd](https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 1:46 |
 | 86 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |

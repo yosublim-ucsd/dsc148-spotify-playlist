@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 723526,
+  "num_followers": 723625,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADfRE03EcqWtKLVeAuZHKCL",
+  "snapshot_id": "ZzkyAAAAAACRJcnDB2fn3cCnEO+tyBGY",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Pacas De A Kilo",
-      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidos Para Siempre",
         "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 208333,
       "name": "Cuesti\u00f3n Olvidada",
       "url": "https://open.spotify.com/track/4U7N4o4EHZnsJSkH0qrmat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uniendo Fronteras",
-        "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Mi Fantas\u00eda",
-      "url": "https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 206186,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uniendo Fronteras",
+        "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Mi Fantas\u00eda",
+      "url": "https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "La Jaula De Oro",
-      "url": "https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Herencia Musical 20 Corridos Inolvidables",
         "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 213093,
       "name": "Jefe De Jefes",
       "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "La Jaula De Oro",
+      "url": "https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Del Sur",
-        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 243666,
-      "name": "La Reina Del Sur",
-      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
+      "duration_ms": 207866,
+      "name": "Como Aceite Y Como El Agua",
+      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Reina Del Sur",
+        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "La Reina Del Sur",
+      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pacto De Sangre",
         "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 233853,
       "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
       "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Como Aceite Y Como El Agua",
-      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contrabando Y Traicion",
         "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 221026,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
     },
     {
       "added_at": null,

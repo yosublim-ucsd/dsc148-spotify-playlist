@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,420 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,483 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 8 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
 | 9 | [Childhood Dream](https://open.spotify.com/track/0hjlsV7bnM7HLPuIoaMfkm) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [The Signal](https://open.spotify.com/album/6mopwrOq8X9v9xSTZ8ExlH) | 4:09 |
 | 10 | [Moonlight Rendez\-vous](https://open.spotify.com/track/48cyBWVdq8n5sZ6G8qghOJ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 2:00 |
-| 11 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 12 | [Spacelab \- 2009 Remaster](https://open.spotify.com/track/48Q7pVDuBivnR5rdf6RGYT) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 5:57 |
+| 11 | [Spacelab \- 2009 Remaster](https://open.spotify.com/track/48Q7pVDuBivnR5rdf6RGYT) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 5:57 |
+| 12 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
 | 13 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 14 | [Blush Response](https://open.spotify.com/track/0cSnUM2fNEx4pAkNfWpdkU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 5:46 |
 | 15 | [Voyager](https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [In Free Fall](https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2) | 4:04 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 30 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
 | 31 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
 | 32 | [Dead Skin Cells](https://open.spotify.com/track/27W7GHUgfezHQ8krRZUfeX) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Lifeforms](https://open.spotify.com/album/0UcHfoo7KMso767JwePBMh) | 6:50 |
-| 33 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
-| 34 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
+| 33 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
+| 34 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
 | 35 | [Red Tide](https://open.spotify.com/track/2pu5g2H7FrseHcmYev97bR) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Monument Builders](https://open.spotify.com/album/1anZBWOeghB5twG4CyJdoc) | 5:25 |
 | 36 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 |
 | 37 | [Hollow Earth](https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Hollow Earth](https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG) | 5:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 62 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 63 | [Theme from Tron \- From "TRON"/Score](https://open.spotify.com/track/6h7kp0vSYQobYlsv30RpqH) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB) | [Tron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wIvILO6pAlr0jl46GLXLf) | 1:37 |
 | 64 | [In Dreaming](https://open.spotify.com/track/6NJFt45q01ZZx0Z4aoMCb3) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Gary Miraz](https://open.spotify.com/artist/32puo5NH9sjHN4OMphc8bh) | [Resonance](https://open.spotify.com/album/4iNADa6Esr3HGXxwIBmsCJ) | 8:52 |
-| 65 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
-| 66 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
+| 65 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
+| 66 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
 | 67 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
 | 68 | [Tropical Green \(B\) \- Instrumental Version](https://open.spotify.com/track/3D94IdEFFnOL6wt2S2Dm1a) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Virtual World](https://open.spotify.com/album/1OprXHIv02g0zq9smNKnOl) | 2:29 |
 | 69 | [Avanti](https://open.spotify.com/track/5b6Na8oqRxzzACWuS3LsMo) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 4:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 
 > Clásicos del Hip Hop para toda la familia a disfrutar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,963 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,969 likes - 43 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 31 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
 | 32 | [This Be the Def Beat](https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri) | [Dana Dane](https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp) | [Dana Dane with Fame](https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5) | 3:18 |
 | 33 | [004](https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [Boomerang](https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0) | 3:54 |
-| 34 | [The Truth](https://open.spotify.com/track/2C0Y5RUvreuiElhHuce9Rv) | [Handsome Boy Modeling School](https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP), [Róisín](https://open.spotify.com/artist/6CMypI6g5ox8xYYx5gIrUZ), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [So...How's Your Girl?](https://open.spotify.com/album/5wB26siHPt7fbEeUoZU5j7) | 5:37 |
+| 34 | [Rapper's Delight](https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Rhino Hi\-Five: The Sugarhill Gang](https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT) | 7:07 |
 | 35 | [Human Beat Box \(Re\-Recorded Version\)](https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 2:18 |
-| 36 | [Rapper's Delight](https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Rhino Hi\-Five: The Sugarhill Gang](https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT) | 7:07 |
+| 36 | [The Truth](https://open.spotify.com/track/2C0Y5RUvreuiElhHuce9Rv) | [Handsome Boy Modeling School](https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP), [Róisín](https://open.spotify.com/artist/6CMypI6g5ox8xYYx5gIrUZ), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [So...How's Your Girl?](https://open.spotify.com/album/5wB26siHPt7fbEeUoZU5j7) | 5:37 |
 | 37 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP) | 3:42 |
 | 38 | [It's Tricky](https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 3:03 |
 | 39 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 |

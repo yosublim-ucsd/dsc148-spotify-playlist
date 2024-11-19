@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Skott
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,334 likes - 129 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,339 likes - 129 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

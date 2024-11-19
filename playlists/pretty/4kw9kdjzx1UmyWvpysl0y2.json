@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125716,
+  "num_followers": 125710,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATUjG0+lMBetD3Pxqn/VXRPAUKLwtp",
+  "snapshot_id": "AAATUw3KzZGxI+HNs3+tOYOwob3nAu7m",
   "tracks": [
+    {
+      "added_at": "2024-11-18 17:33:51",
+      "album": {
+        "name": "You Want Me (VIP)",
+        "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 285517,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is"
+    },
     {
       "added_at": "2024-11-15 14:11:48",
       "album": {

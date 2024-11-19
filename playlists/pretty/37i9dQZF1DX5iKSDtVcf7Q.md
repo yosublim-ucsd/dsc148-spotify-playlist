@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,404 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,459 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 31 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 32 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 33 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
-| 34 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 |
+| 34 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 35 | [Raise 'Em Up](https://open.spotify.com/track/3YimpODfNhxj3rN81v4WvE) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:04 |
-| 36 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
+| 36 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 |
 | 37 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
 | 38 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
 | 39 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:03 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 91 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:28 |
 | 92 | [You In ‘85](https://open.spotify.com/track/114dKPgEs8bz4KF0mFjncb) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Go Down Singin'](https://open.spotify.com/album/4igW8o6tsKLni90BATzTYq) | 3:25 |
 | 93 | [Only In America](https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:28 |
-| 94 | [Summertime](https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:26 |
+| 94 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |
 | 95 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
 | 96 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 |
-| 97 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |
+| 97 | [Summertime](https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:26 |
 | 98 | [Red Light](https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'm About To Come Alive](https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y) | 4:06 |
 | 99 | [Hometown](https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:24 |
 | 100 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 |

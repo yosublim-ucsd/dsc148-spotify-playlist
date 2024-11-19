@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-862 songs - 2 day 1 hr 4 min
+863 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 | 2024-03-23 |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-18 | 2023-08-20 |
+| [You Want Me](https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me \(VIP\)](https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8) | 4:45 | 2024-11-18 |  |
 | [You Want Me](https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me](https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V) | 4:45 | 2024-03-13 | 2024-06-01 |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 | 2022-09-07 |

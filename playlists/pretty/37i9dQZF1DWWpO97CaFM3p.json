@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1021991,
+  "num_followers": 1021982,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 169467,
       "name": "Spotless (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "State Lines",
+      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 134400,
       "name": "Never Going Back Again - 2004 Remaster",
       "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "State Lines",
-      "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Stop Stealing The Covers!",
         "url": "https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 197360,
       "name": "Home",
       "url": "https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "First Collection 2006-2009",
-        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Mykonos",
-      "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 268455,
       "name": "Only",
       "url": "https://open.spotify.com/track/1GxNPd5r7D1zChEMuMhue0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "First Collection 2006-2009",
+        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Sierra Vista",
-        "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Sierra Vista",
-      "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Sierra Vista",
+        "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Sierra Vista",
+      "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Touch the Sky (Welcome Home) - EP",
-        "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 287393,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Foxwarren",
         "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 260090,
       "name": "Sunset Canyon",
       "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Touch the Sky (Welcome Home) - EP",
+        "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 287393,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Smoke On the Highway",
-      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Smoke On the Highway",
+      "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1843,22 +1843,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "One Less Question",
-        "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
+        "name": "Drivin (feat. Field Medic)",
+        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
         },
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
         }
       ],
-      "duration_ms": 190866,
-      "name": "One Less Question",
-      "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
+      "duration_ms": 207500,
+      "name": "Drivin (feat. Field Medic)",
+      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1879,22 +1879,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Drivin (feat. Field Medic)",
-        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
+        "name": "One Less Question",
+        "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         },
         {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Drivin (feat. Field Medic)",
-      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
+      "duration_ms": 190866,
+      "name": "One Less Question",
+      "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     }
   ],
   "unique_name": "wanderlust",

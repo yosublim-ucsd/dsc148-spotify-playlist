@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Becky G nos inspira 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,391 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,370 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 43 | [Ansiedad](https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:46 |
 | 44 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 |
 | 45 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 |
-| 46 | [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 |
-| 47 | [Ni Una Más](https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Ni Una Más](https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU) | 3:28 |
+| 46 | [Ni Una Más](https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Ni Una Más](https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU) | 3:28 |
+| 47 | [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 |
 | 48 | [Ella](https://open.spotify.com/track/3eyJFrhS2al1tOzcrcG1P0) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Ella](https://open.spotify.com/album/7oEDkIqAUayKJOwV9S9wwh) | 2:54 |
 | 49 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 50 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |

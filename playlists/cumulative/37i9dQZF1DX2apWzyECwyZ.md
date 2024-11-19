@@ -4,7 +4,7 @@
 
 > Benito's greatest hits, los mejores hits del conejo.
 
-164 songs - 10 hr 25 min
+166 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [<3](https://open.spotify.com/track/4MZSqgwlE71CWZ6qQ3gkKm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:37 | 2022-05-06 |  |
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2022-05-06 |  |
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-06-04 |  |
+| [ADIVINO](https://open.spotify.com/track/0eeX8L0DWvGth1F6xVkvv7) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 4:38 | 2024-11-18 |  |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-06 |  |
 | [Ahora Me Llama \- Remix](https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Ahora Me Llama \(Remix\)](https://open.spotify.com/album/3QL5SDLpu79KrQAW3jhJ8y) | 4:11 | 2022-05-06 | 2023-07-01 |
 | [Amantes de una Noche](https://open.spotify.com/track/2iCOdoyDmWG3hWkbtH1KB2) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amantes de una Noche](https://open.spotify.com/album/0CndR1d5UG1pNPyORsIZPC) | 3:45 | 2022-05-06 | 2023-07-01 |
@@ -124,6 +125,7 @@
 | [Puesto Pa' Guerrial](https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:10 | 2022-05-06 | 2023-07-01 |
 | [Que Malo](https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:47 | 2022-05-06 |  |
 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 | 2022-05-06 |  |
+| [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-11-18 |  |
 | [RLNDT](https://open.spotify.com/track/6pZHZndlo57dPCYnvlYFOE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 4:44 | 2022-05-06 |  |
 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 | 2022-05-06 | 2023-07-01 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2022-05-06 |  |

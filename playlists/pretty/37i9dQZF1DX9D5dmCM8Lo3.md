@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,907 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,021 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 41 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 42 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 43 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
-| 44 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
-| 45 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
+| 44 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
+| 45 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
 | 46 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
 | 47 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
 | 48 | [Angel](https://open.spotify.com/track/7GdAzd0WQypZOd7pcwUhxf) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Angel](https://open.spotify.com/album/5dkVASayX6wbSxD3ZWWsuB) | 2:17 |

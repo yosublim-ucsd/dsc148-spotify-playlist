@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,713 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,807 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

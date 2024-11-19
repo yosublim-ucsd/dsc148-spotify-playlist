@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 52127,
+  "num_followers": 52151,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -228,17 +228,21 @@
       "added_at": "2024-11-12 14:23:24",
       "album": {
         "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
       "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
         {
           "name": "Los Reyes Del Chamame",
           "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+      "duration_ms": 120946,
+      "name": "Las Tres Marias",
+      "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -276,21 +280,17 @@
       "added_at": "2024-11-12 14:23:24",
       "album": {
         "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
       "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
         {
           "name": "Los Reyes Del Chamame",
           "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 120946,
-      "name": "Las Tres Marias",
-      "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Consagraci\u00f3n del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ofelia",
-          "url": "https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf"
-        },
-        {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 197283,
       "name": "Enero",
       "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Consagraci\u00f3n del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ofelia",
+          "url": "https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf"
+        },
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Su Poes\u00eda y Su Voz, Vol. 2",
         "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 167400,
       "name": "De P\u00e1jaros y Campanas",
       "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Con Alma y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Los Dioses del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
-      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas",
+          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Bien picadito",
+      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
       },
       "artists": [
         {
-          "name": "Los Taitas",
-          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
         }
       ],
-      "duration_ms": 168666,
-      "name": "Bien picadito",
-      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1480,22 +1480,6 @@
       },
       "artists": [
         {
-          "name": "Mario Romero canta Espindola Escobar",
-          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Felicidades madrecita",
-      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
           "name": "Toto Maidana",
           "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
@@ -1528,13 +1512,13 @@
       },
       "artists": [
         {
-          "name": "Los hermanos Cena",
-          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+          "name": "Mario Romero canta Espindola Escobar",
+          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
         }
       ],
-      "duration_ms": 110706,
-      "name": "Camino a las cuchillas",
-      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+      "duration_ms": 160893,
+      "name": "Felicidades madrecita",
+      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1551,6 +1535,22 @@
       "duration_ms": 129693,
       "name": "La Flecha",
       "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

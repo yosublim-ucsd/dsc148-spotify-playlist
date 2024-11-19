@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,959 likes - 206 songs - 9 hr 0 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,948 likes - 206 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 205 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 |
 | 206 | [Feel That Way](https://open.spotify.com/track/0UTnGfNzQdPTZBnvMmbcU1) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Feel That Way](https://open.spotify.com/album/26OiBfnDOpA0xrG0Sjzqzr) | 2:50 |
 
-Snapshot ID: `AAAbijEJvjxzB7RQ3+iEODM0X0cNpn6l`
+Snapshot ID: `AAAbi1M5QKRfGnov2dRY0FIuvnWr778z`

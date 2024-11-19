@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2551703,
+  "num_followers": 2551750,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
-      },
-      "artists": [
-        {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "The Essential Bangles",
-        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 238026,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "...But Seriously (2016 Remaster)",
         "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 275986,
       "name": "Do You Remember? - 2016 Remaster",
       "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "The Essential Bangles",
+        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 238026,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
+        "name": "Now And Forever",
+        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Even the Nights Are Better",
+      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Now And Forever",
-        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Even the Nights Are Better",
-      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -751,22 +767,6 @@
       "duration_ms": 241400,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/5mwzpzRue1SBWwrbbhXfbf"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2024-07-15 17:18:57",

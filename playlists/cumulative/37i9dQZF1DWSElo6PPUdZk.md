@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-144 songs - 7 hr 28 min
+145 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Big Loss](https://open.spotify.com/track/76voghdL792BAy9YwEKfzw) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Big Loss](https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP) | 2:45 | 2024-10-10 | 2024-11-16 |
 | [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2023-03-18 | 2024-09-12 |
 | [Blackia](https://open.spotify.com/track/4iqXGZnemslGnA0LvUpgdc) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Blackia](https://open.spotify.com/album/1TY5R1wEFyeQyPeZVxpcLG) | 2:12 | 2024-11-05 |  |
+| [Bomb Girls](https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jashan Heer](https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Bomb Girls](https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT) | 2:43 | 2024-11-18 |  |
 | [Broken Glass](https://open.spotify.com/track/2c8Zm8l8xL2MIscCLrgHNA) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV), [SHAYE](https://open.spotify.com/artist/5bPXhWvQooHOtG2BpoK6Da) | [Broken Glass](https://open.spotify.com/album/1BtsJ1KnKpCjoTYud3z7EU) | 2:20 | 2023-03-18 | 2023-10-10 |
 | [Chaa](https://open.spotify.com/track/2DCXCHRfNg15v6xKNXkWms) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [KV Singh](https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF) | [Chaa](https://open.spotify.com/album/0uubOv6pDL9ucUZVuZEtNM) | 3:11 | 2024-10-24 |  |
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
@@ -92,7 +93,7 @@
 | [Limitless Pyar \- Live](https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:42 | 2024-10-21 | 2024-11-07 |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 | 2024-10-09 |
-| [Main Teri Hoyi](https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO) | [Amaan Bhullar](https://open.spotify.com/artist/3k6eT2Sr5ov9qiwZZ7i9wK) | [Main Teri Hoyi](https://open.spotify.com/album/4t3wYh3M30mRw48ZFYYqPj) | 3:16 | 2024-09-11 |  |
+| [Main Teri Hoyi](https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO) | [Amaan Bhullar](https://open.spotify.com/artist/3k6eT2Sr5ov9qiwZZ7i9wK) | [Main Teri Hoyi](https://open.spotify.com/album/4t3wYh3M30mRw48ZFYYqPj) | 3:16 | 2024-09-11 | 2024-11-19 |
 | [Majha Malwa](https://open.spotify.com/track/3SJTSI4YYcAqHPxwoTzuPc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Majha Malwa](https://open.spotify.com/album/3VBpU3AUhN2OLsuGBmuLNp) | 2:53 | 2024-10-04 |  |
 | [Majhe Wale](https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Majhe Wale](https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z) | 3:16 | 2023-03-18 |  |
 | [Malang](https://open.spotify.com/track/3r2EmDI1TcSZjDQaX27y9v) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Malang](https://open.spotify.com/album/7BzIYcRBhBeLbFHPMZ7L6T) | 3:43 | 2024-11-15 |  |

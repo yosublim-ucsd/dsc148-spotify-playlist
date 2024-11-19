@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Linkin Park
 
-1,466 songs - 3 day 12 hr 16 min
+1,467 songs - 3 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Feel Like Me](https://open.spotify.com/track/4dft8CZAm1yURC9weV6o7N) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Feel Like Me](https://open.spotify.com/album/79y7ORz2Q77AnlJnNaS46K) | 2:33 | 2023-09-28 | 2023-10-06 |
 | [Feeling Grey](https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [i'll remember you for the same feeling you gave me as i slept](https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm) | 4:32 | 2024-02-15 | 2024-02-23 |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-12 | 2023-11-24 |
+| [Fighting For](https://open.spotify.com/track/6K7PFQKztExvMosbnlpOQD) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Last Legends](https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq) | 2:29 | 2024-11-14 |  |
 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 | 2023-04-20 | 2024-01-19 |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-23 | 2023-04-24 |
 | [Figure Me Out](https://open.spotify.com/track/052z8v5IXghAiYr4jLkxnY) | [weknewnothing](https://open.spotify.com/artist/15o5hdbD9oSZ1qJzdbiQFU), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Figure Me Out](https://open.spotify.com/album/4ghBJ0vNOODmJl2LM8Dv1P) | 2:39 | 2023-12-14 | 2024-01-05 |
@@ -677,7 +678,7 @@
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2024-11-15 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 | 2024-01-19 |
 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-07 | 2024-06-07 |
-| [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 | 2024-09-19 |  |
+| [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 | 2024-09-19 | 2024-11-19 |
 | [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-11-02 | 2023-11-17 |
 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 | 2024-01-25 | 2024-03-01 |
 | [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 | 2024-10-17 |  |

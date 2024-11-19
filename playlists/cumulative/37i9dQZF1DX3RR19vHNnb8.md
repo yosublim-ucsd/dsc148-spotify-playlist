@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-201 songs - 10 hr 1 min
+202 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [OASiS](https://open.spotify.com/track/0SPm4WmHYI0kVTQkVOFuOT) | [ENAYBLVCK](https://open.spotify.com/artist/0k1ZUfmQx23y05KSh70PqN), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Victony](https://open.spotify.com/artist/5j5hepOHiuETlrtBTEOJoh) | [OASiS](https://open.spotify.com/album/5x1lIEmbgSzLMjX5WHTuSa) | 3:39 | 2023-05-11 | 2023-05-27 |
 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 | 2023-11-17 | 2024-04-19 |
 | [Ojugom Isi](https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ojugom Isi](https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T) | 2:41 | 2024-05-24 | 2024-11-17 |
+| [OneEighteen](https://open.spotify.com/track/6pu3HJGsDUJCwQxPNPSFNu) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:42 | 2024-11-15 |  |
 | [Open The Front Door](https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP) | [Omotee](https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Open The Front Door](https://open.spotify.com/album/3s6R1QUm992adma0tFufO6) | 2:49 | 2023-04-14 | 2023-04-21 |
 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 | 2024-02-02 |  |
 | [Pain Interlude](https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Pain Interlude](https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx) | 2:41 | 2023-03-03 | 2023-10-31 |
@@ -204,7 +205,7 @@
 | [WHO DAT BOY?](https://open.spotify.com/track/7eYzITceGZPFDeCsmtyliU) | [FREE THE YOUTH](https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [WHO DAT BOY?](https://open.spotify.com/album/4pci4uiNrp6bpkUlujITrd) | 1:55 | 2024-04-19 | 2024-04-26 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 |  |
 | [Wid It](https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wid It](https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM) | 3:01 | 2021-08-20 | 2023-02-24 |
-| [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 | 2024-02-16 |  |
+| [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 | 2024-02-16 | 2024-11-19 |
 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 | 2021-06-07 | 2023-03-08 |
 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-02-11 | 2023-10-18 |
 | [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 | 2023-08-10 |  |

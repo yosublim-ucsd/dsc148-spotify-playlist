@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Tagne f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,862 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,959 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

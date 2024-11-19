@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 165787,
+  "num_followers": 165839,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -419,26 +419,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "El Gavil\u00e1n",
-        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         },
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 175295,
-      "name": "El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -459,22 +455,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
       "artists": [
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "LA PEOPLE II",
         "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 141064,
       "name": "LA PEOPLE II",
       "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Pal Amor Soy Malo (Remix)",
         "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 156000,
       "name": "Pal Amor Soy Malo - Remix",
       "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Ando Enfocado",
-        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Ando Enfocado",
-      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1623,22 +1599,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Anda Bien el Nene",
-        "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
+        "name": "Ando Enfocado",
+        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 177023,
-      "name": "Anda Bien el Nene",
-      "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
+      "duration_ms": 184106,
+      "name": "Ando Enfocado",
+      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1655,6 +1635,26 @@
       "duration_ms": 172297,
       "name": "Gente De Accionar",
       "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Anda Bien el Nene",
+        "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "Anda Bien el Nene",
+      "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Ya Pedo Qui\u00e9n Sabe",
-        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 191284,
-      "name": "Ya Pedo Qui\u00e9n Sabe",
-      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 152392,
       "name": "Iniciales SV",
       "url": "https://open.spotify.com/track/3cVI9zik0Se9ursMgFBw6R"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Ya Pedo Qui\u00e9n Sabe",
+        "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191284,
+      "name": "Ya Pedo Qui\u00e9n Sabe",
+      "url": "https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Solitario (En Vivo)",
-        "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 208966,
-      "name": "Solitario - En Vivo",
-      "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Suspiros (En Vivo)",
         "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
       },
@@ -1991,22 +1971,22 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Borracho Enamorado",
-        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
+        "name": "Solitario (En Vivo)",
+        "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 152776,
-      "name": "Borracho Enamorado",
-      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+      "duration_ms": 208966,
+      "name": "Solitario - En Vivo",
+      "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2023,6 +2003,26 @@
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Borracho Enamorado",
+        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 152776,
+      "name": "Borracho Enamorado",
+      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Empat\u00eda",
-        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 244219,
-      "name": "Empat\u00eda",
-      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "Simbolo Sexual",
         "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 193258,
       "name": "Qu\u00e9date Beb\u00e9",
       "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
         "name": "A Chillar a otra parte",
         "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 213066,
       "name": "A Chillar a otra parte",
       "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2507,6 +2507,26 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2024-08-14 08:22:54",
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -2523,22 +2543,6 @@
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
-    },
-    {
-      "added_at": "2024-08-14 08:22:54",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-08-14 08:22:54",
@@ -2563,22 +2567,18 @@
     {
       "added_at": "2024-08-14 08:22:54",
       "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-08-14 08:22:54",

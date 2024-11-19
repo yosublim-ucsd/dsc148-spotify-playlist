@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,044 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,052 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 39 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
 | 40 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 |
 | 41 | [a colored pencil](https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO) | [soyo Jeong](https://open.spotify.com/artist/7dLpL1oQcGgZzQdhbJIpwR) | [a colored pencil](https://open.spotify.com/album/2C6ViIZSGgYQRnCrK3nDel) | 5:01 |
-| 42 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 |
-| 43 | [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 |
+| 42 | [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 |
+| 43 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 |
 | 44 | [For my little one \(with Jeon sohyeon\)](https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon sohyeon](https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:18 |
 | 45 | [Bad \(feat\. Ji ahn\)](https://open.spotify.com/track/17NkIhmtTSLJe36c4avYpd) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn), [Ji ahn](https://open.spotify.com/artist/7p5TxIRVe3keYFDbXp5frm) | [illusion](https://open.spotify.com/album/2maGAQ0vI0etyfBhxDd7oq) | 2:36 |
 | 46 | [Storing Nights](https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:59 |
-| 47 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 |
-| 48 | [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 |
+| 47 | [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 |
+| 48 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 |
 | 49 | [dearmybaby \(with Kim Boo Kyung\)](https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Kim Boo Kyung](https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd) | [dearmybaby](https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW) | 4:09 |
 | 50 | [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 |
 

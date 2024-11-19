@@ -831,22 +831,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Bo jeste\u015b Ty",
-        "url": "https://open.spotify.com/album/1lFAYej9AewWMbsU9mLeEr"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 264096,
-      "name": "Bo jeste\u015b Ty",
-      "url": "https://open.spotify.com/track/07MYPKmvEpD0qPz6pZUzZc"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "Pressure Love",
         "url": "https://open.spotify.com/album/6TzdVnJ0nbqS2citnEtEgF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 208850,
       "name": "Pressure Love",
       "url": "https://open.spotify.com/track/6A8kyzSMSsVulz9P2HdGPf"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "Bo jeste\u015b Ty",
+        "url": "https://open.spotify.com/album/1lFAYej9AewWMbsU9mLeEr"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 264096,
+      "name": "Bo jeste\u015b Ty",
+      "url": "https://open.spotify.com/track/07MYPKmvEpD0qPz6pZUzZc"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "What's The Deal With Time?",
-        "url": "https://open.spotify.com/album/7t79xw73gsEgUQNUoA5VPN"
-      },
-      "artists": [
-        {
-          "name": "Oxford Drama",
-          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
-        }
-      ],
-      "duration_ms": 276774,
-      "name": "Not My Friend",
-      "url": "https://open.spotify.com/track/1Ec1Qgc1G0raNz668fmyfj"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "In Search of a Better Tomorrow",
         "url": "https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 344250,
       "name": "Strange Love",
       "url": "https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "What's The Deal With Time?",
+        "url": "https://open.spotify.com/album/7t79xw73gsEgUQNUoA5VPN"
+      },
+      "artists": [
+        {
+          "name": "Oxford Drama",
+          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
+        }
+      ],
+      "duration_ms": 276774,
+      "name": "Not My Friend",
+      "url": "https://open.spotify.com/track/1Ec1Qgc1G0raNz668fmyfj"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Alb\u00f3\u00f3m",
-        "url": "https://open.spotify.com/album/7asBINo5T1lGQjGLpjCh0U"
-      },
-      "artists": [
-        {
-          "name": "Liroy",
-          "url": "https://open.spotify.com/artist/1YNJc03EgclUK2rnLX7tE5"
-        }
-      ],
-      "duration_ms": 176801,
-      "name": "Korrba",
-      "url": "https://open.spotify.com/track/46v8FREem8OfRjJ3cYSSlg"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "Reflections of Purple Sun",
         "url": "https://open.spotify.com/album/3Sj1uOUTM1giGUXuoME25Z"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 415897,
       "name": "Boratka",
       "url": "https://open.spotify.com/track/59ehEi9Q9HwZG10uveIQiD"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "Alb\u00f3\u00f3m",
+        "url": "https://open.spotify.com/album/7asBINo5T1lGQjGLpjCh0U"
+      },
+      "artists": [
+        {
+          "name": "Liroy",
+          "url": "https://open.spotify.com/artist/1YNJc03EgclUK2rnLX7tE5"
+        }
+      ],
+      "duration_ms": 176801,
+      "name": "Korrba",
+      "url": "https://open.spotify.com/track/46v8FREem8OfRjJ3cYSSlg"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/02v1WMuFSUcQOv0N9dcI9l"
+        "name": "Naucz mnie ta\u0144czy\u0107 (2CD)",
+        "url": "https://open.spotify.com/album/1QB4qGRrz9dtLqVN3YRG3A"
       },
       "artists": [
         {
-          "name": "Oxford Drama",
-          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
         }
       ],
-      "duration_ms": 202248,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/1Iu2huEqYNP3ZE2VEehslS"
+      "duration_ms": 320235,
+      "name": "Nie by\u0142o to pisane nam",
+      "url": "https://open.spotify.com/track/5q1adUKVu2RVX6sruKQRe3"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/02v1WMuFSUcQOv0N9dcI9l"
+      },
+      "artists": [
+        {
+          "name": "Oxford Drama",
+          "url": "https://open.spotify.com/artist/0T0rADxhl1CLxhSS3t4FJr"
+        }
+      ],
+      "duration_ms": 202248,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1Iu2huEqYNP3ZE2VEehslS"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
         "name": "blokowiska",
         "url": "https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 202930,
       "name": "Piotru\u015b Pan",
       "url": "https://open.spotify.com/track/1HRrA8dOtA9nb0o4B1bqw8"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
-        "name": "Naucz mnie ta\u0144czy\u0107 (2CD)",
-        "url": "https://open.spotify.com/album/1QB4qGRrz9dtLqVN3YRG3A"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 320235,
-      "name": "Nie by\u0142o to pisane nam",
-      "url": "https://open.spotify.com/track/5q1adUKVu2RVX6sruKQRe3"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Chyba",
-        "url": "https://open.spotify.com/album/4BBMBgxMEAiA4u5IjaLeoY"
-      },
-      "artists": [
-        {
-          "name": "Patryk Pietrzak",
-          "url": "https://open.spotify.com/artist/7462Bb4cx4Z0lGEbvAHC5D"
-        }
-      ],
-      "duration_ms": 112792,
-      "name": "Chyba",
-      "url": "https://open.spotify.com/track/2m2dWqaz9v8U6g1Qgmhqk9"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "Chowder (Rada Rada)",
         "url": "https://open.spotify.com/album/7AebIjU1tNdqSalWs7bcTp"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 242178,
       "name": "The Leader",
       "url": "https://open.spotify.com/track/5ZtNyzzcqfuCJMfkUQbYL1"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "Chyba",
+        "url": "https://open.spotify.com/album/4BBMBgxMEAiA4u5IjaLeoY"
+      },
+      "artists": [
+        {
+          "name": "Patryk Pietrzak",
+          "url": "https://open.spotify.com/artist/7462Bb4cx4Z0lGEbvAHC5D"
+        }
+      ],
+      "duration_ms": 112792,
+      "name": "Chyba",
+      "url": "https://open.spotify.com/track/2m2dWqaz9v8U6g1Qgmhqk9"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "NA ZAWSZE / film grozy",
-        "url": "https://open.spotify.com/album/4cDEpbybpx1VbNder80m14"
+        "name": "Wyj\u0105 psy",
+        "url": "https://open.spotify.com/album/61g3J9tlWFr262zB3r0up5"
       },
       "artists": [
         {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/68PIzmw7Ox2zjxmnfwHi1G"
+          "name": "nago",
+          "url": "https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6"
         }
       ],
-      "duration_ms": 175793,
-      "name": "NA ZAWSZE / film grozy",
-      "url": "https://open.spotify.com/track/0UazFgX11NliR3MS1SGIiL"
+      "duration_ms": 180042,
+      "name": "Wyj\u0105 psy",
+      "url": "https://open.spotify.com/track/5cpuQ2ApkPH2sM8As5SIiO"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Wyj\u0105 psy",
-        "url": "https://open.spotify.com/album/61g3J9tlWFr262zB3r0up5"
+        "name": "NA ZAWSZE / film grozy",
+        "url": "https://open.spotify.com/album/4cDEpbybpx1VbNder80m14"
       },
       "artists": [
         {
-          "name": "nago",
-          "url": "https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6"
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/68PIzmw7Ox2zjxmnfwHi1G"
         }
       ],
-      "duration_ms": 180042,
-      "name": "Wyj\u0105 psy",
-      "url": "https://open.spotify.com/track/5cpuQ2ApkPH2sM8As5SIiO"
+      "duration_ms": 175793,
+      "name": "NA ZAWSZE / film grozy",
+      "url": "https://open.spotify.com/track/0UazFgX11NliR3MS1SGIiL"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "ch\u0142odniejsze noce",
-        "url": "https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ"
-      },
-      "artists": [
-        {
-          "name": "Seweryn",
-          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "ch\u0142odniejsze noce",
-      "url": "https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "Endorfiny",
         "url": "https://open.spotify.com/album/30DJGj13oLmfoiOpewCZCy"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 249856,
       "name": "Endorfiny",
       "url": "https://open.spotify.com/track/4ZX3OwKiG6BcvomI2IiEzL"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "ch\u0142odniejsze noce",
+        "url": "https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ"
+      },
+      "artists": [
+        {
+          "name": "Seweryn",
+          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "ch\u0142odniejsze noce",
+      "url": "https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Kryszta\u0142",
-        "url": "https://open.spotify.com/album/3sKM6evDALYHYP93O46PNF"
-      },
-      "artists": [
-        {
-          "name": "Kryszta\u0142",
-          "url": "https://open.spotify.com/artist/3tOIHY79OSE2ZdWJ1a74Zc"
-        }
-      ],
-      "duration_ms": 173938,
-      "name": "Zwyk\u0142y cz\u0142owiek",
-      "url": "https://open.spotify.com/track/0q6NZcVOJ459CkbFJYHtsy"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "Nikogo innego",
         "url": "https://open.spotify.com/album/3NK7jgYtRfYvZRuf7sGsc9"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 181828,
       "name": "Nikogo innego",
       "url": "https://open.spotify.com/track/0ewkKcM8MOgKSrxeDmwZ5m"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "Kryszta\u0142",
+        "url": "https://open.spotify.com/album/3sKM6evDALYHYP93O46PNF"
+      },
+      "artists": [
+        {
+          "name": "Kryszta\u0142",
+          "url": "https://open.spotify.com/artist/3tOIHY79OSE2ZdWJ1a74Zc"
+        }
+      ],
+      "duration_ms": 173938,
+      "name": "Zwyk\u0142y cz\u0142owiek",
+      "url": "https://open.spotify.com/track/0q6NZcVOJ459CkbFJYHtsy"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Kryszta\u0142",
-        "url": "https://open.spotify.com/album/3sKM6evDALYHYP93O46PNF"
+        "name": "rozbijam si\u0119",
+        "url": "https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6"
       },
       "artists": [
         {
-          "name": "Kryszta\u0142",
-          "url": "https://open.spotify.com/artist/3tOIHY79OSE2ZdWJ1a74Zc"
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 273854,
-      "name": "Wieloryby",
-      "url": "https://open.spotify.com/track/0o0KlIQFdkIPcViTnpy3vr"
+      "duration_ms": 212368,
+      "name": "rozbijam si\u0119",
+      "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -2447,26 +2447,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "zabi\u0107 drozda",
-        "url": "https://open.spotify.com/album/2V8mYQTjl7JK036LnIP4VF"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        },
-        {
-          "name": "Dawid P\u0142onka",
-          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
-        }
-      ],
-      "duration_ms": 170507,
-      "name": "zabi\u0107 drozda",
-      "url": "https://open.spotify.com/track/2dCX3CWItIlLZcaJ13nMSN"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "To to",
         "url": "https://open.spotify.com/album/1pVXmg9bNqN5SimS0Yb92b"
       },
@@ -2483,18 +2463,38 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "rozbijam si\u0119",
-        "url": "https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6"
+        "name": "Kryszta\u0142",
+        "url": "https://open.spotify.com/album/3sKM6evDALYHYP93O46PNF"
       },
       "artists": [
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Kryszta\u0142",
+          "url": "https://open.spotify.com/artist/3tOIHY79OSE2ZdWJ1a74Zc"
         }
       ],
-      "duration_ms": 212368,
-      "name": "rozbijam si\u0119",
-      "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
+      "duration_ms": 273854,
+      "name": "Wieloryby",
+      "url": "https://open.spotify.com/track/0o0KlIQFdkIPcViTnpy3vr"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "zabi\u0107 drozda",
+        "url": "https://open.spotify.com/album/2V8mYQTjl7JK036LnIP4VF"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        },
+        {
+          "name": "Dawid P\u0142onka",
+          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
+        }
+      ],
+      "duration_ms": 170507,
+      "name": "zabi\u0107 drozda",
+      "url": "https://open.spotify.com/track/2dCX3CWItIlLZcaJ13nMSN"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -2999,8 +2999,8 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "KROKI",
-        "url": "https://open.spotify.com/album/1H9vkRhPNuBQnUN2pYxnVA"
+        "name": "URBAN",
+        "url": "https://open.spotify.com/album/3aJ5I5LfAzZhCx3bVrApun"
       },
       "artists": [
         {
@@ -3008,13 +3008,13 @@
           "url": "https://open.spotify.com/artist/6BGDoR7tVkiNpbzlgh67Wa"
         },
         {
-          "name": "Olek",
-          "url": "https://open.spotify.com/artist/42fPcPZZSEHpPfE8ZGgQzZ"
+          "name": "\u015bwita\u0142a",
+          "url": "https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ"
         }
       ],
-      "duration_ms": 249600,
-      "name": "KROKI",
-      "url": "https://open.spotify.com/track/2qws3VLj5YiBR7GNCfCpis"
+      "duration_ms": 154666,
+      "name": "URBAN",
+      "url": "https://open.spotify.com/track/3Br2MA3CMGzayu5HXA3nlR"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3119,8 +3119,8 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "URBAN",
-        "url": "https://open.spotify.com/album/3aJ5I5LfAzZhCx3bVrApun"
+        "name": "KROKI",
+        "url": "https://open.spotify.com/album/1H9vkRhPNuBQnUN2pYxnVA"
       },
       "artists": [
         {
@@ -3128,13 +3128,13 @@
           "url": "https://open.spotify.com/artist/6BGDoR7tVkiNpbzlgh67Wa"
         },
         {
-          "name": "\u015bwita\u0142a",
-          "url": "https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ"
+          "name": "Olek",
+          "url": "https://open.spotify.com/artist/42fPcPZZSEHpPfE8ZGgQzZ"
         }
       ],
-      "duration_ms": 154666,
-      "name": "URBAN",
-      "url": "https://open.spotify.com/track/3Br2MA3CMGzayu5HXA3nlR"
+      "duration_ms": 249600,
+      "name": "KROKI",
+      "url": "https://open.spotify.com/track/2qws3VLj5YiBR7GNCfCpis"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Szum",
-        "url": "https://open.spotify.com/album/40kEn1ROSVu5X4jde8lnW3"
-      },
-      "artists": [
-        {
-          "name": "Cz\u0142owiek",
-          "url": "https://open.spotify.com/artist/2wWnXjK5gmmoOsefK1mkrE"
-        }
-      ],
-      "duration_ms": 234170,
-      "name": "Nowy Gotham",
-      "url": "https://open.spotify.com/track/4l7mKlMhEZY6EX5pvbEqiz"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "join the fun with inner self",
         "url": "https://open.spotify.com/album/4I3yGEsC7Q2zgh9YxTK9V7"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 200000,
       "name": "it's just sometimes",
       "url": "https://open.spotify.com/track/54IgzvmYcm52pePiNyxqcW"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "Szum",
+        "url": "https://open.spotify.com/album/40kEn1ROSVu5X4jde8lnW3"
+      },
+      "artists": [
+        {
+          "name": "Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/2wWnXjK5gmmoOsefK1mkrE"
+        }
+      ],
+      "duration_ms": 234170,
+      "name": "Nowy Gotham",
+      "url": "https://open.spotify.com/track/4l7mKlMhEZY6EX5pvbEqiz"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3335,18 +3335,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "WIND",
-        "url": "https://open.spotify.com/album/6ZHBQZxu92yNRLj5593bEC"
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/75yAW0KdtsTZXOOA3K25ov"
       },
       "artists": [
         {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+          "name": "Vermona Kids",
+          "url": "https://open.spotify.com/artist/3KSJhu27TslD241u22KSb1"
         }
       ],
-      "duration_ms": 196725,
-      "name": "Wind, Pt. 1",
-      "url": "https://open.spotify.com/track/1YSPSYutEzADZwa1j6jSwc"
+      "duration_ms": 258043,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7eYQP3ZcdtZ5FXnSjd5kF0"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3367,18 +3367,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Szum",
-        "url": "https://open.spotify.com/album/40kEn1ROSVu5X4jde8lnW3"
+        "name": "WIND",
+        "url": "https://open.spotify.com/album/6ZHBQZxu92yNRLj5593bEC"
       },
       "artists": [
         {
-          "name": "Cz\u0142owiek",
-          "url": "https://open.spotify.com/artist/2wWnXjK5gmmoOsefK1mkrE"
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
         }
       ],
-      "duration_ms": 220150,
-      "name": "Lewitowanie",
-      "url": "https://open.spotify.com/track/2YxjVYJKj0ayQWZsz3JI5L"
+      "duration_ms": 196725,
+      "name": "Wind, Pt. 1",
+      "url": "https://open.spotify.com/track/1YSPSYutEzADZwa1j6jSwc"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3399,22 +3399,6 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/75yAW0KdtsTZXOOA3K25ov"
-      },
-      "artists": [
-        {
-          "name": "Vermona Kids",
-          "url": "https://open.spotify.com/artist/3KSJhu27TslD241u22KSb1"
-        }
-      ],
-      "duration_ms": 258043,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7eYQP3ZcdtZ5FXnSjd5kF0"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
         "name": "ROLLING WITH THE OUTER WORLD",
         "url": "https://open.spotify.com/album/3vgatJ9CkofNaGpscWeUUg"
       },
@@ -3427,6 +3411,22 @@
       "duration_ms": 182073,
       "name": "CAN YOU FEEL THE BLISS?",
       "url": "https://open.spotify.com/track/0iClgPIDkpsF9xzC3kj70O"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
+        "name": "Szum",
+        "url": "https://open.spotify.com/album/40kEn1ROSVu5X4jde8lnW3"
+      },
+      "artists": [
+        {
+          "name": "Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/2wWnXjK5gmmoOsefK1mkrE"
+        }
+      ],
+      "duration_ms": 220150,
+      "name": "Lewitowanie",
+      "url": "https://open.spotify.com/track/2YxjVYJKj0ayQWZsz3JI5L"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3507,6 +3507,22 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/1GY8coc6bOr1WVvZaJUQRM"
+      },
+      "artists": [
+        {
+          "name": "Vermona Kids",
+          "url": "https://open.spotify.com/artist/3KSJhu27TslD241u22KSb1"
+        }
+      ],
+      "duration_ms": 240258,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/5oqkdc3o7HpnSMn7gFzdt8"
+    },
+    {
+      "added_at": "2024-09-12 09:23:14",
+      "album": {
         "name": "MIXTAPE",
         "url": "https://open.spotify.com/album/4GgeAIhLYSG9mq4iKF5z0p"
       },
@@ -3523,22 +3539,6 @@
       "duration_ms": 208000,
       "name": "SO CAUGHT",
       "url": "https://open.spotify.com/track/4Eg3WwxoDutabyOTE7byM1"
-    },
-    {
-      "added_at": "2024-09-12 09:23:14",
-      "album": {
-        "name": "Silver Tongue",
-        "url": "https://open.spotify.com/album/1GY8coc6bOr1WVvZaJUQRM"
-      },
-      "artists": [
-        {
-          "name": "Vermona Kids",
-          "url": "https://open.spotify.com/artist/3KSJhu27TslD241u22KSb1"
-        }
-      ],
-      "duration_ms": 240258,
-      "name": "Silver Tongue",
-      "url": "https://open.spotify.com/track/5oqkdc3o7HpnSMn7gFzdt8"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3607,18 +3607,22 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "Niech \u017cyje nam",
-        "url": "https://open.spotify.com/album/5CJIQ0sX2uTq4yg7hFyshD"
+        "name": "SANSARA",
+        "url": "https://open.spotify.com/album/2kKSv0fHWFglKJXt8Bimwt"
       },
       "artists": [
         {
           "name": "shane.",
           "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
+        },
+        {
+          "name": "Elsi",
+          "url": "https://open.spotify.com/artist/5m6Lt2ykEfTQaBoxcLzgvU"
         }
       ],
-      "duration_ms": 166668,
-      "name": "Niech \u017cyje nam",
-      "url": "https://open.spotify.com/track/6K9U6NEgyl7XM0UWS2P1nU"
+      "duration_ms": 239001,
+      "name": "SANSARA",
+      "url": "https://open.spotify.com/track/1sSOr4gxmrE0yF5V6pVFmP"
     },
     {
       "added_at": "2024-09-12 09:23:14",
@@ -3671,22 +3675,18 @@
     {
       "added_at": "2024-09-12 09:23:14",
       "album": {
-        "name": "SANSARA",
-        "url": "https://open.spotify.com/album/2kKSv0fHWFglKJXt8Bimwt"
+        "name": "Niech \u017cyje nam",
+        "url": "https://open.spotify.com/album/5CJIQ0sX2uTq4yg7hFyshD"
       },
       "artists": [
         {
           "name": "shane.",
           "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
-        },
-        {
-          "name": "Elsi",
-          "url": "https://open.spotify.com/artist/5m6Lt2ykEfTQaBoxcLzgvU"
         }
       ],
-      "duration_ms": 239001,
-      "name": "SANSARA",
-      "url": "https://open.spotify.com/track/1sSOr4gxmrE0yF5V6pVFmP"
+      "duration_ms": 166668,
+      "name": "Niech \u017cyje nam",
+      "url": "https://open.spotify.com/track/6K9U6NEgyl7XM0UWS2P1nU"
     },
     {
       "added_at": "2024-09-12 09:23:14",

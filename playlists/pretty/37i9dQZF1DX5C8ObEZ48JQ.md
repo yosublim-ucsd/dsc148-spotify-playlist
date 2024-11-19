@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G?si=rM\-9M\-\_LRumV7XBWJ\-50Ig">Saràh Phenom</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,515 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,533 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

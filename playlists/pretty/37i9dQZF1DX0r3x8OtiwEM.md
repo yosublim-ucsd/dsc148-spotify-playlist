@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,847 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,977 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 53 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 54 | [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 |
 | 55 | [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 |
-| 56 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO) | 6:45 |
-| 57 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
+| 56 | [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 |
+| 57 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO) | 6:45 |
 | 58 | [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 |
-| 59 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
-| 60 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
+| 59 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
+| 60 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
 
 Snapshot ID: `ZzbVUAAAAABiYBHvzBiCu0zimlgwQZ5R`

@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with Egzod",
-  "num_followers": 472308,
+  "num_followers": 472285,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Never Fall",
+        "url": "https://open.spotify.com/album/62QNsprfPKxxwXpGY2Hjab"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "BOTCASH",
+          "url": "https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Never Fall",
+      "url": "https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1179,30 +1203,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Never Fall",
-        "url": "https://open.spotify.com/album/62QNsprfPKxxwXpGY2Hjab"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "BOTCASH",
-          "url": "https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Never Fall",
-      "url": "https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/11ZzN3XPH3M2DuLLAthWxR"
       },
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Just A Mirage",
+        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "ILLUSIO",
+          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Just A Mirage",
+      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "On Forever",
         "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 209556,
       "name": "On Forever",
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Just A Mirage",
-        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "ILLUSIO",
-          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Just A Mirage",
-      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1343,6 +1343,30 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "North Star",
+        "url": "https://open.spotify.com/album/7eP2OC3vqDPo4LxhKG4aZj"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 201425,
+      "name": "Heart Don't Work Like That",
+      "url": "https://open.spotify.com/track/2O3k8jEGLZNOJzz5siJZTt"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Meant To Be Lonely",
         "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
       },
@@ -1379,30 +1403,6 @@
       "duration_ms": 165600,
       "name": "EDGE - Blanke Remix",
       "url": "https://open.spotify.com/track/3NQinJIWliMnzomwtQzVNR"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "North Star",
-        "url": "https://open.spotify.com/album/7eP2OC3vqDPo4LxhKG4aZj"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 201425,
-      "name": "Heart Don't Work Like That",
-      "url": "https://open.spotify.com/track/2O3k8jEGLZNOJzz5siJZTt"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1807,6 +1807,30 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Keep Me Waiting",
+        "url": "https://open.spotify.com/album/4tMipM9YWvbSOp4T52sWpX"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "CHENDA",
+          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        }
+      ],
+      "duration_ms": 187216,
+      "name": "Keep Me Waiting",
+      "url": "https://open.spotify.com/track/1f4THSlKM0EUhXMj5ddRKM"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Your Imagination",
         "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
@@ -1823,6 +1847,26 @@
       "duration_ms": 237696,
       "name": "Your Imagination",
       "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "VOLPETRON ASCENDS EP",
+        "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "IT ISN'T ME",
+      "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -1847,26 +1891,6 @@
       "duration_ms": 205423,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/11DwTQXNzDjpQ8svvX6czk"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "VOLPETRON ASCENDS EP",
-        "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "IT ISN'T ME",
-      "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2027,30 +2051,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Keep Me Waiting",
-        "url": "https://open.spotify.com/album/4tMipM9YWvbSOp4T52sWpX"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "CHENDA",
-          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
-        },
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        }
-      ],
-      "duration_ms": 187216,
-      "name": "Keep Me Waiting",
-      "url": "https://open.spotify.com/track/1f4THSlKM0EUhXMj5ddRKM"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/0iLc7PUs0lw2pQiDATYlN8"
       },
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
-      },
-      "artists": [
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
       },
@@ -2139,26 +2119,6 @@
       "duration_ms": 286779,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Someone To Forget",
-        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Someone To Forget",
-      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2183,6 +2143,46 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
         "name": "Dancing With Myself",
         "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
       },
@@ -2199,26 +2199,6 @@
       "duration_ms": 163714,
       "name": "Dancing With Myself",
       "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Ready Now",
-        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "ary kemler",
-          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2243,6 +2223,26 @@
       "duration_ms": 291463,
       "name": "Worlds Away - yetep Remix",
       "url": "https://open.spotify.com/track/2FIMqlUhjUpMmuyBIccbwK"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "ary kemler",
+          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2691,46 +2691,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Don't Love You",
-        "url": "https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi"
-      },
-      "artists": [
-        {
-          "name": "Cloudy Parallels",
-          "url": "https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 228808,
-      "name": "Don't Love You",
-      "url": "https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
-        "name": "Owe Me Love",
-        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "Hannah Avison",
-          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Owe Me Love",
-      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Lie",
         "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
       },
@@ -2767,6 +2727,26 @@
       "duration_ms": 197258,
       "name": "Borderline (feat. EMELINE)",
       "url": "https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Owe Me Love",
+        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Hannah Avison",
+          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Owe Me Love",
+      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
     },
     {
       "added_at": "2024-11-15 15:54:58",
@@ -2819,26 +2799,6 @@
     {
       "added_at": "2024-11-15 15:54:58",
       "album": {
-        "name": "Good in Goodbye",
-        "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good in Goodbye",
-      "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
-    },
-    {
-      "added_at": "2024-11-15 15:54:58",
-      "album": {
         "name": "Let Me Out",
         "url": "https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a"
       },
@@ -2855,6 +2815,46 @@
       "duration_ms": 216000,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Don't Love You",
+        "url": "https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi"
+      },
+      "artists": [
+        {
+          "name": "Cloudy Parallels",
+          "url": "https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 228808,
+      "name": "Don't Love You",
+      "url": "https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09"
+    },
+    {
+      "added_at": "2024-11-15 15:54:58",
+      "album": {
+        "name": "Good in Goodbye",
+        "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good in Goodbye",
+      "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
     },
     {
       "added_at": "2024-11-15 15:54:58",

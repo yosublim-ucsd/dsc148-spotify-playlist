@@ -4,12 +4,12 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 43 min
+77 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 Libras \(feat\. Hijos de Garcia\)](https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:56 | 2024-01-29 |  |
-| [Al César Lo Que Es Del César](https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Al César Lo Que Es Del César](https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ) | 3:43 | 2024-01-29 |  |
+| [Al César Lo Que Es Del César](https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Al César Lo Que Es Del César](https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ) | 3:43 | 2024-01-29 | 2024-11-19 |
 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 | 2024-01-29 |  |
 | [Barrios Bajos](https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:25 | 2024-01-29 | 2024-09-02 |
 | [Bien Motivado \(feat\. Banda La Fantastica\)](https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [Bien Motivado \(feat\. Banda La Fantastica\)](https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE) | 2:39 | 2024-05-19 |  |
@@ -82,6 +82,7 @@
 | [Tu Forma De Ser](https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Tu Forma De Ser](https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ) | 2:57 | 2024-06-23 |  |
 | [Un Chamaco Sin Futuro](https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-04-13 |  |
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-01-29 |  |
+| [Vida Peligrosa El Solecito \(En Vivo\)](https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:01 | 2024-11-19 |  |
 | [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 | 2024-01-29 |  |
 | [Yoni El Maldito](https://open.spotify.com/track/5e8HhHGg48DqrQfjzDPchq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:01 | 2024-03-06 | 2024-06-06 |
 

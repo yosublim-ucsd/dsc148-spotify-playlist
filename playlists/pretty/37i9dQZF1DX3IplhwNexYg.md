@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,445 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,449 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 42 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
 | 43 | [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 |
 | 44 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
-| 45 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
+| 45 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 46 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 |
-| 47 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
-| 48 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 |
+| 47 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 |
+| 48 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
 | 49 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
 | 50 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 51 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 53 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 54 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 55 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
-| 56 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
-| 57 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
+| 56 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
+| 57 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 58 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 59 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 |
 | 60 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 66 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 67 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
 | 68 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
-| 69 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
-| 70 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
-| 71 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
+| 69 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
+| 70 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
+| 71 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
 | 72 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 |
 | 73 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
 | 74 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 |
 | 75 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |
-| 76 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
-| 77 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
-| 78 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 |
-| 79 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
+| 76 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
+| 77 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
+| 78 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
+| 79 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 |
 | 80 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 |
 
 Snapshot ID: `Zv8h8AAAAACoohmBxBTIl5THMT4su3pl`

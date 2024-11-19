@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,890 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,996 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 73 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq) | 4:29 |
 | 74 | [Burbujas de Amor](https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:10 |
 | 75 | [No Le Pare](https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Dobletazo](https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy) | 2:59 |
-| 76 | [Estoy Perdido](https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Bachateando 2](https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr) | 4:10 |
+| 76 | [Donde Estan Esos Amigos](https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Edición De Lujo](https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5) | 4:30 |
 | 77 | [Me Dejaste Abandonado](https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [MerenHits '99](https://open.spotify.com/album/1D26pHdjepPM7MGQln6in3) | 4:58 |
 | 78 | [Mi Niña](https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Serie 32](https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT) | 3:59 |
 | 79 | [Estrellitas y Duendes](https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:26 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 83 | [Hoy Te Vi Pasar](https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Los 12 Exitos De Kiko Rodriguez](https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn) | 4:12 |
 | 84 | [El profesor](https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga Soundtrack](https://open.spotify.com/album/6jCjkECgYPGYLM38iLdloA) | 3:39 |
 | 85 | [Bachata Rosa](https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:17 |
-| 86 | [Donde Estan Esos Amigos](https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Edición De Lujo](https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5) | 4:30 |
+| 86 | [Estoy Perdido](https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Bachateando 2](https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr) | 4:10 |
 | 87 | [Con el Pecho y el Corazon](https://open.spotify.com/track/2kBL9Ila19Bv1nQRcVPeKD) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [Lo Mejor](https://open.spotify.com/album/2Z1FwdTgIXnrHv0Zmy99YB) | 2:53 |
 | 88 | [Si Tu Me Dices Ven](https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Exitos de Ayer y Hoy](https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5) | 2:50 |
 | 89 | [Vocales de amor](https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi) | 5:10 |

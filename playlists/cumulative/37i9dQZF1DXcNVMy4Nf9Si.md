@@ -4,7 +4,7 @@
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-91 songs - 5 hr 23 min
+97 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,8 @@
 | [Baram X 3](https://open.spotify.com/track/0DdbiN1gW1t4MU7tQ91eTW) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:28 | 2022-02-14 |  |
 | [Better Babe](https://open.spotify.com/track/5YZq7czabAgCWLNdEnJhI0) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 4:11 | 2022-02-14 |  |
 | [Blue](https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Four Seasons](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) | 3:32 | 2022-02-14 |  |
+| [Blue Eyes](https://open.spotify.com/track/3FBfDRGZIhwoYnrm7n0GA7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:01 | 2024-11-18 |  |
+| [Blur](https://open.spotify.com/track/6h2rdCqiqXWHxrr41DjxpG) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:15 | 2024-11-18 |  |
 | [Burn It Down](https://open.spotify.com/track/1y8tPIOh9kR3eQE6TeBCwe) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 |  |
 | [Can't Control Myself](https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:01 | 2022-02-14 |  |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-02-14 |  |
@@ -26,6 +28,7 @@
 | [Cover Up](https://open.spotify.com/track/5nyObfVLX7N6foqBlx063l) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:25 | 2022-02-14 |  |
 | [Curtain Call](https://open.spotify.com/track/4d7m7aCYxVdiUWsttYcMFV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:52 | 2022-02-14 |  |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-02-14 |  |
+| [Disaster](https://open.spotify.com/track/154owc59jq3USSwpPISBct) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:13 | 2024-11-18 |  |
 | [Do You Love Me?](https://open.spotify.com/track/70ZpEHwTrCSZgIzuuX24CL) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 4:08 | 2022-02-14 |  |
 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 | 2022-02-14 | 2024-04-19 |
 | [Don’t Forget](https://open.spotify.com/track/1TM0n3pwhDOPZhmhDRpOLS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/6u8tXdoDibVxopDgwNY4MG) | 3:39 | 2022-02-14 |  |
@@ -47,6 +50,7 @@
 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-09 |  |
 | [Here I Am](https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:24 | 2022-02-14 |  |
 | [HORIZON](https://open.spotify.com/track/1r246NLH1h9IJNrlyKG1Db) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [VOICE](https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX) | 3:51 | 2022-02-14 |  |
+| [Hot Mess](https://open.spotify.com/track/1905x5T3TtMOofjc5gokcJ) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 2:28 | 2024-11-18 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2022-02-14 |  |
 | [I Blame On You](https://open.spotify.com/track/4jxWO5zC2SiW9aw7nMJHia) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:23 | 2022-02-14 |  |
 | [I Do](https://open.spotify.com/track/61PtA6pqNIxE8ABUTSjpTJ) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I Do](https://open.spotify.com/album/1YVR7UhMNe2ZdgRWzbH8Ix) | 3:53 | 2022-02-14 |  |
@@ -57,6 +61,7 @@
 | [Into the Unknown \(End Credit Version\)](https://open.spotify.com/track/4OkHootAlj7w9Eb2zJVlWr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Frozen 2 \(Korean Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JWtvxwYAwzuSDPzvbvXHP) | 3:09 | 2022-02-14 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 |  |
 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 | 2024-08-29 |  |
+| [Letter To Myself](https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:04 | 2024-11-18 |  |
 | [LOL](https://open.spotify.com/track/31mc9vkMVGvCHrlZukqhQb) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:16 | 2022-02-14 |  |
 | [Lonely Night](https://open.spotify.com/track/5Uj6v222teNJ5KbD2yuw5u) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-02-14 |  |
 | [Love in Color](https://open.spotify.com/track/2tjjk39zsXQkc2DaeeZiS1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 2:57 | 2022-02-14 |  |
@@ -80,6 +85,7 @@
 | [Something New](https://open.spotify.com/track/6oDX7N6VnXSyLdyGsDP5jV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:20 | 2022-02-14 |  |
 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 | 2022-02-14 |  |
 | [Starlight](https://open.spotify.com/track/5MYL9WejirHj0kc8crJPJ0) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:43 | 2022-02-14 |  |
+| [Strangers](https://open.spotify.com/track/66lXg9vH9KgEqUilPn5Tu2) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 2:50 | 2024-11-18 |  |
 | [Stress](https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:20 | 2022-02-14 |  |
 | [Sweet Love](https://open.spotify.com/track/1vCo4BownrOY4nRZbpmrJO) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:04 | 2022-02-14 |  |
 | [Time Lapse](https://open.spotify.com/track/5xHSzEHkbQSc5n4ATBv1du) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 4:14 | 2022-02-14 |  |

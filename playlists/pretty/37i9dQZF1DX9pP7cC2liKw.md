@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,296 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,440 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 55 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 56 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 57 | [Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 |
-| 58 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
-| 59 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 58 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 59 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
 | 60 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
 | 61 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 62 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 | 63 | [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 |
-| 64 | [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 |
-| 65 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
-| 66 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
+| 64 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
+| 65 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
+| 66 | [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 |
 | 67 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
 | 68 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
 | 69 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |

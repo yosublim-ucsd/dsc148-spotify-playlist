@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
-  "num_followers": 1556,
+  "num_followers": 1558,
   "original_name": "This Is Clara Rockmore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADSw/vc8QTLVR5dMkii44RA",
+  "snapshot_id": "ZzkyAAAAAAD4LCxS7iwiOV/hNmS7+6l6",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 537293,
-      "name": "Sonata for violin and piano: Allegro",
-      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
+      "duration_ms": 179106,
+      "name": "Habanera",
+      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
     },
     {
       "added_at": null,
@@ -503,22 +499,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Bob Sherman",
+          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 179106,
-      "name": "Habanera",
-      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
+      "duration_ms": 251933,
+      "name": "Impromptu interview with Alexander Schneider",
+      "url": "https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY"
     },
     {
       "added_at": null,
@@ -547,26 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "Bob Sherman",
-          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Impromptu interview with Alexander Schneider",
-      "url": "https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY"
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -584,25 +576,33 @@
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 68560,
-      "name": "Commentary 2",
-      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
+      "duration_ms": 63106,
+      "name": "Commentary 6",
+      "url": "https://open.spotify.com/track/37JMZzhw88Btj0MyUzNCms"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
       "artists": [
         {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
+      "duration_ms": 537293,
+      "name": "Sonata for violin and piano: Allegro",
+      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Song of Grusia, Op. 4, No. 4",
+      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music and Memories: Clara Rockmore",
         "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 149800,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Song of Grusia, Op. 4, No. 4",
-      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
     },
     {
       "added_at": null,

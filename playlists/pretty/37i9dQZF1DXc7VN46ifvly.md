@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 
 > 한계를 뛰어넘는 당신을 운동을 위하여\. \(Push yourself to your limits with powerful Korean music.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,457 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,469 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 20 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 |
 | 21 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 22 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
-| 23 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
-| 24 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
+| 23 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
+| 24 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
 | 25 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 |
 | 26 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 |
 | 27 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 235 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 235 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 184 | [824](https://open.spotify.com/track/0ZkkO40Ze87SQeINoly4s4) | [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [OMGRONNY](https://open.spotify.com/album/5WwaSQFmjzYtrKksqaLjjX) | 3:30 |
 | 185 | [Insecurities](https://open.spotify.com/track/6TptBrPCJpE40HGqdZEqyt) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 4:26 |
 | 186 | [Miracles](https://open.spotify.com/track/6oFEizgUZD7x6QSbjkqD7b) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Miracles](https://open.spotify.com/album/2BkwErxEfjc7a8MXtU8GyB) | 3:23 |
-| 187 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 |
-| 188 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
+| 187 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
+| 188 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 |
 | 189 | [Awkward Groove](https://open.spotify.com/track/5AweRwX4JImp2GDZrJuRlG) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 2:33 |
 | 190 | [Hamburg](https://open.spotify.com/track/7A4fgIoGHXViGO8aD0TEiH) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Smith & Wesson](https://open.spotify.com/artist/6XIVSItA4ieQMxvkSRG4Rt) | [Late Nights: Europe](https://open.spotify.com/album/7fA1iHkq1YpylDaZewt65w) | 3:26 |
 | 191 | [Love You Like I Do \(feat\. RITTYBO & Jammy\)](https://open.spotify.com/track/0259HVL0Yxn7v8mbDZK2Zo) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [RITTYBO](https://open.spotify.com/artist/7jMC5T6FVLrmlTyvrjp8NJ), [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8) | [The Beautiful & Damned \(Deluxe Edition\)](https://open.spotify.com/album/3MH4gUVIghBW3W6Jr3aWh9) | 3:53 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 234 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 235 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Abhx3gAAAACChKGjp9JiHixkIx2VcwO0`
+Snapshot ID: `Abh3iAAAAABU5ve1f1jWgX9s0KABWsdo`

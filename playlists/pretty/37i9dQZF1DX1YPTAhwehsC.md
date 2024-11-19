@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,927 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,931 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

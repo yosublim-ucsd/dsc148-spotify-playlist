@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Sergio George, Lenny Tav\u00e1rez, Christian Alicea & Rafa Pab\u00f6n",
-  "num_followers": 1916243,
+  "num_followers": 1916248,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 302826,
+      "name": "Ella Se Hizo Deseo",
+      "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Sensual",
-        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 302826,
-      "name": "Ella Se Hizo Deseo",
-      "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Al Duro",
         "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
@@ -563,42 +563,6 @@
       "duration_ms": 277906,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 287893,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -623,6 +587,42 @@
       "duration_ms": 179890,
       "name": "Incomprendido",
       "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 287893,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Esta Vida (Salsa Version)",
         "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
       },
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 202551,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+      "duration_ms": 202551,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "La Vida Es Una Fiesta",
-        "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
-      },
-      "artists": [
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 200391,
-      "name": "La Vida Es Una Fiesta",
-      "url": "https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1307,6 +1287,22 @@
       "duration_ms": 209723,
       "name": "LA RONDA",
       "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Cosas Bonitas",
+        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260632,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1327,22 +1323,6 @@
       "duration_ms": 207423,
       "name": "Fue Culpa De Usted",
       "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Cosas Bonitas",
-        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260632,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "La Vida Es Una Fiesta",
+        "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
+      },
+      "artists": [
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 200391,
+      "name": "La Vida Es Una Fiesta",
+      "url": "https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Leyendas: Salsa Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "La Salsa No Engorda",
+        "url": "https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "La Salsa No Engorda",
+      "url": "https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "La Salsa No Engorda",
-        "url": "https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "La Salsa No Engorda",
-      "url": "https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Pas\u00e1ndola bien",
+        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 174411,
+      "name": "Pas\u00e1ndola bien",
+      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Un Beso de Su Boca",
         "url": "https://open.spotify.com/album/7yw3Crx1ixKISeQdscnVrO"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Pas\u00e1ndola bien",
-        "url": "https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j"
+        "name": "Exitos y Mas",
+        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 174411,
-      "name": "Pas\u00e1ndola bien",
-      "url": "https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4"
+      "duration_ms": 304640,
+      "name": "Juguete de Nadie",
+      "url": "https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Exitos y Mas",
-        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 304640,
-      "name": "Juguete de Nadie",
-      "url": "https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+        "name": "Mi Propiedad Privada",
+        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 260865,
-      "name": "Canciones Viejas",
-      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+      "duration_ms": 252986,
+      "name": "Mi Propiedad Privada",
+      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
     }
   ],
   "unique_name": "Salsa Nation",

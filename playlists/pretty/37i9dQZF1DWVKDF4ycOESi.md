@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Capo Plaza in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,480 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,506 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
+| 1 | [Nati Bastardi \(feat\. Tony Effe\)](https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:31 |
 | 2 | [Islanda](https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Islanda](https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R) | 3:37 |
 | 3 | [J \(feat\. Nayt\)](https://open.spotify.com/track/2JwXWydDD5ASONulGVLzHJ) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [A LORENZZA](https://open.spotify.com/album/3uo3AECJ5Qw3Lwd6kXfQdL) | 2:45 |
 | 4 | [Dillo Solo Al Buio](https://open.spotify.com/track/2Om8fOpJjFtSn7MGdj3aen) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dillo Solo Al Buio](https://open.spotify.com/album/5DaUWuCz3CUye1DFBaD25T) | 3:45 |

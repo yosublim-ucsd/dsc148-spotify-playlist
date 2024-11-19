@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,788 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,801 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 13 | [Beyond the Realms of Death](https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 6:49 |
 | 14 | [Invincible Shield](https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 6:21 |
 | 15 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
-| 16 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
-| 17 | [Metal Gods](https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:58 |
+| 16 | [Metal Gods](https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:58 |
+| 17 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
 | 18 | [Gates of Hell](https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:38 |
 | 19 | [The Hellion](https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 0:39 |
-| 20 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
-| 21 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
+| 20 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
+| 21 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
 | 22 | [A Touch of Evil](https://open.spotify.com/track/08hn5vq1XnVmVQI4mfzsXa) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |
 | 23 | [Trial By Fire](https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:21 |
-| 24 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 |
-| 25 | [Hell Bent for Leather](https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 2:40 |
+| 24 | [Hell Bent for Leather](https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 2:40 |
+| 25 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 |
 | 26 | [All Guns Blazing](https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 3:57 |
 | 27 | [The Serpent and the King](https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:19 |
 | 28 | [Grinder](https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Better by You, Better Than Me](https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 3:22 |
 | 50 | [Children of the Sun](https://open.spotify.com/track/6rCp71jUgFxbGNsBqjLZpr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:00 |
 
-Snapshot ID: `ZzfggAAAAABBtiQbNdqS1n62aSjl80AZ`
+Snapshot ID: `ZzkyAAAAAABMrg1qp8J/woD2eUOn4QJ/`

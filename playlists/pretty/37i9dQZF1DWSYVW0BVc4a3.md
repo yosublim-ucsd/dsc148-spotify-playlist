@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> pedro is back!!
+> money talks!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,370 likes - 302 songs - 21 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,463 likes - 302 songs - 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 301 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 302 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `ZzaA8AAAAACupcea9WSooAtD8WMLKbl8`
+Snapshot ID: `ZzsKfAAAAACTtJQiEklXT4H4Bn67yWwY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 75,026 likes - 202 songs - 8 hr 50 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 75,031 likes - 202 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

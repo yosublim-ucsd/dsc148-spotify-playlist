@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20714,
+  "num_followers": 20719,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAA89HDp5bAxiBnWceUgmSeX",
+  "snapshot_id": "ZzkyAAAAAACTrPovkDqNfixYJqhBw5rO",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Ledi Coumbe",
-      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
     },
     {
       "added_at": null,

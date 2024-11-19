@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 
 > Seré la gata bajo la lluvia..\. 😿
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,729 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,757 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 69 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
 | 70 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
 | 71 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
-| 72 | [Lágrimas y Lluvia](https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Lágrimas y Lluvia](https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc) | 3:36 |
-| 73 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 |
+| 72 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 |
+| 73 | [Lágrimas y Lluvia](https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Lágrimas y Lluvia](https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc) | 3:36 |
 | 74 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
 | 75 | [Lluvia \- Remix](https://open.spotify.com/track/5VtgZ4XlvsnibxKujcgKVz) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia \(Remix\)](https://open.spotify.com/album/6CYxNR1asVF4HgDf0cNJyn) | 3:46 |
 | 76 | [Solo](https://open.spotify.com/track/2d894ZG9ouHTi0S6O0deIH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:21 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 85 | [Amor Arrayano](https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q) | [Yasser Tejeda](https://open.spotify.com/artist/1l3daUiuR5OVVeBoPBU0WE), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Amor Arrayano](https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK) | 3:40 |
 | 86 | [Partners in Motion](https://open.spotify.com/track/3afCM4YAyQ4q84X7XYB2XI) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Indigo](https://open.spotify.com/album/7EeNEo4mPJ4ctswJ9x6o7N) | 4:20 |
 | 87 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 |
-| 88 | [Here Comes Your Man](https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Here Comes Your Man](https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi) | 2:24 |
-| 89 | [Lluvia](https://open.spotify.com/track/3fqocpNm1lFzc7bIqPocIe) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 4:01 |
+| 88 | [Lluvia](https://open.spotify.com/track/3fqocpNm1lFzc7bIqPocIe) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 4:01 |
+| 89 | [Here Comes Your Man](https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Here Comes Your Man](https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi) | 2:24 |
 | 90 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 |
 | 91 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 |
 | 92 | [Pantalla azul](https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Sentir Que No Sabes](https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l) | 2:57 |

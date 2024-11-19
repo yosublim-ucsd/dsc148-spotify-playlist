@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "3025",
+        "url": "https://open.spotify.com/album/5TPAPMLnxJ3pRkzBX0AGVU"
+      },
+      "artists": [
+        {
+          "name": "Thomas Costantin",
+          "url": "https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259756,
+      "name": "3025",
+      "url": "https://open.spotify.com/track/5xSICn9xXFwr7bs0b3OUuI"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/1KKVWZHhfIJ86BYFsro40P"
       },
@@ -38,6 +56,46 @@
       "duration_ms": 229915,
       "name": "A Little Fun",
       "url": "https://open.spotify.com/track/5iDUcLvvGUMaHpmlBZUpfG"
+    },
+    {
+      "album": {
+        "name": "Aadi + Remixes",
+        "url": "https://open.spotify.com/album/30FeovvsETCaPdSNqECYvo"
+      },
+      "artists": [
+        {
+          "name": "Husa & Zeyada",
+          "url": "https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Aadi",
+      "url": "https://open.spotify.com/track/1E4PMshhmncjJ4DbEmrkrE"
+    },
+    {
+      "album": {
+        "name": "Aadi + Remixes",
+        "url": "https://open.spotify.com/album/30FeovvsETCaPdSNqECYvo"
+      },
+      "artists": [
+        {
+          "name": "Husa & Zeyada",
+          "url": "https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu"
+        },
+        {
+          "name": "Netam",
+          "url": "https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "Aadi - Netam Remix",
+      "url": "https://open.spotify.com/track/77G7wXSXR5kRDtlqAEQxmM"
     },
     {
       "album": {
@@ -708,7 +766,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 273829,
       "name": "Dimanche",
       "url": "https://open.spotify.com/track/2omQY42P8l0YVqG2vhovUO"
@@ -1006,6 +1064,24 @@
       "duration_ms": 338794,
       "name": "Galatea's Guitar - Remastered",
       "url": "https://open.spotify.com/track/237YZd41xs9GglibyQxVrx"
+    },
+    {
+      "album": {
+        "name": "Game of Disguise",
+        "url": "https://open.spotify.com/album/2M8su8O0Cp6KR3GpYvKZe1"
+      },
+      "artists": [
+        {
+          "name": "Walashi",
+          "url": "https://open.spotify.com/artist/0iQFxRi94c22SXiYOlSRzh"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328648,
+      "name": "Game of Disguise",
+      "url": "https://open.spotify.com/track/7bfrmp31tAMXAJDywRVdUV"
     },
     {
       "album": {
@@ -1818,7 +1894,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 421600,
       "name": "Lonesome Lover",
       "url": "https://open.spotify.com/track/3y7ANjEoF3HQCQt4IBu2R3"
@@ -2122,7 +2198,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 377777,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3IPEXWFoll9ZpRugRlAlsV"
@@ -2460,7 +2536,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 484477,
       "name": "Robots",
       "url": "https://open.spotify.com/track/4JLHvLj1cHJpopm40v32lY"
@@ -2669,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Siyah At",
+        "url": "https://open.spotify.com/album/43Z3VTt5qvfp2ky7OKkcTl"
+      },
+      "artists": [
+        {
+          "name": "Nu Park",
+          "url": "https://open.spotify.com/artist/73vhYnptWj4n79ONgx2609"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331636,
+      "name": "Siyah At",
+      "url": "https://open.spotify.com/track/2lc0fIlWeFmsJw0F3dmvb4"
+    },
+    {
+      "album": {
         "name": "Fiesta Songs",
         "url": "https://open.spotify.com/album/0KFQJjApLVPFOoiF2uZNck"
       },
@@ -2862,7 +2956,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 480000,
       "name": "Swing Bop - Acid Pauli's Kozmik Remix",
       "url": "https://open.spotify.com/track/0sOAu98MokefgnJgUQwTOf"

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: mxmtoon
 
-2,000 songs - 4 day 9 hr 46 min
+2,001 songs - 4 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [and it sounds like \(ice cream\)](https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [and it sounds like \(ice cream\)](https://open.spotify.com/album/6fWHxmatgCkHpC3BmECELk) | 2:35 | 2021-10-29 | 2022-04-05 |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-09 | 2023-07-29 |
 | [Angelina](https://open.spotify.com/track/4CGU5NFKLgzgzsWL7kjDUS) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Angelina](https://open.spotify.com/album/3ZDnjVQOnX7EupQ72AxvtC) | 3:50 | 2022-06-17 | 2022-07-24 |
+| [Animal](https://open.spotify.com/track/7CXkLmEUNqa8FI0PgkfC00) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Animal](https://open.spotify.com/album/5tHaOeERI8YhSzXhI648FA) | 2:48 | 2024-11-15 |  |
 | [Another Day In Paradise](https://open.spotify.com/track/2C3o1dYtGr7JvBda2H8j5y) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Another Day In Paradise](https://open.spotify.com/album/6ymwg8OQOepZKCJGCa3GQf) | 2:54 | 2022-01-28 | 2022-04-29 |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-07 | 2022-10-29 |
 | [Answers](https://open.spotify.com/track/60q9Pv5tbFlHYgiaBIQS3p) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Answers](https://open.spotify.com/album/6IPwcU1MCRmyJsOjfQpU50) | 3:58 | 2021-05-10 | 2021-05-24 |
@@ -343,7 +344,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 |  |
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2020-12-12 | 2021-05-30 |
 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 | 2021-06-03 | 2021-10-16 |
-| [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-05 |  |
+| [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-05 | 2024-11-19 |
 | [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 | 2023-06-23 | 2023-07-01 |
 | [Chess & Checkers](https://open.spotify.com/track/7I1L8djBxdsQGtybPXSeMZ) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Chess & Checkers](https://open.spotify.com/album/7tf1B0szpLaftMECpvPYWh) | 2:29 | 2021-10-14 | 2021-10-16 |
 | [Chicken Tenders](https://open.spotify.com/track/3D8sT8D3f5egWSQnF0fbqu) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Chicken Tenders](https://open.spotify.com/album/6Hlyw2Jvzz7BnIQQYzSXVZ) | 2:50 | 2021-01-19 | 2022-04-11 |
@@ -921,7 +922,7 @@
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2020-10-20 | 2021-05-24 |
 | [IF YOU WANT IT](https://open.spotify.com/track/2ZZ0ITwRqitCvddi2CGfgq) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:07 | 2022-03-18 | 2022-04-20 |
 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1n4vgMWmmNlXrvyxQFhUEl) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 5:19 | 2020-10-20 | 2022-06-15 |
-| [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 |  |
+| [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 | 2024-11-19 |
 | [Imaginary Friends \- St\. Lucia Remix](https://open.spotify.com/track/2PXbkeD7oyMJwpKd0HoiB6) | [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Imaginary Friends \(St\. Lucia Remix\)](https://open.spotify.com/album/2TNQueYbu3esjJRLaZyiWy) | 4:26 | 2021-02-23 | 2021-05-24 |
 | [Immediately](https://open.spotify.com/track/1J1925GGyVXBlrgyBJ78Po) | [Stay Lunar](https://open.spotify.com/artist/6kqPs71d5mSIQ5XYc4VRpK) | [Immediately](https://open.spotify.com/album/4b936ZtmChocnDB6I5Sg05) | 3:07 | 2021-11-07 | 2021-11-08 |
 | [Imposter Syndrome](https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Imposter Syndrome](https://open.spotify.com/album/7zgIk5sn1wrmDeRfljG25J) | 2:30 | 2023-08-25 | 2023-10-14 |
@@ -1886,7 +1887,7 @@
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2021-02-22 | 2021-10-12 |
 | [Wallflower](https://open.spotify.com/track/2aLsrZVPkJm6pm05WXZ0aC) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/7D6XTJzVwNVH2upfKTNvKQ) | 2:57 | 2020-11-10 | 2021-05-27 |
 | [WALLS](https://open.spotify.com/track/5DGpdTunAf0nOvrWCqlYXu) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [WALLS](https://open.spotify.com/album/7wAOkvucdEObwJsRDtiUhP) | 3:58 | 2022-01-28 | 2022-07-28 |
-| [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 | 2024-09-13 | 2024-10-12 |
+| [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 | 2024-09-13 |  |
 | [Wannabe](https://open.spotify.com/track/6tKG1a40gvBQXNpATbqlfN) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Wannabe](https://open.spotify.com/album/69vN2qVlOrzPtvI7lX2mLE) | 3:33 | 2021-11-13 | 2021-12-04 |
 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 | 2021-06-04 | 2022-04-11 |
 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 | 2020-11-10 | 2022-12-10 |

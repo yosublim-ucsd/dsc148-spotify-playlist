@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 419948,
+  "num_followers": 420042,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACL0LB/D/1VQSvd0O34ilnV",
+  "snapshot_id": "ZzkyAAAAAADQM33t3jZUindRe/JUktLN",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 102038,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 102038,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2step (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
       },
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "No Sucker (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 136366,
       "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 188606,
+      "name": "No Sucker (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 177314,
-      "name": "Heatin Up (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 177314,
+      "name": "Heatin Up (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
     },
     {
       "added_at": null,

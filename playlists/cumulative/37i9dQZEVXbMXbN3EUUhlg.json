@@ -12235,6 +12235,28 @@
     },
     {
       "album": {
+        "name": "No Pelo 360 - Ao Vivo no 062",
+        "url": "https://open.spotify.com/album/4kjCJEhjBMvh1p9aYOutCs"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199848,
+      "name": "Imagina - Ao Vivo",
+      "url": "https://open.spotify.com/track/0BvzY9PCRufFPt51fvnhOI"
+    },
+    {
+      "album": {
         "name": "Se Melhorar Estraga (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
       },
@@ -14868,7 +14890,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -19686,7 +19708,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 153112,
       "name": "Pilantrou - Ao Vivo",
       "url": "https://open.spotify.com/track/0zQVeXk8nv4wFPA7QxCUry"
@@ -24954,7 +24976,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"

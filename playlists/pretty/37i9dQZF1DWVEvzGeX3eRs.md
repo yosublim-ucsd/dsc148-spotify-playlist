@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > that Darius and Nina type love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,609,858 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,609,961 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 44 | [Happily Ever After](https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 4:36 |
 | 45 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
 | 46 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 47 | [Giving Him Something He Can Feel](https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 3:55 |
-| 48 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
+| 47 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
+| 48 | [Giving Him Something He Can Feel](https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 3:55 |
 | 49 | [When Can I See You](https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 3:49 |
 | 50 | [You're Always On My Mind](https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 5:17 |
 

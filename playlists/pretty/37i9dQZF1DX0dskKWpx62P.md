@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,365 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,390 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 37 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
 | 38 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 39 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
-| 40 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
-| 41 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
+| 40 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
+| 41 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
 | 42 | [Clavel de mi pecho](https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Enlazando Cantos II](https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81) | 4:09 |
 | 43 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 44 | [Mauka Zapato](https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f) | [Alicia Maguiña](https://open.spotify.com/artist/1OJ21FFw1XbFVGx4SN13Fv) | [La Santa Tierra](https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC) | 3:28 |

@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 178586,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/19tpUsoPv87ty0OS0kMvvU"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 182747,
       "name": "Consonance",
       "url": "https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5"
@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 158968,
       "name": "Erlaxatu",
       "url": "https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP"
@@ -7502,6 +7502,24 @@
     {
       "album": {
         "name": "Luminescence",
+        "url": "https://open.spotify.com/album/2mnO50RMna0DOjrt1gEjUr"
+      },
+      "artists": [
+        {
+          "name": "Author S",
+          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167215,
+      "name": "Luminescence",
+      "url": "https://open.spotify.com/track/5xVDZEddHqUI4gLxWfFri0"
+    },
+    {
+      "album": {
+        "name": "Luminescence",
         "url": "https://open.spotify.com/album/4HvbDI30Xhbev7NLMaWv2Q"
       },
       "artists": [
@@ -8142,7 +8160,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 152974,
       "name": "Mountain View",
       "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
@@ -8326,6 +8344,24 @@
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "album": {
+        "name": "Nejma",
+        "url": "https://open.spotify.com/album/2DoF7f47YEB0u1X4S8nU5a"
+      },
+      "artists": [
+        {
+          "name": "A.Z. Louna",
+          "url": "https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159521,
+      "name": "Nejma",
+      "url": "https://open.spotify.com/track/2G60IUm1SMnoLHN6kgaZNo"
     },
     {
       "album": {
@@ -9816,7 +9852,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 168108,
       "name": "Puesta Del Sol",
       "url": "https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger"
@@ -13596,7 +13632,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 189403,
       "name": "True Calm Trees",
       "url": "https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG"
@@ -13686,7 +13722,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 188671,
       "name": "Unclouded",
       "url": "https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu"
@@ -13758,7 +13794,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 160881,
       "name": "Unfolded",
       "url": "https://open.spotify.com/track/0dTDnqM4UuT1RMQE2l915Y"
@@ -14251,6 +14287,24 @@
     },
     {
       "album": {
+        "name": "Whispering Tides",
+        "url": "https://open.spotify.com/album/6ahGvbf57BQYxVNhz0Y1GK"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Whispering Tides",
+      "url": "https://open.spotify.com/track/2ITqkX40AUFSv8TIBWoCQt"
+    },
+    {
+      "album": {
         "name": "Winds Of Hope",
         "url": "https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv"
       },
@@ -14406,7 +14460,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 134158,
       "name": "Wooden Cabin",
       "url": "https://open.spotify.com/track/2pKlAoXmIluwpXpzs8B6iM"

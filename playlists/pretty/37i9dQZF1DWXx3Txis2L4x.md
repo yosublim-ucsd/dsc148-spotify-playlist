@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,393 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,425 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 30 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
 | 31 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 32 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
-| 33 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
-| 34 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
+| 33 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
+| 34 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
 | 35 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 36 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
 | 37 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 56 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
 | 57 | [Easy Target](https://open.spotify.com/track/0fsrRvpqr904AdKAPDXFkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:20 |
 | 58 | [Streetcar](https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 3:36 |
-| 59 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
-| 60 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
+| 59 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
+| 60 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
 | 61 | [White Flag](https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [White Flag](https://open.spotify.com/album/6DfSN8W4AwOI1sr7a0nJZ3) | 3:45 |
 | 62 | [The Other Line](https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
 | 63 | [James Dean](https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Panic Vertigo \- EP](https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm) | 3:18 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 74 | [Bones](https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Bones](https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy) | 3:13 |
 | 75 | [You're Gonna Say Yeah](https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO) | [Hushpuppies](https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k) | [The Trap](https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj) | 3:11 |
 | 76 | [The Tower](https://open.spotify.com/track/7LU08tcGTBpD2YNabUiYix) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:21 |
-| 77 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 |
-| 78 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
+| 77 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
+| 78 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 |
 | 79 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
 | 80 | [Booooom, Blast & Ruin](https://open.spotify.com/track/4VHNoGH9CWFv6iGPeOX1Hr) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 3:16 |
 

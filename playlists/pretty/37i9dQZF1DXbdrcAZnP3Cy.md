@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,858 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,892 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 10 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 |
 | 11 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 |
 | 12 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
-| 13 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
-| 14 | [El Columpio](https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:19 |
+| 13 | [El Columpio](https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:19 |
+| 14 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 15 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
 | 16 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
 | 17 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |

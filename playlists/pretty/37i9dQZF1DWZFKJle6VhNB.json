@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444253,
+  "num_followers": 444247,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+        "name": "Tempo Certo (Ao Vivo em Campo Grande)",
+        "url": "https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
         },
         {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
         }
       ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+      "duration_ms": 178066,
+      "name": "Su\u00edte 14 (feat. Mc Guim\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -247,22 +247,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Tempo Certo (Ao Vivo em Campo Grande)",
-        "url": "https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB"
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
       "artists": [
         {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         },
         {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Su\u00edte 14 (feat. Mc Guim\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR"
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Gaiola \u00c9 o Troco",
-        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
-      },
-      "artists": [
-        {
-          "name": "MC Du Black",
-          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
-        },
-        {
-          "name": "DJ 2F",
-          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Gaiola \u00c9 o Troco",
-      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Facas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 196379,
       "name": "Facas - Ao Vivo",
       "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Gaiola \u00c9 o Troco",
+        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
+      },
+      "artists": [
+        {
+          "name": "MC Du Black",
+          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Gaiola \u00c9 o Troco",
+      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Katinguel\u00ea Na \u00c1rea",
+        "url": "https://open.spotify.com/album/6be252ruiK8KktdALdpNvq"
+      },
+      "artists": [
+        {
+          "name": "Katinguel\u00ea",
+          "url": "https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Inara\u00ed",
+      "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Malandramente",
         "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 171692,
       "name": "Malandramente",
       "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Katinguel\u00ea Na \u00c1rea",
-        "url": "https://open.spotify.com/album/6be252ruiK8KktdALdpNvq"
-      },
-      "artists": [
-        {
-          "name": "Katinguel\u00ea",
-          "url": "https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Inara\u00ed",
-      "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Eu Quero Tchu Eu Quero Tcha - Single",
         "url": "https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt"
       },
@@ -723,22 +703,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
       "artists": [
         {
-          "name": "MC Fioti",
-          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
-      "duration_ms": 155550,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -759,6 +739,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
+      },
+      "artists": [
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 155550,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 177733,
       "name": "Hoje",
       "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Meteoro - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JFpJWJIkEl97NgLgpo4pF"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -799,22 +815,6 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Meteoro - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JFpJWJIkEl97NgLgpo4pF"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Os Morenos",
         "url": "https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 215400,
       "name": "Marrom Bombom",
       "url": "https://open.spotify.com/track/6JvZyTg7LGjDw0v3LvXjub"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Temporal (Audio)",
+        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
+      },
+      "artists": [
+        {
+          "name": "Art Popular",
+          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Pimpolho",
+      "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "A Origem (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 140000,
       "name": "FICA \u00c0 VONTADE",
       "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Temporal (Audio)",
-        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
-      },
-      "artists": [
-        {
-          "name": "Art Popular",
-          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Pimpolho",
-      "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Negro Lindo",
+        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
+      },
+      "artists": [
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tchubirabirom",
+      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Sacanagenzinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/4zNaIysl3maMox9VwVLVCu"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 136481,
       "name": "Sacanagenzinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3ugHD1hbqLwHl4ubH72EbU"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Negro Lindo",
-        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
-      },
-      "artists": [
-        {
-          "name": "Parangol\u00e9",
-          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tchubirabirom",
-      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Devagarinho",
-        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 137045,
-      "name": "Devagarinho",
-      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 119304,
       "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
       "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 137045,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Zeca Pagodinho Naturalmente",
+        "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Deixa A Vida Me Levar",
+      "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/6wEkHIUHNb1kZiV2nCnVoh"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Zeca Pagodinho Naturalmente",
-        "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Deixa A Vida Me Levar",
-      "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Harmonia do Samba (Ao Vivo)",
         "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
       },
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Hello mundo",
-        "url": "https://open.spotify.com/album/4U50KjTvyDPWy06dw6KqSq"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 160962,
-      "name": "Favela chegou",
-      "url": "https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Deixa Acontecer",
         "url": "https://open.spotify.com/album/3cgTdUaIlwRnMiUa6o8GlS"
       },
@@ -1767,6 +1747,30 @@
       "duration_ms": 186773,
       "name": "Beijo Geladinho",
       "url": "https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+        "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Doguinha",
+          "url": "https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL"
+        },
+        {
+          "name": "MC Pupio",
+          "url": "https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
+      "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
     },
     {
       "added_at": "2022-02-10 18:18:16",

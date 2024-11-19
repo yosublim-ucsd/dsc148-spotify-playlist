@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,000 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,998 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 13 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 14 | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS) | 3:17 |
 | 15 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
-| 16 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
-| 17 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 |
+| 16 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 |
+| 17 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
 | 18 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
 | 19 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 2:12 |
 | 20 | [Furious](https://open.spotify.com/track/272slxHVqV2k38mxVP2hat) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 0:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
 | 50 | [Yeah \(with BIA\)](https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [What Was Said?](https://open.spotify.com/album/789NgjZwh9qga5RsFoBsZ5) | 2:20 |
 
-Snapshot ID: `ZzfggAAAAABpFk6Zfsr5pyHb8CrA3e0R`
+Snapshot ID: `ZzkyAAAAAAC6io6AyIvv3106ejflycWP`

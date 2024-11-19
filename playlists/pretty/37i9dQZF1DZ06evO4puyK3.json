@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 162659,
+  "num_followers": 162656,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACe9OfRyU1i+We/aetUf+EJ",
+  "snapshot_id": "ZzkyAAAAAACkILpxYjZMa9OFiHxyfPIf",
   "tracks": [
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suplicar",
+        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Suplicar",
+      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 145056,
       "name": "FOGO NO BARRACO",
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suplicar",
-        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Suplicar",
-      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
     },
     {
       "added_at": null,

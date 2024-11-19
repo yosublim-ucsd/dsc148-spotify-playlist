@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[Maven](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,290 likes - 544 songs - 1 day 8 hr 44 min
+[Maven](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,288 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 117 | [I Still Love You](https://open.spotify.com/track/4JlPIXFGM8ibqZrrpvKQDL) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 2:43 |
 | 118 | [Hydro City Zone Act 2](https://open.spotify.com/track/4dnJ1G4Uj5bobjxSpAKTTh) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb) | [Sonic Mania Original Sound Track \(Selected Edition\)](https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5) | 2:07 |
 | 119 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 |
-| 120 | [巌戸台分寮](https://open.spotify.com/track/19LPHv2g3UKY7XpXGkPpsz) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ3 オリジナル・サウンドトラック](https://open.spotify.com/album/4yyExVOiwrE7TDZfxAGgki) | 2:31 |
+| 120 | [巌戸台分寮](https://open.spotify.com/track/19LPHv2g3UKY7XpXGkPpsz) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ3 オリジナル･サウンドトラック](https://open.spotify.com/album/4yyExVOiwrE7TDZfxAGgki) | 2:31 |
 | 121 | [A Figure 8](https://open.spotify.com/track/0w11i5RNebNCttwoM3qs0X) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Icebreaker](https://open.spotify.com/album/6lWo2t7DunvktqShdu4guc) | 2:28 |
 | 122 | [Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Butterfly Tetrad](https://open.spotify.com/album/2CBjTGZPlSwhBb5XhXKiXt) | 1:27 |
 | 123 | [Liberate Truth](https://open.spotify.com/track/0XBZgKHIlgjcOxnanLolLP) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Sub\-Sonar](https://open.spotify.com/album/0EAsTWSaLEaSgSMbyiucvG) | 6:33 |

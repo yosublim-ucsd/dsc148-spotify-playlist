@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: LANA",
-  "num_followers": 114122,
+  "num_followers": 114134,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
+        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 241630,
+      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
         "name": "I want tomorrow to come",
         "url": "https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 253314,
       "name": "I want tomorrow to come",
       "url": "https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
-        "name": "\u30eb\u30d0\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 231251,
-      "name": "\u30eb\u30d0\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
-        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
-        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
+        "name": "\u30eb\u30d0\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0"
       },
       "artists": [
         {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 241630,
-      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
-      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
+      "duration_ms": 231251,
+      "name": "\u30eb\u30d0\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
-      },
-      "artists": [
-        {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
         "name": "\u7d21\u3050",
         "url": "https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 231133,
       "name": "\u7d21\u3050",
       "url": "https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
-        "name": "\u3056\u3089\u3081",
-        "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 282464,
-      "name": "\u3056\u3089\u3081",
-      "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
         "name": "Value",
         "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 185000,
       "name": "Value",
       "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
+        "name": "\u3056\u3089\u3081",
+        "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 282464,
+      "name": "\u3056\u3089\u3081",
+      "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -1151,54 +1151,6 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
-        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 314473,
-      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
-        "name": "\u50d5\u3089\u3057\u3055",
-        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "\u50d5\u3089\u3057\u3055",
-      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
         "name": "season of you",
         "url": "https://open.spotify.com/album/6EnyuIfo8bt0i7WnzoY4ro"
       },
@@ -1227,6 +1179,54 @@
       "duration_ms": 272466,
       "name": "\u98a8\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
+        "name": "\u50d5\u3089\u3057\u3055",
+        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u50d5\u3089\u3057\u3055",
+      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
+        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 314473,
+      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 203700,
-      "name": "Super Ball",
-      "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
         "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
         "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 309662,
       "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
       "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Super Ball",
+      "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
+        "name": "\u604b\u6ce5\u68d2\u3002",
+        "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 219643,
+      "name": "\u604b\u6ce5\u68d2\u3002",
+      "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
+    },
+    {
+      "added_at": "2024-11-13 01:19:10",
+      "album": {
         "name": "\u3054\u3081\u3093\u306d",
         "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 260000,
       "name": "Sign",
       "url": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
-    },
-    {
-      "added_at": "2024-11-13 01:19:10",
-      "album": {
-        "name": "\u604b\u6ce5\u68d2\u3002",
-        "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 219643,
-      "name": "\u604b\u6ce5\u68d2\u3002",
-      "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
     },
     {
       "added_at": "2024-11-13 01:19:10",
@@ -1607,22 +1607,18 @@
     {
       "added_at": "2024-11-13 01:19:10",
       "album": {
-        "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
-        "url": "https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG"
+        "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+        "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        },
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 227792,
-      "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
-      "url": "https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc"
+      "duration_ms": 205733,
+      "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
+      "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
       "added_at": "2024-11-13 01:19:10",

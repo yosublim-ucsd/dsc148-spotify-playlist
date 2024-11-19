@@ -1,6 +1,6 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Ana Gabriel en portada.",
-  "num_followers": 159536,
+  "num_followers": 159667,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,18 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Mi Rey, Mi Santo",
-        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Mi Rey, Mi Santo",
-      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
+      "duration_ms": 190453,
+      "name": "Adios y Bienvenida",
+      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Mi Rey, Mi Santo",
+        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 190453,
-      "name": "Adios y Bienvenida",
-      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
+      "duration_ms": 164400,
+      "name": "Mi Rey, Mi Santo",
+      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
+      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "Camila Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 197230,
       "name": "Ya Me Voy Para Siempre",
       "url": "https://open.spotify.com/track/1zCfG4iMtCvcCjkoa2kJa7"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
-      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "Ojo Por Ojo",
+        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 181614,
+      "name": "Ojo Por Ojo",
+      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "Todo Todo",
         "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 226173,
       "name": "Contigo En La Distancia",
       "url": "https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "Ojo Por Ojo",
-        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 181614,
-      "name": "Ojo Por Ojo",
-      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243186,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/7LvhyOWIxkpRHvrOB9YxSk"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 157000,
       "name": "El Puente Roto - Tema Remasterizado",
       "url": "https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "16 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
       },
@@ -968,25 +984,9 @@
           "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 243186,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/7LvhyOWIxkpRHvrOB9YxSk"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "Este Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 227605,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+      "duration_ms": 231866,
+      "name": "La Que Baje La Guardia",
+      "url": "https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
+        "name": "Este Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 231866,
-      "name": "La Que Baje La Guardia",
-      "url": "https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ"
+      "duration_ms": 227605,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Quer\u00eda Que Fueras T\u00fa",
         "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 174874,
       "name": "Quer\u00eda Que Fueras T\u00fa",
       "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
     },
     {
       "added_at": "2024-09-13 06:02:00",

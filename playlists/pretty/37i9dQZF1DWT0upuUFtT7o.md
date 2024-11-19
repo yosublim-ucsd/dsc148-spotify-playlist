@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover:  Jeff Lamb
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,016 likes - 121 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,066 likes - 121 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwt8nLYPq15.md) - [plain]
 
 > summer heat 🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,239 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,240 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwt8nLYPq15.md) - [plain]
 | 24 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 25 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 |
 | 26 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
-| 27 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
-| 28 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
+| 27 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
+| 28 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
 | 29 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 |
 | 30 | [Attention](https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:36 |
 | 31 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |

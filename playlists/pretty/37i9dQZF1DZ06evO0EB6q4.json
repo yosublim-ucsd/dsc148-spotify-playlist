@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 231483,
+  "num_followers": 231559,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABz+p5A8p5YRAHEw4L/w3gT",
+  "snapshot_id": "ZzkyAAAAAACq9SuiTA3T1YBtPkYR4gXF",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pelinegra",
         "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
       },
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+      "duration_ms": 216572,
+      "name": "Oro Por Ti",
+      "url": "https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
       "duration_ms": 169348,
       "name": "Rebelde",
       "url": "https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 216572,
-      "name": "Oro Por Ti",
-      "url": "https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Me Da\u00f1as Por Deporte",
+      "url": "https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Verte Cerquita",
         "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Me Da\u00f1as Por Deporte",
-      "url": "https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "El D\u00eda Que Te Duela",
+      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "El D\u00eda Que Te Duela",
-      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
     },
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
+      "duration_ms": 146062,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/7M8xbTGHjEyOFmDndjUHmo"
     },
     {
       "added_at": null,
@@ -763,6 +759,26 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo Tu",
       "url": "https://open.spotify.com/track/5Xa7mPQbcb8sU7fReTdz1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
     },
     {
       "added_at": null,
@@ -794,11 +810,15 @@
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 146062,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/7M8xbTGHjEyOFmDndjUHmo"
+      "duration_ms": 175413,
+      "name": "Notas de Voz",
+      "url": "https://open.spotify.com/track/1EZre4v0JeO9mkFogjjxg0"
     },
     {
       "added_at": null,
@@ -870,15 +890,11 @@
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Notas de Voz",
-      "url": "https://open.spotify.com/track/1EZre4v0JeO9mkFogjjxg0"
+      "duration_ms": 200581,
+      "name": "Se Nos Va",
+      "url": "https://open.spotify.com/track/2Xmry15rjewRCLWCCC2711"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 194495,
       "name": "Como Bolero",
       "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Se Nos Va",
-      "url": "https://open.spotify.com/track/2Xmry15rjewRCLWCCC2711"
     },
     {
       "added_at": null,

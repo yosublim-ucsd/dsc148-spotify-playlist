@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18704,
+  "num_followers": 18716,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -349,24 +349,20 @@
       "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-10-11 00:01:00",
       "album": {
-        "name": "God of Love",
-        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
+        "name": "Olodumare",
+        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Love Song",
-          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 337160,
-      "name": "Wonderful Wonder",
-      "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
+      "duration_ms": 186947,
+      "name": "Olodumare",
+      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -409,6 +405,26 @@
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "God of Love",
+        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Love Song",
+          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
+        }
+      ],
+      "duration_ms": 337160,
+      "name": "Wonderful Wonder",
+      "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Evidence",
@@ -427,22 +443,6 @@
       "duration_ms": 208887,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
-    },
-    {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "Olodumare",
-        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Olodumare",
-      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
     },
     {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj"
+      },
+      "artists": [
+        {
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+        }
+      ],
+      "duration_ms": 378795,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
+    },
+    {
       "added_at": "2024-10-04 00:01:00",
       "album": {
         "name": "God Ye Buddy",
@@ -1007,22 +1023,6 @@
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     }
   ],
   "unique_name": "Higher",

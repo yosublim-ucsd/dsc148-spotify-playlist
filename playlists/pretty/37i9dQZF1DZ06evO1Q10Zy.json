@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 35553,
+  "num_followers": 35557,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAoKMb5vD4XWEOUtWUTFMS+",
+  "snapshot_id": "ZzkyAAAAAAAwyGhE7NccVeZAU3Avaz+h",
   "tracks": [
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM"
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 303093,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE"
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     },
     {
       "added_at": null,
@@ -935,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+        "name": "Partners (Deluxe)",
+        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
       "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
+      "duration_ms": 194000,
+      "name": "Evergreen (with Babyface)",
+      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
     }
   ],
   "unique_name": "This Is Babyface",

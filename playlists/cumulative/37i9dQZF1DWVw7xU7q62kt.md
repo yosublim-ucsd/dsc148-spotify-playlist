@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-323 songs - 16 hr 1 min
+324 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 |  |
 | [Emerald](https://open.spotify.com/track/5OSGlRXM9SLoEdGAhZ2FoS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Emerald](https://open.spotify.com/album/4AK1LTE4aVQKdjQGbKCK8k) | 2:50 | 2024-03-08 |  |
 | [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
-| [Even the Sun](https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Even the Sun](https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG) | 3:26 | 2023-10-13 |  |
+| [Even the Sun](https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Even the Sun](https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG) | 3:26 | 2023-10-13 | 2024-11-19 |
 | [Everyday Grind](https://open.spotify.com/track/67dACHT0a0YnQplyl3FuHe) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [LOBE](https://open.spotify.com/artist/3ZcQb1p2NgNSvnbmVkjgzY) | [Everyday Grind](https://open.spotify.com/album/0yvcEbaIdNcd9asKuDax2p) | 2:04 | 2024-10-18 |  |
 | [Everything We Don't Say](https://open.spotify.com/track/2WpL9ffTMRAafYzdjJ473x) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [Elsewhere](https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew) | 3:03 | 2024-01-26 |  |
 | [Extra Careless](https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Robert Sput Searight](https://open.spotify.com/artist/2XI18vjUTx9nsGBHMlXxcV), [Mono Neon](https://open.spotify.com/artist/0FlgFDbLxMB0JIAzijg1Cu), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Extra Careless](https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR) | 2:50 | 2023-08-22 |  |
@@ -234,6 +234,7 @@
 | [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 | 2024-06-07 |  |
 | [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 |  |
 | [Pure Souls](https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Pure Souls](https://open.spotify.com/album/1ae2rnSlKkul1mpG8bo2X1) | 2:20 | 2024-10-11 |  |
+| [Reality](https://open.spotify.com/track/4b9EngfGZovzQ8cSkOzrqp) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Reality](https://open.spotify.com/album/5i3VAJjQaAjPoK9HyH0Erp) | 2:38 | 2024-11-15 |  |
 | [Remote Frontiers](https://open.spotify.com/track/2IobuIcnIUtGqLqEV6is3K) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [Remote Frontiers](https://open.spotify.com/album/2zyYuvpthRJLXQEqGWgNiP) | 2:31 | 2024-03-20 | 2024-06-08 |
 | [Remote Frontiers](https://open.spotify.com/track/5DBod0aGdSpZPSvVZJ3LIY) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [In The Infinite](https://open.spotify.com/album/009o4j48Se3I5pAU7yQAdC) | 2:31 | 2024-01-26 | 2024-04-19 |
 | [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 |  |

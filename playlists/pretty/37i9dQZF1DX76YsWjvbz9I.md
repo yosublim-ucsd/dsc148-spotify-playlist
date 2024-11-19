@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,876 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,985 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 61 | [April In Paris](https://open.spotify.com/track/4NHNztFS67GSpnU611l74v) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 6:18 |
 | 62 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
 | 63 | [But Beautiful](https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [More Of The Great](https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0) | 4:15 |
-| 64 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
-| 65 | [The Nearness of You](https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:58 |
+| 64 | [The Nearness of You](https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:58 |
+| 65 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
 | 66 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
 | 67 | [I'm Glad There Is You](https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:30 |
 | 68 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 77 | [Our Love Is Here To Stay](https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable Songs](https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d) | 2:13 |
 | 78 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 |
 | 79 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
-| 80 | [With A Song In My Heart \- 78 rpm Version](https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [A Day At The Movies](https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi) | 3:07 |
-| 81 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
+| 80 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
+| 81 | [With A Song In My Heart \- 78 rpm Version](https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [A Day At The Movies](https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi) | 3:07 |
 | 82 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 |
 | 83 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
 | 84 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |

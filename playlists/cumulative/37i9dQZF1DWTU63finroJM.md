@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,747 songs - 3 day 23 hr 0 min
+1,748 songs - 3 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,7 +782,7 @@
 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 | 2024-04-19 | 2024-08-10 |
 | [Kiss Me](https://open.spotify.com/track/77gIcGklmF2h29kcYByVBU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night \(Acoustic\) / Kiss Me](https://open.spotify.com/album/6r1WmJiNgwcURRw9ooH6bi) | 3:47 | 2022-02-03 | 2022-08-02 |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-19 | 2024-08-31 |
-| [Know Me](https://open.spotify.com/track/4JKjLAoG5vvDeyOraHyl74) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [East2Essex](https://open.spotify.com/album/2GjHFK4AukzIoknJ6FN34B) | 3:01 | 2024-09-13 |  |
+| [Know Me](https://open.spotify.com/track/4JKjLAoG5vvDeyOraHyl74) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [East2Essex](https://open.spotify.com/album/2GjHFK4AukzIoknJ6FN34B) | 3:01 | 2024-09-13 | 2024-11-19 |
 | [KOI](https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs), [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [KOI\-4427.01](https://open.spotify.com/album/1iJ8EaRAE5jmHjJOZuDzh0) | 3:27 | 2024-11-15 |  |
 | [KOKO](https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Hold My Drink, Watch This.](https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO) | 2:38 | 2024-11-08 |  |
 | [kraksa](https://open.spotify.com/track/6umyUWnKTDcv6rdSdJ4uSo) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [kraksa](https://open.spotify.com/album/6jU4WJczefdv9viLHQxE6B) | 2:52 | 2022-11-11 | 2023-05-31 |
@@ -1502,6 +1502,7 @@
 | [Watershed](https://open.spotify.com/track/2CfWHcw3H18SdyX4PcwJV2) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:38 | 2022-03-24 | 2022-04-20 |
 | [We Are The River](https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [We Are The River](https://open.spotify.com/album/09Co4NYXyYwAUEncVniSiY) | 3:10 | 2024-02-02 | 2024-06-01 |
 | [We Be Killing it](https://open.spotify.com/track/220vekezDsEdQz8PZrmfCn) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Safar](https://open.spotify.com/album/1XknSuKMvGyfUWEf1TrrsO) | 2:45 | 2024-08-16 | 2024-10-06 |
+| [We Don't Need to Do Forever](https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 2:36 | 2024-11-15 |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-02-03 | 2022-09-16 |
 | [we grew up together](https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [we grew up together](https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM) | 4:04 | 2023-09-15 | 2023-11-18 |
 | [Weak](https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4) | 2:39 | 2022-11-11 | 2023-05-12 |

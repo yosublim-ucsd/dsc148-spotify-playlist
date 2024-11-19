@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 629198,
+  "num_followers": 629222,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Wish It Was You",
-        "url": "https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Cate Downey",
-          "url": "https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Wish It Was You",
-      "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Worlds Away",
         "url": "https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 250400,
       "name": "Worlds Away",
       "url": "https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wish It Was You",
+        "url": "https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Cate Downey",
+          "url": "https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Wish It Was You",
+      "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "All Falls Down",
         "url": "https://open.spotify.com/album/3LLqzHqmnu04kBA5y4Umhy"
       },
@@ -587,22 +607,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+      "duration_ms": 238344,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -639,26 +659,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 238344,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
       },
@@ -675,26 +675,6 @@
       "duration_ms": 153750,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -723,6 +703,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 186999,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Running In A Dream",
         "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
       },
@@ -739,6 +739,26 @@
       "duration_ms": 292156,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "We Could Be Love",
-        "url": "https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -827,22 +827,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+        "name": "We Could Be Love",
+        "url": "https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU"
       },
       "artists": [
         {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 186999,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+      "duration_ms": 170000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/1UnWKwF6vpxiBxa8ZBslTs"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/1UnWKwF6vpxiBxa8ZBslTs"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Good Together",
+      "url": "https://open.spotify.com/track/0HNCtRy85eByDaQI2K92Xn"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "In The Cold",
         "url": "https://open.spotify.com/album/4tFVMKFJs5PXf4Nk01Yrmn"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 239487,
       "name": "In The Cold",
       "url": "https://open.spotify.com/track/3BajuGMCYm9PJaVOPYCN47"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Good Together",
-      "url": "https://open.spotify.com/track/0HNCtRy85eByDaQI2K92Xn"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Don't You",
         "url": "https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 155492,
       "name": "Don't You",
       "url": "https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Way You Had Me",
-        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "The Way You Had Me",
-      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "set me free",
-        "url": "https://open.spotify.com/album/004HrUsnT6v50zlNn2g153"
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
       "artists": [
         {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
         },
         {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
         }
       ],
-      "duration_ms": 218360,
-      "name": "set me free",
-      "url": "https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk"
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1715,6 +1715,26 @@
       "duration_ms": 328275,
       "name": "Homesick (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1lypBFGiKyft1PVgNp358Y"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/004HrUsnT6v50zlNn2g153"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1835,26 +1855,6 @@
       "duration_ms": 205413,
       "name": "i...",
       "url": "https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "feel something real",
-        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "feel something real",
-      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 161538,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2659,6 +2659,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Bleu (better with time)",
+        "url": "https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Where Did You Go",
         "url": "https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK"
       },
@@ -2695,26 +2711,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Disappearing Now",
-        "url": "https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Disappearing Now",
-      "url": "https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Walk Me Home",
         "url": "https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3"
       },
@@ -2739,18 +2735,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Bleu (better with time)",
-        "url": "https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF"
+        "name": "Disappearing Now",
+        "url": "https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
         }
       ],
-      "duration_ms": 196965,
-      "name": "Bleu (better with time)",
-      "url": "https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3"
+      "duration_ms": 291428,
+      "name": "Disappearing Now",
+      "url": "https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL"
     },
     {
       "added_at": "2024-11-15 05:00:00",

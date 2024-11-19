@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 337006,
+  "num_followers": 337014,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaA8AAAAAApEyBSc6YKdEhBnqRyt3SB",
+  "snapshot_id": "Zzs23QAAAAB+UYWZ59RnmaAMw5+vGVVU",
   "tracks": [
     {
       "added_at": "2024-11-14 23:00:00",
@@ -23,26 +23,6 @@
       "duration_ms": 147428,
       "name": "Din Hand",
       "url": "https://open.spotify.com/track/6gc11BwQ1SmRHSfQTmsF9U"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "WIFI",
-        "url": "https://open.spotify.com/album/3OJREvr4W4bECjuSPRvump"
-      },
-      "artists": [
-        {
-          "name": "Adel",
-          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 173392,
-      "name": "WIFI",
-      "url": "https://open.spotify.com/track/4iGFsAwSbgmBpn9CmPTYVD"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -67,6 +47,26 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "WIFI",
+        "url": "https://open.spotify.com/album/3OJREvr4W4bECjuSPRvump"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 173392,
+      "name": "WIFI",
+      "url": "https://open.spotify.com/track/4iGFsAwSbgmBpn9CmPTYVD"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "YEMAYA",
         "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
       },
@@ -83,6 +83,38 @@
       "duration_ms": 153277,
       "name": "Burna Boy",
       "url": "https://open.spotify.com/track/0BSUPnydTkUctGwgpsl20B"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "433",
+        "url": "https://open.spotify.com/album/7ikztBj6JtwCQ2XubmKvH8"
+      },
+      "artists": [
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "duration_ms": 131825,
+      "name": "433",
+      "url": "https://open.spotify.com/track/43zfGqgHYrp5WsTgvNlco2"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "HOLD UP",
+        "url": "https://open.spotify.com/album/5FWdWr7uv3EwmMx8UlyqsJ"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 139065,
+      "name": "HOLD UP",
+      "url": "https://open.spotify.com/track/2J38DVGTR8RV4jLVdDmtQv"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -111,42 +143,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Hva Vil Du",
-        "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
+        "name": "UPPK\u00c4FTIG",
+        "url": "https://open.spotify.com/album/4TpjaYpDpfPRrcX2sUE9OB"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        },
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+          "name": "Lekaye",
+          "url": "https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM"
         }
       ],
-      "duration_ms": 121629,
-      "name": "Hva Vil Du",
-      "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "HOLD UP",
-        "url": "https://open.spotify.com/album/5FWdWr7uv3EwmMx8UlyqsJ"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 139065,
-      "name": "HOLD UP",
-      "url": "https://open.spotify.com/track/2J38DVGTR8RV4jLVdDmtQv"
+      "duration_ms": 128973,
+      "name": "UPPK\u00c4FTIG",
+      "url": "https://open.spotify.com/track/5devaSNJcbsvW4IDOfZpgr"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -199,34 +207,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "UPPK\u00c4FTIG",
-        "url": "https://open.spotify.com/album/4TpjaYpDpfPRrcX2sUE9OB"
+        "name": "Take 2",
+        "url": "https://open.spotify.com/album/0XUQSmBpfqW66X8ULwJ4dQ"
       },
       "artists": [
         {
-          "name": "Lekaye",
-          "url": "https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM"
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
         }
       ],
-      "duration_ms": 128973,
-      "name": "UPPK\u00c4FTIG",
-      "url": "https://open.spotify.com/track/5devaSNJcbsvW4IDOfZpgr"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "433",
-        "url": "https://open.spotify.com/album/7ikztBj6JtwCQ2XubmKvH8"
-      },
-      "artists": [
-        {
-          "name": "Malik Dalasi",
-          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
-        }
-      ],
-      "duration_ms": 131825,
-      "name": "433",
-      "url": "https://open.spotify.com/track/43zfGqgHYrp5WsTgvNlco2"
+      "duration_ms": 170666,
+      "name": "Take 2",
+      "url": "https://open.spotify.com/track/15zXIXUzIHKvcucZBGWCNe"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -451,22 +443,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Take 2",
-        "url": "https://open.spotify.com/album/0XUQSmBpfqW66X8ULwJ4dQ"
-      },
-      "artists": [
-        {
-          "name": "Nuqi",
-          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Take 2",
-      "url": "https://open.spotify.com/track/15zXIXUzIHKvcucZBGWCNe"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "G\u00c5 VIDARE",
         "url": "https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 145945,
       "name": "G\u00c5 VIDARE",
       "url": "https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Hva Vil Du",
+        "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "duration_ms": 121629,
+      "name": "Hva Vil Du",
+      "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
     },
     {
       "added_at": "2024-11-14 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,938 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,021 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 58 | [Set My Heart \- Live](https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:12 |
 | 59 | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/track/11jWJHIPj97VsZlCk72KDF) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Joel Gerdis](https://open.spotify.com/artist/0MxGkBtPVUt3OcFXkj3j3B) | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/album/4WTT13R6XQ9LmrvKvoRUWY) | 5:36 |
 | 60 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
-| 61 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
-| 62 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
-| 63 | [Lift My Eyes](https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:39 |
-| 64 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
+| 61 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
+| 62 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
+| 63 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
+| 64 | [Lift My Eyes](https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:39 |
 | 65 | [You're Making Something Beautiful \- Spontaneous/Live](https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:23 |
 | 66 | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/track/50ECBEWF5HIJ8HqJowrZir) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj) | 5:56 |
 | 67 | [We Just Want to Worship \(Spontaneous\) \- Live](https://open.spotify.com/track/4NyBP8P9C6J6o1yxCeXhCB) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm) | [Speak to the Storm \(Live\)](https://open.spotify.com/album/3Dzff0jSwIghgeL33WEJn8) | 2:30 |

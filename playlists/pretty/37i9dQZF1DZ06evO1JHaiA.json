@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAA73fS45Pfr7DKRyCWCt+Ih",
+  "snapshot_id": "ZzkyAAAAAACEhhXGvkR7zOu1NC6BgJPn",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+        "name": "Let's Go Instro",
+        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 288693,
-      "name": "I Hope That We Can Be Together Soon - Live",
-      "url": "https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz"
+      "duration_ms": 135800,
+      "name": "Rockamaroll",
+      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
     },
     {
       "added_at": null,
@@ -747,18 +739,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gamble Records All-Stars",
-        "url": "https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl"
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 169093,
-      "name": "Give Her a Transplant",
-      "url": "https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw"
+      "duration_ms": 288693,
+      "name": "I Hope That We Can Be Together Soon - Live",
+      "url": "https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go Instro",
-        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
+        "name": "The Gamble Records All-Stars",
+        "url": "https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 135800,
-      "name": "Rockamaroll",
-      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+      "duration_ms": 169093,
+      "name": "Give Her a Transplant",
+      "url": "https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,861 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,877 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Show Me](https://open.spotify.com/track/1EJv8ZXlfjFQdnCNeAucAe) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Show Me](https://open.spotify.com/album/2f52p1EhQFff9RlBZ4cZxy) | 3:01 |
 | 50 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
 
-Snapshot ID: `ZzaA8AAAAADezcTy3X4wsTvck0lfPsqe`
+Snapshot ID: `ZztLuQAAAAD66CyawAbcXh0roS7Nnp6O`

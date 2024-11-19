@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110444,
+  "num_followers": 110472,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-11-15 17:05:22",
       "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "added_at": "2024-11-15 17:05:22",
+      "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2024-11-15 17:05:22",
-      "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2024-11-15 17:05:22",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-11-15 17:05:22",
       "album": {
+        "name": "diament",
+        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "diament",
+      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
+    },
+    {
+      "added_at": "2024-11-15 17:05:22",
+      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 189560,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
-    },
-    {
-      "added_at": "2024-11-15 17:05:22",
-      "album": {
-        "name": "diament",
-        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
-      },
-      "artists": [
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 203434,
-      "name": "diament",
-      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
     },
     {
       "added_at": "2024-11-15 17:05:22",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2024-11-15 17:05:22",
       "album": {
-        "name": "Mamy farta",
-        "url": "https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS"
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
       },
       "artists": [
         {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        },
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Mamy farta",
-      "url": "https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa"
+      "duration_ms": 195000,
+      "name": "Nimbostratus",
+      "url": "https://open.spotify.com/track/1aSxqyObq0lfd8P4rHIESF"
     }
   ],
   "unique_name": "... ale najpierw kawa",

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Kidd Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,924 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,009 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
-| 2 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
-| 3 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
-| 4 | [Diabla](https://open.spotify.com/track/52QRvnfB3dsZ8lAxA9LBMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Diabla](https://open.spotify.com/album/4M3kwhaviuamydOcfq6B8C) | 2:38 |
-| 5 | [Calle Pero Fino](https://open.spotify.com/track/0LXWLqWkxAnvdJllVfA2VP) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ) | [Calle Pero Fino](https://open.spotify.com/album/0H2seejz3fvd3qlT9mgAiO) | 3:18 |
-| 6 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
-| 7 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 |
+| 2 | [Diabla](https://open.spotify.com/track/52QRvnfB3dsZ8lAxA9LBMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Diabla](https://open.spotify.com/album/4M3kwhaviuamydOcfq6B8C) | 2:38 |
+| 3 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
+| 4 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 |
+| 5 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
+| 6 | [Calle Pero Fino](https://open.spotify.com/track/0LXWLqWkxAnvdJllVfA2VP) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ) | [Calle Pero Fino](https://open.spotify.com/album/0H2seejz3fvd3qlT9mgAiO) | 3:18 |
+| 7 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
 | 8 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 |
 | 9 | [RUPIAS](https://open.spotify.com/track/0npNncu4hkA3aJ9L5ipZqI) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [RUPIAS](https://open.spotify.com/album/19Mi6N2VNpFsIfBRCuujGo) | 2:40 |
 | 10 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [TANTO POR HACER](https://open.spotify.com/track/7013pu5Eiovg2QLxpdliQY) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [UNA SEMANA INCREÍBLE](https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM) | 3:22 |
 | 50 | [Replay](https://open.spotify.com/track/69bkxL92sOLeEh6waaridp) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [Replay](https://open.spotify.com/album/0Y6fb5jCCzqOnO3HcgTZrS) | 2:27 |
 
-Snapshot ID: `ZzaBLAAAAADE176xoScXXBVQNotiTsQJ`
+Snapshot ID: `ZzspXQAAAABBatvKBNNSwz7beoIKzhyq`

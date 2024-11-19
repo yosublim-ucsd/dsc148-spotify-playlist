@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,159 likes - 84 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,324 likes - 84 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

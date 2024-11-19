@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,037 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,034 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 10 | [Tire Swing](https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 3:08 |
 | 11 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 |
 | 12 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
-| 13 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
-| 14 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
+| 13 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
+| 14 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
 | 15 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
 | 16 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
 | 17 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 24 | [Walk Away](https://open.spotify.com/track/36hTYlFbEsH2SOu24KJNtH) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 4:16 |
 | 25 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 |
 | 26 | [Tangled in Ropes](https://open.spotify.com/track/78IKSH3rgDaL8GyXV06OKP) | [Holy Locust](https://open.spotify.com/artist/53pzYGtCFFFYEnDy7I21KQ) | [Fever Dream](https://open.spotify.com/album/6Voz4CbRCeBmjOAl6cQYeO) | 5:14 |
-| 27 | [Thinking About a Potentially Awkward Interaction with an Old Friend](https://open.spotify.com/track/60D1sWe1mCWVRnfCOj9FIE) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ), [COMMUTED](https://open.spotify.com/artist/6cawYhCvtkb5aEr1ZpjbGT) | [Just Popping in to Say Hi](https://open.spotify.com/album/5hlppuKaSHTx8E58QAMrE3) | 2:44 |
-| 28 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
+| 27 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
+| 28 | [Thinking About a Potentially Awkward Interaction with an Old Friend](https://open.spotify.com/track/60D1sWe1mCWVRnfCOj9FIE) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ), [COMMUTED](https://open.spotify.com/artist/6cawYhCvtkb5aEr1ZpjbGT) | [Just Popping in to Say Hi](https://open.spotify.com/album/5hlppuKaSHTx8E58QAMrE3) | 2:44 |
 | 29 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 |
 | 30 | [Habits Held](https://open.spotify.com/track/0g5P2jUXS1MajSvTqB9Xzr) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 2:03 |
 | 31 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 |

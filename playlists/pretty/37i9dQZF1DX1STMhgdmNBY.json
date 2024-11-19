@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 91648,
+  "num_followers": 91725,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZlYmBwAAAADfQ1YpGf+PdgcqHZQtnFqA",
   "tracks": [
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "No Foolin'!",
-        "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
       "artists": [
         {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 390666,
-      "name": "It's Mighty Hard",
-      "url": "https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN"
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+        "name": "No Foolin'!",
+        "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+      "duration_ms": 390666,
+      "name": "It's Mighty Hard",
+      "url": "https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN"
     },
     {
       "added_at": "2024-05-28 18:44:23",

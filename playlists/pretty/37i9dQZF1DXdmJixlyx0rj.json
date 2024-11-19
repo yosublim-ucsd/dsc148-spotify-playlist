@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: THE FIX(\ub354 \ud53d\uc2a4))",
-  "num_followers": 26975,
+  "num_followers": 26980,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "Find The Way",
         "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 237160,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 198939,
-      "name": "Dynamite (EDM Remix)",
-      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -503,6 +487,22 @@
       "duration_ms": 139441,
       "name": "Do It Like That (Alan Walker Remix)",
       "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 198939,
+      "name": "Dynamite (EDM Remix)",
+      "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "SET ME FREE (Remixes)",
-        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Lindgren",
-          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "SET ME FREE (Lindgren Remix)",
-      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "Re: searchlight",
         "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 310952,
       "name": "Re: searchlight",
       "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "SET ME FREE (Lindgren Remix)",
+      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "iScreaM Vol.14 : Peaches Remixes",
         "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
@@ -1091,22 +1071,42 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "Pressure (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
       },
       "artists": [
         {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         },
         {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
         }
       ],
-      "duration_ms": 189250,
-      "name": "Pressure - Radio Edit",
-      "url": "https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT"
+      "duration_ms": 185218,
+      "name": "The Feels (Benny Benassi Remix)",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "The Feels",
-        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+        "name": "Pressure (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
         },
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
         }
       ],
-      "duration_ms": 185218,
-      "name": "The Feels (Benny Benassi Remix)",
-      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+      "duration_ms": 189250,
+      "name": "Pressure - Radio Edit",
+      "url": "https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "28 Reasons - CIFIKA Remix",
+      "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 255628,
       "name": "Energetic (Prequel Remix)",
       "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
-      },
-      "artists": [
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "28 Reasons - CIFIKA Remix",
-      "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Power - R3HAB Remix",
+      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Power - R3HAB Remix",
-      "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1767,42 +1787,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Vanilla Sundae",
-      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "iScreaM Vol.4 : 1 Billion Views Remix",
         "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 265785,
       "name": "1 Billion Views - Mar Vista Remix",
       "url": "https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Vanilla Sundae",
+      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
     },
     {
       "added_at": "2024-11-05 10:36:05",

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-247 songs - 14 hr 8 min
+248 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [En kväll i tunnelbanan](https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [En kväll i tunnelbanan](https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN) | 3:04 | 2024-10-24 |  |
 | [En kärlek själv](https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ) | [Henning](https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn) | [En kärlek själv](https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum) | 3:57 | 2024-08-08 | 2024-09-22 |
 | [En tår för varje tår](https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P) | [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [En tår för varje tår](https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD) | 3:24 | 2024-06-27 | 2024-08-09 |
-| [En vän till mig](https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [En vän till mig](https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg) | 2:37 | 2024-09-19 |  |
+| [En vän till mig](https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [En vän till mig](https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg) | 2:37 | 2024-09-19 | 2024-11-19 |
 | [En värld värd att älska](https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK) | [Magnus Carlson](https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM) | [Tillbaka i Brunnsvik](https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc) | 4:46 | 2024-06-27 | 2024-09-20 |
 | [En ökenblomma](https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r), [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Skåpmat 71\-05](https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d) | 4:08 | 2024-06-27 | 2024-09-06 |
 | [Endless Road](https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Endless Road](https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv) | 2:43 | 2024-06-27 | 2024-09-06 |
@@ -134,6 +134,7 @@
 | [Let Her In](https://open.spotify.com/track/1YYbAYmfoUxITo7gNWZThw) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Let Her In](https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62) | 3:46 | 2024-06-27 | 2024-08-09 |
 | [Like No One Could](https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Like No One Could](https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF) | 2:47 | 2024-06-27 | 2024-08-16 |
 | [Lily Of The Valley](https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn) | [Elin Lanto](https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT) | [Lily Of The Valley](https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY) | 3:09 | 2024-06-27 | 2024-09-13 |
+| [Little Human](https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y) | 3:55 | 2024-11-07 |  |
 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 | 2024-06-27 |  |
 | [Ljusare moln](https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Ljusare moln](https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt) | 3:58 | 2024-08-29 |  |
 | [Looking Back, Looking Out](https://open.spotify.com/track/1pSWXfVAsJfT0eM5wmuwuB) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Looking Back, Looking Out](https://open.spotify.com/album/4R5CfXhjC0NCkMntkBekAn) | 3:24 | 2024-06-27 | 2024-08-09 |

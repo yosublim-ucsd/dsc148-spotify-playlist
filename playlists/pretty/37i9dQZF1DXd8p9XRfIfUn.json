@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 77178,
+  "num_followers": 77196,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -847,38 +847,6 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
-    },
-    {
-      "added_at": "2024-11-06 01:24:47",
-      "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
-    },
-    {
-      "added_at": "2024-11-06 01:24:47",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+    },
+    {
+      "added_at": "2024-11-06 01:24:47",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
+    },
+    {
+      "added_at": "2024-11-06 01:24:47",
+      "album": {
+        "name": "La del Tik Tok",
+        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 257592,
+      "name": "La del Tik Tok",
+      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
     },
     {
       "added_at": "2024-11-06 01:24:47",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
-        "name": "Enemigo",
-        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
       },
       "artists": [
         {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 150105,
-      "name": "Enemigo",
-      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
+      "duration_ms": 174892,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
     },
     {
       "added_at": "2024-11-06 01:24:47",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
+        "name": "Enemigo",
+        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
       },
       "artists": [
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
         }
       ],
-      "duration_ms": 174892,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
+      "duration_ms": 150105,
+      "name": "Enemigo",
+      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
     },
     {
       "added_at": "2024-11-06 01:24:47",

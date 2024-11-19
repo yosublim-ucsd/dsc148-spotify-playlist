@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-123 songs - 1 day 8 hr 46 min
+124 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,10 +76,11 @@
 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 | 2023-02-10 |  |
 | [Om Gum Ganapatayei Namaha \(Removing of Obstacles\)](https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 8:12 | 2022-01-24 |  |
 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 | 2023-05-23 |  |
-| [Om Maha Ganapataye Namaha \- 108 Times](https://open.spotify.com/track/601N1MaBovxBQCnPq0hF6H) | [Arundhati Chowdhury](https://open.spotify.com/artist/0PA4l7NRdQLiczQbDTfhZJ), [Hriddhi Chakraborty](https://open.spotify.com/artist/4fDyg9wclrHKmjFNpse1gk), [Aviman Paul](https://open.spotify.com/artist/6jrridHwDgmQ0Zd8Se8YQR) | [Om Maha Ganapataye Namaha \(108 Times\)](https://open.spotify.com/album/4cywXI9R6vx64NvIByh9AE) | 23:15 | 2024-09-05 |  |
+| [Om Maha Ganapataye Namaha \- 108 Times](https://open.spotify.com/track/601N1MaBovxBQCnPq0hF6H) | [Arundhati Chowdhury](https://open.spotify.com/artist/0PA4l7NRdQLiczQbDTfhZJ), [Hriddhi Chakraborty](https://open.spotify.com/artist/4fDyg9wclrHKmjFNpse1gk), [Aviman Paul](https://open.spotify.com/artist/6jrridHwDgmQ0Zd8Se8YQR) | [Om Maha Ganapataye Namaha \(108 Times\)](https://open.spotify.com/album/4cywXI9R6vx64NvIByh9AE) | 23:15 | 2024-09-05 | 2024-11-19 |
 | [Om Mani Padme Hum 1](https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [Yoga Music Collection "Blissfull Mantras & Prayers"](https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T) | 8:24 | 2022-01-24 |  |
 | [Om Namah Shivaay](https://open.spotify.com/track/77BUqblYmGr4k7JAdgiLwt) | [Tochi Raina](https://open.spotify.com/artist/5ygCnHgWewvj077g4Zam9Y) | [Tochi Mantras](https://open.spotify.com/album/3v9tIJ3zIyg7fDwRtUfeGF) | 7:38 | 2022-01-24 | 2024-04-19 |
 | [Om Namah Shivaay](https://open.spotify.com/track/7tBfGCtnJjE6Ktzm3gZIO4) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 7:38 | 2022-01-24 |  |
+| [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 | 2024-11-18 |  |
 | [Om Namah Shivay Mantra](https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Om Namah Shivay Mantra](https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ) | 12:17 | 2023-08-28 |  |
 | [Om Namo Bhagavate Vasudevaya \(Liberation\)](https://open.spotify.com/track/1uzmVgbFP4UsMnTP1RXfQ5) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 9:29 | 2022-01-24 |  |
 | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/track/03QkE78keZ1qKX9FWZmwzh) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/album/499BhQxYN0mvcdEhDHCdRx) | 4:35 | 2023-12-11 | 2024-01-26 |

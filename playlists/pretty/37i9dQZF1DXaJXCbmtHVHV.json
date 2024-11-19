@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Bailey Zimmerman",
-  "num_followers": 574392,
+  "num_followers": 574534,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZzbVUAAAAACfmucMaLjvCMR1DU8e78Ce",
   "tracks": [
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    },
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -167,26 +183,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Miles On It",
-        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 168355,
-      "name": "Miles On It",
-      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Watermelon Moonshine",
         "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
       },
@@ -203,22 +199,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Lies Lies Lies",
         "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
       },
@@ -231,6 +211,42 @@
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -271,34 +287,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -371,34 +387,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 239533,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+      "duration_ms": 239533,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 207176,
-      "name": "What Don't Belong To Me",
-      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Tyler Hubbard",
         "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 207176,
+      "name": "What Don't Belong To Me",
+      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "I Am Not Okay",
-        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 166035,
-      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
-      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Mamaw's House",
         "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 187269,
       "name": "Mamaw's House",
       "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2024-11-15 05:00:00",

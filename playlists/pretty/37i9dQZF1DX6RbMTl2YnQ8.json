@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n",
-  "num_followers": 256062,
+  "num_followers": 256171,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Amantes Sunt Amentes",
-        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
-      },
-      "artists": [
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Los Malaventurados No Lloran",
-      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
+        "name": "Amantes Sunt Amentes",
+        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Los Malaventurados No Lloran",
+      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Amantes Sunt Amentes",
-        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+        "name": "Los De Adentro",
+        "url": "https://open.spotify.com/album/7HBdt5uug3CT3TTfSKnUhD"
       },
       "artists": [
         {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+          "name": "Los De Adentro",
+          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Procedimientos para Llegar a un Com\u00fan Acuerdo",
-      "url": "https://open.spotify.com/track/4V1qXC1U9FIW8dBXXFIrCC"
+      "duration_ms": 220200,
+      "name": "Una Cancion",
+      "url": "https://open.spotify.com/track/2K6yvbAPxtf8YMViw35b0Q"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol: Los 2000",

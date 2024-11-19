@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2156530,
+  "num_followers": 2156691,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "LA PANTERA NEGRA (DELUXE)",
         "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -699,38 +699,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "WE PRAY",
-        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "WE PRAY - Single Version",
-      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "WE PRAY",
+        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "WE PRAY - Single Version",
+      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1227,6 +1227,78 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 171165,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "SLOW IT DOWN",
+        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 142935,
+      "name": "SLOW IT DOWN",
+      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
       },
@@ -1259,62 +1331,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 171165,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "SLOW IT DOWN",
-        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 142935,
-      "name": "SLOW IT DOWN",
-      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/5cmCT8H9mFi0EmJIalBh7k"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 187077,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6XaRzGJgCgh7XHl5vnYbEW"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "A Tear in Space (Airlock)",
-        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 203989,
-      "name": "A Tear in Space (Airlock)",
-      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "We Didn\u2019t Start The Fire",
         "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire",
       "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Flowers Need Rain",
         "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 168126,
       "name": "Flowers Need Rain",
       "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Yes I'm A Mess",
-        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Yes I'm A Mess",
-      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Always, Everytime",
-        "url": "https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 171748,
-      "name": "Always, Everytime",
-      "url": "https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
       },
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Yes I'm A Mess",
+        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Yes I'm A Mess",
+      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "RABBITHOLE",
         "url": "https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 150270,
       "name": "SUGARCOAT",
       "url": "https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Always, Everytime",
+        "url": "https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 171748,
+      "name": "Always, Everytime",
+      "url": "https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg"
     },
     {
       "added_at": "2024-11-18 00:42:13",

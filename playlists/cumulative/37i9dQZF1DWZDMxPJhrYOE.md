@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-282 songs - 14 hr 31 min
+283 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-07-31 | 2024-08-04 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 |  |
 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 | 2024-10-18 | 2024-10-25 |
-| [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-26 |  |
+| [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-26 | 2024-11-19 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-07-01 | 2024-08-17 |
 | [Min Bror](https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror](https://open.spotify.com/album/4SwKgXPEaCTUF1eHHDF91h) | 2:54 | 2024-10-10 |  |
 | [Min Ven](https://open.spotify.com/track/0xsFwrEpSw4D6NzSCP0D6U) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Min Ven](https://open.spotify.com/album/5qX1iW4bIxYjb9bwhcv3xe) | 3:15 | 2024-08-22 | 2024-11-08 |
@@ -187,6 +187,7 @@
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 |  |
 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 | 2024-07-31 | 2024-08-17 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-22 |  |
+| [MUSTANG BABY \(FT\. ARTEMAS\)](https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:11 | 2024-11-15 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-07-01 | 2024-08-27 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-07-01 | 2024-08-01 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-07-01 | 2024-08-01 |

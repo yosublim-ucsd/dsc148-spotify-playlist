@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: IDER
 
-694 songs - 1 day 15 hr 29 min
+695 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Day Of Conquest](https://open.spotify.com/track/4aRUShwBYzKTub81apNczL) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Day Of Conquest](https://open.spotify.com/album/4fJgmPJsicQfiQld8WcE9c) | 2:57 | 2024-09-12 | 2024-09-27 |
 | [day run out](https://open.spotify.com/track/0xMYdgoV2x108erwwifVnT) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [day run out](https://open.spotify.com/album/4AHxGZF5fKJuGiBO2iQUH7) | 3:54 | 2024-08-01 | 2024-08-16 |
 | [daydream therapy](https://open.spotify.com/track/0DekvndV4p34VLabYkB9Pa) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [daydream therapy](https://open.spotify.com/album/2Ox7u11lqScYZAtJE8S5r1) | 3:20 | 2024-09-19 | 2024-10-18 |
+| [Dazed & Confused](https://open.spotify.com/track/6Bt5utTcV6CB2Uw3tHP34U) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Dazed & Confused](https://open.spotify.com/album/2BmQTGnKZuvnO2Q11jkBaT) | 2:52 | 2024-11-14 |  |
 | [Deadbeat Blues \(feat\. BEL\)](https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Deadbeat Blues](https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk) | 2:34 | 2024-09-26 | 2024-10-25 |
 | [Decline & Fall](https://open.spotify.com/track/0dyUZevogwwjombYMR34pc) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Decline & Fall](https://open.spotify.com/album/6xdJWbVw8VGYBmDnvplt5x) | 3:42 | 2024-08-29 | 2024-09-13 |
 | [Deep Underneath](https://open.spotify.com/track/42JGVQvNvNR2XezYgL7CmU) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [Deep Underneath](https://open.spotify.com/album/35hkvt27fW9cLzIqxJ5aQd) | 5:29 | 2024-11-07 |  |

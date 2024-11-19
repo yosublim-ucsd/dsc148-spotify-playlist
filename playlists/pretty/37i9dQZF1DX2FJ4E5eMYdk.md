@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,735 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,800 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 56 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 57 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 58 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
-| 59 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
-| 60 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
+| 59 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
+| 60 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
 
 Snapshot ID: `ZohOOwAAAABz+9O441RhpluXXVhe9u9J`

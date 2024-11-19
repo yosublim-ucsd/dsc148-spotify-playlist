@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,412 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,497 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,21 +51,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 41 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
 | 42 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 43 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 |
-| 44 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
-| 45 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
+| 44 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
+| 45 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 46 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 | 47 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
 | 48 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 49 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 |
 | 50 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 51 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
-| 52 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 |
-| 53 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
-| 54 | [Under The Table](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:21 |
+| 52 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
+| 53 | [Under The Table](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:21 |
+| 54 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 |
 | 55 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
 | 56 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
-| 57 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
-| 58 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 |
+| 57 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 |
+| 58 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 59 | [Starvation](https://open.spotify.com/track/6rtwjJHMx7pNd6xAnT8nK8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV) | 3:27 |
 | 60 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 61 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 72 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
 | 73 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 |
 | 74 | [Die Your Daughter](https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM) | 2:19 |
-| 75 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
-| 76 | [If I Get To Meet You](https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:02 |
+| 75 | [If I Get To Meet You](https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:02 |
+| 76 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 77 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 |
 | 78 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
 | 79 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |

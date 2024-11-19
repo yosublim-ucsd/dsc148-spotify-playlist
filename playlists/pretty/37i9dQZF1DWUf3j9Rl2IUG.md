@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,732 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,855 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 52 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
 | 53 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 |
 | 54 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 55 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
-| 56 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 |
+| 55 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 |
+| 56 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
 | 57 | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq) | 2:36 |
 | 58 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 59 | [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 |

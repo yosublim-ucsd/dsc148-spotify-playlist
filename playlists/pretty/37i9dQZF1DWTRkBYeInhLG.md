@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,794 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,867 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 15 | [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 |
 | 16 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 |
 | 17 | [Hari Itu](https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Hari Itu](https://open.spotify.com/album/52zM9Kzo8pzcXG8LJdt3Mo) | 4:07 |
-| 18 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
-| 19 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |
+| 18 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 |
+| 19 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
 | 20 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
 | 21 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 |
 | 22 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 59 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
 | 60 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
 | 61 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
-| 62 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 |
-| 63 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
+| 62 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
+| 63 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 |
 | 64 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
 | 65 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 | 66 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |

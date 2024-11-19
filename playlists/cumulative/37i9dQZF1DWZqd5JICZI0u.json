@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 228602,
       "name": "Behind The Lines",
       "url": "https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21"
@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Calm Balance",
+        "url": "https://open.spotify.com/album/2gvGaXjSxHPJChmD2EV1ne"
+      },
+      "artists": [
+        {
+          "name": "Veena",
+          "url": "https://open.spotify.com/artist/6dyllSs5fo7DeCSrxTxkF9"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Calm Balance",
+      "url": "https://open.spotify.com/track/4YRJMsB0lkytSNEl8C3Mlt"
+    },
+    {
+      "album": {
         "name": "Serenities",
         "url": "https://open.spotify.com/album/0wtat5gtD4pBOzLTJVBEIg"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 196800,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/4alwurSGuv4U63w9549o1s"
@@ -2228,7 +2246,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 239224,
       "name": "Distant Dreams",
       "url": "https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L"
@@ -2646,6 +2664,24 @@
       "duration_ms": 251145,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5gdW6VVL4UNnqtvGs5yyjJ"
+    },
+    {
+      "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/24eOx9NfgwDYTU8qoyWfQV"
+      },
+      "artists": [
+        {
+          "name": "Proph\u00e9tique",
+          "url": "https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/1dJb5jCV1FrlyOMGhuesJQ"
     },
     {
       "album": {
@@ -9090,7 +9126,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 184750,
       "name": "Te Urewera",
       "url": "https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS"
@@ -9386,6 +9422,24 @@
       "duration_ms": 192793,
       "name": "Threads",
       "url": "https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U"
+    },
+    {
+      "album": {
+        "name": "Time Stretching",
+        "url": "https://open.spotify.com/album/138JdxIVaAhmkEO6xAYLBf"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Alo",
+          "url": "https://open.spotify.com/artist/6Jv5VNbNV5ab6mb7WI7VyI"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Time Stretching",
+      "url": "https://open.spotify.com/track/1uSo7GNKOpzg83LDfi7fLA"
     },
     {
       "album": {
@@ -9886,7 +9940,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 181344,
       "name": "Visio",
       "url": "https://open.spotify.com/track/60k5vyaPD39R4N7LHSe7TP"

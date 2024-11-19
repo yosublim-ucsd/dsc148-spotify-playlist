@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,942 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,960 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 55 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 56 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 57 | [Fight for Love](https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Fight for Love](https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW) | 2:56 |
-| 58 | [Ohh Lala Lala](https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Sweet T](https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V) | 4:35 |
-| 59 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
+| 58 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
+| 59 | [Ohh Lala Lala](https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Sweet T](https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V) | 4:35 |
 | 60 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
 | 61 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
 | 62 | [Bitch On Heels \- Kelvin Wood Radio Mix](https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Kelvin Wood](https://open.spotify.com/artist/0oxqy1B5Cfc2Ir24IQt3vs) | [Bitch On Heels \(Kelvin Wood Remix\)](https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA) | 2:58 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 76 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
 | 77 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 |
 | 78 | [Low](https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb) | 3:21 |
-| 79 | [I Look Fuckin Cool \(feat\. Alaska Thunderfuck\)](https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd) | [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Till Death Do Us Party](https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ) | 3:52 |
-| 80 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 |
+| 79 | [I Call Shade](https://open.spotify.com/track/0onOgyilmAulciekLCqCM8) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS), [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [I Call Shade](https://open.spotify.com/album/4cB8ePwxSLvIBRD85FPTa2) | 4:12 |
+| 80 | [I Look Fuckin Cool \(feat\. Alaska Thunderfuck\)](https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd) | [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Till Death Do Us Party](https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ) | 3:52 |
 
 Snapshot ID: `ZloPIwAAAABRPhnEofTiV+9ycBzMNtyI`

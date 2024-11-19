@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 182138,
+  "num_followers": 182141,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADO87ncn8c8HNBbTu5BKXe+",
+  "snapshot_id": "ZzkyAAAAAADkQj1cbzjB1djBFaO/rNE3",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Flower In the Sun",
-      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,
@@ -655,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
+      "duration_ms": 183706,
+      "name": "Flower In the Sun",
+      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
     },
     {
       "added_at": null,

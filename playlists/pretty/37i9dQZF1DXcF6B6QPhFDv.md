@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. feel it in your bones\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,561,909 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,561,877 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 3 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 |
 | 4 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 |
 | 5 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
-| 6 | [You Got Me Searching](https://open.spotify.com/track/0MP463h7yiFtZmxQAZKh9r) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [You Got Me Searching](https://open.spotify.com/album/3fFE3iA8OG3562RERll9ba) | 3:38 |
+| 6 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
 | 7 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
-| 8 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 |
-| 9 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
-| 10 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
+| 8 | [You Got Me Searching](https://open.spotify.com/track/0MP463h7yiFtZmxQAZKh9r) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [You Got Me Searching](https://open.spotify.com/album/3fFE3iA8OG3562RERll9ba) | 3:38 |
+| 9 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 |
+| 10 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
 | 11 | [Jerkin'](https://open.spotify.com/track/3rZwj7e7m61R5e9Tn3YTFa) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 2:08 |
 | 12 | [Metaverse](https://open.spotify.com/track/49ukvVBtVT9Y575F6VY33G) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 2:14 |
 | 13 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Floods](https://open.spotify.com/track/3qWKi2INlCjt8WmrMqyuFv) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Floods](https://open.spotify.com/album/5CEhUd9cXNZMKelFEWt8Rr) | 4:03 |
 | 75 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
 
-Snapshot ID: `ZzbVUAAAAABPoDc1Xib40NLjHCrMsvzY`
+Snapshot ID: `ZztqigAAAABRI1BAZFwXBSGO4j4z+yJK`

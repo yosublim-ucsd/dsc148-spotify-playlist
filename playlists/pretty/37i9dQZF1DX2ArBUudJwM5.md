@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con La Valenti en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,473 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,470 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,20 +14,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 4 | [ya está, ya fue :\(](https://open.spotify.com/track/6VyAoyV8ZTH7LGCrrlfNoA) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [ya está, ya fue :\(](https://open.spotify.com/album/6fvSV5TC6POgSYhMvZAqkV) | 3:05 |
 | 5 | [Acuerdo](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Acuerdo](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 |
 | 6 | [Aunque Reste Tiempo](https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Tiempo al Sol](https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd) | 1:35 |
-| 7 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
+| 7 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
 | 8 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 |
-| 9 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
+| 9 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
 | 10 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 |
 | 11 | [V13](https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [V13](https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ) | 2:55 |
 | 12 | [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 |
-| 13 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 |
-| 14 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 |
+| 13 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 |
+| 14 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 |
 | 15 | [Pedazo de Cielo](https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:29 |
 | 16 | [Es Hora](https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Sean Felices](https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6) | 3:21 |
 | 17 | [Tu bebotear](https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Dolores](https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox) | 3:00 |
 | 18 | [Esa Morena](https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [Esa Morena](https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1) | 3:40 |
-| 19 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
-| 20 | [Cenicero](https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Cenicero](https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx) | 3:28 |
+| 19 | [Cenicero](https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Cenicero](https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx) | 3:28 |
+| 20 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
 | 21 | [Nadena](https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Nadena](https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh) | 2:25 |
 | 22 | [Buena Moza](https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [Buena Moza](https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH) | 2:10 |
 | 23 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |

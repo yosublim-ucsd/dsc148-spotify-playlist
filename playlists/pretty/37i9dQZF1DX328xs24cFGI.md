@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,274 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,397 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 25 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
 | 26 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 |
 | 27 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 |
-| 28 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 29 | [オールドファッション](https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:14 |
+| 28 | [オールドファッション](https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:14 |
+| 29 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
 | 30 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 31 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 32 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 44 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 |
 | 45 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |
 | 46 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
-| 47 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
-| 48 | [I LOVE...](https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:42 |
+| 47 | [I LOVE...](https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:42 |
+| 48 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
 | 49 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
 | 50 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 |
 | 51 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 62 | [愛言葉](https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:46 |
 | 63 | [Sign](https://open.spotify.com/track/5ZLkGLEYYDlgcDXK6A2vYO) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [I LOVE U](https://open.spotify.com/album/2OtlpZtn5TlOk35j4iNY9v) | 5:21 |
 | 64 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:01 |
-| 65 | [シンデレラガール](https://open.spotify.com/track/3nqKzoptpnyofFLEkTtd1v) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Mr.5 \(Special Edition\)](https://open.spotify.com/album/7KxItgYkHxDBuXphenIdcm) | 4:12 |
-| 66 | [ウエディング](https://open.spotify.com/track/3ZtHtqqSEKd8EcggroTfZU) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ウエディング](https://open.spotify.com/album/6LKuvUyN7HfayyAhWtVZsx) | 5:18 |
-| 67 | [今宵の月のように](https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [明日に向かって走れ\-月夜の歌\-](https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0) | 4:12 |
-| 68 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
-| 69 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 |
+| 65 | [ウエディング](https://open.spotify.com/track/3ZtHtqqSEKd8EcggroTfZU) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ウエディング](https://open.spotify.com/album/6LKuvUyN7HfayyAhWtVZsx) | 5:18 |
+| 66 | [シンデレラガール](https://open.spotify.com/track/3nqKzoptpnyofFLEkTtd1v) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Mr.5 \(Special Edition\)](https://open.spotify.com/album/7KxItgYkHxDBuXphenIdcm) | 4:12 |
+| 67 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 |
+| 68 | [今宵の月のように](https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [明日に向かって走れ\-月夜の歌\-](https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0) | 4:12 |
+| 69 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 | 70 | [シーソーゲーム\~勇敢な恋の歌\~](https://open.spotify.com/track/5EjvlyjMwqmabXgFDD8D2x) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [BOLERO](https://open.spotify.com/album/3RyLgAEYVJD4khGcK7VygR) | 4:29 |
 
 Snapshot ID: `ZzNtcAAAAADTHVJgecbXTkEQokj00AXJ`

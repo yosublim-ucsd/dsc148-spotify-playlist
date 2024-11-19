@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Alejandro Sanz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,497 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,529 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 |
-| 2 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
+| 2 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
 | 3 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |
-| 4 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
+| 4 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 5 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
 | 6 | [Amor Eterno](https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Amor Eterno](https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB) | 4:48 |
 | 7 | [Vuelve](https://open.spotify.com/track/60fniRXixufxR4HCYjOyp6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:42 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 61 | [Lo Que Mis Ojos Ven](https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lo Que Mis Ojos Ven](https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA) | 3:27 |
 | 62 | [La Gata Bajo la Lluvia \- Sesión Acústica en Vivo](https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [La Gata Bajo la Lluvia \(Sesión Acústica en Vivo\)](https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T) | 4:08 |
 | 63 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
-| 64 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 |
-| 65 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
-| 66 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
-| 67 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 |
+| 64 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
+| 65 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 |
+| 66 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 |
+| 67 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
 | 68 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 69 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 70 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |

@@ -21563,6 +21563,28 @@
     },
     {
       "album": {
+        "name": "Circle In Time: Bonus Tracks",
+        "url": "https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273624,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
+    },
+    {
+      "album": {
         "name": "Ghost Notes",
         "url": "https://open.spotify.com/album/17RQgvIhxDC17NKO71jkZx"
       },
@@ -23584,7 +23606,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 257560,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"

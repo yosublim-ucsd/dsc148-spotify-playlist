@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051946,
+  "num_followers": 1051990,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Peaceful Place",
         "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "i don't mind floating",
         "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 250625,
       "name": "Ocean Girl",
       "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Airplanes",
+        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1271,34 +1287,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Airplanes",
-        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
       },
       "artists": [
         {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 157232,
-      "name": "Airplanes",
-      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
+      "duration_ms": 213312,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
     },
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
       },
       "artists": [
         {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
         }
       ],
-      "duration_ms": 187795,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
+      "duration_ms": 214013,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
       },
       "artists": [
         {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1399,6 +1415,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
+      },
+      "artists": [
+        {
+          "name": "Jacob Leo",
+          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1419,22 +1451,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
-      },
-      "artists": [
-        {
-          "name": "Jacob Leo",
-          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa"
       },
@@ -1447,38 +1463,6 @@
       "duration_ms": 153491,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1499,6 +1483,38 @@
       "duration_ms": 152373,
       "name": "L'\u00c9t\u00e9 en Hiver",
       "url": "https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1631,22 +1647,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
+        "name": "spain",
+        "url": "https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328"
       },
       "artists": [
         {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
-        },
-        {
-          "name": "Ava June",
-          "url": "https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV"
+          "name": "theja",
+          "url": "https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
+      "duration_ms": 219999,
+      "name": "spain",
+      "url": "https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1667,22 +1679,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "spain",
-        "url": "https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328"
-      },
-      "artists": [
-        {
-          "name": "theja",
-          "url": "https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "spain",
-      "url": "https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1699,22 +1695,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "For The Night",
-        "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
         },
         {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+          "name": "Ava June",
+          "url": "https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV"
         }
       ],
-      "duration_ms": 157440,
-      "name": "For The Night",
-      "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
+      "duration_ms": 240066,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
     }
   ],
   "unique_name": "Herbst Chillout",

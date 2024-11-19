@@ -2,7 +2,7 @@
 
 ### [Classic Punk](https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ)
 
-> Classic songs that built the foundations of punk\. Cover: Johnny Rotten
+> Classic songs that built the foundations of punk.
 
 187 songs - 8 hr 53 min
 
@@ -16,14 +16,14 @@
 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 | 2021-10-06 |  |
 | [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Deluxe Edition\)](https://open.spotify.com/album/3jLxf9rmNQePi1nCXtaunV) | 1:53 | 2022-11-28 | 2024-04-19 |
 | [Anarchy Burger \(Hold the Government\)](https://open.spotify.com/track/3n2TG1KESRWFP33dFjUUj5) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Deluxe Edition\)](https://open.spotify.com/album/6RIUceBjyscQjYFT81nTxt) | 1:53 | 2022-11-28 | 2023-06-07 |
-| [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Re\-Mastered\)](https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1) | 1:54 | 2021-10-06 | 2022-07-29 |
+| [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Re\-Mastered\)](https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1) | 1:54 | 2021-10-06 |  |
 | [Anarchy Burger \(Hold the Government\)](https://open.spotify.com/track/6rbCaKnfikjHo6RxEDAre9) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism](https://open.spotify.com/album/6MMGc0FA5Kwm8TsiJBx31L) | 1:54 | 2021-10-06 | 2023-01-06 |
 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 | 2021-10-06 |  |
 | [Babylon's Burning](https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa) | [The Ruts](https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3) | [The Crack](https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq) | 2:35 | 2021-10-06 |  |
 | [Bad Mouth](https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:35 | 2021-10-06 | 2024-04-19 |
 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 | 2021-10-06 |  |
 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 | 2021-10-06 | 2024-04-19 |
-| [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 | 2021-10-06 |  |
+| [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 | 2021-10-06 | 2024-11-19 |
 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 | 2021-10-06 |  |
 | [Blank Generation](https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Blank Generation](https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw) | 2:43 | 2021-10-06 |  |
 | [Blank Generation \- 2013 Remaster](https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Spurts: The Richard Hell Story \(2013 Remaster\)](https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF) | 2:47 | 2021-10-06 | 2024-04-19 |
@@ -74,7 +74,7 @@
 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 | 2021-10-06 |  |
 | [Hurry Up Harry](https://open.spotify.com/track/4RybzcdR9VBwRgmGexXNMO) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [The Complete Collection](https://open.spotify.com/album/15WcdixGcfsTud49iJObyb) | 3:25 | 2022-11-28 | 2024-04-19 |
 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 | 2021-10-06 |  |
-| [Hypnotised](https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [Hypnotised \(30th Anniversary Edition\)](https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd) | 2:28 | 2021-10-06 |  |
+| [Hypnotised](https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [Hypnotised \(30th Anniversary Edition\)](https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd) | 2:28 | 2021-10-06 | 2024-11-19 |
 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 | 2021-10-06 |  |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2021-10-06 |  |
 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 | 2021-10-06 |  |
@@ -113,7 +113,7 @@
 | [Natural's Not In It](https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:06 | 2021-10-06 | 2024-04-19 |
 | [Natural's Not in It](https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:06 | 2021-10-06 |  |
 | [Neat Neat Neat](https://open.spotify.com/track/7abNwHdN34BP9q4tKfKeMg) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:41 | 2021-10-06 | 2023-11-04 |
-| [Neat Neat Neat](https://open.spotify.com/track/5GXPPOmtympg9ul3hNQqW4) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/4zR9SJXjzity4diWzcudYx) | 2:43 | 2021-10-06 | 2022-07-29 |
+| [Neat Neat Neat](https://open.spotify.com/track/5GXPPOmtympg9ul3hNQqW4) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/4zR9SJXjzity4diWzcudYx) | 2:43 | 2021-10-06 |  |
 | [Neat Neat Neat](https://open.spotify.com/track/6cxU2pWVkqoBfuBsKGma62) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:43 | 2022-11-28 | 2024-04-19 |
 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 | 2021-10-06 | 2023-11-04 |
 | [New Rose](https://open.spotify.com/track/2RqX92TwDYaChAyfX9tKMH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(Bonus Tracks Version\)](https://open.spotify.com/album/0iMjUB1YIMadcP8DClMDU2) | 2:44 | 2022-11-28 | 2024-04-19 |

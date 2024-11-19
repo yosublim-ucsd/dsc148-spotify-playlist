@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Jharrel Jerome
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,574 likes - 76 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,592 likes - 76 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

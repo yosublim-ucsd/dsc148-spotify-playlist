@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Catz 'n Dogz \ud83d\udc08\u200d\u2b1b \ud83d\udc29 50% techno, 50% house",
-  "num_followers": 638451,
+  "num_followers": 638522,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zzd2rgAAAAB9D2ZDbW0SladFhxgCawsx",
+  "snapshot_id": "Zztg4AAAAADdesIoMnb4A8X63mS88eLR",
   "tracks": [
     {
       "added_at": "2024-11-15 05:00:00",
@@ -53,22 +53,6 @@
       "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Let The Bassline",
-        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 183234,
-      "name": "Let The Bassline",
-      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Run From Me",
@@ -89,24 +73,36 @@
       "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Late Night Talks",
-        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+        "name": "Let The Bassline",
+        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "INDECK.",
-          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 200944,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
+      "duration_ms": 183234,
+      "name": "Let The Bassline",
+      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Hola Venga",
+        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 235238,
+      "name": "Hola Venga",
+      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -241,20 +237,24 @@
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Hola Venga",
-        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "INDECK.",
+          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
         }
       ],
-      "duration_ms": 235238,
-      "name": "Hola Venga",
-      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
+      "duration_ms": 200944,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -969,30 +969,6 @@
       "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
     },
     {
-      "added_at": "2024-08-27 19:31:35",
-      "album": {
-        "name": "Receipts (feat. Gunna)",
-        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "Receipts (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "4U",
@@ -1015,6 +991,30 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "added_at": "2024-08-27 19:31:35",
+      "album": {
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "In The Streets",
+        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "In The Streets",
+      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Snus (Tony Romera Remix)",
@@ -1287,22 +1303,6 @@
       "duration_ms": 179047,
       "name": "Snus - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "In The Streets",
-        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "In The Streets",
-      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1359,6 +1359,22 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 179076,
       "name": "All My Friends Are Hot",
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Make U Sweat",
-        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 148730,
-      "name": "Make U Sweat",
-      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1821,20 +1821,20 @@
       "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Carry Out",
-        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
+        "name": "Heard About Me",
+        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Carry Out",
-      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
+      "duration_ms": 183711,
+      "name": "Heard About Me",
+      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1853,20 +1853,20 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Heard About Me",
-        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
+        "name": "Carry Out",
+        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
       },
       "artists": [
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 183711,
-      "name": "Heard About Me",
-      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+      "duration_ms": 178500,
+      "name": "Carry Out",
+      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
       "added_at": "2024-11-01 05:19:33",
@@ -1973,26 +1973,6 @@
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "What Is Life",
-        "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        }
-      ],
-      "duration_ms": 343922,
-      "name": "What Is Life (feat. rhys from the sticks)",
-      "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unexplained",
@@ -2015,6 +1995,26 @@
       "duration_ms": 220298,
       "name": "Okay Fine",
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "What Is Life",
+        "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 343922,
+      "name": "What Is Life (feat. rhys from the sticks)",
+      "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2049,20 +2049,20 @@
       "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "FIREFLY",
-        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
         }
       ],
-      "duration_ms": 177261,
-      "name": "FIREFLY",
-      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
+      "duration_ms": 157142,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2085,20 +2085,20 @@
       "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
+        "name": "FIREFLY",
+        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
       },
       "artists": [
         {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
         }
       ],
-      "duration_ms": 157142,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
+      "duration_ms": 177261,
+      "name": "FIREFLY",
+      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2121,38 +2121,6 @@
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Who\u2019s That Girl?",
-        "url": "https://open.spotify.com/album/0AdDLWvniz4WSAOAwuMzld"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 224357,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/5QvM8VE7pqBn73Av704IkA"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Vertigo",
@@ -2171,6 +2139,38 @@
       "duration_ms": 148124,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2FXzX7kUXBxqU62TYdheVT"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Who\u2019s That Girl?",
+        "url": "https://open.spotify.com/album/0AdDLWvniz4WSAOAwuMzld"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 224357,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/5QvM8VE7pqBn73Av704IkA"
     },
     {
       "added_at": "2023-10-27 04:01:00",

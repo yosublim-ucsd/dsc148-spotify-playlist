@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 223040,
+  "num_followers": 223151,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-31 09:06:54",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-10-31 09:06:54",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
-    },
-    {
-      "added_at": "2024-10-31 09:06:54",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-10-31 09:06:54",
@@ -959,46 +959,6 @@
     {
       "added_at": "2024-10-31 09:06:54",
       "album": {
-        "name": "SI SABE",
-        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "SI SABE FERXXO",
-      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
-    },
-    {
-      "added_at": "2024-10-31 09:06:54",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
-    },
-    {
-      "added_at": "2024-10-31 09:06:54",
-      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -1023,22 +983,22 @@
     {
       "added_at": "2024-10-31 09:06:54",
       "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2024-10-31 09:06:54",
@@ -1059,6 +1019,26 @@
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
+    },
+    {
+      "added_at": "2024-10-31 09:06:54",
+      "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2024-10-31 09:06:54",
@@ -1087,6 +1067,26 @@
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
+    },
+    {
+      "added_at": "2024-10-31 09:06:54",
+      "album": {
+        "name": "SI SABE",
+        "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "SI SABE FERXXO",
+      "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
     },
     {
       "added_at": "2024-10-31 09:06:54",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-10-31 09:06:54",
       "album": {
-        "name": "Goteras",
-        "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 216450,
-      "name": "Goteras",
-      "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
-    },
-    {
-      "added_at": "2024-10-31 09:06:54",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 279613,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
+    },
+    {
+      "added_at": "2024-10-31 09:06:54",
+      "album": {
+        "name": "Goteras",
+        "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 216450,
+      "name": "Goteras",
+      "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
     },
     {
       "added_at": "2024-10-31 09:06:54",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2024-10-31 09:06:54",
       "album": {
+        "name": "Dame La Verde",
+        "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "Dame La Verde",
+      "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
+    },
+    {
+      "added_at": "2024-10-31 09:06:54",
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": "2024-10-31 09:06:54",
-      "album": {
-        "name": "Dame La Verde",
-        "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "Dame La Verde",
-      "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
     },
     {
       "added_at": "2024-10-31 09:06:54",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-10-31 09:06:54",
       "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2024-10-31 09:06:54",
+      "album": {
         "name": "GODIVA",
         "url": "https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 279893,
       "name": "ESKELETO",
       "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
-    },
-    {
-      "added_at": "2024-10-31 09:06:54",
-      "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-10-31 09:06:54",

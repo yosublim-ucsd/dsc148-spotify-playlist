@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6174,
+  "num_followers": 6173,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABFWAtQZTPRwE/to3dmwHV6",
+  "snapshot_id": "ZzkyAAAAAADOw1ij4cEhoNtEku5BCjQy",
   "tracks": [
     {
       "added_at": null,
@@ -135,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 180426,
-      "name": "Collage",
-      "url": "https://open.spotify.com/track/6phBZrGz8O3i5rzol5TYmz"
+      "duration_ms": 337946,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
     },
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 337946,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
+      "duration_ms": 180426,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/6phBZrGz8O3i5rzol5TYmz"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees - The Very Best Of",
-        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "What I Did for Love",
-      "url": "https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits (Re-recorded)",
         "url": "https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6"
       },
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 169640,
-      "name": "You're the Fool",
-      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
+      "duration_ms": 218626,
+      "name": "What I Did for Love",
+      "url": "https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Heaven I Need",
         "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 197456,
       "name": "The Heaven I Need (Backing Track)",
       "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Three Degrees Live",
-        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Free Ride - Live at Bailey's, London, England - 1975",
-      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 151786,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Free Ride - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
     },
     {
       "added_at": null,
@@ -655,6 +655,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "End Titles",
+      "url": "https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "International",
         "url": "https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G"
       },
@@ -687,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "New Dimensions",
+        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
       },
       "artists": [
         {
@@ -696,61 +764,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
-      },
-      "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "End Titles",
-      "url": "https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uplifting Soul Classics",
-        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "There's So Much Love All Around Me",
-      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+      "duration_ms": 367520,
+      "name": "Giving Up, Giving In",
+      "url": "https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 175680,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Dimensions",
-        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 367520,
-      "name": "Giving Up, Giving In",
-      "url": "https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 137866,
+      "name": "Drivin' Me Mad",
+      "url": "https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 196546,
       "name": "I Do Take You",
       "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4"
     }
   ],
   "unique_name": "This Is The Three Degrees",

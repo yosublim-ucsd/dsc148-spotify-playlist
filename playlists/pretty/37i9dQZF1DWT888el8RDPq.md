@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici emoji del sole eccetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,817 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,820 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 30 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 31 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 32 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
-| 33 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
-| 34 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
+| 33 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
+| 34 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 35 | [LOSER](https://open.spotify.com/track/11uWk4MpRXW6Ei95F6RjFQ) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [LOSER](https://open.spotify.com/album/0bwONTyMcavDzaKfXm25uJ) | 2:22 |
 | 36 | [Hit the Road Jack](https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 1:59 |
 | 37 | [Don't Worry \(with Ray Dalton\) \- Radio Edit](https://open.spotify.com/track/63CSozvYUEudPp12679UVF) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8) | 3:34 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 58 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 59 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 60 | [Jello](https://open.spotify.com/track/53nhFKZZoeAtWPbSq3RxS4) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Jello](https://open.spotify.com/album/3IPxTrFU42DwgPLAuaBLiF) | 2:39 |
-| 61 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
-| 62 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 |
+| 61 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 |
+| 62 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 63 | [Missili](https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Lungolinea.](https://open.spotify.com/album/7LnHiIlbFFtkaKdv1DTEYh) | 3:15 |
 | 64 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 65 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |

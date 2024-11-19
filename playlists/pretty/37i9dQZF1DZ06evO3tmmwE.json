@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACbqMjcXrK9tDMyNrHCr8EN",
+  "snapshot_id": "ZzkyAAAAAAA4j0KqcT6XE/3dkXPcJ28i",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uno Cuhh",
-        "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Chingo Bling",
-          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
-        }
-      ],
-      "duration_ms": 154644,
-      "name": "Uno Cuhh",
-      "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocaine Cowboy",
         "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 144662,
       "name": "Cocaine Cowboy",
       "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uno Cuhh",
+        "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Chingo Bling",
+          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+        }
+      ],
+      "duration_ms": 154644,
+      "name": "Uno Cuhh",
+      "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
     },
     {
       "added_at": null,
@@ -367,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+        "name": "Hustle & Flow",
+        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
       },
       "artists": [
+        {
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 117420,
-      "name": "Pancho Villa",
-      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
+      "duration_ms": 144014,
+      "name": "Tonta (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustle & Flow",
-        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
-        {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 144014,
-      "name": "Tonta (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
+      "duration_ms": 117420,
+      "name": "Pancho Villa",
+      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
     },
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Andy Hernandez",
+          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
+        }
+      ],
+      "duration_ms": 124879,
+      "name": "Pa los Hombres",
+      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 160000,
       "name": "Big Chains",
       "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Andy Hernandez",
-          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
-        }
-      ],
-      "duration_ms": 124879,
-      "name": "Pa los Hombres",
-      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 261407,
       "name": "Pa Mi Gente",
       "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
-      },
-      "artists": [
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Slumped Freestyle",
-      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Bailes Asi (Remix)",
         "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
       },
@@ -847,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
@@ -856,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+      "duration_ms": 256161,
+      "name": "Slumped Freestyle",
+      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
       "duration_ms": 108292,
       "name": "Made a 10 When I Woke Up",
       "url": "https://open.spotify.com/track/4N80NeIiuVoKnfyifJVR1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     }
   ],
   "unique_name": "This Is Bo Bundy",

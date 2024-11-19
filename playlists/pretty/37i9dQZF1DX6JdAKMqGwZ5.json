@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Yarea.",
-  "num_followers": 195625,
+  "num_followers": 195636,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Pensando en Alto",
-        "url": "https://open.spotify.com/album/5Mtb8ayemEBnd92OcueROa"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        }
-      ],
-      "duration_ms": 152548,
-      "name": "Buscando Mitades",
-      "url": "https://open.spotify.com/track/6hdEvBSGqMsoHGk9PZXahB"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "La Ceniza (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 206666,
       "name": "La Ceniza (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Pensando en Alto",
+        "url": "https://open.spotify.com/album/5Mtb8ayemEBnd92OcueROa"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "duration_ms": 152548,
+      "name": "Buscando Mitades",
+      "url": "https://open.spotify.com/track/6hdEvBSGqMsoHGk9PZXahB"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Amor A\u00e9reo",
-        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
-      },
-      "artists": [
-        {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Amor A\u00e9reo",
-      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Chico Bueno",
         "url": "https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so"
       },
@@ -843,6 +827,38 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "Amor A\u00e9reo",
+        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Amor A\u00e9reo",
+      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "El imperio de la sombra",
+        "url": "https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 187043,
+      "name": "Como en las pel\u00edculas",
+      "url": "https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "dos sombras",
         "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 177811,
       "name": "dos sombras",
       "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Vespa Verde Agua",
-        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        }
-      ],
-      "duration_ms": 166134,
-      "name": "Vespa Verde Agua",
-      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -911,18 +911,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "El imperio de la sombra",
-        "url": "https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp"
+        "name": "Si est\u00e1s junto a m\u00ed",
+        "url": "https://open.spotify.com/album/6lCNmoKqnss9vHMcNtyiEG"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
         }
       ],
-      "duration_ms": 187043,
-      "name": "Como en las pel\u00edculas",
-      "url": "https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3"
+      "duration_ms": 222678,
+      "name": "Si est\u00e1s junto a m\u00ed",
+      "url": "https://open.spotify.com/track/5Z1vV9CKW4tx8TYVlQWi0s"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Vespa Verde Agua",
+        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "duration_ms": 166134,
+      "name": "Vespa Verde Agua",
+      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -943,38 +959,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Si est\u00e1s junto a m\u00ed",
-        "url": "https://open.spotify.com/album/6lCNmoKqnss9vHMcNtyiEG"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 222678,
-      "name": "Si est\u00e1s junto a m\u00ed",
-      "url": "https://open.spotify.com/track/5Z1vV9CKW4tx8TYVlQWi0s"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "LA AVENTURA",
         "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 254802,
       "name": "LA AVENTURA",
       "url": "https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "MERCURIO",
-        "url": "https://open.spotify.com/album/4pIeFVYUJRLXzwvQ06JLPM"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "MERCURIO",
-      "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Abraxas!",
         "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 249124,
       "name": "Abraxas!",
       "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "MERCURIO",
+        "url": "https://open.spotify.com/album/4pIeFVYUJRLXzwvQ06JLPM"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "MERCURIO",
+      "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Esto no es el cielo",
         "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 179114,
       "name": "Esto no es el cielo",
       "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 218779,
       "name": "Al infierno",
       "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "la del cretino",
-        "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "la del cretino",
-      "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
         "url": "https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 222755,
       "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
       "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "la del cretino",
+        "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
+      },
+      "artists": [
+        {
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "la del cretino",
+      "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
     },
     {
       "added_at": "2024-11-14 23:00:00",

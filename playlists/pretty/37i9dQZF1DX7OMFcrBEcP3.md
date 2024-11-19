@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,237 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,281 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,21 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 31 | [La Fiesta De Los Perrones](https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 3:45 |
 | 32 | [El Centenario](https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [15 Primeros Exitos Vol\. 1](https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq) | 2:36 |
 | 33 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
-| 34 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
-| 35 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
-| 36 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 |
-| 37 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
+| 34 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
+| 35 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
+| 36 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
+| 37 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 |
 | 38 | [La Caspa Del Diablo](https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Caspa Del Diablo\-Corridos A Toda Ley](https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD) | 2:36 |
 | 39 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
 | 40 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
-| 41 | [Entre Perico Y Perico](https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 5:00 |
-| 42 | [Más Chingón Que Ese Buey](https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Con Banda Y De Parranda](https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR) | 2:42 |
-| 43 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
+| 41 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
+| 42 | [Entre Perico Y Perico](https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 5:00 |
+| 43 | [Más Chingón Que Ese Buey](https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Con Banda Y De Parranda](https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR) | 2:42 |
 | 44 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
 | 45 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 46 | [Soy Albañil](https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:45 |
-| 47 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 |
-| 48 | [Alma Enamorada](https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
+| 47 | [Alma Enamorada](https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
+| 48 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 |
 | 49 | [Contrabando En Los Huevos](https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Contrabando En Los Huevos](https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM) | 4:31 |
 | 50 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
 | 51 | [Chevrolet Cuatro por Cuatro](https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS) | [Los Dos Grandes De La Sierra](https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on) | [Chevrolet 4 X 4](https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 99 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
 | 100 | [El Bazucazo](https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Los Corridos Favoritos Del Jefe](https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH) | 3:39 |
 
-Snapshot ID: `ZOOiUwAAAAClZbetbfHIft5u/5qF635Y`
+Snapshot ID: `ZzuHWAAAAABjx2zyQPNE5gjUKo6XBLOo`

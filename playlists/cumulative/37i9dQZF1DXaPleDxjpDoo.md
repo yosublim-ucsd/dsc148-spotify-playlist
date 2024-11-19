@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-166 songs - 8 hr 55 min
+170 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ancient Rainforest](https://open.spotify.com/track/6MjrUU71pjTyp1khZr0ZVh) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Ancient Rainforest](https://open.spotify.com/album/00rkvNXq3KIytVhbEVWIpY) | 2:00 | 2022-09-15 | 2022-12-03 |
 | [Angelic Waves](https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Angelic Waves](https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY) | 4:17 | 2022-10-07 | 2024-06-04 |
 | [Arboreal Honor](https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY) | [Andrea Forejtek](https://open.spotify.com/artist/7yITKvbdNPCTDbF5Uzd9NW) | [Arboreal Honor](https://open.spotify.com/album/5hW2eMTTdFCkXJWGC7VLjr) | 3:20 | 2024-05-01 |  |
+| [Arcane](https://open.spotify.com/track/1Xigm4SFXMQWr2cbnvL3Px) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [Arcane](https://open.spotify.com/album/07tBVsAAVA7Z7yLMabbAXl) | 2:43 | 2024-11-18 |  |
 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 | 2024-03-06 |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2022-09-15 | 2024-08-24 |
 | [Astrologer](https://open.spotify.com/track/4PGDNeHO1N6OpXhrdTlNGe) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Astrologer](https://open.spotify.com/album/1vpRL7yBWsC09qLXbhCoVS) | 2:22 | 2024-08-23 |  |
@@ -101,6 +102,7 @@
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-09-15 |  |
 | [Morning Forest](https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Morning Forest](https://open.spotify.com/album/1SYfOGXSyZsmkLLPFJ3DxG) | 3:48 | 2023-03-10 |  |
 | [Morning light](https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Morning light](https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz) | 2:20 | 2024-05-01 |  |
+| [Morning Serenade](https://open.spotify.com/track/6sEbedbU8RXINBva1NF792) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Serenade](https://open.spotify.com/album/4Uk70M5CsAYMfyfTAnHw5Q) | 3:17 | 2024-11-18 |  |
 | [Mountain Pathways](https://open.spotify.com/track/5FpXTBkFxaefkGCN63aWHY) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [In Wonder](https://open.spotify.com/album/0LN7ItqLuhqUo4dgyGpbzS) | 2:31 | 2024-04-01 |  |
 | [Moving Forward](https://open.spotify.com/track/5wUcZKUVpLr1mA9cn542BI) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Moving Forward](https://open.spotify.com/album/0nginUJK6TyxW1XEZhdelg) | 2:36 | 2024-01-30 |  |
 | [My Pace](https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 2:45 | 2022-09-15 | 2024-06-04 |
@@ -121,6 +123,7 @@
 | [Patience](https://open.spotify.com/track/17tA00gTfxh9wySixKMLQA) | [Mitsu Wan](https://open.spotify.com/artist/08gv4NQ1u2u0NP5Lg1EMZ2) | [Patience](https://open.spotify.com/album/0prnd9TrNxnOI0mIte7Z5K) | 2:46 | 2024-07-18 |  |
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 | 2024-05-02 |
 | [Peaceful Nature](https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Peaceful Nature](https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg) | 2:45 | 2023-07-14 | 2024-08-24 |
+| [Perennial](https://open.spotify.com/track/4Fjqn5eiBPOkwAbUo0kn67) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Perennial](https://open.spotify.com/album/5XeCWojGKryY5f3CqEbfmm) | 3:43 | 2024-11-18 |  |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-01-30 |  |
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 | 2024-05-02 |
@@ -162,6 +165,7 @@
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-09-15 | 2024-05-02 |
 | [Tu´i](https://open.spotify.com/track/0RBiJCkvaFRkLEQNV05cBs) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Tu´i](https://open.spotify.com/album/0AxYeSn9QBiaYJ8meIurZ3) | 3:10 | 2023-10-13 |  |
 | [twentieth\-night moon \- Meditation](https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [twentieth\-night moon](https://open.spotify.com/album/2N0jLRcc26Bdph24mVNwHK) | 2:50 | 2022-09-15 | 2024-03-06 |
+| [Under the Trees](https://open.spotify.com/track/7ps3QI1bXjxixJzqRyTjD0) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Under the Trees](https://open.spotify.com/album/4Y1je9mpSfNIBbNxeD9j0c) | 3:08 | 2024-11-18 |  |
 | [Unwinding](https://open.spotify.com/track/3pv9G419Ni3HFa4Cgcv5tI) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Unwinding](https://open.spotify.com/album/6u01P2pUMjiPZaiYpUQbql) | 2:14 | 2024-06-03 | 2024-10-02 |
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2022-09-15 | 2024-03-06 |
 | [Visionary Dream \- Meditation](https://open.spotify.com/track/6wfaskFMMdp4YyDL1W6MeE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 4:41 | 2022-12-30 |  |

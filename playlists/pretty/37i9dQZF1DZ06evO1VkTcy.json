@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21745,
+  "num_followers": 21746,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAADjzrSttDEYBVaRqa9ktqN",
+  "snapshot_id": "ZzkyAAAAAACRJSR+Pp1HnekH6Y3H2DLb",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Livre",
         "url": "https://open.spotify.com/album/4IUX7jygRntlpHKwaLen5z"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 225608,
       "name": "Amor Livre",
       "url": "https://open.spotify.com/track/1k6JvHGHVQPV1qeFmtnKWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tava Tudo Tranquilin",
-        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Tava Tudo Tranquilin",
-      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Seu Grande Amor",
         "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 211896,
       "name": "O Seu Grande Amor",
       "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tava Tudo Tranquilin",
+        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Tava Tudo Tranquilin",
+      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
     },
     {
       "added_at": null,
@@ -1119,6 +1119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00f3s Dois",
         "url": "https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 179467,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1283,26 +1283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Mais Uma Vez",
-        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187564,
-      "name": "S\u00f3 Mais Uma Vez",
-      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Mundo Parou",
         "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 223354,
       "name": "O Mundo Parou",
       "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187564,
+      "name": "S\u00f3 Mais Uma Vez",
+      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
     },
     {
       "added_at": null,
@@ -1359,22 +1359,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS"
+        "name": "Poetisas No Topo 2",
+        "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
       "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv"
+      "duration_ms": 556662,
+      "name": "Poetisas No Topo 2",
+      "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
     }
   ],
   "unique_name": "This Is Lourena",

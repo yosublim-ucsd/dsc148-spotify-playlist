@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > Celebrating 30 years of "CrazySexyCool"\. Cover: TLC
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,659,584 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,660,016 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
 | 2 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 3 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
-| 4 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
-| 5 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
+| 4 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
+| 5 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 6 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 7 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 8 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 44 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
 | 45 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
 | 46 | [Angel of Mine](https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:10 |
-| 47 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
-| 48 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
-| 49 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 |
+| 47 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
+| 48 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 |
+| 49 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
 | 50 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
 | 51 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
 | 52 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 69 | [I'm So Into You](https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
 | 70 | [Freak Like Me](https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA) | [Adina Howard](https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ) | [Do You Wanna Ride?](https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk) | 4:13 |
 | 71 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
-| 72 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
+| 72 | [I Couldn't Love You More](https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:48 |
 | 73 | [Before I Let You Go](https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Blackstreet](https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb) | 4:59 |
-| 74 | [I Couldn't Love You More](https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:48 |
-| 75 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:56 |
+| 74 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
+| 75 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
 
 Snapshot ID: `ZzbC3QAAAACtlw/1MfU/ZIYoUnBgaXk9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,414,392 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414,639 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 4 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 |
 | 5 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
 | 6 | [Coming Undone](https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 3:19 |
-| 7 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 |
-| 8 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
+| 7 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
+| 8 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 |
 | 9 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
 | 10 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
 | 11 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 53 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
 | 54 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
 | 55 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
-| 56 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
+| 56 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
 | 57 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
-| 58 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
+| 58 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 59 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 60 | [AFRAID TO DIE \(feat\. Tatiana Shmayluyk from Jinjer\)](https://open.spotify.com/track/70XQAZsck714xP80hqeUsj) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:04 |
 | 61 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 90 | [Lost in the Grey](https://open.spotify.com/track/2bnsTOWLjWLNnWoDyT4S9E) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:30 |
 | 91 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 |
 | 92 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
-| 93 | [Edgecrusher](https://open.spotify.com/track/12PJ8kfsZI7bZP3DGmsjqy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:41 |
-| 94 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 3:56 |
+| 93 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 3:56 |
+| 94 | [Edgecrusher](https://open.spotify.com/track/12PJ8kfsZI7bZP3DGmsjqy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:41 |
 | 95 | [DAMN](https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down \(Deluxe\)](https://open.spotify.com/album/5WdK1rqJzIGuT11HRzvClm) | 3:37 |
 | 96 | [Feel Invincible](https://open.spotify.com/track/2r4DozzHauSjM6NJ7szgVC) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Feel Invincible](https://open.spotify.com/album/1voRzfrt2CunZUj3cjoYTU) | 3:49 |
 | 97 | [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 |

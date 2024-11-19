@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Joe James
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,282 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,290 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 15 | [GeorgianFlip.](https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [Comma, Fullstop.](https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY) | 2:18 |
 | 16 | [Prada or Celine](https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Prada or Celine](https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd) | 2:20 |
 | 17 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
-| 18 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
-| 19 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
+| 18 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
+| 19 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 20 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 |
 | 21 | [NO MANNERS](https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [NO MANNERS](https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX) | 2:18 |
 | 22 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |

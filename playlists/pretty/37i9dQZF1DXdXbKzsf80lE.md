@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,264 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,296 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Meu Bem](https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki) | 2:20 |
-| 2 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
+| 1 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
+| 2 | [Meu Bem](https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki) | 2:20 |
 | 3 | [Tá Rocheda](https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 3:23 |
 | 4 | [Filho do Mato](https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Filho do Mato](https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r) | 2:52 |
 | 5 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 |
-| 6 | [Me Usa \- Ao Vivo](https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Me Usa \(Ao Vivo\)](https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl) | 2:46 |
-| 7 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
+| 6 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
+| 7 | [Me Usa \- Ao Vivo](https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Me Usa \(Ao Vivo\)](https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl) | 2:46 |
 | 8 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
 | 9 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 |
 | 10 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 |

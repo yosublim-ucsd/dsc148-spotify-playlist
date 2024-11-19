@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,979 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,034 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 33 | [Relaxin' with cherry](https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 5:28 |
 | 34 | [Black Jesus](https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 4:05 |
 | 35 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
-| 36 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
+| 36 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
 | 37 | [Futures](https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:53 |
-| 38 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
+| 38 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 39 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
 | 40 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 41 | [Nova](https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Permutation](https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp) | 4:42 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 59 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
 | 60 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 61 | [A Zed And Two L's](https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ) | [Fila Brazillia](https://open.spotify.com/artist/2wss0kNi7zdZTrxnCFxSQW) | [Maim That Tune](https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF) | 9:26 |
-| 62 | [Protection \- Single Version](https://open.spotify.com/track/0lPBZgbh3mxAE08NCM4AVY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Singles Collection](https://open.spotify.com/album/5AmrF5hA0d8djSRpnZVmZH) | 4:55 |
-| 63 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
+| 62 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
+| 63 | [Protection \- Single Version](https://open.spotify.com/track/0lPBZgbh3mxAE08NCM4AVY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Singles Collection](https://open.spotify.com/album/5AmrF5hA0d8djSRpnZVmZH) | 4:55 |
 | 64 | [Under the Gun](https://open.spotify.com/track/55G3VZAmkOyyfKI189ayv1) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 3:30 |
 | 65 | [Cafe Blackjack](https://open.spotify.com/track/1sVySdRgpGjiQErUUzuXri) | [Beyond Orange](https://open.spotify.com/artist/25nW1bRGLdYp1YBmHGzrbH) | [Beyond Orange](https://open.spotify.com/album/2Zlbe3OlqEYiNHUB1qZbhF) | 4:23 |
 | 66 | [Near the Black Forest](https://open.spotify.com/track/5DqgAiif05gAXy4qC5ag17) | [Vanessa Daou](https://open.spotify.com/artist/0r13pf5aRSEWKl7m7qMXXT) | [Zipless \(Songs from the Works of Erica Jong\)](https://open.spotify.com/album/3IWegipqP4WNAIMGon5KyK) | 4:46 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 92 | [Lebanese Blonde](https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn) | 4:50 |
 | 93 | [Night over Manaus](https://open.spotify.com/track/5E80SdB1TAjgZqX5t6D3Fa) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [Satta](https://open.spotify.com/album/33EJ6lZ0aQ6uYFnac5F5Xq) | 6:19 |
 | 94 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
-| 95 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
-| 96 | [Angelica](https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/0h9G8NCZlEj7cO38rp5mje) | 3:40 |
-| 97 | [Your Girl](https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc) | 5:04 |
-| 98 | [Sign](https://open.spotify.com/track/5YNMjGLMY3JvuCFd9FLdcc) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 6:14 |
-| 99 | [At the River](https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo) | 6:33 |
-| 100 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 |
+| 95 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
+| 96 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
+| 97 | [Angelica](https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/0h9G8NCZlEj7cO38rp5mje) | 3:40 |
+| 98 | [Your Girl](https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc) | 5:04 |
+| 99 | [Sign](https://open.spotify.com/track/5YNMjGLMY3JvuCFd9FLdcc) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 6:14 |
+| 100 | [At the River](https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo) | 6:33 |
 
 Snapshot ID: `ZpFVWQAAAACTYTjehF8gHGZiPvxX5lc0`

@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3965,
+  "num_followers": 3968,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABjTsWr84GfWkjk8DrLgtuU",
+  "snapshot_id": "ZzkyAAAAAAAgRJxnkcJWN5Jmcvsiz0cC",
   "tracks": [
     {
       "added_at": null,
@@ -1403,26 +1403,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Levo Daqui",
-        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
+        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
       },
       "artists": [
         {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+          "name": "Belle Kaffer",
+          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Casluh",
+          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Lu\u00e1 Kali",
-          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
         }
       ],
-      "duration_ms": 244965,
-      "name": "Te Levo Daqui",
-      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
+      "duration_ms": 497624,
+      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
     }
   ],
   "unique_name": "This Is Hyperanhas",

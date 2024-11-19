@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,023 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,033 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 17 | [Black Jack](https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:05 |
 | 18 | [Padre Nuestro](https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Padre Nuestro](https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9) | 3:28 |
 | 19 | [Mucho Relajo](https://open.spotify.com/track/1fx2FDN9dMvAagk8oSQk9Z) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 2:49 |
-| 20 | [Ahora Piden Paros](https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD) | 2:19 |
-| 21 | [Suerte No Fue](https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Suerte No Fue](https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi) | 3:11 |
+| 20 | [Suerte No Fue](https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Suerte No Fue](https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi) | 3:11 |
+| 21 | [Ahora Piden Paros](https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD) | 2:19 |
 | 22 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 |
 | 23 | [BALENCIAGA](https://open.spotify.com/track/09S7x3ltigb9HyCH1eWxDY) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [PARY](https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh) | 2:29 |
 | 24 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 28 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
 | 29 | [POR TU CULPA](https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:49 |
 | 30 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
-| 31 | [Mejor Ponganse A Chambear](https://open.spotify.com/track/4TLuLP1LksSe4d8E4TJzFR) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 3:05 |
-| 32 | [Sapo 777](https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Sapo 777](https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo) | 3:16 |
+| 31 | [Sapo 777](https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Sapo 777](https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo) | 3:16 |
+| 32 | [Mejor Ponganse A Chambear](https://open.spotify.com/track/4TLuLP1LksSe4d8E4TJzFR) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 3:05 |
 | 33 | [JOHNNIE WALKER](https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:15 |
 | 34 | [Una Cruz](https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Una Cruz](https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF) | 2:53 |
 | 35 | [NMMS](https://open.spotify.com/track/4PtZh2Xu5EohHdVBTLuUqz) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Sin Opción](https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Sin Opción](https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd) | 1:56 |
 | 50 | [VIDA DE FAMOSO](https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:06 |
 
-Snapshot ID: `ZzfggAAAAADDfp9h+cO/oqy1aXdTa88R`
+Snapshot ID: `ZzkyAAAAAADoO5hiKJQ0QBnsHRz+pphe`

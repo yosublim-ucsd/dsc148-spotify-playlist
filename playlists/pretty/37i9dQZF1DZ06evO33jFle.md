@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,359 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,445 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 45 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
 | 46 | [Amaneciste Conmigo AKA Sentirte en Mi Frío](https://open.spotify.com/track/5lxxecVB18OTQQDreOpwNZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:41 |
 | 47 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 |
-| 48 | [Cuando Abras los Ojos](https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:44 |
-| 49 | [La Misma Gran Señora](https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:01 |
+| 48 | [La Misma Gran Señora](https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:01 |
+| 49 | [Cuando Abras los Ojos](https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:44 |
 | 50 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 |
 | 51 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 |
 
-Snapshot ID: `ZzfggAAAAAAygTk6Lndd6OcV2FgUJgyq`
+Snapshot ID: `ZzkyAAAAAADNSc+1Psa7nqN3jCt8iHnI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Joaquina Mertz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,204 likes - 59 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,224 likes - 59 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

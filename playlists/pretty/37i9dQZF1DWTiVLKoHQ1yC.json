@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 223846,
+  "num_followers": 223927,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Kendall Park",
-        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
-      },
-      "artists": [
-        {
-          "name": "Duce",
-          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 200635,
-      "name": "Kendall Park",
-      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Kendall Park",
+        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 200635,
+      "name": "Kendall Park",
+      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
     },
     {
       "added_at": "2024-11-01 00:00:00",

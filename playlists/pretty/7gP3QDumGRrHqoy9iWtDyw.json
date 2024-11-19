@@ -1,13 +1,61 @@
 {
   "description": "",
-  "num_followers": 22461,
+  "num_followers": 22462,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJSBmpMmWtjFjVth/f3Oz8AKJf8M6b",
+  "snapshot_id": "AAAJTpECB50AMksq6Sewpbu4tNJ7HKYf",
   "tracks": [
+    {
+      "added_at": "2024-11-18 14:07:05",
+      "album": {
+        "name": "Get Hyped",
+        "url": "https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 197812,
+      "name": "Get Hyped",
+      "url": "https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0"
+    },
+    {
+      "added_at": "2024-11-18 14:09:05",
+      "album": {
+        "name": "It's A Party (PRX002)",
+        "url": "https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "It's a Party (PRX002)",
+      "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
+    },
+    {
+      "added_at": "2024-11-18 14:07:42",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
     {
       "added_at": "2024-11-02 06:42:51",
       "album": {

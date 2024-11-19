@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 165178,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -6434,7 +6434,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 179772,
       "name": "La Sin Sentimientos",
       "url": "https://open.spotify.com/track/2bHJApowIgaWMnohasLUvF"
@@ -7470,7 +7470,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 152275,
       "name": "Me Sabe a Sal",
       "url": "https://open.spotify.com/track/12E3CkcfmRymdglKv9f4d6"
@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -9968,7 +9968,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -11056,7 +11056,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 348400,
       "name": "Sultans Of Swing",
       "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
@@ -11074,7 +11074,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 348760,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
@@ -11726,7 +11726,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -11748,7 +11748,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -12122,6 +12122,28 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+    },
+    {
+      "album": {
+        "name": "BRILLAR",
+        "url": "https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176294,
+      "name": "TU FEO",
+      "url": "https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39"
     },
     {
       "album": {
@@ -13054,7 +13076,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -13254,7 +13276,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"

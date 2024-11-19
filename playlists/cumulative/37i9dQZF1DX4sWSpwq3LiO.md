@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,751 songs - 3 day 5 hr 45 min
+1,753 songs - 3 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Hope](https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Hope](https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD) | 2:53 | 2022-07-06 | 2022-12-21 |
 | [Hopedale](https://open.spotify.com/track/4VZBnGVLY4HNJqcWfVMsd4) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Hopedale](https://open.spotify.com/album/3vInqvBRChPgZDE0Rz9AEH) | 2:37 | 2019-09-05 | 2020-05-06 |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-05-26 | 2023-02-11 |
+| [Horizon 地平线](https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Horizon 地平线](https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U) | 2:37 | 2024-11-18 |  |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-10-13 | 2023-09-23 |
 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 | 2022-07-28 | 2024-08-13 |
 | [How Soon](https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [How Soon](https://open.spotify.com/album/2ZaihQBGWPP9tOy1dprbks) | 2:50 | 2021-04-22 | 2022-08-27 |
@@ -699,7 +700,7 @@
 | [Into You](https://open.spotify.com/track/2x7VhfaYeDayVZAmByMMWY) | [Lo Kee](https://open.spotify.com/artist/08uLNgUnd5EHzB8BfTJYUF) | [Into You](https://open.spotify.com/album/22DdZx94QQ8TRPQRxdDLi3) | 2:36 | 2020-01-22 | 2020-02-04 |
 | [Intro](https://open.spotify.com/track/4MFKi6VzidmH1V6TX86ihS) | [Black Elk](https://open.spotify.com/artist/3LruscMfdxyvqJpFzywkfb) | [Sparks](https://open.spotify.com/album/3vRpqnDd3wZgehe9VIqNqV) | 1:38 | 2019-05-26\* | 2020-02-11 |
 | [Introduction](https://open.spotify.com/track/0diC07Eo4mC897aC81dXhL) | [Austen Pugh](https://open.spotify.com/artist/1Sll42K9ij3OMAk7Hvdfnu) | [Introduction](https://open.spotify.com/album/78AyIUldRlmVdsIZnZbtmZ) | 2:15 | 2021-03-31 | 2021-12-16 |
-| [inverno 1](https://open.spotify.com/track/4dHsrfybYMwR47LWYjLxR5) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [inverno](https://open.spotify.com/album/1utXo2tIXx4QD4hxu7IiZC) | 2:00 | 2023-01-27 |  |
+| [inverno 1](https://open.spotify.com/track/4dHsrfybYMwR47LWYjLxR5) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [inverno](https://open.spotify.com/album/1utXo2tIXx4QD4hxu7IiZC) | 2:00 | 2023-01-27 | 2024-11-19 |
 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2021-03-31 | 2022-01-13 |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2020-03-03 | 2020-10-20 |
 | [Isle of Arran](https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Isle of Arran](https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R) | 2:50 | 2021-01-18 | 2022-07-29 |
@@ -997,7 +998,7 @@
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-02 | 2023-09-23 |
 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 | 2020-02-26 | 2021-02-03 |
 | [Nightfall](https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Nightfall](https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB) | 2:44 | 2019-10-04 | 2020-06-09 |
-| [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 | 2023-02-03 |  |
+| [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 | 2023-02-03 | 2024-11-19 |
 | [Nightingale \(Scaled Down Version\)](https://open.spotify.com/track/6gMuOzoUWF2jD8Vz39SBk6) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Berceuse](https://open.spotify.com/album/3CapLnomeQByNOs4WBPOAZ) | 2:08 | 2019-05-26\* | 2019-10-30 |
 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 | 2022-02-02 | 2022-06-04 |
 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 | 2024-07-16 |  |
@@ -1045,6 +1046,7 @@
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-15 | 2023-09-23 |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2020-12-08 | 2021-09-09 |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-03-31 | 2021-09-09 |
+| [Ojos nuevos](https://open.spotify.com/track/3iPin5YjlIrZp95kyWmGTZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Ojos nuevos](https://open.spotify.com/album/09S3TaVVPiGXL76onqDDDq) | 2:24 | 2024-11-18 |  |
 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 | 2023-02-03 | 2023-09-23 |
 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-03 | 2023-02-09 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2020-11-03 | 2022-05-27 |
@@ -1499,7 +1501,7 @@
 | [The light that blinds us](https://open.spotify.com/track/3OrNycpUQqB3sn9QRUqfjj) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [The light that blinds us](https://open.spotify.com/album/6oO7TwrWWd10uGEyrIpkXG) | 2:28 | 2022-07-15 | 2024-01-03 |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2020-12-01 | 2021-05-06 |
 | [The Longer I Wait](https://open.spotify.com/track/0XCTZX036IzhP1ea8CrDK3) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [The Longer I Wait](https://open.spotify.com/album/0CFu4CUIMG864wkfuHilVs) | 1:56 | 2022-08-08 | 2023-11-21 |
-| [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 | 2023-03-20 |  |
+| [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 | 2023-03-20 | 2024-11-19 |
 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 | 2022-05-26 | 2023-12-06 |
 | [The Milki Way](https://open.spotify.com/track/1U9YC9rH1hg3JmB9lbdjAE) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 2:50 | 2019-07-11 | 2020-02-11 |
 | [The Mist That Surrounds](https://open.spotify.com/track/25ScmRjdUWeTd6lfGpvvOn) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [A Place I Know](https://open.spotify.com/album/4KLHPyfD2MTc826LxI7iy1) | 2:25 | 2020-03-25 | 2020-12-15 |

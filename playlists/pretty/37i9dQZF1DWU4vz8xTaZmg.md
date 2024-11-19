@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 
 > Hacele honor al domingo y terminalo bien arriba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,876 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,885 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4vz8xTaZmg.md) - [plain]
 | 65 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
 | 66 | [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
 | 67 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
-| 68 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |
+| 68 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 |
 | 69 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 |
 | 70 | [MELÓN VINO](https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:56 |
-| 71 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 |
+| 71 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |
 | 72 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 |
 | 73 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
 | 74 | [220](https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:56 |

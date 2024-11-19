@@ -4,7 +4,7 @@
 
 > 
 
-353 songs - 23 hr 39 min
+354 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-24 | 2024-10-12 |
 | [Forever](https://open.spotify.com/track/3yZEoq8Rz599OSgIOwrU5z) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 5:36 | 2022-11-14 | 2023-02-07 |
 | [Forever \(Solomun Remix\)](https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Forever \(Solomun Remix\)](https://open.spotify.com/album/09rft4QsmOVsaUzJjGrZOb) | 3:48 | 2023-08-17 | 2023-10-28 |
+| [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 | 2024-11-18 |  |
 | [Forgive Me \(Live\) \(ODESZA VIP Remix\)](https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Forgive Me \(Live\) / A Moment Apart \(Live\)](https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV) | 4:03 | 2024-04-16 | 2024-07-11 |
 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 | 2022-11-11 | 2023-07-15 |
 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 | 2022-08-10 | 2023-05-19 |
@@ -306,7 +307,7 @@
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2022-12-08 | 2023-01-10 |
 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 | 2024-08-13 |
 | [the evidence \- Exaktly remix](https://open.spotify.com/track/6V0wLGlc9WkPrKGOsBBhMd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [the evidence \(Exaktly remix\)](https://open.spotify.com/album/2aM56kUoNhWsDhg5sDZlwG) | 2:59 | 2024-10-03 |  |
-| [The Kiss](https://open.spotify.com/track/6jOg7Vcj5kzV8RML6YZAKF) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [The Kiss](https://open.spotify.com/album/7z3Frq3oPasxt34BeVO0EZ) | 4:31 | 2024-08-27 |  |
+| [The Kiss](https://open.spotify.com/track/6jOg7Vcj5kzV8RML6YZAKF) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [The Kiss](https://open.spotify.com/album/7z3Frq3oPasxt34BeVO0EZ) | 4:31 | 2024-08-27 | 2024-11-19 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-08 | 2022-08-11 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-09-20 | 2023-02-22 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 | 2023-01-11 | 2023-03-18 |

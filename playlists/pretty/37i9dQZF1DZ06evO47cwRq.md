@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,783,707 likes - 52 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,785,025 likes - 52 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 25 | [Lying from You](https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:55 |
 | 26 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
 | 27 | [Leave Out All The Rest](https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:29 |
-| 28 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
+| 28 | [Good Things Go](https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:29 |
 | 29 | [Don't Stay](https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:07 |
-| 30 | [LOST IN THE ECHO](https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:25 |
-| 31 | [Waiting for the End](https://open.spotify.com/track/5JHNg1hxZFT7TDEphhM4wj) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 3:51 |
-| 32 | [New Divide](https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 4:28 |
-| 33 | [Runaway](https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:03 |
-| 34 | [Good Things Go](https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:29 |
+| 30 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
+| 31 | [LOST IN THE ECHO](https://open.spotify.com/track/2oNYsdCasRRlz1shXFAz7D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:25 |
+| 32 | [Waiting for the End](https://open.spotify.com/track/5JHNg1hxZFT7TDEphhM4wj) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 3:51 |
+| 33 | [New Divide](https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 4:28 |
+| 34 | [Runaway](https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:03 |
 | 35 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 |
 | 36 | [Final Masquerade](https://open.spotify.com/track/3aYBjxTMvrEOP0A0UXg9ER) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:37 |
-| 37 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
-| 38 | [No More Sorrow](https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:41 |
+| 37 | [No More Sorrow](https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:41 |
+| 38 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
 | 39 | [IN MY REMAINS](https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:20 |
 | 40 | [The Catalyst](https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 5:39 |
 | 41 | [More the Victim](https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 2:41 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 51 | [A LIGHT THAT NEVER COMES](https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [RECHARGED](https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD) | 3:49 |
 | 52 | [POWERLESS](https://open.spotify.com/track/4zNk347FJz4yDDcjUhJJMI) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:44 |
 
-Snapshot ID: `ZzfggAAAAADGru0W8h6g/hyX7HBLMhu0`
+Snapshot ID: `ZzkyAAAAAAABuOEFG3jHs/3cWZdEH0RC`

@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Los Turros.",
-  "num_followers": 569336,
+  "num_followers": 569365,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -907,42 +907,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Corte Caco (Remix)",
-        "url": "https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN"
-      },
-      "artists": [
-        {
-          "name": "Nuke",
-          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "Obie Wanshot",
-          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        },
-        {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
-        }
-      ],
-      "duration_ms": 214020,
-      "name": "Corte Caco - Remix",
-      "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Homenaje a Colombia",
         "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
@@ -975,6 +939,42 @@
       "duration_ms": 230243,
       "name": "El Amor Se Fue",
       "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Corte Caco (Remix)",
+        "url": "https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN"
+      },
+      "artists": [
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        }
+      ],
+      "duration_ms": 214020,
+      "name": "Corte Caco - Remix",
+      "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Sistema",
-        "url": "https://open.spotify.com/album/53C2m73R5MYy2b4KfHvmC5"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Sistema",
-      "url": "https://open.spotify.com/track/0mcdl5mY8qvOxk7pqLyv8v"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Sistema",
+        "url": "https://open.spotify.com/album/53C2m73R5MYy2b4KfHvmC5"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Sistema",
+      "url": "https://open.spotify.com/track/0mcdl5mY8qvOxk7pqLyv8v"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Supermerk2 & Meta Guacha: 2x1",
-        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
       },
       "artists": [
         {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 250346,
-      "name": "Alma Blanca",
-      "url": "https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p"
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     }
   ],
   "unique_name": "Cumbia villera",

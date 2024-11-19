@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 9896,
+  "num_followers": 9900,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Mary Jane (All Night Long)",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 264333,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Mary Jane (All Night Long)",
+      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "A Moment In Time",
-        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
-      },
-      "artists": [
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Mountain High Valley Low",
         "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 340040,
       "name": "Open My Heart",
       "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "A Moment In Time",
+        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
     },
     {
       "added_at": "2022-10-01 16:43:03",

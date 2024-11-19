@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30227,
+  "num_followers": 30229,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 260106,
-      "name": "The Lady Suite - Live from MTV Unplugged, Brooklyn, NY - May 1997",
-      "url": "https://open.spotify.com/track/1wygFl6hCok4naRPSrDdWL"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 403666,
       "name": "I Can't Write Left-Handed - Live at Carnegie Hall, New York, NY - October 1972",
       "url": "https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 260106,
+      "name": "The Lady Suite - Live from MTV Unplugged, Brooklyn, NY - May 1997",
+      "url": "https://open.spotify.com/track/1wygFl6hCok4naRPSrDdWL"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Like a Ship (Live from Strange Manor)",
-        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 309493,
-      "name": "Like a Ship - Live from Strange Manor",
-      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "In Performance",
         "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Like a Ship (Live from Strange Manor)",
+        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 309493,
+      "name": "Like a Ship - Live from Strange Manor",
+      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 236026,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Invisible Chains Live from Nyc",
-        "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
-      },
-      "artists": [
-        {
-          "name": "Raul Mid\u00f3n",
-          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
-        }
-      ],
-      "duration_ms": 572680,
-      "name": "Sunshine \"I Can Fly\" (Live)",
-      "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 191200,
       "name": "Tell Me More And More And Then Some",
       "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Invisible Chains Live from Nyc",
+        "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
+      },
+      "artists": [
+        {
+          "name": "Raul Mid\u00f3n",
+          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+        }
+      ],
+      "duration_ms": 572680,
+      "name": "Sunshine \"I Can Fly\" (Live)",
+      "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1527,6 +1527,38 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "In Person at the Whiskey a Go Go",
+        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
+      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "Dr. Feelgood (Love Is Serious Business) - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/1wNTVn4fnAd5Iyt1eT2Wy8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Curtis in Chicago - Recorded Live!",
         "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
       },
@@ -1543,34 +1575,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+        "name": "Come To My Door (Live at Levon Helm Studios)",
+        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 172066,
-      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "In Person at the Whiskey a Go Go",
-        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
-      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
+      "duration_ms": 341133,
+      "name": "Come To My Door - Live at Levon Helm Studios",
+      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1603,22 +1619,6 @@
       "duration_ms": 213000,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Come To My Door (Live at Levon Helm Studios)",
-        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 341133,
-      "name": "Come To My Door - Live at Levon Helm Studios",
-      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
     },
     {
       "added_at": "2024-10-25 07:48:43",

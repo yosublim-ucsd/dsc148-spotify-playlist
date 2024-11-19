@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17934,
+  "num_followers": 17932,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Sem Cortesia (Vagando na Babil\u00f4nia / Em Busca de Cana\u00e3)",
+        "url": "https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK"
+      },
+      "artists": [
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        }
+      ],
+      "duration_ms": 165903,
+      "name": "Se Escute",
+      "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "No Dia dos Nossos",
         "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 234032,
       "name": "Flo Jo",
       "url": "https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Sem Cortesia (Vagando na Babil\u00f4nia / Em Busca de Cana\u00e3)",
-        "url": "https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK"
-      },
-      "artists": [
-        {
-          "name": "S\u00edntese",
-          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
-        }
-      ],
-      "duration_ms": 165903,
-      "name": "Se Escute",
-      "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
     },
     {
       "added_at": "2024-08-16 20:28:24",

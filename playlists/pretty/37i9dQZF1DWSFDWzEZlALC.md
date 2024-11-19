@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: frytz, Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,368 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,425 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hals über Kopf](https://open.spotify.com/track/0bJET87Db6DDCGEbvaChdg) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Hals über Kopf](https://open.spotify.com/album/43o5uTxyHMoY9J4WHg9hya) | 2:19 |
-| 2 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 |
-| 3 | [Fata Morgana](https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fata Morgana](https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx) | 2:44 |
+| 2 | [Fata Morgana](https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fata Morgana](https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx) | 2:44 |
+| 3 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 |
 | 4 | [Ölgemälde](https://open.spotify.com/track/56yiPTwmaA4UzYVaIrsD2y) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Ölgemälde](https://open.spotify.com/album/1iy5cLHpmnyu1bDZ7sc3Cb) | 3:04 |
 | 5 | [Sag mir was ich nicht weiß](https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Sag mir was ich nicht weiß](https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3) | 2:46 |
-| 6 | [mund zu mund](https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [mund zu mund](https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c) | 1:41 |
+| 6 | [Juli](https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Juli](https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR) | 3:09 |
 | 7 | [mitternacht](https://open.spotify.com/track/4AHCFsAT9wNWFHv0hxq3tb) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [mitternacht](https://open.spotify.com/album/6p6oE4QlYjl9MDyS1bFx8H) | 2:26 |
-| 8 | [Rosaroter Tee](https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Rosaroter Tee](https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9) | 2:43 |
-| 9 | [Juli](https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Juli](https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR) | 3:09 |
-| 10 | [freier fall](https://open.spotify.com/track/4vGNeCPpopWVulbYqo7npP) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [freier fall](https://open.spotify.com/album/5KUqQkMQVBolCpoJaAXW3D) | 2:44 |
-| 11 | [4 Uhr](https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [4 Uhr](https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf) | 3:00 |
+| 8 | [mund zu mund](https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [mund zu mund](https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c) | 1:41 |
+| 9 | [Rosaroter Tee](https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Rosaroter Tee](https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9) | 2:43 |
+| 10 | [4 Uhr](https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [4 Uhr](https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf) | 3:00 |
+| 11 | [freier fall](https://open.spotify.com/track/4vGNeCPpopWVulbYqo7npP) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [freier fall](https://open.spotify.com/album/5KUqQkMQVBolCpoJaAXW3D) | 2:44 |
 | 12 | [Draußen ist Krieg](https://open.spotify.com/track/2uXqUQ4FlzcxmZZDJV9D41) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Draußen ist Krieg](https://open.spotify.com/album/41tGV2l8FPeyXUIISxQNex) | 3:33 |
 | 13 | [Tanzen](https://open.spotify.com/track/43VBNtrjwo5RMxfoeHp8ST) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Tanzen](https://open.spotify.com/album/22IcAvyJCl7mLyENnc0vAu) | 2:42 |
 | 14 | [mein bruder](https://open.spotify.com/track/5JDHokvDLJCfxwkTno51FM) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [mein bruder](https://open.spotify.com/album/54UICToJ81Ouz3iwYyBZ3T) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Innenhof](https://open.spotify.com/track/57IRJnCO1pkHBdSBL4e08X) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Innenhof](https://open.spotify.com/album/6zYNjyY25QsA5bTiQUgxv7) | 2:31 |
 | 75 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 
-Snapshot ID: `ZzaA8AAAAAAKsvh3QpgX5dhYN7VRJyt/`
+Snapshot ID: `ZztNLwAAAACdUP7UOA/9wRgicH+rodme`

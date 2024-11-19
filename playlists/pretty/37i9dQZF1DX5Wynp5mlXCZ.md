@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: MAYOROVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,109 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,121 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 44 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 45 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 46 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
-| 47 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 |
-| 48 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
+| 47 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
+| 48 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 |
 | 49 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 50 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 51 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 61 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 |
 | 62 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 63 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
-| 64 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 |
-| 65 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 |
+| 64 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 |
+| 65 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 |
 | 66 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
 | 67 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 68 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 |

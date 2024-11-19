@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,382 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,387 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 29 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
 | 30 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 31 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
-| 32 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
-| 33 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
+| 32 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
+| 33 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 34 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 |
 | 35 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
 | 36 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 41 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
 | 42 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
 | 43 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
-| 44 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
-| 45 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
+| 44 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
+| 45 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
 | 46 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 |
 | 47 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 |
 | 48 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |

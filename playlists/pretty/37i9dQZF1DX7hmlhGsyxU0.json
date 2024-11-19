@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 178540,
+  "num_followers": 178643,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Your Spell",
+        "url": "https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 172904,
+      "name": "Your Spell",
+      "url": "https://open.spotify.com/track/5U1D092cYFEXTZVjvIXLuF"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Sea Notes",
         "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 153387,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+      },
+      "artists": [
+        {
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+        }
+      ],
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -403,22 +419,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Joshua Tree",
         "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 157500,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
-      },
-      "artists": [
-        {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
-        }
-      ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 202105,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+      },
+      "artists": [
+        {
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+        }
+      ],
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "Leo Einaudi",
-          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
-        }
-      ],
-      "duration_ms": 146016,
-      "name": "November Sea",
-      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 122347,
       "name": "S\u00f3liton",
       "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Your Spell",
-        "url": "https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq"
-      },
-      "artists": [
-        {
-          "name": "Federico Albanese",
-          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
-        }
-      ],
-      "duration_ms": 172904,
-      "name": "Your Spell",
-      "url": "https://open.spotify.com/track/5U1D092cYFEXTZVjvIXLuF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 108690,
       "name": "S\u00e9r\u00e9nit\u00e9",
       "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "Leo Einaudi",
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
+        }
+      ],
+      "duration_ms": 146016,
+      "name": "November Sea",
+      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Giazotto: Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
+        "url": "https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh"
+      },
+      "artists": [
+        {
+          "name": "Remo Giazotto",
+          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
+        },
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        }
+      ],
+      "duration_ms": 206195,
+      "name": "Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
+      "url": "https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 251889,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Giazotto: Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
-        "url": "https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh"
-      },
-      "artists": [
-        {
-          "name": "Remo Giazotto",
-          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
-        },
-        {
-          "name": "Marie Awadis",
-          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
-        }
-      ],
-      "duration_ms": 206195,
-      "name": "Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
-      "url": "https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx"
     },
     {
       "added_at": "2024-11-15 05:00:00",

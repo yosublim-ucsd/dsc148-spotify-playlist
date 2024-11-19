@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1275961,
+  "num_followers": 1276373,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAABglZX4YAGBua+0k1htbVS2",
+  "snapshot_id": "ZzkyAAAAAABXErEzb25J8NMn86quHDEf",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEJODIOTO",
         "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 189413,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": null,
@@ -967,34 +967,6 @@
       "duration_ms": 149106,
       "name": "Mi Cama",
       "url": "https://open.spotify.com/track/3fFMAZtSAK5YQ3Zdl3EE4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
-        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Rock Mafia",
-          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
-        }
-      ],
-      "duration_ms": 177352,
-      "name": "My Family - from \"The Addams Family\"",
-      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
     }
   ],
   "unique_name": "This Is KAROL G",

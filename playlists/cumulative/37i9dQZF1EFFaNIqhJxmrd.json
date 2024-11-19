@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "20-n\u00e5nting",
+        "url": "https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199811,
+      "name": "20-n\u00e5nting",
+      "url": "https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6"
+    },
+    {
+      "album": {
         "name": "A Little Quiet",
         "url": "https://open.spotify.com/album/38zy7283UPL20D92UaoaBb"
       },

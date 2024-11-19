@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 105816,
+  "num_followers": 105862,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Hombre (One Shot) [Remix]",
-        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
-      },
-      "artists": [
-        {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
-        },
-        {
-          "name": "Discan",
-          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Hombre (One Shot) - Remix",
-      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Hombre (One Shot) [Remix]",
+        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Discan",
+          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Hombre (One Shot) - Remix",
+      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Cuarto De Siglo",
-        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
-      },
-      "artists": [
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
-        },
-        {
-          "name": "Zaheed Santana",
-          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
-        },
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 244177,
-      "name": "Cuarto De Siglo",
-      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Nosotras Tenemos Otros Datos",
         "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
       },
@@ -1303,22 +1279,6 @@
       "duration_ms": 201290,
       "name": "Nosotras Tenemos Otros Datos",
       "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Benedicto",
-        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Benedicto",
-      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1347,6 +1307,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Benedicto",
+        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Benedicto",
+      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Psicofonia",
         "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 184255,
       "name": "Matar o Morir",
       "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Cuarto De Siglo",
+        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 244177,
+      "name": "Cuarto De Siglo",
+      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1451,38 +1451,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "104",
-        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "104",
-      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
-      },
-      "artists": [
-        {
-          "name": "Facto",
-          "url": "https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Soy Pueblo",
-      "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Chismecito",
         "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
       },
@@ -1511,6 +1479,38 @@
       "duration_ms": 217000,
       "name": "Chismecito",
       "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "104",
+        "url": "https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "104",
+      "url": "https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
+      },
+      "artists": [
+        {
+          "name": "Facto",
+          "url": "https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Soy Pueblo",
+      "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        },
+        {
+          "name": "Magic Classic",
+          "url": "https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Tierra Madre",
         "url": "https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 265264,
       "name": "Tierra Madre",
       "url": "https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        },
-        {
-          "name": "Magic Classic",
-          "url": "https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1820,25 +1820,9 @@
           "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 259578,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Colecci\u00f3n In\u00e9ditos",
-        "url": "https://open.spotify.com/album/3skRkN1MIwSDjleT384X28"
-      },
-      "artists": [
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
-        }
-      ],
-      "duration_ms": 220321,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
+      "duration_ms": 199758,
+      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1855,6 +1839,22 @@
       "duration_ms": 256062,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Colecci\u00f3n In\u00e9ditos",
+        "url": "https://open.spotify.com/album/3skRkN1MIwSDjleT384X28"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        }
+      ],
+      "duration_ms": 220321,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1908,9 +1908,9 @@
           "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 199758,
-      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
+      "duration_ms": 259578,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Siempreviva",
-        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 190528,
-      "name": "Bienvenidx",
-      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 271058,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "added_at": "2024-09-06 06:00:00",

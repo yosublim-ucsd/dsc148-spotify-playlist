@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9140,
+  "num_followers": 9142,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "DREAMSCAPE",
-        "url": "https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "DREAMSCAPE",
+        "url": "https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Remember Me (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/4tQlLOyLfOiXMPOEnh904U"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 122053,
+      "name": "Remember Me (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/35qKr9IAEzgplIjfFePBuM"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
@@ -363,26 +379,6 @@
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "The R\u267e\ufe0fts",
-        "url": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "FAANGS",
-          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -407,22 +403,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Remember Me (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/4tQlLOyLfOiXMPOEnh904U"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 122053,
-      "name": "Remember Me (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/35qKr9IAEzgplIjfFePBuM"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 139830,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "The R\u267e\ufe0fts",
+        "url": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
-        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 216596,
-      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
-      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "The Crossroads",
         "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 202160,
       "name": "Pray (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2D4JnV4FeqeGROcCS2Ebzd"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
+        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 216596,
+      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
+      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -600,7 +600,7 @@
           "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 195920,
+      "duration_ms": 195900,
       "name": "Love & Romance II",
       "url": "https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3"
     },
@@ -639,18 +639,34 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f"
+        "name": "Occasional Stoner",
+        "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
       },
       "artists": [
         {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 251768,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
+      "duration_ms": 183881,
+      "name": "Occasional Stoner",
+      "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "everywhere i go, there i am",
+        "url": "https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "memory lane",
+      "url": "https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Occasional Stoner",
-        "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
         }
       ],
-      "duration_ms": 183881,
-      "name": "Occasional Stoner",
-      "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
+      "duration_ms": 251768,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 147938,
       "name": "Dad's 4Runner",
       "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "everywhere i go, there i am",
-        "url": "https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "memory lane",
-      "url": "https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213312,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/0iJMOLEevjXmTfiWKxEkUa"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 213312,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "EYES ON ME",
         "url": "https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "The Laugh Is in the Eyes",
-        "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 275584,
-      "name": "The Laugh Is in the Eyes",
-      "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "GarraGarra",
         "url": "https://open.spotify.com/album/435uNKRUQ136anVQ5YZSHi"
       },
@@ -919,18 +903,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2"
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/4dVlY7P2VuWFkGvNDASaPE"
       },
       "artists": [
         {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Sommer Ray",
+          "url": "https://open.spotify.com/artist/7EdXiDSXhpAzHmb2PWd2Kp"
         }
       ],
-      "duration_ms": 122669,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M"
+      "duration_ms": 129677,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/4J78C5DT2pORmaKR9OcyPo"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -955,22 +943,66 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/4dVlY7P2VuWFkGvNDASaPE"
+        "name": "The Laugh Is in the Eyes",
+        "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
       },
       "artists": [
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Sommer Ray",
-          "url": "https://open.spotify.com/artist/7EdXiDSXhpAzHmb2PWd2Kp"
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 129677,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/4J78C5DT2pORmaKR9OcyPo"
+      "duration_ms": 275584,
+      "name": "The Laugh Is in the Eyes",
+      "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 122669,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/4tBAVWkI4P7JG8WtBHvoMd"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/17Wy4sPPgnDPpzE7ipkbef"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "daydreamers",
+        "url": "https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 156853,
+      "name": "We Don't Need to Do Forever",
+      "url": "https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "The Kill",
-        "url": "https://open.spotify.com/album/4tBAVWkI4P7JG8WtBHvoMd"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/17Wy4sPPgnDPpzE7ipkbef"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/2A43FrrF9yQ5nONlBtHkqs"
       },
@@ -1035,38 +1051,6 @@
       "duration_ms": 163561,
       "name": "Distant",
       "url": "https://open.spotify.com/track/12ZOYB6ALfoVZcCHza89al"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        }
-      ],
-      "duration_ms": 187561,
-      "name": "Only Us",
-      "url": "https://open.spotify.com/track/6RxxoaQvnrg1s6ThUFlJBS"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "daydreamers",
-        "url": "https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 156853,
-      "name": "We Don't Need to Do Forever",
-      "url": "https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1107,18 +1091,38 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "just my luck",
-        "url": "https://open.spotify.com/album/4b4R9AHLOptrMgIuUgio9m"
+        "name": "Christmas Winter Heart",
+        "url": "https://open.spotify.com/album/4NvCEQ6eZDSgYr0UGuxOAv"
       },
       "artists": [
         {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        },
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
         }
       ],
-      "duration_ms": 182050,
-      "name": "just my luck",
-      "url": "https://open.spotify.com/track/4dhQeIR3V5Uaw1C7am8zEE"
+      "duration_ms": 171786,
+      "name": "Christmas Winter Heart",
+      "url": "https://open.spotify.com/track/4ZQTsajMgTDkrp5fmyiLcH"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "duration_ms": 187561,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/6RxxoaQvnrg1s6ThUFlJBS"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1163,6 +1167,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "just my luck",
+        "url": "https://open.spotify.com/album/4b4R9AHLOptrMgIuUgio9m"
+      },
+      "artists": [
+        {
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+        }
+      ],
+      "duration_ms": 182050,
+      "name": "just my luck",
+      "url": "https://open.spotify.com/track/4dhQeIR3V5Uaw1C7am8zEE"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "I Can't Love You",
         "url": "https://open.spotify.com/album/10pKCUNGGcx78wvC8b2Yc2"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 125000,
       "name": "I Can't Love You",
       "url": "https://open.spotify.com/track/03VuFc6I16fYq1hkzHYVh8"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "Christmas Winter Heart",
-        "url": "https://open.spotify.com/album/4NvCEQ6eZDSgYr0UGuxOAv"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        },
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Christmas Winter Heart",
-      "url": "https://open.spotify.com/track/4ZQTsajMgTDkrp5fmyiLcH"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Built On Glass (10th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4jwglRyb7PpUYNjWOi2Yzo"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 162517,
-      "name": "Killswitch",
-      "url": "https://open.spotify.com/track/1V8eMg1VDGYMrbu1IZIbD5"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Born In The 80's",
         "url": "https://open.spotify.com/album/385c8PIYG64XoRYcVgd6xJ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 149760,
       "name": "Dance It All Away",
       "url": "https://open.spotify.com/track/3JrL14XXWzDHJETXiVkNDl"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Built On Glass (10th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4jwglRyb7PpUYNjWOi2Yzo"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 162517,
+      "name": "Killswitch",
+      "url": "https://open.spotify.com/track/1V8eMg1VDGYMrbu1IZIbD5"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Anima (Think of You)",
-        "url": "https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Anima (Think of You)",
-      "url": "https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Untold",
         "url": "https://open.spotify.com/album/5kCualHVMNOUiWIR8e1eF8"
       },
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Forplejning",
-        "url": "https://open.spotify.com/album/2ehyNeLhWk318uHyg92wO0"
-      },
-      "artists": [
-        {
-          "name": "F\u00d8NS",
-          "url": "https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "I Morgen",
-      "url": "https://open.spotify.com/track/6Xri9BEoX2esFjsK0ybJTk"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/5MAGXw9BPUIXzLKDvFvuKa"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 233622,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/3XnY9dMbHRnNy2TQOd58HU"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Anima (Think of You)",
+        "url": "https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Anima (Think of You)",
+      "url": "https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Forplejning",
+        "url": "https://open.spotify.com/album/2ehyNeLhWk318uHyg92wO0"
+      },
+      "artists": [
+        {
+          "name": "F\u00d8NS",
+          "url": "https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "I Morgen",
+      "url": "https://open.spotify.com/track/6Xri9BEoX2esFjsK0ybJTk"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Million To One",
-        "url": "https://open.spotify.com/album/3PAx5BFmViU4y1izpSXrL1"
-      },
-      "artists": [
-        {
-          "name": "Emmelie de Forest",
-          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "Million To One",
-      "url": "https://open.spotify.com/track/6o4ZKhZgT5yUzLsYSQksOm"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Something's Wrong In My Head",
         "url": "https://open.spotify.com/album/7G1J3cXAFPoLoBdYMG1lxk"
       },
@@ -1467,26 +1451,6 @@
       "duration_ms": 145881,
       "name": "Something's Wrong In My Head",
       "url": "https://open.spotify.com/track/55aH6S9WXukwb9zSwuMrJ5"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "I'm Sick of Missing You",
-        "url": "https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ"
-      },
-      "artists": [
-        {
-          "name": "Niah Steiner",
-          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
-        },
-        {
-          "name": "Swim. S\u00f8ul",
-          "url": "https://open.spotify.com/artist/1FTm71bvpmvZcYeLSdBCi0"
-        }
-      ],
-      "duration_ms": 112099,
-      "name": "I'm Sick of Missing You",
-      "url": "https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1511,18 +1475,38 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Only music makes me cry now",
-        "url": "https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS"
+        "name": "Million To One",
+        "url": "https://open.spotify.com/album/3PAx5BFmViU4y1izpSXrL1"
       },
       "artists": [
         {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+          "name": "Emmelie de Forest",
+          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Only music makes me cry now",
-      "url": "https://open.spotify.com/track/0CdyJlsY7tUDzYBnQDpvs0"
+      "duration_ms": 216880,
+      "name": "Million To One",
+      "url": "https://open.spotify.com/track/6o4ZKhZgT5yUzLsYSQksOm"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "I'm Sick of Missing You",
+        "url": "https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ"
+      },
+      "artists": [
+        {
+          "name": "Niah Steiner",
+          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
+        },
+        {
+          "name": "Swim. S\u00f8ul",
+          "url": "https://open.spotify.com/artist/1FTm71bvpmvZcYeLSdBCi0"
+        }
+      ],
+      "duration_ms": 112099,
+      "name": "I'm Sick of Missing You",
+      "url": "https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 238638,
       "name": "Doves",
       "url": "https://open.spotify.com/track/4TFYAnYW4IKFhFhoPkLegi"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Only music makes me cry now",
+        "url": "https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Only music makes me cry now",
+      "url": "https://open.spotify.com/track/0CdyJlsY7tUDzYBnQDpvs0"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Call Home",
+        "url": "https://open.spotify.com/album/5TrcAbUxStsyGTT6QOXFFX"
+      },
+      "artists": [
+        {
+          "name": "Beckah Amani",
+          "url": "https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Call Home",
+      "url": "https://open.spotify.com/track/1AR1Ujh3hO0xgutdp4vQcM"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Prototype",
         "url": "https://open.spotify.com/album/6dRrvaLQRnY7cK3o5pYqEy"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Call Home",
-        "url": "https://open.spotify.com/album/5TrcAbUxStsyGTT6QOXFFX"
+        "name": "Indigo Bruised",
+        "url": "https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et"
       },
       "artists": [
         {
-          "name": "Beckah Amani",
-          "url": "https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi"
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Call Home",
-      "url": "https://open.spotify.com/track/1AR1Ujh3hO0xgutdp4vQcM"
+      "duration_ms": 202933,
+      "name": "Indigo Bruised",
+      "url": "https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 194664,
       "name": "Alle de ar jeg har",
       "url": "https://open.spotify.com/track/2fX4QmE5uTpl9D4iGg8Ilp"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "Indigo Bruised",
-        "url": "https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et"
-      },
-      "artists": [
-        {
-          "name": "Diane Emerita",
-          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Indigo Bruised",
-      "url": "https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ"
     },
     {
       "added_at": "2024-11-15 00:00:00",

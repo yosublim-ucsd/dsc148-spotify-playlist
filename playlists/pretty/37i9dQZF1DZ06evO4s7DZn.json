@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 7635,
+  "num_followers": 7640,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAACsynb7GBJGr81cXoXJaQ/5",
+  "snapshot_id": "ZzkyAAAAAADp2+T50o4vxmDDc5JihKQ0",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "Para Qu\u00e9 Volviste",
-      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga En Vivo! , Vol.1",
         "url": "https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 164400,
       "name": "La Otra Espa\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "Para Qu\u00e9 Volviste",
+      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+        "name": "Amor Ranchero",
+        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 185887,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+      "duration_ms": 143848,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Ranchero",
-        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 143848,
-      "name": "Amor Ranchero",
-      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
     },
     {
       "added_at": null,

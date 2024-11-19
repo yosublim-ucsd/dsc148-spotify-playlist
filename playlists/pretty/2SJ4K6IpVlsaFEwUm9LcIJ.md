@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,124 likes - 20 songs - 1 hr 3 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,124 likes - 21 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 18 | [Summertime](https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 3:21 |
 | 19 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 |
 | 20 | [If I Am](https://open.spotify.com/track/7vO8kQ5RVYQdmdApypvjAi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [If I Am](https://open.spotify.com/album/6SRNDhfOZNAKR1d9qkYARJ) | 2:22 |
+| 21 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 |
 
-Snapshot ID: `AAALX3neiWudYU/dIxBlJDCNK+qPLpHO`
+Snapshot ID: `AAALYOvKRh1Z5YunfsN7KqZEDOS0lqN0`

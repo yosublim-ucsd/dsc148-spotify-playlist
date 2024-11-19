@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,618 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,630 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 90 | [Need Your Love \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:19 |
 | 91 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 |
 | 92 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 |
-| 93 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 |
-| 94 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 |
+| 93 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 |
+| 94 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 |
 | 95 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 |
 | 96 | [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 |
 | 97 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |

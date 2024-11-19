@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,536 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,686 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 91 | [No Discutamos](https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 2:16 |
 | 92 | [Asi Te Quiero \- Con Mariachi](https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:53 |
 | 93 | [Bohemio de Afición](https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [La Gran Colección del 60 Aniversario CBS \- Gerardo Reyes](https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39) | 3:17 |
-| 94 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
+| 94 | [No Me Queda Más](https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 3:19 |
 | 95 | [Un Puño De Tierra](https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:08 |
 | 96 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
-| 97 | [No Me Queda Más](https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 3:19 |
+| 97 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
 | 98 | [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 |
 | 99 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
 | 100 | [Tu Retirada](https://open.spotify.com/track/7sLlAe3At46cVEemoQ7dKA) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Indomable](https://open.spotify.com/album/37rzDLkGoIcqXAW7fZ9LJ0) | 4:03 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 120 | [No Hay Quinto Malo](https://open.spotify.com/track/0807Vxt3hDYDktEijq2gBl) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Paquita La Del Barrio Con Mariachi](https://open.spotify.com/album/6mioeN7c8bV5ARR2ZgidLI) | 2:52 |
 | 121 | [Cucurrucucu paloma](https://open.spotify.com/track/7ywhdttz7xLu04KtB1lVNu) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Ay Jalisco no te rajes \(1953 \- 1959\)](https://open.spotify.com/album/7ActWUIgouKsYnWEgwXAN8) | 3:16 |
 | 122 | [Como Tu Decidas](https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antologia el Poeta del Pueblo Con Mariachi](https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l) | 3:08 |
-| 123 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:31 |
-| 124 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
+| 123 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
+| 124 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:31 |
 | 125 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 | 126 | [La Derrota](https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:16 |
 | 127 | [De Los Besos Que Te Di](https://open.spotify.com/track/2ttoeuNKXixDHom5rRvowm) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [De Los Besos Que Te Di](https://open.spotify.com/album/7273WdaYjbonC99OSZ9Fey) | 2:47 |

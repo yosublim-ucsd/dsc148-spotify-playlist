@@ -11091,6 +11091,24 @@
     },
     {
       "album": {
+        "name": "Horizon \u5730\u5e73\u7ebf",
+        "url": "https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157261,
+      "name": "Horizon \u5730\u5e73\u7ebf",
+      "url": "https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp"
+    },
+    {
+      "album": {
         "name": "Hour of Rest",
         "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
       },
@@ -12510,7 +12528,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 120665,
       "name": "inverno 1",
       "url": "https://open.spotify.com/track/4dHsrfybYMwR47LWYjLxR5"
@@ -17898,7 +17916,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 142912,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy"
@@ -18760,6 +18778,24 @@
       "duration_ms": 152807,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk"
+    },
+    {
+      "album": {
+        "name": "Ojos nuevos",
+        "url": "https://open.spotify.com/album/09S3TaVVPiGXL76onqDDDq"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144416,
+      "name": "Ojos nuevos",
+      "url": "https://open.spotify.com/track/3iPin5YjlIrZp95kyWmGTZ"
     },
     {
       "album": {
@@ -27002,7 +27038,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 170737,
       "name": "The Meadows \u8349\u5730",
       "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"

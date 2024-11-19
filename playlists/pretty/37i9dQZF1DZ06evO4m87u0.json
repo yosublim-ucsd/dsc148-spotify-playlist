@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 288729,
+  "num_followers": 288760,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAADZSV3Gk/vWtA0AGspav6Hw",
+  "snapshot_id": "ZzkyAAAAAAAldLV0CAC/aROMFcdBWptb",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Everlasting Light",
+      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay In Your Grave (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 139538,
       "name": "Stay In Your Grave (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Everlasting Light",
-      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Psychotic Girl",
-      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+      "duration_ms": 162311,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohio Players (Trophy Edition)",
-        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 162311,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT"
+      "duration_ms": 250706,
+      "name": "Psychotic Girl",
+      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 178229,
-      "name": "Fire Walk With Me",
-      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 217640,
       "name": "Good Love (feat. Billy F Gibbons)",
       "url": "https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 178229,
+      "name": "Fire Walk With Me",
+      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
-        "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 257532,
-      "name": "No Lovin\u2019",
-      "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228533,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
+        "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 257532,
+      "name": "No Lovin\u2019",
+      "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
     },
     {
       "added_at": null,

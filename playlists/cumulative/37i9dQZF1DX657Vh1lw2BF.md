@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:سيف عامر
 
-141 songs - 8 hr 41 min
+142 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Atrak \- عطرك](https://open.spotify.com/track/2QtVbvCqhwmhorkdu1BS6t) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Atrak \(عطرك\)](https://open.spotify.com/album/4YFT5NIXxVZgl7IbijSa4U) | 4:10 | 2023-11-16 |  |
 | [Awel Chams](https://open.spotify.com/track/3DqaHwwxJ92RRjKrCyAA4q) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Awel Chams](https://open.spotify.com/album/4v7PpdXPSkCyGnUA76Ofgu) | 3:05 | 2023-12-29 |  |
 | [Awel Mara](https://open.spotify.com/track/5PIUdhw0npMzWozHZzC7Dg) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Awel Mara](https://open.spotify.com/album/2j8kRtxQ6mzA5TsWFMTWj8) | 4:03 | 2022-05-06 | 2023-01-11 |
+| [Awl Mara](https://open.spotify.com/track/2EGX48NpiPOYswzI7srylN) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Awl Mara](https://open.spotify.com/album/4c4nUlrFDII4QZMq8Qw0vl) | 4:04 | 2024-11-18 |  |
 | [Aybaah](https://open.spotify.com/track/1KXneoXsShNeFRupir2Hpp) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Aybaah](https://open.spotify.com/album/6NwcjGw9Vm7SodEEZdWlST) | 3:39 | 2024-07-29 |  |
 | [B6ela](https://open.spotify.com/track/17XYX4C5jRSsFRMgiJJc0B) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [B6ALA](https://open.spotify.com/album/5WrUyFuqqb8sVRR5SYewqg) | 2:56 | 2022-05-06 | 2022-10-26 |
 | [Baad Nerga Ma Areed](https://open.spotify.com/track/4mdAb5pWJd5B6bs4tH19zZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Baad Nerga Ma Areed](https://open.spotify.com/album/5d3CnENBiFVZBUwBGNHlEY) | 3:52 | 2022-05-06 | 2023-04-27 |
@@ -84,7 +85,7 @@
 | [Kan Yama Kan](https://open.spotify.com/track/2fyhhvk4p68ZFO6jZbslKo) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Kan Yama Kan](https://open.spotify.com/album/2aFomGR5D23tI9AsnstmZ7) | 4:59 | 2022-05-06 | 2022-06-08 |
 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 | 2022-06-16 | 2023-04-05 |
 | [Kathurat Aalayh Alhumum](https://open.spotify.com/track/1x5TmYqbHRD4gIduC2gjyZ) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Kathurat Aalayh Alhumum](https://open.spotify.com/album/0u6SaVqxjfZ0ylwLDOP1jj) | 3:18 | 2022-05-25 | 2023-06-20 |
-| [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 | 2022-05-25 |  |
+| [Kemt Akrahak](https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Kemt Akrahak](https://open.spotify.com/album/5E2oPXxKJgutwwKQrwQftZ) | 3:58 | 2022-05-25 | 2024-11-19 |
 | [khayef Akhsarah](https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y) | [Yousif Al Sumaidaie](https://open.spotify.com/artist/26oGZUtxxUt9xpCWFfGSXN) | [khayef Akhsarah](https://open.spotify.com/album/6UiAuY0uUdbQkRlgfqDrYs) | 4:07 | 2023-05-05 |  |
 | [Khbr Fezzni](https://open.spotify.com/track/5NHUYa3IOB8ZggEFxQbsk7) | [Nabel Al Adeeb](https://open.spotify.com/artist/6ZCY8bwcZU2v4Ti9pAgLOi) | [Khbr Fezzni](https://open.spotify.com/album/5LyHDVcaM6khRm5RvX0SN5) | 3:42 | 2024-02-07 |  |
 | [Khont We Tandemt](https://open.spotify.com/track/5mPD8KOs9PTGKCrjP87IV5) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khont We Tandemt](https://open.spotify.com/album/27eOhCtHiFlBKmirkupKdd) | 4:04 | 2022-05-06 | 2022-06-17 |

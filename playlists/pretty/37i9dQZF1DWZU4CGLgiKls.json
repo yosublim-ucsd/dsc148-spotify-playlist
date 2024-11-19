@@ -1,6 +1,6 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 553649,
+  "num_followers": 553637,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Ojitos Chiquitos",
-      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Ojitos Chiquitos",
+      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Talento de Barrio",
         "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -659,22 +675,6 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Segundos Platos",
-      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
         "name": "Signos (Remastered)",
         "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 292266,
       "name": "Persiana Americana - Remasterizado 2007",
       "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Segundos Platos",
+      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
     },
     {
       "added_at": "2024-06-14 18:12:30",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-14 18:12:30",
       "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+    },
+    {
+      "added_at": "2024-06-14 18:12:30",
+      "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2024-06-14 18:12:30",
-      "album": {
-        "name": "Mystic Love",
-        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
       "added_at": "2024-06-14 18:12:30",

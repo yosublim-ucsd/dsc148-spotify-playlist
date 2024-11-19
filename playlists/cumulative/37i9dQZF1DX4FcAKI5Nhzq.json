@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Yves",
+  "description": "Future K-Pop hits! Cover: MEOVV",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -19574,6 +19574,24 @@
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190187,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ"
     },
     {
       "album": {

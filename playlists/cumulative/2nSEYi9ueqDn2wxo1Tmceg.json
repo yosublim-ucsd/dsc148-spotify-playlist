@@ -13237,6 +13237,24 @@
     },
     {
       "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
+    {
+      "album": {
         "name": "Night Walk",
         "url": "https://open.spotify.com/album/4gSxWOsNY1BvLAzHPc3lOU"
       },

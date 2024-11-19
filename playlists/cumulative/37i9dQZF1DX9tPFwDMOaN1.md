@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! Cover: Jin
 
-574 songs - 1 day 6 hr 8 min
+575 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-20 | 2022-12-31 |
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-14 |  |
 | [ABYSS](https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ABYSS](https://open.spotify.com/album/2PgBHwXf7FNCF8W0JyxXlo) | 3:52 | 2023-03-01 | 2023-04-22 |
-| [Accendio](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:12 | 2024-07-08 |  |
+| [Accendio](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:12 | 2024-07-08 | 2024-11-19 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2023-07-18 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-13 | 2022-01-11 |
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-12-13 | 2022-03-09 |
@@ -279,6 +279,7 @@
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-13 | 2022-09-13 |
 | [LAW \(Prod\. Czaer\)](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 3:09 | 2022-09-08 | 2023-01-21 |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-12 | 2023-08-17 |
+| [Letter To Myself](https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:04 | 2024-11-18 |  |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 | 2022-10-29 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 | 2023-07-15 |
 | [Like Magic](https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Like Magic](https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm) | 2:44 | 2024-03-07 | 2024-04-19 |

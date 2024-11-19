@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,192 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,310 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 40 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 |
 | 41 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 42 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
-| 43 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
-| 44 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
+| 43 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
+| 44 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 45 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 46 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 47 | [Agüitaecoco](https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:19 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 52 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
 | 53 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
 | 54 | [Ciclo](https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 2:52 |
-| 55 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
-| 56 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
+| 55 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
+| 56 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 57 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 58 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
 | 59 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 83 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
 | 84 | [Círculos](https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Azul](https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd) | 3:12 |
 | 85 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
-| 86 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
-| 87 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
+| 86 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
+| 87 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
 | 88 | [¿Ypqsp?](https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D) | [Como Las Movies](https://open.spotify.com/artist/6GXCmKUYqrkqzwKAe5U67v) | [¿Ypqsp?](https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX) | 4:32 |
 | 89 | [Dos que uno](https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 4:22 |
 | 90 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |

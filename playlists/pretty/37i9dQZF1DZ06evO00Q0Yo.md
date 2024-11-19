@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,245 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,252 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Einstein](https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Einstein](https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF) | 2:15 |
 | 50 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
 
-Snapshot ID: `ZzfggAAAAACn+D20loRkQLOLmi8cSvZO`
+Snapshot ID: `ZzkyAAAAAACgV8mMX18A/jSYSA60CsFW`

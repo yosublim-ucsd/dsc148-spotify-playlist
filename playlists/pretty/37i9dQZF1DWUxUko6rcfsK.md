@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is prachtig en dat verdient goede muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,088 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,080 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 18 | [Beggin’](https://open.spotify.com/track/6N5dl7B1c2KoJ6sH0Izfcm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Beggin'](https://open.spotify.com/album/4v71xfoYyaHaWuXfx9JHk8) | 3:12 |
 | 19 | [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 |
 | 20 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
-| 21 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
-| 22 | [Got an Idea](https://open.spotify.com/track/3q6b1cke3QLZxxOzZtVp9I) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Got an Idea](https://open.spotify.com/album/6YrPlAqnQwhiKBZIl7qlSk) | 2:53 |
-| 23 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 |
-| 24 | [Without You](https://open.spotify.com/track/1IEoy0vZyeioQ727qJPfYX) | [Franco Rivers](https://open.spotify.com/artist/3vJzR1NZh8RxVYU7aPEHMh) | [Without You](https://open.spotify.com/album/6RWXsszBHm5YcyMQaykVgE) | 3:19 |
-| 25 | [I Remember](https://open.spotify.com/track/5xboC9LvGQFCwcWIpUwwhf) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [I Remember](https://open.spotify.com/album/5v9qFRmHHCoT44bBeQfalp) | 3:56 |
-| 26 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 |
-| 27 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
-| 28 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 29 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 |
+| 21 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 |
+| 22 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
+| 23 | [Got an Idea](https://open.spotify.com/track/3q6b1cke3QLZxxOzZtVp9I) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Got an Idea](https://open.spotify.com/album/6YrPlAqnQwhiKBZIl7qlSk) | 2:53 |
+| 24 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 |
+| 25 | [Without You](https://open.spotify.com/track/1IEoy0vZyeioQ727qJPfYX) | [Franco Rivers](https://open.spotify.com/artist/3vJzR1NZh8RxVYU7aPEHMh) | [Without You](https://open.spotify.com/album/6RWXsszBHm5YcyMQaykVgE) | 3:19 |
+| 26 | [I Remember](https://open.spotify.com/track/5xboC9LvGQFCwcWIpUwwhf) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [I Remember](https://open.spotify.com/album/5v9qFRmHHCoT44bBeQfalp) | 3:56 |
+| 27 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 |
+| 28 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
+| 29 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 30 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 |
 | 31 | [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 |
 | 32 | [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 |
 | 60 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 
-Snapshot ID: `ZzcN6QAAAADpMPQ68hb51+25Nj67lyjR`
+Snapshot ID: `ZztarAAAAADYuD31RToPz4cz//3XlOyJ`

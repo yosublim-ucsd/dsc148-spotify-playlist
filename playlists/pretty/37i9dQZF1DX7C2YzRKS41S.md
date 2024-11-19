@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,121 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,160 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 27 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 28 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
 | 29 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 |
-| 30 | [Male Fantasy](https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9) | 3:14 |
-| 31 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
+| 30 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
+| 31 | [Male Fantasy](https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9) | 3:14 |
 | 32 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 |
 | 33 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
 | 34 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 35 | [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 |
-| 36 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 |
+| 35 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 |
+| 36 | [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 |
 | 37 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 |
 | 38 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 39 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 |
-| 40 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 |
-| 41 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
+| 40 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
+| 41 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 |
 | 42 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
 | 43 | [Seven Nation Army](https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Seven Nation Army](https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp) | 2:52 |
 | 44 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |

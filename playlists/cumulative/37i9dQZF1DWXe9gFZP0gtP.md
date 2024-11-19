@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-447 songs - 21 hr 50 min
+450 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 | 2022-07-22 | 2022-09-03 |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-17 | 2022-04-22 |
 | [Alone Again](https://open.spotify.com/track/4QwJUFKuD3lVxeZ2S2ADg6) | [Polar Moon](https://open.spotify.com/artist/1QHavDqaVSc2l4wxcYqpK4) | [As Above, So Below](https://open.spotify.com/album/4lOFRblaFlmEtNKUSSC7h3) | 2:02 | 2021-12-17 | 2024-05-12 |
+| [Alone Hours](https://open.spotify.com/track/4eQStNR5mG3bIfo0ncssep) | [Palaestrio](https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4) | [Alone Hours](https://open.spotify.com/album/2JjSANGaR0NVdiWzJfRopy) | 2:38 | 2024-11-18 |  |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-23 |  |
 | [An Eternity With You](https://open.spotify.com/track/26lMzRXcIvEZZocZwGtu7e) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [An Eternity With You](https://open.spotify.com/album/4OGr79gLRl9GuZM6e0gUfL) | 2:16 | 2021-12-17 | 2024-09-06 |
 | [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 | 2023-03-10 | 2024-10-19 |
@@ -165,7 +166,7 @@
 | [Glaciers](https://open.spotify.com/track/77VlInzvpsNl69mz2bVB5W) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Glaciers](https://open.spotify.com/album/0BDgPFL7CTLC6t0IoyzwJS) | 2:53 | 2021-12-17 |  |
 | [Glances](https://open.spotify.com/track/0Wr24o6bAy0HDT92RstgEb) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Glances](https://open.spotify.com/album/61aFsuSQo9dgkYpg1jAxyw) | 2:47 | 2024-04-29 |  |
 | [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-15 |  |
-| [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-12-17 |  |
+| [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-12-17 | 2024-11-19 |
 | [Grounded Mind](https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [In The Stillness](https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK) | 3:04 | 2021-12-17 | 2022-04-22 |
 | [Halcyon](https://open.spotify.com/track/5HzVqcoEmmgnhxtmmz1a56) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Droplets of Dreams](https://open.spotify.com/album/0iRfBFgAWo7mLLbp4eJzxg) | 2:57 | 2023-03-17 |  |
 | [Heavy Cloud](https://open.spotify.com/track/3PnhtonoNabJjbuTxFqT2Z) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:42 | 2023-04-28 |  |
@@ -184,7 +185,7 @@
 | [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2021-12-17 | 2024-05-12 |
 | [How Blessed](https://open.spotify.com/track/2GhiwmAm0SehnbzvfQhIjN) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [How Blessed](https://open.spotify.com/album/7whBQN43DOSlbheYQWZ2Aj) | 3:32 | 2024-09-18 |  |
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-17 | 2023-09-09 |
-| [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-12-17 |  |
+| [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-12-17 | 2024-11-19 |
 | [I din nærhet](https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [I din nærhet](https://open.spotify.com/album/4LVIubO2hb2qzRGQHA8R2G) | 2:59 | 2021-12-17 |  |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2022-01-05 | 2024-09-19 |
 | [Illusions](https://open.spotify.com/track/3Zfw44YYpZiwITTuVvrDj8) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Illusions](https://open.spotify.com/album/4ftcHfbpNS7KKIEEnNhjJD) | 2:56 | 2023-03-17 |  |
@@ -291,7 +292,7 @@
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2021-12-17 | 2024-03-27 |
 | [Palms](https://open.spotify.com/track/5u2mD0lErWMmlsdAr8xZZy) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Palms](https://open.spotify.com/album/0baqxJIqZyOLKFSEsS4f23) | 2:20 | 2024-06-10 | 2024-10-19 |
 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 | 2021-12-17 | 2024-03-27 |
-| [Passage](https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Passage](https://open.spotify.com/album/6lO2gCJPT56elqfM5JXpXM) | 2:57 | 2022-01-11 |  |
+| [Passage](https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Passage](https://open.spotify.com/album/6lO2gCJPT56elqfM5JXpXM) | 2:57 | 2022-01-11 | 2024-11-19 |
 | [Patiently](https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Patiently](https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4) | 2:58 | 2023-09-29 |  |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-02-15 | 2024-09-19 |
 | [Perseus](https://open.spotify.com/track/6Tsjcfuw0zYLkELy8Y8qEZ) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Perseus](https://open.spotify.com/album/5oW5dV6XB9E8t8FdSNxMgJ) | 3:09 | 2024-03-07 |  |
@@ -339,6 +340,7 @@
 | [Rêvasseur](https://open.spotify.com/track/64zhFuKM4TwZ0dcKogeKAN) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Rêvasseur](https://open.spotify.com/album/0PKKJXGWqGgxhYZ9ExhWeC) | 3:23 | 2021-12-17 | 2024-03-27 |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-25 |  |
 | [Sacred Haven](https://open.spotify.com/track/58KoCXSQfOYtqIiLHJrbFq) | [Lucia Lopez](https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X) | [Sacred Haven](https://open.spotify.com/album/62ojiGKjVjxc53HVl5gS7M) | 3:24 | 2024-06-10 |  |
+| [Sacred Silence](https://open.spotify.com/track/2582AytP8818E123Tax64z) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Sacred Silence](https://open.spotify.com/album/2lTvWZyymM6gOK5nYXTxmz) | 3:12 | 2024-11-18 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-17 | 2024-05-12 |
 | [Sampadan](https://open.spotify.com/track/1wUpOQbHQStS91migVQa8p) | [Slumber Harmony](https://open.spotify.com/artist/4tzF0JSYPIoWAUZo1zRQDn) | [Sampadan](https://open.spotify.com/album/5drJguDDuDK4AHHXCCRH5t) | 3:21 | 2024-04-29 |  |
@@ -390,6 +392,7 @@
 | [Stream](https://open.spotify.com/track/5M4gSbkmAJzpEJtnp3ttFs) | [Lonely Silence](https://open.spotify.com/artist/7gSagKJvBryze8PAs5jJuQ) | [Stream](https://open.spotify.com/album/73WjdZTUe79GLyw3ZtYekh) | 2:21 | 2024-10-18 |  |
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2022-03-17 |  |
 | [Sublimity](https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Sublimity](https://open.spotify.com/album/3fV0EyWe9JHAlzWVYccMvG) | 2:49 | 2024-10-18 |  |
+| [Subsequent](https://open.spotify.com/track/082rvB2mNegtlBpRwF2dc1) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Subsequent](https://open.spotify.com/album/0VZd7DplRRWqQ9yixMd8W2) | 3:07 | 2024-11-18 |  |
 | [Suilven](https://open.spotify.com/track/3mNYWG8IAA5pCcPzuZ3jnU) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Suilven](https://open.spotify.com/album/1NNcF0tflr5jmYMRO1EoTE) | 3:58 | 2021-12-17 | 2024-05-12 |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2021-12-17 | 2024-05-12 |
 | [Summit](https://open.spotify.com/track/4kFccgoog68IEf6dS2VMqA) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Summit](https://open.spotify.com/album/4kpcfT6kxbHwfsE8PQHgrl) | 2:48 | 2023-05-19 |  |

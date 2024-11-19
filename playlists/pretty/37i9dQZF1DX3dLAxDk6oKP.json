@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 404874,
+  "num_followers": 404973,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
+    },
+    {
+      "added_at": "2024-10-21 20:04:37",
+      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": "2024-10-21 20:04:37",
-      "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2024-10-21 20:04:37",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-10-21 20:04:37",
-      "album": {
         "name": "Me Recordar\u00e1 El Cartel",
         "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 221391,
       "name": "Me Recordar\u00e1 El Cartel",
       "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
+    },
+    {
+      "added_at": "2024-10-21 20:04:37",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-10-21 20:04:37",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
-        "name": "Buen Resultado (En Vivo)",
-        "url": "https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 174074,
-      "name": "Buen Resultado - En Vivo",
-      "url": "https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa"
-    },
-    {
-      "added_at": "2024-10-21 20:04:37",
-      "album": {
         "name": "Dicen Y Dicen",
         "url": "https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49"
       },
@@ -1643,26 +1623,22 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
-        "name": "VETERANOS DE GUERRA (En vivo)",
-        "url": "https://open.spotify.com/album/5hxtunkNAttTEZtXHbja9H"
+        "name": "Buen Resultado (En Vivo)",
+        "url": "https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB"
       },
       "artists": [
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         },
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "\u00daltima L\u00ednea",
-          "url": "https://open.spotify.com/artist/46jiFyo74WRds15c8wTofT"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 190122,
-      "name": "El Motor (En Vivo)",
-      "url": "https://open.spotify.com/track/2qtvTiP5aVa9NK3FVIPiEm"
+      "duration_ms": 174074,
+      "name": "Buen Resultado - En Vivo",
+      "url": "https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa"
     },
     {
       "added_at": "2024-10-21 20:04:37",
@@ -1687,6 +1663,30 @@
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
+    },
+    {
+      "added_at": "2024-10-21 20:04:37",
+      "album": {
+        "name": "VETERANOS DE GUERRA (En vivo)",
+        "url": "https://open.spotify.com/album/5hxtunkNAttTEZtXHbja9H"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "\u00daltima L\u00ednea",
+          "url": "https://open.spotify.com/artist/46jiFyo74WRds15c8wTofT"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "El Motor (En Vivo)",
+      "url": "https://open.spotify.com/track/2qtvTiP5aVa9NK3FVIPiEm"
     },
     {
       "added_at": "2024-10-21 20:04:37",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
-        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
-        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "Zutano (En Vivo)",
-      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
-    },
-    {
-      "added_at": "2024-10-21 20:04:37",
-      "album": {
         "name": "El r\u00e1pido y la muerte",
         "url": "https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb"
       },
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
+        "name": "Derecho y Chueco",
+        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 157364,
+      "name": "Derecho y Chueco",
+      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+    },
+    {
+      "added_at": "2024-10-21 20:04:37",
+      "album": {
         "name": "Bien Motivado (feat. Banda La Fantastica)",
         "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
       },
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2024-10-21 20:04:37",
       "album": {
-        "name": "Derecho y Chueco",
-        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
+        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
+        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
         }
       ],
-      "duration_ms": 157364,
-      "name": "Derecho y Chueco",
-      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+      "duration_ms": 208405,
+      "name": "Zutano (En Vivo)",
+      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
     },
     {
       "added_at": "2024-10-21 20:04:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 159 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 619 likes - 159 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 38 | [If You Come To Me](https://open.spotify.com/track/4FV9InscvnORIskVXChR6f) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Ladies Night](https://open.spotify.com/album/6qsgLiECZ00OmrxvA3FSJ5) | 3:46 |
 | 39 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
 | 40 | [Who I Am](https://open.spotify.com/track/2cbm6J75mCLGczjTnPEyrB) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:32 |
-| 41 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/1oDPAM1Jq4vNBWXlkUKr0C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/4YAKYUz7HDhP8J6TcxjqjE) | 3:29 |
-| 42 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
+| 41 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
+| 42 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/1oDPAM1Jq4vNBWXlkUKr0C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/4YAKYUz7HDhP8J6TcxjqjE) | 3:29 |
 | 43 | [One More Time](https://open.spotify.com/track/7kWliuu1nIbXP9Ua7SHTdF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:02 |
 | 44 | [Bittersweet](https://open.spotify.com/track/5lmD16muawJeLxpEPCEre9) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:28 |
 | 45 | [Amazing](https://open.spotify.com/track/6UkNsqoCVz68fWlq8Dez3V) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 3:59 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 158 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
 | 159 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `Abhx3gAAAACAmj6ZyEvBKe99DK7H2YM8`
+Snapshot ID: `Abh3dAAAAAAaDaE6ebcL6N73IkR1hK/V`

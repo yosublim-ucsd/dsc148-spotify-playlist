@@ -4,7 +4,7 @@
 
 > Music that just \*hits different\* Cover: Ayesha Madon
 
-369 songs - 20 hr 26 min
+370 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-07-09 |  |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-11-04 | 2024-10-18 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-08-25 |  |
-| [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2024-08-27 |  |
+| [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2024-08-27 | 2024-11-19 |
 | [Oontz](https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Oontz](https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS) | 3:01 | 2024-07-18 | 2024-08-28 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-05-10 | 2023-05-30 |
 | [Out of the Blue](https://open.spotify.com/track/2gyibgga6kveFORdRYvJAu) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [Out of the Blue](https://open.spotify.com/album/5F1WisCbMkTQscHZcDVnvY) | 2:56 | 2024-07-26 | 2024-08-02 |
@@ -326,6 +326,7 @@
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-09-07 | 2023-09-28 |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2024-07-09 | 2024-07-27 |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-07 | 2024-10-18 |
+| [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-14 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-23 | 2023-12-20 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-06-11 | 2024-07-10 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-15 | 2023-05-26 |

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 181820,
       "name": "2 hands",
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -6724,7 +6742,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 188160,
       "name": "Dansvloerkiller",
       "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
@@ -13590,7 +13608,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 91160,
       "name": "Hoor De Wind Waait Door De Bomen",
       "url": "https://open.spotify.com/track/55Fdq7Gz3uCCEP7xtyikiq"
@@ -19160,7 +19178,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 145363,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/7nFkuKdjETGOdIZDBL78ou"
@@ -24883,6 +24901,24 @@
     },
     {
       "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -26662,7 +26698,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 42093,
       "name": "Sinterklaas Kapoentje",
       "url": "https://open.spotify.com/track/3r0TH3SP5bIRMgGpo1ZEjR"
@@ -29642,7 +29678,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -34032,7 +34068,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 63626,
       "name": "Zie Ginds Komt De Stoomboot",
       "url": "https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58"

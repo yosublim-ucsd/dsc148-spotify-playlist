@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "A Sharpness in the Air",
+        "url": "https://open.spotify.com/album/1bmyDF6RsNzsAgjGTHtNhb"
+      },
+      "artists": [
+        {
+          "name": "LaSalle Street Trio",
+          "url": "https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206329,
+      "name": "A Sharpness in the Air",
+      "url": "https://open.spotify.com/track/3lP5Hs0lyXxScY7FndJleK"
+    },
+    {
+      "album": {
         "name": "A Sight for Sore Eyes",
         "url": "https://open.spotify.com/album/5BpnW3JV6KgmIoUd5CDiAD"
       },
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 196463,
       "name": "Brooklyn Bridge",
       "url": "https://open.spotify.com/track/21VXC5m3MIkdBGW1UyzGcU"
@@ -5560,7 +5578,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 372670,
       "name": "Follow Your Dreams",
       "url": "https://open.spotify.com/track/01bEWq2e6LPEn8pJIZabCo"
@@ -7259,6 +7277,24 @@
     },
     {
       "album": {
+        "name": "I Let You Go",
+        "url": "https://open.spotify.com/album/7J3h6X9DQ1xtAzbcr6qlZU"
+      },
+      "artists": [
+        {
+          "name": "Belleville",
+          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "I Let You Go",
+      "url": "https://open.spotify.com/track/2MUAcWl4bGxBtVUlUxC3xj"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/1nImZPHcIonDTwOkKKrozi"
       },
@@ -8440,7 +8476,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 302645,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP"
@@ -9434,6 +9470,24 @@
       "duration_ms": 236250,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy"
+    },
+    {
+      "album": {
+        "name": "Last Night at the Cedar Tavern",
+        "url": "https://open.spotify.com/album/1GzIyAbAPg3jTeiKUB93KI"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189016,
+      "name": "Last Night at the Cedar Tavern",
+      "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
     },
     {
       "album": {
@@ -11075,6 +11129,24 @@
     },
     {
       "album": {
+        "name": "Midday, Uptown, Out of Focus",
+        "url": "https://open.spotify.com/album/73WbfOESHIZgbBJW5Ik1ZP"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Sounds",
+          "url": "https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218972,
+      "name": "Midday, Uptown, Out of Focus",
+      "url": "https://open.spotify.com/track/5eoO0f1dg33nEpfMmn4X8o"
+    },
+    {
+      "album": {
         "name": "Midnight Fairytale",
         "url": "https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev"
       },
@@ -11090,6 +11162,24 @@
       "duration_ms": 129414,
       "name": "Midnight Fairytale",
       "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
+    },
+    {
+      "album": {
+        "name": "Midnight Fog",
+        "url": "https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209904,
+      "name": "Midnight Fog",
+      "url": "https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH"
     },
     {
       "album": {
@@ -11788,7 +11878,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 271128,
       "name": "My Fortune",
       "url": "https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P"
@@ -13552,7 +13642,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 223434,
       "name": "Presidents and Peacemakers",
       "url": "https://open.spotify.com/track/39UsfnZDCjipuXlsjXB6Di"
@@ -14240,7 +14330,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 234706,
       "name": "September Waltz",
       "url": "https://open.spotify.com/track/3duqLrVlkcoxAyoSKGDKBB"
@@ -15662,7 +15752,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-19",
       "duration_ms": 202051,
       "name": "Steps Ahead",
       "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
@@ -17070,6 +17160,24 @@
       "duration_ms": 168938,
       "name": "The View of Aurora",
       "url": "https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z"
+    },
+    {
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/3shpzzZyznWqGeWrIxPD11"
+      },
+      "artists": [
+        {
+          "name": "Deer Groves",
+          "url": "https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y"
     },
     {
       "album": {

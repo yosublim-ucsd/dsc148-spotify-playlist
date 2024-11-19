@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,813 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,875 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 12 | [Insomnio](https://open.spotify.com/track/6s2hzq62m1ZR1HTrUTA6Pc) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Insomnio](https://open.spotify.com/album/5rh4F5LkfBtGxBCjgMqV4M) | 3:38 |
 | 13 | [Como Yo](https://open.spotify.com/track/1D5Z5K0orsn5dSDpnan8XO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM) | 3:25 |
 | 14 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
-| 15 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
-| 16 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
+| 15 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
+| 16 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 17 | [Guallando](https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 18 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 19 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 27 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 | 28 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
 | 29 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
-| 30 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
-| 31 | [Tú la Tienes Que Pagar](https://open.spotify.com/track/2pC54mCj01CmR3YkxYoExe) | [Natusha](https://open.spotify.com/artist/1iDIWeJHxy6KidPCpipUfO) | [La Historia Musical](https://open.spotify.com/album/6gOPEuSZPpv9cfipkpu2iS) | 4:25 |
+| 30 | [Tú la Tienes Que Pagar](https://open.spotify.com/track/2pC54mCj01CmR3YkxYoExe) | [Natusha](https://open.spotify.com/artist/1iDIWeJHxy6KidPCpipUfO) | [La Historia Musical](https://open.spotify.com/album/6gOPEuSZPpv9cfipkpu2iS) | 4:25 |
+| 31 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
 | 32 | [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 |
-| 33 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
-| 34 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 33 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 34 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
 | 35 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
 | 36 | [Ella es Tan Bella](https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:22 |
 | 37 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |

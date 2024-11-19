@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 
 > Unleash the power of Persona and immerse yourself in the world of this epic RPG series with this\. 『ペルソナ３リロード: Episode Aegis』を含む、ペルソナシリーズの世界に浸れる公式プレイリスト！ⒸATLUS\. ⒸSEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,085 likes - 87 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,169 likes - 87 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 | 16 | [Burn My Dread \-Last Battle Reload\-](https://open.spotify.com/track/5mOQzgxWc6YwivpMw5O08Y) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 2:43 |
 | 17 | [キミの記憶 \-Reload\-](https://open.spotify.com/track/2qC7pgM53Ydj3DXoKTM28H) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 6:39 |
 | 18 | [Burn My Dread \-Reload\-](https://open.spotify.com/track/3fuFUu8dXw0phLdC0gmZV1) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 4:40 |
-| 19 | [Soul Phrase](https://open.spotify.com/track/7jJgfhOdiMbFBfWnLANYCx) | [喜多修平](https://open.spotify.com/artist/6ggUOlYgiWyRlbwA8krLM0) | [ペルソナ3 ポータブル オリジナル・サウンドトラック](https://open.spotify.com/album/1uWl1PvDGhWaQnxA9slwWk) | 1:34 |
-| 20 | [A Way of Life](https://open.spotify.com/track/3ikjtKXQZIpd6pEIogdwvo) | [藤田真由美](https://open.spotify.com/artist/51GOXzMFL7eOypATeKtbyw) | [ペルソナ3 ポータブル オリジナル・サウンドトラック](https://open.spotify.com/album/1uWl1PvDGhWaQnxA9slwWk) | 2:20 |
-| 21 | [Wiping All Out](https://open.spotify.com/track/56mhzXlg2ceGuTTpq7zrCa) | [藤田真由美](https://open.spotify.com/artist/51GOXzMFL7eOypATeKtbyw), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [ペルソナ3 ポータブル オリジナル・サウンドトラック](https://open.spotify.com/album/1uWl1PvDGhWaQnxA9slwWk) | 2:39 |
+| 19 | [Soul Phrase](https://open.spotify.com/track/7jJgfhOdiMbFBfWnLANYCx) | [喜多修平](https://open.spotify.com/artist/6ggUOlYgiWyRlbwA8krLM0) | [ペルソナ３ ポータブル オリジナル・サウンドトラック](https://open.spotify.com/album/1uWl1PvDGhWaQnxA9slwWk) | 1:34 |
+| 20 | [A Way of Life](https://open.spotify.com/track/3ikjtKXQZIpd6pEIogdwvo) | [藤田真由美](https://open.spotify.com/artist/51GOXzMFL7eOypATeKtbyw) | [ペルソナ３ ポータブル オリジナル・サウンドトラック](https://open.spotify.com/album/1uWl1PvDGhWaQnxA9slwWk) | 2:20 |
+| 21 | [Wiping All Out](https://open.spotify.com/track/56mhzXlg2ceGuTTpq7zrCa) | [藤田真由美](https://open.spotify.com/artist/51GOXzMFL7eOypATeKtbyw), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [ペルソナ３ ポータブル オリジナル・サウンドトラック](https://open.spotify.com/album/1uWl1PvDGhWaQnxA9slwWk) | 2:39 |
 | 22 | [Our Moment](https://open.spotify.com/track/6oc5yymG3JYGFqchteB3Oe) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [ペルソナダンシング 『P3D』＆『P5D』 サウンドトラック \(ADVANCED EDITION\)](https://open.spotify.com/album/7FzDtEmN9Eyf27BnzuIHk6) | 3:35 |
 | 23 | [Moonlight Serendipity \- Moonlight Serendipity](https://open.spotify.com/track/5mzSwZsvohRe8whee6cuQ7) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [ペルソナ３ ダンシング・ムーンナイト サウンドトラック](https://open.spotify.com/album/72hJjuVfGuW6ivpq6riYfy) | 3:51 |
 | 24 | [Pursuing My True Self](https://open.spotify.com/track/3YdFqNoT1wAL0Be7QkVAiV) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/5Q3abTCaUaDZRDBM1BpVAr) | 1:26 |

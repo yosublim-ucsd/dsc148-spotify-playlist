@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,757 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,844 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 17 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
 | 18 | [Charlemagne](https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 2:46 |
 | 19 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
-| 20 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
-| 21 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
+| 20 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
+| 21 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 22 | [I Can't Go on Without You](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 6:17 |
 | 23 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
 | 24 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |
@@ -88,22 +88,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 78 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
 | 79 | [The Wheel](https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 5:38 |
 | 80 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 |
-| 81 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
-| 82 | [Winterbreak](https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Winterbreak](https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV) | 4:56 |
+| 81 | [Winterbreak](https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Winterbreak](https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV) | 4:56 |
+| 82 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
 | 83 | [Three Thirty](https://open.spotify.com/track/3QEXz3VrVDYXko90MtCcHE) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [Three Thirty](https://open.spotify.com/album/3iZw6T8vhKhTNBScHYoPFd) | 3:35 |
 | 84 | [Stars](https://open.spotify.com/track/3cV7urlavfJPXy4GXs7iTJ) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Stars](https://open.spotify.com/album/3WEJC9bZbWxCE4em6tpCtX) | 3:53 |
 | 85 | [Real Love Baby](https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa) | 3:09 |
 | 86 | [Marinade](https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla) | 3:57 |
-| 87 | [Sleep On The Floor](https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:31 |
+| 87 | [Lover Is a Day](https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW) | 7:36 |
 | 88 | [Doubt \(Summer Edit\)](https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Doubt \(Summer Edit\)](https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ) | 3:46 |
-| 89 | [Lover Is a Day](https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW) | 7:36 |
-| 90 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 |
+| 89 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 |
+| 90 | [Sleep On The Floor](https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:31 |
 | 91 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
 | 92 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 |
 | 93 | [33 “GOD”](https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 3:33 |
 | 94 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 |
-| 95 | [Go Fuck Yourself](https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv) | 2:09 |
-| 96 | [Cleopatra](https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
+| 95 | [Cleopatra](https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
+| 96 | [Go Fuck Yourself](https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv) | 2:09 |
 | 97 | [No Woman](https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO) | 3:57 |
 | 98 | [A 1000 Times](https://open.spotify.com/track/4GkS17JdvJY5vnsYqTGPG2) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [I Had a Dream That You Were Mine](https://open.spotify.com/album/1Q1dC1ySc1S5X8XB2DDWfE) | 4:08 |
 | 99 | [Drunk Drivers/Killer Whales](https://open.spotify.com/track/2os0aK782bakCPmjow0SU0) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Denial](https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj) | 6:14 |

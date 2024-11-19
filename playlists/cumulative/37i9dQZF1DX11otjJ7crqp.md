@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Tate McRae
 
-6,799 songs - 14 day 2 hr 43 min
+6,800 songs - 14 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5613,6 +5613,7 @@
 | [Story of a Boy](https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/2RUbaX7TWnJIKY3irozBP3) | 2:36 | 2023-02-03 | 2023-02-18 |
 | [Straight To Your Heart](https://open.spotify.com/track/28x5wrpeZ5VAIdBnQgytym) | [Ashton Irwin](https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E) | [Straight To Your Heart](https://open.spotify.com/album/7DO2xQArGhT242DkNmWn6b) | 3:12 | 2024-06-07 | 2024-06-22 |
 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 | 2023-06-02 | 2023-06-24 |
+| [Stranger](https://open.spotify.com/track/71zM7gEZjrBhvG2RSIWw1R) | [as1one](https://open.spotify.com/artist/4GSOOZ1ohoVKnlHyryv3DH) | [Stranger](https://open.spotify.com/album/3giURB7VisIcbMEJb9NiVs) | 3:24 | 2024-11-18 |  |
 | [Stranger](https://open.spotify.com/track/6bka0NlfgkLUFwcrFLwQYm) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Stranger](https://open.spotify.com/album/7qD6w06kURXtU4WmeRKK6x) | 2:28 | 2024-02-09 | 2024-02-17 |
 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 | 2022-08-05 | 2022-09-03 |
 | [Stranger](https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 2:16 | 2023-10-27 | 2023-11-18 |

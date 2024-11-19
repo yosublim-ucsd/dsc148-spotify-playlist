@@ -1,34 +1,34 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain](/playlists/plain/37i9dQZF1DXdhDukKQ88Cc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdhDukKQ88Cc)
 
-### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
+### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe 💎
+> dk rap og den vibe 💎 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,419 likes - 56 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,432 likes - 56 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DIN D\*\*\*](https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [DIN D\*\*\*](https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX) | 2:30 |
+| 1 | [MOLLY](https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [MOLLY](https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7) | 1:44 |
 | 2 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 |
-| 3 | [MOLLY](https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [MOLLY](https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7) | 1:44 |
-| 4 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 |
-| 5 | [BeskidtSex:RenLove](https://open.spotify.com/track/7dKPeMm0tpK7y7qFKO806v) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [BeskidtSex:RenLove](https://open.spotify.com/album/0OHLCenPpS6dRHu03J4YkA) | 2:04 |
+| 3 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 |
+| 4 | [DIN D\*\*\*](https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [DIN D\*\*\*](https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX) | 2:30 |
+| 5 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 |
 | 6 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 |
 | 7 | [Chicagenhagen](https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:33 |
-| 8 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 |
-| 9 | [Fundamentalt \(feat\. KESI\)](https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Det Gyldne Snit](https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3) | 2:27 |
-| 10 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
-| 11 | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 |
-| 12 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 |
-| 13 | [INTRO.VERT](https://open.spotify.com/track/5QzTdxetiyLCGJC29UI1kK) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [INTRO.VERT](https://open.spotify.com/album/1jAjltECXiV61MCcpDnWeY) | 2:34 |
-| 14 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
-| 15 | [Originalé](https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Originalé](https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT) | 2:17 |
-| 16 | [PASSES & PLEJES](https://open.spotify.com/track/0TmC1L3dxMPv9B2CNrSSWr) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/1jsKNmpMXAq6jIVLeqgTt8) | 2:20 |
-| 17 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 |
-| 18 | [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 |
-| 19 | [TING](https://open.spotify.com/track/72wJOhGdhN7Kvyt0me9QoT) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [TING](https://open.spotify.com/album/6YgrRQmsM1irqjqGqK1L3p) | 3:26 |
-| 20 | [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 |
-| 21 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 |
+| 8 | [Fundamentalt \(feat\. KESI\)](https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Det Gyldne Snit](https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3) | 2:27 |
+| 9 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
+| 10 | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 |
+| 11 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 |
+| 12 | [INTRO.VERT](https://open.spotify.com/track/5QzTdxetiyLCGJC29UI1kK) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [INTRO.VERT](https://open.spotify.com/album/1jAjltECXiV61MCcpDnWeY) | 2:34 |
+| 13 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
+| 14 | [Originalé](https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Originalé](https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT) | 2:17 |
+| 15 | [PASSES & PLEJES](https://open.spotify.com/track/0TmC1L3dxMPv9B2CNrSSWr) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/1jsKNmpMXAq6jIVLeqgTt8) | 2:20 |
+| 16 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 |
+| 17 | [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 |
+| 18 | [TING](https://open.spotify.com/track/72wJOhGdhN7Kvyt0me9QoT) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [TING](https://open.spotify.com/album/6YgrRQmsM1irqjqGqK1L3p) | 3:26 |
+| 19 | [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 |
+| 20 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 |
+| 21 | [BeskidtSex:RenLove](https://open.spotify.com/track/7dKPeMm0tpK7y7qFKO806v) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [BeskidtSex:RenLove](https://open.spotify.com/album/0OHLCenPpS6dRHu03J4YkA) | 2:04 |
 | 22 | [SkyLL](https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:56 |
 | 23 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 |
 | 24 | [Præsident](https://open.spotify.com/track/6edMFU0G49Lhr1QKhAjXcm) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Præsident](https://open.spotify.com/album/5dM1hfCHPDlvvnYTE5iF66) | 2:15 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 55 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 |
 | 56 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 |
 
-Snapshot ID: `ZzaA8AAAAAB/fqdJJFmoQ484mVN5e1DK`
+Snapshot ID: `ZzsnOQAAAABHgkCAW484zuq1kqO7Onn2`

@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 165155,
+  "num_followers": 165162,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAB8SWcXOjAFHCnTvu8W9+MJ",
+  "snapshot_id": "ZzkyAAAAAAAwZwRNNaHZXLflc0TLnNVD",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "LAST STARDUST",
+      "url": "https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 261773,
       "name": "ninelie",
       "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAWN",
-        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "LAST STARDUST",
-      "url": "https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Wren",
-      "url": "https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 150842,
       "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
       "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Wren",
+      "url": "https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "\u6708\u5f71",
-      "url": "https://open.spotify.com/track/3HoMReE3cc6zZDQdwpGzUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 292760,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "\u6708\u5f71",
+      "url": "https://open.spotify.com/track/3HoMReE3cc6zZDQdwpGzUo"
     },
     {
       "added_at": null,

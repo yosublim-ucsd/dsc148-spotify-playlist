@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: iii
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,439 likes - 414 songs - 1 day 0 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,441 likes - 414 songs - 1 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -335,7 +335,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 325 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 |
 | 326 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 |
 | 327 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 |
-| 328 | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 |
+| 328 | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 |
 | 329 | [醬醬醬](https://open.spotify.com/track/41nGkNgosSPuyQQtXYMrJU) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [醬醬醬](https://open.spotify.com/album/4ooptT4824qIirmvkzyuc2) | 3:13 |
 | 330 | [仍會等](https://open.spotify.com/track/3FGadTlzoJ5F4UtUMWrL3h) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [仍會等](https://open.spotify.com/album/4qMZ8lSzM9GXYEXv3WKa0f) | 3:19 |
 | 331 | [複雜事情簡單化](https://open.spotify.com/track/1GIY9FlL3RVtNwrR0KwKtq) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [複雜事情簡單化](https://open.spotify.com/album/36LK1862cNLR937ixzfiDl) | 4:14 |

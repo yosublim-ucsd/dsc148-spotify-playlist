@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,480 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,484 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 68 | [SASH OF SMILE](https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS) | [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 3:54 |
 | 69 | [Sweep Your Gloom](https://open.spotify.com/track/6bzIrkxN0By1bPzmJ436NQ) | [葛之葉雨彦 \(CV.笠間 淳\)](https://open.spotify.com/artist/3uHxv0xITNuTwTQtEpzbc4) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:41 |
 | 70 | [Growing Smiles！](https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles！](https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T) | 4:33 |
-| 71 | [Welcome to Japan！](https://open.spotify.com/track/5kxccpSCJFJ13zS1HuCAoN) | [鷹城恭二 \(CV.梅原裕一郎\)](https://open.spotify.com/artist/2Fo5zVU3bovrOxvQrcQ7q1), [信玄誠司 \(CV.増元拓也\)](https://open.spotify.com/artist/5aif0b5S1inZkMhKCrrxWn), [伊瀬谷四季 \(CV.野上 翔\)](https://open.spotify.com/artist/7h0vDo3vckq6HLni2CzhJU), [北村想楽 \(CV.汐谷文康\)](https://open.spotify.com/artist/78kNuukVxb9eJDK0PTEGwU) | [THE IDOLM@STER SideM WORLD TRE@SURE 13](https://open.spotify.com/album/1bWkGmHrcBhNpKk6JLSJMY) | 4:49 |
-| 72 | [千客万来ニーハオサァカス！](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [御手洗翔太 \(CV.松岡禎丞\)](https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs), [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V), [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd), [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 |
-| 73 | [はんどめいど・きみはーと！](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 |
-| 74 | [Sanctuary World](https://open.spotify.com/track/3nHXtBRdhD4W339n5qmPMl) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/2FRTPqaf3Ov9swyGdP7Etq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:49 |
-| 75 | [Undiscovered WORLD](https://open.spotify.com/track/073ThTzCf6W57rGRXwtxIh) | [古論クリス \(CV.駒田 航\)](https://open.spotify.com/artist/2roi4ZdM1XgsC7n2uhJr8t) | [THE IDOLM@STER SideM ORIGIN@L PIECES 03](https://open.spotify.com/album/7t0wqz9KSw2dRLLPwQI1dv) | 4:45 |
+| 71 | [SPARKLE SIGN](https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS) | [木村 龍 \(CV.濱 健人\)](https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 3:42 |
+| 72 | [Welcome to Japan！](https://open.spotify.com/track/5kxccpSCJFJ13zS1HuCAoN) | [鷹城恭二 \(CV.梅原裕一郎\)](https://open.spotify.com/artist/2Fo5zVU3bovrOxvQrcQ7q1), [信玄誠司 \(CV.増元拓也\)](https://open.spotify.com/artist/5aif0b5S1inZkMhKCrrxWn), [伊瀬谷四季 \(CV.野上 翔\)](https://open.spotify.com/artist/7h0vDo3vckq6HLni2CzhJU), [北村想楽 \(CV.汐谷文康\)](https://open.spotify.com/artist/78kNuukVxb9eJDK0PTEGwU) | [THE IDOLM@STER SideM WORLD TRE@SURE 13](https://open.spotify.com/album/1bWkGmHrcBhNpKk6JLSJMY) | 4:49 |
+| 73 | [千客万来ニーハオサァカス！](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [御手洗翔太 \(CV.松岡禎丞\)](https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs), [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V), [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd), [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 |
+| 74 | [はんどめいど・きみはーと！](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 |
+| 75 | [Sanctuary World](https://open.spotify.com/track/3nHXtBRdhD4W339n5qmPMl) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/2FRTPqaf3Ov9swyGdP7Etq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:49 |
 
 Snapshot ID: `ZedXbwAAAADcnZTkjUM+ucCO3J0e5OWx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,250 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,690 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 39 | [Somebody Should Kiss You](https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:12 |
 | 40 | [What's Going On](https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What's Going On](https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N) | 3:49 |
 | 41 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
-| 42 | [Rivers](https://open.spotify.com/track/2yca6MO7D35fltqQEFkWjT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Rivers](https://open.spotify.com/album/5e3GudnXw3whduY1LIYh4f) | 3:22 |
-| 43 | [L.I.F.E.](https://open.spotify.com/track/3QVlMl0HR3ltlbFpzKvBi4) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 2:34 |
-| 44 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 |
-| 45 | [Hold Me](https://open.spotify.com/track/1o3kKSPLb3hLAlHfsWDrO1) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:18 |
-| 46 | [For the Rest of Your Life](https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 3:18 |
-| 47 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
-| 48 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
-| 49 | [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 |
-| 50 | [Night Off](https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Night Off](https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW) | 3:22 |
+| 42 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
+| 43 | [Rivers](https://open.spotify.com/track/2yca6MO7D35fltqQEFkWjT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Rivers](https://open.spotify.com/album/5e3GudnXw3whduY1LIYh4f) | 3:22 |
+| 44 | [L.I.F.E.](https://open.spotify.com/track/3QVlMl0HR3ltlbFpzKvBi4) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 2:34 |
+| 45 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 |
+| 46 | [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 |
+| 47 | [For the Rest of Your Life](https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 3:18 |
+| 48 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
+| 49 | [Night Off](https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Night Off](https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW) | 3:22 |
+| 50 | [Hold Me](https://open.spotify.com/track/1o3kKSPLb3hLAlHfsWDrO1) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:18 |
 | 51 | [Please Turn Green](https://open.spotify.com/track/16QJxLYW4UgUnx2yd4mK45) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:58 |
 
-Snapshot ID: `ZzfggAAAAAB3Sh08Jz7pLGLMIVWc0zFT`
+Snapshot ID: `ZzkyAAAAAACECj+QUG7/co8bXWho+w88`

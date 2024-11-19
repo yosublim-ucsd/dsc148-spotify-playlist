@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,719 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,710 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 15 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 16 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 |
 | 17 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 |
-| 18 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
-| 19 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
+| 18 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
+| 19 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
 | 20 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
 | 21 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
 | 22 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 |
@@ -67,26 +67,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 57 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
 | 58 | [Nasty](https://open.spotify.com/track/29FBmRrebixRofs0flcm4O) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Nasty](https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj) | 2:36 |
 | 59 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 |
-| 60 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 |
-| 61 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
+| 60 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
+| 61 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 |
 | 62 | [Bitches These Days](https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Bitches These Days](https://open.spotify.com/album/0B3EG9By8Xd8gTcNUYh0Wo) | 2:23 |
 | 63 | [Hypocrite](https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hypocrite](https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP) | 2:43 |
 | 64 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 |
-| 65 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
-| 66 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
+| 65 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
+| 66 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
 | 67 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 |
 | 68 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
 | 69 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
 | 70 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
-| 71 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |
-| 72 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
+| 71 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
+| 72 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |
 | 73 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 | 74 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
 | 75 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
 | 76 | [Mailly](https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Mailly](https://open.spotify.com/album/6VZFN9g6d1XbLS7KwXJ9GE) | 4:17 |
 | 77 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 |
-| 78 | [Not ur fkn fan](https://open.spotify.com/track/4rgCx716P6hrEL4w6KWMJe) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Not ur fkn fan](https://open.spotify.com/album/78gtm9P5nt1Nw0kOpEfvZd) | 3:17 |
+| 78 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
 | 79 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 80 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
+| 80 | [Not ur fkn fan](https://open.spotify.com/track/4rgCx716P6hrEL4w6KWMJe) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Not ur fkn fan](https://open.spotify.com/album/78gtm9P5nt1Nw0kOpEfvZd) | 3:17 |
 
 Snapshot ID: `ZuwuYAAAAAAJOnHiDQ0FiR5clq+scASy`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzfggAAAAAAZ20814QlB/IP5kDV9kRO+",
+  "snapshot_id": "ZzkyAAAAAADnXbOXaqxzlB+romdKsozS",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPE HOP 002",
+        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "MOJO - Hype Hop Edit",
+      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Been Doing Great",
         "url": "https://open.spotify.com/album/2tIo6Vbm8ZiQ3xWhcPuoDh"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 234000,
       "name": "Knocked Off",
       "url": "https://open.spotify.com/track/2GmyBwj81qH2dvl7fIU75b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 002",
-        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "G Milla",
-          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "MOJO - Hype Hop Edit",
-      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
+      },
+      "artists": [
+        {
+          "name": "Hard Rock Sofa",
+          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STRIP",
         "url": "https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK"
       },
@@ -627,54 +647,6 @@
       "duration_ms": 230600,
       "name": "no excuses.",
       "url": "https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
-      },
-      "artists": [
-        {
-          "name": "Hard Rock Sofa",
-          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        },
-        {
-          "name": "RIZ",
-          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
-        },
-        {
-          "name": "Young Rose",
-          "url": "https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "WOKE B Hype Hop Edit",
-      "url": "https://open.spotify.com/track/2i5FrnPE6cf7ert9Dzb7DY"
     },
     {
       "added_at": null,
@@ -723,6 +695,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+        },
+        {
+          "name": "Young Rose",
+          "url": "https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "WOKE B Hype Hop Edit",
+      "url": "https://open.spotify.com/track/2i5FrnPE6cf7ert9Dzb7DY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U (feat. Mally Mall & Sonny Wilson)",
         "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
       },
@@ -747,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "lonely.",
-        "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Yung Tory",
-          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
-        },
-        {
-          "name": "Swagger Rite",
-          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
-        }
-      ],
-      "duration_ms": 176751,
-      "name": "lonely.",
-      "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do it Again",
         "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 142806,
       "name": "Do it Again",
       "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lonely.",
+        "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Swagger Rite",
+          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+        }
+      ],
+      "duration_ms": 176751,
+      "name": "lonely.",
+      "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
     },
     {
       "added_at": null,

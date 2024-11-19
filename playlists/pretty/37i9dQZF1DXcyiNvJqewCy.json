@@ -1,6 +1,6 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 168032,
+  "num_followers": 168067,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "the way things go",
         "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2024-08-26 07:08:00",

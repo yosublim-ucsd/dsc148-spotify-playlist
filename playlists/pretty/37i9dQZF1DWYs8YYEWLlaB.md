@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Emir Can İğrek
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,854 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,070 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 44 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 |
 | 45 | [Diva Yorgun](https://open.spotify.com/track/006oGnrSZevqZTimsD2oh4) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Diva Yorgun](https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ) | 4:19 |
 | 46 | [Ankara Rüzgarı](https://open.spotify.com/track/7c610NPD7aqC9654KMUS2o) | [Retrobüs](https://open.spotify.com/artist/2lYjnZ0AY9sLUbCP8Vv2Vx) | [Ankara Rüzgarı](https://open.spotify.com/album/6vdGMPltRgQTYMNBJBnKOv) | 2:53 |
-| 47 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 |
+| 47 | [Geri Dönüş Olsa](https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Aşklarım Büyük Benden](https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ) | 3:18 |
 | 48 | [Zalim \(Ellerine Sağlık\) \- Remastered](https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/1GtHpfgrBTLRG4JP2cZxPn) | 4:06 |
-| 49 | [Geri Dönüş Olsa](https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Aşklarım Büyük Benden](https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ) | 3:18 |
-| 50 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 |
+| 49 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 |
+| 50 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 |
 
 Snapshot ID: `Zy0qUAAAAAAlp+2nCcq/ld7mMMBUrqRC`

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa JP Leppäluoto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,790 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,792 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rakkautta varjojen](https://open.spotify.com/track/3uTtGwtXpHsicZxbPCj1oq) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Rakkautta varjojen](https://open.spotify.com/album/4hEPRb7lIY6stwAh26LUqG) | 3:04 |
-| 2 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 |
-| 3 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
-| 4 | [Mary Ann](https://open.spotify.com/track/4ujuS5LvHAwF8A9KfRSK39) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Mary Ann](https://open.spotify.com/album/1zqVVGv1axNYVWsy39xiBV) | 2:07 |
-| 5 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 |
-| 6 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
-| 7 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
+| 1 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
+| 2 | [Rakkautta varjojen](https://open.spotify.com/track/3uTtGwtXpHsicZxbPCj1oq) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Rakkautta varjojen](https://open.spotify.com/album/4hEPRb7lIY6stwAh26LUqG) | 3:04 |
+| 3 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 |
+| 4 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
+| 5 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
+| 6 | [Mary Ann](https://open.spotify.com/track/4ujuS5LvHAwF8A9KfRSK39) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Mary Ann](https://open.spotify.com/album/1zqVVGv1axNYVWsy39xiBV) | 2:07 |
+| 7 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 |
 | 8 | [Yhdet liikaa](https://open.spotify.com/track/4GWh5r8RgOMtwWpGlmQT4x) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Yhdet liikaa](https://open.spotify.com/album/6xDS4ftSPTKy0qxjWm5Vfc) | 3:35 |
 | 9 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 |
 | 10 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Kesäsade](https://open.spotify.com/track/1qFDnZ6ZRYVEQoqpl2AHst) | [Hullu Pappila](https://open.spotify.com/artist/11oyEtmgXfScC4NniWCCWT) | [Kesäsade](https://open.spotify.com/album/6lnBNntMNnkN4PaPcBzkOU) | 4:01 |
 | 80 | [Jätkän humppa](https://open.spotify.com/track/0tBzPIIuAFNtFPUALFHf73) | [Korpi](https://open.spotify.com/artist/3nYmoJdWrdcipVu77SiZps) | [Jätkän humppa](https://open.spotify.com/album/1acHgIkgfloIJKkrpiVBeU) | 2:35 |
 
-Snapshot ID: `ZzZzHAAAAAA0QPdibn2/HH8JJAEoXcxp`
+Snapshot ID: `ZzrrBAAAAACsnbXepW6dS/wlnfLz9NoH`

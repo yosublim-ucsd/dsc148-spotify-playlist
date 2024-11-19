@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,018 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,222 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 52 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
 | 53 | [Jam Is Pumping](https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 3:46 |
 | 54 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
-| 55 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 |
-| 56 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 |
+| 55 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 |
+| 56 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 |
 | 57 | [KILO \- Beltran Remix](https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [KILO \(Beltran Remix\)](https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5) | 4:07 |
 | 58 | [Still Pushin' \- Radio Edit](https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Still Pushin'](https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W) | 3:12 |
 | 59 | [Stolen Dub](https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stolen Dub](https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM) | 2:16 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 75 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
 | 76 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
-| 77 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
-| 78 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
+| 77 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
+| 78 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
 | 79 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
 | 80 | [I Like It](https://open.spotify.com/track/4l7tyaNeztF51PePtqyezc) | [Kieran Morgan](https://open.spotify.com/artist/6ndGFDGDB4O4YyLCqDisot) | [I Like It](https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a) | 3:20 |
 | 81 | [Break It Down](https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:09 |
