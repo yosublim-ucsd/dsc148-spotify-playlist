@@ -1,4 +1,4 @@
-## Playlists \(8258\)
+## Playlists \(8259\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4413,6 +4413,7 @@
 - [Pop Latino: Los 90](/playlists/pretty/37i9dQZF1DWWlpl5PNGfZ9.md)
 - [Pop Leve](/playlists/pretty/37i9dQZF1DX8mWv7JDZ0Ht.md)
 - [Pop Live](/playlists/pretty/37i9dQZF1DWWnzeQw5ZMfu.md)
+- [Pop Mix](/playlists/pretty/37i9dQZF1EQncLwOalG3K7.md)
 - [Pop PT](/playlists/pretty/37i9dQZF1DX6ViL9RcFABv.md)
 - [Pop Party](/playlists/pretty/37i9dQZF1DWXti3N4Wp5xy.md)
 - [Pop Punk Powerhouses](/playlists/pretty/37i9dQZF1DXa9wYJr1oMFq.md)
