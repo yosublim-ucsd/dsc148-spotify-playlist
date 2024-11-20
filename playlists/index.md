@@ -1,4 +1,4 @@
-## Playlists \(8259\)
+## Playlists \(8261\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -844,7 +844,9 @@
 - [Best of Plus Ultra 2023](/playlists/pretty/37i9dQZF1DWYQKKZPHGppf.md)
 - [Best of Pop Up 2023](/playlists/pretty/37i9dQZF1DX7pbeEjdF4tQ.md)
 - [Best of Rising 65 2023](/playlists/pretty/37i9dQZF1DX8TNYCX6wdOv.md)
+- [Best of Rock: 2017](/playlists/pretty/37i9dQZF1DX1HUp3K8hq5o.md)
 - [Best of Rock: 2018](/playlists/pretty/37i9dQZF1DWZFav20JcPkX.md)
+- [Best of Rock: 2019](/playlists/pretty/37i9dQZF1DXbfwGuHFlleD.md)
 - [Best of Sesame Street](/playlists/pretty/37i9dQZF1DWUrIr0kH1BCb.md)
 - [Best of Star Wars](/playlists/pretty/37i9dQZF1DXaUaRhCgtpCo.md)
 - [Best of The Indie List 2023](/playlists/pretty/37i9dQZF1DWYz61oV0Yc4H.md)
