@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The Coroner's Gambit",
+        "url": "https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136613,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/7qPAVrld2XeywUukKEgBXs"
+    },
+    {
+      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6742,
+  "num_followers": 6750,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAACQ7FNfFZ11SYwi18Ou1k3B",
+  "snapshot_id": "ZzqDgAAAAAD1qdTBiwrwkL/QXc/9fCwE",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EU GOSTO DE GAROTAS",
-        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "PALHA\u00c7ADA",
-      "url": "https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EU GOSTO DE GAROTAS",
+        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "PALHA\u00c7ADA",
+      "url": "https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ"
     },
     {
       "added_at": null,
@@ -495,6 +495,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Malvatrem (Deluxe)",
+        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "14 Sem Vaselina",
+      "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosmo e Wanda",
         "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 132710,
       "name": "Cosmo e Wanda",
       "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvatrem (Deluxe)",
-        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "14 Sem Vaselina",
-      "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
     },
     {
       "added_at": null,

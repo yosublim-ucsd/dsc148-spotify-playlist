@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Full Force Galesburg",
+        "url": "https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Masher",
+      "url": "https://open.spotify.com/track/5aqtEq5sJJlrVoPZTjI0Yj"
+    },
+    {
+      "album": {
         "name": "I Like Fun",
         "url": "https://open.spotify.com/album/0NphwDR3zIVfULKcBDQ9Ap"
       },

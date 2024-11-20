@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 318689,
+  "num_followers": 318716,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Thermae",
+        "url": "https://open.spotify.com/album/5uQVtjn87bGuqgQ8mHgA8O"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "duration_ms": 206517,
+      "name": "Thermae",
+      "url": "https://open.spotify.com/track/6gtaS2D03P8xr3iMiAHdrq"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 144358,
       "name": "Keep me close.",
       "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "Thermae",
-        "url": "https://open.spotify.com/album/5uQVtjn87bGuqgQ8mHgA8O"
-      },
-      "artists": [
-        {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
-        }
-      ],
-      "duration_ms": 206517,
-      "name": "Thermae",
-      "url": "https://open.spotify.com/track/6gtaS2D03P8xr3iMiAHdrq"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Landlord blues",
+        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
+      },
+      "artists": [
+        {
+          "name": "SELL EVERYTHING",
+          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
+        }
+      ],
+      "duration_ms": 123599,
+      "name": "Landlord blues",
+      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "Landlord blues",
-        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
-      },
-      "artists": [
-        {
-          "name": "SELL EVERYTHING",
-          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
-        }
-      ],
-      "duration_ms": 123599,
-      "name": "Landlord blues",
-      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 186153,
       "name": "Amnesia - Slim. Remix",
       "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 267013,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Orange-coloured day",
         "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 267013,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Lag\u00f4",
         "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 156279,
       "name": "Lag\u00f4",
       "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Liam's Eavestaff",
+        "url": "https://open.spotify.com/album/4H2dfKsnWH6PwpfjEX07La"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Liam's Eavestaff",
+      "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -843,26 +863,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Liam's Eavestaff",
-        "url": "https://open.spotify.com/album/4H2dfKsnWH6PwpfjEX07La"
-      },
-      "artists": [
-        {
-          "name": "Mom Tudie",
-          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
-        },
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Liam's Eavestaff",
-      "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "High Up",
         "url": "https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 250480,
       "name": "Hizuki",
       "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Find Your Flame",
-        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 290213,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "Mardy",
         "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 163404,
       "name": "Mardy",
       "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Find Your Flame",
+        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 165333,
       "name": "Replay",
       "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "I Stitched My Mind Back To My Body",
-      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 222989,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
     },
     {
       "added_at": "2024-11-15 00:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-11-15 00:00:00",
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
         "name": "Beautiful Sunday",
         "url": "https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 276625,
       "name": "Beautiful Sunday",
       "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
-    },
-    {
-      "added_at": "2024-11-15 00:00:00",
-      "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
-      },
-      "artists": [
-        {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
-        }
-      ],
-      "duration_ms": 232068,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
     }
   ],
   "unique_name": "Jazz UK",

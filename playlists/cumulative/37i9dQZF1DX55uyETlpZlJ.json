@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/5V0GEpj1Jwyzvx3MTtdhSq"
+      },
+      "artists": [
+        {
+          "name": "Pratham Kathare",
+          "url": "https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159998,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/70lvds1D1jTdXVrfRWeSed"
+    },
+    {
+      "album": {
         "name": "FLYHIGH - Kannada",
         "url": "https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL"
       },
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 292317,
       "name": "Haala",
       "url": "https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh"
@@ -6631,6 +6649,24 @@
     },
     {
       "album": {
+        "name": "OAT Tintira",
+        "url": "https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3"
+      },
+      "artists": [
+        {
+          "name": "Dhaivat",
+          "url": "https://open.spotify.com/artist/6VkfEYqTuG9pAAbwhEi9Pi"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207584,
+      "name": "OAT Tintira",
+      "url": "https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T"
+    },
+    {
+      "album": {
         "name": "Obbane",
         "url": "https://open.spotify.com/album/6aO488rTrHix487YZHxF4W"
       },
@@ -6978,6 +7014,24 @@
       "duration_ms": 160812,
       "name": "Pataki Cypher",
       "url": "https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg"
+    },
+    {
+      "album": {
+        "name": "Paycheck",
+        "url": "https://open.spotify.com/album/2xZCXw6siAqGPVc5JyJawy"
+      },
+      "artists": [
+        {
+          "name": "T\u00f6rk",
+          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Paycheck",
+      "url": "https://open.spotify.com/track/3OsgYlV2mZgIdx5dka54gw"
     },
     {
       "album": {

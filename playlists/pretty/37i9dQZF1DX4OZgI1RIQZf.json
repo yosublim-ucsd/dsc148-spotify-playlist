@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 135142,
+  "num_followers": 135093,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+      "duration_ms": 329361,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -191,18 +191,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
       },
       "artists": [
         {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 329361,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
+      "duration_ms": 227426,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "dc snuff film / waste yrself",
+        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "haunt me (x 3)",
+      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -235,22 +251,6 @@
       "duration_ms": 197013,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "dc snuff film / waste yrself",
-        "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "haunt me (x 3)",
-      "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Flexorcist",
         "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 357463,
       "name": "Flexorcist",
       "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "One Thousand Pictures",
-        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
+        "name": "brainrot",
+        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
       "artists": [
         {
-          "name": "Pete And The Pirates",
-          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
         }
       ],
-      "duration_ms": 188813,
-      "name": "Blood Gets Thin",
-      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
+      "duration_ms": 132111,
+      "name": "brainrot",
+      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "brainrot",
-        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
+        "name": "One Thousand Pictures",
+        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
       "artists": [
         {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+          "name": "Pete And The Pirates",
+          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
         }
       ],
-      "duration_ms": 132111,
-      "name": "brainrot",
-      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+      "duration_ms": 188813,
+      "name": "Blood Gets Thin",
+      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Evil Urges",
-        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Highly Suspicious",
-      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Beat the Devil's Tattoo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232786,
       "name": "River Styx",
       "url": "https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Evil Urges",
+        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Highly Suspicious",
+      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Four Words to Stand On",
         "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 211480,
       "name": "Standing on Ghosts",
       "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Dark and Stormy",
         "url": "https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 295840,
       "name": "Dark and Stormy",
       "url": "https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Young-Girl Forever",
         "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 170990,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/55hOQ0HMdVityRpvJt1RQ8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Shake, Shook, Shaken",
+        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "duration_ms": 173300,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1155,6 +1155,38 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/2PXlvqTzGBNetlGct7L5e6"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Perhaps Vampires Is A Bit Strong But\u2026",
+      "url": "https://open.spotify.com/track/3gYr4NDoTEOUsHzxfttYPK"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9"
       },
@@ -1235,22 +1267,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "A Weekend In the City",
         "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 185773,
       "name": "I Died So I Could Haunt You",
       "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "MORBID FASCINATION",
-        "url": "https://open.spotify.com/album/3QMNASdVriKoYo0LZPr2Vq"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/5cZQ33YXXZgLXwc0egqPl3"
     }
   ],
   "unique_name": "Indie Halloween",

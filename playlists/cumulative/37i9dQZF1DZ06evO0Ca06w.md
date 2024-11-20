@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-181 songs - 9 hr 27 min
+182 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Don't Break My Heart](https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:33 | 2021-12-28 |  |
 | [Down on the Corner \- Remastered](https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:33 | 2022-01-03 |  |
 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 | 2021-12-28 |  |
-| [Erev Shel Shoshanim](https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:19 | 2021-12-28 |  |
+| [Erev Shel Shoshanim](https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:19 | 2021-12-28 | 2024-11-20 |
 | [For What It's Worth \- Remastered](https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:08 | 2021-12-28 |  |
 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 | 2021-12-28 |  |
 | [Give Us Our Land \- Mabayeke](https://open.spotify.com/track/4XCtKro2JD3tDpnnyTOrZ6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 2:27 | 2023-04-30 | 2024-09-24 |
@@ -184,6 +184,7 @@
 | [What Is Love \- Mono Version](https://open.spotify.com/track/2k98GoB50T0xAoK3Tw0TUf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:42 | 2021-12-28 | 2023-06-29 |
 | [Where Does It Lead?](https://open.spotify.com/track/7EcrNoFiwtB9qAA6Po7J8C) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:31 | 2024-03-04 | 2024-03-16 |
 | [Where Does It Lead?](https://open.spotify.com/track/1lSy4teEJ9CaMCoYuEYFFF) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Goodbye to Africa](https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm) | 2:32 | 2022-10-09 | 2022-10-12 |
+| [Where Does It Lead?](https://open.spotify.com/track/2VewjRApC3neozrLfVRRZv) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:39 | 2024-11-20 |  |
 | [Willow Song \(From "Othello"\)](https://open.spotify.com/track/4T72zhYmO9HikWGh2Izi1H) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Best Of](https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98) | 2:48 | 2023-02-19 | 2023-03-16 |
 | [Woza](https://open.spotify.com/track/32EJhcW8VmGQmvq7l0bbQJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Makeba Sings!](https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs) | 2:56 | 2021-12-28 | 2022-11-18 |
 | [Xica da Silva](https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:19 | 2021-12-28 |  |

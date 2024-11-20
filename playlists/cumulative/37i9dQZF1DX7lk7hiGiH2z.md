@@ -4,7 +4,7 @@
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-417 songs - 19 hr 37 min
+418 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Fiesta Mexicana \- Party Mix](https://open.spotify.com/track/5ZQwvlmLOyJbkEdeojxNOs) | [Die Partykapitäne](https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1) | [Fiesta Mexicana](https://open.spotify.com/album/3m5htAX9IYtWTcdMf8YYo9) | 3:26 | 2024-02-06 | 2024-02-16 |
 | [Flattermaus](https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS) | [Die schwarzen Tasten \(mit Tobias Siebert von Klez.e\)](https://open.spotify.com/artist/2zebFEEqLv5mUOhyU7KWvn) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 4:30 | 2023-10-16 | 2024-11-05 |
 | [Fledi Fledermaus](https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Fledi Fledermaus](https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M) | 2:12 | 2023-10-16 | 2024-11-05 |
+| [Fragen an den Nikolaus](https://open.spotify.com/track/2u8PBWetDLQ4SvbaorbIRL) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Weihnachten](https://open.spotify.com/album/1NOU6ldjBF3sxO2aXlQTtq) | 3:45 | 2024-11-19 |  |
 | [Freunde finden / Devenir Amis](https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Freunde finden / Devenir Amis](https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z) | 2:50 | 2024-04-26 | 2024-06-03 |
 | [Frohe Ostern](https://open.spotify.com/track/5MXoeS9q3GhmbbVHMxECzo) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte](https://open.spotify.com/album/3nYNwdW3Bf6W1CC8P7bA8c) | 1:38 | 2024-03-27 | 2024-04-03 |
 | [Frohe Weihnachten](https://open.spotify.com/track/7eUu6tZyNoJ5RVe7qlo0Ir) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:55 | 2023-11-14 | 2023-12-30 |

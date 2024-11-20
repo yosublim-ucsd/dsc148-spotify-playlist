@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 62161,
+  "num_followers": 62207,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Cuando Fue (feat. Jay Wheeler)",
-        "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 183310,
-      "name": "Cuando Fue (feat. Jay Wheeler)",
-      "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "CARNET (Cloonee Remix)",
         "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Cuando Fue (feat. Jay Wheeler)",
+        "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 183310,
+      "name": "Cuando Fue (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Sopa De Caracol",
-        "url": "https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120"
-      },
-      "artists": [
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Pilo Tejeda",
-          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
-        }
-      ],
-      "duration_ms": 154153,
-      "name": "Sopa De Caracol",
-      "url": "https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Treme",
         "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 210326,
       "name": "Treme",
       "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Sopa De Caracol",
+        "url": "https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Pilo Tejeda",
+          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Sopa De Caracol",
+      "url": "https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Wataqui",
-        "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
-      },
-      "artists": [
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Wataqui",
-      "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wataqui",
+        "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Wataqui",
+      "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
       },
       "artists": [
         {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
         }
       ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+      "duration_ms": 155004,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
       "artists": [
         {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
         }
       ],
-      "duration_ms": 155004,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Sin Nada",
+        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
+      },
+      "artists": [
+        {
+          "name": "MelyJones",
+          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
+        },
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Sin Nada",
+      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Yo Contigo",
         "url": "https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8"
       },
@@ -1851,22 +1871,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Sin Nada",
-        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
+        "name": "Hola Venga",
+        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
       },
       "artists": [
         {
-          "name": "MelyJones",
-          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
-        },
-        {
-          "name": "Juan Dileju",
-          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         }
       ],
-      "duration_ms": 199687,
-      "name": "Sin Nada",
-      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
+      "duration_ms": 235238,
+      "name": "Hola Venga",
+      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1895,26 +1911,6 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Sima Agua (feat. Mayra Andrade)",
-        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Sima Agua (feat. Mayra Andrade)",
-      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1975,22 +1971,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Hola Venga",
-        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Hola Venga",
-      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "HAHAHA EP",
         "url": "https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 156923,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Sima Agua (feat. Mayra Andrade)",
+        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Sima Agua (feat. Mayra Andrade)",
+      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
     },
     {
       "added_at": "2024-11-15 05:00:00",

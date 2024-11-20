@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste liedjes van het moment\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,959 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,893 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 59 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 |
 | 60 | [Start a Fire](https://open.spotify.com/track/7lX2NUl49sK7IRcSaDvyW2) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Start A Fire](https://open.spotify.com/album/0yIsfDWJU6NNtvQVIxUs0O) | 3:20 |
 
-Snapshot ID: `ZzvG8AAAAAA7U3arPt1E4+0cUsXb4kNd`
+Snapshot ID: `ZzxjHwAAAAAVRzQxlYLuhvU4/3GJDKKg`

@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 163478,
       "name": "Oh Wat Ben Je Mooi",
       "url": "https://open.spotify.com/track/24KzyCCMtR33nQzJFwSa3K"
@@ -2294,6 +2294,24 @@
       "duration_ms": 215000,
       "name": "Que Sera Sera",
       "url": "https://open.spotify.com/track/40gYeIhatKeszARNvMAGvX"
+    },
+    {
+      "album": {
+        "name": "Samen Niet Alleen",
+        "url": "https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170156,
+      "name": "Samen Niet Alleen",
+      "url": "https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd"
     },
     {
       "album": {

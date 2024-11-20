@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 160576,
+  "num_followers": 160607,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,70 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
+        "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
+      "url": "https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
         "url": "https://open.spotify.com/album/3J1UwJGIqxEloqKlqMAhJ2"
       },
@@ -507,58 +571,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "flight fm",
-        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 247820,
-      "name": "flight fm",
-      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Lose Control (feat. Grace Barton)",
         "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
       },
@@ -579,30 +591,18 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
-        "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
       "artists": [
         {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Stylo G",
-          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
         }
       ],
-      "duration_ms": 169655,
-      "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
-      "url": "https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk"
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "A Little More (Friendly Foe Remix)",
-        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
-      },
-      "artists": [
-        {
-          "name": "JUSTDEE",
-          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
-        },
-        {
-          "name": "Friendly Foe",
-          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
-        }
-      ],
-      "duration_ms": 188275,
-      "name": "A Little More - Friendly Foe Remix",
-      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "We No Care",
         "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "A Little More (Friendly Foe Remix)",
+        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
+      },
+      "artists": [
+        {
+          "name": "JUSTDEE",
+          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
+        },
+        {
+          "name": "Friendly Foe",
+          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
+        }
+      ],
+      "duration_ms": 188275,
+      "name": "A Little More - Friendly Foe Remix",
+      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "Wearing My Tracky",
+        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "duration_ms": 105090,
+      "name": "Wearing My Tracky",
+      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "Polygon (Circadian Remix)",
         "url": "https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 279771,
       "name": "Polygon (Circadian Remix)",
       "url": "https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "Wearing My Tracky",
-        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
-      },
-      "artists": [
-        {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
-        },
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        }
-      ],
-      "duration_ms": 105090,
-      "name": "Wearing My Tracky",
-      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Yoyo Bop",
-        "url": "https://open.spotify.com/album/4rzQ6jiV2sFzWMzahgAU3t"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Yoyo Bop",
-      "url": "https://open.spotify.com/track/1jPUQm6P8XyTqYFEYnnTYT"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Big Fi Dem",
         "url": "https://open.spotify.com/album/5eQ1dxfitzQG3SX4p0tXCe"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 232567,
       "name": "Big Fi Dem",
       "url": "https://open.spotify.com/track/3hAODoyUQ34xzoiKMgVbgH"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Yoyo Bop",
+        "url": "https://open.spotify.com/album/4rzQ6jiV2sFzWMzahgAU3t"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Yoyo Bop",
+      "url": "https://open.spotify.com/track/1jPUQm6P8XyTqYFEYnnTYT"
     },
     {
       "added_at": "2024-11-08 00:00:00",

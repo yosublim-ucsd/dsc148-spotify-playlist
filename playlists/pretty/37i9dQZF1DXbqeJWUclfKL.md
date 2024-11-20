@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Whether a vampire’s bite or a bump in the night, grab your best ghouls and set the Halloween vibes anime style!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,968 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,126 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 | 48 | [Melty Halloween](https://open.spotify.com/track/0VWHVbkHUR8per23OAGceY) | [岡本信彦](https://open.spotify.com/artist/4LnBMr1Dx4lzwe4txArNCR) | [Melty Halloween](https://open.spotify.com/album/57PZxv5n6Gj6TfmSI1Eitn) | 4:02 |
 | 49 | [ノルニル \(RADIO ONSEN EUTOPIA\)](https://open.spotify.com/track/0eVdU7En1aeRq70PtWJ83a) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [RADIO ONSEN EUTOPIA](https://open.spotify.com/album/3txAqR7xThb5LKKu8kGQrw) | 7:07 |
 | 50 | [D\_REST IN PIECES\_G](https://open.spotify.com/track/1VaB90ewbJuGpvIG9AxUUS) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「ダークギャザリング」OST\(SpecialEdition1\)](https://open.spotify.com/album/5C23lIoMvKMNoPp3Rm7Kkm) | 4:28 |
-| 51 | [ゲゲゲの鬼太郎](https://open.spotify.com/track/2YhDpZ2jehDKUNFSN69oOM) | [Kiyoshi Hikawa](https://open.spotify.com/artist/4ga8lGWWzgmXpWf9wRFmRR) | [ゲゲゲの鬼太郎/見えんけれども おるんだよ](https://open.spotify.com/album/1XWA3C0sWpzvw6zuUxFWfC) | 2:25 |
+| 51 | [ゲゲゲの鬼太郎](https://open.spotify.com/track/2YhDpZ2jehDKUNFSN69oOM) | [Kiyoshi Hikawa](https://open.spotify.com/artist/4ga8lGWWzgmXpWf9wRFmRR) | [ゲゲゲの鬼太郎／見えんけれども おるんだよ](https://open.spotify.com/album/1XWA3C0sWpzvw6zuUxFWfC) | 2:25 |
 
 Snapshot ID: `ZvvyUAAAAABNp9mUvbSw44+CAxFsgj3T`

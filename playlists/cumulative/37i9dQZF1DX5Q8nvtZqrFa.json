@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "gyakyoutenshi",
+        "url": "https://open.spotify.com/album/6U2UUEQ6cTM70qEVRWTIPc"
+      },
+      "artists": [
+        {
+          "name": "AKKOGORILLA",
+          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+        },
+        {
+          "name": "XLII",
+          "url": "https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "gyakyoutenshi",
+      "url": "https://open.spotify.com/track/1osD6bIt8x6TmzHHJjl5u8"
+    },
+    {
+      "album": {
         "name": "HAITE",
         "url": "https://open.spotify.com/album/6FoB6c4HuW9Po26G4i4xol"
       },
@@ -1246,6 +1268,24 @@
       "duration_ms": 203079,
       "name": "V\u00e9randa",
       "url": "https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265426,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d"
     },
     {
       "album": {
@@ -2190,7 +2230,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 269750,
       "name": "\u30e9\u30b9\u30c8\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/6TsbJfhKnVsM2mr9OghsqX"
@@ -2640,7 +2680,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 200386,
       "name": "\u5922\u306e\u604b\u4eba",
       "url": "https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T"
@@ -3090,7 +3130,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 295261,
       "name": "\u71c8\u300c\u72ec\u5531\u300d",
       "url": "https://open.spotify.com/track/5S81ZEgJnL7htOyYRBPaF9"
@@ -3184,6 +3224,24 @@
       "duration_ms": 242010,
       "name": "\u7d3a\u8272\u306b\u61a7\u308c\u3066",
       "url": "https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc"
+    },
+    {
+      "album": {
+        "name": "TOYS",
+        "url": "https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276713,
+      "name": "\u82b1\u4e00\u5301",
+      "url": "https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY"
     },
     {
       "album": {

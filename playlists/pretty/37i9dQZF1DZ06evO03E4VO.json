@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAAB2gK/Mepp57dROtwBCCr+0",
+  "snapshot_id": "ZzqDgAAAAAD3xg+T5Wicue71fFfr8sr8",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ocean waves",
-        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 220235,
-      "name": "ocean waves",
-      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+        "name": "ocean waves",
+        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+      "duration_ms": 220235,
+      "name": "ocean waves",
+      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
     },
     {
       "added_at": null,

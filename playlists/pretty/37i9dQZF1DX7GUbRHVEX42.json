@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: H.E.R & Lila Ike",
-  "num_followers": 1125247,
+  "num_followers": 1125313,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Perfectly With You",
-        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Perfectly With You",
-      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Perfectly With You",
+        "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Perfectly With You",
+      "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F"
+      },
+      "artists": [
+        {
+          "name": "Bitty McLean",
+          "url": "https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2"
+        },
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "duration_ms": 291186,
+      "name": "Let's Make Up",
+      "url": "https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "This World (with Kabaka Pyramid)",
         "url": "https://open.spotify.com/album/4w2URLpOZQovFHM9SBWtzo"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 207106,
       "name": "This World (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F"
-      },
-      "artists": [
-        {
-          "name": "Bitty McLean",
-          "url": "https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2"
-        },
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 291186,
-      "name": "Let's Make Up",
-      "url": "https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Six Miles Riddim",
-        "url": "https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby"
+        "name": "Girl I Love You",
+        "url": "https://open.spotify.com/album/4hAf0zZXenvIJvQvecUjeV"
       },
       "artists": [
         {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
         }
       ],
-      "duration_ms": 227112,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT"
+      "duration_ms": 253143,
+      "name": "Girl I Love You",
+      "url": "https://open.spotify.com/track/66kyTVEzClMpjQ5FeddhCu"
     }
   ],
   "unique_name": "Irie",

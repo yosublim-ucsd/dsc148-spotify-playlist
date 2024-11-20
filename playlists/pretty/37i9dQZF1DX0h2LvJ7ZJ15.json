@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1438605,
+  "num_followers": 1439243,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "green to blue (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 187068,
+      "name": "green to blue - slowed + reverbed",
+      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
@@ -87,18 +103,18 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "green to blue (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
       },
       "artists": [
         {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 187068,
-      "name": "green to blue - slowed + reverbed",
-      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -119,22 +135,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "New Home (Slowed)",
         "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
       },
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "SUNRISE (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM"
-      },
-      "artists": [
-        {
-          "name": "Xantesha",
-          "url": "https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "SUNRISE (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Untitled #13 (Super Slowed)",
         "url": "https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 192000,
       "name": "Untitled #13 (Super Slowed)",
       "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "SUNRISE (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM"
+      },
+      "artists": [
+        {
+          "name": "Xantesha",
+          "url": "https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "SUNRISE (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "CUTE DEPRESSED (ALL VERSIONS)",
-        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "CUTE DEPRESSED - SLOWED VERSION",
-      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "CRYSTALS (Remixes)",
         "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 75833,
       "name": "CRYSTALS (Slowed)",
       "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "CUTE DEPRESSED (ALL VERSIONS)",
+        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "CUTE DEPRESSED - SLOWED VERSION",
+      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
     },
     {
       "added_at": "2024-05-24 04:38:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rauw Alejandro y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,163 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,198 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 53 | [quina mandraaa](https://open.spotify.com/track/7KVwsSzJDNLTFrg0oyUWB5) | [Pol Bordas](https://open.spotify.com/artist/1PcEYX38hbrPwOfzZmEqEI), [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN) | [AQUESTA VIDA ÉS NOSTRA](https://open.spotify.com/album/3kIvVSBqzX7paXfXOO2Z7l) | 1:53 |
 | 54 | [Cosa Sincera](https://open.spotify.com/track/6TJOmWrSgxmj1Aoy9TKcpF) | [Phoac](https://open.spotify.com/artist/2C1jc9PayxcndWeVipy7qT) | [Cosa Sincera](https://open.spotify.com/album/3tcWv1U3cyvD8mIj7D9DTQ) | 3:32 |
 
-Snapshot ID: `ZzbVjAAAAAAqkYd7W6iiulCT+PxTml4F`
+Snapshot ID: `ZzxZPAAAAAArImSCgYnp0new11IOJlUr`

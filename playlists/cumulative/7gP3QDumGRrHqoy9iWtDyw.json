@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Play House EP",
+        "url": "https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "Play House",
+      "url": "https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv"
+    },
+    {
+      "album": {
         "name": "Play The Music",
         "url": "https://open.spotify.com/album/0yxplzAy4QkUQcz43MrWx4"
       },

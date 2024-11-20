@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: SOTA at Drumsheds
 
-264 songs - 17 hr 32 min
+265 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 | 2022-05-06 | 2023-12-05 |
 | [Heaven](https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Heaven](https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV) | 3:25 | 2023-10-27 |  |
 | [Hello \(feat\. Maozon & Azumai\)](https://open.spotify.com/track/23Vn7VE8KRQ8S97YtWqHQs) | [Mountain](https://open.spotify.com/artist/44kGywk9AMdPUJwqU03q2p), [Maozon](https://open.spotify.com/artist/1U5zkI2XNuCMR219oZt3VV), [Azumai](https://open.spotify.com/artist/2eUnNDjJJgJRJwMzN9N3je) | [Hello / Brexit](https://open.spotify.com/album/6XcTt08jXK1VtnmPLx00pg) | 3:46 | 2022-05-06 | 2022-07-20 |
+| [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 | 2024-11-15 |  |
 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 | 2022-05-06 | 2023-12-27 |
 | [Hot One](https://open.spotify.com/track/6dOzrKH4AkC0QKVyhB7yBc) | [Teej](https://open.spotify.com/artist/6Ul7DXJIfPhwGBIP3J96U7), [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug), [Medic MC](https://open.spotify.com/artist/5LJaCsgkAQDsyjvGaoXGYN) | [Hot One](https://open.spotify.com/album/0YvOq6M3HWa5lokBUNwfwi) | 3:40 | 2022-05-06 | 2022-07-29 |
 | [Hurt \- Kendrick Remix](https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc) | [Slipz](https://open.spotify.com/artist/3hqvu8FKfYOg5xytMKjXFO), [Kendrick](https://open.spotify.com/artist/70mqJs2YSPZndK6UuHh4PO) | [Hurt \(Kendrick Remix\)](https://open.spotify.com/album/0KZXfQhOx8ayT3HiZkpXee) | 3:39 | 2022-05-06 | 2022-07-23 |
@@ -197,7 +198,7 @@
 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 | 2024-09-19 |  |
 | [Ricochet](https://open.spotify.com/track/0iOZsSttnmHPE4i1vPzubE) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ricochet](https://open.spotify.com/album/46OYfNrnNVY5TukXQDxohy) | 3:45 | 2023-12-27 | 2024-01-12 |
 | [Right Behind You](https://open.spotify.com/track/5WIQx4jTbf252m11tgYDT9) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Musicality](https://open.spotify.com/album/0GqvRHEIn8700B5GLKkPrQ) | 4:34 | 2022-05-06 | 2022-07-07 |
-| [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 | 2024-06-21 |  |
+| [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 | 2024-06-21 | 2024-11-20 |
 | [Rocker](https://open.spotify.com/track/4ZyQtgBP1fTI3i6ho4jNdY) | [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX) | [Rocker / Darkness](https://open.spotify.com/album/0rgubeVj85d7sTnUoTgxn6) | 4:24 | 2024-03-01 | 2024-05-11 |
 | [Rocking](https://open.spotify.com/track/0jAZZTTdgOSIJm9wJKOfBA) | [Black Barrel](https://open.spotify.com/artist/4g2ACDi5ljq9imLNg5yiql) | [Keep the beat going EP](https://open.spotify.com/album/0kPM0opafUS4gc58pkAa8M) | 4:02 | 2022-05-06 | 2022-07-29 |
 | [Rotten](https://open.spotify.com/track/71rEtDE79i1izgY0PTZ0Q2) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Rotten](https://open.spotify.com/album/0rrZV0hiBZeH4Rs6oPOfsy) | 2:59 | 2023-12-27 | 2024-01-12 |

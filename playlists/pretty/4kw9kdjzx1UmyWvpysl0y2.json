@@ -6,8 +6,32 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATUw3KzZGxI+HNs3+tOYOwob3nAu7m",
+  "snapshot_id": "AAATVabin3dXLxs9zXcPESgAmGB0tAty",
   "tracks": [
+    {
+      "added_at": "2024-11-19 13:17:26",
+      "album": {
+        "name": "Best Thing",
+        "url": "https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        },
+        {
+          "name": "Fagin",
+          "url": "https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV"
+        },
+        {
+          "name": "Marg Pappas",
+          "url": "https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5"
+        }
+      ],
+      "duration_ms": 235124,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH"
+    },
     {
       "added_at": "2024-11-18 17:33:51",
       "album": {
@@ -1143,42 +1167,6 @@
       "duration_ms": 138773,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw"
-    },
-    {
-      "added_at": "2024-08-28 13:46:58",
-      "album": {
-        "name": "Assassins",
-        "url": "https://open.spotify.com/album/2AQN1Enb8Sj4GXPQe3LnpK"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Asketa",
-          "url": "https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Assassins",
-      "url": "https://open.spotify.com/track/7fUtz2v6funYLn8G1W8TdD"
-    },
-    {
-      "added_at": "2024-08-27 13:46:20",
-      "album": {
-        "name": "Aklana",
-        "url": "https://open.spotify.com/album/15LjTU9nmCPpMQbPMH8TDc"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Aklana",
-      "url": "https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

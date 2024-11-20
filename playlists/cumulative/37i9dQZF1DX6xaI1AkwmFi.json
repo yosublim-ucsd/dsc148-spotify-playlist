@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "THE GHOST",
+        "url": "https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL"
+      },
+      "artists": [
+        {
+          "name": "SHO-SENSEI!!",
+          "url": "https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135533,
+      "name": "Almost Famous",
+      "url": "https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk"
+    },
+    {
+      "album": {
         "name": "Any angle",
         "url": "https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 154966,
       "name": "Brightside",
       "url": "https://open.spotify.com/track/1bOEVHQ9fOZjlZoP9wS3xA"
@@ -2891,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Star Signs",
+        "url": "https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG"
+    },
+    {
+      "album": {
         "name": "stay tune",
         "url": "https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI"
       },
@@ -4176,7 +4212,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 190833,
       "name": "\u30b7\u30e3\u30e9\u30e9\u30f3\u30c7\u30f4\u30fc",
       "url": "https://open.spotify.com/track/3SCd7CySMBfyE1ZhJLtiOH"
@@ -4722,7 +4758,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 230524,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
@@ -5798,7 +5834,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 236466,
       "name": "\u661f\u9593\u6f02\u6d41",
       "url": "https://open.spotify.com/track/0U00YWBuWAtUZbUIgtEhZg"
@@ -6176,7 +6212,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 246699,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
@@ -6536,7 +6572,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 243493,
       "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
       "url": "https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9"

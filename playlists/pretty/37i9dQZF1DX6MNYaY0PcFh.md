@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,566 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,598 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [MELLOW CALM & CHILL](https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU), [rede.](https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ) | [MELLOW CALM & CHILL](https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe) | 2:40 |
 | 57 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 |
 | 58 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
-| 59 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
-| 60 | [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 |
+| 59 | [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 |
+| 60 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
 
 Snapshot ID: `ZzaPAAAAAACbe7ceI9TblRryptGVtPUE`

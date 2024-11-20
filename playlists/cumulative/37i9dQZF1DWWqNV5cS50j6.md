@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-1,774 songs - 3 day 13 hr 10 min
+1,779 songs - 3 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Angels](https://open.spotify.com/track/1m4Xca7rdY2hvkDaMGccI5) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Pirate Radio](https://open.spotify.com/album/4UGjfskucRAge5oMYjDsOz) | 3:08 | 2023-03-20 | 2023-04-22 |
 | [Angels](https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Angels](https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL) | 3:08 | 2022-02-04 | 2022-03-01 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-03-25 | 2022-04-09 |
+| [ANIMAL](https://open.spotify.com/track/6c0imgtYm2NZ4OfZvaIuSp) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [ANIMAL](https://open.spotify.com/album/1bCWI4rmdUfnPijJ64aQv5) | 2:56 | 2024-11-19 |  |
 | [Animal Style](https://open.spotify.com/track/4zRB3qrw2nukqFdxKkCAra) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Animal Style](https://open.spotify.com/album/2KQ6y0300UztErqPGSpY5r) | 3:24 | 2020-11-13 | 2021-03-26 |
 | [another late night](https://open.spotify.com/track/6BYOpXiuO1NAZeMtw2tlmn) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [looking for something](https://open.spotify.com/album/30c4YWZhA9V9umtvaY1Bcr) | 2:32 | 2021-08-14 | 2021-10-12 |
 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 | 2023-06-02 | 2024-06-01 |
@@ -167,6 +168,7 @@
 | [Big Pussy](https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [Big Pussy](https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o) | 2:20 | 2022-11-04 | 2023-01-14 |
 | [BIGGAVEL](https://open.spotify.com/track/4fZBMzTZjq7Z9f5y7bAGTi) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 2:49 | 2024-06-28 | 2024-08-01 |
 | [Billboard](https://open.spotify.com/track/0SgtsW3aGMqLXyUkIcTCSv) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Billboard](https://open.spotify.com/album/64kyKS3pe5GlZ3fSGlrFJa) | 1:51 | 2023-03-03 | 2023-04-22 |
+| [Bird W/O Nest \(feat\. Danny Brown\)](https://open.spotify.com/track/7Bdee0ienIRFLNX7bICp3b) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Bird W/O Nest \(feat\. Danny Brown\)](https://open.spotify.com/album/4B41BK44XIvsqlHOipDKcp) | 2:59 | 2024-11-19 |  |
 | [BITE](https://open.spotify.com/track/2tUqgzXUa4tqj2fRdPVtFX) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 2:40 | 2023-04-14 | 2023-06-17 |
 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 | 2023-03-17 | 2023-05-23 |
 | [Bitter](https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bitter](https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO) | 2:59 | 2022-09-10 | 2023-01-28 |
@@ -265,6 +267,7 @@
 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 | 2022-10-05 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-20 | 2024-06-01 |
 | [Carry On](https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Carry On](https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue) | 3:57 | 2023-03-17 | 2023-06-08 |
+| [Cash Now](https://open.spotify.com/track/0IfL7mZXy9sgnbxgDewezW) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Cash Now](https://open.spotify.com/album/1HjzwfyDcg1OHv9yAa3BQA) | 3:25 | 2024-11-19 |  |
 | [CASTLE](https://open.spotify.com/track/7oEQApCP6NihfIYfNqlYlw) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [CASTLE](https://open.spotify.com/album/4bBkAvyBa03RflwiflLN8h) | 2:32 | 2020-11-13 | 2022-02-05 |
 | [catf!sh](https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [catf!sh](https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz) | 2:55 | 2023-08-18 | 2023-11-08 |
 | [Caught Up](https://open.spotify.com/track/2q6U5nhaGir7u5JdDlyBcE) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Caught Up](https://open.spotify.com/album/3wS0gOhNVeC22pYC7OlTSn) | 2:14 | 2020-10-13\* | 2021-03-26 |
@@ -342,6 +345,7 @@
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2021-06-19 | 2021-10-13 |
 | [Crossed](https://open.spotify.com/track/5OkGswWRnGiCrgZYnDQBDX) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:02 | 2022-02-22 | 2022-03-01 |
 | [CRUMBLE](https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [CRUMBLE](https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j) | 2:14 | 2022-07-29 | 2022-08-06 |
+| [Crush](https://open.spotify.com/track/4PKTdxId5ky7qwsbepZG0O) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Crush](https://open.spotify.com/album/70tsNpnJp6WlO9gXXgnPGu) | 1:47 | 2024-11-19 |  |
 | [CRUSH](https://open.spotify.com/track/4WQtZRMQ0yHC5ioy6SwVvL) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [CRUSH](https://open.spotify.com/album/5pVUkDUqsZj4xmXSorJ8Ph) | 3:08 | 2020-10-13\* | 2021-01-23 |
 | [Crush](https://open.spotify.com/track/0D5DEPAygd5q2ULqY9WQyP) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Crush](https://open.spotify.com/album/1vCulKxQrKDV1rPKHEgIHI) | 2:13 | 2021-09-11 | 2021-10-14 |
 | [Crush \- Unfinished](https://open.spotify.com/track/516daakwmX9S2aRifLUCp8) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:45 | 2023-01-11 | 2024-03-30 |
@@ -1258,6 +1262,7 @@
 | [rest stop](https://open.spotify.com/track/0HCBF6WJf1otNKvdC7sFp6) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [rest stop](https://open.spotify.com/album/3IL6QscRSBsAAz9A4gK1aC) | 2:40 | 2022-08-05 | 2022-08-13 |
 | [Revolve](https://open.spotify.com/track/65SxZiGB2RDiTjNBhwj7qK) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Revolve](https://open.spotify.com/album/5eI3iOzlxGqcJuYSaVst48) | 2:52 | 2021-07-04 | 2021-10-16 |
 | [Rey Mysterio](https://open.spotify.com/track/5lMANswgAGvs6C8lUIQHxH) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Rey Mysterio](https://open.spotify.com/album/06qkxi5dRtOx8Wtzu0XSc5) | 2:26 | 2022-10-25 | 2022-12-01 |
+| [Rhododendron](https://open.spotify.com/track/6SzR4MPLsXUmS1QwJz5SIj) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Rhododendron](https://open.spotify.com/album/4iT4SmyeSci61zaLiEtlp0) | 2:22 | 2024-11-19 |  |
 | [Rice & Gravy](https://open.spotify.com/track/6kwWXm5ykHYBnY2Dcxc9UZ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo) | [Rice & Gravy](https://open.spotify.com/album/36wnZ5BLa9une2D5URHMPd) | 3:17 | 2021-05-22 | 2022-02-05 |
 | [RICKY BOBBY](https://open.spotify.com/track/5LkGZGwO6m7j08SNTEXmpA) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RICKY BOBBY](https://open.spotify.com/album/7IKiLi3SFxIzaIWECNGIe2) | 2:37 | 2021-06-05 | 2021-10-12 |
 | [riddle](https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [riddle](https://open.spotify.com/album/0z3Iiza1Fz3vbiHkMgi6RW) | 1:48 | 2022-02-04 | 2022-05-10 |

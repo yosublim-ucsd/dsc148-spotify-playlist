@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-491 songs - 21 hr 24 min
+492 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2023-03-10 | 2024-04-10 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2023-03-10 | 2023-10-11 |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2023-03-10 | 2023-10-11 |
+| [Rain and Sun](https://open.spotify.com/track/0O6tk4oLJmKh7ZNKyEVLC5) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Rain and Sun](https://open.spotify.com/album/4blmJxCpQ5MrnHwbdazQDW) | 2:42 | 2024-11-19 |  |
 | [Raison d'etre](https://open.spotify.com/track/4zypTg1KZ3HNPcYqfWou6f) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Raison d'etre](https://open.spotify.com/album/267CXYk2upy1NS7lZ7pmjh) | 2:23 | 2023-03-10 | 2024-03-26 |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2023-03-10 |  |
 | [Red Cottage](https://open.spotify.com/track/325uY8QdELU04pxe1q5FaB) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Red Cottage](https://open.spotify.com/album/0P9Ix0cZ4W82aE7ZbSGbmy) | 2:24 | 2023-03-10 | 2024-03-26 |

@@ -18854,7 +18854,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 202344,
       "name": "Moral",
       "url": "https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0"
@@ -20924,7 +20924,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 191615,
       "name": "Ojos Sin Ver",
       "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
@@ -21316,7 +21316,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 207960,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/67omTkP2mxRyKOCL5EoFqZ"
@@ -28756,6 +28756,24 @@
       "duration_ms": 232716,
       "name": "Vargas (Rs3)",
       "url": "https://open.spotify.com/track/77F2FBcaCALJCYmV2Wb4jW"
+    },
+    {
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143958,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX"
     },
     {
       "album": {

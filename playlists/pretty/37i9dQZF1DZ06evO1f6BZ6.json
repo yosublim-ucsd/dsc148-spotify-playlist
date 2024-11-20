@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 117657,
+  "num_followers": 117673,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAADI5TFe8fBw6HdrUaw2Jzod",
+  "snapshot_id": "ZzqDgAAAAAD9p7f3Dak7p3dkqa61cxyT",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "If I Was Jesus",
-      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rodeo Rock And Roll Collection",
         "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "If I Was Jesus",
+      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
     },
     {
       "added_at": null,

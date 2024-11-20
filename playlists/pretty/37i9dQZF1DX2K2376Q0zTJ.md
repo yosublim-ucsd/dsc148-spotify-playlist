@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: eill
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,213 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,216 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kakumei Zenya](https://open.spotify.com/track/76DBtBel5B2u8qvUszcj9f) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:08 |
-| 2 | [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 |
-| 3 | [generations](https://open.spotify.com/track/1Pep2EZL44TIxXpWeooK5r) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [generations](https://open.spotify.com/album/0J9DIGwh1fjbOstUdvXYnU) | 3:14 |
+| 2 | [gyakyoutenshi](https://open.spotify.com/track/1osD6bIt8x6TmzHHJjl5u8) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [gyakyoutenshi](https://open.spotify.com/album/6U2UUEQ6cTM70qEVRWTIPc) | 2:49 |
+| 3 | [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 |
 | 4 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
 | 5 | [No.5](https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 3:05 |
 | 6 | [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 44 | [INSOMNIA](https://open.spotify.com/track/3dHae3aTte5vwlSjKGBph6) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [INSOMNIA](https://open.spotify.com/album/5IxRTv4XQgTvewH3fwHnew) | 3:14 |
 | 45 | [F\(U\)NTASY](https://open.spotify.com/track/4TyFSxkPs4qo1lC3FWgoYH) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [F\(U\)NTASY](https://open.spotify.com/album/2l85ehw9edLu9cCowynHW0) | 4:25 |
 | 46 | [Grooving Night](https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/4aiI0ewHwBZ98S1kIMmMz4) | 3:26 |
-| 47 | [Call me](https://open.spotify.com/track/0hLubqb57Mh6y0Ejo4fRaM) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Call me](https://open.spotify.com/album/44JZmSyPk3MjDooKuYFl7b) | 3:37 |
+| 47 | [成長痛](https://open.spotify.com/track/6jTVrUczOZQKqprs4OT7gI) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [成長痛](https://open.spotify.com/album/6jMX7olPJ81OEMrfErL4Dk) | 2:52 |
 | 48 | [on my Side](https://open.spotify.com/track/77XGISIFuoGSCHnmfK72iA) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [on my Side](https://open.spotify.com/album/6akYERAOFyOAh6lyyT1dID) | 3:24 |
 | 49 | [Kung\-Fu](https://open.spotify.com/track/3VMMT6mr9WxmZvqjHxBGnL) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Orca](https://open.spotify.com/album/2VrTtwRYJgE8c6Xug3QeRH) | 3:02 |
 | 50 | [Heart Shakes](https://open.spotify.com/track/0GLI8mexnUIoA4smC92dnx) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Heart Shakes](https://open.spotify.com/album/631mKo4JBNHoX1u1MgLQzy) | 3:17 |
 
-Snapshot ID: `ZzNu1wAAAADjkwCB3lX6ZzMINsrb4BLS`
+Snapshot ID: `Zzy/3AAAAABa0vDbNCoZXpma6G+koWNL`

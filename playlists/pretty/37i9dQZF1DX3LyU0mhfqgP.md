@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists, featuring highlights from the Transa compilation\. Cover: Beverly Glenn\-Copeland & Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,961 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,924 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 6 | [People Are Small / Rapture](https://open.spotify.com/track/1IV5NFOcD05qO4bv0xAeaj) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn), [Imara Jones](https://open.spotify.com/artist/4fkvRwPIzptv8y9mjiE0FU), [Mojo Disco](https://open.spotify.com/artist/2UuZdHcbVkw0W7rmvto3PT), [Ceyenne Doroshow](https://open.spotify.com/artist/1hJMkQPdL15ZJMRl2glZUX) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 9:13 |
 | 7 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 |
 | 8 | [Falling In Love](https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Falling In Love](https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2) | 2:56 |
-| 9 | [Young Lion](https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ) | [Sade Adu](https://open.spotify.com/artist/0US6Qjw05r2L04QMNTLWfg) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 4:12 |
+| 9 | [Young Lion](https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 4:12 |
 | 10 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 |
 | 11 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 |
 | 12 | [Drap mnie](https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb) | [DIMoN](https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM) | [Doskonale](https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7) | 3:02 |
 | 13 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
-| 14 | [Something Is Happening And I May Not Fully Understand But I'm Happy To Stand For The Understanding](https://open.spotify.com/track/7mQ24tU0e1xZwl550Yhvzf) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 26:21 |
+| 14 | [IV\. Something Is Happening And I May Not Fully Understand But I'm Happy To Stand For The Understanding \(Awakening\)](https://open.spotify.com/track/7mQ24tU0e1xZwl550Yhvzf) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 26:21 |
 | 15 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |
 | 16 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 17 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |

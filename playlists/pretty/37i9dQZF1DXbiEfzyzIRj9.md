@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: YOSA & TAAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,332 likes - 99 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,334 likes - 99 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 95 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
 | 96 | [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 |
 | 97 | [Run](https://open.spotify.com/track/15SJxS2QIfiYsaQe9R5LLV) | [SKYTOPIA](https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM) | [Run](https://open.spotify.com/album/1TuyXo9Y6Dwozq9OQbT0ex) | 3:10 |
-| 98 | [Naarm's Sunset](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
+| 98 | [Naarm's Sunset \- Edit](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
 | 99 | [Stop The World](https://open.spotify.com/track/7hXWENKVs2XOlIdzgCMws7) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Stop The World](https://open.spotify.com/album/4Nd0jx1QuMiTgJgdJZBohf) | 3:32 |
 
 Snapshot ID: `ZzYQcAAAAACgz7CIjFIxBjfaDIHzI0C9`

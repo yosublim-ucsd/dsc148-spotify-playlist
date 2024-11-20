@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Shawn Mendes, Linkin Park, The Kid LAROI,  and more! cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,281 likes - 87 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,287 likes - 87 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Puppet Stringers](https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Puppet Stringers](https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ) | 2:49 |
 | 83 | [Say I Won't](https://open.spotify.com/track/5kvaCJ63DdSrHtrUyRplCG) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Pettyboy](https://open.spotify.com/album/7g5u6wTlIB8y0hMbQxagbP) | 2:11 |
 | 84 | [We Time \(with VIDI\)](https://open.spotify.com/track/2De3u8CrmCypAp1Ug1bEk0) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [That Girl](https://open.spotify.com/album/5sdQ40xdak5s0vyjYyZGXW) | 3:20 |
-| 85 | [300kHz \(Low Frequency\)](https://open.spotify.com/track/464t4JgArAGl8TS0tlcaaS) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Chaos EP](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:47 |
+| 85 | [300kHz \(Low Frequency\)](https://open.spotify.com/track/464t4JgArAGl8TS0tlcaaS) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [CHAOS](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:47 |
 | 86 | [Take A Sip](https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg) | [Take A Sip](https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG) | 2:57 |
 | 87 | [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 |
 

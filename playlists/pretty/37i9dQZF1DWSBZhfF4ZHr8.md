@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Kendji Girac
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,341 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,348 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 11 | [Fleurs Fanées](https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Fleurs Fanées](https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA) | 3:28 |
 | 12 | [Sincère](https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T) | 2:49 |
 | 13 | [Vice Versa](https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Vice Versa](https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH) | 2:46 |
-| 14 | [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:33 |
+| 14 | [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:31 |
 | 15 | [Mauvais rêve \- 28 ans](https://open.spotify.com/track/5yKtALi0PDiaPCQsng8CN5) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur papillon](https://open.spotify.com/album/0EJqRM0ONZPOlTaPquF9J1) | 4:19 |
 | 16 | [J'ai plus peur](https://open.spotify.com/track/1WuZtweA9VoqhFW42vMO9i) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [J'ai plus peur](https://open.spotify.com/album/3RxSWOD6Xf5BSCc7wz2o96) | 2:57 |
 | 17 | [C'est ça la vie](https://open.spotify.com/track/4uw9QI12tDmEvlgiH4tFm9) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [C'est ça la vie](https://open.spotify.com/album/27X4Zkeh2eVXl30FzetqeB) | 3:00 |

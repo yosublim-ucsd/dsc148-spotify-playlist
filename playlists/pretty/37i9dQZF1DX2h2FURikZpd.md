@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,651 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 733 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 24 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
 | 25 | [Luminosa](https://open.spotify.com/track/3mZcIwT9NgxStYAWYtfELb) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Luminosa](https://open.spotify.com/album/2JkuJhdEjgI7JbAMLxASlp) | 3:11 |
 
-Snapshot ID: `ZsgJQAAAAAB7ovMipAcGfIizEAOxD1aY`
+Snapshot ID: `ZzzIDwAAAAA6ApLZ+/qfa0SPbbhxPQHK`

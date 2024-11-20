@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Dew And Mist",
+        "url": "https://open.spotify.com/album/5RVjgpEhr3z7RtCf8qwgf8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Dew And Mist",
+      "url": "https://open.spotify.com/track/01HdpBU1dkV4LTRV67PXOF"
+    },
+    {
+      "album": {
         "name": "midnight dreams & diamond star",
         "url": "https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF"
       },

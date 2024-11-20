@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZIKOOemBft.md) - [plain]
 
 > Anguished with a tragic past, this character’s demeanor may intimidate some, but deep down they just need a hug.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,730 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,810 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZIKOOemBft.md) - [plain]
 | 13 | [What's up, people?!](https://open.spotify.com/track/07qCt941ZIm3alfGCoP247) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 4:10 |
 | 14 | [sh0ut](https://open.spotify.com/track/0q02P4yUz4BAcmzbGVrCEU) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:05 |
 | 15 | [Like Flames](https://open.spotify.com/track/7lDQmAjCPGHMBEP4PrzvTn) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/5d63xrEXKtiWx8mU2mrfZY) | 4:10 |
-| 16 | [No pain, No game](https://open.spotify.com/track/1HUgqhTeOMW7IUm5G2a2dR) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [N](https://open.spotify.com/album/0Eb9A3qhwskz4PllOhfUuj) | 3:22 |
+| 16 | [No pain, No game](https://open.spotify.com/track/1HUgqhTeOMW7IUm5G2a2dR) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Ｎ](https://open.spotify.com/album/0Eb9A3qhwskz4PllOhfUuj) | 3:22 |
 | 17 | [database](https://open.spotify.com/track/5OSiS8bliBnbktDpZqf9ab) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [Takuma](https://open.spotify.com/artist/2f5KOd9rSQlzMvjg80Ckbe) | [database](https://open.spotify.com/album/1CTLEclhYYdLYY5s1lwirN) | 3:56 |
 | 18 | [VORACITY](https://open.spotify.com/track/6nVIKrgE7lIlgLPbJ6l29f) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」](https://open.spotify.com/album/3VBaCgrD7i77Y0P3wiOol1) | 3:51 |
 | 19 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |

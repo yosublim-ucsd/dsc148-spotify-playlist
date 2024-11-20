@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-205 songs - 11 hr 18 min
+206 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-20 |  |
 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-09-20 | 2024-04-19 |
 | [Dusk](https://open.spotify.com/track/2MhXwjK9gnKjfSAfdB9zrW) | [Nkeiru Okoye](https://open.spotify.com/artist/45HzYdqJbg8BPgQBDqra2V), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Kete \- Piano Music of Africa and the African Diaspora](https://open.spotify.com/album/2p9Sb0tIEgL88LCXT7FMB2) | 3:24 | 2021-12-10 | 2022-01-05 |
+| [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 | 2024-11-19 |  |
 | [Duvet](https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Duvet](https://open.spotify.com/album/0nMFK7NgMeZD1xz1t384X3) | 3:24 | 2021-12-10 |  |
 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 | 2022-07-22 | 2024-04-19 |
 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 | 2021-12-10 |  |

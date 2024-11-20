@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,462 likes - 226 songs - 14 hr 25 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,465 likes - 227 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,5 +234,6 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 224 | [Fuck That](https://open.spotify.com/track/4ztmlSZinz3IbpJU5YX7JG) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:52 |
 | 225 | [Brooklyn](https://open.spotify.com/track/04L8upqYWKegTZOYdgyPeP) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Homieland vol.1](https://open.spotify.com/album/3U86hGdTE6sfypz1YHFMnD) | 5:19 |
 | 226 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 |
+| 227 | [Play House](https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv) | [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Play House EP](https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2) | 3:59 |
 
-Snapshot ID: `AAAJTpECB50AMksq6Sewpbu4tNJ7HKYf`
+Snapshot ID: `AAAJTwMgHsWayYpq/W8Cpl+5xCMsEQhb`

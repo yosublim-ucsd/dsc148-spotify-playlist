@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Dr\. Yaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,566 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,605 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 39 | [NASA](https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [NASA](https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ) | 2:24 |
 | 40 | [OHMA TOKITA](https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OHMA TOKITA](https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ) | 2:15 |
 | 41 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 |
-| 42 | [Briller](https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Briller](https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS) | 3:11 |
-| 43 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
-| 44 | [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 |
-| 45 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 |
-| 46 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
-| 47 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
-| 48 | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc) | 1:42 |
-| 49 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
-| 50 | [Lifobo](https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine, pt\. 1](https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ) | 2:42 |
+| 42 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
+| 43 | [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 |
+| 44 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 |
+| 45 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
+| 46 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
+| 47 | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc) | 1:42 |
+| 48 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
+| 49 | [Lifobo](https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine, pt\. 1](https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ) | 2:42 |
 
-Snapshot ID: `ZzaA8AAAAAC+E8H5uYhe1zhEQtqXTi5w`
+Snapshot ID: `ZzyXngAAAABlUf2A0jsFTtninUZhDDTN`

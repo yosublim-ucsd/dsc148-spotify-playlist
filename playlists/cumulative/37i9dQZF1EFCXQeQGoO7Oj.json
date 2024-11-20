@@ -2536,10 +2536,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 221293,
       "name": "Do You Know (What It Takes)",
       "url": "https://open.spotify.com/track/0idCpkJ2pspfAILbanmERu"
+    },
+    {
+      "album": {
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222773,
+      "name": "Do You Know (What It Takes)",
+      "url": "https://open.spotify.com/track/0Sqt1gf2esR4hU6OVxO1WN"
     },
     {
       "album": {
@@ -8148,10 +8166,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
+    },
+    {
+      "album": {
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/3gKL2RRGnquktudCkkBC0X"
     },
     {
       "album": {

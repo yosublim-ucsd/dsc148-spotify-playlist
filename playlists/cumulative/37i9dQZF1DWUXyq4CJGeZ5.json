@@ -6047,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "Rain and Sun",
+        "url": "https://open.spotify.com/album/4blmJxCpQ5MrnHwbdazQDW"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Becerra",
+          "url": "https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162874,
+      "name": "Rain and Sun",
+      "url": "https://open.spotify.com/track/0O6tk4oLJmKh7ZNKyEVLC5"
+    },
+    {
+      "album": {
         "name": "Raison d'etre",
         "url": "https://open.spotify.com/album/267CXYk2upy1NS7lZ7pmjh"
       },

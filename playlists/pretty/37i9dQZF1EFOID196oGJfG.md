@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 4 | [Groupie](https://open.spotify.com/track/1ORwrvXGsLGVqabn0minCr) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Groupie](https://open.spotify.com/album/6iylZzYLNtnmYDLXkKWSUQ) | 3:08 |
 | 5 | [Bad Boy! \- feat\. Kenia OS](https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bad Boy! \(feat\. Kenia OS\)](https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ) | 2:45 |
 | 6 | [Can't Wait To Be Pretty \- Demo](https://open.spotify.com/track/6KOuMCwNRzp7Z5uwl0DI2w) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Can't Wait To Be Pretty \- Demo](https://open.spotify.com/album/707u2HFuO8Nf6tSwDvRo6y) | 2:37 |
-| 7 | [Stupid](https://open.spotify.com/track/32ltNjetvrzgPGNsTEX898) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Stupid](https://open.spotify.com/album/0W2UFoxAILbiUYZX5zvPRI) | 2:48 |
-| 8 | [Slip](https://open.spotify.com/track/7zQTYsNMzkF9qPx2W8E9Id) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Slip](https://open.spotify.com/album/4uYUxozATit05Y6JLBqrLK) | 3:03 |
+| 7 | [Slip](https://open.spotify.com/track/7zQTYsNMzkF9qPx2W8E9Id) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Slip](https://open.spotify.com/album/4uYUxozATit05Y6JLBqrLK) | 3:03 |
+| 8 | [Stupid](https://open.spotify.com/track/32ltNjetvrzgPGNsTEX898) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Stupid](https://open.spotify.com/album/0W2UFoxAILbiUYZX5zvPRI) | 2:48 |
 | 9 | [comme des garçons \(like the boys\)](https://open.spotify.com/track/2HDCf9KhsUSFbxIqj22rOq) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [isaac's insects](https://open.spotify.com/album/2HbOTgPrZbFDx84oPQ0RlO) | 3:10 |
 | 10 | [Scared to Be Happy](https://open.spotify.com/track/22gqgp77iH9XnPTjs4U6JM) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/3jwBuaG80L637u5zCIYegb) | 2:37 |
 | 11 | [Do Better](https://open.spotify.com/track/4Xm7NkqCD6Zf6jQ0urA68x) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Do Better](https://open.spotify.com/album/0dNeLG8tONsnsENlFvkDBe) | 2:09 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 36 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 37 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `Abh3dAAAAABe9SOz1Ut0iYwWfKUhPog8`
+Snapshot ID: `Abh9FAAAAACb54ZliSDDSrFO4mNjyf9C`

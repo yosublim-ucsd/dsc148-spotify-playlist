@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 107865,
       "name": "carp",
       "url": "https://open.spotify.com/track/5sHYEt9ctuosoiYxthnk06"
@@ -11768,6 +11768,24 @@
       "duration_ms": 147000,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/1zolBVsZLjNy5dBgDv0CCD"
+    },
+    {
+      "album": {
+        "name": "intercept",
+        "url": "https://open.spotify.com/album/5oZsKhidnTfL7IBjnTqGlH"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Dor",
+          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178361,
+      "name": "intercept",
+      "url": "https://open.spotify.com/track/66Ead1pk9zDdqTe3xJ7ABB"
     },
     {
       "album": {

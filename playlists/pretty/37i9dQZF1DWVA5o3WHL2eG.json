@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35453,
+  "num_followers": 35459,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Welcome Back",
-        "url": "https://open.spotify.com/album/4qP2cbqLyu4sHbEiRARY8z"
-      },
-      "artists": [
-        {
-          "name": "Christin Nichols",
-          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
-        }
-      ],
-      "duration_ms": 168255,
-      "name": "Welcome Back",
-      "url": "https://open.spotify.com/track/1lmaPGAWk6bAq2PlZU5YN8"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "spirallore",
         "url": "https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "CATCH ME IF YOU CAN",
-        "url": "https://open.spotify.com/album/6oj7D6Nz6xzwRLoDAmJF3t"
+        "name": "Welcome Back",
+        "url": "https://open.spotify.com/album/4qP2cbqLyu4sHbEiRARY8z"
       },
       "artists": [
         {
-          "name": "IKAN HYU",
-          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+          "name": "Christin Nichols",
+          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
         }
       ],
-      "duration_ms": 170000,
-      "name": "CATCH ME IF YOU CAN",
-      "url": "https://open.spotify.com/track/1ltkUFNP6ce7PtvB0idL2c"
+      "duration_ms": 168255,
+      "name": "Welcome Back",
+      "url": "https://open.spotify.com/track/1lmaPGAWk6bAq2PlZU5YN8"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 151715,
       "name": "wie es fr\u00fcher einmal war",
       "url": "https://open.spotify.com/track/45lyaLLHetseCEwipYs8YB"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "CATCH ME IF YOU CAN",
+        "url": "https://open.spotify.com/album/6oj7D6Nz6xzwRLoDAmJF3t"
+      },
+      "artists": [
+        {
+          "name": "IKAN HYU",
+          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "CATCH ME IF YOU CAN",
+      "url": "https://open.spotify.com/track/1ltkUFNP6ce7PtvB0idL2c"
     },
     {
       "added_at": "2024-11-05 23:00:00",

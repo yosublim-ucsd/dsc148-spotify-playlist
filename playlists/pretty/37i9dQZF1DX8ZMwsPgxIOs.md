@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,560 likes - 109 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,589 likes - 109 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 13 | [2084 \- Space 92 Remix](https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [2084 \(Space 92 Remix\)](https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA) | 3:46 |
 | 14 | [No Sleep](https://open.spotify.com/track/0IfBHPh5QvtEAM46nKERjR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [No Sleep](https://open.spotify.com/album/3x1nV1mAZLwDvIC3rlB0pe) | 2:49 |
 | 15 | [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 |
-| 16 | [Escape From Planet Monday](https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Escape From Planet Monday](https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD) | 3:14 |
+| 16 | [Escape From Planet Monday](https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Escape From Planet Monday](https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD) | 3:14 |
 | 17 | [Addiction](https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Addiction / Yapper](https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr) | 3:31 |
 | 18 | [What Would Gerry Do](https://open.spotify.com/track/0AcAZoVPYbGf1oIEn8UDiG) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [What Would Gerry Do](https://open.spotify.com/album/0dAsvt2RrjPUp4PVy8SsFz) | 2:25 |
 | 19 | [Movin' Thru Your System](https://open.spotify.com/track/0Ae3WusC77iw3zN6FUsUQZ) | [Jark Prongo](https://open.spotify.com/artist/4ClEUQ8NxfO6jVClYXE2Zh), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Movin' Thru Your System](https://open.spotify.com/album/5yTENMSG5IjPRHFJHNh0aw) | 3:43 |

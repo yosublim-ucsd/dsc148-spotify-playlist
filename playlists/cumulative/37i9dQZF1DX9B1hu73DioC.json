@@ -12623,6 +12623,24 @@
     },
     {
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte"
+    },
+    {
+      "album": {
         "name": "SlowMo",
         "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
       },
@@ -12706,7 +12724,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 185245,
       "name": "Someone I Could Love",
       "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"

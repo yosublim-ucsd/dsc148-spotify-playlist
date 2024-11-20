@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Tom\u00e1s Ballardo en portada.",
-  "num_followers": 236415,
+  "num_followers": 236487,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 205077,
+      "name": "Se Nos Fue El 2",
+      "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 151946,
       "name": "De LM a GVE",
       "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 205077,
-      "name": "Se Nos Fue El 2",
-      "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Vice City",
-        "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Vice City",
-      "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "El R\u00e1pido (En vivo)",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
+        "name": "Me Recordar\u00e1 El Cartel",
+        "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        },
+        {
+          "name": "Markitos Toys",
+          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+        }
+      ],
+      "duration_ms": 221391,
+      "name": "Me Recordar\u00e1 El Cartel",
+      "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Me Recordar\u00e1 El Cartel",
-        "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
+        "name": "Vice City",
+        "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
       },
       "artists": [
         {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         },
         {
-          "name": "Markitos Toys",
-          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 221391,
-      "name": "Me Recordar\u00e1 El Cartel",
-      "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
+      "duration_ms": 183973,
+      "name": "Vice City",
+      "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "Jerry",
-      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "Sold Out",
         "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 198036,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "Jerry",
+      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Carteles Vol.II",
-        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 223769,
-      "name": "El 40 (Durango)",
-      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "10 Corridos Autorizados",
         "url": "https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 226944,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Carteles Vol.II",
+        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 223769,
+      "name": "El 40 (Durango)",
+      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Asociacion Antrax",
-        "url": "https://open.spotify.com/album/68EP0SBEocxEtCeCBozk8c"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        }
-      ],
-      "duration_ms": 219684,
-      "name": "Asociacion Antrax",
-      "url": "https://open.spotify.com/track/38pjpQWm9JmIpTAyyUGRGp"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Asociacion Antrax",
+        "url": "https://open.spotify.com/album/68EP0SBEocxEtCeCBozk8c"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        }
+      ],
+      "duration_ms": 219684,
+      "name": "Asociacion Antrax",
+      "url": "https://open.spotify.com/track/38pjpQWm9JmIpTAyyUGRGp"
     },
     {
       "added_at": "2024-11-15 19:30:22",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-11-15 19:30:22",
       "album": {
-        "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 130363,
-      "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
-    },
-    {
-      "added_at": "2024-11-15 19:30:22",
-      "album": {
         "name": "Los Dos de Guerrero",
         "url": "https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 207617,
       "name": "Los Dos de Guerrero",
       "url": "https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v"
+    },
+    {
+      "added_at": "2024-11-15 19:30:22",
+      "album": {
+        "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 130363,
+      "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
     },
     {
       "added_at": "2024-11-15 19:30:22",

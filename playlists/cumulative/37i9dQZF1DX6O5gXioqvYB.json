@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 122666,
       "name": "ALICE+",
       "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
@@ -3744,6 +3744,36 @@
       "duration_ms": 146000,
       "name": "Un Altro Giro",
       "url": "https://open.spotify.com/track/6Da8hRd6GzbBYtjBtSyR1f"
+    },
+    {
+      "album": {
+        "name": "Un cane",
+        "url": "https://open.spotify.com/album/5oSZwFm2gzzcUJNBDDQ7Vd"
+      },
+      "artists": [
+        {
+          "name": "SPINABELLA",
+          "url": "https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr"
+        },
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/4AtwkLcoCPKhSVsXB8U8mJ"
+        },
+        {
+          "name": "Heavyangel",
+          "url": "https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr"
+        },
+        {
+          "name": "Lincxn",
+          "url": "https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Un cane",
+      "url": "https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 45,149 likes - 100 songs - 5 hr 13 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 45,162 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 5 | [Lies](https://open.spotify.com/track/2mXZYJ4XD0SpOEdyaA37Gj) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:32 |
 | 6 | [Disturbing](https://open.spotify.com/track/1w4c503rCezi0O5pwgDKd7) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Disturbing](https://open.spotify.com/album/0RRU6iJcBVOYwPuCxpr8OE) | 2:55 |
 | 7 | [Blessing](https://open.spotify.com/track/6UMZr2CT4DZLXT07eIPTKz) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Self\-\(En\)titled](https://open.spotify.com/album/3c3ZRhV2qp7sEZyeCpiuNp) | 4:18 |
-| 8 | [Close To You](https://open.spotify.com/track/6G2psrvm6JGBYrsuMYG0dz) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Close To You](https://open.spotify.com/album/1uGcrM3C3k3121zNKvDQCn) | 3:39 |
+| 8 | [Close to You \(feat\. Sadie Rose Van\)](https://open.spotify.com/track/6G2psrvm6JGBYrsuMYG0dz) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Close to You \(feat\. Sadie Rose Van\)](https://open.spotify.com/album/1uGcrM3C3k3121zNKvDQCn) | 3:39 |
 | 9 | [Let Me In A Little](https://open.spotify.com/track/6THYHjjhYKfg3aHzvv4nNI) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD), [Morty](https://open.spotify.com/artist/4DKdpWEp7Np8enpUyOdgLD) | [Let Me In A Little](https://open.spotify.com/album/0QGzbdmxAmrOh7j2JGFRa9) | 2:59 |
 | 10 | [Dassit](https://open.spotify.com/track/29EO1VtbXoT0uzZnV9T545) | [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o), [Child Actor](https://open.spotify.com/artist/7v8vS5P9XqEhhH8EyjqmJS) | [CINE](https://open.spotify.com/album/3MrcIxWC9kt95wT3lRqHPL) | 3:18 |
 | 11 | [self sabotage](https://open.spotify.com/track/6JmwK9DHcT0JeCtYuwiIWB) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [self sabotage](https://open.spotify.com/album/6UI2gcpb5zMQaV1bB0naok) | 2:10 |

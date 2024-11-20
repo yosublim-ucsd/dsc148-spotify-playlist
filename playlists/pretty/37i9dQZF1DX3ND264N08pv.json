@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 77380,
+  "num_followers": 77431,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "Het Beest Is Wakker",
         "url": "https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6"
       },
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns"
       },
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "ART IS DEAD",
-        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
+        "name": "Bounce To This (Official Bounce Anthem 2024)",
+        "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
         }
       ],
-      "duration_ms": 214670,
-      "name": "ART IS DEAD",
-      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
+      "duration_ms": 196800,
+      "name": "Bounce To This - Official Bounce Anthem 2024",
+      "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Bounce To This (Official Bounce Anthem 2024)",
-        "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
+        "name": "ART IS DEAD",
+        "url": "https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O"
       },
       "artists": [
         {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Bounce To This - Official Bounce Anthem 2024",
-      "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
+      "duration_ms": 214670,
+      "name": "ART IS DEAD",
+      "url": "https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto"
     },
     {
       "added_at": "2024-11-18 18:24:11",

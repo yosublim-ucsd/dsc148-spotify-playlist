@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-953 songs - 2 day 3 hr 29 min
+954 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-02-01 |  |
 | [Piche Piche Jatt](https://open.spotify.com/track/5ViXandwEDhcXcIikeUXOC) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Shareek 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pPCg7ZLDCM1owPBdTzxyt) | 3:31 | 2022-06-22 | 2022-07-06 |
 | [Pichhe Pichhe](https://open.spotify.com/track/6e8TOGH1S9qRleccUJkxdu) | [Deep Maan](https://open.spotify.com/artist/3mU63XyW4WR6t2223LvfWx), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Young Army](https://open.spotify.com/artist/5YWfWq6O3w6yurYf8CHTxx) | [Pichhe Pichhe](https://open.spotify.com/album/5Dplp4F98yVkKNgH0yv8gI) | 2:51 | 2022-04-22 | 2022-05-11 |
-| [Pippal Da Patta](https://open.spotify.com/track/4cQDm8B7JxO0HDkhjSRCFC) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/767hmpll8oTyXk0ElCmdmD) | 3:55 | 2024-11-04 |  |
+| [Pippal Da Patta](https://open.spotify.com/track/4cQDm8B7JxO0HDkhjSRCFC) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/767hmpll8oTyXk0ElCmdmD) | 3:55 | 2024-11-04 | 2024-11-20 |
 | [Poora Chann](https://open.spotify.com/track/62cosUXsAaysvUJTIOWGzJ) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [Poora Chann](https://open.spotify.com/album/1JqXcDVTpMFrxw05z2hHi4) | 2:20 | 2022-07-25 | 2022-08-18 |
 | [Positivity](https://open.spotify.com/track/4Wy1PEoKfF3wPikE3GcWLl) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Positivity](https://open.spotify.com/album/1TMrvJJPk0MO3tvKEHAM7u) | 2:50 | 2022-05-10 | 2023-02-04 |
 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 | 2021-12-02 | 2022-12-16 |
@@ -688,6 +688,7 @@
 | [Rang Soneya](https://open.spotify.com/track/4wGJwd7XWkqhy9sQ9e81IR) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Rang Soneya](https://open.spotify.com/album/4EABUN4xMmsfwEY2i04jq0) | 2:44 | 2022-02-23 | 2022-04-06 |
 | [Ranga Wargi](https://open.spotify.com/track/7hP9MPxFIr3WsnmJuVnT60) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Sikander](https://open.spotify.com/artist/04vyYm9kJkl2YjCP9qcv3g) | [Ranga Wargi](https://open.spotify.com/album/5u1XU8Q43lXsqAOsLmHbVT) | 3:26 | 2022-02-04 | 2022-02-12 |
 | [Rangreza \(from Lover\)](https://open.spotify.com/track/2fMlQCfFdEpZI5fbtHziRT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Rangreza \(from Lover\)](https://open.spotify.com/album/2eIpzFXnibAbiUtUhIymOU) | 3:02 | 2022-06-28 | 2022-07-06 |
+| [Rani Haar](https://open.spotify.com/track/1mWvTGvCfvaw8UVLlPjFAb) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Rani Haar](https://open.spotify.com/album/76dpB9VA6Uoa07CrW3bidi) | 2:16 | 2024-11-19 |  |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-12-02 | 2022-04-06 |
 | [Raptan](https://open.spotify.com/track/7EaZyWboCLhs6HT2wlwm6E) | [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Raptan](https://open.spotify.com/album/3TDmtgj8nXy8BPdcFryhQH) | 2:48 | 2022-11-07 | 2022-12-16 |
 | [Rari \- From The Album "ikigai"](https://open.spotify.com/track/23XYJiXbWlbXL4LVYsOpQf) | [Navv Maan](https://open.spotify.com/artist/20nlQL2fSMQ4fqL59nzpVQ), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Rari](https://open.spotify.com/album/6hNaJbGLbgKVZ0Gpx6zSWN) | 2:07 | 2022-01-27 | 2022-02-01 |

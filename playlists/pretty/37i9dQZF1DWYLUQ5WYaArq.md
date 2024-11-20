@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Celebrate 'Don't Ask' and Ausmusic Month with Tina Arena's picks of iconic Aussie women and non\-binary artists\. Cover: Tina Arena
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,867 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,876 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

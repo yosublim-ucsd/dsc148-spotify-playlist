@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,380 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,431 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 48 | [Deep In The Underground](https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Deep In The Underground](https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf) | 3:21 |
 | 49 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
 | 50 | [Shark Attack](https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:39 |
-| 51 | [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 |
-| 52 | [My Way](https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [My Way](https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep) | 3:15 |
+| 51 | [My Way](https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [My Way](https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep) | 3:15 |
+| 52 | [Het Beest Is Wakker](https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [Het Beest Is Wakker](https://open.spotify.com/album/6gB0fs8tMtDR9ZXM8NMDn6) | 2:59 |
 | 53 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 |
-| 54 | [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 |
+| 54 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 55 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
-| 56 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
+| 56 | [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 |
 | 57 | [Schijt Aan!](https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Schijt Aan!](https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY) | 3:14 |
 | 58 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
 | 59 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 |

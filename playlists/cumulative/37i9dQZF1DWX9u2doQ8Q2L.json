@@ -2149,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Ftheworld",
+        "url": "https://open.spotify.com/album/0S5nb7Wr2M4ZoTZN20VHfk"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184588,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/38pCBW3vsaop7ZGebuf6NA"
+    },
+    {
+      "album": {
         "name": "Beautiful Days",
         "url": "https://open.spotify.com/album/0sxo4N0m8NZOfge4xZ0STq"
       },
@@ -2378,7 +2400,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 206931,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff"
@@ -15072,7 +15094,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 280626,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
@@ -15384,7 +15406,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 200929,
       "name": "plum",
       "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
@@ -20508,7 +20530,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 131200,
       "name": "Taxi to the Moon",
       "url": "https://open.spotify.com/track/6wcRXWJwk0LRS5Pp2UZssb"
@@ -29472,7 +29494,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "\u751f\u547d\u4f53",
       "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"

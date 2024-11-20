@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 45889,
+  "num_followers": 45899,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Mundo Paralelo",
-        "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
+        "name": "Gozar Hasta Que Me Ausente",
+        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
         }
       ],
-      "duration_ms": 197970,
-      "name": "Mundo Paralelo",
-      "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
+      "duration_ms": 242409,
+      "name": "Gozar Hasta Que Me Ausente",
+      "url": "https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -631,18 +627,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Gozar Hasta Que Me Ausente",
-        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
+        "name": "Mundo Paralelo",
+        "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
       },
       "artists": [
         {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 242409,
-      "name": "Gozar Hasta Que Me Ausente",
-      "url": "https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY"
+      "duration_ms": 197970,
+      "name": "Mundo Paralelo",
+      "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -995,30 +995,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Am\u00e9rica Vibra",
-        "url": "https://open.spotify.com/album/4gzXNuK24CY9voI94eWFmj"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Yalitza Aparicio",
-          "url": "https://open.spotify.com/artist/3Spa8nHPVqwproM33tHfE8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Am\u00e9rica Vibra",
-      "url": "https://open.spotify.com/track/72PvkTLkue9YzAltQL2skH"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Am\u00e9rica Vibra",
+        "url": "https://open.spotify.com/album/4gzXNuK24CY9voI94eWFmj"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Yalitza Aparicio",
+          "url": "https://open.spotify.com/artist/3Spa8nHPVqwproM33tHfE8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Am\u00e9rica Vibra",
+      "url": "https://open.spotify.com/track/72PvkTLkue9YzAltQL2skH"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Nonpalidece",
-        "url": "https://open.spotify.com/album/1kYgzpnvsVgE3QOf1Gq1zm"
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        },
-        {
-          "name": "Stuartinfk",
-          "url": "https://open.spotify.com/artist/73vQG2QcCRTld4tt9cQMpk"
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
         }
       ],
-      "duration_ms": 219936,
-      "name": "La Alegr\u00eda Manda",
-      "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
+      "duration_ms": 190080,
+      "name": "Otro Cuento",
+      "url": "https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy"
     },
     {
       "added_at": "2024-06-12 21:02:48",

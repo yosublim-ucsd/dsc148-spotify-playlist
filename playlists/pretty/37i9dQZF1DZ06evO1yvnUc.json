@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 121450,
+  "num_followers": 121623,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAADyMmla7bqUien6Gq+8EzUf",
+  "snapshot_id": "ZzqDgAAAAAADA3Xse9WmgQIGcOZaTAuo",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,22 @@
       "duration_ms": 203180,
       "name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
       "url": "https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 240700,
+      "name": "You've Been Missed",
+      "url": "https://open.spotify.com/track/21w7eTmB3r5LFSyvCUQRO4"
     },
     {
       "added_at": null,

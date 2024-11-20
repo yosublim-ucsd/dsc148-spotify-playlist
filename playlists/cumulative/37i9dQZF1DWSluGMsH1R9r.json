@@ -1971,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Cold Winter",
+        "url": "https://open.spotify.com/album/3guUHu2tYuaeUZvCW2dkvz"
+      },
+      "artists": [
+        {
+          "name": "Claudia Schumann",
+          "url": "https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "Cold Winter",
+      "url": "https://open.spotify.com/track/5dDeXSx4rhGmWRGoN8Bnkg"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
       },
@@ -4028,7 +4046,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 129190,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/6WMqwT9YNk3hONbnMaf6NG"
@@ -9792,7 +9810,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 157126,
       "name": "Sketches",
       "url": "https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6"
@@ -10174,6 +10192,24 @@
       "duration_ms": 98078,
       "name": "Starlight Canyon",
       "url": "https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140592,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
     },
     {
       "album": {
@@ -10858,7 +10894,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"

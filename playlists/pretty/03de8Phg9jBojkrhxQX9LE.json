@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21024,
+  "num_followers": 21023,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -300,12 +300,12 @@
           "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
         },
         {
-          "name": "Razor",
-          "url": "https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi"
-        },
-        {
           "name": "PRVNA",
           "url": "https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4"
+        },
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi"
         }
       ],
       "duration_ms": 204755,

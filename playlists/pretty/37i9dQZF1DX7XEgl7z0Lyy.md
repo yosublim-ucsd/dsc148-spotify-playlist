@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,252 likes - 107 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,642 likes - 107 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 6 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 |
 | 7 | [LEGACY](https://open.spotify.com/track/1rq0nbpxSLVy9Z9m755ZOu) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [LEGACY](https://open.spotify.com/album/2O75ivwd1VnIU7hhTjRmwT) | 2:00 |
 | 8 | [BRAINS OUT](https://open.spotify.com/track/6aOZOwdGDThb7z3BS8JXFr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [BRAINS OUT](https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr) | 1:56 |
-| 9 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
-| 10 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 |
-| 11 | [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 |
-| 12 | [HA\-HA!](https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [HA\-HA!](https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu) | 2:00 |
+| 9 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 |
+| 10 | [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 |
+| 11 | [HA\-HA!](https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [HA\-HA!](https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu) | 2:00 |
+| 12 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
 | 13 | [ROCKST4R](https://open.spotify.com/track/6Gd9ab4irg5sQOrS9GA18T) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [ROCKST4R](https://open.spotify.com/album/3uCTv5sotyLk7SzbyyVOe9) | 1:59 |
 | 14 | [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 |
 | 15 | [EYES ON ME](https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [EYES ON ME](https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq) | 1:56 |
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 17 | [CR4CK HOUSE](https://open.spotify.com/track/0dUnW52SwzwPEAHS1oM9xT) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [CR4CK HOUSE](https://open.spotify.com/album/5Cm7ZRDa3KEnpc9nNrNxO5) | 2:05 |
 | 18 | [HEADSHOT \- Instrumental](https://open.spotify.com/track/5NfrtBvM1z7sY7vfceTt5b) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [HEADSHOT](https://open.spotify.com/album/5q4APfGSboWnF8OCJxvEQl) | 1:20 |
 | 19 | [DICE AND ROLL](https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DICE AND ROLL](https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a) | 2:00 |
-| 20 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk) | 1:56 |
-| 21 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [EMBRACE CHAOS I](https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde) | 3:30 |
-| 22 | [ON THE FLOOR!](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [xoni](https://open.spotify.com/artist/4LNaQPg7dVA4HLDkp9BSf6) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 |
-| 23 | [abandoned](https://open.spotify.com/track/5ywNbjAfEstdONCpRzZg06) | [ANGUISH](https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl), [LMG](https://open.spotify.com/artist/4rYQsVuUcrRicKYLrPXwaX), [ily](https://open.spotify.com/artist/58V1mBG998BXT4jR5YvIGt) | [without u](https://open.spotify.com/album/4SsXKvJuR3CIJh1CKLzNgR) | 1:41 |
+| 20 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [EMBRACE CHAOS I](https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde) | 3:30 |
+| 21 | [ON THE FLOOR!](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [xoni](https://open.spotify.com/artist/4LNaQPg7dVA4HLDkp9BSf6) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 |
+| 22 | [abandoned](https://open.spotify.com/track/5ywNbjAfEstdONCpRzZg06) | [ANGUISH](https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl), [LMG](https://open.spotify.com/artist/4rYQsVuUcrRicKYLrPXwaX), [ily](https://open.spotify.com/artist/58V1mBG998BXT4jR5YvIGt) | [without u](https://open.spotify.com/album/4SsXKvJuR3CIJh1CKLzNgR) | 1:41 |
+| 23 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk) | 1:56 |
 | 24 | [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 |
 | 25 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 |
 | 26 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 106 | [PURPLE HEART \(w/ Don Toliver\)](https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:05 |
 | 107 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 
-Snapshot ID: `Zy5dbgAAAAAhflCAcGFSCV47yLGuh7oJ`
+Snapshot ID: `ZzzFKQAAAACuqLzRQU+YhT0IHVEL38yG`

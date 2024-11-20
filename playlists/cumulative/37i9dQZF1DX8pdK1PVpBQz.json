@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: Kee'ahn, Anthony Liddell, Jake Amy",
+  "description": "The best new music by independent artists and labels. \nCover: Stella Bridie",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -5933,6 +5933,24 @@
     },
     {
       "album": {
+        "name": "Big Blue House",
+        "url": "https://open.spotify.com/album/5LcW4MSTa1i7LEtO2gUCEQ"
+      },
+      "artists": [
+        {
+          "name": "Lipstick Palms",
+          "url": "https://open.spotify.com/artist/5QMwiGZuD9iTcxXFmXGNZk"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231765,
+      "name": "Big Blue House",
+      "url": "https://open.spotify.com/track/0Qw6rc99RHrvEf8nXvIcGP"
+    },
+    {
+      "album": {
         "name": "BIG GIRLS (Karma Fields Remix Edit)",
         "url": "https://open.spotify.com/album/59t9gjwVP3UBZJ6wkIWnwa"
       },
@@ -8902,6 +8920,24 @@
       "duration_ms": 118432,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/1fsrkfxIKlHM0Zfj6iR3nz"
+    },
+    {
+      "album": {
+        "name": "bye, bye",
+        "url": "https://open.spotify.com/album/7sBDfJSXySjNiqqAuutTRv"
+      },
+      "artists": [
+        {
+          "name": "MIZUKI",
+          "url": "https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "bye, bye",
+      "url": "https://open.spotify.com/track/6gvLaJ7wAIM3E1tKn2ipQM"
     },
     {
       "album": {
@@ -16955,6 +16991,24 @@
     },
     {
       "album": {
+        "name": "Driveway",
+        "url": "https://open.spotify.com/album/67ruOPjGPhLFmplqqnuf1D"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "Driveway",
+      "url": "https://open.spotify.com/track/0NDWhFxtRmakSLuxdvkIp4"
+    },
+    {
+      "album": {
         "name": "Driving Home",
         "url": "https://open.spotify.com/album/5JVpAaWPJiOteo0YH4ymsi"
       },
@@ -19754,7 +19808,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 169359,
       "name": "Falls Away",
       "url": "https://open.spotify.com/track/6qwqehUiYQnjaJmoK1DNEj"
@@ -21824,6 +21878,24 @@
       "duration_ms": 305794,
       "name": "Freaktopia",
       "url": "https://open.spotify.com/track/7Dv5UuERhdpYIgQ8RUx1Ty"
+    },
+    {
+      "album": {
+        "name": "BLOKTAPES",
+        "url": "https://open.spotify.com/album/4YfFRdlAhYTbdrKHDHXHQ8"
+      },
+      "artists": [
+        {
+          "name": "BLOKBSTR",
+          "url": "https://open.spotify.com/artist/12tAdys1FWY4p2UnnH1i8I"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217171,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7cEBWYU7Nk1ON8LObIQesB"
     },
     {
       "album": {
@@ -25847,6 +25919,24 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/3CI4L3dK59jZpkQPQrpONv"
+      },
+      "artists": [
+        {
+          "name": "Milku",
+          "url": "https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/2jvLi8plu83fRhFflTioHl"
+    },
+    {
+      "album": {
         "name": "Headroom",
         "url": "https://open.spotify.com/album/2pE7v0KHgpvx2ss1ggtbDF"
       },
@@ -25876,7 +25966,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 248275,
       "name": "Headspins",
       "url": "https://open.spotify.com/track/5BEUsvw2Kb7V2oMXEnAi9Y"
@@ -26064,6 +26154,24 @@
       "duration_ms": 192375,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/0scF0rzaAQ0zIMO3ki5o8u"
+    },
+    {
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/2SF0yI3iKH5i3LHLo4bEFF"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/21HCaGayxYiAokAHqydFur"
     },
     {
       "album": {
@@ -28812,7 +28920,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 177938,
       "name": "I Know The DJ",
       "url": "https://open.spotify.com/track/0jXfFGiEJKpnOoW0N9qCP3"
@@ -32948,7 +33056,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 289292,
       "name": "Kill the Guilt",
       "url": "https://open.spotify.com/track/5aMAB18hMGG6Dtj96puzHl"
@@ -33640,7 +33748,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 185374,
       "name": "Lay Lo",
       "url": "https://open.spotify.com/track/2zttOF7t7fHcXS9vt3q7dD"
@@ -34414,7 +34522,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 163836,
       "name": "Level",
       "url": "https://open.spotify.com/track/0SET8YEu5pXqTvpBSC6rvc"
@@ -35768,7 +35876,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 203415,
       "name": "Lords Of Lithium",
       "url": "https://open.spotify.com/track/0dLpHtlWPyUbQI1thmPsHk"
@@ -36296,6 +36404,24 @@
       "duration_ms": 244931,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/5cdSzQFDi7EQbVf5ZpxTor"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5YCM4V97dHK1yXbVygFmwL"
+      },
+      "artists": [
+        {
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129207,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/78XlwmdSGYjeqghuKGNMs7"
     },
     {
       "album": {
@@ -36931,6 +37057,24 @@
     },
     {
       "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/0n6bkIU5E4RzhhKeKr0tSd"
+      },
+      "artists": [
+        {
+          "name": "Zafty",
+          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138198,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4QefQE5iRafmuKBdt2YcT5"
+    },
+    {
+      "album": {
         "name": "M.O.M (Money On Me)",
         "url": "https://open.spotify.com/album/5hKPEVGwVeVASTEvQTFc4Q"
       },
@@ -37358,7 +37502,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 192464,
       "name": "Make Way For The Sun",
       "url": "https://open.spotify.com/track/4qRnz706aq9y1QOxmR4XwA"
@@ -38589,6 +38733,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3X05WIxQTm3qHHf0DBOS6h"
+      },
+      "artists": [
+        {
+          "name": "First Beige",
+          "url": "https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/2Z0dBLN4CejdDlQqKrWKDF"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1G6TpD7WiyKNUSCE7GKRPT"
       },
@@ -39330,7 +39492,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 252659,
       "name": "Morning New",
       "url": "https://open.spotify.com/track/5VXY9rfJENERXIjypdPqsm"
@@ -41260,6 +41422,24 @@
       "duration_ms": 137600,
       "name": "Next Up Australia - S1-E7",
       "url": "https://open.spotify.com/track/4v64dIlDQ2k4ZpDZeJ4HDV"
+    },
+    {
+      "album": {
+        "name": "Heaven FM",
+        "url": "https://open.spotify.com/album/27uxqm2JUykW4S0UXGbT7f"
+      },
+      "artists": [
+        {
+          "name": "Jermango Dreaming",
+          "url": "https://open.spotify.com/artist/3FzmHDnTOHBoH6BIwyllIj"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254385,
+      "name": "Next2me",
+      "url": "https://open.spotify.com/track/4BmZhvAKVrEUx7FsFVNctu"
     },
     {
       "album": {
@@ -43944,7 +44124,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 306064,
       "name": "One Metaphor",
       "url": "https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN"
@@ -44158,7 +44338,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 184336,
       "name": "Online Jesus",
       "url": "https://open.spotify.com/track/3SMjBwXRwI7gazgoiH3mi5"
@@ -44628,6 +44808,24 @@
       "duration_ms": 220324,
       "name": "Ordinary Ways",
       "url": "https://open.spotify.com/track/0MzFMTIinu35De9kWpbjwf"
+    },
+    {
+      "album": {
+        "name": "Organ Donor",
+        "url": "https://open.spotify.com/album/1AXggEP7cJeCx9G2utbwq4"
+      },
+      "artists": [
+        {
+          "name": "Stella Bridie",
+          "url": "https://open.spotify.com/artist/6N7zzgXz4PvcAf5NMPpQjL"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/52UaND1j9dqiIecybqupd0"
     },
     {
       "album": {
@@ -50752,7 +50950,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 250688,
       "name": "Rwtd",
       "url": "https://open.spotify.com/track/3XjtkHip7CxsC6LS1kzsnq"
@@ -51208,7 +51406,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 252800,
       "name": "Saskia",
       "url": "https://open.spotify.com/track/1UGuySsNSRb93OSO2PWy76"
@@ -52794,6 +52992,24 @@
       "duration_ms": 186067,
       "name": "Sight Beyond Sight",
       "url": "https://open.spotify.com/track/2etakEYwanc1czXQbx8V6j"
+    },
+    {
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/4J1yGhDw0HbabN7ATxaj5E"
+      },
+      "artists": [
+        {
+          "name": "blue diner.",
+          "url": "https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242317,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/10A91wt9wYyK2jBDNI4D6a"
     },
     {
       "album": {
@@ -55752,7 +55968,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 332076,
       "name": "Star",
       "url": "https://open.spotify.com/track/4sEkXKCpV1TzD5pvRlG2dO"
@@ -61587,6 +61803,24 @@
     },
     {
       "album": {
+        "name": "Feels Like A Start",
+        "url": "https://open.spotify.com/album/1k8SPfL1lDvmzeAOJPjtvo"
+      },
+      "artists": [
+        {
+          "name": "TUSHAR",
+          "url": "https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BI827GfQUCZy4EQMlnNKk"
+    },
+    {
+      "album": {
         "name": "Too Busy",
         "url": "https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY"
       },
@@ -62448,7 +62682,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 188398,
       "name": "troy",
       "url": "https://open.spotify.com/track/0G0LDsxvVish4579MADppT"
@@ -68660,6 +68894,24 @@
       "duration_ms": 229303,
       "name": "Young Dumb Immature",
       "url": "https://open.spotify.com/track/3z5WMvblcXCYkwclMdG08r"
+    },
+    {
+      "album": {
+        "name": "Young Men",
+        "url": "https://open.spotify.com/album/6ZhS4XgaWopmgA9382az1r"
+      },
+      "artists": [
+        {
+          "name": "Mulga Bore Hard Rock",
+          "url": "https://open.spotify.com/artist/20UoU6pOqBHVcSRITcRIzl"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119615,
+      "name": "Young Men",
+      "url": "https://open.spotify.com/track/5XlRbUkXfhTDJ4RW7WFENU"
     },
     {
       "album": {

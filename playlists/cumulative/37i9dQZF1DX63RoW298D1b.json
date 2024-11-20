@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 150514,
       "name": "Autumn Song",
       "url": "https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq"
@@ -1324,6 +1324,24 @@
       "duration_ms": 180562,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O"
+    },
+    {
+      "album": {
+        "name": "Holy Embers",
+        "url": "https://open.spotify.com/album/4uWmXxPxhG9WoggJ1v46p0"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135383,
+      "name": "Holy Embers",
+      "url": "https://open.spotify.com/track/6XovkaL6NCGSq42LWERqz4"
     },
     {
       "album": {

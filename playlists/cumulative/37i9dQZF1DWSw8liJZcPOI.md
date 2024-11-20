@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-525 songs - 1 day 11 hr 51 min
+526 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [4 Butterflies: Butterfly No\. 4](https://open.spotify.com/track/0m1YZ3v6FK7oapluBxxoBf) | [Morton Subotnick](https://open.spotify.com/artist/60p2TqH9OKWfKB46wWaGIQ) | [Electronic Works 3](https://open.spotify.com/album/5L6BK98kC1uEbYeduFije9) | 7:07 | 2021-02-06 | 2021-02-12 |
 | [4'33''](https://open.spotify.com/track/2bNCdW4rLnCTzgqUXTTDO1) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s) | [4'33''](https://open.spotify.com/album/6UCnARt06DDqBASaO8sBaz) | 4:33 | 2021-02-06 | 2021-02-12 |
 | [4nine](https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [4nine](https://open.spotify.com/album/1yQ94KpsFxIgr1AbbNsmLl) | 2:56 | 2024-09-04 |  |
+| [7th Symphony Elegy](https://open.spotify.com/track/1k0l1jirmTpJ6ceJv6ubAI) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 5:33 | 2024-11-19 |  |
 | [90 Miles](https://open.spotify.com/track/58jTBCpkqF7iALAQZTupaG) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [90 Miles](https://open.spotify.com/album/0aPL4jQVkcwiU5u1OipYbf) | 3:43 | 2020-10-20\* | 2021-10-13 |
 | [A](https://open.spotify.com/track/1kHETSWzScobcs0K5JsVc0) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/6YCWEBR0SIdFS80qukpVHI) | 3:52 | 2020-10-20\* | 2024-09-07 |
 | [A](https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [A](https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf) | 3:52 | 2022-07-22 | 2022-09-23 |
@@ -435,7 +436,7 @@
 | [Sweet Coast](https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [Sweet Coast](https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6) | 2:33 | 2023-12-21 |  |
 | [Sweetest Rain](https://open.spotify.com/track/5h5DB4kg20Z4WOqHWUOm2J) | [Abilene](https://open.spotify.com/artist/0RoXefwJwTpzU2sFmTM73H) | [Winged Dreams](https://open.spotify.com/album/2rDNnUWd4SbSEtVZnkV3RX) | 3:13 | 2024-09-04 |  |
 | [Søndag](https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Søndag](https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP) | 3:13 | 2020-11-13 |  |
-| [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 | 2020-10-20\* |  |
+| [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 | 2020-10-20\* | 2024-11-20 |
 | [Take 5 \- Solips \- Klaus Sahm Rework](https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Klaus Sahm](https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Take 5 \- Solips \(Klaus Sahm Rework\)](https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96) | 2:55 | 2022-06-24 |  |
 | [Tears of Unicorn](https://open.spotify.com/track/1IfZCK6JyD4J6VMuRSuipM) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Apologues](https://open.spotify.com/album/4n276F8yCV6660v4QvP25X) | 5:51 | 2021-02-06 | 2021-02-12 |
 | [Teil I](https://open.spotify.com/track/7HuJ3ZtKtYHj7c12rxPMHw) | [Kjartan Sveinsson](https://open.spotify.com/artist/1yNnmCrLBExyTTvdYKy1bb) | [Der Klang der Offenbarung des Göttlichen](https://open.spotify.com/album/3094517xzWsOH1DDSQZtHo) | 8:03 | 2020-12-04 | 2020-12-11 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,580 songs - 3 day 14 hr 38 min
+1,581 songs - 3 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,7 +965,7 @@
 | [Moonlight](https://open.spotify.com/track/5Ui0hqvFETgLpjEcuetRxU) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:44 | 2023-01-08 | 2023-01-10 |
 | [MORAK](https://open.spotify.com/track/28zAI7MMJSlo7WUZWQtoSv) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MORAK](https://open.spotify.com/album/0hdrQYCR5YuUmXELMqLyyg) | 2:49 | 2023-07-09 | 2023-07-20 |
 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 | 2021-05-07 | 2021-06-23 |
-| [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 | 2024-11-18 |  |
+| [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 | 2024-11-18 | 2024-11-20 |
 | [Moral](https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:04 | 2021-03-27\* | 2022-03-01 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-08 |
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 | 2022-08-08 |
@@ -1068,7 +1068,7 @@
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-25 |
 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 | 2024-03-22 | 2024-09-09 |
 | [Oh Shit](https://open.spotify.com/track/7ksi95dIQlLlKheb8HpNG2) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [CW9](https://open.spotify.com/album/4x0djSdatBql4VCNOaXCTb) | 2:25 | 2022-03-26 | 2022-03-28 |
-| [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 | 2023-05-13 | 2024-11-15 |
+| [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 | 2023-05-13 |  |
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-02 |
 | [Ok ok](https://open.spotify.com/track/15jdAAw1i9furVH6GYhX1f) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ok ok](https://open.spotify.com/album/5pgqzTJiqwpjLgQXj05C4e) | 2:20 | 2021-06-16 | 2021-11-14 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
@@ -1088,7 +1088,7 @@
 | [Orientale](https://open.spotify.com/track/7HrUSOhcBi1V1Fl5ANmUmj) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 2:46 | 2021-05-23 | 2021-05-24 |
 | [Ouh Ouh](https://open.spotify.com/track/7pjIVRYtB0EjHEz8xDtt9i) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:11 | 2021-03-27\* | 2021-06-23 |
 | [Oulfa](https://open.spotify.com/track/6WfESM7NQ2njecvJTrGDmq) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:32 | 2023-11-11 | 2023-11-13 |
-| [Ouroboros](https://open.spotify.com/track/67omTkP2mxRyKOCL5EoFqZ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [SOLARIS](https://open.spotify.com/album/3R70P8bOatE7qgcMCVhhFd) | 3:27 | 2024-11-16 |  |
+| [Ouroboros](https://open.spotify.com/track/67omTkP2mxRyKOCL5EoFqZ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [SOLARIS](https://open.spotify.com/album/3R70P8bOatE7qgcMCVhhFd) | 3:27 | 2024-11-16 | 2024-11-20 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-17 |
 | [Outro](https://open.spotify.com/track/7lk3Jpv2XsdAWO8RKfymL5) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [3azzy 3ando Stylo](https://open.spotify.com/album/4wHAmmRm2x5MNgMYk30tIh) | 3:07 | 2023-02-16 | 2023-02-24 |
 | [Outro](https://open.spotify.com/track/0rLLENEBErAJjcTFTnQxhq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:35 | 2021-12-05 | 2021-12-06 |
@@ -1463,6 +1463,7 @@
 | [Vampire](https://open.spotify.com/track/2spvq2DukUWM6LAF1DjrNk) | [Skaymen](https://open.spotify.com/artist/1U9LphshaB4FShZbi7dWOq) | [Vampire](https://open.spotify.com/album/3Aazup9UJxFVgAEzajqxul) | 2:54 | 2021-05-25 | 2021-07-11 |
 | [Var](https://open.spotify.com/track/4qdg8iDHc9XVOYL9wVEuBn) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Var](https://open.spotify.com/album/2jDxFXYwjf4HXjZDo4ZBsL) | 2:27 | 2022-03-23 | 2022-03-28 |
 | [Vargas \(Rs3\)](https://open.spotify.com/track/77F2FBcaCALJCYmV2Wb4jW) | [LillMusic](https://open.spotify.com/artist/1Ye3or2SkD5hXZZJCIYEyZ) | [Vargas \(Rs3\)](https://open.spotify.com/album/26xz4aA5tjYCwhXuizIhXg) | 3:52 | 2021-09-26 | 2021-09-27 |
+| [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 | 2024-11-19 |  |
 | [Veto](https://open.spotify.com/track/5ABwojICrV4CA1aqregfRJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Veto](https://open.spotify.com/album/2o1OuK1aOsjjRHG79pKMdm) | 3:32 | 2022-05-07 | 2022-05-08 |
 | [VFX](https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:43 | 2022-10-22 | 2022-11-21 |
 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 | 2024-06-17 | 2024-07-13 |

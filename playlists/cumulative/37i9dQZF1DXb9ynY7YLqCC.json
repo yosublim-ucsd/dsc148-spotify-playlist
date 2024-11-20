@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 255106,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q"
@@ -3836,6 +3836,24 @@
       "duration_ms": 223979,
       "name": "\u00bfA d\u00f3nde vas?",
       "url": "https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R"
+    },
+    {
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248693,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
+      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
     },
     {
       "album": {

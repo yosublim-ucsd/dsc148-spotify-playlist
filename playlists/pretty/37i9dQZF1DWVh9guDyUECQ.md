@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Ana Pau,</a>  <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra,</a> y <a href="spotify:artist:5qzVmbbH3gdkxI0C0fZ1Us">DesXa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,529 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,548 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

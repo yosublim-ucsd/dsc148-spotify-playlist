@@ -4,10 +4,11 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-177 songs - 9 hr 16 min
+179 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-11-20 |  |
 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 | 2022-10-11 | 2023-02-15 |
 | [A Deeper Understanding](https://open.spotify.com/track/6BVt6hi3Z7IE2h3bElR6rG) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Deeper Understanding](https://open.spotify.com/album/4ZInQdWGYfbZJvXnDcx2te) | 2:41 | 2022-10-11 | 2022-11-13 |
 | [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2022-10-11 | 2023-07-12 |
@@ -106,6 +107,7 @@
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2022-10-11 | 2024-08-14 |
 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 | 2023-02-14 | 2024-04-19 |
 | [Night Owl Dream](https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Owl Dream](https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV) | 2:36 | 2023-07-11 |  |
+| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2024-11-20 |  |
 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 | 2022-10-11 |  |
 | [Nijiiro](https://open.spotify.com/track/04oWsZWr8n1xSMInqLp6KS) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/4JXvYGFiRmzu1oC5ItwRDw) | 2:56 | 2023-07-04 | 2023-07-06 |
 | [Nijiiro](https://open.spotify.com/track/7BOyA6ajai8BO1t3L4s78K) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [RAM\-MASHINE](https://open.spotify.com/artist/0P4NniHzQlXcCUXf7mgB1x) | [Nijiiro](https://open.spotify.com/album/3Nsq8VkAMXPqi1RXvnDWAe) | 2:56 | 2023-07-04 | 2023-07-12 |
@@ -133,7 +135,7 @@
 | [room with nobody \(feat\. Takahiro Kido & Yuki Murata\)](https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J) | 2:52 | 2024-03-05 |  |
 | [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 | 2022-10-11 | 2024-09-26 |
 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 | 2022-10-11 | 2024-04-19 |
-| [Sad Romance \- Girl Ultra Version](https://open.spotify.com/track/1oFGcQTXmgQ2Ljba65KodC) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Sad Romance \(Girl Ultra Version\)](https://open.spotify.com/album/59350isIxyqo9cwCRk5Pbe) | 2:44 | 2024-03-05 |  |
+| [Sad Romance \- Girl Ultra Version](https://open.spotify.com/track/1oFGcQTXmgQ2Ljba65KodC) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Sad Romance \(Girl Ultra Version\)](https://open.spotify.com/album/59350isIxyqo9cwCRk5Pbe) | 2:44 | 2024-03-05 | 2024-11-20 |
 | [Sad Romance \- Girl Ultra Version](https://open.spotify.com/track/37ovauJ2Tscs4yFPQTuToL) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Sad Romance](https://open.spotify.com/album/47ntw5tkGoz2LILi7VSdKX) | 2:44 | 2022-10-11 | 2024-04-19 |
 | [School](https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD), [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO) | [This is Our First EP](https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9) | 3:32 | 2022-10-11 |  |
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-15 |  |
@@ -183,7 +185,7 @@
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2024-03-05 |  |
 | [YUYAKE](https://open.spotify.com/track/7L0f6RnRJach8g9EaecCOL) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/4ZRfc25OsAg7bvh1TqIYuE) | 3:00 | 2022-10-11 | 2022-11-13 |
 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 | 2024-08-14 |  |
-| [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 | 2024-03-05 |  |
+| [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 | 2024-03-05 | 2024-11-20 |
 | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/track/5xLIyGfaVMe1mDG9Zd91be) | [Alice Crosshart](https://open.spotify.com/artist/6vwJVDJDdf5E7K3OFWHheo), [Mikazuki BIGWAVE](https://open.spotify.com/artist/7dqKRXUJvcgQbg6jq06uFW) | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/album/2fxQxVewN6IoM213Y2cxfX) | 2:40 | 2022-10-11 | 2024-07-18 |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

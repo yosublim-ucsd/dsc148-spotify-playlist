@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,688 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411,437 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 17 | [Jaanam](https://open.spotify.com/track/1xKchbuiMEWV0K2Q40ujKz) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:18 |
 | 18 | [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 |
 | 19 | [Tere Sang Yaara](https://open.spotify.com/track/72CkpVdvmc8t28o8I9N32J) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Rustom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/78QGeq3kPu6bBNpYXUAR60) | 4:46 |
-| 20 | [Aaj Se Teri](https://open.spotify.com/track/0EwRpK9wY6lHfcJSt82w4x) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Padman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2sUawhYyxtLryh34rA4sop) | 5:12 |
+| 20 | [Aaj Se Teri](https://open.spotify.com/track/0EwRpK9wY6lHfcJSt82w4x) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Padman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2sUawhYyxtLryh34rA4sop) | 5:12 |
 | 21 | [O Meri Laila](https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 4:41 |
 | 22 | [Aayi Nai](https://open.spotify.com/track/7BdVecQ6n11Qn6m5L9WDBW) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 2:58 |
 | 23 | [Teri Baaton Mein Aisa Uljha Jiya Title Song](https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Nina Mathur](https://open.spotify.com/artist/3tGyiAF7Oo7m9G8sdJZ2XI) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:33 |

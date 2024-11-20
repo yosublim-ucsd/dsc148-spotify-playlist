@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: DAY6\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,023 likes - 198 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,024 likes - 198 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 181 | [Forbidden Love](https://open.spotify.com/track/1b50WKDTc8NAyN6ZEPiKCo) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [Kim Kyungho 1997](https://open.spotify.com/album/40sjgUIzAZJIO8UpgMoLRQ) | 4:31 |
 | 182 | [Drunk on You 취하고 싶다](https://open.spotify.com/track/0lN2KeotmSpAoBMRcSXTX6) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Drunk on You 취하고 싶다](https://open.spotify.com/album/3hn6KqHQbtom7Os40f6vC9) | 3:44 |
 | 183 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 |
-| 184 | [I Guess I Loved You](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 |
+| 184 | [사랑했나봐](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 |
 | 185 | [Guilty](https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc) | 3:44 |
 | 186 | [Back In Time](https://open.spotify.com/track/1Cmz1xRY4t4HLSwBdKTQgV) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [Jeon Hayeoung](https://open.spotify.com/artist/4aRAGWoN4fPXwemaHmCK8T) | [I Can See Your Voice 4, Pt\. 2](https://open.spotify.com/album/24KdfevGcQaN1gicSJY4Rv) | 3:26 |
 | 187 | [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/0OJK94VxU23n0pnc6R9vbR) | [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/4dGCjv53KvBnD5Qt5oROhk) | 4:06 |

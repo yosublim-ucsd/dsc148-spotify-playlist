@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-422 songs - 22 hr 17 min
+423 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bonito y Bello](https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:36 | 2023-01-16 |  |
 | [Borracha Pero Buena Muchacha](https://open.spotify.com/track/1MhVzaqkmBGCEcImplxxIr) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Seguimos De Frente](https://open.spotify.com/album/298s7O5GLcAOfxhfhljn0q) | 2:33 | 2022-08-05 | 2022-08-27 |
 | [Brindo \- Remix](https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Brindo \(Remix\)](https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ) | 3:02 | 2022-01-28 | 2024-05-11 |
+| [Buenas Decisiones](https://open.spotify.com/track/0j9pxfYPkJ36eXJMpijqMr) | [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Buenas Decisiones](https://open.spotify.com/album/7gL2oZPE0SVf9mZRiiekJQ) | 2:30 | 2024-11-15 |  |
 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 | 2022-11-03 |  |
 | [Cabrón y Vago](https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:16 | 2022-02-01 | 2023-02-18 |
 | [Cada Dia Me Gustas Mas](https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cada Dia Me Gustas Mas](https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS) | 2:46 | 2024-06-07 | 2024-08-24 |
@@ -119,7 +120,7 @@
 | [El Candidato](https://open.spotify.com/track/1iq2sO3eDU2l8Eca9HKDSW) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Candidato](https://open.spotify.com/album/4kfjtm9i1lYuIcVnGSdvgI) | 3:00 | 2024-10-18 |  |
 | [El Chapo Isidro \- En Vivo](https://open.spotify.com/track/30xHQaGO1aJQefZKkyAq4H) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Corridos Arriesgados y De Respeto \(En Vivo\)](https://open.spotify.com/album/52SZy21R2MoUiDwwCUjOe9) | 2:49 | 2023-12-01 | 2023-12-16 |
 | [El Chulo](https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Chulo](https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj) | 2:26 | 2024-05-10 | 2024-09-14 |
-| [El Corrido Del Patrón](https://open.spotify.com/track/581dTkoHjZUBktHq7A2v9A) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Corrido Del Patrón](https://open.spotify.com/album/0KZtrqij3mujx0275PTHjE) | 2:38 | 2024-09-20 |  |
+| [El Corrido Del Patrón](https://open.spotify.com/track/581dTkoHjZUBktHq7A2v9A) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Corrido Del Patrón](https://open.spotify.com/album/0KZtrqij3mujx0275PTHjE) | 2:38 | 2024-09-20 | 2024-11-20 |
 | [El De Cameron](https://open.spotify.com/track/3I0ZTy6xk4DZFQI7Ns48ax) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [El De Cameron](https://open.spotify.com/album/6yN9Ni8rU1sIZSZQmXf82Q) | 3:46 | 2024-04-12 | 2024-05-18 |
 | [El De Los Collares](https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Los Luna Oficial](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [El De Los Collares](https://open.spotify.com/album/0uf8gfJPV37b5LZaQtoQpi) | 2:30 | 2023-01-27 | 2023-05-07 |
 | [El Fendi](https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Fendi](https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE) | 3:15 | 2022-07-15 | 2023-01-28 |

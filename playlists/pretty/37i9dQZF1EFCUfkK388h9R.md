@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 19 | [What I Know Now](https://open.spotify.com/track/4TdvTst17a1sB4nFgEgMC1) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [What I Know Now](https://open.spotify.com/album/6CEcy25megcuYifhqxgzkn) | 3:04 |
 | 20 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 |
 | 21 | [Energy](https://open.spotify.com/track/6T5wFYTKuMntiTXXR5Efbs) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Energy](https://open.spotify.com/album/4AiRfctFktplV3Xdnv8DkQ) | 3:55 |
-| 22 | [WATR](https://open.spotify.com/track/0a4BrUFx3UGrK5LYiWfSHr) | [REGN](https://open.spotify.com/artist/6Wis87yBDzJkmiRxsqRNIL) | [WATR](https://open.spotify.com/album/4HB2HMHQoVw9py2VLy7Ke9) | 2:56 |
-| 23 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 |
+| 22 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 |
+| 23 | [WATR](https://open.spotify.com/track/0a4BrUFx3UGrK5LYiWfSHr) | [REGN](https://open.spotify.com/artist/6Wis87yBDzJkmiRxsqRNIL) | [WATR](https://open.spotify.com/album/4HB2HMHQoVw9py2VLy7Ke9) | 2:56 |
 | 24 | [Arm’s Length](https://open.spotify.com/track/4SR5sDCQfNlum4GSzexVKA) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 3:28 |
 | 25 | [Ur Bdy](https://open.spotify.com/track/0RS2H42hwZHgyI5nYk1ayI) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ur Bdy](https://open.spotify.com/album/0d34EVx3buHCiD5Z4CnUGq) | 3:25 |
 | 26 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 50 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 51 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `Abh3dAAAAACfbtRx9oIhs5XkUwxy31Bl`
+Snapshot ID: `Abh9FAAAAAA7ybRrvojkdtI0F5Aj/UaL`

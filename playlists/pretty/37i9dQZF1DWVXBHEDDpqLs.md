@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,955 likes - 110 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,987 likes - 110 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reverse](https://open.spotify.com/track/2q0x01b7q43YqdTThA9EBK) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Reverse](https://open.spotify.com/album/5PnvyeOAaUPWAzDXlyb7ug) | 3:33 |
 | 2 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 |
-| 3 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
+| 3 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
 | 4 | [Wild Inside](https://open.spotify.com/track/6r8MoYtlJVn9Isd3ieXFGY) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Wild Inside](https://open.spotify.com/album/6eNWdgYau7HHSTWgAbltSR) | 3:37 |
 | 5 | [Rave Baby](https://open.spotify.com/track/24wPaBQp4ERidcEmeRioSK) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Rave Baby](https://open.spotify.com/album/2pGG7wiZCFeI2e5oRoZRbd) | 6:38 |
 | 6 | [My Selecta](https://open.spotify.com/track/16jQDWYUCyzqH2ZUxC44o5) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Natural Selections](https://open.spotify.com/album/4ExREa2kscTfW72WQSWHmn) | 4:40 |

@@ -1,6 +1,6 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Prospa.",
-  "num_followers": 1951273,
+  "num_followers": 1951257,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 186999,
+      "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     },
@@ -1408,12 +1408,12 @@
           "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
         },
         {
-          "name": "Razor",
-          "url": "https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi"
-        },
-        {
           "name": "PRVNA",
           "url": "https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4"
+        },
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi"
         }
       ],
       "duration_ms": 204755,

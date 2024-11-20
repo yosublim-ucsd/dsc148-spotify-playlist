@@ -2141,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA"
+    },
+    {
+      "album": {
         "name": "Kalopsia",
         "url": "https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8"
       },

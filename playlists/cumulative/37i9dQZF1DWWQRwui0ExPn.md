@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,073 songs - 11 day 4 hr 9 min
+7,075 songs - 11 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Arise](https://open.spotify.com/track/4AYpY2kqEQk4IcwsdzLlR7) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Arise](https://open.spotify.com/album/2WvCYKa6FGuFfzeumegj4e) | 2:54 | 2020-05-06 | 2021-10-02 |
 | [arlberg](https://open.spotify.com/track/2YcNXPOZNOMdJAUolEjSow) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [alp / arlberg](https://open.spotify.com/album/3jMiZlnSUbq4oZfdwS0G4W) | 1:15 | 2021-12-03 | 2022-06-17 |
 | [aromatherapy](https://open.spotify.com/track/1PJY7RemFSGFwmvYzUIExx) | [GALE](https://open.spotify.com/artist/2C7xVFT9lniUQtDLAtAXi8) | [aromatherapy](https://open.spotify.com/album/4kSepFccj8C2SOmWEF8sQD) | 2:40 | 2021-12-17 | 2022-06-10 |
+| [Aromatherapy](https://open.spotify.com/track/2es7QUQEw9kp1G47Jwm6WV) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Aromatherapy](https://open.spotify.com/album/338ORap3OjpieOkFPYdB3c) | 2:00 | 2024-11-15 |  |
 | [Around the world](https://open.spotify.com/track/4OGl0vR4tCeHXmcSISVAWM) | [Glorio](https://open.spotify.com/artist/2LlUmuRpHPxRL2B2CJDZB4) | [Around the world](https://open.spotify.com/album/4DLQJQIQyuP78LfutgX2ib) | 1:53 | 2022-10-28 | 2024-10-26 |
 | [Around Walkers](https://open.spotify.com/track/7aVvtczEFzJnnC2eRillFg) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Around Walkers](https://open.spotify.com/album/0tm244yYXPsZtozuzBAKwX) | 2:29 | 2023-07-06 | 2024-01-26 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2021-10-13 | 2022-04-15 |
@@ -3237,7 +3238,7 @@
 | [Kogarashi](https://open.spotify.com/track/5rKsm9Po4qMxzrkZu1PR3T) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Dezl](https://open.spotify.com/artist/0Rrqv6SWqD5cYgOOSBjwGc), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Kogarashi](https://open.spotify.com/album/1vrwpurmCUvTxjTWzKsNyC) | 2:25 | 2020-01-19 | 2021-01-11 |
 | [Koipanda](https://open.spotify.com/track/0VXMobsl9Te2ytKH7VplVw) | [Flobama](https://open.spotify.com/artist/4X5jJIOeOV9sa9r5PO0qBd) | [Koipanda](https://open.spotify.com/album/1znusxSig3OLPHqRUNhDD4) | 2:23 | 2022-07-29 | 2022-11-11 |
 | [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 | 2024-10-25 |  |
-| [Komorebi](https://open.spotify.com/track/3v3GbtEdRpFs2QIUer93Jn) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Nion Nihon Nights](https://open.spotify.com/album/3tEM18bpFRbhyFnMEkKsuH) | 2:34 | 2024-10-18 |  |
+| [Komorebi](https://open.spotify.com/track/3v3GbtEdRpFs2QIUer93Jn) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Nion Nihon Nights](https://open.spotify.com/album/3tEM18bpFRbhyFnMEkKsuH) | 2:34 | 2024-10-18 | 2024-11-20 |
 | [Kowakute](https://open.spotify.com/track/02f2jKQOqPUIPKIiYYJL64) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd) | [Maebashi](https://open.spotify.com/album/62dzgFlJgdqZEErqpUSUFT) | 2:15 | 2021-07-31 | 2022-03-12 |
 | [Kowloon](https://open.spotify.com/track/4lmPnCerPn4A73VP10yWTo) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [Kowloon](https://open.spotify.com/album/19hDwOJGI82mLnAV4JVc2Z) | 3:39 | 2021-10-26 | 2022-04-24 |
 | [kramar](https://open.spotify.com/track/4l8uBxDRWo6gQKVxWUkj6l) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [kramar](https://open.spotify.com/album/5CspwDpUtZM3NEswwJWaCz) | 2:48 | 2022-12-23 | 2024-04-27 |
@@ -3368,6 +3369,7 @@
 | [Lazy Haze](https://open.spotify.com/track/0khJKVnxeYtDVUxo78vR35) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Lazy Haze](https://open.spotify.com/album/6083x3iCSe5CvPLLaQCcDF) | 2:08 | 2022-07-15 | 2022-10-28 |
 | [Lazy Lame](https://open.spotify.com/track/1woT4FF3vcToHeQC03kNBZ) | [Thoreau](https://open.spotify.com/artist/0mXq227LEoIqWSv4bTuGe2) | [Lazy Lame](https://open.spotify.com/album/6pH5Zuv8t1xv6vXzmHCAeY) | 2:29 | 2021-11-05 | 2022-06-03 |
 | [Lazy Locomotive](https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Lazy Locomotive](https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk) | 2:00 | 2023-11-10 |  |
+| [lazy monday](https://open.spotify.com/track/0X85ZqakAJsOEA6bCMhHpc) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [lazy monday](https://open.spotify.com/album/4eRpT9WiTh6lV4dYQbbDrI) | 1:43 | 2024-11-15 |  |
 | [Lazy Resolution](https://open.spotify.com/track/6Sd1qOyxscO8ctu1QHBcrC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Lazy Resolution](https://open.spotify.com/album/0NCGbVRXIcjfoIbmsfIi3w) | 2:13 | 2022-07-22 | 2022-12-03 |
 | [Lazy River](https://open.spotify.com/track/4wHiZNZXn9CqKUXLRsto02) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Lazy River](https://open.spotify.com/album/75EtHYGtJhqqvLIOkT7FY4) | 2:30 | 2020-01-14 | 2021-04-17 |
 | [Lazy Streets](https://open.spotify.com/track/3VLrPtDygtrwm39saGbN61) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Lazy Streets](https://open.spotify.com/album/5DffIqCUvdikkN6VtiyyvP) | 2:00 | 2024-02-23 |  |
@@ -4334,7 +4336,7 @@
 | [Not Now](https://open.spotify.com/track/62fNQK4tPlIXqMsI8Mi9Gm) | [Inversion](https://open.spotify.com/artist/4pjxBayRpsdAJMPF3v8kIP) | [Not Now](https://open.spotify.com/album/5JIHfK0zgCH6lQgIKEa8Eg) | 2:11 | 2022-09-23 | 2023-01-07 |
 | [not okay](https://open.spotify.com/track/2B2F8NHqKwCeJIv7oVrm22) | [Aftermix](https://open.spotify.com/artist/1goPpxuXjwZK1g63yS0VvG) | [not okay](https://open.spotify.com/album/3V2yj5W2fYsV9sSSxUEqhe) | 2:19 | 2021-10-20 | 2022-04-15 |
 | [Not So Thoughtful](https://open.spotify.com/track/7fQL7nmoF5AUYUoPbCyTcV) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Not So Thoughtful](https://open.spotify.com/album/10GVxFQaVLZLaf59aRU5XX) | 1:34 | 2022-09-16 | 2023-01-07 |
-| [notable](https://open.spotify.com/track/2esHjrQWY6d9tDRuFlwsVE) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [notable](https://open.spotify.com/album/4Qx3XovgDCfjn7KlTWpKyI) | 2:01 | 2024-01-26 |  |
+| [notable](https://open.spotify.com/track/2esHjrQWY6d9tDRuFlwsVE) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [notable](https://open.spotify.com/album/4Qx3XovgDCfjn7KlTWpKyI) | 2:01 | 2024-01-26 | 2024-11-20 |
 | [note to self](https://open.spotify.com/track/6iWCnPikYujxjA8LJVSFYV) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [note to self](https://open.spotify.com/album/0a4vxAbXpSQZ1fnwHMRxsI) | 2:59 | 2022-03-11 | 2022-09-30 |
 | [Nothing But Net](https://open.spotify.com/track/55WjPayn3MNHh8qPhGDwVw) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Nothing But Net](https://open.spotify.com/album/3raS8KlJQTCAVoIZyEvDAd) | 1:54 | 2021-12-17 | 2022-07-01 |
 | [nothing is like it seems](https://open.spotify.com/track/12AhLBsHfxsu3IcYc3oaOQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [nothing is like it seems](https://open.spotify.com/album/2bkaS6xjHUiPC8ooEWpjix) | 2:24 | 2022-10-21 | 2022-11-24 |

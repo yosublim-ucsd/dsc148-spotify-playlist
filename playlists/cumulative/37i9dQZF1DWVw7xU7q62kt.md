@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-324 songs - 16 hr 3 min
+325 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [CHROME](https://open.spotify.com/track/2cR7IykiFG4LBWFzpKW8GK) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [CHROME](https://open.spotify.com/album/1moJUIovbsCWN0KRMvY0rz) | 4:42 | 2024-08-23 | 2024-09-20 |
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 |  |
 | [Circle Reflections](https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Circle Reflections](https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83) | 2:40 | 2024-08-23 |  |
+| [Colossal](https://open.spotify.com/track/68oGqtxHckvCtcDp3LqDeh) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Colossal](https://open.spotify.com/album/1ejQ8yvfNMsGWaJ68HcR6b) | 2:36 | 2024-11-15 |  |
 | [Come Again](https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Come Again](https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu) | 3:23 | 2023-08-22 |  |
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2023-08-22 |  |
 | [Complete](https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Complete](https://open.spotify.com/album/3ui55ZOYWJ4WF1UCjAGGD6) | 3:37 | 2023-08-22 | 2024-03-08 |
@@ -313,7 +314,7 @@
 | [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 |  |
 | [Viaggio](https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Viaggio](https://open.spotify.com/album/0WzejcXI9XV7uLNxLJa6x2) | 2:19 | 2024-09-06 |  |
 | [Vibra](https://open.spotify.com/track/7n2sf4iKVww9HOEc7UJjCQ) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Vibra](https://open.spotify.com/album/5P0bAHsX56p24XjjqWf3Yi) | 2:14 | 2024-09-20 |  |
-| [Violet](https://open.spotify.com/track/1oP3XTius4A9ud6YQ9IzXw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ChonRa](https://open.spotify.com/artist/40HCEgHD85SwIN4YXSzDUv), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Shades of Purple](https://open.spotify.com/album/7miWMBvHaL5L5xTJxqSfxU) | 2:50 | 2024-11-08 |  |
+| [Violet](https://open.spotify.com/track/1oP3XTius4A9ud6YQ9IzXw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ChonRa](https://open.spotify.com/artist/40HCEgHD85SwIN4YXSzDUv), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Shades of Purple](https://open.spotify.com/album/7miWMBvHaL5L5xTJxqSfxU) | 2:50 | 2024-11-08 | 2024-11-20 |
 | [Volpaia](https://open.spotify.com/track/1lrgfwOihRFHBUy3xGIeBB) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Volpaia](https://open.spotify.com/album/1ELKh52boFPAkRyVYAUpm8) | 2:13 | 2024-03-20 | 2024-06-08 |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-08-22 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 |  |

@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: BIBI\(비비\)\)
 
-768 songs - 1 day 16 hr 55 min
+769 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Best Friend \(feat.Woo\)](https://open.spotify.com/track/0MLF5da6SiuWndgqvjC8mX) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Best Friend](https://open.spotify.com/album/6edM83YRAJhqhaBkOth7wO) | 2:39 | 2023-01-18 | 2023-02-11 |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-04-22 | 2024-08-01 |
 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-08-30 | 2022-11-04 |
-| [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-02 |  |
+| [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-02 | 2024-11-20 |
 | [Beyond the Stars \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7H1KWuGKdKkOFSIGTtZTr1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Beyond the Stars](https://open.spotify.com/album/5mhp9NqSX2vksUTTFG2O1o) | 3:17 | 2022-04-22 | 2022-07-29 |
 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 | 2022-10-26 |  |
 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 | 2022-08-18 | 2022-09-22 |
@@ -688,6 +688,7 @@
 | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN) | 3:19 | 2023-04-17 | 2023-05-04 |
 | [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-09 | 2022-06-21 |
 | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u) | 3:22 | 2022-12-19 | 2022-12-28 |
+| [TOXIC](https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2NXhPdipPeH06ojLSn5M4k) | 3:10 | 2024-11-19 |  |
 | [Treasure](https://open.spotify.com/track/4PSPmhEsbuBVizYKGNZ0CN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Backstreet Rookie \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/6uGnOboMjfiQ9ZOuPgmU7Q) | 3:43 | 2022-06-20 | 2022-06-24 |
 | [Treat Me Better](https://open.spotify.com/track/1hmaRc3ZDI9M1v06q0sDom) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Treat Me Better](https://open.spotify.com/album/0FhphJWHqernJzgewzKawK) | 2:57 | 2024-07-31 | 2024-08-11 |
 | [Trigger](https://open.spotify.com/track/5PtWJLo7A2G5ZROZJxLXSY) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Trigger](https://open.spotify.com/album/1w7t4Q5OfS3HA0nPirbgde) | 3:20 | 2022-05-09 | 2022-07-13 |

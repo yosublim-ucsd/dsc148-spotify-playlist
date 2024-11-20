@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50188,
+  "num_followers": 50196,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAAD9a9htCrv18xS8jtZeVrxe",
+  "snapshot_id": "ZzqDgAAAAAAs/C1Xwazx8fJuq/Bmq/oS",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy a Amarte (Remix)",
-        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142422,
-      "name": "Voy a Amarte - Remix",
-      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tengo Un Problema",
         "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 183872,
       "name": "Tengo Un Problema",
       "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy a Amarte (Remix)",
+        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 142422,
+      "name": "Voy a Amarte - Remix",
+      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
     },
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Llores Mas Mis Recuerdos",
-        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 282671,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -663,6 +639,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Llores Mas Mis Recuerdos",
+        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
+        }
+      ],
+      "duration_ms": 282671,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 200565,
       "name": "Tonieladas",
       "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dar\u00eda Todo Por Ti",
-        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
-      },
-      "artists": [
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 174911,
-      "name": "Dar\u00eda Todo Por Ti",
-      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dar\u00eda Todo Por Ti",
+        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
+      },
+      "artists": [
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 174911,
+      "name": "Dar\u00eda Todo Por Ti",
+      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Mil Motivos",
-          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
-        }
-      ],
-      "duration_ms": 215605,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Se Ama a Una Mujer",
         "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
       },
@@ -867,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Mil Motivos",
+          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
         }
       ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+      "duration_ms": 215605,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
       "duration_ms": 171897,
       "name": "Las ciudades",
       "url": "https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     },
     {
       "added_at": null,

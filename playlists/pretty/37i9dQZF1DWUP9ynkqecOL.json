@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23407,
+  "num_followers": 23409,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "A Guide to the Birdsong of South America",
+        "url": "https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 228019,
+      "name": "Capuchino Pecho Blanco",
+      "url": "https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 338630,
       "name": "A\u00f1oranza en las Yungas",
       "url": "https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "A Guide to the Birdsong of South America",
-        "url": "https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp"
-      },
-      "artists": [
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 228019,
-      "name": "Capuchino Pecho Blanco",
-      "url": "https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP"
+        "name": "Tilcara",
+        "url": "https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+          "name": "Apuna",
+          "url": "https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g"
         }
       ],
-      "duration_ms": 296258,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD"
+      "duration_ms": 206750,
+      "name": "Tilcara",
+      "url": "https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q"
     }
   ],
   "unique_name": "Electro Folclore",

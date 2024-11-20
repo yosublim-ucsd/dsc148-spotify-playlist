@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,658 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,659 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 3 | [今夜はブギー・バック \- nice vocal](https://open.spotify.com/track/7EfYn1qcLODXJnhH57dbAs) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I), [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X) | [LIFE](https://open.spotify.com/album/0Tdt88VQdPyd29PRcvBgYG) | 6:10 |
 | 4 | [innocent world](https://open.spotify.com/track/2pI6Avig0HNZGsZ777MKXM) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [innocent world](https://open.spotify.com/album/25Fxg1dk7GyquE0ALnBLbq) | 5:45 |
 | 5 | [HEART](https://open.spotify.com/track/1WS6H0GH564OXZaJEgHCAf) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 6:09 |
-| 6 | [空と君のあいだに](https://open.spotify.com/track/29NdfvdZu1eymPW07pmpAd) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [空と君のあいだに/ファイト!](https://open.spotify.com/album/3OvwrlUZdeJJua1fNRIZDT) | 5:35 |
+| 6 | [空と君のあいだに](https://open.spotify.com/track/29NdfvdZu1eymPW07pmpAd) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [空と君のあいだに/ファイト！](https://open.spotify.com/album/3OvwrlUZdeJJua1fNRIZDT) | 5:35 |
 | 7 | [恋しさと せつなさと 心強さと](https://open.spotify.com/track/4t6gCnZijXxfFkrZG2RDHg) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M) | [恋しさと せつなさと 心強さと](https://open.spotify.com/album/5zOHKJBwcLlZ1Oby7ktwpI) | 4:22 |
 | 8 | [春よ、来い](https://open.spotify.com/track/0NoF3p7QaRjeQprbPSXIrh) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [春よ、来い](https://open.spotify.com/album/0qFt5vR3mjKWvd11B1Q6gW) | 4:48 |
 | 9 | [BOY MEETS GIRL](https://open.spotify.com/track/2vLRmKMZWRr86ayAUc6GTZ) | [TRF](https://open.spotify.com/artist/74UwkYjA5WAPyrTYFO3mW9) | [WORKS \-THE BEST OF TRF\-](https://open.spotify.com/album/0bCdbK91fN3zZILeQtcmQH) | 4:48 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 98 | [星空のドライヴ](https://open.spotify.com/track/1rn9h7gflbMyvL1PZi194v) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [星空のドライヴEP](https://open.spotify.com/album/1hFxpu4uIzDTuURxWBgsHw) | 2:58 |
 | 99 | [ア・ブラ・カダ・ブラ](https://open.spotify.com/track/26LKeW0qto7cndik9vXT7N) | [Kome Kome Club](https://open.spotify.com/artist/5lTGqFmlTng9jPrs7c2dRA) | [STAR BOX](https://open.spotify.com/album/1GH6KCtmdaIlAYNuDqloco) | 5:39 |
 | 100 | [恋してムーチョ](https://open.spotify.com/track/1KITfaPLDK13bcddcSIxvV) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [TUBEst II](https://open.spotify.com/album/6UicGs4MPBoioUDsNsNoCu) | 4:20 |
-| 101 | [渋谷で5時\(Romantic Single Version\)](https://open.spotify.com/track/3OFmJeYeDymWktj369dnDv) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [違う、そうじゃない/渋谷で5時 〜Romantic Single Version〜](https://open.spotify.com/album/1BjKUZnYBDOR3aPwAzxjQE) | 4:23 |
-| 102 | [ファイト!](https://open.spotify.com/track/2xblwpz5LEmOaS3jdKScpH) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [空と君のあいだに/ファイト!](https://open.spotify.com/album/3OvwrlUZdeJJua1fNRIZDT) | 6:56 |
+| 101 | [渋谷で5時\(Romantic Single Version\)](https://open.spotify.com/track/3OFmJeYeDymWktj369dnDv) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [違う、そうじゃない/渋谷で5時　〜Romantic Single Version〜](https://open.spotify.com/album/1BjKUZnYBDOR3aPwAzxjQE) | 4:23 |
+| 102 | [ファイト！](https://open.spotify.com/track/2xblwpz5LEmOaS3jdKScpH) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [空と君のあいだに/ファイト！](https://open.spotify.com/album/3OvwrlUZdeJJua1fNRIZDT) | 6:56 |
 
 Snapshot ID: `Zsu7RgAAAADE5KL13rV3tUh+ioKeYxGb`

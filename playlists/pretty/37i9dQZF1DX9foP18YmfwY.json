@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
-  "num_followers": 338369,
+  "num_followers": 338438,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -119,18 +119,22 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Cheiro de Rosas",
-        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
+        "name": "A Nossa F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Juninho Cassimiro",
+          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 279835,
-      "name": "Cheiro de Rosas",
-      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
+      "duration_ms": 724172,
+      "name": "A Nossa F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -151,22 +155,18 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "A Nossa F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
+        "name": "Cheiro de Rosas",
+        "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
       },
       "artists": [
         {
-          "name": "Juninho Cassimiro",
-          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         }
       ],
-      "duration_ms": 724172,
-      "name": "A Nossa F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
+      "duration_ms": 279835,
+      "name": "Cheiro de Rosas",
+      "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -547,8 +547,8 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Gba Stage, Vol. 11",
-        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
@@ -556,13 +556,13 @@
           "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Suely Fa\u00e7anha",
-          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
         }
       ],
-      "duration_ms": 302794,
-      "name": "Maria de Minha Inf\u00e2ncia",
-      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -727,8 +727,8 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+        "name": "Gba Stage, Vol. 11",
+        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
       },
       "artists": [
         {
@@ -736,13 +736,13 @@
           "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+          "name": "Suely Fa\u00e7anha",
+          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
         }
       ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+      "duration_ms": 302794,
+      "name": "Maria de Minha Inf\u00e2ncia",
+      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
     },
     {
       "added_at": "2024-11-15 03:01:00",

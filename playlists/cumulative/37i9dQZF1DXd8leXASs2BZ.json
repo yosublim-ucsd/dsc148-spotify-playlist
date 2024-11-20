@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Charlu",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AMO",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 218507,
       "name": "A\u30fbW\u30fbA\u30fbZ\u30fbA\u30fbR\u30fbU\u30fbK\u30fbA\u30fbS",
       "url": "https://open.spotify.com/track/5ekfLPgaebGcnyFgQKNZFh"
@@ -1370,6 +1370,28 @@
       "duration_ms": 183767,
       "name": "Banger",
       "url": "https://open.spotify.com/track/7tAzsQ45k7r9PaWkxN6EeI"
+    },
+    {
+      "album": {
+        "name": "Banger (feat. Bank.Somsaart)",
+        "url": "https://open.spotify.com/album/2czNGVjRuVfDVpIZj7B0Zi"
+      },
+      "artists": [
+        {
+          "name": "9for",
+          "url": "https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl"
+        },
+        {
+          "name": "Bank.Somsaart",
+          "url": "https://open.spotify.com/artist/27EDDxaWCpX0SBLJacciXv"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166174,
+      "name": "Banger (feat. Bank.Somsaart)",
+      "url": "https://open.spotify.com/track/5xWYysqcPJilNMEcKHiXZr"
     },
     {
       "album": {
@@ -2272,7 +2294,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 177680,
       "name": "Champion Sound (feat. BES)",
       "url": "https://open.spotify.com/track/0dlUi4CQU8Xb7SzKvWRhiG"
@@ -3925,6 +3947,28 @@
     },
     {
       "album": {
+        "name": "Eyes on you (feat. Masato Hayashi)",
+        "url": "https://open.spotify.com/album/5FFTFUZvWI1qiPg9476ZHs"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA"
+        },
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171305,
+      "name": "Eyes on you (feat. Masato Hayashi)",
+      "url": "https://open.spotify.com/track/3bBuFud7OatqgOA7u8J8De"
+    },
+    {
+      "album": {
         "name": "F-TOWN FLOW",
         "url": "https://open.spotify.com/album/6NfQX1anUrDcs0FUtbjyJl"
       },
@@ -4976,7 +5020,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 198445,
       "name": "Gimme Mo (feat. EASTA)",
       "url": "https://open.spotify.com/track/79z4VoQWlAtMYLn1o0fbfi"
@@ -5100,6 +5144,28 @@
       "duration_ms": 152112,
       "name": "GOEMON",
       "url": "https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK"
+    },
+    {
+      "album": {
+        "name": "Le Lien",
+        "url": "https://open.spotify.com/album/7JJP4uDWTKWmNxi05g6StI"
+      },
+      "artists": [
+        {
+          "name": "GINJI MIKAZUKI",
+          "url": "https://open.spotify.com/artist/6J07tTWInNyy1ZzWcr8roz"
+        },
+        {
+          "name": "VIGOR MAN",
+          "url": "https://open.spotify.com/artist/3expK8GzSFWORVEFnKq8h1"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178858,
+      "name": "going (feat. VIGOR MAN)",
+      "url": "https://open.spotify.com/track/29pYdeFpHPW8gFWQB5UgAM"
     },
     {
       "album": {
@@ -5414,7 +5480,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 103500,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/0wtjimeDNiYSxJeVy6In1H"
@@ -7096,6 +7162,28 @@
       "duration_ms": 156539,
       "name": "kung fu",
       "url": "https://open.spotify.com/track/3bglZ9EErqn0xsJ3sZ9v9x"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4c7pxnswpFE2VW1xUlK4wi"
+      },
+      "artists": [
+        {
+          "name": "AWAZARUKAS",
+          "url": "https://open.spotify.com/artist/1qJPbVrtETyKkBDFxxqpcw"
+        },
+        {
+          "name": "Daedalbwoy",
+          "url": "https://open.spotify.com/artist/6xeg8lL9yXzkN53bCoqort"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196184,
+      "name": "Kuruma de go! part2 (feat. Daedalbwoy)",
+      "url": "https://open.spotify.com/track/3727tPEfz1TgEd3QNy2rHt"
     },
     {
       "album": {
@@ -8958,6 +9046,32 @@
       "duration_ms": 193200,
       "name": "Okinawa",
       "url": "https://open.spotify.com/track/2E5pc4bULJbOSDQIM5KxBV"
+    },
+    {
+      "album": {
+        "name": "AFTER MANIAC",
+        "url": "https://open.spotify.com/album/7jr8vYYlj25JjnRdO7Qy5D"
+      },
+      "artists": [
+        {
+          "name": "Weird the art",
+          "url": "https://open.spotify.com/artist/2LzqZwMdbkKxrY7v2vznyP"
+        },
+        {
+          "name": "Sart",
+          "url": "https://open.spotify.com/artist/4PugGE5RJijvszPRE3Y1KP"
+        },
+        {
+          "name": "Flat Line Classics",
+          "url": "https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ol fly lab",
+      "url": "https://open.spotify.com/track/3obE4xD3n0YqTyeRGFjshH"
     },
     {
       "album": {
@@ -11281,6 +11395,24 @@
     },
     {
       "album": {
+        "name": "Slay",
+        "url": "https://open.spotify.com/album/6PfZb4jvpz4MWvskuLbk7H"
+      },
+      "artists": [
+        {
+          "name": "XENO",
+          "url": "https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133942,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/21t9ehfKXn12MVZOWjb0vu"
+    },
+    {
+      "album": {
         "name": "sleep by my side",
         "url": "https://open.spotify.com/album/6r717qQ7eTFvWc6P3aZxos"
       },
@@ -11908,7 +12040,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 167926,
       "name": "SWAGG",
       "url": "https://open.spotify.com/track/1rR63rIp7CnV6sFRGoSgn1"
@@ -14166,7 +14298,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 198893,
       "name": "\u512a\u3057\u304f\u306a\u308c\u305f\u306a\u3089",
       "url": "https://open.spotify.com/track/7HT8QRvpCaertPTy6uoJOT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,384 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,449 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 6 | [HIM](https://open.spotify.com/track/2pwYfIGr9Jmk6HpbDDMrpe) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [HIM](https://open.spotify.com/album/31l891a8aThA6u22fiQGnc) | 2:48 |
 | 7 | [ROGER THAT](https://open.spotify.com/track/2jAtxo6VHtfj6Co7hKoAwE) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Tr3 $ebiv](https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP) | [ROGER THAT](https://open.spotify.com/album/1y7pgay8U0I7POy5SoiCaJ) | 2:48 |
 | 8 | [Died for You](https://open.spotify.com/track/32mcCj2SL9vXiWPgF85Ux3) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Died for You](https://open.spotify.com/album/6IIMQMuuFSHOnJOobnte9O) | 2:36 |
-| 9 | [God Bless The Trap](https://open.spotify.com/track/7doA0imMfCFraL2muyz8f7) | [404 chew](https://open.spotify.com/artist/2JBd00q6CqrSTCUhHvRLKZ), [bloody Candy](https://open.spotify.com/artist/5IQaOyIzubjmSh7jiynBMx), [Hunni B](https://open.spotify.com/artist/6uT5TtcWvPtDeKyXnBhpb2), [Gappstar St\. Clair](https://open.spotify.com/artist/5cPaY0WtVGHWkWmpFxtSJ1) | [God Bless The Trap](https://open.spotify.com/album/1SOZylnsAYQYnd6LWnADP9) | 2:55 |
+| 9 | [God Bless The Trap](https://open.spotify.com/track/7doA0imMfCFraL2muyz8f7) | [404 chew](https://open.spotify.com/artist/2JBd00q6CqrSTCUhHvRLKZ), [bloody Candy](https://open.spotify.com/artist/5IQaOyIzubjmSh7jiynBMx), [Gappstar St\. Clair](https://open.spotify.com/artist/5cPaY0WtVGHWkWmpFxtSJ1), [Hunni B](https://open.spotify.com/artist/6uT5TtcWvPtDeKyXnBhpb2) | [God Bless The Trap](https://open.spotify.com/album/1SOZylnsAYQYnd6LWnADP9) | 2:55 |
 | 10 | [THE FAMILY PRAYS](https://open.spotify.com/track/3Q4JA4vy2TwBzLaQsohkVR) | [YP Aka Young Paul](https://open.spotify.com/artist/5rEAZYrahTLTvcgv0DgOJQ), [RDKL](https://open.spotify.com/artist/4rYLMFIzONsK6ZMbBLhQo1), [Knaladeus](https://open.spotify.com/artist/7gNSM1rB9JLFMXz6o68g4K) | [LONG AS THE LORD SAY](https://open.spotify.com/album/0gdosVgrDwq2KLOfOLm1fX) | 3:13 |
 | 11 | [Move](https://open.spotify.com/track/25mp9kXFVDGHQFPWSOw2TK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Sarah Nathalié](https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX) | [Move](https://open.spotify.com/album/0MrR3oM9oDYT0xKSYglKiT) | 3:55 |
 | 12 | [Never Let Me Go \- Remix](https://open.spotify.com/track/7HAJYX1RMpI6el8FYzLd6S) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Never Let Me Go \(Remix\)](https://open.spotify.com/album/0Me8lfJ8uai4eUVSxvZZz7) | 2:00 |

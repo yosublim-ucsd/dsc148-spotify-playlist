@@ -6265,6 +6265,24 @@
     },
     {
       "album": {
+        "name": "Viola",
+        "url": "https://open.spotify.com/album/4EF3YhPhYZJmdswT3mc9nx"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Willis",
+          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139944,
+      "name": "Viola",
+      "url": "https://open.spotify.com/track/3gSGVPcvojY7dkTdQbMnpO"
+    },
+    {
+      "album": {
         "name": "Vive Le Piano",
         "url": "https://open.spotify.com/album/00k5SO4QMgdArz37NefkHW"
       },

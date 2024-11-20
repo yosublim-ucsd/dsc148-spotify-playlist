@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,673 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,712 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 54 | [言ノ葉](https://open.spotify.com/track/6ktyTmXjfehtEO5wWFyjkP) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 5:02 |
 | 55 | [A Rainy Morning \~Main Title\~](https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs) | [KASHIWA Daisuke](https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P) | [劇場アニメーション映画 言の葉の庭 Original Soundtracks](https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz) | 0:50 |
 | 56 | [Hello Goodbye & Hello \(For Movie\)](https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [劇場アニメーション映画 星を追う子ども Original SoundTrack](https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq) | 5:00 |
-| 57 | [One more time,One more chance](https://open.spotify.com/track/3akr0ZrJxLMBLIFeNNKffW) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [One more time,One more chance](https://open.spotify.com/album/7fjfM7dCDIjPRKK3QaUZ8Z) | 5:30 |
+| 57 | [One more time，One more chance](https://open.spotify.com/track/3akr0ZrJxLMBLIFeNNKffW) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [One more time，One more chance](https://open.spotify.com/album/7fjfM7dCDIjPRKK3QaUZ8Z) | 5:30 |
 | 58 | [空と海の詩](https://open.spotify.com/track/0KJiMu4yueVH0gIgpCnYfU) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 2:00 |
 | 59 | [桜花抄](https://open.spotify.com/track/5vgbpz9DQTLPa91f0wxUOH) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 4:51 |
 | 60 | [想い出は遠くの日々](https://open.spotify.com/track/5dzk9bYbpDpSgZxFaP3iBu) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 1:41 |

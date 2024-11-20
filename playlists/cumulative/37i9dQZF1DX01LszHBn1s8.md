@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> it's sweater weather 🍁🧶
+> I LIKE MY SOOOTCASE
 
 1,539 songs - 3 day 8 hr 56 min
 

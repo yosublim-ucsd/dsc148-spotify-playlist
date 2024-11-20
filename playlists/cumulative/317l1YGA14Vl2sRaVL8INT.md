@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-284 songs - 15 hr 29 min
+285 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 | 2024-01-09 |  |
 | [There, There](https://open.spotify.com/track/2KtUs4SyTrHcmRt338fFFV) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [There, There](https://open.spotify.com/album/5LsmK8O9hIof0BulViXvU0) | 3:40 | 2024-08-29 |  |
 | [There, There](https://open.spotify.com/track/21EhWmp2yvVNPa0wCMnvd6) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Greatest Generation](https://open.spotify.com/album/7q9crgUsEy4Clq2B77ijN9) | 2:26 | 2024-01-09 |  |
+| [This Isn't Tennis](https://open.spotify.com/track/1geaKXjalDWnNEqADEhRhV) | [Rad Stacey](https://open.spotify.com/artist/5wmUicL8nHBPkzh2TZ1rf1) | [Vibe Rider](https://open.spotify.com/album/0cfQCY62dVAgQd0VhZZckh) | 5:34 | 2024-11-19 |  |
 | [Thnx](https://open.spotify.com/track/3kUngdPstLUhp6QvbZlDvd) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Thnx](https://open.spotify.com/album/2c8YSRBnH6ZIe6cJ5PB2PR) | 3:48 | 2024-03-08 |  |
 | [Threadbare](https://open.spotify.com/track/4JrYtPByIks9p7h9FYhgeS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Threadbare](https://open.spotify.com/album/7n9A3XL9AprUZ4UhMRWCja) | 3:30 | 2023-12-01 |  |
 | [Three Cheers For Five Years](https://open.spotify.com/track/3hJoAM3O7q1i70lJRf8Cky) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Punk Goes Acoustic, Vol\. 2](https://open.spotify.com/album/56LIpZLM5kSMhdKdMTJ4RU) | 4:50 | 2023-02-12 | 2023-12-02 |

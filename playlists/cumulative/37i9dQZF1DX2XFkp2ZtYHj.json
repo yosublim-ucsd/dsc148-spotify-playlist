@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Hymns of Light",
+        "url": "https://open.spotify.com/album/0m3KSiP0ndC41yuBv7lch4"
+      },
+      "artists": [
+        {
+          "name": "Zale Foster",
+          "url": "https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157048,
+      "name": "Hymns of Light",
+      "url": "https://open.spotify.com/track/6oVF5IoQy0cGfNWl7wuXaz"
+    },
+    {
+      "album": {
         "name": "Idyllic garden",
         "url": "https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF"
       },

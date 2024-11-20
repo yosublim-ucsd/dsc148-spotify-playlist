@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
-  "num_followers": 633076,
+  "num_followers": 633171,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "High Up",
-        "url": "https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "High Up",
-      "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Alive & Breathing Vol. 2",
         "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 241764,
       "name": "Alive & Breathing (feat. Elle Limebear)",
       "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "High Up",
+        "url": "https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "High Up",
+      "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 293331,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+      "duration_ms": 198986,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1351,18 +1347,38 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 198986,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 293331,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1395,22 +1411,6 @@
       "duration_ms": 284422,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf"
     },
     {
       "added_at": "2024-06-21 08:48:55",

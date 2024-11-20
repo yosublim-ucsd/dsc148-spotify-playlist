@@ -7993,6 +7993,32 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5QJJzc2wwiVeF0Htlcp9Gt"
+      },
+      "artists": [
+        {
+          "name": "DTT Felix",
+          "url": "https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm"
+        },
+        {
+          "name": "Edward Snellen",
+          "url": "https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G"
+        },
+        {
+          "name": "hmny.",
+          "url": "https://open.spotify.com/artist/2oqbohcixA0NGGIS4nuBaY"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134783,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2Ema8Fxxfdn5eyuvZGxk5R"
+    },
+    {
+      "album": {
         "name": "Lunar Eclipse",
         "url": "https://open.spotify.com/album/03L6gLurM4itwkwJrImRdp"
       },

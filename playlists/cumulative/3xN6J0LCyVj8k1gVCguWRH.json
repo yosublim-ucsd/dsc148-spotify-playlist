@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 188415,
       "name": "ALRIGHT",
       "url": "https://open.spotify.com/track/0ChPMhpuUosCmdvvvMCYJP"
@@ -4160,7 +4160,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 149979,
       "name": "Anormales",
       "url": "https://open.spotify.com/track/3rrLf5AcbC0IA1KlRkSwaE"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 262000,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/3cn5lX9wwlEQdJL9lDrQ8J"
@@ -12964,7 +12964,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 163442,
       "name": "City Girl ATV",
       "url": "https://open.spotify.com/track/1dXIM0GCmivZ3hgA3SJZ3f"
@@ -21718,7 +21718,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 125571,
       "name": "Faded Gray",
       "url": "https://open.spotify.com/track/6XJcVdP2Wk44NHRoD5uUk9"
@@ -24936,7 +24936,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 221318,
       "name": "Frank07",
       "url": "https://open.spotify.com/track/2KvfTjx7ONbLUQUM79xgBT"
@@ -28128,7 +28128,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 198114,
       "name": "Got Me Feeling Like",
       "url": "https://open.spotify.com/track/2Uwth76CM1b9Gvs3ZMXDaD"
@@ -35372,7 +35372,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 168000,
       "name": "is this as good as it gets?",
       "url": "https://open.spotify.com/track/6T67uQrMBlD7uc8QcQroD2"
@@ -37986,7 +37986,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 172243,
       "name": "LALA",
       "url": "https://open.spotify.com/track/73Hn2WovVXJjp0OfIqTV7g"
@@ -42348,7 +42348,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 222537,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6YIfOoyMoyTodzUGwA2ZOU"
@@ -43762,7 +43762,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 213134,
       "name": "Maybe Tonight",
       "url": "https://open.spotify.com/track/23SENjysjh3gLAeSeoV7WT"
@@ -47356,7 +47356,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 241973,
       "name": "Mystery's Golden",
       "url": "https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8"
@@ -47414,7 +47414,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 219428,
       "name": "N-ER-G-",
       "url": "https://open.spotify.com/track/17s6utKDkcwvqEk3z2ae9B"
@@ -50695,6 +50695,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/11H14tSuMdP3MUuoJZ66MU"
+      },
+      "artists": [
+        {
+          "name": "Harrison Lipton",
+          "url": "https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183783,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/2vhT56kedOkeaWPFY68Fnu"
+    },
+    {
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/514Dff3kf8Q0vwae6otX6A"
       },
@@ -51452,7 +51470,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 151058,
       "name": "Open",
       "url": "https://open.spotify.com/track/14sDCw3S0JDCZ4XaBoU1D2"
@@ -53524,7 +53542,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 164870,
       "name": "Persian",
       "url": "https://open.spotify.com/track/2hyo9BXeEa9kFrwiz8MsiB"
@@ -53622,7 +53640,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 231488,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/2fYEGzjD7wkTy87BQHPdcr"
@@ -56300,7 +56318,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 184504,
       "name": "Realize",
       "url": "https://open.spotify.com/track/1rfe5uamj76ZWrJLwpNdtk"
@@ -58965,6 +58983,24 @@
     },
     {
       "album": {
+        "name": "Saturn\u2019s Moon",
+        "url": "https://open.spotify.com/album/3mURA1aKd0D6dob4F1i9oo"
+      },
+      "artists": [
+        {
+          "name": "Justelle",
+          "url": "https://open.spotify.com/artist/5jKZa3GZPDDmC0QFBMMK6Q"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248934,
+      "name": "Saturn\u2019s Moon",
+      "url": "https://open.spotify.com/track/4zzC42HMdFYdSOwOquBAqm"
+    },
+    {
+      "album": {
         "name": "Savage Remix (feat. Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
       },
@@ -60338,7 +60374,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 190294,
       "name": "SHE",
       "url": "https://open.spotify.com/track/6cJAQoWSLP2Vj0c7L4gohu"
@@ -62210,7 +62246,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 186328,
       "name": "Some Days Are Better Than Others",
       "url": "https://open.spotify.com/track/5G2b4rCDBfyoiIuFFHPfs7"
@@ -68578,7 +68614,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 157800,
       "name": "The Loft",
       "url": "https://open.spotify.com/track/024wFPk5RAlh1aAtEctfsU"
@@ -69480,7 +69516,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 288977,
       "name": "There's A Light",
       "url": "https://open.spotify.com/track/1uZbDCslK5UbmvGZWMGZKj"
@@ -73756,7 +73792,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 169000,
       "name": "Violet",
       "url": "https://open.spotify.com/track/33J8Q1t1u01gSQzZUibxFb"

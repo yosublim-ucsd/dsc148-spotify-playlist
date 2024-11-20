@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-420 songs - 1 day 2 hr 20 min
+421 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Christmas Is Here \- Radio Edit](https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmas at Home](https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF) | 3:01 | 2022-11-26 |  |
 | [Christmas Lights](https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Lights](https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck) | 3:01 | 2021-12-24 |  |
 | [Christmas Offering](https://open.spotify.com/track/5fJszr03uVM8V6P3Ek3gce) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 5:14 | 2021-12-24 | 2024-08-02 |
-| [Christmas Time Is Here](https://open.spotify.com/track/4cYsUX11X8o82bP9Vmaabo) | [Sarah Reynolds](https://open.spotify.com/artist/5OzJnFI3dgRIfIr5PHnxte) | [Christmas Time Is Here](https://open.spotify.com/album/2rEicUO3iYZ2WFAoOfW9Na) | 4:45 | 2021-12-24 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/4cYsUX11X8o82bP9Vmaabo) | [Sarah Reynolds](https://open.spotify.com/artist/5OzJnFI3dgRIfIr5PHnxte) | [Christmas Time Is Here](https://open.spotify.com/album/2rEicUO3iYZ2WFAoOfW9Na) | 4:45 | 2021-12-24 | 2024-11-20 |
 | [Christmas Time Is Here](https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 2:45 | 2022-11-26 |  |
 | [Christmas Vacation](https://open.spotify.com/track/1DxmJ0SaINkxDxA2xzlBOH) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Christmas Vacation](https://open.spotify.com/album/0kinNJkdODMETukgMudmMb) | 3:50 | 2021-12-24 | 2022-07-16 |
 | [Christmas With You](https://open.spotify.com/track/2nyOyG4VeX6U3xk5VXeNU2) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas With You / Please Come Home for Christmas](https://open.spotify.com/album/0W1U8rS590938mux6amCCy) | 3:19 | 2021-12-24 |  |
@@ -327,6 +327,7 @@
 | [Saviour Of The World](https://open.spotify.com/track/48cgU4wfeTp28IrlTVG0MU) | [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg), [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Saviour Of The World](https://open.spotify.com/album/3yZjjoaKIQxCqoLffDALox) | 3:34 | 2024-08-01 |  |
 | [Shine So Bright](https://open.spotify.com/track/2VgaxOAwxWcFH3iHl86bXS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:21 | 2021-12-24 | 2024-11-18 |
 | [Silent Night](https://open.spotify.com/track/6X3o5CZvqtWFF1avJYeb6V) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Silent Night](https://open.spotify.com/album/6sttWYLWoJmJktbTWFfEVt) | 3:58 | 2021-12-24 | 2022-07-29 |
+| [Silent Night](https://open.spotify.com/track/4F2Aul3vwBCvTijuay0E4B) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Silent Night](https://open.spotify.com/album/3oVxHEriWbXgq3utKjblzD) | 3:44 | 2024-11-17 |  |
 | [Silent Night](https://open.spotify.com/track/3c1eBuKnrBKcZqfUI0RkFw) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/0VjtZbHdvOsatE7kRybEzZ) | 3:47 | 2023-12-15 | 2024-03-26 |
 | [Silent Night](https://open.spotify.com/track/64tmdM5ETIdidw0ycwRiXK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Songs for Christmas](https://open.spotify.com/album/3JnPOv7W9fhXZqrlIxnWRo) | 3:47 | 2021-12-24 | 2024-11-18 |
 | [Silent Night](https://open.spotify.com/track/0ksx7umz6Hz2g0OhYUPXGk) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Silent Night](https://open.spotify.com/album/7ehdqyxzTgNSKxeK4b3apD) | 3:29 | 2021-12-24 | 2022-07-26 |

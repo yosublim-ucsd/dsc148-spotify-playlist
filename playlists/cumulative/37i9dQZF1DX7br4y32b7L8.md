@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-611 songs - 1 day 6 hr 57 min
+613 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Da' Dip](https://open.spotify.com/track/76YDsWGWezclVy9Z6sDGhf) | [Freak Nasty](https://open.spotify.com/artist/0LthCv77K8NqLKr8B6266a) | [Controversee…That's Life…and That's the Way It Is](https://open.spotify.com/album/1tiBNNEW1WPa59sVZ71Ers) | 3:57 | 2024-10-07 |  |
 | [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 | 2024-09-26 | 2024-10-15 |
 | [Damage](https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Damage](https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk) | 2:10 | 2024-10-31 |  |
+| [Dammie](https://open.spotify.com/track/2eaJthrWWG0v0TSvCL4E32) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [Dammie](https://open.spotify.com/album/4kLGo8swLJ6P1k9PQ03TXj) | 1:50 | 2024-11-19 |  |
 | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac) | [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3) | 2:09 | 2023-09-21 | 2023-10-12 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-19 | 2024-04-19 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-11 | 2024-04-23 |
@@ -228,6 +229,7 @@
 | [Het Fluitlied \- Uit De Amazon Original Serie LOL: Last One Laughing](https://open.spotify.com/track/5t1fL0fLCfDUvWnftRhGoh) | [Bas Hoeflaak](https://open.spotify.com/artist/3p0Geu5lSPEr8Z8rLopaTg) | [Het Fluitlied \(Uit De Amazon Original Serie LOL: Last One Laughing\)](https://open.spotify.com/album/3qU8G5qLcyDrg91GAjRqyt) | 3:00 | 2023-02-23 | 2023-04-12 |
 | [Het Goede Leven](https://open.spotify.com/track/0iBEI6GLlJ9ru9qZwObsbG) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 4:07 | 2023-12-27 | 2024-02-09 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-02-23 | 2023-04-12 |
+| [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2024-11-19 |  |
 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2023-02-23 | 2024-09-12 |
 | [Hippie Shake](https://open.spotify.com/track/7uc9fpb5GXABlKAdKf535n) | [K3](https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D) | [Alle Kleuren](https://open.spotify.com/album/4ycbJJYWQGyFvraVzLV8js) | 2:34 | 2024-10-14 | 2024-11-01 |
 | [Hoekie van me bedje](https://open.spotify.com/track/0fyAjd23yLcriPKVyH0Ylv) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Hoekie van me bedje](https://open.spotify.com/album/751nLtws2TNlXViqlinMdW) | 1:51 | 2024-07-17 |  |

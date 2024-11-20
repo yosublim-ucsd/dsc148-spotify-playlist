@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavitória
 
-742 songs - 1 day 13 hr 2 min
+743 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Anunciação \- Sessions](https://open.spotify.com/track/2KHy5ac4tiPYXCzMd1rRrK) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions](https://open.spotify.com/album/2x7TrPhYqacYsEvF6gxdrn) | 2:45 | 2024-11-08 |  |
 | [Aonde Eu Aperto Pra Voltar](https://open.spotify.com/track/2XBrtjxK2u5pcFXPfA8kzF) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [World, Vol\. 3](https://open.spotify.com/album/46yoelkmItoAKBPjdfoXjH) | 3:00 | 2022-08-01 | 2022-08-06 |
 | [Aonde quer que eu vá](https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Aonde quer que eu vá](https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn) | 3:19 | 2024-08-02 | 2024-11-01 |
-| [Apressa](https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Apressa](https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ) | 2:35 | 2024-06-14 |  |
+| [Apressa](https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Apressa](https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ) | 2:35 | 2024-06-14 | 2024-11-20 |
 | [Aquarela](https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 2:59 | 2023-02-03 |  |
 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 | 2023-06-30 | 2023-08-26 |
 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 | 2024-09-27 |  |
@@ -129,6 +129,7 @@
 | [Ceará](https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Ceará](https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx) | 2:12 | 2023-07-28 | 2024-07-06 |
 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 | 2022-06-14 | 2022-07-02 |
 | [cedo pra dizer](https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [cedo pra dizer](https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR) | 3:06 | 2023-02-03 | 2023-08-05 |
+| [Chega Pra Cá](https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Sigo de Volta](https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav) | 2:59 | 2024-11-15 |  |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-01 | 2023-09-27 |
 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-01 | 2023-09-08 |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-04-13 |

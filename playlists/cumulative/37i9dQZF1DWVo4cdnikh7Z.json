@@ -9446,7 +9446,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 69861,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/4odPneosxWn3w3XwuH6xpZ"
@@ -34936,6 +34936,32 @@
       "duration_ms": 135827,
       "name": "Vaarai Rathnam",
       "url": "https://open.spotify.com/track/1LozlztrbkcT1GB9ANDBMy"
+    },
+    {
+      "album": {
+        "name": "Vaaya Naina (From \"Zebra\")",
+        "url": "https://open.spotify.com/album/7KSNEw6pEYV2rGM8LXxWmS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221375,
+      "name": "Vaaya Naina (From \"Zebra\")",
+      "url": "https://open.spotify.com/track/5MHbKIwfWnEsct8EVoSgKi"
     },
     {
       "album": {

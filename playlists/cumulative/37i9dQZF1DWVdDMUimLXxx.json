@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195154,
+      "name": "Filma Solo",
+      "url": "https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm"
+    },
+    {
+      "album": {
         "name": "The Boy Who Flew Away",
         "url": "https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId"
       },
@@ -787,6 +805,24 @@
     },
     {
       "album": {
+        "name": "A History Of Scotland",
+        "url": "https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY"
+      },
+      "artists": [
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127146,
+      "name": "Lord Of The Isles",
+      "url": "https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS"
+    },
+    {
+      "album": {
         "name": "Lost Crusaders",
         "url": "https://open.spotify.com/album/5BIJc879MbWsGzlAHOrST5"
       },
@@ -838,6 +874,54 @@
       "duration_ms": 123054,
       "name": "Love Theme For Linda",
       "url": "https://open.spotify.com/track/6yEKX6B4ehcaI2epFjkKtl"
+    },
+    {
+      "album": {
+        "name": "Player 1",
+        "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
+      },
+      "artists": [
+        {
+          "name": "Manaka Kataoka",
+          "url": "https://open.spotify.com/artist/52PmW6wfHfCkQq16XF7sJz"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Main Theme (Arr. Skeet for Violin & Orchestra) - From \"The Legend of Zelda: Tears of the Kingdom\"",
+      "url": "https://open.spotify.com/track/0sIUDCGCHVCd6UpBEfl7zS"
+    },
+    {
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174722,
+      "name": "Main Titles (Fantastic Beasts and Where to Find Them)",
+      "url": "https://open.spotify.com/track/4Pk1KXtkFTJNKLqwHhD3Zn"
     },
     {
       "album": {
@@ -1125,6 +1209,36 @@
     },
     {
       "album": {
+        "name": "Player 1",
+        "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
+      },
+      "artists": [
+        {
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/1CGkaRvGtOqNnRG88VYKdV"
+    },
+    {
+      "album": {
         "name": "Trace",
         "url": "https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80"
       },
@@ -1140,6 +1254,24 @@
       "duration_ms": 216000,
       "name": "Sky",
       "url": "https://open.spotify.com/track/5ZwrQKuPqHFFrtrZlSt6NT"
+    },
+    {
+      "album": {
+        "name": "Gladiator II (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201402,
+      "name": "Strength And Honor",
+      "url": "https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX"
     },
     {
       "album": {
@@ -1161,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
+        "url": "https://open.spotify.com/album/78al1cFOvo6eGowGidkRG5"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121978,
+      "name": "The Dwarf Lords - Exclusive Bonus Track",
+      "url": "https://open.spotify.com/track/4yTDJt8yfOpRKvRNQ8uV5X"
+    },
+    {
+      "album": {
         "name": "Far Over the Highlands",
         "url": "https://open.spotify.com/album/7GmRudqNcSzDQr8PVW2EWn"
       },
@@ -1176,6 +1326,24 @@
       "duration_ms": 142000,
       "name": "The Fellowship",
       "url": "https://open.spotify.com/track/6rqVIvtZV2g8fqXTGp065U"
+    },
+    {
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "The Great Collapse",
+      "url": "https://open.spotify.com/track/3zUnduoSzMzoP01BO69uJV"
     },
     {
       "album": {
@@ -1287,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Mary Queen Of Scots (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/10Whlk8FMk3aPNC4FgmBUo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111893,
+      "name": "The Shores of Scotland",
+      "url": "https://open.spotify.com/track/5OpuPJiAaSHVovaDLHw6EA"
+    },
+    {
+      "album": {
         "name": "To All the Glory",
         "url": "https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM"
       },
@@ -1356,6 +1542,24 @@
       "duration_ms": 147449,
       "name": "Tudor",
       "url": "https://open.spotify.com/track/3O4IPW1FuvnzSVLDZuhou2"
+    },
+    {
+      "album": {
+        "name": "T\u00fandra",
+        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143667,
+      "name": "T\u00fandra",
+      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
     },
     {
       "album": {

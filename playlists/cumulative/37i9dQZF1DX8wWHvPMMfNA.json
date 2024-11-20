@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 203348,
       "name": "Around six thirty",
       "url": "https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 152074,
       "name": "As Long As I Live",
       "url": "https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 259376,
       "name": "Blue Note Balladry",
       "url": "https://open.spotify.com/track/2b9dU6yCmyjSdQfTN22sZl"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 170495,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/5Ne8Wx5YnewMjwuCjZWd83"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 183562,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 156841,
       "name": "End of Spring",
       "url": "https://open.spotify.com/track/5WT0ix5s8hhENzQseg8j0t"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 213451,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN"
@@ -4416,7 +4416,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 217000,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/4R50lEb49kbdbzMQHg16RP"
@@ -6276,7 +6276,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 205287,
       "name": "I was young once",
       "url": "https://open.spotify.com/track/3Imvyp4ZL0a72YBahaBp4q"
@@ -6510,7 +6510,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 191016,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/6Z2gqKsxunB5ILpTiAn6Wg"
@@ -7158,7 +7158,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 194779,
       "name": "Islington",
       "url": "https://open.spotify.com/track/1BAUtnyRhDLfwK4l5RO4bN"
@@ -8058,7 +8058,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 166386,
       "name": "Let's Have Lunch at the Counter",
       "url": "https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf"
@@ -10895,6 +10895,24 @@
     },
     {
       "album": {
+        "name": "Passing Strangers",
+        "url": "https://open.spotify.com/album/3K9hh07aun7cj8le4GSCXZ"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208283,
+      "name": "Passing Strangers",
+      "url": "https://open.spotify.com/track/2cefd1nuqltLshwT1eVyWX"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn"
       },
@@ -11126,7 +11144,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 460000,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0"
@@ -11774,7 +11792,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 382519,
       "name": "September Wind",
       "url": "https://open.spotify.com/track/6AWJW2j6yLLsn0f4mfm78t"
@@ -11846,7 +11864,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 178210,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/2tGKFU73szjdmXzUB1KSEJ"
@@ -14280,7 +14298,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 210000,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/71R9uY40h8SwfXdwelSH81"
@@ -14598,7 +14616,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 206060,
       "name": "This Could Be Love",
       "url": "https://open.spotify.com/track/3AXc6LSwjRJaZ9UgY7sOj4"

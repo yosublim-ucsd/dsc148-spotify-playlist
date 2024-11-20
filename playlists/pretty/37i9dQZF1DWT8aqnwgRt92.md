@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,415 likes - 86 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,525 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,12 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 77 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 |
 | 78 | [飴色水彩](https://open.spotify.com/track/7GMLgxuqSSNLtiGRob7jL9) | [MiMi](https://open.spotify.com/artist/1b8RP6qAbUPG4QXb2nYtpa) | [飴色水彩](https://open.spotify.com/album/1bZ9Jup7PBVVLxs82j1hWl) | 3:14 |
 | 79 | [アカイロ](https://open.spotify.com/track/5VZnu1y78R281GShmN43TN) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [アカイロ](https://open.spotify.com/album/6uh3L9f5J6OamYhp4VkAwP) | 4:08 |
-| 80 | [Better Days](https://open.spotify.com/track/0U4CrtW13xXN7eetrgcjeS) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Better Days](https://open.spotify.com/album/0EB8vaEWbFU1uu0bNTW27P) | 1:41 |
-| 81 | [ツララ](https://open.spotify.com/track/3EUD7BpNjkkhjCl4QqG2SI) | [Yobahi](https://open.spotify.com/artist/0aW4wm7ADVDMFMymRNhEvA) | [ツララ](https://open.spotify.com/album/2SeSQc43By8stPrLZ8gLMH) | 3:39 |
-| 82 | [最強?最高!Brave My Heart](https://open.spotify.com/track/13tHwLCD4kLI8Xd9FQ5aMu) | [立花日菜](https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL) | [最強?最高!Brave My Heart](https://open.spotify.com/album/1WjwsSenpMDn7avaQzrsz9) | 3:32 |
-| 83 | [君の背中](https://open.spotify.com/track/4zBX67XTOyX6AqctfQ4neW) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [君の背中](https://open.spotify.com/album/6jMXKfu9eULGycR7UGbCno) | 3:36 |
-| 84 | [Fly Higher](https://open.spotify.com/track/677LgZoTudjik89LdA3PxT) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Crazy Crazy / Fly Higher](https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf) | 3:18 |
-| 85 | [瞬間最大風速](https://open.spotify.com/track/4FK1BoqkDQB31WGQkAlnNP) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [瞬間最大風速](https://open.spotify.com/album/523ONZQRLAZx4uWUXhHDp6) | 3:28 |
-| 86 | [リバーシブルベイベー](https://open.spotify.com/track/1JxWL08ZvXXEIkLae8UgyM) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [リバーシブルベイベー](https://open.spotify.com/album/7loPqJhywWem2pzvfTH1fx) | 3:38 |
+| 80 | [ツララ](https://open.spotify.com/track/3EUD7BpNjkkhjCl4QqG2SI) | [Yobahi](https://open.spotify.com/artist/0aW4wm7ADVDMFMymRNhEvA) | [ツララ](https://open.spotify.com/album/2SeSQc43By8stPrLZ8gLMH) | 3:39 |
+| 81 | [最強?最高!Brave My Heart](https://open.spotify.com/track/13tHwLCD4kLI8Xd9FQ5aMu) | [立花日菜](https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL) | [最強?最高!Brave My Heart](https://open.spotify.com/album/1WjwsSenpMDn7avaQzrsz9) | 3:32 |
+| 82 | [君の背中](https://open.spotify.com/track/4zBX67XTOyX6AqctfQ4neW) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [君の背中](https://open.spotify.com/album/6jMXKfu9eULGycR7UGbCno) | 3:36 |
+| 83 | [Fly Higher](https://open.spotify.com/track/677LgZoTudjik89LdA3PxT) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Crazy Crazy / Fly Higher](https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf) | 3:18 |
+| 84 | [瞬間最大風速](https://open.spotify.com/track/4FK1BoqkDQB31WGQkAlnNP) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [瞬間最大風速](https://open.spotify.com/album/523ONZQRLAZx4uWUXhHDp6) | 3:28 |
+| 85 | [リバーシブルベイベー](https://open.spotify.com/track/1JxWL08ZvXXEIkLae8UgyM) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [リバーシブルベイベー](https://open.spotify.com/album/7loPqJhywWem2pzvfTH1fx) | 3:38 |
 
-Snapshot ID: `ZzbP3AAAAACxAnLGq8pnCFyXTxPvY3W/`
+Snapshot ID: `Zzy5ggAAAAAXIgs/M8LWo0Mlq9Q9i7zb`

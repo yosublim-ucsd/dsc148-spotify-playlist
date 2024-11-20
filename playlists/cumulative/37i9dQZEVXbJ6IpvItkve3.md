@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,088 songs - 2 day 13 hr 24 min
+1,089 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [הטוב, הרע ואחותך](https://open.spotify.com/track/0N0lCw47ERax8Hti22uST0) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Shalom Hanoch](https://open.spotify.com/artist/1Eks6sKVw6yepoeTbWv0YD) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:24 | 2021-12-18 | 2021-12-22 |
 | [הטלפון](https://open.spotify.com/track/7zfKIDPGyPDFLZVBuehvoR) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 6:10 | 2023-04-13 | 2023-04-15 |
 | [הטעות הכי יפה](https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [הטעות הכי יפה](https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh) | 2:41 | 2021-06-01 | 2022-04-27 |
-| [היי בייב](https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:07 | 2021-12-18 |  |
+| [היי בייב](https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:07 | 2021-12-18 | 2024-11-20 |
 | [הילדה הכי יפה בגן](https://open.spotify.com/track/4O4QGtRZUOFvVQU7DZd1uw) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [יהודית רביץ](https://open.spotify.com/album/6k0lxnRd4CoHncJVmZXhez) | 2:28 | 2023-04-21 | 2023-04-25 |
 | [הכבש הששה עשר \(לילה טוב\)](https://open.spotify.com/track/14ZaVueRjkPXf9OHBd3Pd2) | [Yehonatan Geffen](https://open.spotify.com/artist/1aGabZqZz15yIogXar4j0y), [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh), [Gidi Gov](https://open.spotify.com/artist/0RNFCu4ChoQ1FDBKcGhnoi), [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [הכבש השישה עשר](https://open.spotify.com/album/1W3rJ4GGmcx2649VTgrYMz) | 2:31 | 2023-04-21 | 2023-04-25 |
 | [הכי קרוב אלייך](https://open.spotify.com/track/7xluxbbxxQ8ovB6xrJUlim) | [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0), [Avraham Aviv Alush](https://open.spotify.com/artist/5hoXNR3dL6TafUYqk8b1m2) | [הכי קרוב אלייך](https://open.spotify.com/album/3lw6fJkAZ7btTA2W8e9MMt) | 3:51 | 2022-02-20 | 2022-05-31 |
@@ -929,6 +929,7 @@
 | [סהרה + לבדי](https://open.spotify.com/track/6Tfl8NsXQSMRsTBjgdWtHs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סהרה + לבדי](https://open.spotify.com/album/57d2RFiCo2VlaqonKO51g7) | 3:58 | 2023-03-01 | 2023-03-03 |
 | [סהרה \- Live](https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [סהרה \(Live\)](https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk) | 4:32 | 2022-07-29 | 2024-09-25 |
 | [סולמות ונחשים](https://open.spotify.com/track/0c9Sq3RDqb8sd6N9B8yM4v) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:03 | 2024-11-11 |  |
+| [סוף סוף אני](https://open.spotify.com/track/04BEjO8G5HQM24fAvAv1cR) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סוף סוף אני](https://open.spotify.com/album/7bpBR9H0jZOBjuq54pHfdE) | 3:45 | 2024-11-19 |  |
 | [סוף של כל סיפור](https://open.spotify.com/track/52IzyboDKO3vFCWebuDd7e) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [סוף של כל סיפור](https://open.spotify.com/album/2Id1zXgJuXAXSe2xzBGJST) | 3:17 | 2022-01-20 | 2022-02-13 |
 | [סופרסטארית](https://open.spotify.com/track/2IqNTJPqS8hbB4PUSDtxTF) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:22 | 2023-02-23 | 2023-03-01 |
 | [סחרחורת](https://open.spotify.com/track/5CCxCzPB3HMh595Y1MNIm5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 4:13 | 2022-10-16 | 2023-06-13 |

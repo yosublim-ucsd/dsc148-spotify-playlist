@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-562 songs - 1 day 9 hr 35 min
+564 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [DJ Got Us Fallin' In Love](https://open.spotify.com/track/4Lbb569kg1EDj7yl6go2ld) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [DJ Got Us Fallin' In Love \(Official Music Video\)](https://open.spotify.com/album/4JJp32gMlUbnzOTKJpJP4u) | 4:06 | 2024-01-29 | 2024-01-31 |
 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 | 2024-01-29 |  |
 | [Do It Up](https://open.spotify.com/track/4LpzG2yaxpOnoOtNO7B8Zh) | [Mitchel Musso](https://open.spotify.com/artist/3IcF2f5vEkY6HPQfLlQDlw) | [Mitchel Musso](https://open.spotify.com/album/02wOeNBi2lAkaPcQOhMl5L) | 3:18 | 2024-01-29 |  |
-| [Do You Know \(What It Takes\)](https://open.spotify.com/track/0idCpkJ2pspfAILbanmERu) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:41 | 2024-01-29 |  |
+| [Do You Know \(What It Takes\)](https://open.spotify.com/track/0idCpkJ2pspfAILbanmERu) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:41 | 2024-01-29 | 2024-11-20 |
+| [Do You Know \(What It Takes\)](https://open.spotify.com/track/0Sqt1gf2esR4hU6OVxO1WN) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R) | 3:42 | 2024-11-19 |  |
 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 | 2024-01-29 |  |
 | [Don't Ask Why](https://open.spotify.com/track/0TvFXLF4vmhqkDmHMK0UPW) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [Identified](https://open.spotify.com/album/7wUps5X7zrLQdysd2DW4mT) | 3:10 | 2024-01-29 |  |
 | [Don't Go Knockin' on My Door](https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:43 | 2024-01-29 |  |
@@ -436,7 +437,8 @@
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2024-01-29 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/1KLluweT6mgGIatIcTPw10) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Shape Of My Heart \(Official HD Video\)](https://open.spotify.com/album/3y4NyRgTTjGeh7RZzcuXMH) | 3:48 | 2024-01-30 | 2024-02-01 |
 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 | 2024-01-29 |  |
-| [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2024-01-29 |  |
+| [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2024-01-29 | 2024-11-20 |
+| [Show Me Love \- Radio Version](https://open.spotify.com/track/3gKL2RRGnquktudCkkBC0X) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R) | 3:51 | 2024-11-19 |  |
 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 | 2024-02-03 |  |
 | [Show Me The Meaning Of Being Lonely](https://open.spotify.com/track/3DBhQEBq0L5Cgosz0qgYDY) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Show Me The Meaning Of Being Lonely](https://open.spotify.com/album/6AriAlgs3uxjPUiG3wmTBI) | 4:18 | 2024-01-29 | 2024-02-02 |
 | [Show Me What You Got](https://open.spotify.com/track/6xIkmrDfxXnaj0oU5o88zk) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Show Me What You Got](https://open.spotify.com/album/4Zaf2ICdCvi6genCqkoCOY) | 3:26 | 2024-01-29 |  |

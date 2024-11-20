@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: James Harden
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jayson Tatum and Donovan Mitchell
 
 755 songs - 1 day 15 hr 5 min
 

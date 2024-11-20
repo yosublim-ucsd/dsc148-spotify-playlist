@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 212720,
       "name": "Attach",
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 164248,
       "name": "Bloody Bull",
       "url": "https://open.spotify.com/track/6vi5vzALzv51H5LKFvz5wo"
@@ -1040,6 +1040,28 @@
       "duration_ms": 262268,
       "name": "Cash Flow",
       "url": "https://open.spotify.com/track/3N8QJXbV2PjxbkC1wVMNdu"
+    },
+    {
+      "album": {
+        "name": "Cash/Clash",
+        "url": "https://open.spotify.com/album/3I8g4Zl2CAC08Mn6DqW15j"
+      },
+      "artists": [
+        {
+          "name": "Bobby Singh",
+          "url": "https://open.spotify.com/artist/5JmMagrV8JJMqVgBCWNzn8"
+        },
+        {
+          "name": "Biswal Rohan",
+          "url": "https://open.spotify.com/artist/3ETKCgeBum5KI3SR9zcnbY"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216122,
+      "name": "Cash/Clash",
+      "url": "https://open.spotify.com/track/3gSfDI7AfANo5xInuGO6s4"
     },
     {
       "album": {
@@ -1285,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4xgtLuP2QVVRyG54TNlfbK"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163808,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/6szgLz2R9DuvttnAb0BiY4"
+    },
+    {
+      "album": {
         "name": "DSP",
         "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
       },
@@ -1516,7 +1556,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 272879,
       "name": "DIVINE VIOLENCE",
       "url": "https://open.spotify.com/track/0SXvbmKCpSVYaUCbeDVfyK"
@@ -4410,6 +4450,24 @@
       "duration_ms": 137400,
       "name": "Rich Life",
       "url": "https://open.spotify.com/track/2vWFL9GDgCrAvycqWvPVj2"
+    },
+    {
+      "album": {
+        "name": "Rishta",
+        "url": "https://open.spotify.com/album/1VSNr8QMD2FQpsl2NMYxuI"
+      },
+      "artists": [
+        {
+          "name": "Gopi Longia",
+          "url": "https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245061,
+      "name": "Rishta",
+      "url": "https://open.spotify.com/track/55cfAVkcEdk3UFs1m3GcDC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: IRON FAMILY(\ub2e4\ub9ac\ubbf8 \uac00\uc871)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: Brewing Love(\ucde8\ud558\ub294 \ub85c\ub9e8\uc2a4)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-Ost Center",
   "tracks": [
     {
@@ -2441,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "BREWING LOVE, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5EefRGqibq87o8RYMMQgn2"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190746,
+      "name": "Can\u2032t Stop",
+      "url": "https://open.spotify.com/track/6Tmjq4da2hLGJyuSPWKLiP"
+    },
+    {
+      "album": {
         "name": "Dolsingles4 OST BGM (Soundtrack)",
         "url": "https://open.spotify.com/album/0DrItzNqbcXrKN0jliFFEG"
       },
@@ -2621,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "Social Savvy Class 101 OST Part.5",
+        "url": "https://open.spotify.com/album/1JGlWwjZflilU8AbBiPL2b"
+      },
+      "artists": [
+        {
+          "name": "Joo Yein",
+          "url": "https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231901,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6vvIG5bhPay9ewgS9I8h8t"
+    },
+    {
+      "album": {
         "name": "Love in Contract, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7ySPnI7trS0YQkVN0B3yMk"
       },
@@ -2654,6 +2690,24 @@
       "duration_ms": 238813,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5GigASfstvSEqljLyLyrAp"
+    },
+    {
+      "album": {
+        "name": "A Virtuous Business (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/3UKQPkUYpf5xNdd7zlel79"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163040,
+      "name": "Clumsy",
+      "url": "https://open.spotify.com/track/5OpBRh3J0xOlVX2RCiqkfu"
     },
     {
       "album": {
@@ -4128,7 +4182,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 209346,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5mypJbUx1MSpH6VFBfUCXW"
@@ -4712,7 +4766,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 289541,
       "name": "Gift",
       "url": "https://open.spotify.com/track/3SLTWrFWIR2Pxnwak20oWc"
@@ -4788,7 +4842,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 237880,
       "name": "GO",
       "url": "https://open.spotify.com/track/22TOE5xxShGlXeiWN1g1MB"
@@ -6227,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "A Virtuous Business (Original Television Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/48D4NBXYOkTvgSZOpmlKZB"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "I want to know",
+      "url": "https://open.spotify.com/track/2CkgU6wjY5ymN1uZ1AjCUy"
+    },
+    {
+      "album": {
         "name": "FACE ME OST Part.1 (Soundtrack)",
         "url": "https://open.spotify.com/album/1CpGsxPcJlPTZr1sqZdHFm"
       },
@@ -6490,7 +6562,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 235898,
       "name": "I'll let you go",
       "url": "https://open.spotify.com/track/0j5AKPNTijWueLqpEec4Vi"
@@ -8913,6 +8985,28 @@
     },
     {
       "album": {
+        "name": "IRON FAMILY, Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AvRIjH6ax50gaC4GRHANv"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "KIIRI",
+          "url": "https://open.spotify.com/artist/1wMLcvjlqV86dKKDe6IhfQ"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "Love Stealer",
+      "url": "https://open.spotify.com/track/3QkpeXIN5VmuEhDvjieufR"
+    },
+    {
+      "album": {
         "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
       },
@@ -11264,7 +11358,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 201992,
       "name": "Please Don\u2032t Leave Anywhere",
       "url": "https://open.spotify.com/track/6ulDrjGfCNv1hW8rweioLk"
@@ -11704,7 +11798,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 210639,
       "name": "Repeating on you",
       "url": "https://open.spotify.com/track/1tHlFBy4IuWuJxCN7CGCTo"
@@ -13594,7 +13688,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 211386,
       "name": "Ta-Ta For Now",
       "url": "https://open.spotify.com/track/0d70AUEDBrbDSm4GV7hHqs"
@@ -14667,6 +14761,24 @@
     },
     {
       "album": {
+        "name": "BREWING LOVE, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GL6WvvtwGaEcfUJUZsNuP"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/32T567uPuCCVdJPIKPht35"
+    },
+    {
+      "album": {
         "name": "Again my life, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Jd0dqgliR2advJku4c5VA"
       },
@@ -15356,6 +15468,24 @@
       "duration_ms": 212110,
       "name": "We Disappear",
       "url": "https://open.spotify.com/track/07Jp78AgohesnVw8yG70Od"
+    },
+    {
+      "album": {
+        "name": "The Fiery Priest 2 (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/4cUiPsVFLX87U79rXqbNjL"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202271,
+      "name": "We don't stop",
+      "url": "https://open.spotify.com/track/1riEr6o3obQxrQRFmD9Sed"
     },
     {
       "album": {
@@ -16705,6 +16835,24 @@
     },
     {
       "album": {
+        "name": "Young & Green (Original Soundtrack from Hear Me: Our Summer, Pt. 4)",
+        "url": "https://open.spotify.com/album/1zbnm06NyzbJHB9S4X9g56"
+      },
+      "artists": [
+        {
+          "name": "Moong myang",
+          "url": "https://open.spotify.com/artist/0wG6Zaj9hGxocaJ8v0osmZ"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Young & Green",
+      "url": "https://open.spotify.com/track/6ndzNtHNzgSRkbrIOfeYSl"
+    },
+    {
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 4",
         "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
       },
@@ -16788,7 +16936,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 164706,
       "name": "Your sense",
       "url": "https://open.spotify.com/track/3x8SXnXqw1neynfw4XQ0Oj"

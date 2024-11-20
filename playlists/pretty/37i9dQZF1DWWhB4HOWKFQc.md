@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Elliot James Reay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,689 likes - 98 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,346,026 likes - 98 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

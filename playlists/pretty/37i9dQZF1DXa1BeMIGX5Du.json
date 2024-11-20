@@ -1,29 +1,13 @@
 {
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
-  "num_followers": 572694,
+  "num_followers": 572774,
   "original_name": "Coffee + Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zzv/MAAAAAAk7sugUrsXDPKtVi624CFk",
+  "snapshot_id": "Zz0QbgAAAABWRWngOEkC9hb4AfrCDNLZ",
   "tracks": [
-    {
-      "added_at": "2024-11-19 03:00:00",
-      "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7"
-      },
-      "artists": [
-        {
-          "name": "Juanita Stein",
-          "url": "https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN"
-    },
     {
       "added_at": "2024-11-19 03:00:00",
       "album": {
@@ -195,6 +179,22 @@
       "duration_ms": 176517,
       "name": "Get Through",
       "url": "https://open.spotify.com/track/1Rl4NwdkaQ8nd6vEJftDDw"
+    },
+    {
+      "added_at": "2024-11-19 03:00:00",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7"
+      },
+      "artists": [
+        {
+          "name": "Juanita Stein",
+          "url": "https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN"
     },
     {
       "added_at": "2024-11-19 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ATEEZ",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: MEOVV",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -8953,6 +8953,24 @@
     },
     {
       "album": {
+        "name": "HIGH FIVE",
+        "url": "https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "HIGH FIVE",
+      "url": "https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW"
+    },
+    {
+      "album": {
         "name": "Visionary Vision <Performante>",
         "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
       },
@@ -13348,7 +13366,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 174893,
       "name": "NIGHT",
       "url": "https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ"
@@ -13466,7 +13484,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167219,
-      "name": "No Doubt - Japanese Ver.",
+      "name": "No Doubt - Japanese Ver. / Digital Only",
       "url": "https://open.spotify.com/track/5l5xxFoUI1IFLZDQBwhKrQ"
     },
     {
@@ -15444,7 +15462,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 237499,
       "name": "Rains in Heaven",
       "url": "https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo"
@@ -23122,6 +23140,24 @@
       "duration_ms": 194626,
       "name": "Zip Zip Zip",
       "url": "https://open.spotify.com/track/1WxZnMz2lcFskuyx6A7rYi"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,465 likes - 35 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,471 likes - 35 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 28 | [Happy People](https://open.spotify.com/track/4PqgPfXmv76B0CQN8e7ka8) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Happy People](https://open.spotify.com/album/7v6ECYtA4YDhPxZDwG1kEf) | 2:34 |
 | 29 | [Fired Up \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Fired Up \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/4CygDgkQ7CQ62hcjc9JohI) | 2:22 |
 | 30 | [Ibiza \- Club Mix](https://open.spotify.com/track/1oNrUTN3NwXiC5e9rAweFT) | [El Loco](https://open.spotify.com/artist/02rNi7cccEz2L5TDjeH8gC) | [The Biggest Trance Classics of All Time](https://open.spotify.com/album/3ZdTSzGX1fVekQ84NWi19w) | 6:39 |
-| 31 | [Transalte Rhythms](https://open.spotify.com/track/5eN5rQybvCCTuvnGe2srfb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Translate Rhythms](https://open.spotify.com/album/5tPT12xxMJP9nKXfcKNRJC) | 4:52 |
+| 31 | [Translate Rhythms](https://open.spotify.com/track/5eN5rQybvCCTuvnGe2srfb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Translate Rhythms](https://open.spotify.com/album/5tPT12xxMJP9nKXfcKNRJC) | 4:52 |
 | 32 | [Unicord](https://open.spotify.com/track/5oZnG8c2XRW4pJyS3EfH8Q) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Quantum Shake](https://open.spotify.com/album/3sGNLUxNtK9T9WPHWhWDcO) | 5:42 |
 | 33 | [Twerq It \(feat\. NEZ\)](https://open.spotify.com/track/4Jb1V8yeecjoGlPDq8Fubv) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Hilit Kolet](https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Twerq It \(feat\. NEZ\)](https://open.spotify.com/album/4hGg0BSeQwQQYopTAW2lBw) | 2:21 |
 | 34 | [Awa Ni \- Ariwo Mix](https://open.spotify.com/track/0Iw62l5XpuoYXSWXpwsvyQ) | [The West Tribe](https://open.spotify.com/artist/6A77ALmhz5aXqo2c5H4aD0) | [Awa Ni](https://open.spotify.com/album/3Z3RNJQevVsHxNhmL2LtIM) | 7:23 |

@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-171 songs - 11 hr 12 min
+172 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [De Visée / Transcr\. Garcia: Pièces de théorbe et de luth, Suite en la mineur: IV\. Sarabande](https://open.spotify.com/track/5SFdpYdc4uDqkQqW7UzSqB) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t) | [Aranjuez](https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e) | 2:14 | 2021-11-15 | 2023-03-18 |
 | [December 32nd \- Piano Solo Version](https://open.spotify.com/track/4OuqXdLeZpQJYlruSsSOHb) | [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [December 32nd](https://open.spotify.com/album/7uxO2W10ECHsn6xUW5CFxy) | 4:38 | 2024-03-15 |  |
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2021-11-15 |  |
+| [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 | 2024-11-19 |  |
 | [El cant dels ocells \(Song of the Birds\) \(version for cello and orchestra\)](https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Deutsche Staatsphilharmonie Rheinland\-Pfalz](https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Elegy](https://open.spotify.com/album/6ui6clzZVh0hYGcklqLBdy) | 3:49 | 2021-11-15 |  |
 | [Elgar: Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/track/3eLTSI4vKo5mUF12oVQnlH) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Elgar: Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/album/5GRQgouohxuDxhd6ujam3d) | 4:58 | 2024-09-13 |  |
 | [En nacelle](https://open.spotify.com/track/0OG8MAiXcyIZd4Ol92zmk7) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/05lkyoohP6mkaYWtQRLfq1) | 2:45 | 2021-11-15 |  |

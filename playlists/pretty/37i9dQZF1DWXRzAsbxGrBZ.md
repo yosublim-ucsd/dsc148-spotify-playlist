@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,743 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,810 likes - 50 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 37 | [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 |
 | 38 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
 | 39 | [Story](https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2) | [The AquaBlendz](https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA) | [Timeless Tales Ep](https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug) | 6:38 |
-| 40 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
+| 40 | [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 |
 | 41 | [Little Me \- Kaidi Tatham Remix](https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Little Me \(Kaidi Tatham Remix\)](https://open.spotify.com/album/489jv3BJzxkag2dR1O1Q3U) | 5:32 |
-| 42 | [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 |
+| 42 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 | 43 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 |
 | 44 | [Red Lips Swaying Hips](https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m) | [M.Patrick](https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv) | [Red Lips Swaying Hips](https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp) | 7:11 |
 | 45 | [Middle of Dezemba](https://open.spotify.com/track/0AGJGvE5EIpEdStPqSrg2F) | [Lebo Lukewarm](https://open.spotify.com/artist/3b55NPzRM7Zz0hqmt9dpaB) | [Middle of Dezemba](https://open.spotify.com/album/6UIa4mWQEvnjKrykESROn4) | 7:19 |
-| 46 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
-| 47 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 |
+| 46 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 |
+| 47 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
 | 48 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
 | 49 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 |
 | 50 | [The Gameplan](https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ) | [Fynn](https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB) | [The Gameplan](https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH) | 7:41 |

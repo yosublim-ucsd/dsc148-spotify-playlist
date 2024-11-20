@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover: AL SHAMI.",
-  "num_followers": 188476,
+  "num_followers": 188554,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
+        "name": "Wassellik Khabar",
+        "url": "https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 236697,
+      "name": "Wassellik Khabar",
+      "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
         "name": "Lama Tkooni",
         "url": "https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 224657,
       "name": "Kifak Enta",
       "url": "https://open.spotify.com/track/61k5XrVEJdOD5vCXcjBKF7"
-    },
-    {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Wassellik Khabar",
-        "url": "https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 236697,
-      "name": "Wassellik Khabar",
-      "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
     },
     {
       "added_at": "2024-10-31 22:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "Mabtekbareesh",
-        "url": "https://open.spotify.com/album/0VV8qhOsOeB5R20tiW1tmj"
+        "name": "Ma Bzon",
+        "url": "https://open.spotify.com/album/3tPtKMySR5CybTn4faIcGM"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Mabtekbareesh",
-      "url": "https://open.spotify.com/track/0Dh2iqqzTe807aO4yV2A9l"
+      "duration_ms": 251769,
+      "name": "Ma Bzon",
+      "url": "https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags"
     }
   ],
   "unique_name": "Arabic Love Songs",

@@ -6802,7 +6802,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 187866,
       "name": "life cycle",
       "url": "https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O"
@@ -7296,6 +7296,24 @@
       "duration_ms": 172250,
       "name": "Midnight Magination",
       "url": "https://open.spotify.com/track/2lf1vekiuf93ynIxhqkc2X"
+    },
+    {
+      "album": {
+        "name": "Midnight Purple",
+        "url": "https://open.spotify.com/album/16iueiEUbJp4l4Dg2DE1fT"
+      },
+      "artists": [
+        {
+          "name": "Jamie McNeal",
+          "url": "https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157170,
+      "name": "Midnight Purple",
+      "url": "https://open.spotify.com/track/4kUh07bviz2gMe8oYLeQIo"
     },
     {
       "album": {
@@ -9819,6 +9837,24 @@
     },
     {
       "album": {
+        "name": "Returning",
+        "url": "https://open.spotify.com/album/3ZDiKE0TTcZNIumy0bNli9"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149884,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/3PdM1E8bqgfBPjd57XiOCL"
+    },
+    {
+      "album": {
         "name": "Reverberations",
         "url": "https://open.spotify.com/album/3pYAlrdjJvTNxXKMMGg5K5"
       },
@@ -10082,7 +10118,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 197561,
       "name": "Self Restore",
       "url": "https://open.spotify.com/track/6cjyZPz3EBwCIprOttjj1W"
@@ -12768,6 +12804,24 @@
       "duration_ms": 212500,
       "name": "Vanavond",
       "url": "https://open.spotify.com/track/7oer6yNo6fI6Ln1fQnEx2O"
+    },
+    {
+      "album": {
+        "name": "Vanish",
+        "url": "https://open.spotify.com/album/5SJ5a1YTXU7EPBeeHm8fe3"
+      },
+      "artists": [
+        {
+          "name": "Kenton",
+          "url": "https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192458,
+      "name": "Vanish",
+      "url": "https://open.spotify.com/track/1FsOomRPgYGxVuKcJf0RKt"
     },
     {
       "album": {

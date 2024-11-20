@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Coolidge",
+        "url": "https://open.spotify.com/album/0kPJUFSeRLG1eVr1mdtHtl"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136878,
+      "name": "Coolidge",
+      "url": "https://open.spotify.com/track/7GOh8ao0Eiagy8av0dj8AF"
+    },
+    {
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd"
       },

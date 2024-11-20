@@ -155,6 +155,26 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
+        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        }
+      ],
+      "duration_ms": 268364,
+      "name": "S\u00f3 Quem Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
-        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        }
-      ],
-      "duration_ms": 268364,
-      "name": "S\u00f3 Quem Ama - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
-        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
+        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
+        "name": "Mercen\u00e1rios do Amor",
+        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
+      },
+      "artists": [
+        {
+          "name": "Doce Delix",
+          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Mercen\u00e1rios do Amor",
+      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
-        "name": "Mercen\u00e1rios do Amor",
-        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
-      },
-      "artists": [
-        {
-          "name": "Doce Delix",
-          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Mercen\u00e1rios do Amor",
-      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
-        "name": "Tudo Mar\u00e9",
-        "url": "https://open.spotify.com/album/0cXPOyHcHeHGmmqnnMbSsB"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 242074,
-      "name": "Tudo Mar\u00e9",
-      "url": "https://open.spotify.com/track/578lk0KGacSMilzFXofE2L"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
         "name": "Paula Toller - Ao Vivo - Amorosa (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 204680,
       "name": "Nada Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/1mVrGsjVhqWGqLia5c0XN0"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
+        "name": "Tudo Mar\u00e9",
+        "url": "https://open.spotify.com/album/0cXPOyHcHeHGmmqnnMbSsB"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 242074,
+      "name": "Tudo Mar\u00e9",
+      "url": "https://open.spotify.com/track/578lk0KGacSMilzFXofE2L"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -675,8 +675,8 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -787,6 +787,38 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
         "name": "Na Mi\u00fada",
         "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
@@ -803,22 +835,6 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
-        "name": "Segunda-feira",
-        "url": "https://open.spotify.com/album/5hCIkJZTU1evnvnA1QWxQM"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 130436,
-      "name": "Bobeira",
-      "url": "https://open.spotify.com/track/0Wxjpl6ElAcsn3qko1SKql"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
         "name": "Trem das Onze",
         "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 219428,
       "name": "Trem Das Onze",
       "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
+        "name": "Segunda-feira",
+        "url": "https://open.spotify.com/album/5hCIkJZTU1evnvnA1QWxQM"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "duration_ms": 130436,
+      "name": "Bobeira",
+      "url": "https://open.spotify.com/track/0Wxjpl6ElAcsn3qko1SKql"
     },
     {
       "added_at": "2024-11-18 14:01:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-11-18 14:01:15",
       "album": {
-        "name": "Uma Parte",
-        "url": "https://open.spotify.com/album/3MS70IAyCzoiyWwMao5UOr"
-      },
-      "artists": [
-        {
-          "name": "Wem",
-          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Uma Parte",
-      "url": "https://open.spotify.com/track/0pE7yAk5s01YkdJqUqkozW"
-    },
-    {
-      "added_at": "2024-11-18 14:01:15",
-      "album": {
         "name": "Tem Dend\u00ea",
         "url": "https://open.spotify.com/album/0M6saYkHgZH9KT0utOPXKA"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 179953,
       "name": "Tem Dend\u00ea",
       "url": "https://open.spotify.com/track/2H7bt5zdkPrNrO4nHePXQO"
+    },
+    {
+      "added_at": "2024-11-18 14:01:15",
+      "album": {
+        "name": "Uma Parte",
+        "url": "https://open.spotify.com/album/3MS70IAyCzoiyWwMao5UOr"
+      },
+      "artists": [
+        {
+          "name": "Wem",
+          "url": "https://open.spotify.com/artist/03U2zyL8CArxG4xX5mS2Fd"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Uma Parte",
+      "url": "https://open.spotify.com/track/0pE7yAk5s01YkdJqUqkozW"
     },
     {
       "added_at": "2024-11-18 14:01:15",

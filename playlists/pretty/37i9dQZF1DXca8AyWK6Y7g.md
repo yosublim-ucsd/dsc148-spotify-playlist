@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Your new favorite pop star ⭐ cover: Kenzie Cait
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,149 likes - 124 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,230 likes - 124 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

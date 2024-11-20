@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Full Force Galesburg",
+        "url": "https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Chinese House Flowers",
+      "url": "https://open.spotify.com/track/6ZsvD1T2kaT8WQQN1iLJTH"
+    },
+    {
+      "album": {
         "name": "RAZZMATAZZ (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri"
       },

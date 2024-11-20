@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,791 likes - 220 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,885 likes - 220 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 94 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 |
 | 95 | [These Days](https://open.spotify.com/track/71NRY0QzNjfk4slnJ5Q1lh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:43 |
 | 96 | [Sink In](https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sink In](https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe) | 2:16 |
-| 97 | [Young Lion](https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ) | [Sade Adu](https://open.spotify.com/artist/0US6Qjw05r2L04QMNTLWfg) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 4:12 |
+| 97 | [Young Lion](https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Transa: Selects](https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F) | 4:12 |
 | 98 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 |
 | 99 | [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 |
 | 100 | [Read The Room](https://open.spotify.com/track/3gbTMPxtp57FiBtymz7Tqx) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Read The Room](https://open.spotify.com/album/5WtIamotiQtKcfXHyiS4aw) | 3:38 |

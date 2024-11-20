@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-157 songs - 8 hr 8 min
+158 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:09 | 2022-09-16 | 2024-04-19 |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:46 | 2021-10-07 |  |
 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 | 2021-10-07 |  |
+| [Bella Notte](https://open.spotify.com/track/5bNvn5G0TOs1N27Z48muK1) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Bella Notte](https://open.spotify.com/album/7gZ9q64kSDitC0fBT4tXUz) | 2:45 | 2024-11-19 |  |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- Instrumental Version](https://open.spotify.com/track/3QAVDFM3uoPvuWTjAuNGuR) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 1:21 | 2021-10-07 |  |
 | [Boo's Going Home](https://open.spotify.com/track/5H2HoE7EQjHaBbRK05Ezy8) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:33 | 2021-10-07 | 2022-09-03 |
 | [Boo's Tired](https://open.spotify.com/track/51T3xqyo06pNvrXPx1WeY8) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 1:03 | 2021-10-07 | 2022-07-16 |

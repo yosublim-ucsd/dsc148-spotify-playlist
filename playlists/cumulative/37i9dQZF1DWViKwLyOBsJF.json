@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Away In A Manger (Cosy Edition)",
+        "url": "https://open.spotify.com/album/3c1GDFgOZFAOUTqm7BdrWK"
+      },
+      "artists": [
+        {
+          "name": "Emma Jackson",
+          "url": "https://open.spotify.com/artist/2c8d4XeZ3rL9RTtzd6VXpW"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155122,
+      "name": "Away In A Manger (Cosy Edition)",
+      "url": "https://open.spotify.com/track/0e2MQTdlOggOCmXEOi3jo0"
+    },
+    {
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/1s1Qgr7AKrG5ciV6uic6jh"
       },
@@ -626,6 +644,24 @@
       "duration_ms": 106920,
       "name": "Es ist ein Ros entsprungen (Arr. R. Hayward for Guitar)",
       "url": "https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG"
+    },
+    {
+      "album": {
+        "name": "Gathered By the Holly",
+        "url": "https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t"
+      },
+      "artists": [
+        {
+          "name": "Mijongya",
+          "url": "https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120575,
+      "name": "Gathered By the Holly",
+      "url": "https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj"
     },
     {
       "album": {
@@ -1203,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Mon Beau Sapin (Oh Tannenbaum)",
+        "url": "https://open.spotify.com/album/362uVXR3Gm4wZqhbSpVeVH"
+      },
+      "artists": [
+        {
+          "name": "Milad Greenland",
+          "url": "https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120681,
+      "name": "Mon Beau Sapin - Oh Tannenbaum",
+      "url": "https://open.spotify.com/track/2E15VoKkZSxvTRpjCBJVl6"
+    },
+    {
+      "album": {
         "name": "O Christmas Tree",
         "url": "https://open.spotify.com/album/2B7gq2QJbNxwQZ3Bl6Ezv4"
       },
@@ -1652,7 +1706,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 177013,
       "name": "Silent Night - Piano/Strings",
       "url": "https://open.spotify.com/track/0rUUKPi2d2riJQZzVfEoit"
@@ -1692,6 +1746,24 @@
       "duration_ms": 145080,
       "name": "Sussex Carol",
       "url": "https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi"
+    },
+    {
+      "album": {
+        "name": "Sussex Carol (Cover)",
+        "url": "https://open.spotify.com/album/1HymBa3hWKrk9Bh2tdG7is"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Young",
+          "url": "https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132319,
+      "name": "Sussex Carol - Cover",
+      "url": "https://open.spotify.com/track/0nkAOkg22GUUw7LMolGhaG"
     },
     {
       "album": {

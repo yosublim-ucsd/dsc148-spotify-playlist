@@ -4,7 +4,7 @@
 
 > 
 
-240 songs - 15 hr 27 min
+241 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Pegao](https://open.spotify.com/track/3ofd1gmyPfysQWrgSDP7BW) | [Andre Salmon](https://open.spotify.com/artist/0rbp6yLBKp9HFyF3TRy157), [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31), [Jorge Andrade](https://open.spotify.com/artist/1Z9mrmdgnKrSxsXipVIRnl) | [Pegao EP](https://open.spotify.com/album/57vgNE0zN8oGPJXVjMAGRp) | 6:00 | 2022-12-12 |  |
 | [Perfect \- Edit](https://open.spotify.com/track/6Q27pKlVnjU19BAwa3WChc) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Perfect](https://open.spotify.com/album/0WkxGMhPKn85CnnFQpm0QI) | 2:45 | 2023-11-08 |  |
 | [Phoenix](https://open.spotify.com/track/2nsuUT8ey4AhPkkyM74shh) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Immunity EP](https://open.spotify.com/album/1XrBkrwPVsP8DmPfEtyjt3) | 4:21 | 2022-07-06 |  |
+| [Play House](https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv) | [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Play House EP](https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2) | 3:59 | 2024-11-19 |  |
 | [Play The Music](https://open.spotify.com/track/56cQnHXl41WmUcJ8NJRSt2) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Play The Music](https://open.spotify.com/album/0yxplzAy4QkUQcz43MrWx4) | 6:21 | 2024-05-21 |  |
 | [Players](https://open.spotify.com/track/4Saj7Jw9bFW5MSDAYmZc43) | [Igor2k](https://open.spotify.com/artist/005MVNrRylfmjhtMkQoONR) | [Players](https://open.spotify.com/album/5HvlZJMPubHxz5psaY7KpJ) | 4:08 | 2023-05-05 |  |
 | [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-16 |  |

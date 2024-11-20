@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,655 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,734 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 10 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 11 | [Elissa fel good](https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Elissa fel good](https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6) | 5:07 |
 | 12 | [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 |
-| 13 | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Studio Pachichi](https://open.spotify.com/artist/0iAHWqNr6Q6Utnpkh3Zurt) | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 |
-| 14 | [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 |
+| 13 | [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 |
+| 14 | [شراب الويدان](https://open.spotify.com/track/1otNyAT6Af7ilamYB4xdId) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/605uxuCJibXdgmzAKxdj8B) | 5:49 |
 | 15 | [Drabteh Chbab W Sghir Ya3chak Fia W Yghir](https://open.spotify.com/track/7H0si3I4LaDIMrjkHXWTWx) | [Kimo Wahrani](https://open.spotify.com/artist/1WlwQX1JVVz308Juhg8q51) | [Drabteh Chbab W Sghir Ya3chak Fia W Yghir](https://open.spotify.com/album/3yFZXVH5rdPOEoeaixAoeB) | 4:07 |
 | 16 | [Thatmet 3lina](https://open.spotify.com/track/2UhFmJuIumJYUebHMTrVMq) | [Cheb Djamil](https://open.spotify.com/artist/5JEwpuYUmupW0K3KctbGAm) | [Thatmet 3lina](https://open.spotify.com/album/2gqGTi8V7vHt3FhhYdXfHG) | 5:06 |
 | 17 | [Tayha Love](https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Tayha Love](https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 |
 | 60 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 |
 
-Snapshot ID: `ZynLCQAAAAD82NaAtW4y9ir304I9OmNx`
+Snapshot ID: `ZzxXJwAAAAAHyl9JnZ0joTU1nF58/Sgv`

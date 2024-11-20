@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 482445,
+  "num_followers": 482518,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAADNSc+1Psa7nqN3jCt8iHnI",
+  "snapshot_id": "ZzqDgAAAAAA04X6Kmj1BpnegjQLQVZk4",
   "tracks": [
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a las Grandes",
-        "url": "https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ"
+        "name": "El Patr\u00f3n (La Victoria)",
+        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
       },
       "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Por un Amor Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7"
+      "duration_ms": 248000,
+      "name": "El Amor (feat. Jenni Rivera)",
+      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
     }
   ],
   "unique_name": "This Is Jenni Rivera",

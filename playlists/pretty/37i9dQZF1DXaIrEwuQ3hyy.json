@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051990,
+  "num_followers": 1051991,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,18 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -315,18 +311,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Slowdown (girl what's up)",
         "url": "https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 123000,
       "name": "Slowdown (girl what's up)",
       "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "i don't mind floating",
         "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
       },
@@ -1099,6 +1083,38 @@
       "duration_ms": 174240,
       "name": "september lightning",
       "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213312,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Airplanes",
-        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
-        }
-      ],
-      "duration_ms": 157232,
-      "name": "Airplanes",
-      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1287,18 +1287,34 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h"
+        "name": "wo bin ich",
+        "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
         }
       ],
-      "duration_ms": 213312,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe"
+      "duration_ms": 123297,
+      "name": "wo bin ich",
+      "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Airplanes",
+        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "wo bin ich",
-        "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        }
-      ],
-      "duration_ms": 123297,
-      "name": "wo bin ich",
-      "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
       },
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Damn the Wild Air, Pt. 01",
-        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+        "name": "L'\u00c9t\u00e9 en Hiver",
+        "url": "https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY"
       },
       "artists": [
         {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+          "name": "Whisper",
+          "url": "https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f"
+        },
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+      "duration_ms": 152373,
+      "name": "L'\u00c9t\u00e9 en Hiver",
+      "url": "https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1379,6 +1383,22 @@
       "duration_ms": 160200,
       "name": "Blau",
       "url": "https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1463,26 +1483,6 @@
       "duration_ms": 153491,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "L'\u00c9t\u00e9 en Hiver",
-        "url": "https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY"
-      },
-      "artists": [
-        {
-          "name": "Whisper",
-          "url": "https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f"
-        },
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 152373,
-      "name": "L'\u00c9t\u00e9 en Hiver",
-      "url": "https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2024-11-14 23:00:00",

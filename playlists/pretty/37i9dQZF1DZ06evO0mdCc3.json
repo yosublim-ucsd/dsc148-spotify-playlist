@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 13368,
+  "num_followers": 13383,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAAD0pMtojEO7tHrJhF15GzNf",
+  "snapshot_id": "ZzqDgAAAAADnqpQjhP44rTYDXuW4snl7",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Salute to the Thin White Duke - the Songs of David Bowie",
-        "url": "https://open.spotify.com/album/4CAbznuR6XcswZgJj0Dlj3"
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 335546,
-      "name": "Space Oddity",
-      "url": "https://open.spotify.com/track/3b8GAeat6ar5nwroyO66X2"
+      "duration_ms": 194027,
+      "name": "Will To Live",
+      "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+        "name": "A Salute to the Thin White Duke - the Songs of David Bowie",
+        "url": "https://open.spotify.com/album/4CAbznuR6XcswZgJj0Dlj3"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 194027,
-      "name": "Will To Live",
-      "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
+      "duration_ms": 335546,
+      "name": "Space Oddity",
+      "url": "https://open.spotify.com/track/3b8GAeat6ar5nwroyO66X2"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 132032,
-      "name": "Flower Of Flesh And Blood",
-      "url": "https://open.spotify.com/track/4DWQMTH3YKuEp4lTtU4jaE"
+      "duration_ms": 176042,
+      "name": "Around Your Heart",
+      "url": "https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 176042,
-      "name": "Around Your Heart",
-      "url": "https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7"
+      "duration_ms": 132032,
+      "name": "Flower Of Flesh And Blood",
+      "url": "https://open.spotify.com/track/4DWQMTH3YKuEp4lTtU4jaE"
     }
   ],
   "unique_name": "This Is Kittie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Kygo & Sandro Cavazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,093 likes - 82 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,202 likes - 82 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

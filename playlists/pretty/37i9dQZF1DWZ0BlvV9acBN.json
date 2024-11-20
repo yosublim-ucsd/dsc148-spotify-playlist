@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Resgate",
-  "num_followers": 141074,
+  "num_followers": 141091,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
+        "name": "Me Ensina a Seguir",
+        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9m do Mar",
+          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Me Ensina a Seguir",
+      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
         "name": "Caminho Sem Volta",
         "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
-        "name": "Me Ensina a Seguir",
-        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
-      },
-      "artists": [
-        {
-          "name": "Al\u00e9m do Mar",
-          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Me Ensina a Seguir",
-      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Celebre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 249216,
-      "name": "Celebre - Ao Vivo",
-      "url": "https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0"
-    },
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
         "name": "KINTSUGI (DELUXE)",
         "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
       },
@@ -927,8 +911,24 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Grito de Katsbarnea",
-        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
+        "name": "Celebre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 249216,
+      "name": "Celebre - Ao Vivo",
+      "url": "https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
+        "name": "No Ritmo da Vida, Vol. 2",
+        "url": "https://open.spotify.com/album/5npqpfuqnZuPm3GuMbeXyq"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
         }
       ],
-      "duration_ms": 208695,
-      "name": "Grito de Katsbarnea",
-      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
+      "duration_ms": 405615,
+      "name": "Apocalipse",
+      "url": "https://open.spotify.com/track/38kTsofFJ5HWEbYRvysdJw"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "No Ritmo da Vida, Vol. 2",
-        "url": "https://open.spotify.com/album/5npqpfuqnZuPm3GuMbeXyq"
+        "name": "Grito de Katsbarnea",
+        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
       },
       "artists": [
         {
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
         }
       ],
-      "duration_ms": 405615,
-      "name": "Apocalipse",
-      "url": "https://open.spotify.com/track/38kTsofFJ5HWEbYRvysdJw"
+      "duration_ms": 208695,
+      "name": "Grito de Katsbarnea",
+      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
     },
     {
       "added_at": "2024-11-15 03:01:00",

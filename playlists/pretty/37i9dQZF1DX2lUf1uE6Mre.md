@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,781 likes - 80 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,822 likes - 80 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 5 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 |
 | 6 | [Alors \(feat\. CAPO\)](https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [KRISTALL](https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g) | 2:44 |
 | 7 | [Baile \(feat\. Amo, Haaland936 & Kauta\)](https://open.spotify.com/track/6p5snXqHBtG6rjO7bwiGZT) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Baile \(feat\. Amo, Haaland936 & Kauta\)](https://open.spotify.com/album/4aEpO1voUnPH8zHZlovtpc) | 2:02 |
-| 8 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 |
+| 8 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Chekaa](https://open.spotify.com/artist/1FEmiTv5KsgccqJVpC1bvR) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 |
 | 9 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 |
 | 10 | [Van Cleef](https://open.spotify.com/track/68HZdKRvIVj3ZNNCvsdbAr) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Van Cleef](https://open.spotify.com/album/7hrN00W68flfaGYwqwRLmI) | 2:02 |
 | 11 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |

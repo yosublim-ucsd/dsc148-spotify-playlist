@@ -4,7 +4,7 @@
 
 > De nieuwste Hollandse hits\. Cover: Marco Schuitmaker
 
-170 songs - 8 hr 16 min
+171 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Nooit Te Laat](https://open.spotify.com/track/2HmYuOGflF4t87iN1MALaC) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Nooit Te Laat](https://open.spotify.com/album/44WlIS1N7dBBIfKtT8skol) | 2:25 | 2024-07-25 |  |
 | [O Ya Lélé](https://open.spotify.com/track/02PkufbhBgxhNO5Su1Z7Qu) | [Jovano](https://open.spotify.com/artist/0Bfd9G3e2gGKQHqQ5FBkQT) | [Oya Lélé](https://open.spotify.com/album/5NSb8B6nSK9C6LbXFVF29G) | 2:41 | 2024-06-20 | 2024-10-04 |
 | [Oh Ja Ja Ja \(Zon In Mijn Hart\)](https://open.spotify.com/track/06CuCa8iOFYqcENCrRGRKG) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Oh Ja Ja Ja \(Zon In Mijn Hart\)](https://open.spotify.com/album/1P7IqW4XgFZMFRML1aDvai) | 2:44 | 2024-06-13 | 2024-08-30 |
-| [Oh Wat Ben Je Mooi](https://open.spotify.com/track/24KzyCCMtR33nQzJFwSa3K) | [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Oh Wat Ben Je Mooi](https://open.spotify.com/album/0r8cS5aNOCuNIG7q0FGfWU) | 2:43 | 2024-07-11 |  |
+| [Oh Wat Ben Je Mooi](https://open.spotify.com/track/24KzyCCMtR33nQzJFwSa3K) | [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Oh Wat Ben Je Mooi](https://open.spotify.com/album/0r8cS5aNOCuNIG7q0FGfWU) | 2:43 | 2024-07-11 | 2024-11-20 |
 | [Oh Wat Een Leven](https://open.spotify.com/track/3gdUWJ3TfuxtsJJ3DOYa6T) | [Chicco](https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb) | [Oh Wat Een Leven](https://open.spotify.com/album/09DI306j3DL9rIOZqaoDpu) | 2:31 | 2024-07-18 | 2024-10-04 |
 | [Omlaag](https://open.spotify.com/track/5P2eKhzmRDE9NKLG6Nx6od) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Omlaag](https://open.spotify.com/album/7m6wSatLYjCrxJRLJM2rrU) | 2:16 | 2024-06-13 | 2024-11-05 |
 | [Op De Bank](https://open.spotify.com/track/7HjkU3iRgdFiwypuYsOx0N) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Op De Bank](https://open.spotify.com/album/7m97chglD7rVHaPHYwp4sg) | 2:49 | 2024-07-25 |  |
@@ -130,6 +130,7 @@
 | [Paradijs](https://open.spotify.com/track/4gpac5Jmu5u9QNWwt5i7UX) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Paradijs](https://open.spotify.com/album/0kee02X9PL2hkCo50lcXh7) | 2:39 | 2024-06-13 | 2024-09-20 |
 | [Polonaise](https://open.spotify.com/track/21UV7LsN7h8yZ2P1x04LSz) | [Marco de Hollander](https://open.spotify.com/artist/4nwhnw1lPCR31e95U4Blir) | [Polonaise](https://open.spotify.com/album/5SibaxZth6lE0XlLw1lgz8) | 2:34 | 2024-10-24 |  |
 | [Que Sera Sera](https://open.spotify.com/track/40gYeIhatKeszARNvMAGvX) | [Dennis Jones](https://open.spotify.com/artist/1yX3XZMzhkLPR66FrbG5o2) | [Que Sera Sera](https://open.spotify.com/album/3s7qJcee0OnLeeZrKD3907) | 3:35 | 2024-06-20 | 2024-08-30 |
+| [Samen Niet Alleen](https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Samen Niet Alleen](https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n) | 2:50 | 2024-11-19 |  |
 | [Sangria](https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Sangria](https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H) | 2:36 | 2024-08-01 |  |
 | [Schaam Je Voor Je Tranen Niet](https://open.spotify.com/track/09cswrDjJqKzNxomjftD5S) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Schaam Je Voor Je Tranen Niet](https://open.spotify.com/album/2GGEHhgUhPQVupVNjfD1FH) | 2:57 | 2024-06-13 | 2024-08-30 |
 | [Schrijf me nooit geen mooie brieven meer](https://open.spotify.com/track/474JpNSf3P7fdqD1jGAOJ1) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Schrijf me nooit geen mooie brieven meer](https://open.spotify.com/album/40Gx37215lnWIcXg5PWqwd) | 3:05 | 2024-06-13 | 2024-08-30 |

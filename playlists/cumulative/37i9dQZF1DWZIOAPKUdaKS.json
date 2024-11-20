@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Angelic Motif",
+        "url": "https://open.spotify.com/album/7rYSlF6s7urHbRDYLSPDRt"
+      },
+      "artists": [
+        {
+          "name": "Hidden Nat\u00far",
+          "url": "https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234836,
+      "name": "Angelic Motif",
+      "url": "https://open.spotify.com/track/1yEiltsS4sx4viAMXnwvQI"
+    },
+    {
+      "album": {
         "name": "Anyone Who Has a Heart",
         "url": "https://open.spotify.com/album/4KCGwoguck5YjGbbt2LbX8"
       },

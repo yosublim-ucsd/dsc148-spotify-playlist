@@ -472,6 +472,6 @@
 | [You Keep Me Hangin' On](https://open.spotify.com/track/2B65GgIvpaodTEPWLxUzLz) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [You Keep Me Hangin' On](https://open.spotify.com/album/2LQwEkWtjKtUacX1uaw0PF) | 2:42 | 2023-11-23 | 2023-12-22 |
 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 | 2024-01-25 | 2024-04-26 |
 | [You Made Me Pray](https://open.spotify.com/track/0Xbn76gXJuD8vB5ZPEGG2k) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL) | [You Made Me Pray](https://open.spotify.com/album/7dGoaSScaSFZDGjUsJdbi7) | 3:13 | 2023-12-21 | 2024-03-22 |
-| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-14 |  |
+| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-14 | 2024-11-20 |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

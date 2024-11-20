@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+    },
+    {
+      "album": {
         "name": "High Roller",
         "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
       },
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 181714,
       "name": "Robocop",
       "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"

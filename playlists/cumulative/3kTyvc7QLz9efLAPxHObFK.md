@@ -4,7 +4,7 @@
 
 > 
 
-1,836 songs - 4 day 2 hr 15 min
+1,837 songs - 4 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Cruel Place](https://open.spotify.com/track/2JxhJ7cNsLRyZSCxqhnm77) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Cruel Place](https://open.spotify.com/album/2cpzPtcXMQQdfsb3iG6Cod) | 3:38 | 2023-11-20 |  |
 | [Cruel Place \- Mixed Cut](https://open.spotify.com/track/2D9qppYBsVoCLKZLZiFDot) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Emotional Hardcore 1](https://open.spotify.com/album/0iFQ5KdFY9mE561KsaEfx4) | 3:10 | 2024-10-27 |  |
 | [Crunch \- Instrumental Version](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch \(Instrumental Version\)](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 1:38 | 2024-05-29 |  |
+| [Cry Me A River](https://open.spotify.com/track/5qFM4UxTzNtzl402nUOQh4) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Luca Houben](https://open.spotify.com/artist/0GhhvAyZxUo9RL5BxRPeve) | [Cry Me A River](https://open.spotify.com/album/5l5jAbyGdH1cnlFU1nEC3u) | 3:27 | 2024-11-19 |  |
 | [Crying](https://open.spotify.com/track/5yGWXj4E3V0Fik6zEkLkvs) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Crying](https://open.spotify.com/album/29mF3Lfm9DWqif80BYbWGF) | 4:37 | 2022-08-22 |  |
 | [Cthugha](https://open.spotify.com/track/5MNLgtuEF9mMaYvyzgW943) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Cthugha](https://open.spotify.com/album/0LIYml6yhXCgbkIVt6e7xk) | 2:35 | 2022-08-11 |  |
 | [Cupid \- Hardstyle Mix](https://open.spotify.com/track/179bBZ35CMHbuYbFXdahL5) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Shirina](https://open.spotify.com/artist/7kCdcgzkZC4E78Xgv3Re8I) | [Cupid \(Hardstyle Mix\)](https://open.spotify.com/album/6YxqKLRphopiR3IlirRPZS) | 2:07 | 2023-11-13 |  |

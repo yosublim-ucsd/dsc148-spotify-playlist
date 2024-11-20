@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Juan Campodónico.
 
-195 songs - 11 hr 15 min
+196 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Esperarte](https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Esperarte](https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT) | 3:25 | 2024-06-28 |  |
 | [Eufemismos](https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Eufemismos](https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF) | 2:45 | 2024-10-25 |  |
 | [Falso de amor](https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Falso de amor](https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc) | 3:32 | 2024-06-28 |  |
-| [Felipa y la Luna](https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj) | [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [LIVE SESSION](https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG) | 3:25 | 2024-06-28 |  |
+| [Felipa y la Luna](https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj) | [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [LIVE SESSION](https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG) | 3:25 | 2024-06-28 | 2024-11-20 |
 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 | 2024-06-28 | 2024-08-24 |
 | [Frascuelo](https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku) | [Juan Cottet](https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4) | [FRÁGIL](https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz) | 3:29 | 2024-07-12 | 2024-10-26 |
 | [Frik](https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF) | [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Frik](https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65) | 3:13 | 2024-07-22 | 2024-08-24 |
@@ -171,6 +171,7 @@
 | [Tan Solo Canción](https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7) | [Susy Shock](https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY), [La Bandada de Colibríes](https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO) | [Traviarca](https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v) | 3:53 | 2024-08-23 | 2024-11-01 |
 | [Tan solo una señal](https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv) | [Liuba María Hevia](https://open.spotify.com/artist/1UC32JGoil54GhEOHpzmrB), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2), [Ivette Cepeda](https://open.spotify.com/artist/1mkwhgPtaFZyrIpV3lWbwV) | [Tan solo una señal](https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr) | 3:38 | 2024-06-28 | 2024-08-24 |
 | [Tarde o temprano](https://open.spotify.com/track/0hcM9LkquCW5AEZb6cEbwq) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Tarde o temprano](https://open.spotify.com/album/1q1ZEjeH4JnnweEEnCBitJ) | 3:42 | 2024-06-28 | 2024-07-08 |
+| [TE DE TILO](https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm) | [Julián Tor](https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5) | [VIEJO LOCO](https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x) | 2:54 | 2024-11-08 |  |
 | [Te Vi](https://open.spotify.com/track/3ptv1CEMQXKYe5oJqU9QfP) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Te Vi](https://open.spotify.com/album/5TWzzBAsdeixfrixZlmqnh) | 3:41 | 2024-07-05 | 2024-08-24 |
 | [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 | 2024-06-28 |  |
 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 | 2024-06-28 | 2024-08-17 |

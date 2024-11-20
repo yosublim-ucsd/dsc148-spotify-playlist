@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,521 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,532 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 2 | [Coltellino \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Coltellino \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 |
 | 3 | [PAQUETA](https://open.spotify.com/track/5kvA2FZtSuUSZFMhezTJa3) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [PAQUETA](https://open.spotify.com/album/0qw2LFdyOFWvWUc2GGBBNS) | 2:29 |
 | 4 | [Para](https://open.spotify.com/track/4rgPykSwmD35O06A8Jtxs3) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [Para](https://open.spotify.com/album/0DqRekc160wUWZA1xxVYgF) | 3:06 |
-| 5 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 |
-| 6 | [Only You](https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Only You](https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT) | 3:01 |
-| 7 | [HANA JIT](https://open.spotify.com/track/2sFe3zyVFYZk7BYXzh3F1w) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [HANA JIT](https://open.spotify.com/album/5l2Ssnn4nYXRP0uXT2zzCS) | 2:44 |
-| 8 | [Malika](https://open.spotify.com/track/3cGjVtBhrY1ctk9I9mB9ol) | [Lil Smile](https://open.spotify.com/artist/2enPDzW5IFHVEcfsqEe38N) | [Malika](https://open.spotify.com/album/3EosaKQMcUDGUzZCg2NAib) | 3:42 |
-| 9 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
-| 10 | [Koutchi](https://open.spotify.com/track/2XBRLKDrkMfOo8e7jCyM3D) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Koutchi](https://open.spotify.com/album/5rB6vAUt14KimlyANCJZNg) | 2:42 |
-| 11 | [Jamais](https://open.spotify.com/track/0V5TEgFn7sgm8JmByj6gC1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Jamais](https://open.spotify.com/album/2fOTv4GLRJeNNAC0jW7PUm) | 3:10 |
-| 12 | [Danse \(feat\. Noizy\)](https://open.spotify.com/track/5bAqF7SDFUy0u4SbSRwy1i) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Danse \(feat\. Noizy\)](https://open.spotify.com/album/1KUsgiwK1KpWRPuvVJi85R) | 3:26 |
+| 5 | [Ti RIRI](https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac) | [Hustle](https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N) | [Ti RIRI](https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od) | 2:23 |
+| 6 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 |
+| 7 | [Only You](https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Only You](https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT) | 3:01 |
+| 8 | [HANA JIT](https://open.spotify.com/track/2sFe3zyVFYZk7BYXzh3F1w) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [HANA JIT](https://open.spotify.com/album/5l2Ssnn4nYXRP0uXT2zzCS) | 2:44 |
+| 9 | [Malika](https://open.spotify.com/track/3cGjVtBhrY1ctk9I9mB9ol) | [Lil Smile](https://open.spotify.com/artist/2enPDzW5IFHVEcfsqEe38N) | [Malika](https://open.spotify.com/album/3EosaKQMcUDGUzZCg2NAib) | 3:42 |
+| 10 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
+| 11 | [Koutchi](https://open.spotify.com/track/2XBRLKDrkMfOo8e7jCyM3D) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Koutchi](https://open.spotify.com/album/5rB6vAUt14KimlyANCJZNg) | 2:42 |
+| 12 | [Jamais](https://open.spotify.com/track/0V5TEgFn7sgm8JmByj6gC1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Jamais](https://open.spotify.com/album/2fOTv4GLRJeNNAC0jW7PUm) | 3:10 |
 | 13 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
 | 14 | [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 |
 | 15 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 |
 | 50 | [Mouka](https://open.spotify.com/track/2KVSkX4aTymza4VMoOkz9K) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Mâle\-Chanceux](https://open.spotify.com/album/2W3tkAvXR3UVVYrzkHh9t9) | 3:12 |
 
-Snapshot ID: `ZzJHyAAAAAD9mcdxi7ZVskTJ9OPuOeyS`
+Snapshot ID: `ZzxdIAAAAABvMO53qk9/6Cy9egDCXT9O`

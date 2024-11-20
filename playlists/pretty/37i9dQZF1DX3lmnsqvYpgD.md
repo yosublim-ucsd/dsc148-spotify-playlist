@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,201 likes - 94 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,202 likes - 94 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 11 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
 | 12 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 |
 | 13 | [詩歌舞街](https://open.spotify.com/track/45rZ0CtRR470rAOFiWJNeM) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:11 |
-| 14 | [《加油!小店》](https://open.spotify.com/track/58bJYZdxDN8RVN682LSD8h) | [Oscar Tao](https://open.spotify.com/artist/08UYMBN9bJDi2wdZNWEVAL) | [《加油!小店》](https://open.spotify.com/album/5YRJWDx152edM4mtev4dP0) | 3:45 |
+| 14 | [《加油！小店》](https://open.spotify.com/track/58bJYZdxDN8RVN682LSD8h) | [Oscar Tao](https://open.spotify.com/artist/08UYMBN9bJDi2wdZNWEVAL) | [《加油！小店》](https://open.spotify.com/album/5YRJWDx152edM4mtev4dP0) | 3:45 |
 | 15 | [深夜之後](https://open.spotify.com/track/4KPVvdXUECWemNy0GB40NR) | [Rosy Sea](https://open.spotify.com/artist/0YST7KLN9Qt4qxBTXQM6c2) | [深夜之後](https://open.spotify.com/album/2eWm1O3MyfAk2NB4T4gQsQ) | 3:30 |
 | 16 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 |
 | 17 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 |

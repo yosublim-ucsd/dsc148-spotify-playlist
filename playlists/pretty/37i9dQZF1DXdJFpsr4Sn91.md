@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Gracie Abrams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,738 likes - 83 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,740 likes - 83 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

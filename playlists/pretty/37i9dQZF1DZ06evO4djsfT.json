@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25625,
+  "num_followers": 25627,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAAAopOt0lECYgjykxsihQNFY",
+  "snapshot_id": "ZzqDgAAAAAD8d2iedfPPs4G/ZtxHMVun",
   "tracks": [
     {
       "added_at": null,
@@ -991,26 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Tired (feat. Bizzle & Zhalarina)",
-        "url": "https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb"
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
       "artists": [
         {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
-        {
-          "name": "Zhalarina",
-          "url": "https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC"
         }
       ],
-      "duration_ms": 208717,
-      "name": "So Tired (feat. Bizzle & Zhalarina)",
-      "url": "https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk"
+      "duration_ms": 173179,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
     }
   ],
   "unique_name": "This Is KB",

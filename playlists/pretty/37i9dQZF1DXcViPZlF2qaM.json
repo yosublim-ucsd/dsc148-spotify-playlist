@@ -1,6 +1,6 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 64672,
+  "num_followers": 64721,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -129,6 +129,70 @@
       "url": "https://open.spotify.com/track/27nl6O3qjh71mWChlBXO85"
     },
     {
+      "added_at": "2024-07-20 14:32:36",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 181592,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
+    },
+    {
+      "added_at": "2024-10-24 19:10:28",
+      "album": {
+        "name": "Los Viajes del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/39zSbWwT6md7F8G3AVeMxE"
+      },
+      "artists": [
+        {
+          "name": "Victoria Sur",
+          "url": "https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Si Se Te Olvida el Camino",
+      "url": "https://open.spotify.com/track/6HFJBX1qGAnEhd6AncrHbs"
+    },
+    {
+      "added_at": "2022-02-18 18:49:36",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2024-10-24 16:50:02",
+      "album": {
+        "name": "Para no odiarte",
+        "url": "https://open.spotify.com/album/19FZ7uTl16m3qWxFZYYs5w"
+      },
+      "artists": [
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+        }
+      ],
+      "duration_ms": 229463,
+      "name": "Para no odiarte",
+      "url": "https://open.spotify.com/track/2FvaHiYeZ7Rg4Kyu78h6gp"
+    },
+    {
       "added_at": "2024-09-01 15:09:23",
       "album": {
         "name": "Tu Te Vas",
@@ -149,70 +213,6 @@
       "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
     },
     {
-      "added_at": "2024-10-24 19:10:28",
-      "album": {
-        "name": "Los Viajes del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/39zSbWwT6md7F8G3AVeMxE"
-      },
-      "artists": [
-        {
-          "name": "Victoria Sur",
-          "url": "https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Si Se Te Olvida el Camino",
-      "url": "https://open.spotify.com/track/6HFJBX1qGAnEhd6AncrHbs"
-    },
-    {
-      "added_at": "2024-07-20 14:32:36",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 181592,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
-    },
-    {
-      "added_at": "2024-10-24 16:50:02",
-      "album": {
-        "name": "Para no odiarte",
-        "url": "https://open.spotify.com/album/19FZ7uTl16m3qWxFZYYs5w"
-      },
-      "artists": [
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
-        }
-      ],
-      "duration_ms": 229463,
-      "name": "Para no odiarte",
-      "url": "https://open.spotify.com/track/2FvaHiYeZ7Rg4Kyu78h6gp"
-    },
-    {
-      "added_at": "2022-02-18 18:49:36",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Que Gente Averigu\u00e1",
@@ -229,20 +229,20 @@
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-04-04 18:08:00",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 130493,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
+      "duration_ms": 155480,
+      "name": "DELIRIO DE GRANDEZA",
+      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
     },
     {
-      "added_at": "2022-04-04 18:08:00",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 155480,
-      "name": "DELIRIO DE GRANDEZA",
-      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
+      "duration_ms": 130493,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
-        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 219737,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Sofrito",
@@ -511,6 +495,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
+        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "duration_ms": 219737,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/7kVJhAryCRy7BieEHqy1rL"
     },
     {
+      "added_at": "2024-03-21 23:14:47",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 223427,
+      "name": "Sonido C\u00f3smico",
+      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
+    },
+    {
       "added_at": "2022-09-02 06:00:17",
       "album": {
         "name": "La Matanza",
@@ -915,22 +931,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2024-03-21 23:14:47",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 223427,
-      "name": "Sonido C\u00f3smico",
-      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
     },
     {
       "added_at": "2022-04-01 20:16:53",
@@ -1049,24 +1049,20 @@
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
-      "added_at": "2023-09-05 00:10:18",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Afrodiaspora",
-        "url": "https://open.spotify.com/album/33P899lSs20h8BEWTKskCv"
+        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 6",
+        "url": "https://open.spotify.com/album/4gT6tpDNm1j7R8h3ckJktV"
       },
       "artists": [
         {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        },
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Hugo Blanco y su Conjunto",
+          "url": "https://open.spotify.com/artist/6nLEavXaOuT9ZMtOirWlQz"
         }
       ],
-      "duration_ms": 278786,
-      "name": "Plena y Bomba (feat. Calle 13)",
-      "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
+      "duration_ms": 189813,
+      "name": "Cumbia Con Arpa",
+      "url": "https://open.spotify.com/track/1glosma3WgTE0YL7RDSCX5"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

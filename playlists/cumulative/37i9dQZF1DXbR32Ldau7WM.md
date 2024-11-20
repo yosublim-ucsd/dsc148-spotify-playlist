@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: Yuma Abe
 
-1,146 songs - 3 day 3 hr 44 min
+1,148 songs - 3 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Just Awake](https://open.spotify.com/track/1Gqpa08T7eBAvPQj9O9L2Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [All That We Have Now](https://open.spotify.com/album/5a8NyykjKg0IDUKHslgNgm) | 3:38 | 2023-06-27 | 2023-07-26 |
 | [Just Kids](https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Just Kids .ep](https://open.spotify.com/album/7r4IHmJNgqsvXGwJyNQsMY) | 2:57 | 2022-07-12 | 2022-08-04 |
 | [KABUKI](https://open.spotify.com/track/1kwYacRt7TdEyoWWIRdpbK) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [KABUKI](https://open.spotify.com/album/3ftXHTshutmnvZa20VSAjh) | 3:25 | 2022-06-14 | 2022-06-20 |
-| [Kafka/](https://open.spotify.com/track/42ktMHALzaeeIogLLsS5nk) | [Verde/](https://open.spotify.com/artist/1R6HYsztRnvV6vVcU0AzrG) | [V/](https://open.spotify.com/album/33wjUTgJuKB3olPgXbwA4e) | 4:19 | 2024-11-05 |  |
+| [Kafka/](https://open.spotify.com/track/42ktMHALzaeeIogLLsS5nk) | [Verde/](https://open.spotify.com/artist/1R6HYsztRnvV6vVcU0AzrG) | [V/](https://open.spotify.com/album/33wjUTgJuKB3olPgXbwA4e) | 4:19 | 2024-11-05 | 2024-11-20 |
 | [Kaiho Carnival](https://open.spotify.com/track/3zxvC1onsj0MzcFSrM241u) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Kaiho Carnival](https://open.spotify.com/album/682zTyUIrNsXSBOW6ZFSV4) | 2:53 | 2023-07-11 | 2023-08-30 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-31 | 2024-04-24 |
 | [Kamakura On The Beach](https://open.spotify.com/track/5GLiyB0UfQfDgR5vUhUMVw) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Kamakura On The Beach](https://open.spotify.com/album/0TwTRZ0RIDblGzTUePZ6iP) | 4:17 | 2022-09-29 | 2022-10-05 |
@@ -444,6 +444,7 @@
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-05 | 2022-10-06 |
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-06 | 2023-09-20 |
 | [Radio Star](https://open.spotify.com/track/403fQdcKjArXQGy9N9Ovee) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Radio Star](https://open.spotify.com/album/5sTnegCUd4nlDKucRR6tHY) | 3:48 | 2022-07-19 | 2022-07-27 |
+| [Raijin Fujin \- Resonance](https://open.spotify.com/track/3YcAM9259Tq8GAjH8qHoXc) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Raijin Fujin \- Resonance](https://open.spotify.com/album/744KF2cEgBjp27uJlzvxoP) | 4:44 | 2024-11-19 |  |
 | [Rakuenkyosokyoku](https://open.spotify.com/track/6dwIyS9wjHibWSOLXqcbTL) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Rakuenkyosokyoku](https://open.spotify.com/album/6PYYgwwLgXkgR1XECqn7aB) | 3:50 | 2022-08-09 | 2022-08-17 |
 | [Ramble In The Rainbow](https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Ramble In The Rainbow](https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq) | 4:03 | 2024-01-18 | 2024-01-24 |
 | [Re\-monolith](https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-monolith](https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa) | 3:23 | 2023-10-10 | 2023-10-27 |
@@ -654,6 +655,7 @@
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-23 | 2023-05-31 |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
 | [Wanna Wanna Do](https://open.spotify.com/track/15j2NH07boLC7GerPS3Lwq) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Wanna Wanna Do](https://open.spotify.com/album/3qJYXbayDKvI4ZN5SC3Rtz) | 2:50 | 2024-02-27 | 2024-04-04 |
+| [Wannabe](https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Wannabe](https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn) | 4:25 | 2024-11-19 |  |
 | [Waratteokure](https://open.spotify.com/track/4Yn9nYaGEjHA9R7oEU0Xyi) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 4:33 | 2023-12-05 | 2023-12-13 |
 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 | 2023-10-10 | 2023-11-01 |
 | [Warriors](https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Warriors](https://open.spotify.com/album/1VYUoVJpO8mqfNGIzw0FxY) | 3:59 | 2024-06-11 | 2024-10-09 |
@@ -715,7 +717,7 @@
 | [かえりみちのBlue](https://open.spotify.com/track/3IpNoAxy4rcgYUR3vzGvtG) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:29 | 2023-03-21 | 2023-03-29 |
 | [かえりみちのBlue](https://open.spotify.com/track/21sdmiflxMgBgo5vAHib0j) | [T字路s](https://open.spotify.com/artist/238nzReAbgGdev4POJB20t) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:04 | 2023-03-21 | 2023-03-23 |
 | [かえりみちのBlue](https://open.spotify.com/track/4dPhGdYR7HWi7WEpovGK4n) | [T字路s](https://open.spotify.com/artist/238nzReAbgGdev4POJB20t) | [かえりみちのBlue](https://open.spotify.com/album/7bFOSFWYAlKsFMSkjKn51z) | 4:04 | 2023-03-21 | 2023-03-29 |
-| [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 | 2024-11-05 |  |
+| [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 | 2024-11-05 | 2024-11-20 |
 | [この幸福に僕は名前をつけた](https://open.spotify.com/track/5F6ORYh3P8tOPHmHEpZ1Be) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [この幸福に僕は名前をつけた](https://open.spotify.com/album/4oG76mCJQlW3OVcsSFIMko) | 2:53 | 2023-08-08 | 2023-08-16 |
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-06-14 | 2022-06-22 |
 | [この道の先で](https://open.spotify.com/track/6UWhwIkN3016VwFVXXi9LQ) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [この道の先で](https://open.spotify.com/album/06YUhkvCuOV0oXIgNHNhkp) | 5:04 | 2022-05-12 | 2022-07-27 |

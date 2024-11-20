@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,539 likes - 71 songs - 4 hr 25 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,545 likes - 71 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 8 | [Don't Look At Me](https://open.spotify.com/track/3xLQIXa0TL0GzYgjO0hpAO) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy), [Aimee Nash](https://open.spotify.com/artist/34syzIYEBXRmUf9VnTTbGq) | [Don't Look At Me](https://open.spotify.com/album/5960cSFYUSpGJbZQUhgPhF) | 3:39 |
 | 9 | [Deep Cuts](https://open.spotify.com/track/3Pp7oNLlILdmCm83VZQa9J) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI) | [Satisfied Soul EP](https://open.spotify.com/album/60IcrtB8SgqNdUg5P8kvHU) | 3:07 |
 | 10 | [TRUMPETS \- Retake](https://open.spotify.com/track/67SbjSKNcskc955BnDxxsm) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY](https://open.spotify.com/album/2IABxMR9VTFgVcY9PGiLVZ) | 4:18 |
-| 11 | [Osaka](https://open.spotify.com/track/79yQPsJ7vVIgKTaeR8v2QO) | [Caixa Cubo](https://open.spotify.com/artist/21qaghmwHc92BQif0cdi8P), [Henrique Gomide](https://open.spotify.com/artist/6O3Dg3SX4RuzdJvn52Co0K), [Noa Stroeter](https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg) | [Modo Avião](https://open.spotify.com/album/2qREUFm7mJHEXF6JjXYalx) | 2:34 |
+| 11 | [Osaka](https://open.spotify.com/track/79yQPsJ7vVIgKTaeR8v2QO) | [Caixa Cubo](https://open.spotify.com/artist/21qaghmwHc92BQif0cdi8P) | [Modo Avião](https://open.spotify.com/album/2qREUFm7mJHEXF6JjXYalx) | 2:34 |
 | 12 | [Planet Blue](https://open.spotify.com/track/1QmvY5Vn4QqUd39ICVJwVj) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 2:55 |
 | 13 | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2) | 3:14 |
 | 14 | [Two Feet Tall](https://open.spotify.com/track/5I6wdjzxpYyfIclq00aC3R) | [Ciao Malz](https://open.spotify.com/artist/4mZeGtrcxa3NRwvHY8aTUT) | [Two Feet Tall](https://open.spotify.com/album/30CkwiWpR5OwAuExjw7DPI) | 3:19 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 61 | [Ghost Rider](https://open.spotify.com/track/2wBM6xvyHzJUdTEqStbPAf) | [Tempers](https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2) | [Ghost Rider](https://open.spotify.com/album/1eyLCGVIg9hCCCNhKBy6bF) | 2:41 |
 | 62 | [Drugstore Drastic](https://open.spotify.com/track/2Wj8waS9T1jcFYx97sW3pS) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [Drugstore Drastic](https://open.spotify.com/album/1ka7z6LbeS9Te92ttZeyQO) | 3:27 |
 | 63 | [Back 4 More](https://open.spotify.com/track/6v68paaVNHQQLIgrydyqpd) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo IV](https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG) | 3:01 |
-| 64 | [Angel Dust](https://open.spotify.com/track/2DEFBtfwAOmRLT3hSEzTht) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Chaos EP](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:44 |
+| 64 | [Angel Dust](https://open.spotify.com/track/2DEFBtfwAOmRLT3hSEzTht) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [CHAOS](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:44 |
 | 65 | [blunt subconscious](https://open.spotify.com/track/7huXeLEBimACiDXLgbXLEQ) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [blunt subconscious](https://open.spotify.com/album/0QUQzD90kF40XW8oTC7gm1) | 2:41 |
 | 66 | [Cigarette](https://open.spotify.com/track/4wyjbTjqLlbK5wLTx7Yauu) | [Victoria Port](https://open.spotify.com/artist/6NVqGNXhCnygFwu9xr1ZsF) | [Cigarette](https://open.spotify.com/album/71mg7vadDE8OI721GMZrBa) | 3:06 |
 | 67 | [Banger](https://open.spotify.com/track/661HNvoBmlqRw7WLmx8csM) | [virgin orchestra](https://open.spotify.com/artist/5sSdK5Wg4TGU7HTeDcHdSS) | [Banger](https://open.spotify.com/album/2KPUaqtqEgESaSMPtpIRpc) | 3:47 |

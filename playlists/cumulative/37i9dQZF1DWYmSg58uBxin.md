@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-286 songs - 13 hr 10 min
+287 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [It Won't Be Like This for Long](https://open.spotify.com/track/1CSs4RlMxSeMNYFdd0b12t) | [A\. Hunt](https://open.spotify.com/artist/7sxu41SWrNz2ndyXMXMvNi) | [It Won't Be Like This for Long](https://open.spotify.com/album/2H9ZbgUjVz6QIMgT3TC8kO) | 1:36 | 2022-07-01 | 2023-09-09 |
 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-05-27 |  |
 | [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-09-08 |  |
+| [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 | 2024-11-19 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2020-10-20\* | 2023-09-09 |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-09-08 |  |
 | [Keepsakes](https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keepsakes](https://open.spotify.com/album/0VOvPEYdsYbzHwrLabGK8E) | 2:46 | 2023-09-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 320939,
+  "num_followers": 320930,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Chase It (Mmm Da Da Da)",
+        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Chase It (Mmm Da Da Da)",
+      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Chase It (Mmm Da Da Da)",
-        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Chase It (Mmm Da Da Da)",
-      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -899,6 +899,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Set Me Free (feat. Robert Courtois)",
+        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Robert Courtois",
+          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
+        }
+      ],
+      "duration_ms": 150218,
+      "name": "Set Me Free (feat. Robert Courtois)",
+      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Why I Love You So",
         "url": "https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 151764,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Set Me Free (feat. Robert Courtois)",
-        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Robert Courtois",
-          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
-        }
-      ],
-      "duration_ms": 150218,
-      "name": "Set Me Free (feat. Robert Courtois)",
-      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1363,22 +1363,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "A Feeling",
-        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
       },
       "artists": [
         {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Lily McKenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
         }
       ],
-      "duration_ms": 158809,
-      "name": "A Feeling",
-      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
+      "duration_ms": 176185,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1403,26 +1407,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
+        "name": "A Feeling",
+        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Lily McKenzie",
-          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 176185,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
+      "duration_ms": 158809,
+      "name": "A Feeling",
+      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 187883,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "EYAH (You'll Be Alright)",
         "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
       },
@@ -1595,22 +1579,34 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Breathe You In (feat. NORTH)",
-        "url": "https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NORTH",
-          "url": "https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Breathe You In (feat. NORTH)",
-      "url": "https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh"
+      "duration_ms": 187883,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "ibiza2024",
+        "url": "https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx"
+      },
+      "artists": [
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ibiza2024",
+      "url": "https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "ibiza2024",
-        "url": "https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx"
+        "name": "Breathe You In (feat. NORTH)",
+        "url": "https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5"
       },
       "artists": [
         {
-          "name": "t e s t p r e s s",
-          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NORTH",
+          "url": "https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc"
         }
       ],
-      "duration_ms": 192000,
-      "name": "ibiza2024",
-      "url": "https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ"
+      "duration_ms": 245466,
+      "name": "Breathe You In (feat. NORTH)",
+      "url": "https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh"
     },
     {
       "added_at": "2024-09-19 23:00:00",

@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Bella Notte",
+        "url": "https://open.spotify.com/album/7gZ9q64kSDitC0fBT4tXUz"
+      },
+      "artists": [
+        {
+          "name": "Ther\u00e9se Ther\u00e9n",
+          "url": "https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Bella Notte",
+      "url": "https://open.spotify.com/track/5bNvn5G0TOs1N27Z48muK1"
+    },
+    {
+      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },

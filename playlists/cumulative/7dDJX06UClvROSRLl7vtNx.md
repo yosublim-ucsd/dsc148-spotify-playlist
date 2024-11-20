@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-637 songs - 1 day 3 hr 45 min
+638 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Love Yourself](https://open.spotify.com/track/243vLTDXGKqOG32eWZe1v5) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Love Yourself](https://open.spotify.com/album/2o8dlTkFFkl0s6Xh6UUBkS) | 2:40 | 2024-02-18 | 2024-05-06 |
 | [Love's Crashing Wave](https://open.spotify.com/track/22l0qFprt03HYPVjrcXlmg) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Love's Crashing Wave](https://open.spotify.com/album/11RrFZPLeSv8LxvPp2F27s) | 2:17 | 2024-06-21 | 2024-07-29 |
 | [Lullaby](https://open.spotify.com/track/3uZtjB28HBY9CjOm2sHg5A) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Lullaby](https://open.spotify.com/album/4kblv31AHXGMcD1hSDDaCZ) | 2:32 | 2023-10-20 | 2024-04-16 |
+| [Lullaby](https://open.spotify.com/track/2Ema8Fxxfdn5eyuvZGxk5R) | [DTT Felix](https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm), [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G), [hmny.](https://open.spotify.com/artist/2oqbohcixA0NGGIS4nuBaY) | [Lullaby](https://open.spotify.com/album/5QJJzc2wwiVeF0Htlcp9Gt) | 2:14 | 2024-11-19 |  |
 | [Lunar Eclipse](https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Miriam Cooper](https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X) | [Lunar Eclipse](https://open.spotify.com/album/03L6gLurM4itwkwJrImRdp) | 2:53 | 2024-10-04 |  |
 | [Mad World](https://open.spotify.com/track/1Rlsm9AnDtAK4g7WeXcNw5) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL) | [Mad World](https://open.spotify.com/album/6FTTNTI66J6TDulSeVwYbO) | 2:27 | 2024-07-13 | 2024-10-14 |
 | [Magical place \(feat\. IOVA\) \- Dj Dark & MD Dj Remix](https://open.spotify.com/track/6fuJ46PG4wJyOQdDPcLSk8) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD), [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Magical place \(feat\. IOVA\) \[Remixes\]](https://open.spotify.com/album/36gFYJadJDxWNwvo2zwNp7) | 3:08 | 2024-07-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 33239,
+  "num_followers": 33248,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAABba7rAfVAfYs3u0ZwNRemh",
+  "snapshot_id": "ZzqDgAAAAABSRJwonF6ECXge1PaoJ9c9",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "how dare you",
-      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 214285,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "when you love someone",
-        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 173076,
-      "name": "when you love someone",
-      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
+      "duration_ms": 212746,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+        "name": "when you love someone",
+        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
+      "duration_ms": 173076,
+      "name": "when you love someone",
+      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Hate You",
-        "url": "https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Let Me Hate You",
-      "url": "https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 220000,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Hate You",
+        "url": "https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Let Me Hate You",
+      "url": "https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6"
     },
     {
       "added_at": null,

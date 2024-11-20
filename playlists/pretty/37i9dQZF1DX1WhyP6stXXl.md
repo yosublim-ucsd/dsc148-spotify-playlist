@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,725 likes - 92 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,732 likes - 92 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 23 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
 | 24 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 |
 | 25 | [I just don't think I'll make it over you.](https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I just don't think I'll make it over you.](https://open.spotify.com/album/0WujnDrd2N0FksTXRW0yDl) | 3:43 |
-| 26 | [The Way It Was Before \(End Credits Version\) \- From the Skydance Animation Film “Spellbound”](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Skydance Animation Film “Spellbound”\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 |
+| 26 | [The Way It Was Before \(End Credits Version\) \- From the Skydance Animation Film “Spellbound”](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 |
 | 27 | [over me](https://open.spotify.com/track/5A7wfp8brBFtkLaxPg7TtO) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [over me](https://open.spotify.com/album/4f2ZmRPZX7R6wQYFIqGyWw) | 2:15 |
 | 28 | [Bouquet](https://open.spotify.com/track/2enUDT2dlL5o3NXB7f7L8E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet](https://open.spotify.com/album/50F6vOQBQF2qo1jwVTfv9J) | 3:25 |
 | 29 | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/album/212lVtNgONE9gXOtq8V6g5) | 2:53 |

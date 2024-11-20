@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde,  Sonu Nigam
 
-410 songs - 22 hr 29 min
+413 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 | 2024-02-17 |
 | [First Love](https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [First Love](https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw) | 2:17 | 2024-09-17 |  |
 | [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 | 2024-04-05 | 2024-10-15 |
+| [Flex](https://open.spotify.com/track/70lvds1D1jTdXVrfRWeSed) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Flex](https://open.spotify.com/album/5V0GEpj1Jwyzvx3MTtdhSq) | 2:39 | 2024-11-19 |  |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 | 2024-01-05 |
 | [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 | 2023-06-29 | 2024-03-02 |
 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 | 2024-07-09 |
@@ -117,7 +118,7 @@
 | [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 | 2023-12-20 |
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 | 2024-08-13 |
-| [Haala](https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh) | [Lil\-G](https://open.spotify.com/artist/3Fv07lTLwkjvYHWW4dibXQ) | [Haala](https://open.spotify.com/album/0NjBDS09YIeB5km2sEalGb) | 4:52 | 2024-06-11 |  |
+| [Haala](https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh) | [Lil\-G](https://open.spotify.com/artist/3Fv07lTLwkjvYHWW4dibXQ) | [Haala](https://open.spotify.com/album/0NjBDS09YIeB5km2sEalGb) | 4:52 | 2024-06-11 | 2024-11-20 |
 | [Haaralu](https://open.spotify.com/track/1s29dZ1OkcqBe4kzD3T0zB) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/3YBOimXmFBCUNR53TlUDPX) | 2:57 | 2023-06-29 | 2024-01-19 |
 | [Haaralu](https://open.spotify.com/track/75EX7KicIHR8oJeJsnhFOv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/45lp8EknJduEep8k5wrb6Z) | 2:57 | 2023-06-29 | 2024-01-05 |
 | [Haaride](https://open.spotify.com/track/1lpmHxVN3Px3umhAHmTdlz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Harsha Shannu](https://open.spotify.com/artist/10SnuopQQz9cFktsDaRzTw) | [Haaride](https://open.spotify.com/album/3VJHNfv2jL5ngZsmm1Jjm4) | 2:49 | 2024-02-19 | 2024-03-23 |
@@ -319,6 +320,7 @@
 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 | 2023-05-25 | 2023-06-01 |
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 | 2024-02-02 |
 | [O Priya](https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31) | [O Priya](https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK) | 5:08 | 2023-06-08 | 2023-09-01 |
+| [OAT Tintira](https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T) | [Dhaivat](https://open.spotify.com/artist/6VkfEYqTuG9pAAbwhEi9Pi) | [OAT Tintira](https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3) | 3:27 | 2024-11-19 |  |
 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 | 2023-05-16 | 2024-01-30 |
 | [Olave](https://open.spotify.com/track/58M7CKziZOVtMsXkRYH5GY) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/097cY3W3vTxc59lHJO8OCf) | 3:02 | 2023-11-20 | 2024-04-19 |
 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 | 2023-11-20 | 2024-05-14 |
@@ -336,6 +338,7 @@
 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 | 2024-05-14 |
 | [Parichitana](https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Parichitana](https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp) | 3:29 | 2024-04-12 | 2024-10-30 |
 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 | 2024-02-17 |
+| [Paycheck](https://open.spotify.com/track/3OsgYlV2mZgIdx5dka54gw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Paycheck](https://open.spotify.com/album/2xZCXw6siAqGPVc5JyJawy) | 2:55 | 2024-11-19 |  |
 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 | 2024-02-01 | 2024-10-02 |
 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 | 2024-04-26 |  |
 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 | 2024-07-08 |  |

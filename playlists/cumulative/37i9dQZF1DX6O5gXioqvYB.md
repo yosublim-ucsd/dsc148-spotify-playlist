@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: SELMI
 
-215 songs - 10 hr 33 min
+216 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Acqua e sapone \(feat\. Ugo Crepa\)](https://open.spotify.com/track/7ACKNN1Mt9nVS8Gc8lE7eY) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [CARUCCIO](https://open.spotify.com/artist/7iEdkkrillq0ZTKEg0rADQ), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS) | [Acqua e sapone \(feat\. Ugo Crepa\)](https://open.spotify.com/album/180CgBzDEcRX7qrK4SNadh) | 3:15 | 2024-10-17 | 2024-11-08 |
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-09-27 |
 | [Airbag](https://open.spotify.com/track/1MGStIoi8Lyy6tZIwiapi7) | [Bueno](https://open.spotify.com/artist/0j8bZXM94A3yeUIZ2GPRjB) | [Airbag](https://open.spotify.com/album/48SbuykbI9JB52sy1kNMLT) | 2:53 | 2024-06-27 | 2024-07-05 |
-| [ALICE+](https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [ALICE+](https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT) | 2:02 | 2024-09-19 |  |
+| [ALICE+](https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [ALICE+](https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT) | 2:02 | 2024-09-19 | 2024-11-20 |
 | [Alta Marea](https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC) | [Dorian](https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk) | [Alta Marea](https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5) | 2:13 | 2024-09-26 | 2024-11-08 |
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-07 |  |
 | [AMORE DISPERATO](https://open.spotify.com/track/2ghQwXaYq4nembNG5vhN4X) | [Fettuccine](https://open.spotify.com/artist/2ObpF6jimPBMsJuD7UHn7m) | [PUTTO](https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54) | 2:10 | 2024-06-27 | 2024-07-05 |
@@ -209,6 +209,7 @@
 | [Tè al limone](https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Tè al limone](https://open.spotify.com/album/2JxjXBj48mmkjhoRibh0VR) | 2:51 | 2024-06-27 | 2024-07-12 |
 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-07-04 | 2024-10-25 |
 | [Un Altro Giro](https://open.spotify.com/track/6Da8hRd6GzbBYtjBtSyR1f) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Un Altro Giro](https://open.spotify.com/album/7maR5YIcAUKBY3YzfYucQ9) | 2:26 | 2024-06-27 | 2024-07-05 |
+| [Un cane](https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN) | [SPINABELLA](https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr), [elia](https://open.spotify.com/artist/4AtwkLcoCPKhSVsXB8U8mJ), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [Un cane](https://open.spotify.com/album/5oSZwFm2gzzcUJNBDDQ7Vd) | 3:27 | 2024-11-14 |  |
 | [Un giorno in più](https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [Vincenzo Cairo](https://open.spotify.com/artist/7m8h6rBSH8EjDRXvb6fhjh), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj) | [Un giorno in più](https://open.spotify.com/album/5naocJae1Ge8LQNWVXt98T) | 2:18 | 2024-10-17 |  |
 | [Un Po' Mi Pento](https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Un Po' Mi Pento](https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2) | 3:10 | 2024-07-04 | 2024-09-27 |
 | [Un'ora di sole](https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Un'ora di sole](https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol) | 2:36 | 2024-10-24 |  |

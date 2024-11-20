@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,398 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,408 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 26 | [From the Bottle to the Bottom](https://open.spotify.com/track/5GhwoA5kOFV3LuszRMhxPp) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 2:57 |
 | 27 | [Closer to the Bone](https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:32 |
 | 28 | [Living Legend](https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 3:58 |
-| 29 | [The Silver Tongued Devil and I](https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 4:17 |
+| 29 | [Lost Inside of You](https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 2:54 |
 | 30 | [For The Good Times](https://open.spotify.com/track/36lqmbGFwogLWwoOzBhrMv) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:22 |
-| 31 | [Lost Inside of You](https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 2:54 |
+| 31 | [The Silver Tongued Devil and I](https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 4:17 |
 | 32 | [Good Morning John](https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:50 |
 | 33 | [Sweet Susannah](https://open.spotify.com/track/2m8tfuW4uAlZDMGB6O0hQG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 2:32 |
 | 34 | [Jody and the Kid](https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Breakdown \(A Long Way from Home\)](https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 2:42 |
 | 51 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
 
-Snapshot ID: `ZzkyAAAAAABz6YHjHv5T1xYnYRdzvFLG`
+Snapshot ID: `ZzqDgAAAAACUz2PQkW8oKT8xYtiMhkNI`

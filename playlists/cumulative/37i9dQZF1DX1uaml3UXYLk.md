@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-619 songs - 1 day 14 hr 8 min
+622 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Drifting Birds](https://open.spotify.com/track/5nOth6ffzv6CJoz1Uo2G0u) | [Marcelo Paladini](https://open.spotify.com/artist/25BgfscpzfJH0pk8VR0jkx) | [Drifting Birds](https://open.spotify.com/album/7CckFa2hnZAMN9wIuxuE4O) | 7:35 | 2021-02-12 | 2021-06-04 |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2021-08-25 |  |
 | [Drowning](https://open.spotify.com/track/5ssUr3AOt2Y1KeJ9IdNjcd) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Drowning](https://open.spotify.com/album/4oBdLuvSuBg9wdkcPwkbE9) | 3:32 | 2020-10-30 | 2021-06-23 |
+| [Ease](https://open.spotify.com/track/6CIivwfmcmCVUYDmGibkys) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Ease](https://open.spotify.com/album/007qQcEbdC0mZFJZcQEMJS) | 2:58 | 2024-11-19 |  |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-13 | 2021-01-15 |
 | [Easy Walker](https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [A Welcome Escape](https://open.spotify.com/album/6MNnXxeWGTY6Sc1u6SxgQJ) | 5:57 | 2021-06-04 | 2023-08-19 |
 | [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-16 |  |
@@ -403,8 +404,10 @@
 | [physalis](https://open.spotify.com/track/2MmIwBMgQRMlsEcOe0xgyj) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [physalis](https://open.spotify.com/album/0n0bdmxfYRptHngS5foew4) | 2:53 | 2022-06-24 | 2024-11-08 |
 | [Piano Exercise](https://open.spotify.com/track/31d09H0l1ND5SSsz97lQWU) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 4](https://open.spotify.com/album/3KqUWz6hoDUrZGMM8Zrnn3) | 3:18 | 2020-12-11 | 2021-04-15 |
 | [Pillow Thoughts](https://open.spotify.com/track/7Fj8SqZEbkJg1gITPVfsUe) | [Broey.](https://open.spotify.com/artist/6HmeISbko4bc0zsZQvIAco) | [Pillow Thoughts](https://open.spotify.com/album/2Ed6kJSrY688hYthNum0E9) | 1:24 | 2020-10-20\* | 2020-11-28 |
+| [Pineapple](https://open.spotify.com/track/4bOb5G0ERiyTJ2vD88CdBt) | [Bagarn](https://open.spotify.com/artist/7u9VmLWduhshKEs2KOlSYz) | [Pineapple](https://open.spotify.com/album/142gDp2wZW6zLvrlTnNnJ9) | 2:09 | 2024-11-19 |  |
 | [play my mix](https://open.spotify.com/track/4OlUclPAIGIgHEjOD2OpK4) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [play my mix](https://open.spotify.com/album/1AJQz8QcUjOhlwqw4QrpY6) | 2:50 | 2023-06-19 |  |
 | [playful mornings](https://open.spotify.com/track/3uv361D1ptOIZT0YfKvePd) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [playful mornings](https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z) | 2:14 | 2022-10-14 |  |
+| [Plum Soju](https://open.spotify.com/track/1Xz8iwyGaWLv3bOzjFibMg) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Plum Soju](https://open.spotify.com/album/2dJVoC6vQwJolzKYVg5QTW) | 2:46 | 2024-11-19 |  |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
 | [Plush Velvet Vibes](https://open.spotify.com/track/3WTyFCHsp6FE2XsTMw5lmq) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Plush Velvet Vibes](https://open.spotify.com/album/6KMd5EpQUdJPyCTt3blMND) | 2:42 | 2024-06-13 |  |
 | [Portal](https://open.spotify.com/track/6kHh2ZrK4ULBOVvqvOaXvF) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Portal](https://open.spotify.com/album/6b0vLoS6SFcdlS1rR0mi6T) | 3:14 | 2024-07-14 |  |

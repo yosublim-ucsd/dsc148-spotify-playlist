@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Nia Archives
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-143 songs - 8 hr 3 min
+145 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Stupid](https://open.spotify.com/track/1kyuxFtixkhsXW7lPJMO2s) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Descent \- EP](https://open.spotify.com/album/0MIZlwrMURKrCp7taVFzyC) | 3:08 | 2023-12-01 |  |
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 | 2024-11-09 |
 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 | 2023-12-01 |  |
+| [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 | 2024-11-19 |  |
 | [Take ft\. Kimbra](https://open.spotify.com/track/65GMJ7KrLhUi8ya8uO9jJe) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Take ft\. Kimbra](https://open.spotify.com/album/40vNmeAq90YxNen2h1COXQ) | 2:50 | 2023-12-01 |  |
 | [Takedown](https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Takedown](https://open.spotify.com/album/62Nx27SgklKgnjIDB1A99T) | 2:51 | 2024-03-22 | 2024-11-09 |
 | [Techno Prank](https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS) | 3:23 | 2023-12-01 |  |
@@ -148,6 +149,7 @@
 | [We Dun Care](https://open.spotify.com/track/4kVcwZlhWH2idgqLHeY6GZ) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [We Dun Care](https://open.spotify.com/album/6c0Iq2RmMMAr2ZUIERxIoe) | 3:43 | 2023-12-01 |  |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-12-01 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 |  |
+| [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-19 |  |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-16 | 2024-11-09 |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2023-12-01 |  |
 | [Yummy Gummy](https://open.spotify.com/track/6NlBcr0CvGpWvuxgLUjD9t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Yummy Gummy](https://open.spotify.com/album/4WIjbGDOI6ShqYSfcV3B0y) | 2:50 | 2024-09-20 | 2024-11-09 |

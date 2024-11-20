@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,767 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 26 | [Tahoultine](https://open.spotify.com/track/6ikkdRNriROjtjVAkqTdpL) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afelan](https://open.spotify.com/album/1CcRxrJSx8aOUHxReHHEod) | 5:31 |
 | 27 | [In Love](https://open.spotify.com/track/682PWCwK6IO21suzfmdZxP) | [Melody Fields](https://open.spotify.com/artist/0nZvmigTPvyX1LKwGHWleC) | [1901](https://open.spotify.com/album/5DqcapYyPr2cN79fsFjjlB) | 3:34 |
 | 28 | [Electricide](https://open.spotify.com/track/2JvWDwCrz2binZ6zKsNh96) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Electricide B/W Chalice](https://open.spotify.com/album/6imHs7KJU1dnSIZoifZe5P) | 3:36 |
-| 29 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 |
-| 30 | [I Feel Worse When I'm with You](https://open.spotify.com/track/0dlBkEbvXxImVNnbP9Mt3L) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Why Bother?](https://open.spotify.com/album/55StYSKLbg0tsR0AZ09qj2) | 2:41 |
+| 29 | [I Feel Worse When I'm with You](https://open.spotify.com/track/0dlBkEbvXxImVNnbP9Mt3L) | [ADULT.](https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC) | [Why Bother?](https://open.spotify.com/album/55StYSKLbg0tsR0AZ09qj2) | 2:41 |
+| 30 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 |
 
 Snapshot ID: `ZmD+4AAAAAAbiBZvadgdfzKFM+pP81Z7`

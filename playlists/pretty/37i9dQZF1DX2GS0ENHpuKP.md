@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,079 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,120 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 19 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 20 | [Vamonos](https://open.spotify.com/track/5EuXInpQgpeEBEcJ2yS97u) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Elkin & Nelson](https://open.spotify.com/album/1pK8v2GvaZlmRbwKfcdsDW) | 9:17 |
 | 21 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 |
-| 22 | [Freak Like U \- Club Mix](https://open.spotify.com/track/4Sv8UfMtBHBzR6n0yOlApc) | [Masarima](https://open.spotify.com/artist/1F8ENasYTdkuSb54ymSEjL) | [Freak Like U \(Club Mix\)](https://open.spotify.com/album/343AqAEz0Y1UncCPNpo9ZN) | 5:55 |
+| 22 | [Freak Like U \- Club Mix](https://open.spotify.com/track/4Sv8UfMtBHBzR6n0yOlApc) | [Masarima](https://open.spotify.com/artist/1F8ENasYTdkuSb54ymSEjL), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF) | [Freak Like U \(Club Mix\)](https://open.spotify.com/album/343AqAEz0Y1UncCPNpo9ZN) | 5:55 |
 | 23 | [Erotic Delight](https://open.spotify.com/track/4nPXbB4vUCX5VMICAKGlvF) | [Witch](https://open.spotify.com/artist/5sRPCgjvseLhVvE1nJYaN8) | [Kuomboka](https://open.spotify.com/album/1BbEMko1TnuTZJlsjTlQji) | 5:31 |
 | 24 | [ZANZIBAR NIGHT](https://open.spotify.com/track/6mvutDXNQ2CLYJGfszY7pt) | [Marlene](https://open.spotify.com/artist/22QUQlQHmAx7jO0wGwhTt4) | [デジャ・ブー](https://open.spotify.com/album/1OPlXySIVSeJNczpyNYxAH) | 3:40 |
 | 25 | [Sexy Pummarola](https://open.spotify.com/track/6gXj04PNcGzYS0LjNVrxNh) | [Gibo & Pummarola Band](https://open.spotify.com/artist/7fDyEm4yGOFMKnWv9GFRXA) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:31 |

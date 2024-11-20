@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh?si=KCTIZdhsQ2WXyDzypHf8ag">WESLEYFRANKLIN</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,628 likes - 350 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,697 likes - 350 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 31 | [Lick Back](https://open.spotify.com/track/4gllIu0cYA4RVO6flFiZM8) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3) | [Lick Back](https://open.spotify.com/album/2tCddfueudPLuEeer9NoVt) | 2:01 |
 | 32 | [Robbery](https://open.spotify.com/track/6Bp9SfmPrQcMWSf1LKKcdG) | [Sonta](https://open.spotify.com/artist/030FjQpP38xhjIPyWgjmiv), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Robbery](https://open.spotify.com/album/2ZafFtZov69GfGooA32fo4) | 3:30 |
 | 33 | [FUN](https://open.spotify.com/track/4TrvTjhxuPGztcLLbZcwoX) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb), [Flyy Armani](https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9), [JLLY](https://open.spotify.com/artist/6TtCAKrgTaBRw50XkvTY54) | [FUN](https://open.spotify.com/album/0NajT5Ds8tStL923yxaBWw) | 2:19 |
-| 34 | [Go](https://open.spotify.com/track/4IP6Or6wcwS6sZCliAZEBa) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6), [2300](https://open.spotify.com/artist/3ZAzTEVd7httmdQCUvqRUi) | [Go](https://open.spotify.com/album/5brPTYAWu8uGRvnpvsLS2H) | 2:38 |
+| 34 | [Go](https://open.spotify.com/track/4IP6Or6wcwS6sZCliAZEBa) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6), [2300](https://open.spotify.com/artist/3ZAzTEVd7httmdQCUvqRUi) | [Go](https://open.spotify.com/album/5brPTYAWu8uGRvnpvsLS2H) | 2:18 |
 | 35 | [REBEL](https://open.spotify.com/track/4GCpiubVx8KUoDmMNXFaeZ) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU) | [REBEL](https://open.spotify.com/album/2vAKPJROqsJTMRN2LR970C) | 2:45 |
 | 36 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 |
 | 37 | [On My Way](https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [On My Way](https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc) | 3:31 |

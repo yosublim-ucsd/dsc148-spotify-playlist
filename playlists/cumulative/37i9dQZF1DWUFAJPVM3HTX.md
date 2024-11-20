@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh?si=KCTIZdhsQ2WXyDzypHf8ag">WESLEYFRANKLIN</a>\. Updates every Wednesday.
 
-2,783 songs - 5 day 21 hr 18 min
+2,783 songs - 5 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,7 +934,7 @@
 | [Glowing](https://open.spotify.com/track/2urpLm640blWOExbhQpFUl) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Esquire](https://open.spotify.com/artist/41zs0yeWeQNNwSMp8yAKY7) | [Glowing](https://open.spotify.com/album/10stvNyLMgPnFX4MPFzUuW) | 3:31 | 2022-03-02 | 2022-04-28 |
 | [GNFBM](https://open.spotify.com/track/4D8bjvgFZ66wgkmcP8OeTG) | [JRod](https://open.spotify.com/artist/7rp8LxWRsai2cFZ5HxrM7b), [RARE Sound](https://open.spotify.com/artist/5gOJdgcftvP4TwPu0oRSfP) | [GNFBM](https://open.spotify.com/album/7fe4KR4MEdh2MGCfGCLiKl) | 1:48 | 2022-01-12 | 2022-02-03 |
 | [Go](https://open.spotify.com/track/1dXVgFmY1tejsy1tyEkKSi) | [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V) | [Go](https://open.spotify.com/album/5211KqldUWB9oq4gTUhRWd) | 3:45 | 2023-06-30 | 2023-08-26 |
-| [Go](https://open.spotify.com/track/4IP6Or6wcwS6sZCliAZEBa) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6), [2300](https://open.spotify.com/artist/3ZAzTEVd7httmdQCUvqRUi) | [Go](https://open.spotify.com/album/5brPTYAWu8uGRvnpvsLS2H) | 2:38 | 2024-11-15 |  |
+| [Go](https://open.spotify.com/track/4IP6Or6wcwS6sZCliAZEBa) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6), [2300](https://open.spotify.com/artist/3ZAzTEVd7httmdQCUvqRUi) | [Go](https://open.spotify.com/album/5brPTYAWu8uGRvnpvsLS2H) | 2:18 | 2024-11-15 |  |
 | [Go Ur Own Way](https://open.spotify.com/track/1KOB1FwCB4yFfpAyEsZ3IK) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Go Ur Own Way](https://open.spotify.com/album/3XX1cFgmYp1TW9eyk7rrD5) | 2:14 | 2024-06-19 |  |
 | [GoCrazy](https://open.spotify.com/track/0NVCRdUETavHCMawAWVyQA) | [NYA](https://open.spotify.com/artist/0JkKPtdoOFdrZDPswFPQku) | [GoCrazy](https://open.spotify.com/album/4E3mzji98FX9bpcAzbKBol) | 1:59 | 2024-07-26 |  |
 | [God Speed](https://open.spotify.com/track/0tKvAqZeTbDgkfsP9tRDNL) | [CD Rose](https://open.spotify.com/artist/3jhXQ1HoAnvxUhUrRGleJx) | [God Speed](https://open.spotify.com/album/3On2qliqg7m7Za1uYQk0As) | 2:45 | 2023-04-29 | 2023-08-04 |

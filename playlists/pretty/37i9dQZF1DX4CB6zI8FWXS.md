@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,079 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,090 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 34 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 35 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 36 | [Here I Am](https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 2:53 |
-| 37 | [300kHz \(Low Frequency\)](https://open.spotify.com/track/464t4JgArAGl8TS0tlcaaS) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Chaos EP](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:47 |
+| 37 | [300kHz \(Low Frequency\)](https://open.spotify.com/track/464t4JgArAGl8TS0tlcaaS) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [CHAOS](https://open.spotify.com/album/3DUm7WQCeHMZ9E5gyWNW0U) | 2:47 |
 | 38 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
 | 39 | [Heart Shakes](https://open.spotify.com/track/0GLI8mexnUIoA4smC92dnx) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Heart Shakes](https://open.spotify.com/album/631mKo4JBNHoX1u1MgLQzy) | 3:17 |
 | 40 | [Stay Strong](https://open.spotify.com/track/68YEhbcx2OWqvCPZnQ6twD) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Taylor Graves](https://open.spotify.com/artist/4bGuGkRbnGtihUtYz0MN3n) | [Idols & Vices \(Vol\. 1\)](https://open.spotify.com/album/3ZRStuZuROwZNNpkEYAjDy) | 2:58 |

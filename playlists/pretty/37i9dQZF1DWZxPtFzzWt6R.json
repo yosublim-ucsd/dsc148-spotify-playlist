@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 89330,
+  "num_followers": 89372,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-10-25 15:01:57",
       "album": {
-        "name": "GBArrai\u00e1",
-        "url": "https://open.spotify.com/album/3W6Q8yEjt11yOG4qgNWTOx"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Thaeme & Thiago",
-          "url": "https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh"
-        }
-      ],
-      "duration_ms": 238208,
-      "name": "Noites Trai\u00e7oeiras",
-      "url": "https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa"
-    },
-    {
-      "added_at": "2024-10-25 15:01:57",
-      "album": {
         "name": "Mais que Vencedor (feat. Carlos Henrique)",
         "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 215099,
       "name": "Mais que Vencedor (feat. Carlos Henrique)",
       "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
+    },
+    {
+      "added_at": "2024-10-25 15:01:57",
+      "album": {
+        "name": "GBArrai\u00e1",
+        "url": "https://open.spotify.com/album/3W6Q8yEjt11yOG4qgNWTOx"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Thaeme & Thiago",
+          "url": "https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh"
+        }
+      ],
+      "duration_ms": 238208,
+      "name": "Noites Trai\u00e7oeiras",
+      "url": "https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa"
     },
     {
       "added_at": "2024-10-25 15:01:57",

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
-  "num_followers": 13597,
+  "num_followers": 13614,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zzbn6gAAAACUVdK6DDGVrL5Ya1GA2zy/",
+  "snapshot_id": "ZzwjJAAAAABp386peCxzWocEL0Yzvwhf",
   "tracks": [
     {
       "added_at": "2024-10-18 04:57:06",
@@ -57,6 +57,30 @@
       "url": "https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR"
     },
     {
+      "added_at": "2024-11-19 05:31:27",
+      "album": {
+        "name": "Cockroach of College",
+        "url": "https://open.spotify.com/album/6gTastps9UQW4a2z1Oxtev"
+      },
+      "artists": [
+        {
+          "name": "Rajnivel",
+          "url": "https://open.spotify.com/artist/2oTIkLwKleKb6bZ5f1bqiZ"
+        },
+        {
+          "name": "Ravi Mersal",
+          "url": "https://open.spotify.com/artist/5jyOhaSZYtVIbB9OFHCBRT"
+        },
+        {
+          "name": "Muthu Arunkumar",
+          "url": "https://open.spotify.com/artist/7rin0t0cYQfHSK9pOluQP1"
+        }
+      ],
+      "duration_ms": 210660,
+      "name": "Cockroach of College",
+      "url": "https://open.spotify.com/track/72z1bSQAp7NASNF3MEKBlO"
+    },
+    {
       "added_at": "2024-11-11 07:42:51",
       "album": {
         "name": "Yawanaa",
@@ -81,6 +105,26 @@
       "url": "https://open.spotify.com/track/7gHhbgeEtaYtpOCov2cV3B"
     },
     {
+      "added_at": "2024-11-19 05:32:11",
+      "album": {
+        "name": "Sakhiye",
+        "url": "https://open.spotify.com/album/2HNmyGd1C9SUGyQ2FR1Emt"
+      },
+      "artists": [
+        {
+          "name": "Salman Koroth",
+          "url": "https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS"
+        },
+        {
+          "name": "Christy George",
+          "url": "https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W"
+        }
+      ],
+      "duration_ms": 243292,
+      "name": "Sakhiye",
+      "url": "https://open.spotify.com/track/4bSXdsi3xVKZk4kYFKCaE3"
+    },
+    {
       "added_at": "2024-09-19 11:35:34",
       "album": {
         "name": "Thodarum Intha Payanam",
@@ -99,6 +143,26 @@
       "duration_ms": 280725,
       "name": "Thodarum Intha Payanam",
       "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
+    },
+    {
+      "added_at": "2024-11-19 05:33:23",
+      "album": {
+        "name": "Thakam illai yendrale",
+        "url": "https://open.spotify.com/album/033c6uLf6rLulZOBBwG5j4"
+      },
+      "artists": [
+        {
+          "name": "V. Kiran Varsith",
+          "url": "https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP"
+        },
+        {
+          "name": "Mansi Marshalla",
+          "url": "https://open.spotify.com/artist/1IHD6Wz6CXiAOzMzJ9VG6R"
+        }
+      ],
+      "duration_ms": 239997,
+      "name": "Thakam illai yendrale",
+      "url": "https://open.spotify.com/track/76rjmcyamoT5M5kZVmKWic"
     },
     {
       "added_at": "2024-09-20 05:46:14",

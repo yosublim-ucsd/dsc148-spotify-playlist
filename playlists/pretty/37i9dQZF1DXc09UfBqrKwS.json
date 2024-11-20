@@ -1,6 +1,6 @@
 {
   "description": "hora d hacer la meme",
-  "num_followers": 107668,
+  "num_followers": 107715,
   "original_name": "mimir",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
+        "name": "Celestial Bliss",
+        "url": "https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1"
+      },
+      "artists": [
+        {
+          "name": "Felix Lancaster",
+          "url": "https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Celestial Bliss",
+      "url": "https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
         "name": "Verdensrommet",
         "url": "https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 165023,
       "name": "Along",
       "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
-        "name": "Celestial Bliss",
-        "url": "https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1"
-      },
-      "artists": [
-        {
-          "name": "Felix Lancaster",
-          "url": "https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Celestial Bliss",
-      "url": "https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Turtle tear",
-        "url": "https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT"
-      },
-      "artists": [
-        {
-          "name": "Huma",
-          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
-        }
-      ],
-      "duration_ms": 161355,
-      "name": "Anim\u00e1lico",
-      "url": "https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "For a moment",
         "url": "https://open.spotify.com/album/3HehNoOYCGkTWlZiQ3MBLC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 159600,
       "name": "For a moment",
       "url": "https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Turtle tear",
+        "url": "https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT"
+      },
+      "artists": [
+        {
+          "name": "Huma",
+          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
+        }
+      ],
+      "duration_ms": 161355,
+      "name": "Anim\u00e1lico",
+      "url": "https://open.spotify.com/track/3uZ4KyVZwwnfAt3IGhS3c0"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Endicino",
-        "url": "https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA"
+        "name": "Unseen Paths",
+        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
         }
       ],
-      "duration_ms": 171637,
-      "name": "Endicino",
-      "url": "https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md"
+      "duration_ms": 164989,
+      "name": "Unseen Paths",
+      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Return Home",
-        "url": "https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML"
-      },
-      "artists": [
-        {
-          "name": "Puddle of Head",
-          "url": "https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Return Home",
-      "url": "https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Stabilize",
         "url": "https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 157189,
       "name": "Stabilize",
       "url": "https://open.spotify.com/track/0AC6SZlAoEbvzhMeUiwsAq"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Return Home",
+        "url": "https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML"
+      },
+      "artists": [
+        {
+          "name": "Puddle of Head",
+          "url": "https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Return Home",
+      "url": "https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -843,8 +843,8 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Unseen Paths",
-        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
+        "name": "Endicino",
+        "url": "https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
         }
       ],
-      "duration_ms": 164989,
-      "name": "Unseen Paths",
-      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
+      "duration_ms": 171637,
+      "name": "Endicino",
+      "url": "https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Erinnerungen",
-        "url": "https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl"
-      },
-      "artists": [
-        {
-          "name": "Phillipp Vogler",
-          "url": "https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY"
-        }
-      ],
-      "duration_ms": 192257,
-      "name": "Erinnerungen",
-      "url": "https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Purifier",
         "url": "https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 225939,
       "name": "Purifier",
       "url": "https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Erinnerungen",
+        "url": "https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl"
+      },
+      "artists": [
+        {
+          "name": "Phillipp Vogler",
+          "url": "https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY"
+        }
+      ],
+      "duration_ms": 192257,
+      "name": "Erinnerungen",
+      "url": "https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Reserve",
-        "url": "https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko"
-      },
-      "artists": [
-        {
-          "name": "Lo Amber",
-          "url": "https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Reserve",
-      "url": "https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Terra Nova",
         "url": "https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 171282,
       "name": "Retriever",
       "url": "https://open.spotify.com/track/1IA54D0vDanvQu9vU1sH09"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Reserve",
+        "url": "https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko"
+      },
+      "artists": [
+        {
+          "name": "Lo Amber",
+          "url": "https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Reserve",
+      "url": "https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Unless",
-        "url": "https://open.spotify.com/album/4ECUMqjFun808OFQ15nQ1B"
-      },
-      "artists": [
-        {
-          "name": "Ceny Noes",
-          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
-        }
-      ],
-      "duration_ms": 178688,
-      "name": "Unless",
-      "url": "https://open.spotify.com/track/5IJclkvUYCQDye82Ua9sig"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/1bh7md5MXyyYFpif2qbXwC"
-      },
-      "artists": [
-        {
-          "name": "Yeur",
-          "url": "https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK"
-        }
-      ],
-      "duration_ms": 175541,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/0nDaZXqNmnTYDJ3b5rYkBR"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Respective",
         "url": "https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku"
       },
@@ -1419,18 +1387,18 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Changing",
-        "url": "https://open.spotify.com/album/7MQoVjYeZi5C5kn801Ccwf"
+        "name": "Unless",
+        "url": "https://open.spotify.com/album/4ECUMqjFun808OFQ15nQ1B"
       },
       "artists": [
         {
-          "name": "De Janos",
-          "url": "https://open.spotify.com/artist/6MnCLU3GNlSU6WcgJOAjwl"
+          "name": "Ceny Noes",
+          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
         }
       ],
-      "duration_ms": 183374,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4shpPdwshLr1rOzUwLIWIH"
+      "duration_ms": 178688,
+      "name": "Unless",
+      "url": "https://open.spotify.com/track/5IJclkvUYCQDye82Ua9sig"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1467,6 +1435,22 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/1bh7md5MXyyYFpif2qbXwC"
+      },
+      "artists": [
+        {
+          "name": "Yeur",
+          "url": "https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK"
+        }
+      ],
+      "duration_ms": 175541,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/0nDaZXqNmnTYDJ3b5rYkBR"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
         "name": "Recombination",
         "url": "https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 179630,
       "name": "Recombination",
       "url": "https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/7MQoVjYeZi5C5kn801Ccwf"
+      },
+      "artists": [
+        {
+          "name": "De Janos",
+          "url": "https://open.spotify.com/artist/6MnCLU3GNlSU6WcgJOAjwl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4shpPdwshLr1rOzUwLIWIH"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Fragile Voices",
-        "url": "https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v"
-      },
-      "artists": [
-        {
-          "name": "Meadow Rose",
-          "url": "https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Fragile Voices",
-      "url": "https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Vita Tranquilla",
         "url": "https://open.spotify.com/album/3ZsMmRjVpTqGWjWjhdZxcL"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 165336,
       "name": "Vita Tranquilla",
       "url": "https://open.spotify.com/track/6jB8Sln3EZcybYKOJJg77v"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Fragile Voices",
+        "url": "https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v"
+      },
+      "artists": [
+        {
+          "name": "Meadow Rose",
+          "url": "https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Fragile Voices",
+      "url": "https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Anthazit Plastics",
-        "url": "https://open.spotify.com/album/1qhzVs7AkR7CihkNpUtPFW"
-      },
-      "artists": [
-        {
-          "name": "Starshine Strum",
-          "url": "https://open.spotify.com/artist/3dmDs1HKPCEKt9jQzfRSLs"
-        }
-      ],
-      "duration_ms": 211583,
-      "name": "Anthazit Plastics",
-      "url": "https://open.spotify.com/track/0LEzTG4JEiFgNg6XbgGQh2"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Bountiful",
         "url": "https://open.spotify.com/album/3c2XFnhG8jgzSvUivAxY5h"
       },
@@ -1899,6 +1883,22 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
+        "name": "Anthazit Plastics",
+        "url": "https://open.spotify.com/album/1qhzVs7AkR7CihkNpUtPFW"
+      },
+      "artists": [
+        {
+          "name": "Starshine Strum",
+          "url": "https://open.spotify.com/artist/3dmDs1HKPCEKt9jQzfRSLs"
+        }
+      ],
+      "duration_ms": 211583,
+      "name": "Anthazit Plastics",
+      "url": "https://open.spotify.com/track/0LEzTG4JEiFgNg6XbgGQh2"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
         "name": "Rare Lights",
         "url": "https://open.spotify.com/album/6UQVAkdfBQy3w90s6daUZY"
       },
@@ -1911,22 +1911,6 @@
       "duration_ms": 178722,
       "name": "Calmness",
       "url": "https://open.spotify.com/track/3ZjO9JL84czoWKZLmeIqU2"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
-        "name": "Blissful Vibes",
-        "url": "https://open.spotify.com/album/1qLpC1ZQnDioaszlTmBEAg"
-      },
-      "artists": [
-        {
-          "name": "The Lay-Backs",
-          "url": "https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Blissful Vibes",
-      "url": "https://open.spotify.com/track/199BfiwrC4YJpU2TVIEYny"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -1959,6 +1943,22 @@
       "duration_ms": 152144,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Blissful Vibes",
+        "url": "https://open.spotify.com/album/1qLpC1ZQnDioaszlTmBEAg"
+      },
+      "artists": [
+        {
+          "name": "The Lay-Backs",
+          "url": "https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Blissful Vibes",
+      "url": "https://open.spotify.com/track/199BfiwrC4YJpU2TVIEYny"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Atlantis Child",
-        "url": "https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL"
-      },
-      "artists": [
-        {
-          "name": "Metagalactic Chords",
-          "url": "https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS"
-        }
-      ],
-      "duration_ms": 174917,
-      "name": "Atlantis Child",
-      "url": "https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Sleeping in Starlight",
         "url": "https://open.spotify.com/album/1AlIMbgk0QGi17BZ9toPwu"
       },
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "Appena",
-        "url": "https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay"
+        "name": "Atlantis Child",
+        "url": "https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL"
       },
       "artists": [
         {
-          "name": "Victor Mancuso",
-          "url": "https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB"
+          "name": "Metagalactic Chords",
+          "url": "https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Appena",
-      "url": "https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx"
+      "duration_ms": 174917,
+      "name": "Atlantis Child",
+      "url": "https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -2167,6 +2151,22 @@
       "duration_ms": 182000,
       "name": "Basic Meditation",
       "url": "https://open.spotify.com/track/3MlyE6l0NIyTvLAIyojRWp"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "Appena",
+        "url": "https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay"
+      },
+      "artists": [
+        {
+          "name": "Victor Mancuso",
+          "url": "https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Appena",
+      "url": "https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx"
     },
     {
       "added_at": "2024-11-05 14:52:23",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2024-11-05 14:52:23",
       "album": {
-        "name": "A Glowing Sun",
-        "url": "https://open.spotify.com/album/5Qp1ZVfDcWPuE9uz2PX88a"
-      },
-      "artists": [
-        {
-          "name": "Iridaceae Fields",
-          "url": "https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1"
-        }
-      ],
-      "duration_ms": 146566,
-      "name": "A Glowing Sun",
-      "url": "https://open.spotify.com/track/0n0jNfeCWUwpfoCT8p0Fg8"
-    },
-    {
-      "added_at": "2024-11-05 14:52:23",
-      "album": {
         "name": "Lost Contact With Life",
         "url": "https://open.spotify.com/album/19TE0mv7vfrIpnpcC0Eqih"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 204115,
       "name": "Lost Contact With Life",
       "url": "https://open.spotify.com/track/6GDNugcIhv8fEOlZuAkYjt"
+    },
+    {
+      "added_at": "2024-11-05 14:52:23",
+      "album": {
+        "name": "A Glowing Sun",
+        "url": "https://open.spotify.com/album/5Qp1ZVfDcWPuE9uz2PX88a"
+      },
+      "artists": [
+        {
+          "name": "Iridaceae Fields",
+          "url": "https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1"
+        }
+      ],
+      "duration_ms": 146566,
+      "name": "A Glowing Sun",
+      "url": "https://open.spotify.com/track/0n0jNfeCWUwpfoCT8p0Fg8"
     },
     {
       "added_at": "2024-11-05 14:52:23",

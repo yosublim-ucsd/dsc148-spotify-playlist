@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,694 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,774 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Carry Me](https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN) | [Juanita Stein](https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp) | [Carry Me](https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7) | 3:02 |
-| 2 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
-| 3 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 |
-| 4 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
-| 5 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
-| 6 | [Home In Sight](https://open.spotify.com/track/6HLCqZoCfqwsRHF3oyFiKr) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home In Sight](https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE) | 3:17 |
-| 7 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
-| 8 | [I'll Be There](https://open.spotify.com/track/3PCy5407tNw7MlpP8DyHvU) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY), [Pete McCredie](https://open.spotify.com/artist/0Cgijkl49Ktl93nFDK9CTi), [The McCredie Brothers](https://open.spotify.com/artist/5S6hgx48T6bHth4lxxmKGD) | [I'll Be There](https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA) | 2:39 |
-| 9 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
-| 10 | [Vienna](https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH) | 2:43 |
-| 11 | [Get Through](https://open.spotify.com/track/1Rl4NwdkaQ8nd6vEJftDDw) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Get Through](https://open.spotify.com/album/2nBMZEgu0BDkpUyCkvNw0V) | 2:56 |
+| 1 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
+| 2 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 |
+| 3 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
+| 4 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
+| 5 | [Home In Sight](https://open.spotify.com/track/6HLCqZoCfqwsRHF3oyFiKr) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home In Sight](https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE) | 3:17 |
+| 6 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
+| 7 | [I'll Be There](https://open.spotify.com/track/3PCy5407tNw7MlpP8DyHvU) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY), [Pete McCredie](https://open.spotify.com/artist/0Cgijkl49Ktl93nFDK9CTi), [The McCredie Brothers](https://open.spotify.com/artist/5S6hgx48T6bHth4lxxmKGD) | [I'll Be There](https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA) | 2:39 |
+| 8 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
+| 9 | [Vienna](https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH) | 2:43 |
+| 10 | [Get Through](https://open.spotify.com/track/1Rl4NwdkaQ8nd6vEJftDDw) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Get Through](https://open.spotify.com/album/2nBMZEgu0BDkpUyCkvNw0V) | 2:56 |
+| 11 | [Carry Me](https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN) | [Juanita Stein](https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp) | [Carry Me](https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7) | 3:02 |
 | 12 | [Take My Hand](https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Take My Hand](https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB) | 3:17 |
 | 13 | [Last to Know](https://open.spotify.com/track/3PsRifocO55RlBP0HQP0AX) | [Bec Sykes](https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2) | [Pepperpot Magic](https://open.spotify.com/album/3vkwODkm1Z6t0e3mCBR7GP) | 3:14 |
 | 14 | [Long Way Home](https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Cup Of Tea](https://open.spotify.com/track/5IWapfr63DOAJztiBxgV3p) | [Joel Leggett](https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt) | [Cup Of Tea](https://open.spotify.com/album/7rb2Gp5cx10EZm4VdXH7uL) | 4:02 |
 | 100 | [Don't Do Me Good](https://open.spotify.com/track/5tZOyvkWEGnGE2dQM3jvzb) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:13 |
 
-Snapshot ID: `Zzv/MAAAAAAk7sugUrsXDPKtVi624CFk`
+Snapshot ID: `Zz0QbgAAAABWRWngOEkC9hb4AfrCDNLZ`

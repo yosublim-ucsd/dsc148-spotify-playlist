@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,493 songs - 2 day 8 hr 11 min
+1,494 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [capricorn](https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [capricorn](https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG) | 2:04 | 2023-02-24 |  |
 | [Caribbean Cruise](https://open.spotify.com/track/3HNl45sHxFMUV7QnhuyBjS) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c), [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj), [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Caribbean Cruise](https://open.spotify.com/album/3HEHUhIOaoelkGUdppj3uF) | 2:19 | 2022-07-22 | 2022-11-12 |
 | [Carlton u better dance](https://open.spotify.com/track/5SUBn3zy2t5jAk0WoHAi6N) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Carlton u better dance](https://open.spotify.com/album/4oGguYP7Iio2dzXXbNs3JU) | 2:46 | 2022-10-28 |  |
-| [carp](https://open.spotify.com/track/5sHYEt9ctuosoiYxthnk06) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [carp](https://open.spotify.com/album/1R4FoRXITc8vJkKRtFsNf2) | 1:47 | 2024-10-04 |  |
+| [carp](https://open.spotify.com/track/5sHYEt9ctuosoiYxthnk06) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [carp](https://open.spotify.com/album/1R4FoRXITc8vJkKRtFsNf2) | 1:47 | 2024-10-04 | 2024-11-20 |
 | [cascade](https://open.spotify.com/track/66DPObizbVuxeLf2yjvCx2) | [sound butler](https://open.spotify.com/artist/6aSAkIrQshhK1BKhiPxh0O) | [the sound is served](https://open.spotify.com/album/1czaSl9IOCmuP1RthQq6p4) | 2:38 | 2022-01-27 | 2022-09-30 |
 | [Cashmere](https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Cashmere](https://open.spotify.com/album/1MtYJCV0I8jNyWabqS7t3M) | 2:23 | 2022-05-13 | 2022-11-26 |
 | [Cassis](https://open.spotify.com/track/0fERk8rJySrdXAFYwzfJ50) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Cassis](https://open.spotify.com/album/5x6ya97jZmSdOnIEwD6g7f) | 2:04 | 2022-08-19 | 2023-01-13 |
@@ -625,6 +625,7 @@
 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 | 2022-01-27 | 2022-05-20 |
 | [Inside Time](https://open.spotify.com/track/6SkGbqgn8bi7HmijsKqvik) | [fakename](https://open.spotify.com/artist/0BUWlzdVAow3whRDUIQOV9) | [Inside Time](https://open.spotify.com/album/3J1CZJxth6KUV94yEGJ0Xq) | 2:07 | 2022-11-25 | 2023-09-29 |
 | [Intangible](https://open.spotify.com/track/1zolBVsZLjNy5dBgDv0CCD) | [Southern Structure](https://open.spotify.com/artist/5JJ1xxpb11qLyqR1BktdIk) | [Intangible](https://open.spotify.com/album/0M0pz2DCYdCCOUmZGBPEfV) | 2:27 | 2022-01-27 | 2022-04-08 |
+| [intercept](https://open.spotify.com/track/66Ead1pk9zDdqTe3xJ7ABB) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [intercept](https://open.spotify.com/album/5oZsKhidnTfL7IBjnTqGlH) | 2:58 | 2024-11-14 |  |
 | [Into the Crystal Air](https://open.spotify.com/track/4X9huTWFlmFKciZKOgjawF) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Into the Crystal Air](https://open.spotify.com/album/44cHMcE2OOf7tvSRiIl4zP) | 2:03 | 2024-05-13 |  |
 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 | 2022-10-08 | 2024-05-14 |
 | [Invisible](https://open.spotify.com/track/1VH8n20orFuTgBnapyxEg3) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Invisible](https://open.spotify.com/album/0unze2zqVBOHoC0KsfNDRV) | 1:56 | 2022-12-23 |  |

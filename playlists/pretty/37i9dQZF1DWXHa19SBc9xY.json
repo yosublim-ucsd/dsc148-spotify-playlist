@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 101150,
+  "num_followers": 101183,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "O Amor Descansa Na Varanda",
         "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 204998,
       "name": "O Amor Descansa Na Varanda",
       "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Se N\u00e3o Fosse por Ontem",
-        "url": "https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 208589,
-      "name": "Se N\u00e3o Fosse por Ontem",
-      "url": "https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Dend\u00ea",
         "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 286320,
       "name": "Dend\u00ea",
       "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Se N\u00e3o Fosse por Ontem",
+        "url": "https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 208589,
+      "name": "Se N\u00e3o Fosse por Ontem",
+      "url": "https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX"
     },
     {
       "added_at": "2023-11-24 08:42:40",

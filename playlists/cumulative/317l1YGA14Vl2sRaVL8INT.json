@@ -4659,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Vibe Rider",
+        "url": "https://open.spotify.com/album/0cfQCY62dVAgQd0VhZZckh"
+      },
+      "artists": [
+        {
+          "name": "Rad Stacey",
+          "url": "https://open.spotify.com/artist/5wmUicL8nHBPkzh2TZ1rf1"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334040,
+      "name": "This Isn't Tennis",
+      "url": "https://open.spotify.com/track/1geaKXjalDWnNEqADEhRhV"
+    },
+    {
+      "album": {
         "name": "Thnx",
         "url": "https://open.spotify.com/album/2c8YSRBnH6ZIe6cJ5PB2PR"
       },

@@ -2,9 +2,9 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Denzel Curry
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Bonbero, Benjazzy
 
-941 songs - 1 day 23 hr 50 min
+942 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-09 | 2024-10-12 |
 | [FLY](https://open.spotify.com/track/0y2viBvXtPSmEH0j7t1AMD) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [THE GRIFFIN TAPES](https://open.spotify.com/album/4YMGw7zIbk27pQo3kIrCoI) | 2:32 | 2024-10-25 |  |
 | [FOOLERY](https://open.spotify.com/track/0ekFXEgioxeP6nVx1qd64p) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [FOOLERY](https://open.spotify.com/album/5e1bBTVdrMi7TCSmBlsU6S) | 3:39 | 2024-02-01 | 2024-03-08 |
+| [For A Reason](https://open.spotify.com/track/4Fnd3gIheWMWXSbdxjcuOJ) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [For A Reason](https://open.spotify.com/album/2oUKDqojhgfDu1Vfo5r5yw) | 2:27 | 2024-11-19 |  |
 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 | 2024-02-01 | 2024-02-16 |
 | [FREAK \(feat\. Freddie Dredd\)](https://open.spotify.com/track/3N1ze49Sbg9KF3DcxqTv37) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [FREAK \(feat\. Freddie Dredd\)](https://open.spotify.com/album/3piuGUdzaWK8FRwh3MzLUa) | 2:20 | 2023-11-16 | 2023-12-09 |
 | [Freaknik \(feat\. Rob49\)](https://open.spotify.com/track/2WFgPHTz1w2mMKMT9R9buO) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Freaknik \(feat\. Rob49\)](https://open.spotify.com/album/2FkFcZqiaVmUIOkcXDW2jl) | 2:37 | 2024-04-18 | 2024-05-24 |

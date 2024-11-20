@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,907 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,252 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 3 | [Soulmate](https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:33 |
 | 4 | [O Maahi \(From "Dunki"\)](https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [O Maahi \(From "Dunki"\)](https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC) | 3:53 |
 | 5 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
-| 6 | [Aaj Se Teri](https://open.spotify.com/track/0EwRpK9wY6lHfcJSt82w4x) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Padman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2sUawhYyxtLryh34rA4sop) | 5:12 |
+| 6 | [Aaj Se Teri](https://open.spotify.com/track/0EwRpK9wY6lHfcJSt82w4x) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Padman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2sUawhYyxtLryh34rA4sop) | 5:12 |
 | 7 | [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 |
 | 8 | [Kalank \- Title Track](https://open.spotify.com/track/7G5wpuR61ABrT7R1snos7C) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit) | 5:11 |
 | 9 | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/track/0Yf9Tgv5f55njDQeuRUnQH) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/album/3Yi3HyE86jKrOJQBhIRKO5) | 4:09 |

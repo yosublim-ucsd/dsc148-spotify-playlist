@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tiakola",
-  "num_followers": 186221,
+  "num_followers": 186243,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaA8AAAAADySLsnhnMJkR58DGaAYhsR",
+  "snapshot_id": "ZzyXDAAAAAD0jKP9P2zwImB3W3YWuYZ9",
   "tracks": [
     {
       "added_at": "2024-11-14 23:00:00",
@@ -55,26 +55,6 @@
       "duration_ms": 173933,
       "name": "Dans les veines",
       "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -651,22 +631,6 @@
       "duration_ms": 178500,
       "name": "Concentr\u00e9e",
       "url": "https://open.spotify.com/track/5SQo1jGdGwmlBXp9ES2SOL"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "L\u2019envers du d\u00e9cor",
-        "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "L\u2019envers du d\u00e9cor",
-      "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
     },
     {
       "added_at": "2024-11-14 23:00:00",

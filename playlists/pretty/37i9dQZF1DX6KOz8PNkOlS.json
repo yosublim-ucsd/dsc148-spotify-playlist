@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 482565,
+  "num_followers": 482695,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Home Cooking",
+        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
+      },
+      "artists": [
+        {
+          "name": "DJ Yoda",
+          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "duration_ms": 207201,
+      "name": "Thornton Heath",
+      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 170500,
       "name": "say your way",
       "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Home Cooking",
-        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
-      },
-      "artists": [
-        {
-          "name": "DJ Yoda",
-          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 207201,
-      "name": "Thornton Heath",
-      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
       "added_at": "2024-06-26 18:41:25",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Ludi",
-        "url": "https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 146487,
-      "name": "I Love Vertigo",
-      "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Sinking",
         "url": "https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 192000,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Ludi",
+        "url": "https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 146487,
+      "name": "I Love Vertigo",
+      "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
     },
     {
       "added_at": "2021-10-15 03:01:31",

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 23686,
+  "num_followers": 23691,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAAAjOZxwP13rqDvrF1ma/H0o",
+  "snapshot_id": "ZzqDgAAAAAAtJNXl+ilIfnnXfcNZESPB",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "No Good Truckin' Man",
+      "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slim Dusty Sings Stan Coster",
+        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -615,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "No Good Truckin' Man",
-      "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Take Mine Country Style",
         "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
@@ -647,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty Sings Stan Coster",
-        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
+        "name": "Old Time Drover's Lament",
+        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
       },
       "artists": [
         {
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 178760,
-      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
-      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+      "duration_ms": 209560,
+      "name": "Trumby - 1994 Remaster",
+      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
     },
     {
       "added_at": null,
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Time Drover's Lament",
-        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
         {
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Trumby - 1994 Remaster",
-      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
+      "duration_ms": 253066,
+      "name": "Star Trucker",
+      "url": "https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 221306,
       "name": "Matilda No More",
       "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Star Trucker",
-      "url": "https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singer From Down Under",
-        "url": "https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Traveller's Prayer - 1996 Remaster",
-      "url": "https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truck Songs",
         "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 178066,
       "name": "Some Things Never Change Out Here",
       "url": "https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singer From Down Under",
+        "url": "https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Traveller's Prayer - 1996 Remaster",
+      "url": "https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg"
     }
   ],
   "unique_name": "This Is Slim Dusty",

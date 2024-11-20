@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 383835,
+  "num_followers": 384060,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zza5bAAAAABadjdPlHk8KpZ44E5fdY2v",
   "tracks": [
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276453,
-      "name": "Ovelhinha (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
-    },
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 495857,
       "name": "\u00c9 Ele",
       "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276453,
+      "name": "Ovelhinha (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 629133,
-      "name": "Tu \u00e9s Poderoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
-    },
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
         "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 337840,
       "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
+        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 629133,
+      "name": "Tu \u00e9s Poderoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
-    },
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
         "name": "Mem\u00f3rias Deluxe",
         "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 271073,
       "name": "Louvemos Ao Senhor",
       "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2024-11-15 03:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-15 03:01:00",
       "album": {
-        "name": "O Rei Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 227577,
-      "name": "O Rei Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
-    },
-    {
-      "added_at": "2024-11-15 03:01:00",
-      "album": {
         "name": "A Igreja Canta (Ao Vivo)",
         "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 347434,
       "name": "Deus Vai Chegar Primeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2024-11-15 03:01:00",
+      "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
     },
     {
       "added_at": "2024-11-15 03:01:00",

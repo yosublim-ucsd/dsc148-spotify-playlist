@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-231 songs - 12 hr 26 min
+232 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 | 2024-01-26 | 2024-03-16 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-31 | 2024-07-16 |
-| [New Phone Who Dis?](https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [New Phone Who Dis?](https://open.spotify.com/album/66dctQsI7Ra8bP5uUJ3eej) | 2:00 | 2024-10-11 |  |
+| [New Phone Who Dis?](https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [New Phone Who Dis?](https://open.spotify.com/album/66dctQsI7Ra8bP5uUJ3eej) | 2:00 | 2024-10-11 | 2024-11-20 |
 | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/track/4RFrq3f4QrVORVgo8V633v) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Angelala](https://open.spotify.com/artist/5CJ01auuddLMVSm1dKCOys) | [No Guestlist \(feat\. Angelala\)](https://open.spotify.com/album/207i0ymIRSh6PCZY9UrDm7) | 4:51 | 2023-08-11 | 2023-09-20 |
 | [No Sleep](https://open.spotify.com/track/0IfBHPh5QvtEAM46nKERjR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [No Sleep](https://open.spotify.com/album/3x1nV1mAZLwDvIC3rlB0pe) | 2:49 | 2024-11-08 |  |
 | [Novaacation \(Solomun Remix\)](https://open.spotify.com/track/69V3ab9N7fahkgWc4vLddT) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Novaacation \(Solomun Remix\)](https://open.spotify.com/album/6aVjBTKbhhhjAN4OlEUzvd) | 3:41 | 2023-08-11 | 2023-09-02 |
@@ -192,6 +192,7 @@
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf) | 2:26 | 2024-10-25 |  |
 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 | 2024-04-12 |  |
+| [Shimmy Shake \(That Booty\)](https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [740 Boyz](https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC) | [Shimmy Shake \(That Booty\)](https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK) | 1:57 | 2024-11-15 |  |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-17 | 2024-07-29 |
 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 | 2024-05-17 | 2024-07-16 |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-08-11 | 2023-09-11 |

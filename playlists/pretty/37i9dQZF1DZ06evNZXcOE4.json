@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 42915,
+  "num_followers": 42918,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAAC0HFm/4GsERVfBVNgWZgNY",
+  "snapshot_id": "ZzqDgAAAAACs1ilt3ECar5nhlwxuwVlU",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/2xcFxFLi8CGvJLXBiVkHQj"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 223673,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm"
+      "duration_ms": 240748,
+      "name": "Irresistible Force",
+      "url": "https://open.spotify.com/track/0D7r6CIGNRvs0IvsDOunZr"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/2xcFxFLi8CGvJLXBiVkHQj"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 240748,
-      "name": "Irresistible Force",
-      "url": "https://open.spotify.com/track/0D7r6CIGNRvs0IvsDOunZr"
+      "duration_ms": 223673,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm"
     },
     {
       "added_at": null,

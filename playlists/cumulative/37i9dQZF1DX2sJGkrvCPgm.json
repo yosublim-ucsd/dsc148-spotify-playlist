@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 285450,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/4cYsUX11X8o82bP9Vmaabo"
@@ -6112,6 +6112,24 @@
       "duration_ms": 238810,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/6X3o5CZvqtWFF1avJYeb6V"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/3oVxHEriWbXgq3utKjblzD"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+        }
+      ],
+      "date_added": "2024-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224630,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/4F2Aul3vwBCvTijuay0E4B"
     },
     {
       "album": {

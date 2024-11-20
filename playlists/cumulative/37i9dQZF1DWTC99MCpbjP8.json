@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159341,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w"
+    },
+    {
+      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },
@@ -7728,7 +7746,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 131146,
       "name": "Romanze",
       "url": "https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1"
@@ -8844,7 +8862,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 127610,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/5y3ZKV2ze2sbNHN4InCSax"
@@ -9590,7 +9608,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 157000,
       "name": "The swan",
       "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"

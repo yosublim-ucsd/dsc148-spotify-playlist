@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-786 songs - 1 day 10 hr 2 min
+787 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Andromeda](https://open.spotify.com/track/0qAeFviExQpYRdEP0KA2GV) | [Edwin Ellis](https://open.spotify.com/artist/4maWMOC22tLkA4iF33SUbU) | [Andromeda](https://open.spotify.com/album/5DM8IdJ2G93YtTBObYnSWV) | 3:17 | 2022-08-26 |  |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-01-18 | 2024-11-07 |
 | [Angel Wings](https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Angel Wings](https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT) | 2:58 | 2024-03-04 |  |
+| [Angelic Motif](https://open.spotify.com/track/1yEiltsS4sx4viAMXnwvQI) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Angelic Motif](https://open.spotify.com/album/7rYSlF6s7urHbRDYLSPDRt) | 3:54 | 2024-11-19 |  |
 | [Anyone Who Has a Heart](https://open.spotify.com/track/1U4lyaeTIHhecWMyry66xk) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Anyone Who Has a Heart](https://open.spotify.com/album/4KCGwoguck5YjGbbt2LbX8) | 2:38 | 2021-12-07 | 2022-07-20 |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-12-07 | 2022-07-20 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-07 | 2022-04-21 |

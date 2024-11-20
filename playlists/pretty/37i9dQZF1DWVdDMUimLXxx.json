@@ -1,13 +1,29 @@
 {
   "description": "Add dramatic flair to your strategy game.",
-  "num_followers": 288150,
+  "num_followers": 288271,
   "original_name": "Fantasy Board Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZSVc3gAAAACrNfM+HmXzoix+QhVXLdX7",
+  "snapshot_id": "ZzyZGQAAAACjO3+DwhqNdd0Z9r3TekX5",
   "tracks": [
+    {
+      "added_at": "2023-10-10 14:17:02",
+      "album": {
+        "name": "Score",
+        "url": "https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX"
+      },
+      "artists": [
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "duration_ms": 365493,
+      "name": "Now We are Free",
+      "url": "https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5"
+    },
     {
       "added_at": "2023-10-10 14:17:02",
       "album": {
@@ -25,36 +41,20 @@
       "url": "https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls"
     },
     {
-      "added_at": "2023-10-10 14:17:02",
+      "added_at": "2024-11-19 13:56:41",
       "album": {
-        "name": "Al\u00e9atoire",
-        "url": "https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ"
+        "name": "T\u00fandra",
+        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
       },
       "artists": [
         {
-          "name": "Darker In Vine",
-          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 178795,
-      "name": "Al\u00e9atoire",
-      "url": "https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr"
-    },
-    {
-      "added_at": "2023-10-10 14:17:02",
-      "album": {
-        "name": "To All the Glory",
-        "url": "https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM"
-      },
-      "artists": [
-        {
-          "name": "Howard Harper-Barnes",
-          "url": "https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Aspire to Inspire",
-      "url": "https://open.spotify.com/track/6BgVfl711Hx4Xjmg5o0HsP"
+      "duration_ms": 143667,
+      "name": "T\u00fandra",
+      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -75,18 +75,82 @@
     {
       "added_at": "2023-10-10 14:17:02",
       "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX"
+        "name": "Al\u00e9atoire",
+        "url": "https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ"
       },
       "artists": [
         {
-          "name": "2CELLOS",
-          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+          "name": "Darker In Vine",
+          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
         }
       ],
-      "duration_ms": 365493,
-      "name": "Now We are Free",
-      "url": "https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5"
+      "duration_ms": 178795,
+      "name": "Al\u00e9atoire",
+      "url": "https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
+        "url": "https://open.spotify.com/album/78al1cFOvo6eGowGidkRG5"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "duration_ms": 121978,
+      "name": "The Dwarf Lords - Exclusive Bonus Track",
+      "url": "https://open.spotify.com/track/4yTDJt8yfOpRKvRNQ8uV5X"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "Mary Queen Of Scots (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/10Whlk8FMk3aPNC4FgmBUo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "The Shores of Scotland",
+      "url": "https://open.spotify.com/track/5OpuPJiAaSHVovaDLHw6EA"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "Gladiator II (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "duration_ms": 201402,
+      "name": "Strength And Honor",
+      "url": "https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX"
+    },
+    {
+      "added_at": "2023-10-10 14:17:02",
+      "album": {
+        "name": "To All the Glory",
+        "url": "https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM"
+      },
+      "artists": [
+        {
+          "name": "Howard Harper-Barnes",
+          "url": "https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe"
+        }
+      ],
+      "duration_ms": 212502,
+      "name": "Aspire to Inspire",
+      "url": "https://open.spotify.com/track/6BgVfl711Hx4Xjmg5o0HsP"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -119,6 +183,22 @@
       "duration_ms": 148853,
       "name": "Caught in the Waves",
       "url": "https://open.spotify.com/track/3aWysoJyL6qFWbadYRCkH8"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "A History Of Scotland",
+        "url": "https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY"
+      },
+      "artists": [
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        }
+      ],
+      "duration_ms": 127146,
+      "name": "Lord Of The Isles",
+      "url": "https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -175,6 +255,22 @@
       "duration_ms": 186450,
       "name": "The Sanctuary Within",
       "url": "https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 195154,
+      "name": "Filma Solo",
+      "url": "https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -291,6 +387,22 @@
     {
       "added_at": "2023-10-10 14:17:02",
       "album": {
+        "name": "Blue Spectre",
+        "url": "https://open.spotify.com/album/5ngAAECyfrWU5LKcM2vdlq"
+      },
+      "artists": [
+        {
+          "name": "Xin Feng",
+          "url": "https://open.spotify.com/artist/0ecuDdIS1AQoyl0xVnR9hL"
+        }
+      ],
+      "duration_ms": 108560,
+      "name": "Blue Spectre",
+      "url": "https://open.spotify.com/track/57BqYDi536ejOoUQYKYoF2"
+    },
+    {
+      "added_at": "2023-10-10 14:17:02",
+      "album": {
         "name": "Lost Empire",
         "url": "https://open.spotify.com/album/6s5cPCbFitanKRBHYNHjk9"
       },
@@ -307,22 +419,6 @@
     {
       "added_at": "2023-10-10 14:17:02",
       "album": {
-        "name": "Living Room Songs",
-        "url": "https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Film Credits",
-      "url": "https://open.spotify.com/track/23jiGIG5I07XoBYujart9K"
-    },
-    {
-      "added_at": "2023-10-10 14:17:02",
-      "album": {
         "name": "Crossing Paths",
         "url": "https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c"
       },
@@ -335,6 +431,22 @@
       "duration_ms": 181871,
       "name": "Crossing Paths",
       "url": "https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c"
+    },
+    {
+      "added_at": "2023-10-10 14:17:02",
+      "album": {
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Film Credits",
+      "url": "https://open.spotify.com/track/23jiGIG5I07XoBYujart9K"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -383,6 +495,66 @@
       "duration_ms": 143124,
       "name": "The Bard's Tale",
       "url": "https://open.spotify.com/track/2w06ho0m1rgeioNoMQO6F2"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "Player 1",
+        "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
+      },
+      "artists": [
+        {
+          "name": "Manaka Kataoka",
+          "url": "https://open.spotify.com/artist/52PmW6wfHfCkQq16XF7sJz"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Main Theme (Arr. Skeet for Violin & Orchestra) - From \"The Legend of Zelda: Tears of the Kingdom\"",
+      "url": "https://open.spotify.com/track/0sIUDCGCHVCd6UpBEfl7zS"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 107933,
+      "name": "The Great Collapse",
+      "url": "https://open.spotify.com/track/3zUnduoSzMzoP01BO69uJV"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 174722,
+      "name": "Main Titles (Fantastic Beasts and Where to Find Them)",
+      "url": "https://open.spotify.com/track/4Pk1KXtkFTJNKLqwHhD3Zn"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -479,6 +651,34 @@
       "duration_ms": 150193,
       "name": "Progressive Progress",
       "url": "https://open.spotify.com/track/6Marmee2WT50icMbZP31EU"
+    },
+    {
+      "added_at": "2024-11-19 13:56:41",
+      "album": {
+        "name": "Player 1",
+        "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
+      },
+      "artists": [
+        {
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+        },
+        {
+          "name": "Ray Chen",
+          "url": "https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/1CGkaRvGtOqNnRG88VYKdV"
     },
     {
       "added_at": "2023-10-10 14:17:02",
@@ -943,22 +1143,6 @@
       "duration_ms": 182065,
       "name": "Huddled in the Shadows",
       "url": "https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L"
-    },
-    {
-      "added_at": "2023-10-10 14:17:02",
-      "album": {
-        "name": "Blue Spectre",
-        "url": "https://open.spotify.com/album/5ngAAECyfrWU5LKcM2vdlq"
-      },
-      "artists": [
-        {
-          "name": "Xin Feng",
-          "url": "https://open.spotify.com/artist/0ecuDdIS1AQoyl0xVnR9hL"
-        }
-      ],
-      "duration_ms": 108560,
-      "name": "Blue Spectre",
-      "url": "https://open.spotify.com/track/57BqYDi536ejOoUQYKYoF2"
     },
     {
       "added_at": "2023-10-10 14:17:02",

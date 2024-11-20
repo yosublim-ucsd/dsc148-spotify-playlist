@@ -2061,24 +2061,6 @@
     },
     {
       "album": {
-        "name": "Difference",
-        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "date_added": "2022-02-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238880,
-      "name": "I Guess I Loved You",
-      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
-    },
-    {
-      "album": {
         "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
         "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
       },
@@ -5256,6 +5238,24 @@
       "duration_ms": 228946,
       "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
       "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+    },
+    {
+      "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238880,
+      "name": "\uc0ac\ub791\ud588\ub098\ubd10",
+      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
     },
     {
       "album": {

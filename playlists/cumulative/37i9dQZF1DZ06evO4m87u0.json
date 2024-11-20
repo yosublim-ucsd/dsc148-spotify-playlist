@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 198213,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
@@ -1332,6 +1332,24 @@
       "duration_ms": 250706,
       "name": "Psychotic Girl",
       "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+    },
+    {
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203874,
+      "name": "Read Em And Weep",
+      "url": "https://open.spotify.com/track/2u89yyB1DUGqGSYhFVSqy7"
     },
     {
       "album": {

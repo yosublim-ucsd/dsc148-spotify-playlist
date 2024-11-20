@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: KEIJU, Kvi Baba, tofubeats",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: kZm, Tohji, Lil Ash \u61fa\u6094",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 188973,
       "name": "99 Baby",
       "url": "https://open.spotify.com/track/2ukNvj20uCZyio3g4S6v3F"
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "THE GHOST",
+        "url": "https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL"
+      },
+      "artists": [
+        {
+          "name": "SHO-SENSEI!!",
+          "url": "https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135533,
+      "name": "Almost Famous",
+      "url": "https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/4KLtDfxK4b7LhNU38qEmZs"
       },
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 218507,
       "name": "A\u30fbW\u30fbA\u30fbZ\u30fbA\u30fbR\u30fbU\u30fbK\u30fbA\u30fbS",
       "url": "https://open.spotify.com/track/5ekfLPgaebGcnyFgQKNZFh"
@@ -2343,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "Banger (feat. Bank.Somsaart)",
+        "url": "https://open.spotify.com/album/2czNGVjRuVfDVpIZj7B0Zi"
+      },
+      "artists": [
+        {
+          "name": "9for",
+          "url": "https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl"
+        },
+        {
+          "name": "Bank.Somsaart",
+          "url": "https://open.spotify.com/artist/27EDDxaWCpX0SBLJacciXv"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166174,
+      "name": "Banger (feat. Bank.Somsaart)",
+      "url": "https://open.spotify.com/track/5xWYysqcPJilNMEcKHiXZr"
+    },
+    {
+      "album": {
         "name": "BANSOMA",
         "url": "https://open.spotify.com/album/0HPd25QuskQjhCQ0gykusK"
       },
@@ -2428,6 +2468,24 @@
       "duration_ms": 187237,
       "name": "BASH BASH - feat. JP THE WAVY & Awich",
       "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
+    },
+    {
+      "album": {
+        "name": "From hot north side",
+        "url": "https://open.spotify.com/album/0K2Dd8br598Op5rMuJU56C"
+      },
+      "artists": [
+        {
+          "name": "Authority",
+          "url": "https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123240,
+      "name": "BAYABAYA",
+      "url": "https://open.spotify.com/track/3eDaaKkjXIqswkLUfxuw7l"
     },
     {
       "album": {
@@ -2976,7 +3034,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 237371,
       "name": "Big Bluntz",
       "url": "https://open.spotify.com/track/4MgMrlzj5JTM36ioDfPjBL"
@@ -6518,7 +6576,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 182803,
       "name": "Empire Strikes Back (feat. PUNPEE)",
       "url": "https://open.spotify.com/track/1YTp1M9QcTajeTHxiVCci1"
@@ -6976,6 +7034,28 @@
       "duration_ms": 116666,
       "name": "EXPRESS",
       "url": "https://open.spotify.com/track/3s66CjZ1flfIbIch29B8b4"
+    },
+    {
+      "album": {
+        "name": "Eyes on you (feat. Masato Hayashi)",
+        "url": "https://open.spotify.com/album/5FFTFUZvWI1qiPg9476ZHs"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA"
+        },
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171305,
+      "name": "Eyes on you (feat. Masato Hayashi)",
+      "url": "https://open.spotify.com/track/3bBuFud7OatqgOA7u8J8De"
     },
     {
       "album": {
@@ -7624,6 +7704,28 @@
       "duration_ms": 167586,
       "name": "footbath",
       "url": "https://open.spotify.com/track/4apaTspsNn2F9rT0cdq7dp"
+    },
+    {
+      "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/2oUKDqojhgfDu1Vfo5r5yw"
+      },
+      "artists": [
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147168,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/4Fnd3gIheWMWXSbdxjcuOJ"
     },
     {
       "album": {
@@ -9680,7 +9782,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 274909,
       "name": "HIP HOP FOR LIFE",
       "url": "https://open.spotify.com/track/72ZYeS6ljN7QAKcW6K8RAX"
@@ -10894,7 +10996,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 142000,
       "name": "ITSUDEMO",
       "url": "https://open.spotify.com/track/3l35LgmpJ3RfZP91UJ2qtL"
@@ -11022,6 +11124,28 @@
       "duration_ms": 171468,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f"
+    },
+    {
+      "album": {
+        "name": "interchange",
+        "url": "https://open.spotify.com/album/69OYpgaZN4DmNbTVajIIBC"
+      },
+      "artists": [
+        {
+          "name": "KERENMI",
+          "url": "https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132131,
+      "name": "join my band - feat. Skaai",
+      "url": "https://open.spotify.com/track/4kXPHQ9ortwiLHywFPM2T3"
     },
     {
       "album": {
@@ -14753,6 +14877,24 @@
     },
     {
       "album": {
+        "name": "Negotiation",
+        "url": "https://open.spotify.com/album/04kDaAC5ipTyddbhV14WNq"
+      },
+      "artists": [
+        {
+          "name": "\u5996\u8276\u91d1\u9b5a",
+          "url": "https://open.spotify.com/artist/5VAJ9ycuX78RqGuCC0xfFx"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209633,
+      "name": "Negotiation",
+      "url": "https://open.spotify.com/track/5vwWA91nvwyngg2YsbYZFo"
+    },
+    {
+      "album": {
         "name": "neko",
         "url": "https://open.spotify.com/album/0eSm9hh0EfRwqiypXNS1uz"
       },
@@ -16155,6 +16297,32 @@
     },
     {
       "album": {
+        "name": "AFTER MANIAC",
+        "url": "https://open.spotify.com/album/7jr8vYYlj25JjnRdO7Qy5D"
+      },
+      "artists": [
+        {
+          "name": "Weird the art",
+          "url": "https://open.spotify.com/artist/2LzqZwMdbkKxrY7v2vznyP"
+        },
+        {
+          "name": "Sart",
+          "url": "https://open.spotify.com/artist/4PugGE5RJijvszPRE3Y1KP"
+        },
+        {
+          "name": "Flat Line Classics",
+          "url": "https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ol fly lab",
+      "url": "https://open.spotify.com/track/3obE4xD3n0YqTyeRGFjshH"
+    },
+    {
+      "album": {
         "name": "OLD ROOKIE EP.1",
         "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
       },
@@ -17258,6 +17426,28 @@
       "duration_ms": 177870,
       "name": "Plan G.",
       "url": "https://open.spotify.com/track/4KV0OKAyAZZtDzOU2DjzrE"
+    },
+    {
+      "album": {
+        "name": "Playa (feat. DIAMOND MQT)",
+        "url": "https://open.spotify.com/album/4P8QWaCkzDvvXtDcTjvdg0"
+      },
+      "artists": [
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Playa (feat. DIAMOND MQT)",
+      "url": "https://open.spotify.com/track/0gy8Quz81o6sXVlr5QzulF"
     },
     {
       "album": {
@@ -19073,6 +19263,32 @@
     },
     {
       "album": {
+        "name": "Sagging My Jeans (feat. Lil Ash Zange & Tohji)",
+        "url": "https://open.spotify.com/album/1JV4fJ5l4dqhbm1RPUkLBB"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "Lil Ash ZANGE",
+          "url": "https://open.spotify.com/artist/6CeSgCO0SRpwqhTOCPKvKM"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196899,
+      "name": "Sagging My Jeans (feat. Lil Ash Zange & Tohji)",
+      "url": "https://open.spotify.com/track/7IdJ0etPnVFQg6teIH21kj"
+    },
+    {
+      "album": {
         "name": "Saggy jeans",
         "url": "https://open.spotify.com/album/2TxbRarF8vdus89tcmU0sJ"
       },
@@ -19164,7 +19380,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 175978,
       "name": "SAKURABA - Remix",
       "url": "https://open.spotify.com/track/0DBzMjsKf6TqMW5B97oIlC"
@@ -19186,7 +19402,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 170000,
       "name": "Sakurazaka",
       "url": "https://open.spotify.com/track/1FHfiHzUtlUNjiqaSOrcn9"
@@ -20570,7 +20786,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 271807,
       "name": "Starfish (feat. TOSHIKI HAYASHI (%C))",
       "url": "https://open.spotify.com/track/56voauWdYEIyL8yuZaeMka"
@@ -21260,7 +21476,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 160661,
       "name": "TAKE-OFF",
       "url": "https://open.spotify.com/track/5ZPsgg1WhMxoovwZVYHbIB"
@@ -21484,7 +21700,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 200847,
       "name": "TEENAGE PROBLEM",
       "url": "https://open.spotify.com/track/4xtehTMpzN76ZQ6lhGtAYZ"
@@ -24126,6 +24342,28 @@
       "duration_ms": 212168,
       "name": "World is Ours",
       "url": "https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/0HTNHb1uSnTA8h4c1WQcPm"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "WATAPACHI",
+          "url": "https://open.spotify.com/artist/3jn7wt2ywocl6A8LOS2YyH"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/2RuDratTmJvZIKCsi4gWWB"
     },
     {
       "album": {

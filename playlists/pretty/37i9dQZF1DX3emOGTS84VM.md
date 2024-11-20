@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,770 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,773 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 55 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 |
 | 56 | [熱帯夜](https://open.spotify.com/track/6SFsLgPN723kbqjIPeKEY7) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [熱帯夜](https://open.spotify.com/album/0QMVLt8nMN6tjXoahg73eC) | 3:03 |
 | 57 | [Call For You](https://open.spotify.com/track/6Cau0r3HCWhs0BktHD7WJo) | [ET.PAT](https://open.spotify.com/artist/1o0C2LfpcBZpocihcZPxsN) | [Call For You](https://open.spotify.com/album/1FgNPz9Lltbrys0IaOaKR7) | 2:37 |
-| 58 | [ANWT](https://open.spotify.com/track/6tsGbu2Ypx6BrtgEupb38T) | [William Alexander](https://open.spotify.com/artist/1HASnjzriWtHizATB0JDlu) | [Ghosts](https://open.spotify.com/album/3qS1maZeaHoFrs2MOuAFZQ) | 2:19 |
+| 58 | [Anwt](https://open.spotify.com/track/6tsGbu2Ypx6BrtgEupb38T) | [William Alexander](https://open.spotify.com/artist/1HASnjzriWtHizATB0JDlu) | [Ghosts](https://open.spotify.com/album/3qS1maZeaHoFrs2MOuAFZQ) | 2:19 |
 | 59 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 |
 | 60 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 |
 

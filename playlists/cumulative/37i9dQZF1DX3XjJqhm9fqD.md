@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Naïka
 
-250 songs - 14 hr 58 min
+251 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Cashapp Cashapp Zelle](https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Cashapp Cashapp Zelle](https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo) | 1:01 | 2023-09-24 |  |
 | [Chasing Amy](https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Before I Spill Myself](https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq) | 4:08 | 2021-12-06 | 2023-02-18 |
 | [Cliffone](https://open.spotify.com/track/6Zi9DIVY8J84zsAJlPehdz) | [Ti Mari](https://open.spotify.com/artist/5KctvKCUAgtZDV6G7vneeF) | [Cliffone](https://open.spotify.com/album/4vRyEW3OV9rfhbpi3kWCDC) | 2:40 | 2023-09-24 | 2024-01-03 |
-| [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 | 2023-02-17 |  |
+| [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 | 2023-02-17 | 2024-11-20 |
 | [Come to My Bedroom](https://open.spotify.com/track/5fnGy4kjvO08yxiFkVt1bG) | [JHK No AKA](https://open.spotify.com/artist/2jrzJQBx9kjJJpAJwKFT5A), [Meza45](https://open.spotify.com/artist/55PvXIRqh23ng6LNpKDoUk) | [Come to My Bedroom](https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9) | 2:21 | 2023-08-18 | 2023-09-25 |
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-18 |  |
 | [Comme Papa](https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 3:40 | 2021-12-06 | 2023-02-18 |
@@ -195,6 +195,7 @@
 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 | 2021-12-06 |  |
 | [Rosé](https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Rosé](https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u) | 2:36 | 2023-09-01 | 2024-01-25 |
 | [Sa Pa Lov](https://open.spotify.com/track/6wPUmocLiBReFF8alCWSDG) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn) | [Sa Pa Lov](https://open.spotify.com/album/2wN2ENx1nxPVW2iAPDR3IK) | 4:54 | 2023-02-17 |  |
+| [Safe](https://open.spotify.com/track/1a0AIAK11kXO3pLeBMl0nY) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Safe](https://open.spotify.com/album/4WaPtei4DNIgFkogSFPZ2v) | 3:15 | 2024-11-19 |  |
 | [Sak Pase \(with Saint Levant & Lolo Zouaï\)](https://open.spotify.com/track/69d6auSK5QCTd70YrkYKMb) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sak Pase \(with Saint Levant & Lolo Zouaï\)](https://open.spotify.com/album/0iV9zepYN2Ky5Rok36pbjp) | 2:18 | 2023-06-09 |  |
 | [Sal vle](https://open.spotify.com/track/6EPdBY4aUC22eZ9t8SAQ4D) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1PVjIKd3Ez4RKBBQ300nB3) | [Sal vle](https://open.spotify.com/album/51a1D5B4HDjykKs2FyrE0u) | 4:30 | 2021-12-06 | 2022-07-29 |
 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 | 2022-07-14 |  |

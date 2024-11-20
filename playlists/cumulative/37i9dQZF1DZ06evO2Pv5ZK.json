@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297666,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
+    },
+    {
+      "album": {
         "name": "Ambient & Relax",
         "url": "https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5"
       },

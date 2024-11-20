@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Budsofspring",
+        "url": "https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134574,
+      "name": "Budsofspring",
+      "url": "https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w"
+    },
+    {
+      "album": {
         "name": "But A Whisper",
         "url": "https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r"
       },

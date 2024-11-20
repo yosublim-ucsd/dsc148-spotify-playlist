@@ -1,13 +1,57 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Nia Archives",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Zeds Dead",
   "num_followers": 502,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEJj29hjGHljWxbRab+uFN4gHN54qI",
+  "snapshot_id": "AAAEK+eHy2TLUFqGZIk1LOoL3UBHw/V4",
   "tracks": [
+    {
+      "added_at": "2024-11-19 15:07:27",
+      "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+    },
+    {
+      "added_at": "2024-11-19 15:07:49",
+      "album": {
+        "name": "Wicked & Dark",
+        "url": "https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
+        }
+      ],
+      "duration_ms": 190628,
+      "name": "Wicked & Dark",
+      "url": "https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA"
+    },
     {
       "added_at": "2024-11-16 00:30:17",
       "album": {

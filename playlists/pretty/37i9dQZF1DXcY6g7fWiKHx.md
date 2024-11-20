@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,717 likes - 264 songs - 21 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,727 likes - 264 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 44 | [Hue](https://open.spotify.com/track/7McdYczkJu76zhnphGgcWh) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Music Acadamy Students](https://open.spotify.com/artist/1LZCqGRoPABI5gRX2RqByU) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 5:38 |
 | 45 | [The Church And The Devil \- Axel Boman Remix](https://open.spotify.com/track/5lcuGmvDLSAGdPkIsWckme) | [Popnoname](https://open.spotify.com/artist/43BoT3OogAQeX24UASk3rG), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Horizons Remixes EP](https://open.spotify.com/album/26QbSnb2shFNAQWXwBkEsf) | 5:59 |
 | 46 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
-| 47 | [Freak Like U \- Club Mix](https://open.spotify.com/track/4Sv8UfMtBHBzR6n0yOlApc) | [Masarima](https://open.spotify.com/artist/1F8ENasYTdkuSb54ymSEjL) | [Freak Like U \(Club Mix\)](https://open.spotify.com/album/343AqAEz0Y1UncCPNpo9ZN) | 5:55 |
+| 47 | [Freak Like U \- Club Mix](https://open.spotify.com/track/4Sv8UfMtBHBzR6n0yOlApc) | [Masarima](https://open.spotify.com/artist/1F8ENasYTdkuSb54ymSEjL), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF) | [Freak Like U \(Club Mix\)](https://open.spotify.com/album/343AqAEz0Y1UncCPNpo9ZN) | 5:55 |
 | 48 | [Day We Met](https://open.spotify.com/track/7rCFzr3BYzeiu1A3NJT2sP) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [Spontaneous Order](https://open.spotify.com/album/16E1tOEfd32Ry573fmYvOO) | 4:06 |
 | 49 | [Jigoo \- Radio Edit](https://open.spotify.com/track/715vRxcbV6UakGuKFn84e5) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo](https://open.spotify.com/album/4aUmoAbT4my3dfPQTYUlOJ) | 4:03 |
 | 50 | [Joe Da Zin \- Omar S Detroit Remix](https://open.spotify.com/track/1O00qUXpISw5tFLb9UOdpM) | [Mad Rey](https://open.spotify.com/artist/1RPMb5s6cee0xfgR8XNvyx), [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8), [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [B.R.O](https://open.spotify.com/album/56TwpCWUL14KowJS3Lx9TC) | 4:20 |

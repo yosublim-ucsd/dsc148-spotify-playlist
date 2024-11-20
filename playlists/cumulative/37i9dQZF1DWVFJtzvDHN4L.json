@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Beethoven Blues",
+        "url": "https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161361,
+      "name": "American Symphony Theme",
+      "url": "https://open.spotify.com/track/12YNZAFHGLIrtzQU7cfnQ6"
+    },
+    {
+      "album": {
         "name": "American Beauty (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW"
       },
@@ -478,6 +496,24 @@
       "duration_ms": 218920,
       "name": "Hollow in the Ferns",
       "url": "https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI"
+    },
+    {
+      "album": {
+        "name": "Phantom Thread (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz"
+      },
+      "artists": [
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "House of Woodcock",
+      "url": "https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ"
     },
     {
       "album": {
@@ -1392,6 +1428,24 @@
       "duration_ms": 122899,
       "name": "The Globe Newsroom",
       "url": "https://open.spotify.com/track/5b5f2QcUDRvwj7Pz9HPlEr"
+    },
+    {
+      "album": {
+        "name": "The Room Next Door (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JDpsgYpOF3vNviR6CaCGS"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170939,
+      "name": "The House in the Woods",
+      "url": "https://open.spotify.com/track/2uFgIdXhAbXiqEH6oIojwS"
     },
     {
       "album": {

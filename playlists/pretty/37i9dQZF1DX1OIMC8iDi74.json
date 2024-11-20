@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: TroyBoi",
-  "num_followers": 886413,
+  "num_followers": 886412,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
         "name": "In The Cut",
         "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 167516,
       "name": "In The Cut",
       "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "Rainbow Funk",
-        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Rainbow Funk",
-      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 154225,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
+        "name": "Rainbow Funk",
+        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Rainbow Funk",
+      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
+        "name": "All Night (nikko Remix)",
+        "url": "https://open.spotify.com/album/1RgvHw3Aa6CESMov98rRfa"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "All Night - nikko Remix",
+      "url": "https://open.spotify.com/track/41iPKptMuGsJ4FKm73e9RB"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
         "name": "Your Lovin'",
         "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 147487,
       "name": "ARE WE HAVING FUN OR WHAT?",
       "url": "https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
-        "name": "All Night (nikko Remix)",
-        "url": "https://open.spotify.com/album/1RgvHw3Aa6CESMov98rRfa"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "All Night - nikko Remix",
-      "url": "https://open.spotify.com/track/41iPKptMuGsJ4FKm73e9RB"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/2vkiEyNKrb3hEz9Q5r3g24"
-      },
-      "artists": [
-        {
-          "name": "WINK",
-          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
-        }
-      ],
-      "duration_ms": 168923,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/2stvLZBrGWwHQPQKgahoDU"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 193333,
       "name": "Shift",
       "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/2vkiEyNKrb3hEz9Q5r3g24"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/2stvLZBrGWwHQPQKgahoDU"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "12345678",
-        "url": "https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 124804,
-      "name": "12345678",
-      "url": "https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
         "name": "NEED ME",
         "url": "https://open.spotify.com/album/5lu5cfXFepG55yvescWOCV"
       },
@@ -1899,6 +1883,38 @@
       "duration_ms": 198857,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/0inWEfsFk8ybCjvYcvE2kE"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ"
+      },
+      "artists": [
+        {
+          "name": "KEPIK",
+          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
+        "name": "12345678",
+        "url": "https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 124804,
+      "name": "12345678",
+      "url": "https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1943,42 +1959,22 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "Can't Talk",
-        "url": "https://open.spotify.com/album/5XAEvDrse2d2865LjgSik3"
+        "name": "SEEING DOUBLE EP",
+        "url": "https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
         },
         {
-          "name": "Famous Dex",
-          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
         }
       ],
-      "duration_ms": 150110,
-      "name": "Can't Talk",
-      "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
-        "name": "DYSPHORIA",
-        "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 157637,
-      "name": "DYSPHORIA",
-      "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+      "duration_ms": 237428,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w"
     }
   ],
   "unique_name": "Trap Mojito",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sam Fender \(pictured\), Tate McRae, Linkin Park and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,062 likes - 122 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,087 likes - 122 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 46 | [When I Wake Up I'm Sad](https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [When I Wake Up I'm Sad](https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG) | 4:27 |
 | 47 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 48 | [Much About Love](https://open.spotify.com/track/63Xu7Ldr2FPLxpRbqZF63f) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [redridinghoodldn](https://open.spotify.com/artist/54eIhwHHRhMQubiPEiJsd1) | [Much About Love](https://open.spotify.com/album/4pEPzi1oapOSAJqYRWVoNW) | 3:15 |
-| 49 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
+| 49 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
 | 50 | [Meaningful Captions](https://open.spotify.com/track/2XcjUCCCa914LnuJDI7IND) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs) | [Meaningful Captions](https://open.spotify.com/album/6TlYFIuZlp8y2IZWYlTrDG) | 2:19 |
 | 51 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
 | 52 | [Don't Wanna Wake Up](https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Don't Wanna Wake Up](https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi) | 4:49 |

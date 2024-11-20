@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-115 songs - 7 hr 29 min
+116 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Deux valses pour deux pianos: I\. Valse lente \(arr\. for Solo Piano\)](https://open.spotify.com/track/2g8J31ZSDiHfpbj4SDiwMD) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Eric Le Sage](https://open.spotify.com/artist/6JSdWtNdhfjutA5r16UOpx) | [Deux valses pour deux pianos: I\. Valse lente \(arr\. for Solo Piano\)](https://open.spotify.com/album/1L9ROmc0o1iDp79dUGQdcP) | 1:42 | 2022-09-09 |  |
 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 | 2022-01-24 |  |
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 | 2023-02-03 |  |
+| [Dusklight Movement](https://open.spotify.com/track/39H9T9bTB3A8Pf3LCJ2LOt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:17 | 2024-11-19 |  |
 | [Fantasia No\. 3 in D Minor, K\. 397](https://open.spotify.com/track/4yExhO3Vh6bLW32qU4DOOs) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger](https://open.spotify.com/album/7rZomvm8hIPSECCPFgAVBf) | 5:46 | 2021-12-06 |  |
 | [French Suite No\. 5 in G Major, BWV 816: I\. Allemande](https://open.spotify.com/track/6omFR3t3gc8xuIVI8DyRuI) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [J.S\. Bach: French Suite No\. 5 in G Major, BWV 816: I\. Allemande](https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo) | 2:26 | 2023-03-14 |  |
 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6jNL1rh8p3SVWYmosZxuWT) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP) | [Tchaikovksy: Piano Concerto No\. 1](https://open.spotify.com/album/6kWB1eBRomYBtAn7jYDmCQ) | 3:36 | 2024-03-22 | 2024-04-19 |

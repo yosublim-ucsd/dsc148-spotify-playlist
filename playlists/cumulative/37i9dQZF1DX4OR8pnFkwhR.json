@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u540d\u8a89\u4f1d\u8aac",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u97f3\u7530\u96c5\u5247",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 291000,
       "name": "0927",
       "url": "https://open.spotify.com/track/7wCH4EnCS0mafVPVDACOMG"
+    },
+    {
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "100",
+      "url": "https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4"
     },
     {
       "album": {
@@ -456,6 +474,24 @@
       "duration_ms": 265866,
       "name": "26",
       "url": "https://open.spotify.com/track/3leoAvlLLsApKXzlIp79tu"
+    },
+    {
+      "album": {
+        "name": "27:00",
+        "url": "https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208955,
+      "name": "27:00",
+      "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
     },
     {
       "album": {
@@ -2434,7 +2470,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 200397,
       "name": "BUTTERFLY TATTOO",
       "url": "https://open.spotify.com/track/0T7CTxbjaGj57xMrKNWqj5"
@@ -3318,7 +3354,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 214937,
       "name": "Coming-of-age Story",
       "url": "https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi"
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 194164,
       "name": "Crack!",
       "url": "https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n"
@@ -3556,6 +3592,24 @@
       "duration_ms": 222986,
       "name": "Dadaism",
       "url": "https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2"
+    },
+    {
+      "album": {
+        "name": "Daisy rainy",
+        "url": "https://open.spotify.com/album/5de91J89nV8M2SBpQbaUPa"
+      },
+      "artists": [
+        {
+          "name": "JIJIM",
+          "url": "https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265354,
+      "name": "Daisy rainy",
+      "url": "https://open.spotify.com/track/6eI2dBJDms9srJfLsso596"
     },
     {
       "album": {
@@ -18823,6 +18877,24 @@
     },
     {
       "album": {
+        "name": "\u661f\u3092\u3064\u3050\u4eba",
+        "url": "https://open.spotify.com/album/3Ky4L0eF7azLC5nHX3Zem5"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3046\u3055\u308a",
+          "url": "https://open.spotify.com/artist/5maAP01A7kSizjklOLYNa8"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216152,
+      "name": "\u3046\u308d\u3053",
+      "url": "https://open.spotify.com/track/0T9ezQETor4XtnvX3D6XAk"
+    },
+    {
+      "album": {
         "name": "EME-ROAD",
         "url": "https://open.spotify.com/album/0lBJ2jkufTwDu6FM8I4xsR"
       },
@@ -19014,7 +19086,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 432599,
       "name": "\u304d\u308c\u3044\u306a\u304a\u3058\u3055\u3093",
       "url": "https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx"
@@ -24981,6 +25053,24 @@
     },
     {
       "album": {
+        "name": "\u624b\u306e\u3072\u3089\u671b\u9060\u93e1",
+        "url": "https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O"
+      },
+      "artists": [
+        {
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186347,
+      "name": "\u5348\u5f8c\u4e8c\u6642\u306e\u901a\u308a\u96e8",
+      "url": "https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx"
+    },
+    {
+      "album": {
         "name": "\u5358\u7126\u70b9",
         "url": "https://open.spotify.com/album/3SJDK6D7UJXJhaATo1ql6j"
       },
@@ -27640,7 +27730,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 157853,
       "name": "\u6700\u679c\u3066",
       "url": "https://open.spotify.com/track/17nUP8mnj3UICzfQHyngbv"

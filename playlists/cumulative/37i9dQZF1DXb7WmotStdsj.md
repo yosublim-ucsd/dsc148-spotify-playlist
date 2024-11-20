@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-217 songs - 17 hr 32 min
+218 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 | 2024-06-01 |
 | [رڨصيلي كي شابة شوشو](https://open.spotify.com/track/4iGQQ8qFVv40cAWfMXHhxZ) | [Cheb Fatah Sghir](https://open.spotify.com/artist/1H57SKDukOD5AEpQkBkeyO) | [رڨصيلي كي شابة شوشو](https://open.spotify.com/album/6zzNV2C7hhBeRY1ndwtFnZ) | 2:56 | 2024-09-01 |  |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 | 2024-07-17 |
+| [شراب الويدان](https://open.spotify.com/track/1otNyAT6Af7ilamYB4xdId) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/605uxuCJibXdgmzAKxdj8B) | 5:49 | 2024-11-19 |  |
 | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/track/1oGCTuC3NvImizNOtJT5aC) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/album/1TvQ3FKMchGMi67E2uYYrP) | 8:40 | 2023-12-28 |  |
 | [شكون لي دارلي](https://open.spotify.com/track/6lCJ2Q2aA4AlQP3mnKpC0J) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [شكون لي دارلي](https://open.spotify.com/album/0ZhIe4r9dkwRJsXHb47P3g) | 1:40 | 2024-03-16 | 2024-05-14 |
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-01-24 |  |
@@ -218,7 +219,7 @@
 | [لي نخرج معاها نربح عليها](https://open.spotify.com/track/0ztDisLpRcEKfHAPf1DDtK) | [Cheb Oussama](https://open.spotify.com/artist/39NbSFvjWk8fXvaoorAv6E), [Hocine Ghouila](https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt) | [لي نخرج معاها نربح عليها](https://open.spotify.com/album/6h9P3Nup7ibkk49FeUuWIh) | 4:01 | 2024-10-14 |  |
 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 | 2023-12-30 |
-| [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Studio Pachichi](https://open.spotify.com/artist/0iAHWqNr6Q6Utnpkh3Zurt) | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 | 2024-08-05 |  |
+| [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Studio Pachichi](https://open.spotify.com/artist/0iAHWqNr6Q6Utnpkh3Zurt) | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 | 2024-08-05 | 2024-11-20 |
 | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/track/5Ax3wWbzNHGH4nyV3fEu95) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/album/7rzjlXhVqDHpOktPXjgRNl) | 6:12 | 2023-10-19 |  |
 | [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |
 | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/track/5NHNsu2SFsEJ06zPbRTomb) | [RaiJdid](https://open.spotify.com/artist/6eARrgJK4IDBeFTHcHIQwM) | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/album/44eg9fpdAVZwEMmNDCYXD8) | 7:56 | 2023-05-08 | 2023-10-03 |

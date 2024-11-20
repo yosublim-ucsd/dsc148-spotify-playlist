@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "In this together",
+        "url": "https://open.spotify.com/album/5bXrKMkAroH1NaSBiztFi2"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107769,
+      "name": "In this together",
+      "url": "https://open.spotify.com/track/2lqBIpqqBYbFLYqHMERzAq"
+    },
+    {
+      "album": {
         "name": "Indigo | Serendipity",
         "url": "https://open.spotify.com/album/5iWWHiqGGNmgANGeomXzFt"
       },
@@ -6440,6 +6458,24 @@
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/1KXFxgO9V1wUlKWUfV64m2"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/0fzwFVRbC5KnpP3plqCh7R"
     },
     {
       "album": {

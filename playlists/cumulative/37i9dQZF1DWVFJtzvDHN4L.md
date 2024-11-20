@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-90 songs - 4 hr 17 min
+93 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Game of Croquet](https://open.spotify.com/track/2TGTivEqpW9RUkfukL7vvA) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0) | 2:45 | 2021-11-19 |  |
 | [A Rose in Spanish Harlem \(Bonus Track\)](https://open.spotify.com/track/3jbDmjnUYXoEbuwHEnt12O) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:56 | 2021-11-19 |  |
 | [Alma](https://open.spotify.com/track/5s1mZcxqYhgmlvDxg4IGwt) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Phantom Thread \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz) | 4:07 | 2021-11-19 |  |
+| [American Symphony Theme](https://open.spotify.com/track/12YNZAFHGLIrtzQU7cfnQ6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 2:41 | 2024-11-19 |  |
 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 | 2021-11-19 |  |
 | [Beyond](https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Il Grande Male \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL) | 3:12 | 2023-05-12 |  |
 | [Brianna and Roger Theme](https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V) | 3:24 | 2021-11-19 | 2022-05-28 |
@@ -32,6 +33,7 @@
 | [Harry and Ginny](https://open.spotify.com/track/2iX2KVy2X2QEhTqx4ebOeO) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5gI4aiUCMxTkrjEeXDbybG) | 1:43 | 2021-11-19 |  |
 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-07-08 |  |
 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 | 2021-11-19 |  |
+| [House of Woodcock](https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Phantom Thread \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz) | 3:53 | 2024-11-19 |  |
 | [I Feel Alive](https://open.spotify.com/track/2GP6cPGsGLtiy99uJZ5ZL5) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Mountain Between Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m1tneZGVaqxQ43cy3dP0p) | 2:39 | 2021-11-19 | 2023-01-11 |
 | [I Remember My Name](https://open.spotify.com/track/65AGQ1piJE3BRpul7jEpip) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:13 | 2021-11-19 | 2022-05-28 |
 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 | 2023-06-27 |  |
@@ -79,6 +81,7 @@
 | [The Chair](https://open.spotify.com/track/1EcJYWBoOiF8TlcUyYPVY3) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [The Chair](https://open.spotify.com/album/22Y2C5UQbkvxQOzEUdjDG9) | 4:31 | 2021-11-19 |  |
 | [The Gift Of Mortality \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 | 2021-11-19 |  |
 | [The Globe Newsroom](https://open.spotify.com/track/5b5f2QcUDRvwj7Pz9HPlEr) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Spotlight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3u04rTgOYkILUtXzreNszQ) | 2:02 | 2021-11-19 |  |
+| [The House in the Woods](https://open.spotify.com/track/2uFgIdXhAbXiqEH6oIojwS) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [The Room Next Door \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JDpsgYpOF3vNviR6CaCGS) | 2:50 | 2024-11-19 |  |
 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 | 2021-11-19 |  |
 | [The Last Dinner](https://open.spotify.com/track/7csZBSybyqxBWgsmsD0eLM) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Score\)](https://open.spotify.com/album/7GqxefFfYUkModqa3muudO) | 1:50 | 2023-05-12 | 2024-04-19 |
 | [The Mind’s Eye](https://open.spotify.com/track/0RYvm6Wf0Z82UuH28lyV5J) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Never Look Away \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0n57OBgkXOdrBngFeje285) | 2:48 | 2021-11-19 |  |

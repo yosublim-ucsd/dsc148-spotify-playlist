@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Tagne f l'cover dyal akbar playlist dial rap f l'maghrib.
+> Pause f l'cover dyal akbar playlist dial rap f l'maghrib.
 
 322 songs - 17 hr 18 min
 

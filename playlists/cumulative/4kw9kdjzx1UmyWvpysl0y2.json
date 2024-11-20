@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 204000,
       "name": "Aklana",
       "url": "https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 174000,
       "name": "Assassins",
       "url": "https://open.spotify.com/track/7fUtz2v6funYLn8G1W8TdD"
@@ -1670,6 +1670,32 @@
       "duration_ms": 120759,
       "name": "Bella Ciao",
       "url": "https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX"
+    },
+    {
+      "album": {
+        "name": "Best Thing",
+        "url": "https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        },
+        {
+          "name": "Fagin",
+          "url": "https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV"
+        },
+        {
+          "name": "Marg Pappas",
+          "url": "https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235124,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH"
     },
     {
       "album": {

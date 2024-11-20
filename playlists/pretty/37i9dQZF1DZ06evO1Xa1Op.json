@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAACTrPovkDqNfixYJqhBw5rO",
+  "snapshot_id": "ZzqDgAAAAAD7UuPKU8yUdJGrKqhQCA45",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 256853,
       "name": "Yer Bounda Fara",
       "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Soya",
+      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 295200,
       "name": "Sadjona (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Soya",
-      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 331800,
       "name": "Cinquante six",
       "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
       "duration_ms": 194240,
       "name": "Ledi Coumbe",
       "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 392226,
-      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 392226,
+      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Secret",
         "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 267372,
-      "name": "Kombo Galia",
-      "url": "https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Niafunk\u00e9",
         "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 271280,
       "name": "Allah Uya",
       "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 267372,
+      "name": "Kombo Galia",
+      "url": "https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm"
     },
     {
       "added_at": null,

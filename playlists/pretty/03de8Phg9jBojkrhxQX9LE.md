@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,024 likes - 159 songs - 8 hr 40 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,023 likes - 159 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 12 | [In The Echo](https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In The Echo / Change](https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj) | 3:03 |
 | 13 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
 | 14 | [The Search](https://open.spotify.com/track/0OnBRB2Y6cx1FwJC48sNhY) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Thank You, Dream Girl](https://open.spotify.com/album/78fb8mCjI4ZFk50yeiqYNM) | 4:20 |
-| 15 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
+| 15 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
 | 16 | [Down](https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 3:20 |
 | 17 | [Drums of Death](https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/1au1j5lu62capHe16MhXLF) | 3:11 |
 | 18 | [Foul Tarnished](https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Foul Tarnished](https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye) | 3:09 |

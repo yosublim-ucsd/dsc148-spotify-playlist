@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-500 songs - 21 hr 37 min
+501 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Departure](https://open.spotify.com/track/1I9RJCEMEe76p5NtbWGSlS) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Departure](https://open.spotify.com/album/7LVDfltFH3FETGCYJU56zO) | 2:27 | 2024-03-19 |  |
 | [des nuages doux](https://open.spotify.com/track/1OtnwDBOu74UPEJ8jdR7Pb) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [des nuages doux](https://open.spotify.com/album/5ZMf2hvC7plOhNiDRuqrbm) | 1:51 | 2023-01-20 | 2024-02-03 |
+| [Dew And Mist](https://open.spotify.com/track/01HdpBU1dkV4LTRV67PXOF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dew And Mist](https://open.spotify.com/album/5RVjgpEhr3z7RtCf8qwgf8) | 3:14 | 2024-11-19 |  |
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-03 |  |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2022-04-14 | 2022-07-16 |
 | [Dim](https://open.spotify.com/track/4ux5NLToXWFBWzJHyGdqLM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Dim](https://open.spotify.com/album/4TSU2w7UkbhAcs7Oz731kM) | 2:47 | 2024-03-04 |  |

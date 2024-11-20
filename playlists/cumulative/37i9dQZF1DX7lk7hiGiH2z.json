@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr Weihnachten",
+        "url": "https://open.spotify.com/album/1NOU6ldjBF3sxO2aXlQTtq"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225178,
+      "name": "Fragen an den Nikolaus",
+      "url": "https://open.spotify.com/track/2u8PBWetDLQ4SvbaorbIRL"
+    },
+    {
+      "album": {
         "name": "Freunde finden / Devenir Amis",
         "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
       },

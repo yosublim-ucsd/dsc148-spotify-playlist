@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "24/7(inst)",
+        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
+      },
+      "artists": [
+        {
+          "name": "shai",
+          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141174,
+      "name": "24/7(inst)",
+      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
+    },
+    {
+      "album": {
         "name": "A Miniature Existence",
         "url": "https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT"
       },
@@ -1885,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "album": {
         "name": "Eshajori",
         "url": "https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI"
       },
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 164000,
       "name": "Sad Romance - Girl Ultra Version",
       "url": "https://open.spotify.com/track/1oFGcQTXmgQ2Ljba65KodC"
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 245500,
       "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
       "url": "https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ"

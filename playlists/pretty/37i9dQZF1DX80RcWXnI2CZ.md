@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 
 > Always close at hand when a friend is in need, this character brings light, positivity, and an often underestimated strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,688 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,778 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 | 10 | [Poppippo](https://open.spotify.com/track/2JFOvMEbJSRQvjuFvAZv2L) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [Exit Trance Presents Umauma Dekiru Trance Wo Tsukuttemita 7 Shiharai Wa Makasero \(Baribari Standard Edition\)](https://open.spotify.com/album/5eaPwQbdgi1ZWg3alVifSh) | 3:28 |
 | 11 | [Hellokittybalahcurrihellokitty美味しい](https://open.spotify.com/track/51IEjUEnT7n3cgIXynxNTN) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [Hellokittybalahcurrihellokitty美味しい](https://open.spotify.com/album/4aonD1CFMOjR9Ni6F7MjxP) | 3:47 |
 | 12 | [Caramelldansen](https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R) | [Caramella Girls](https://open.spotify.com/artist/73r19TWxqEnnFf6O1u1e92) | [Supergott \(Speedy Mixes\)](https://open.spotify.com/album/5zvb76rGpvP8oDE2n3tytx) | 2:55 |
-| 13 | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |
+| 13 | [where’d u go? o\(╥﹏╥\)o .｡\*ﾟ+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥﹏╥\)o .｡\*ﾟ+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |
 | 14 | [PONPONPON](https://open.spotify.com/track/1c6C2wg7PRbPBRRUaEvheC) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [ぱみゅぱみゅレボリューション](https://open.spotify.com/album/0dYoEirIRah6OKJl1okk6Z) | 4:02 |
 | 15 | [Magic of Love](https://open.spotify.com/track/1cYA3YfOwvpaw7Tj87GpHT) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Magic of Love](https://open.spotify.com/album/3AAqVs6QQjV6nJW1vTzvIB) | 3:41 |
 | 16 | [Cinderella step](https://open.spotify.com/track/5n13HUQaAC0fo1Jb8mhQqq) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:05 |

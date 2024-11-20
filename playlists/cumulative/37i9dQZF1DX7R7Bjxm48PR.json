@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Peaceful",
+        "url": "https://open.spotify.com/album/4YFUurIBWEG22kvoKAEv1F"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169487,
+      "name": "Peaceful",
+      "url": "https://open.spotify.com/track/3TfhNUPkPtL9UaAZgGsEVO"
+    },
+    {
+      "album": {
         "name": "Mind Flow",
         "url": "https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H"
       },
@@ -1896,6 +1914,24 @@
       "duration_ms": 206063,
       "name": "reset",
       "url": "https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO"
+    },
+    {
+      "album": {
+        "name": "Restep",
+        "url": "https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg"
+      },
+      "artists": [
+        {
+          "name": "Montauk Season",
+          "url": "https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106849,
+      "name": "Restep",
+      "url": "https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl"
     },
     {
       "album": {
@@ -2220,6 +2256,24 @@
       "duration_ms": 120935,
       "name": "Tales of an Oak",
       "url": "https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw"
+    },
+    {
+      "album": {
+        "name": "Tantric",
+        "url": "https://open.spotify.com/album/13Sge2bQYkTqeNmKkLwxcm"
+      },
+      "artists": [
+        {
+          "name": "OIYYIO",
+          "url": "https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160901,
+      "name": "Tantric",
+      "url": "https://open.spotify.com/track/2OtR2GX3FKDf7JlLnGCIDu"
     },
     {
       "album": {

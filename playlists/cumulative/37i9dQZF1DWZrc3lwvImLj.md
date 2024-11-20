@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-440 songs - 19 hr 16 min
+441 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2021-12-14 | 2023-08-08 |
 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 | 2023-06-20 |  |
 | [Vies Antérieures](https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Vies Antérieures](https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364) | 2:17 | 2024-09-10 |  |
+| [Viola](https://open.spotify.com/track/3gSGVPcvojY7dkTdQbMnpO) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Viola](https://open.spotify.com/album/4EF3YhPhYZJmdswT3mc9nx) | 2:19 | 2024-11-19 |  |
 | [Vocalise](https://open.spotify.com/track/4yhdD7Igtyu7J3eCPj4APk) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [Vocalise](https://open.spotify.com/album/51jIcUb0nEuyIHmV7TQtUG) | 2:35 | 2023-08-14 | 2023-11-08 |
 | [Waiting by the window](https://open.spotify.com/track/0GnBJWhl0wf9MIs0GKQxq0) | [Isaques Blues](https://open.spotify.com/artist/3w04ME5pSiFF5LK1SB2ea0) | [Waiting by the window](https://open.spotify.com/album/0MfGoVFL3ckwqL2jT7NQLG) | 2:28 | 2023-11-14 |  |
 | [Waiting In Vain](https://open.spotify.com/track/3gh4JyJe6Zwu6teyNV2Uvo) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Waiting In Vain](https://open.spotify.com/album/76PzXLYCpbW6DVh9F6l1o4) | 2:15 | 2023-05-09 |  |

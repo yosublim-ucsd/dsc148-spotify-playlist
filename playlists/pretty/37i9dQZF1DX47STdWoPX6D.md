@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: DKG KIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,371 likes - 116 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,388 likes - 116 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 31 | [WWJD](https://open.spotify.com/track/4NZPZJVr2aCie3hYtI8mup) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [WWJD](https://open.spotify.com/album/2IZhh9Ezu6Ru01VShCZucI) | 2:16 |
 | 32 | [GET UP \(feat\. Chuck Acid\)](https://open.spotify.com/track/7q3vxlgVfZfJYzMWAPpZAF) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK), [Chuck Acid](https://open.spotify.com/artist/6o9wQiCJvuOnTi2RrtuuQT) | [GET UP](https://open.spotify.com/album/5aD0Jz2J2uCw6TtS3ELBvq) | 3:13 |
 | 33 | [WONDER](https://open.spotify.com/track/2jzBLNQVQ1owHCJVtkCvL2) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [WONDER](https://open.spotify.com/album/38pWibm0p4HF6MyyGgMKAh) | 2:44 |
-| 34 | [God Bless The Trap](https://open.spotify.com/track/7doA0imMfCFraL2muyz8f7) | [404 chew](https://open.spotify.com/artist/2JBd00q6CqrSTCUhHvRLKZ), [bloody Candy](https://open.spotify.com/artist/5IQaOyIzubjmSh7jiynBMx), [Hunni B](https://open.spotify.com/artist/6uT5TtcWvPtDeKyXnBhpb2), [Gappstar St\. Clair](https://open.spotify.com/artist/5cPaY0WtVGHWkWmpFxtSJ1) | [God Bless The Trap](https://open.spotify.com/album/1SOZylnsAYQYnd6LWnADP9) | 2:55 |
+| 34 | [God Bless The Trap](https://open.spotify.com/track/7doA0imMfCFraL2muyz8f7) | [404 chew](https://open.spotify.com/artist/2JBd00q6CqrSTCUhHvRLKZ), [bloody Candy](https://open.spotify.com/artist/5IQaOyIzubjmSh7jiynBMx), [Gappstar St\. Clair](https://open.spotify.com/artist/5cPaY0WtVGHWkWmpFxtSJ1), [Hunni B](https://open.spotify.com/artist/6uT5TtcWvPtDeKyXnBhpb2) | [God Bless The Trap](https://open.spotify.com/album/1SOZylnsAYQYnd6LWnADP9) | 2:55 |
 | 35 | [I'm Still Here](https://open.spotify.com/track/2elXTplCEmHhdtOcASlbfT) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [I'm Still Here](https://open.spotify.com/album/5RlL9a5k5iUGzzUnWoeC0W) | 2:42 |
 | 36 | [Still Standing](https://open.spotify.com/track/3oC35n7citT8lcBZHOAKhf) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [SET Sail](https://open.spotify.com/album/1UuVfMjQUk9quzZr0hx97U) | 2:39 |
 | 37 | [Move](https://open.spotify.com/track/25mp9kXFVDGHQFPWSOw2TK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Sarah Nathalié](https://open.spotify.com/artist/1QREgi3vk6vWdQK5ZKltgX) | [Move](https://open.spotify.com/album/0MrR3oM9oDYT0xKSYglKiT) | 3:55 |

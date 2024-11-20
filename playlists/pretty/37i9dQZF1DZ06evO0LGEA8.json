@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 253494,
+  "num_followers": 253640,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzkyAAAAAACAb5gUNd9H0mVjGZ89/ND+",
+  "snapshot_id": "ZzqDgAAAAACuBvtg/1Lc/p/gA4Cp9vWd",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hits Visuales, Vol. 1",
+        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 291974,
+      "name": "Alcoholizados",
+      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estilo Fino",
         "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 254000,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/4CsFaJKLoZX16bWgpv8Q6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 291974,
-      "name": "Alcoholizados",
-      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Nia Archives",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Zeds Dead",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+    },
+    {
+      "album": {
         "name": "Take ft. Kimbra",
         "url": "https://open.spotify.com/album/40vNmeAq90YxNen2h1COXQ"
       },
@@ -3026,6 +3044,36 @@
       "duration_ms": 269000,
       "name": "When It Rains (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"
+    },
+    {
+      "album": {
+        "name": "Wicked & Dark",
+        "url": "https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190628,
+      "name": "Wicked & Dark",
+      "url": "https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA"
     },
     {
       "album": {

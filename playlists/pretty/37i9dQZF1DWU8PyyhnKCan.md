@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,386 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,382 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 73 | [パラサイト](https://open.spotify.com/track/4ZC9kGWHtzSPpXdXqAJnuK) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/0Mp8qsZhLGAX1XTL1PE0YP) | 2:45 |
 | 74 | [アポカリプスなう](https://open.spotify.com/track/4Ab4uzSvtMlyohiqTXo1yW) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [アポカリプスなう](https://open.spotify.com/album/0Dyk9Gk5frgGckorMiwNun) | 2:57 |
 | 75 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
-| 76 | [小犬のカーニバル \~小犬のワルツより\~](https://open.spotify.com/track/3f7fLomxo8vYR3kcrENPzd) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | [クラシカロイド ショパン ムジーク \(挿入歌\)](https://open.spotify.com/album/7ATvGp2Lhg8zVCuVm351Tq) | 3:10 |
+| 76 | [小犬のカーニバル ～小犬のワルツより～](https://open.spotify.com/track/3f7fLomxo8vYR3kcrENPzd) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | [クラシカロイド ショパン ムジーク \(挿入歌\)](https://open.spotify.com/album/7ATvGp2Lhg8zVCuVm351Tq) | 3:10 |
 | 77 | [仮死化 \(feat\. 初音ミク\)](https://open.spotify.com/track/6PLxXK82pZ10AfD48XT6Ob) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [仮死化 \(feat\. 初音ミク\)](https://open.spotify.com/album/2DU6KJUeBmMFdPDzAfILFp) | 3:58 |
 | 78 | [GURU](https://open.spotify.com/track/44bhs2HUL9FLVB3hdYCF2x) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [GURU](https://open.spotify.com/album/7yd2EeJwKUL5mdU3B3DLVe) | 3:10 |
 | 79 | [マネキン](https://open.spotify.com/track/3BcWb0msot5CtVT8bSTSYJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [マネキン](https://open.spotify.com/album/2GpY4iShppsPlDxsTL2Apz) | 2:45 |

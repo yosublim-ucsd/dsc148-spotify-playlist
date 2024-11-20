@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,407 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,409 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 69 | [Cada Uno con Su Bandera](https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Cada Uno con Su Bandera](https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh) | 4:03 |
 | 70 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
 | 71 | [Caracol](https://open.spotify.com/track/6xwFHo1JqCygt44XjshESr) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/57QX9cwsgpXluNSKfytRvm) | 4:10 |
-| 72 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 |
-| 73 | [Reverdecer \(Remix\)](https://open.spotify.com/track/6MGbYcHtQy0z25zyZz1og5) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/6r1rUXbAI3jQiDEUGLHVrj) | 3:01 |
-| 74 | [Añoranza en las Yungas](https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:38 |
-| 75 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 |
+| 72 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 |
+| 73 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 |
+| 74 | [Reverdecer \(Remix\)](https://open.spotify.com/track/6MGbYcHtQy0z25zyZz1og5) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/6r1rUXbAI3jQiDEUGLHVrj) | 3:01 |
+| 75 | [Añoranza en las Yungas](https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:38 |
 | 76 | [La Línea del Río \- San Ignacio & Pol Nada Remix](https://open.spotify.com/track/4QjDr4c2f7RMdK0h0DI091) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [10 Años](https://open.spotify.com/album/6mrRqGRAlSKITzEOqldUeT) | 4:08 |
 | 77 | [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 |
 | 78 | [Que Bailen](https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Que Bailen](https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP) | 5:14 |
 | 79 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO) | 4:01 |
-| 80 | [Cometa](https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Cometa](https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP) | 4:56 |
+| 80 | [Tilcara](https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q) | [Apuna](https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g) | [Tilcara](https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg) | 3:26 |
 
 Snapshot ID: `Zxf4WwAAAADsivT4eY2jdkA2GHC+CvfE`

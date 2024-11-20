@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Tate McRae
 
-6,800 songs - 14 day 2 hr 46 min
+6,801 songs - 14 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6013,7 +6013,7 @@
 | [the way down](https://open.spotify.com/track/0sTcLTFgRDG53MhYpIjk67) | [Kaitlin Stark](https://open.spotify.com/artist/4MFDN9NUdVD0ajRlC1GOJW) | [the way down](https://open.spotify.com/album/4zb23stm5zthcGvrqmAkDN) | 3:32 | 2022-10-07 | 2022-10-15 |
 | [The Way It Is](https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh) | [The Way It Is](https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7) | 2:30 | 2024-02-23 | 2024-03-09 |
 | [The Way It Was Before](https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [The Way It Was Before](https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN) | 3:00 | 2022-02-04 | 2022-02-12 |
-| [The Way It Was Before \(End Credits Version\) \- From the Skydance Animation Film “Spellbound”](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Skydance Animation Film “Spellbound”\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 | 2024-11-15 |  |
+| [The Way It Was Before \(End Credits Version\) \- From the Skydance Animation Film “Spellbound”](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 | 2024-11-15 |  |
 | [The Way She Moves](https://open.spotify.com/track/3ggpCMbp7276cdCaMj6A3q) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [The Way She Moves](https://open.spotify.com/album/3gO9oRmrXL4IyBlaxGz7KO) | 3:01 | 2024-08-02 | 2024-08-17 |
 | [The Way That I Am](https://open.spotify.com/track/7825A8eb1yq6VnYUEIWy6N) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [The Way That I Am](https://open.spotify.com/album/3UphMuBiKZjPU3TyOfLTBc) | 3:07 | 2023-06-16 | 2023-07-01 |
 | [the way that we started \(taylor\)](https://open.spotify.com/track/36AWmLYL4tMTfZseHQHoVl) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [the way that we started \(taylor\)](https://open.spotify.com/album/4epDMTI9SL9TRfiuDpbwFO) | 3:24 | 2022-12-16 | 2023-01-14 |
@@ -6140,6 +6140,7 @@
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 | 2024-02-24 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 | 2023-11-11 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-05-18 |
+| [Too Much To Say](https://open.spotify.com/track/6Odxbe9wixPpSlCnOyh5Ow) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Too Much To Say](https://open.spotify.com/album/0OVwfFpOM8J5CgRJr7XVaL) | 2:53 | 2024-11-15 |  |
 | [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 | 2024-02-16 | 2024-02-24 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-06-11 |
 | [Too Strange for the Circus](https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Too Strange for the Circus](https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4) | 3:11 | 2023-10-27 | 2023-11-18 |

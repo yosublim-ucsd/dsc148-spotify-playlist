@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 16 | [Hold You Close](https://open.spotify.com/track/6XUqh81UVxLLp9AUGoUW0E) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:47 |
 | 17 | [You Can Go](https://open.spotify.com/track/5L8VFI43vnr1n9O1t2xYOn) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [You Can Go](https://open.spotify.com/album/2GkcEIhJfO93IB4XF80jPR) | 2:22 |
 | 18 | [Plan B](https://open.spotify.com/track/47NALPlJmO9heUjMBwmGBt) | [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr) | [Plan B](https://open.spotify.com/album/6lug1N0hS94VcxQGY9ekng) | 3:40 |
-| 19 | [dawn](https://open.spotify.com/track/72jigqO30yB7NCYQ4rE7AT) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [dusk](https://open.spotify.com/album/2qp9qhgtySlWF53XO5WPUV) | 3:55 |
-| 20 | [chi girl](https://open.spotify.com/track/6tL3Sx7TzUxn8SP8G9uXvb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 3:06 |
+| 19 | [chi girl](https://open.spotify.com/track/6tL3Sx7TzUxn8SP8G9uXvb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 3:06 |
+| 20 | [dawn](https://open.spotify.com/track/72jigqO30yB7NCYQ4rE7AT) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [dusk](https://open.spotify.com/album/2qp9qhgtySlWF53XO5WPUV) | 3:55 |
 | 21 | [Breathe](https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Breathe](https://open.spotify.com/album/0LMqMuEwlwH98g8KXaJUZG) | 3:07 |
 | 22 | [Searching](https://open.spotify.com/track/4H491UBjQRT1PSBhR0sJuw) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Cosmic EP](https://open.spotify.com/album/1BILYdgS6lJKkFmlEgAWtP) | 7:02 |
 | 23 | [Gone](https://open.spotify.com/track/2ej590OSETiOikX8Oaiguo) | [Naomi Banks](https://open.spotify.com/artist/0Xqny1HXPGaxHIasTndWeS) | [Gone](https://open.spotify.com/album/2MkmtRjGOss89QGJ5Qw1ch) | 2:52 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 44 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
 | 45 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `Abh3iAAAAACIqZ200GXNtNSX38B+QeoL`
+Snapshot ID: `Abh9KAAAAACP92bQbiEK2h3e0yq1n5kX`

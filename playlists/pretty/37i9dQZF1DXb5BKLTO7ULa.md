@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,585 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,606 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [So Easy](https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C) | 3:28 |
 | 97 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
 | 98 | [take it offff](https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [take it offff](https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O) | 2:10 |
-| 99 | [Nearer My God to Thee \[Arr\. André Rieu\]](https://open.spotify.com/track/2PwncTcZplTKZKWcNqzjNk) | [Mason Lowell](https://open.spotify.com/artist/1K8golLawHAxr4bWuLN2rj), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT), [The Vrijthof Brass Players](https://open.spotify.com/artist/1IsC0dIHuUzzI6GuiIOdnX) | [Nearer My God to Thee \[Arr\. André Rieu\]](https://open.spotify.com/album/4z2yONrYHHwLxabb1Q0Plv) | 4:19 |
+| 99 | [Nearer My God to Thee \- Arr\. André Rieu](https://open.spotify.com/track/2PwncTcZplTKZKWcNqzjNk) | [Lowell Mason](https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT), [The Vrijthof Brass Players](https://open.spotify.com/artist/1IsC0dIHuUzzI6GuiIOdnX) | [Nearer My God to Thee \[Arr\. André Rieu\]](https://open.spotify.com/album/4z2yONrYHHwLxabb1Q0Plv) | 4:19 |
 | 100 | [11 Chorale Preludes, Op\. 122: No\. 8, Es ist ein Ros' entsprungen \(Arr\. Mandyczewski for Piano 4 Hands\)](https://open.spotify.com/track/7hCk0GKqw10Qmjjke5tK5v) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Brahms: 11 Chorale Preludes, Op\. 122: No\. 8, Es ist ein Ros' entsprungen \(Arr\. Mandyczewski for Piano 4 Hands\)](https://open.spotify.com/album/4w3i06vTz927ILPMwentvl) | 1:46 |
 
 Snapshot ID: `ZzaA8AAAAACLlpKUKBYspj58m07D1V94`

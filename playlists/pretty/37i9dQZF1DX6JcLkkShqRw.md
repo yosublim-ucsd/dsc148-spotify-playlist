@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con King Savagge & Loyaltty.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,864 likes - 112 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,895 likes - 112 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 73 | [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 |
 | 74 | [TENGO LO QUE TENGO](https://open.spotify.com/track/2p1X0EDsQiR8rOtMVAdVor) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p) | [CONCEPTO ZER0](https://open.spotify.com/album/6aISTCdvz9L9lSXu1X0zJd) | 2:07 |
 | 75 | [fLA$H \(feat\. KHEA\)](https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [fLA$H \(feat\. KHEA\)](https://open.spotify.com/album/4bHbVaSaEdg7SlM2ZWg2Lc) | 3:08 |
-| 76 | [ay mi vida](https://open.spotify.com/track/3XrLn16e0LywNNVqWr9uWb) | [Sofía Correa](https://open.spotify.com/artist/1bVSA9IM2PsnHzY7j3mG7h), [JEM](https://open.spotify.com/artist/4C71hZ4YnzjMg5w1vNMiEi), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [ay mi vida](https://open.spotify.com/album/7Ie0wxRsJ9hoGRBjXnPvML) | 3:22 |
+| 76 | [ay mi vida](https://open.spotify.com/track/3XrLn16e0LywNNVqWr9uWb) | [Sofía Correa](https://open.spotify.com/artist/1bVSA9IM2PsnHzY7j3mG7h), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [JEM](https://open.spotify.com/artist/4C71hZ4YnzjMg5w1vNMiEi) | [ay mi vida](https://open.spotify.com/album/7Ie0wxRsJ9hoGRBjXnPvML) | 3:22 |
 | 77 | [TU FAN](https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [TRUFFY](https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:02 |
 | 78 | [Ese Corte](https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ese Corte](https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU) | 3:39 |
 | 79 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 |

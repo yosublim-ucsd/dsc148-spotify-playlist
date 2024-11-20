@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,986 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,008 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
-| 2 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
-| 3 | [Parempi unohtaa](https://open.spotify.com/track/7nMSu4judnFgalcm4gbfcR) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Parempi unohtaa](https://open.spotify.com/album/4XUNZuYOJoFTuWkMcS0XHb) | 2:50 |
-| 4 | [Pääs Kii](https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Pääs Kii](https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh) | 2:28 |
-| 5 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
+| 2 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
+| 3 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
+| 4 | [Parempi unohtaa](https://open.spotify.com/track/7nMSu4judnFgalcm4gbfcR) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Parempi unohtaa](https://open.spotify.com/album/4XUNZuYOJoFTuWkMcS0XHb) | 2:50 |
+| 5 | [Pääs Kii](https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Pääs Kii](https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh) | 2:28 |
 | 6 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 |
 | 7 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
 | 8 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Päättäriltä päättärille 2](https://open.spotify.com/track/1CP7IsD2ZdeO1Y0sxVCM3q) | [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Likanen Etelä](https://open.spotify.com/artist/1QZB4c84BdcLM9MGD4EjBj), [Mikidi & Gaiaf](https://open.spotify.com/artist/16uKjzyikKfkjTjMtRgECE), [Painajainen](https://open.spotify.com/artist/2XIBChvoFldVMQhs8WwJV2), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Päättäriltä päättärille 2](https://open.spotify.com/album/5UGTs77dJdNJmW6Ne4mAkk) | 3:15 |
 | 50 | [Huuto](https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Kuivaa kyyneleet](https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP) | 2:57 |
 
-Snapshot ID: `ZzrpEgAAAABMxRSxD4xtaaZNCYMuH8I6`
+Snapshot ID: `ZzxiOQAAAADHbOSsoz3b6i6BKPv9yNL+`

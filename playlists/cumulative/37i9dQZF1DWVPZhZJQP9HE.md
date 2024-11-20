@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-588 songs - 1 day 10 hr 43 min
+590 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Bloody Bugger](https://open.spotify.com/track/5H0ZK1rpUvrJt7JvhxpRTy) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Bloody Bugger](https://open.spotify.com/album/5fNwSJQe0NImEzmmIkgHTZ) | 2:49 | 2024-05-03 | 2024-07-12 |
 | [Bodhai Neeye](https://open.spotify.com/track/1F7zl2SM8Ckqjsyf3OBVG3) | [Praveen Powers](https://open.spotify.com/artist/2n0JRtQVAdOos5ROmEX6c3), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Bodhai Neeye](https://open.spotify.com/album/6LejRIejmqPBhLqpOA5Xlx) | 5:22 | 2022-02-14 | 2022-05-31 |
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-01-16 | 2023-03-23 |
+| [Born SuperStar](https://open.spotify.com/track/2ODqYo3poNPyxk4olwf3vA) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Born SuperStar](https://open.spotify.com/album/1gDJ7WJxYUFeyhS2W6tilw) | 2:58 | 2024-11-19 |  |
 | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/track/4mWpO1fpNXneis8q93SHpW) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Medha Ramasamy](https://open.spotify.com/artist/08pPLU6h73jp7wmuZwIwUb), [Siddharth Shandilyasa](https://open.spotify.com/artist/6r8Qnew7Dd79tqaMqTiz1s) | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/album/7qZNggBLqmEiUsnk6lyDEH) | 3:53 | 2022-11-16 | 2023-02-07 |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2022-12-02 |  |
 | [Bullet Vizhigalal \- Speed Up](https://open.spotify.com/track/67xBnmxtiYz53Wc0CqoOJU) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq) | [Bullet Vizhigalal](https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5) | 2:58 | 2024-06-14 | 2024-07-27 |
@@ -347,6 +348,7 @@
 | [Nee Yaara Molae](https://open.spotify.com/track/1luxy3SaDVnirLgkKg11V5) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Prince Bii](https://open.spotify.com/artist/53fPFYyYxmwkuhQyZE65rF) | [Nee Yaara Molae](https://open.spotify.com/album/6GPTtTKpa40llzK6TNChgq) | 3:30 | 2023-02-24 | 2023-03-22 |
 | [Need Ya](https://open.spotify.com/track/6JXqDg0Whw7DljE5ZEoojC) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [Need Ya](https://open.spotify.com/album/2asFfvtLu5njY0l8nbPTLe) | 2:43 | 2024-11-04 |  |
 | [Neethan En Rani](https://open.spotify.com/track/7s4NKgq4iSeJKgdpU3jvDX) | [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo) | [Neethan En Rani](https://open.spotify.com/album/3d7lSBg1sEen0tT236axZ0) | 2:58 | 2023-08-04 | 2024-06-14 |
+| [Neethane En Uyrie](https://open.spotify.com/track/4I08zmlnJ9d2c3DZagJ00O) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh), [Jithu Bas](https://open.spotify.com/artist/09p0QBLDVxbrCnxoTnlfjM) | [Neethane En Uyire](https://open.spotify.com/album/5gDEhSAqv578sgKv3xlNPZ) | 5:30 | 2024-11-19 |  |
 | [Neeya Neeya](https://open.spotify.com/track/57ppMpz7qTjj3FtHxYlloe) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Juvin Jonix](https://open.spotify.com/artist/0Yxtk271vmZRIajIjR1aHv), [Anandita Krishanan](https://open.spotify.com/artist/71y2TPjvA0Am5wCCN52vEN) | [Neeya Neeya](https://open.spotify.com/album/3jo91pT0NEfhdYNtSe9Z5p) | 3:50 | 2022-09-27 | 2022-10-14 |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2022-09-27 | 2024-08-13 |
 | [Neeye Oli](https://open.spotify.com/track/4TZb8HB5VEIRphX4CV7qXj) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Neeye Oli](https://open.spotify.com/album/7kteCK6dcvokkmehLt8Cxh) | 3:57 | 2021-12-01 | 2022-08-12 |

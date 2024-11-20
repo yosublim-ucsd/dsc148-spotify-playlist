@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 215510,
       "name": "Aasa Kooda - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 178780,
       "name": "Aayi Nai (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 183756,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
@@ -7242,7 +7242,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 229811,
       "name": "Hey Minnale",
       "url": "https://open.spotify.com/track/0n6NBNUZQmH1KGRt5J9Nkq"
@@ -7272,7 +7272,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 229811,
       "name": "Hey Minnale (From \"Amaran\")",
       "url": "https://open.spotify.com/track/0hs52k0bAXIBQ2SzGx5mzI"
@@ -10152,7 +10152,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
@@ -10178,7 +10178,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/4Zx4I7eX7vuq7pHleVcINy"
@@ -13094,6 +13094,36 @@
       "duration_ms": 201200,
       "name": "Mera Na",
       "url": "https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4"
+    },
+    {
+      "album": {
+        "name": "Mere Dholna 3.0 (Sonu Nigam Version) [From \"Bhool Bhulaiyaa 3\"]",
+        "url": "https://open.spotify.com/album/7eeyLtocuJJHjqqGyfCndk"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266131,
+      "name": "Mere Dholna 3.0 (Sonu Nigam Version) [From \"Bhool Bhulaiyaa 3\"]",
+      "url": "https://open.spotify.com/track/7cXwJ84u9sSEuynXLfyMD7"
     },
     {
       "album": {
@@ -16816,10 +16846,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 197142,
       "name": "Russian Bandana",
       "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+    },
+    {
+      "album": {
+        "name": "Hottest Hip Hop Hits by Dhanda Nyoliwala",
+        "url": "https://open.spotify.com/album/4884FMYdmBEts2DljY9GB2"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Russian Bandana",
+      "url": "https://open.spotify.com/track/2y0Wq354xniIM711jwAtj3"
     },
     {
       "album": {
@@ -17102,7 +17150,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 195515,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/5pPyvA03RKSJrAnnDcq0nh"
@@ -18538,7 +18586,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 249707,
       "name": "Subhanallah",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8"
@@ -19076,7 +19124,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 207157,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
@@ -19112,7 +19160,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
@@ -19250,7 +19298,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
       "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
@@ -19272,7 +19320,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
       "url": "https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa"
@@ -20934,7 +20982,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"
@@ -20964,7 +21012,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"
@@ -22544,7 +22592,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 175448,
       "name": "Zaroor",
       "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"

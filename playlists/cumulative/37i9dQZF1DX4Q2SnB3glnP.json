@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 128000,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/5Olv5qOV2ZuqHeJnH9SKHT"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 161574,
       "name": "Cactus Bloom",
       "url": "https://open.spotify.com/track/1NuZGLr3ZWvBJeUj3n85Av"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 190210,
       "name": "Different Sides",
       "url": "https://open.spotify.com/track/1BOhxpb7mDYF03nHxd9E1g"
@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/4GSOn8WOct28B3GfJnXUQP"
+      },
+      "artists": [
+        {
+          "name": "YON",
+          "url": "https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/4S5toB90ctODOMnjNCVxPC"
+    },
+    {
+      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 182000,
       "name": "Epic keys",
       "url": "https://open.spotify.com/track/0sc3NHCx6ME031as4gsNOA"
@@ -1825,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl"
+    },
+    {
+      "album": {
         "name": "Mind Balance",
         "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
       },
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 247249,
       "name": "Fading Out",
       "url": "https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl"
@@ -2236,6 +2272,24 @@
       "duration_ms": 186666,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/0xugMDis3UGK42KVbj7zPy"
+    },
+    {
+      "album": {
+        "name": "Gust Of Emotion",
+        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Gust Of Emotion",
+      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
     },
     {
       "album": {
@@ -2653,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Itemized",
+        "url": "https://open.spotify.com/album/0le8AtWfFsqV2UB4U01ZcJ"
+      },
+      "artists": [
+        {
+          "name": "Holzer",
+          "url": "https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170427,
+      "name": "Itemized",
+      "url": "https://open.spotify.com/track/1bZlCoTfq20bZh62fHZFOw"
+    },
+    {
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
       },
@@ -2664,7 +2736,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 166666,
       "name": "Jamas In Heaven",
       "url": "https://open.spotify.com/track/0ekmQX29tnEb4TYPW2Mqpi"
@@ -2898,7 +2970,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 222960,
       "name": "Liven",
       "url": "https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV"
@@ -3276,7 +3348,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 189609,
       "name": "Mine for Keeps",
       "url": "https://open.spotify.com/track/2tKMdnAHJX4bP0unhkoNDi"
@@ -3456,7 +3528,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 188592,
       "name": "New Endings",
       "url": "https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv"
@@ -4248,7 +4320,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 203100,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4GlveryProx302jQ9hHjqe"
@@ -4302,7 +4374,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 193548,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp"
@@ -4414,6 +4486,24 @@
       "duration_ms": 183700,
       "name": "Return Home",
       "url": "https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X"
+    },
+    {
+      "album": {
+        "name": "Reverberations",
+        "url": "https://open.spotify.com/album/4z6RAB5haUFYLgjukNnqiO"
+      },
+      "artists": [
+        {
+          "name": "Galaxarastra",
+          "url": "https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166379,
+      "name": "Reverberations",
+      "url": "https://open.spotify.com/track/4624YUHIaOF1aE0kvL2OSj"
     },
     {
       "album": {
@@ -6088,6 +6178,24 @@
       "duration_ms": 155505,
       "name": "Unknown Distance",
       "url": "https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z"
+    },
+    {
+      "album": {
+        "name": "Unsorrow",
+        "url": "https://open.spotify.com/album/20Hhsx60Y90L6C36UssUHz"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186584,
+      "name": "Unsorrow",
+      "url": "https://open.spotify.com/track/5TiBe90Hq1gTj3AKeL6ncQ"
     },
     {
       "album": {

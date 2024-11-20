@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 195818,
       "name": "#Sarkanbaltsarkanais",
       "url": "https://open.spotify.com/track/3bY8hZbtWQpCOGHi1IZvz5"
@@ -2975,6 +2975,32 @@
     },
     {
       "album": {
+        "name": "Tautas laiks",
+        "url": "https://open.spotify.com/album/30STmK4HmWqGz0M6wttp7W"
+      },
+      "artists": [
+        {
+          "name": "Viktors Zemgals",
+          "url": "https://open.spotify.com/artist/1l8OUvGeEGGPDG0elD77h3"
+        },
+        {
+          "name": "Zilvins Bubelis",
+          "url": "https://open.spotify.com/artist/45kSe1Cf2P3auYRY0s8B61"
+        },
+        {
+          "name": "Tarmo Pihlaps",
+          "url": "https://open.spotify.com/artist/4QMxiVoeAIMMWMlCzqjbDF"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328586,
+      "name": "Atmostas Baltija",
+      "url": "https://open.spotify.com/track/3lvJ254OaqH8fSSKyb2bdU"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
       },
@@ -3540,7 +3566,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -6622,7 +6648,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -6810,7 +6836,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 198960,
       "name": "Cigarettes out the Window",
       "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
@@ -10022,7 +10048,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 250572,
       "name": "Dzimt\u0101 valoda",
       "url": "https://open.spotify.com/track/6C62U8JswctViapGU9eiw3"
@@ -10526,7 +10552,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -10730,7 +10756,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Es izj\u0101ju pr\u016b\u0161u zemi",
       "url": "https://open.spotify.com/track/1dNi1AJxYu9C5tf8pcyWuE"
@@ -10938,7 +10964,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -13848,7 +13874,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
@@ -14494,7 +14520,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
@@ -18056,7 +18082,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 229359,
       "name": "Kalniem p\u0101ri",
       "url": "https://open.spotify.com/track/3hgSqoZLV1dAkE1x8W7LsU"
@@ -21922,7 +21948,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 148253,
       "name": "Manai Tautai",
       "url": "https://open.spotify.com/track/4oAgLthKewgE1tnGd22Jqx"
@@ -24932,7 +24958,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -27238,7 +27264,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 249986,
       "name": "Par Latviju",
       "url": "https://open.spotify.com/track/44jaYkhCRTkC4jt5kIPJ7s"
@@ -27260,6 +27286,24 @@
       "duration_ms": 190333,
       "name": "Par Savu Zemi Saukt",
       "url": "https://open.spotify.com/track/15MQCnne9RGvMmgleSHE9b"
+    },
+    {
+      "album": {
+        "name": "Boh\u0113mas Dienasgr\u0101mata",
+        "url": "https://open.spotify.com/album/5aMXhj4PppXXDton1cxA9f"
+      },
+      "artists": [
+        {
+          "name": "Miks Galvanovskis",
+          "url": "https://open.spotify.com/artist/0SrGZI600lizrTxtNyefTU"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Par Savu Zemi Saukt",
+      "url": "https://open.spotify.com/track/2AGcRPD5SP8hQLmxOli0wW"
     },
     {
       "album": {
@@ -27766,7 +27810,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 274866,
       "name": "Pie Laika",
       "url": "https://open.spotify.com/track/1D0pl4jcdzb1MOQKBLskJb"
@@ -31318,7 +31362,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 271133,
       "name": "Saule, P\u0113rkons, Daugava",
       "url": "https://open.spotify.com/track/3o9I80lI4GL8CxjnGirdd9"
@@ -31468,7 +31512,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 192750,
       "name": "Sav\u0101 Josl\u0101",
       "url": "https://open.spotify.com/track/4mrSiHGCw7Dwt0gV8q6Zfm"
@@ -33610,7 +33654,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 197019,
       "name": "St. Chroma (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
@@ -33708,7 +33752,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"
@@ -35356,7 +35400,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 295560,
       "name": "Taisn\u012bba",
       "url": "https://open.spotify.com/track/51M0k7mdHJAnJDl6mU0MxI"
@@ -35640,7 +35684,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -36624,7 +36668,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -37086,7 +37130,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "Tik Un T\u0101",
       "url": "https://open.spotify.com/track/7bqQNZyFth7ld8IogSBtOH"
@@ -38974,7 +39018,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
@@ -39380,7 +39424,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 222306,
       "name": "Vi\u0146i Dejoja Vienu Vasaru",
       "url": "https://open.spotify.com/track/4vTziyx3Va1x0DgXuOp4NA"
@@ -41558,7 +41602,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 261293,
       "name": "Za\u013c\u0101 Dziesma",
       "url": "https://open.spotify.com/track/2ggBWjbwT3g6MfEIz5rvxj"

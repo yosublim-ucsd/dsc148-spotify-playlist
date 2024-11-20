@@ -149,24 +149,6 @@
     },
     {
       "album": {
-        "name": "Why Be?",
-        "url": "https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
-        }
-      ],
-      "date_added": "2024-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214906,
-      "name": "A Flying Butterfly",
-      "url": "https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK"
-    },
-    {
-      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -936,24 +918,6 @@
       "duration_ms": 245159,
       "name": "I drink again",
       "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
-    },
-    {
-      "album": {
-        "name": "Difference",
-        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "date_added": "2021-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238880,
-      "name": "I Guess I Loved You",
-      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
     },
     {
       "album": {
@@ -2765,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Why Be?",
+        "url": "https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "\ub098\ub294\u3000\ub098\ube44",
+      "url": "https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK"
+    },
+    {
+      "album": {
         "name": "\uc911\ub3c5",
         "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
@@ -3144,6 +3126,24 @@
       "duration_ms": 228946,
       "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
       "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+    },
+    {
+      "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238880,
+      "name": "\uc0ac\ub791\ud588\ub098\ubd10",
+      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
     },
     {
       "album": {

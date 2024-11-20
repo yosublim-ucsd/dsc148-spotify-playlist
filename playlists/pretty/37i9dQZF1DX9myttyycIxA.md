@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hank Heaven
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,050 likes - 102 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,063 likes - 102 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

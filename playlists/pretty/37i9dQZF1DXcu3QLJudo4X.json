@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 105196,
+  "num_followers": 105267,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Gary Clark Jr. Live",
         "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 480133,
       "name": "Catfish Blues - Live",
       "url": "https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "Jamming With Edward",
         "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 314373,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Messing With The Blues",
-        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 159866,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Messing With The Blues",
+        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Blues With A Feeling",
-        "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "(You've Got To) Love Her With A Feeling",
-      "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 157813,
       "name": "All Your Love (I Miss Loving)",
       "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Blues With A Feeling",
+        "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "(You've Got To) Love Her With A Feeling",
+      "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Country Blues 101",
-        "url": "https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ"
-      },
-      "artists": [
-        {
-          "name": "Bea Booze",
-          "url": "https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "See See Rider Blues",
-      "url": "https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Can't Quit You Baby / Sit Down Baby",
         "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 187173,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Country Blues 101",
+        "url": "https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ"
+      },
+      "artists": [
+        {
+          "name": "Bea Booze",
+          "url": "https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "See See Rider Blues",
+      "url": "https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G"
     },
     {
       "added_at": "2024-06-02 16:42:51",

@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-20",
       "duration_ms": 206280,
       "name": "Danse (feat. Noizy)",
       "url": "https://open.spotify.com/track/5bAqF7SDFUy0u4SbSRwy1i"
@@ -3118,6 +3118,24 @@
       "duration_ms": 208695,
       "name": "TAGHAZOUT",
       "url": "https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ"
+    },
+    {
+      "album": {
+        "name": "Ti RIRI",
+        "url": "https://open.spotify.com/album/1aMM9FxV9p9ApIGge4m3od"
+      },
+      "artists": [
+        {
+          "name": "Hustle",
+          "url": "https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "Ti RIRI",
+      "url": "https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac"
     },
     {
       "album": {
