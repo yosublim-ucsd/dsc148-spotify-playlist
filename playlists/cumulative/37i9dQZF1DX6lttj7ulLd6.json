@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 230886,
       "name": "Big Jon",
       "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
@@ -2752,6 +2752,24 @@
       "duration_ms": 283000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
+    },
+    {
+      "album": {
+        "name": "Stay Sharp",
+        "url": "https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC"
+      },
+      "artists": [
+        {
+          "name": "Elastic Union",
+          "url": "https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Stay Sharp",
+      "url": "https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf"
     },
     {
       "album": {

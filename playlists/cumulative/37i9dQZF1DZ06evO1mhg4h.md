@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1mhg4h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1mhg4h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1mhg4h)
 
-### [This Is 結束バンド](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
+### [This Is kessoku band](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
 
-> This is 結束バンド\. The essential tracks, all in one playlist.
+> This is kessoku band\. The essential tracks, all in one playlist.
 
 41 songs - 2 hr 42 min
 

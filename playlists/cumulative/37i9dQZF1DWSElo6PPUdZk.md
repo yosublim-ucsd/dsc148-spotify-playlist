@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-145 songs - 7 hr 31 min
+146 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Jinna Jinna](https://open.spotify.com/track/1oSxV16xXarfwCUEOPdIuZ) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Jinna Jinna](https://open.spotify.com/album/1HbsoYzl6lIJwfSa9vvxSI) | 3:44 | 2024-10-07 | 2024-10-24 |
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2023-03-18 | 2023-04-20 |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 | 2024-04-24 |
+| [KAHANI](https://open.spotify.com/track/1HBT2aq5MwWncKt4H4SiBr) | [Avin Gill](https://open.spotify.com/artist/0jl5MrF3Ry8ROjsl5Opfdp) | [KAHANI](https://open.spotify.com/album/5EktebJF2fNgJMROjzlPGS) | 2:46 | 2024-11-20 |  |
 | [Kajla](https://open.spotify.com/track/5WLhcOzSlH8fGqwVWQN7QO) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Kajla](https://open.spotify.com/album/7A8U16OreD6q9ahr2xsZY4) | 2:12 | 2024-10-08 |  |
 | [Kala Dhaga](https://open.spotify.com/track/1D7hlxCIxeKvBYUVKTa1P9) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [Kala Dhaga](https://open.spotify.com/album/6vHA6JUcG1QvLcZzRJKRiV) | 2:36 | 2023-03-18 | 2023-05-26 |
 | [Kan Akhiyaan](https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Kan Akhiyaan](https://open.spotify.com/album/5MKXR6yhcohniMtsKE32xm) | 2:24 | 2024-09-05 |  |
@@ -142,7 +143,7 @@
 | [The Way You Look](https://open.spotify.com/track/4k5byIdn5kNQBpkRQNCPrl) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [The Way You Look](https://open.spotify.com/album/0L244FjMUoRQw2dHr9ktJS) | 3:20 | 2024-10-23 |  |
 | [Throughout India](https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Throughout India](https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG) | 2:25 | 2024-04-24 | 2024-09-10 |
 | [Time Chahida](https://open.spotify.com/track/4NiXbLYDwnA93pAxOO9fw2) | [Sana Panesar](https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Time Chahida](https://open.spotify.com/album/57YtSUNY9HmiA7aJIhnxLi) | 2:36 | 2023-03-18 | 2024-09-03 |
-| [Tralla 2](https://open.spotify.com/track/0EsGkdTrGBRBT0eV367C0Q) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jaggi Bathinde Wala](https://open.spotify.com/artist/1Jbvo4pjRoe615tEiA12X0), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Tralla 2](https://open.spotify.com/album/50njCLSZ4OlsuCd9t5Gg20) | 1:57 | 2024-11-05 |  |
+| [Tralla 2](https://open.spotify.com/track/0EsGkdTrGBRBT0eV367C0Q) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jaggi Bathinde Wala](https://open.spotify.com/artist/1Jbvo4pjRoe615tEiA12X0), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Tralla 2](https://open.spotify.com/album/50njCLSZ4OlsuCd9t5Gg20) | 1:57 | 2024-11-05 | 2024-11-21 |
 | [Trouble Maker](https://open.spotify.com/track/0oNW0SEIgjvKB6DWqRysA4) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Rao Fu](https://open.spotify.com/artist/7iDremzr2H92xcSusk6VRq), [Davvy Singh](https://open.spotify.com/artist/5Kq8UpbqjCdPBGshVrYnsc) | [Trouble Maker](https://open.spotify.com/album/3c3wvRAfV1v0rjDsmn4wj9) | 3:58 | 2024-11-04 | 2024-11-09 |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2023-03-18 | 2024-09-07 |
 | [Who Was With You](https://open.spotify.com/track/58mJuJRqVeoDBBIk9HWCiz) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Who Was With You](https://open.spotify.com/album/2OtWaIyzG95Ljev1hyzwlz) | 2:45 | 2024-09-05 |  |

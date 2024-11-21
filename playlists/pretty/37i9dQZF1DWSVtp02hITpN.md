@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The biggest pop tracks right now\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,048 likes - 71 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,010 likes - 71 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

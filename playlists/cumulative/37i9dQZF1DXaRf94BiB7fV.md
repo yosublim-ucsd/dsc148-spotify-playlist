@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: Outsky, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: ahaan, Artwork: Isu Kim
 
-1,440 songs - 3 day 11 hr 12 min
+1,444 songs - 3 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Hijr](https://open.spotify.com/track/74EQcvxB3vSnf058KbfgNp) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Hijr](https://open.spotify.com/album/1DK3PQQAbj188Ay6SZoCdQ) | 3:35 | 2022-07-27 | 2022-12-01 |
 | [Himalay Se](https://open.spotify.com/track/6tgblCL0RKZkrbVmAkVhRF) | [Shubhank Sharma](https://open.spotify.com/artist/4dPmTI5f3bzGwwdvTRG5yE) | [Himalay Se](https://open.spotify.com/album/3txpcr2L5Q6GbwST9itJsO) | 3:01 | 2023-08-16 | 2023-11-16 |
 | [Hindi Bole](https://open.spotify.com/track/6yAVgyH1iGHeN1ycvETTVb) | [Kavish Seth](https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV) | [Hindi Bole](https://open.spotify.com/album/2JEuEUNMkTd7eUzHVBpmmV) | 4:31 | 2023-07-12 | 2023-08-31 |
+| [HISSA](https://open.spotify.com/track/4yltGAkOop6H5qgKFun0EC) | [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR) | [HISSA](https://open.spotify.com/album/5olazz4T1M0tciYXewdSUk) | 3:22 | 2024-11-20 |  |
 | [Ho Savera](https://open.spotify.com/track/5ENhWLxHCaUP5EVh1I1Bbn) | [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo), [Suvankar Chatterjee](https://open.spotify.com/artist/5KCVOltmLBQLofTjn8kSYo) | [Ho Savera](https://open.spotify.com/album/690vcyjxcrzMMgi54ulMkz) | 3:08 | 2024-07-31 | 2024-10-17 |
 | [Ho Tum Yahan](https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Ho Tum Yahan](https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu) | 4:08 | 2022-10-19 | 2023-01-26 |
 | [Hold You](https://open.spotify.com/track/1MO8cWWrdUKYVCjkb7bCR9) | [Somnath Mirdha](https://open.spotify.com/artist/1BCdukWSYFNlNk0fzcOrwx) | [Hold You](https://open.spotify.com/album/09tLejEFAw5WGKxItCemWE) | 3:31 | 2022-02-16 | 2022-03-03 |
@@ -560,6 +561,7 @@
 | [Jaane Kaise](https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI), [ANA](https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA) | [Jaane Kaise](https://open.spotify.com/album/2bLlrBEKtutYSzPi1DCvjO) | 3:09 | 2022-06-01 | 2022-08-11 |
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 | 2023-11-10 |
 | [Jaane Phirse Kaise \(feat\. Vidhya Gopal\)](https://open.spotify.com/track/16jc3m4wXiZoSX7W5FFLWL) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Jaane Phirse Kaise](https://open.spotify.com/album/1o8yd53aFC521hUKZCK52Y) | 4:25 | 2022-11-02 | 2023-03-29 |
+| [Jaaneya](https://open.spotify.com/track/3lnU0XJXrurnY9QY9OaZ1Q) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Jaaneya](https://open.spotify.com/album/404w8Q1UKHMVBZCnObX6Ji) | 2:58 | 2024-11-20 |  |
 | [Jaanu Na Main](https://open.spotify.com/track/6tl0bmhUjSujy9ORAyQ3CI) | [Kanishk Tyagi](https://open.spotify.com/artist/2FBOr54aBsDWOEtGcBcDhK) | [Jaanu Na Main](https://open.spotify.com/album/1QBGbCd74jZFsxOAb8EI2o) | 3:55 | 2023-08-16 | 2023-11-10 |
 | [Jab Bhi Tum Aati Hoo](https://open.spotify.com/track/2P0TRfPol7rjE48d1WWF2h) | [Ayusman Acharya](https://open.spotify.com/artist/0lkahHtWaDcaLymyVAzWQC) | [Jab Bhi Tum Aati Hoo](https://open.spotify.com/album/7qCJMgQ5B7icRTs87NmCcq) | 3:38 | 2024-10-09 | 2024-11-07 |
 | [Jab Se Aaya Tu](https://open.spotify.com/track/49G28WSz9bWMLZWGLPxDE5) | [Rohan Kamath](https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM) | [Jab Se Aaya Tu](https://open.spotify.com/album/4bvD0sVOGHsRvnrXxA5gOh) | 3:43 | 2022-11-16 | 2023-04-20 |
@@ -1020,6 +1022,7 @@
 | [Raaton Ki](https://open.spotify.com/track/5nh4AHjPg9kqruzdR2vHrq) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Raaton Ki](https://open.spotify.com/album/7cLUFQnUJ97yfsygBI7BaG) | 3:35 | 2024-05-29 |  |
 | [Raaton Mein Ojhal](https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq) | [Raaton Mein Ojhal](https://open.spotify.com/album/3dpOjEIxsKy5hn3DzbcEvs) | 3:50 | 2024-02-07 | 2024-05-09 |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-08 | 2023-01-12 |
+| [Radio Man](https://open.spotify.com/track/3vge0IlJeB2K9yXnsyO8k6) | [Tienas](https://open.spotify.com/artist/6JvFJaw7uRQFBUzSlv28Gw) | [Radio Man](https://open.spotify.com/album/2K0WB8vXYeJkSmXOgpDTnn) | 1:47 | 2024-11-20 |  |
 | [Ragini](https://open.spotify.com/track/7h8YEiKfOW81mPWlTC6uav) | [Arya Salvi](https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF) | [Ragini](https://open.spotify.com/album/11D5vkMe2T5tK76NVVy4FT) | 4:18 | 2024-10-23 |  |
 | [Rahi Sahi](https://open.spotify.com/track/6DpVQN2Jg32ry6h4tQvrNg) | [Retromind](https://open.spotify.com/artist/239gNsBCsmwL7h5d0hoIYO) | [Rahi Sahi](https://open.spotify.com/album/0dCYN5lGJ8JIb6DmiWx9mq) | 2:22 | 2023-03-15 | 2023-06-29 |
 | [Rain](https://open.spotify.com/track/4bMB33ogfELHl7VNsAUanJ) | [Shivash Chagti](https://open.spotify.com/artist/29uJRF60YzXYENNIT3DThr), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Rain](https://open.spotify.com/album/63VJNcE7UR5ifhHElXCwix) | 3:23 | 2022-02-23 | 2022-04-14 |
@@ -1443,6 +1446,7 @@
 | [Zeest](https://open.spotify.com/track/6Zk48NvcVxsjs5YzzVbDxe) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Chaltey Purzay](https://open.spotify.com/album/6xpfp8um2z8KrDKZbAl5GU) | 3:06 | 2024-10-02 |  |
 | [Zephyr](https://open.spotify.com/track/7hCXI8nmr1a2LErZXHMEkp) | [Redeyes Blackcat](https://open.spotify.com/artist/5K7i9IxtEiUMR1hs53z3kL) | [Zephyr](https://open.spotify.com/album/3B6R6013b0IlglQatnKawd) | 3:32 | 2024-01-24 | 2024-02-29 |
 | [Zindagi](https://open.spotify.com/track/07xgxwSbFyyYcTkxzNFDL5) | [Aaryan Tiwari](https://open.spotify.com/artist/5k4fwx4cEoKw23tpX47nLQ) | [Zindagi](https://open.spotify.com/album/38FHh1TJECrMoxb63IOVKB) | 3:15 | 2022-02-02 | 2022-04-28 |
+| [Zindagi](https://open.spotify.com/track/1CINAT09a8I0miOfW0F1LW) | [ahaan](https://open.spotify.com/artist/6c0TV8b18YpWAoMCNT0DAC) | [Zindagi](https://open.spotify.com/album/68FlZ39ZY0RGTyl9ejEYhc) | 3:38 | 2024-11-20 |  |
 | [Zindagi](https://open.spotify.com/track/77RaO1TGByzJ2Tt3pMWtDU) | [Seerat Ain Alam](https://open.spotify.com/artist/5LCz4RWPuDoFys0vddNiXJ) | [Zindagi](https://open.spotify.com/album/4eeME2G3nfmjYLvgHRoUCU) | 2:32 | 2023-07-26 | 2024-01-11 |
 | [Zindagi](https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Zindagi](https://open.spotify.com/album/0LSL5FUCYBK70Hic1zB1Cp) | 3:03 | 2023-08-23 | 2023-11-16 |
 | [Zindagi Kya Hai Tu](https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Zindagi Kya Hai Tu](https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq) | 4:55 | 2023-07-26 | 2024-01-11 |

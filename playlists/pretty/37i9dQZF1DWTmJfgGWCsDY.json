@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4568,
+  "num_followers": 4571,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,18 @@
     {
       "added_at": "2024-11-01 05:42:58",
       "album": {
-        "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
-        "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
       "artists": [
         {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        },
-        {
-          "name": "2Fani",
-          "url": "https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD"
-        },
-        {
-          "name": "Chobamc",
-          "url": "https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
         }
       ],
-      "duration_ms": 292437,
-      "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
-      "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2024-11-01 05:42:58",
@@ -683,18 +675,26 @@
     {
       "added_at": "2024-11-01 05:42:58",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
+        "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        },
+        {
+          "name": "2Fani",
+          "url": "https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD"
+        },
+        {
+          "name": "Chobamc",
+          "url": "https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM"
         }
       ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+      "duration_ms": 292437,
+      "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
+      "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
     },
     {
       "added_at": "2024-11-01 05:42:58",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-01 05:42:58",
       "album": {
-        "name": "Kijumbe",
-        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
-      },
-      "artists": [
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
-        }
-      ],
-      "duration_ms": 209084,
-      "name": "Kijumbe",
-      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
-    },
-    {
-      "added_at": "2024-11-01 05:42:58",
-      "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 240490,
       "name": "Wapambe",
       "url": "https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl"
+    },
+    {
+      "added_at": "2024-11-01 05:42:58",
+      "album": {
+        "name": "Kijumbe",
+        "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
+      },
+      "artists": [
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "duration_ms": 209084,
+      "name": "Kijumbe",
+      "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
     },
     {
       "added_at": "2024-11-01 05:42:58",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-11-01 05:42:58",
       "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
-    },
-    {
-      "added_at": "2024-11-01 05:42:58",
-      "album": {
         "name": "Upwii",
         "url": "https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 187706,
       "name": "Upwii",
       "url": "https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH"
+    },
+    {
+      "added_at": "2024-11-01 05:42:58",
+      "album": {
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     },
     {
       "added_at": "2024-11-01 05:42:58",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-01 05:42:58",
       "album": {
-        "name": "Kwetu",
-        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Kwetu",
-      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
-    },
-    {
-      "added_at": "2024-11-01 05:42:58",
-      "album": {
         "name": "Nimekuona Wewe",
         "url": "https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 286405,
       "name": "Nimekuona Wewe",
       "url": "https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI"
+    },
+    {
+      "added_at": "2024-11-01 05:42:58",
+      "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
     },
     {
       "added_at": "2024-11-01 05:42:58",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-11-01 05:42:58",
       "album": {
+        "name": "Nimejipata",
+        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
+      },
+      "artists": [
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Nimejipata",
+      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
+    },
+    {
+      "added_at": "2024-11-01 05:42:58",
+      "album": {
         "name": "Kuchi Kuchi",
         "url": "https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w"
       },
@@ -1363,26 +1379,6 @@
       "duration_ms": 264879,
       "name": "Kuchi Kuchi",
       "url": "https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM"
-    },
-    {
-      "added_at": "2024-11-01 05:42:58",
-      "album": {
-        "name": "Singeli Twista",
-        "url": "https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Ay Masta",
-          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
-        }
-      ],
-      "duration_ms": 204252,
-      "name": "Singeli Twista",
-      "url": "https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV"
     }
   ],
   "unique_name": "Singeli Sounds",

@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Egzod
 
-697 songs - 1 day 17 hr 49 min
+697 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Shark \- ILLENIUM 2014 Remix](https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Shark \(ILLENIUM 2014 Remix\)](https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1) | 5:07 | 2024-11-15 |  |
 | [Sick of You](https://open.spotify.com/track/6uG3ujRyanBAl6j6Y3G0d3) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Sick of You](https://open.spotify.com/album/11Iet8ssCdGjrVH0WLv3Yi) | 3:02 | 2022-07-08 | 2023-02-18 |
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2022-07-08 | 2023-04-09 |
-| [Silence](https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Silence](https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj) | 4:00 | 2024-07-12 |  |
+| [Silence](https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Silence](https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj) | 5:02 | 2024-07-12 |  |
 | [Silence](https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc) | [Mixed Signals](https://open.spotify.com/artist/3LesrToD7rQlHqkxCmJyuo), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Silence](https://open.spotify.com/album/0fIZ72yzouEt4MM4jcnj4A) | 3:30 | 2022-07-08 | 2022-08-31 |
 | [SKYFALLING](https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Tempo](https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T) | 2:58 | 2024-05-03 |  |
 | [SLAY](https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/633geRmMguveturqYAb9k2) | 4:01 | 2024-07-26 | 2024-11-17 |

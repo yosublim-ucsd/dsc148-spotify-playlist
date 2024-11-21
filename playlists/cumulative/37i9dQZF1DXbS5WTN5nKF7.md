@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : Kavinsky, Angèle, Phoenix
+> Le meilleur des hits ! Photo : The Weeknd
 
 267 songs - 13 hr 52 min
 

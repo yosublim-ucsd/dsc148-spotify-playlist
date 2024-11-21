@@ -4,7 +4,7 @@
 
 > Playlist
 
-564 songs - 1 day 9 hr 41 min
+566 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Any Old](https://open.spotify.com/track/4SC5Cv1FXWkElwyLngWJs2) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Banana Sludge](https://open.spotify.com/album/1UukPqBYfdN54f5RSvSxt0) | 3:34 | 2023-10-25 |  |
 | [Anyone](https://open.spotify.com/track/6QUapJmmyhbu8lLhH1zD5A) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Great Design](https://open.spotify.com/album/5jW4cU4BBp9z1nthhvPiNR) | 4:11 | 2023-10-25 |  |
 | [Anywhere](https://open.spotify.com/track/3xtF1dMTPN999P3G0GNeGP) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Anywhere](https://open.spotify.com/album/2RCiMMAvgpvgWMTx9wgTcB) | 3:19 | 2023-10-25 |  |
-| [Are You Ready?](https://open.spotify.com/track/0f6mkOsTAsAdjZEca7uNed) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 2:49 | 2023-10-25 |  |
+| [Are You Ready?](https://open.spotify.com/track/0f6mkOsTAsAdjZEca7uNed) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 2:49 | 2023-10-25 | 2024-11-21 |
 | [As Summer Comes](https://open.spotify.com/track/5yTxOMGd0yI1kefxyk4SzJ) | [George Bloomfield](https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg) | [Space Between](https://open.spotify.com/album/0onQ6IDvY0CdmfAfFzkU1D) | 3:48 | 2023-10-25 |  |
 | [Asc\. Scorpio](https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR) | 2:46 | 2023-10-25 |  |
 | [Ask Me Again](https://open.spotify.com/track/5rlIWC5BI6Bc3ezm0F2lPI) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 3:33 | 2023-10-25 |  |
@@ -240,8 +240,10 @@
 | [IknowhowIfeel](https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 5:27 | 2023-10-25 |  |
 | [In a New Way](https://open.spotify.com/track/2iUGljoQoak1plOfUETSV9) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 3:42 | 2023-10-25 |  |
 | [In Heaven \(Lady in the Radiator Song\)](https://open.spotify.com/track/39G7UPM6ujNpN17RmAhAEs) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 2:22 | 2023-10-25 |  |
+| [In the Morning](https://open.spotify.com/track/7kIN2qFcq01enQVZv2bKKF) | [Santa Selva](https://open.spotify.com/artist/4LmaLtD3YAabZIacEIa3MG) | [In the Morning](https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu) | 2:57 | 2024-11-20 |  |
 | [Interlude](https://open.spotify.com/track/51DEOKQtG86h0Pq83rQhQx) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 1:47 | 2024-02-20 |  |
 | [Intertwined](https://open.spotify.com/track/1yWkTnz37aPyyvqt5XaerT) | [George Bloomfield](https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg) | [Space Between](https://open.spotify.com/album/0onQ6IDvY0CdmfAfFzkU1D) | 4:09 | 2023-10-25 |  |
+| [Is It Easy](https://open.spotify.com/track/4SrQ3ckBtE3lbnu2Y1HWXP) | [Echo Frame](https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi) | [Is It Easy](https://open.spotify.com/album/5zrGQDYD3KBJx8xE5xrxtz) | 3:25 | 2024-11-20 |  |
 | [It Ain't Your Time](https://open.spotify.com/track/1fplhB8dgPsaGjWEULKfc6) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Great Design](https://open.spotify.com/album/5jW4cU4BBp9z1nthhvPiNR) | 3:51 | 2023-10-25 |  |
 | [It's All True](https://open.spotify.com/track/05haPqZrnAq68ifuRQslLp) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 2:24 | 2023-10-25 |  |
 | [It's good to be back](https://open.spotify.com/track/4ia6ACdtbVvoBgfixtaXFP) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:53 | 2023-10-25 |  |

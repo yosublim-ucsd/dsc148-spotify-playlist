@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-954 songs - 2 day 3 hr 31 min
+955 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Laddu Barfi \("Batch 2013"\)](https://open.spotify.com/track/1e4G9vx9WUOgcJYU5upEeV) | [Davi \(The Landers\)](https://open.spotify.com/artist/6VDimujATVznVXD7SiBbxs) | [Laddu Barfi \("Batch 2013"\)](https://open.spotify.com/album/6wtqlS534lWDhufWSBxYML) | 3:04 | 2022-08-31 | 2022-09-03 |
 | [Lagda E Nai](https://open.spotify.com/track/6EeiadaHCduRvLeDSdnOKs) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Lagda E Nai](https://open.spotify.com/album/2VkIDq9xfbt182yceoJaTN) | 2:06 | 2024-04-24 | 2024-05-16 |
 | [Lagda Na](https://open.spotify.com/track/2FyB6FVV2F35wh175H6IeZ) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Lagda Na](https://open.spotify.com/album/3fLoAnovxL1DsmdFJ9oqs1) | 2:17 | 2022-09-09 | 2022-09-23 |
+| [Lahore](https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Lahore](https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97) | 2:56 | 2024-11-20 |  |
 | [Lai Dass](https://open.spotify.com/track/7icfI2Gl3eUpUvKFJdnGBX) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Lai Dass](https://open.spotify.com/album/2AgJubUHUajZY9lzXYRFsy) | 3:30 | 2023-01-12 | 2023-02-02 |
 | [Laid Back](https://open.spotify.com/track/3x7tOQG4O3xc71ojvukQOk) | [Noor Tung](https://open.spotify.com/artist/44SO7hG8JnPeibqOefhgMY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Laid Back](https://open.spotify.com/album/7rsMotcs26SBQNVytHaUwU) | 2:52 | 2022-04-04 | 2022-04-29 |
 | [Lakeer](https://open.spotify.com/track/6Ca66dys8T7LWkKg6eY5JV) | [Raavi Gill](https://open.spotify.com/artist/6Sm1K8bZDB62cHlJWrhzI5), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Lakeer](https://open.spotify.com/album/27msVdpdZxZ0AAw0CLEWcN) | 3:59 | 2022-06-28 | 2022-07-06 |
@@ -943,7 +944,7 @@
 | [With You](https://open.spotify.com/track/2TgqSZcQ5TcLjY3RfDXToN) | [Jagga](https://open.spotify.com/artist/3TTFDy5p5Rteao6nYE3RFW) | [With You](https://open.spotify.com/album/5e5dx5c2zFUcwfggzQQdFr) | 2:02 | 2024-03-27 | 2024-06-01 |
 | [With You](https://open.spotify.com/track/4yITU6ac7XXzgvKyLAYGUR) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [With You](https://open.spotify.com/album/5Oy6JCgYwrlj1mkZzRtWfA) | 2:36 | 2022-07-13 | 2022-08-18 |
 | [Without U](https://open.spotify.com/track/0oEBeTmgy3hjMywboDf0RN) | [Ansh](https://open.spotify.com/artist/0oYzVP9t0bgLv5zCBrCTqJ), [Faraz](https://open.spotify.com/artist/5v97XScMyk02FNVZhHX2TR) | [Without U](https://open.spotify.com/album/2DInPZDP1R1ZTQh7iRA7TC) | 2:25 | 2022-12-15 | 2023-01-28 |
-| [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 | 2022-09-21 |  |
+| [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 | 2022-09-21 | 2024-11-21 |
 | [Yaad \- From The Album "ikigai"](https://open.spotify.com/track/24fcOo0Mif4IoYAMx3bFp4) | [Harman Mann](https://open.spotify.com/artist/1XcqQJdOdlJjwNVKRMHUWu), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Yaad](https://open.spotify.com/album/2BwQgV96oAfQv9o8IJeLp6) | 2:26 | 2022-02-04 | 2022-02-12 |
 | [Yaad Karogi](https://open.spotify.com/track/3o81S19Lv9VDFC0nSbdsY8) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Simran Kaur](https://open.spotify.com/artist/3ZBhVsCWljAG7ommW5sPRW) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 3:01 | 2022-09-15 | 2022-12-16 |
 | [Yaar Mera](https://open.spotify.com/track/6Fx5FyrlseqiL7L8ddY6iG) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Yaar Mera](https://open.spotify.com/album/2DVosjSDtVTKdyuJgoWloD) | 3:07 | 2022-02-11 | 2022-04-06 |

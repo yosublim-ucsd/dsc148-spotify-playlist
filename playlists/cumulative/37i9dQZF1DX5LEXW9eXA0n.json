@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \bANYUJIN(\uc548\uc720\uc9c4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: DAVICHI(\ub2e4\ube44\uce58)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -9399,6 +9399,24 @@
     },
     {
       "album": {
+        "name": "I'm gonna change",
+        "url": "https://open.spotify.com/album/0AaZdCzbTqYFovfZNmjlZn"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "I'm gonna change",
+      "url": "https://open.spotify.com/track/5vfuJfkb777TwMGBCtEVlS"
+    },
+    {
+      "album": {
         "name": "I'm in love with you",
         "url": "https://open.spotify.com/album/4K379GrQ1F8ZHV3CbRGxoU"
       },
@@ -12580,6 +12598,28 @@
       "duration_ms": 231386,
       "name": "LOVE RECIPE",
       "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
+    },
+    {
+      "album": {
+        "name": "IRON FAMILY, Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AvRIjH6ax50gaC4GRHANv"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "KIIRI",
+          "url": "https://open.spotify.com/artist/1wMLcvjlqV86dKKDe6IhfQ"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "Love Stealer",
+      "url": "https://open.spotify.com/track/3QkpeXIN5VmuEhDvjieufR"
     },
     {
       "album": {
@@ -18430,6 +18470,24 @@
       "duration_ms": 229714,
       "name": "Still You",
       "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
+    },
+    {
+      "album": {
+        "name": "Stitch",
+        "url": "https://open.spotify.com/album/49l21eblkkpfozaTjlpphW"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Stitching",
+      "url": "https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI"
     },
     {
       "album": {

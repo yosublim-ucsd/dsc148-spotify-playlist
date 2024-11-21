@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 160666,
       "name": "Closer to Your Heart",
       "url": "https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92"
@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Pagbilang ng Tatlo",
+        "url": "https://open.spotify.com/album/5zDHRmcJnKJ3rwebiucYI4"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Pagbilang ng Tatlo",
+      "url": "https://open.spotify.com/track/0RFS0I6c0tIaB0rdPa652Z"
+    },
+    {
+      "album": {
         "name": "pagod na (sayo)",
         "url": "https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF"
       },
@@ -2954,10 +2972,28 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 229205,
       "name": "Palihim",
       "url": "https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8"
+    },
+    {
+      "album": {
+        "name": "Pamamaalam",
+        "url": "https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB"
+      },
+      "artists": [
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Pamamaalam",
+      "url": "https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr"
     },
     {
       "album": {
@@ -3553,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "Free Love",
+        "url": "https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC"
+    },
+    {
+      "album": {
         "name": "Segundo, Siguro",
         "url": "https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0"
       },
@@ -3666,7 +3724,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 238098,
       "name": "Sisig",
       "url": "https://open.spotify.com/track/27yg8NUSbUr0KBMB9JyNOV"

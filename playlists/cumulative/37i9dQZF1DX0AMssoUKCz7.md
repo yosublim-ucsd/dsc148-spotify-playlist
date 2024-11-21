@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-728 songs - 1 day 12 hr 46 min
+729 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Never Too Much](https://open.spotify.com/track/5jxj0mXZi0y8GuWTibAmvQ) | [GOLD RVSH](https://open.spotify.com/artist/1izB1ZuPe2RH7Bhz49eXWW), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Never Too Much](https://open.spotify.com/album/1mX7Mpnp7eqsYWPGtz9DEO) | 3:11 | 2022-01-14 | 2022-07-29 |
 | [Never Too Much \(feat\. MIYA MIYA\)](https://open.spotify.com/track/2r8p9Ba6nc8M2PxVrMgFnP) | [GOLD RVSH](https://open.spotify.com/artist/1izB1ZuPe2RH7Bhz49eXWW), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Never Too Much \(feat\. MIYA MIYA\)](https://open.spotify.com/album/6AOwG0X8VfeUCeZOOSX5Je) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [Neverland](https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/6ILICHcoO9TA12sU0GzsQO) | 2:40 | 2022-04-01 | 2022-07-20 |
+| [New Beginnings](https://open.spotify.com/track/2ouzmB4EELwzPersSkE72Z) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [New Beginnings](https://open.spotify.com/album/25Q2DwPU4M8KjaGkTgA7vM) | 3:08 | 2024-10-04 |  |
 | [New Guinea](https://open.spotify.com/track/2aOeoucXlw56zHNrbBwHWa) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [New Guinea](https://open.spotify.com/album/7J7a6QJeaUutYMW1HP59Dq) | 2:28 | 2022-04-01 | 2022-07-26 |
 | [Night Light](https://open.spotify.com/track/2dxiCU61pRLZU81P6YCaDd) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Night Light](https://open.spotify.com/album/08DJk48073KqEB4C2nPi5D) | 3:08 | 2022-01-14 | 2022-09-24 |
 | [Night Sky](https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Night Sky](https://open.spotify.com/album/3SJaWpvArUXmEeGJUbp88T) | 2:29 | 2022-05-20 | 2022-11-13 |
@@ -735,6 +736,6 @@
 | [You'll Be Fine](https://open.spotify.com/track/6XakZY8dpvFsecV1qJ4DLL) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa), [ELSKA](https://open.spotify.com/artist/19GrDxe2EKSgGiYmztcHha) | [You’ll Be Fine](https://open.spotify.com/album/6AU7mNhHoYRY1zUZA6qDHe) | 2:10 | 2023-02-10 | 2024-07-19 |
 | [Young Folks](https://open.spotify.com/track/1ZbnlbHcFW9UQLOEsem7cW) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [Young Folks](https://open.spotify.com/album/2Bkg3j2UVTek8CephLWRfL) | 2:41 | 2022-05-27 |  |
 | [Younger \- Kygo Remix](https://open.spotify.com/track/7vHshinTU8161w69EPbabY) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 5:51 | 2022-01-14 | 2022-04-21 |
-| [Your Way](https://open.spotify.com/track/4xhaSm2xWAebv2TuJ79uk7) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Tropical Fairytale](https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob) | [Beach House](https://open.spotify.com/album/4HVVC70ITUZGyvGEs8XGDd) | 2:28 | 2023-01-20 |  |
+| [Your Way](https://open.spotify.com/track/4xhaSm2xWAebv2TuJ79uk7) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Tropical Fairytale](https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob) | [Beach House](https://open.spotify.com/album/4HVVC70ITUZGyvGEs8XGDd) | 2:28 | 2023-01-20 | 2024-11-21 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/6LwSr0EJqj8aZOwpad4mtc"
+      },
+      "artists": [
+        {
+          "name": "Amber Tide",
+          "url": "https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191874,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/47dH2eXinFda9meFcxxXDh"
+    },
+    {
+      "album": {
         "name": "One Quiet Night",
         "url": "https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK"
       },

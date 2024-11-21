@@ -280,24 +280,6 @@
     {
       "album": {
         "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
-        "url": "https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X"
-      },
-      "artists": [
-        {
-          "name": "Sim Soo Bong",
-          "url": "https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn"
-        }
-      ],
-      "date_added": "2021-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208901,
-      "name": "\uadf8 \ub54c \uadf8 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0"
-    },
-    {
-      "album": {
-        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
         "url": "https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0"
       },
       "artists": [
@@ -312,6 +294,24 @@
       "duration_ms": 208901,
       "name": "\uadf8 \ub54c \uadf8 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/2q2cITx9yh5HSxwiPpgHCl"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X"
+      },
+      "artists": [
+        {
+          "name": "\uc2ec\uc218\ubd09",
+          "url": "https://open.spotify.com/artist/7xcj5TEoeAUmtYRPjspjf9"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208901,
+      "name": "\uadf8 \ub54c \uadf8 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0"
     },
     {
       "album": {

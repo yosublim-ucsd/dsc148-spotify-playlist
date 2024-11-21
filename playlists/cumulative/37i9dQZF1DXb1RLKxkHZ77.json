@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 222352,
       "name": "Anyam Kayangan - From \"Kayangan\"",
       "url": "https://open.spotify.com/track/6PaIOQqdA0qJRauamRUGQq"
@@ -1368,6 +1368,28 @@
       "duration_ms": 223019,
       "name": "Berat Hati",
       "url": "https://open.spotify.com/track/4Lfav8nWU9ZcQ8MV9IcGKM"
+    },
+    {
+      "album": {
+        "name": "Berbagi Hati (From \"Berbagi Suami\")",
+        "url": "https://open.spotify.com/album/0Ff7d37a1Zx3lI8QRA45ZM"
+      },
+      "artists": [
+        {
+          "name": "Khai Bahar",
+          "url": "https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq"
+        },
+        {
+          "name": "Wany Hasrita",
+          "url": "https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251191,
+      "name": "Berbagi Hati - From \"Berbagi Suami\"",
+      "url": "https://open.spotify.com/track/58bWgWPJiiJgbvmIMSnINF"
     },
     {
       "album": {
@@ -2060,6 +2082,24 @@
       "duration_ms": 232880,
       "name": "Bukan Untukku",
       "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
+    },
+    {
+      "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/4OFuvzik3GZYd4ph1acJFM"
+      },
+      "artists": [
+        {
+          "name": "The Gadys",
+          "url": "https://open.spotify.com/artist/5FnNr5cpLHfVHB243VCj5s"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Bullseye",
+      "url": "https://open.spotify.com/track/2Sbx3nuETrlh92jpVW6UeM"
     },
     {
       "album": {
@@ -6434,7 +6474,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 145000,
       "name": "Memberontak",
       "url": "https://open.spotify.com/track/1cxcQZo6PwHluARCkqMyds"
@@ -6474,7 +6514,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 159397,
       "name": "Menang Atau Kalah - From \"Skuad X\"",
       "url": "https://open.spotify.com/track/1rM8Hx1WZlxbL7BclktUG0"
@@ -7194,7 +7234,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 188823,
       "name": "No Skibidi",
       "url": "https://open.spotify.com/track/29fTQ2g0s1b9h1KZvwi2IF"
@@ -9147,6 +9187,24 @@
     },
     {
       "album": {
+        "name": "Sejarah",
+        "url": "https://open.spotify.com/album/7lBtDKBzA20gyH6H6VAznx"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Sejarah",
+      "url": "https://open.spotify.com/track/60xSTxt4GWoic7LwndDtRN"
+    },
+    {
+      "album": {
         "name": "Sejuta Kata",
         "url": "https://open.spotify.com/album/7bbY7fvBSmQguTuad1VuTB"
       },
@@ -9242,7 +9300,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 280305,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3"
@@ -9950,6 +10008,24 @@
       "duration_ms": 264738,
       "name": "Syurga",
       "url": "https://open.spotify.com/track/2vDJ5C6dgCPGqQhcnD1mnB"
+    },
+    {
+      "album": {
+        "name": "Tak Ada Ujungnya",
+        "url": "https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202721,
+      "name": "Tak Ada Ujungnya",
+      "url": "https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C"
     },
     {
       "album": {

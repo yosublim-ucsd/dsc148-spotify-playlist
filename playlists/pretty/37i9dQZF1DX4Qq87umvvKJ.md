@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 
 > Underneath their cool, unbothered exterior, this character is an enigma to be unraveled.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,833 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,964 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 | 13 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 14 | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/track/1muALek1dLnnpVzZzDEHfC) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/album/4ntvDwQXImuuKGwFp182Mi) | 3:13 |
 | 15 | [Sasuke](https://open.spotify.com/track/0ROE31C8Wu4neZoR9stM9e) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Sasuke](https://open.spotify.com/album/6hUnGxVRgPgUfctjN19fIE) | 4:11 |
-| 16 | [\*〜アスタリスク〜](https://open.spotify.com/track/706e7n479uUY8Q46jGAnaA) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [All the Singles](https://open.spotify.com/album/38vsrgcwNmrNgF3fBLsIgh) | 4:17 |
+| 16 | [＊〜アスタリスク〜](https://open.spotify.com/track/706e7n479uUY8Q46jGAnaA) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [All the Singles](https://open.spotify.com/album/38vsrgcwNmrNgF3fBLsIgh) | 4:17 |
 | 17 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 |
 | 18 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 |
 | 19 | [YELLOW](https://open.spotify.com/track/6oLejuhWNQf76ydBbtLrT9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [SHIAWASE NA OTONA](https://open.spotify.com/album/7x6VFsg9C0oqfiv70xV3yl) | 2:58 |

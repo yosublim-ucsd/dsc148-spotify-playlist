@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con PARDOPARDO.",
-  "num_followers": 751843,
+  "num_followers": 751811,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "MUY FINITO",
-        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "MUY FINITO",
-      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 201043,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "MUY FINITO",
+        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "MUY FINITO",
+      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "SINSE",
+        "url": "https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "SINSE",
+      "url": "https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "UN PORRITO",
         "url": "https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 204991,
       "name": "UN PORRITO",
       "url": "https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "SINSE",
-        "url": "https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "SINSE",
-      "url": "https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK"
     }
   ],
   "unique_name": "Mixto",

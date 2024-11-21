@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,945 likes - 110 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,950 likes - 110 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 33 | [Like I Tried To Save You](https://open.spotify.com/track/6fiYBguLSNJaEjiEaSDnvH) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Go Find Your Lover!](https://open.spotify.com/album/1pcAjs1D1zNBfyd5GPVzGR) | 2:53 |
 | 34 | [Five on It \(feat\. Tyr\)](https://open.spotify.com/track/15OSzBAviGUnHh6FFqlyE3) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Five on It \(feat\. Tyr\)](https://open.spotify.com/album/5rV4uSIYqkcrbu9IHw2l5n) | 3:13 |
 | 35 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
-| 36 | [Du og jeg](https://open.spotify.com/track/5ehkUwrElsQ93TIvfqIogE) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM) | [Du og jeg](https://open.spotify.com/album/3InWss9cffmoPjRyij7DCU) | 2:34 |
+| 36 | [Du og jeg](https://open.spotify.com/track/5ehkUwrElsQ93TIvfqIogE) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM) | [Du og jeg](https://open.spotify.com/album/3InWss9cffmoPjRyij7DCU) | 2:34 |
 | 37 | [Broken Heart](https://open.spotify.com/track/6GDEzNPf16uyZU7ngqlUVc) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [Broken Heart](https://open.spotify.com/album/6dve1sgIIRA97qkQI7ktPe) | 2:45 |
 | 38 | [Drive By](https://open.spotify.com/track/1cVQ8IbKdEe4sXEFjK0BlW) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Drive By](https://open.spotify.com/album/0rueR6gvBgcAXtqfFDYnzF) | 3:09 |
 | 39 | [Timmy Turna](https://open.spotify.com/track/6qC6dVM60caPmmgrQOoewc) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Timmy Turna](https://open.spotify.com/album/2Fj2wnfrZ6HYPIDlWLibjP) | 2:12 |

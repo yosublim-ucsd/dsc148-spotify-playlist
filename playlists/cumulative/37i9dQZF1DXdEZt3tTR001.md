@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-257 songs - 16 hr 56 min
+258 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:39 | 2023-03-01 |  |
 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 | 2022-11-16 |  |
 | [California Dreamin'](https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Fly Me To The Moon](https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY) | 3:20 | 2023-09-29 |  |
-| [Calm Waters](https://open.spotify.com/track/21uOAMAEIEYGrChO46yKPY) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 4:55 | 2024-10-25 |  |
+| [Calm Waters](https://open.spotify.com/track/21uOAMAEIEYGrChO46yKPY) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 4:55 | 2024-10-25 | 2024-11-21 |
 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 | 2022-05-20 |  |
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [CARE4ME](https://open.spotify.com/track/0LwecaHvWZJ6ZXKxKKydoh) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70) | 1:54 | 2024-03-29 | 2024-04-06 |
@@ -180,13 +180,14 @@
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-22 | 2024-06-15 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-03-22 |  |
 | [Problems](https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Problems](https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB) | 3:03 | 2024-10-10 |  |
-| [Promised Land](https://open.spotify.com/track/5iGENNDYmDkCIW4J14ROeH) | [SIMBO](https://open.spotify.com/artist/1lQA8yJSOVRxFOGJvRDQDU), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [SOUNDSORCERER, VOL.2](https://open.spotify.com/album/3m1zGZTGi3qQXLZAiiuuxt) | 2:41 | 2024-10-25 |  |
+| [Promised Land](https://open.spotify.com/track/5iGENNDYmDkCIW4J14ROeH) | [SIMBO](https://open.spotify.com/artist/1lQA8yJSOVRxFOGJvRDQDU), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [SOUNDSORCERER, VOL.2](https://open.spotify.com/album/3m1zGZTGi3qQXLZAiiuuxt) | 2:41 | 2024-10-25 | 2024-11-21 |
 | [Purpose](https://open.spotify.com/track/07v4ZQgNrBtRjTbPQbH9UL) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Purpose](https://open.spotify.com/album/30FVhviyJzjAdMMXLfN0VD) | 3:49 | 2023-06-14 | 2023-11-18 |
 | [Quiet in a World Full of Noise](https://open.spotify.com/track/5P8nNe0VPbeADTQkpykoKx) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Quiet in a World Full of Noise](https://open.spotify.com/album/731xzbAjZ9q07B0rEssiwu) | 4:01 | 2024-10-04 | 2024-10-19 |
 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 | 2021-08-18 | 2023-09-26 |
 | [Redbone](https://open.spotify.com/track/3Bo79uipvzIBiOAG4zJPcm) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [21st Century Funk](https://open.spotify.com/album/770DSqP3I7AwvIcd5pI6Od) | 5:26 | 2022-11-04 | 2022-11-13 |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2022-10-12 | 2024-04-19 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-04-29 | 2022-10-13 |
+| [RESPECT](https://open.spotify.com/track/0eZk3lHzNSjJ9I5YAs26VQ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 2](https://open.spotify.com/album/4gxh0RuP5wCl7QzWuPRHQX) | 2:54 | 2024-11-20 |  |
 | [RETRO](https://open.spotify.com/track/7qL0Z6HZKGjcWX6JiracpX) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Nasim Asgari](https://open.spotify.com/artist/3Ha4pQdxfE4l63EuZUrCDE) | [RETRO](https://open.spotify.com/album/45GDcZlo4VqOO4dS7rcuhE) | 3:22 | 2024-03-29 | 2024-04-06 |
 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 | 2023-06-09 | 2023-09-15 |
 | [Saint \(feat\. Elijah Fox\)](https://open.spotify.com/track/552PNf9jYe7EoUq6Yia4iH) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Saint](https://open.spotify.com/album/1i5ZWErUhXfP8uSvQoVY5L) | 3:43 | 2024-05-10 | 2024-05-25 |

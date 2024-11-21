@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-223 songs - 13 hr 9 min
+224 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 | 2024-11-08 |  |
 | [Demons](https://open.spotify.com/track/6yeK9rzYyy66WsqlyQq4VX) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Demons](https://open.spotify.com/album/1jl0lRJT9NgzMQlI7qIWmh) | 3:46 | 2021-11-19 |  |
 | [Despacito](https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Luis Rodriguez](https://open.spotify.com/artist/7dTPvuNcEXLkQ1XiAuiWIP), [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Despacito](https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc) | 2:26 | 2021-11-19 |  |
+| [Die With A Smile](https://open.spotify.com/track/47dH2eXinFda9meFcxxXDh) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [Die With A Smile](https://open.spotify.com/album/6LwSr0EJqj8aZOwpad4mtc) | 3:11 | 2024-11-20 |  |
 | [Don't Know Why](https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 3:07 | 2021-11-19 | 2022-05-07 |
 | [Don't Start Now \- Piano Arrangement](https://open.spotify.com/track/25whEqyIHgzfvnfwORMgUv) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Don't Start Now \(Piano Arrangement\)](https://open.spotify.com/album/2ukWfzXS1vRh3elja259of) | 2:41 | 2022-07-08 | 2024-02-10 |
 | [Don't Start Now \- Piano Arrangement](https://open.spotify.com/track/645iSJrCsQZMgLoMqdGkI0) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Don't Start Now \(Piano Arrangement\)](https://open.spotify.com/album/25cZqm0GvwFkEQq8CEgKPL) | 2:41 | 2021-11-19 | 2022-07-29 |

@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 171026,
       "name": "Aguas da Amazonia: Negro River",
       "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
@@ -15576,7 +15576,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 80136,
       "name": "Helen's Theme - Electric Guitar Version",
       "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
@@ -15908,10 +15908,32 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 160007,
       "name": "Hey Rudy (with The Roots)",
       "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
+    },
+    {
+      "album": {
+        "name": "Holiday Seasoning",
+        "url": "https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "Hey Rudy (with The Roots)",
+      "url": "https://open.spotify.com/track/0rsfw5XRfjlwLBAetmJjBr"
     },
     {
       "album": {
@@ -16762,6 +16784,28 @@
       "duration_ms": 237124,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/2GBTgnhUDZyweeg7mTwhOi"
+    },
+    {
+      "album": {
+        "name": "I Had Known",
+        "url": "https://open.spotify.com/album/09drthJgiLWLCccxZuZGcL"
+      },
+      "artists": [
+        {
+          "name": "Kinger Bell",
+          "url": "https://open.spotify.com/artist/6rN4iXySzTQrZQXk7XmhXb"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210191,
+      "name": "I Had Known",
+      "url": "https://open.spotify.com/track/05JsY2QsHdTGdnyf7b7mX7"
     },
     {
       "album": {
@@ -20048,7 +20092,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 384827,
       "name": "La Llorona - Live",
       "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
@@ -20066,7 +20110,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 384840,
       "name": "La Llorona - Live",
       "url": "https://open.spotify.com/track/3gaqCLLFkQor7HDgZ7uMns"
@@ -29264,7 +29308,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 311070,
       "name": "Quatri\u00e8me mur",
       "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
@@ -30214,7 +30258,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 245000,
       "name": "Rock Star Shit",
       "url": "https://open.spotify.com/track/01zfu75kGdH1UF6zg1yF1G"

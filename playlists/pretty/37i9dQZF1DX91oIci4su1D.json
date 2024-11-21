@@ -1,6 +1,6 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
-  "num_followers": 830635,
+  "num_followers": 830726,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
-      },
-      "artists": [
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 191956,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "About A Love",
         "url": "https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 245357,
       "name": "About A Love",
       "url": "https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Electric Sky",
-        "url": "https://open.spotify.com/album/4BSO1lQKoaZbbitOXKsUP3"
-      },
-      "artists": [
-        {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "Electric Sky",
-      "url": "https://open.spotify.com/track/3VLOElrKDHDVgksivgyyUU"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5OAbT0PY5TgrjxXmSVkCBU"
       },
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Trifecta",
-        "url": "https://open.spotify.com/album/6VybT6guYbU72XS15a4iri"
+        "name": "Electric Sky",
+        "url": "https://open.spotify.com/album/4BSO1lQKoaZbbitOXKsUP3"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Arnej",
-          "url": "https://open.spotify.com/artist/2h6LBe1v9fSvc62fYum0CA"
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
         }
       ],
-      "duration_ms": 234471,
-      "name": "Trifecta",
-      "url": "https://open.spotify.com/track/1v8ey9429Z5ulObgHhYcqF"
+      "duration_ms": 211714,
+      "name": "Electric Sky",
+      "url": "https://open.spotify.com/track/3VLOElrKDHDVgksivgyyUU"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 150851,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/4IxM0oIz7plmTiYCZZwnE3"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Trifecta",
+        "url": "https://open.spotify.com/album/6VybT6guYbU72XS15a4iri"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Arnej",
+          "url": "https://open.spotify.com/artist/2h6LBe1v9fSvc62fYum0CA"
+        }
+      ],
+      "duration_ms": 234471,
+      "name": "Trifecta",
+      "url": "https://open.spotify.com/track/1v8ey9429Z5ulObgHhYcqF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1UvxwgWrs8DLfvAWkFFemm"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 196964,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3FHsOdgDllqBw2yG2l0WMh"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Stokbrood",
         "url": "https://open.spotify.com/album/2rA0lG2i3TF8cL8MgS4O9o"
       },
@@ -1347,22 +1371,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Autumn Avenue",
-        "url": "https://open.spotify.com/album/16Jnds3sUuEA6tkhwHap1p"
-      },
-      "artists": [
-        {
-          "name": "John O'Callaghan",
-          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Autumn Avenue",
-      "url": "https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Elysium [Transmission 2024 Theme]",
         "url": "https://open.spotify.com/album/49bCIw1A3H9YoBYcLemVNi"
       },
@@ -1375,6 +1383,22 @@
       "duration_ms": 158507,
       "name": "Elysium [Transmission 2024 Theme]",
       "url": "https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Autumn Avenue",
+        "url": "https://open.spotify.com/album/16Jnds3sUuEA6tkhwHap1p"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        }
+      ],
+      "duration_ms": 203104,
+      "name": "Autumn Avenue",
+      "url": "https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1399,22 +1423,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/2hjyFTfiNmY1RN37yv5NaH"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/5FTEWf140QYrmU4Dz6X7YD"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7bw0YFMIT3N4iT3P093Caj"
       },
@@ -1431,6 +1439,22 @@
       "duration_ms": 208695,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1NMLUxMIOdfH5ZwSJEVDMs"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/2hjyFTfiNmY1RN37yv5NaH"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/5FTEWf140QYrmU4Dz6X7YD"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1523,30 +1547,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/1UvxwgWrs8DLfvAWkFFemm"
-      },
-      "artists": [
-        {
-          "name": "S\u00d8NIN",
-          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
-        },
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
-        }
-      ],
-      "duration_ms": 196964,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3FHsOdgDllqBw2yG2l0WMh"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Burned",
         "url": "https://open.spotify.com/album/1JQEp5WZnrrtN8N0ouoDDX"
       },
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Guide Me Home",
+        "url": "https://open.spotify.com/album/5wDYfNUFKaQgsB5TKYYsxk"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 210714,
+      "name": "Guide Me Home",
+      "url": "https://open.spotify.com/track/78VAm5dA0hs5sl77KOEMv8"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Like DAT",
         "url": "https://open.spotify.com/album/1Pmq59yfQH0d5wXY7KRXat"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 224117,
       "name": "Like DAT",
       "url": "https://open.spotify.com/track/17lr3qI03WESpCHYTBjqPZ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Guide Me Home",
-        "url": "https://open.spotify.com/album/5wDYfNUFKaQgsB5TKYYsxk"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 210714,
-      "name": "Guide Me Home",
-      "url": "https://open.spotify.com/track/78VAm5dA0hs5sl77KOEMv8"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3RAf2SXmZt1QeOE1onm1cF"
-      },
-      "artists": [
-        {
-          "name": "KhoMha",
-          "url": "https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW"
-        }
-      ],
-      "duration_ms": 231904,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0LbBiwDlzTjncvdkaz4UEh"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Shambhala",
         "url": "https://open.spotify.com/album/5HQx13KfPaOY29n7MPlsWy"
       },
@@ -1747,22 +1731,34 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "4U",
-        "url": "https://open.spotify.com/album/4x0dpkxoEAYiqIKI3LAROt"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3RAf2SXmZt1QeOE1onm1cF"
       },
       "artists": [
         {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+          "name": "KhoMha",
+          "url": "https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW"
         }
       ],
-      "duration_ms": 218507,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/2xwgWtJlylRCOJ9h9rCbIc"
+      "duration_ms": 231904,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0LbBiwDlzTjncvdkaz4UEh"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Orbital",
+        "url": "https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F"
+      },
+      "artists": [
+        {
+          "name": "Allen Watts",
+          "url": "https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR"
+        }
+      ],
+      "duration_ms": 209196,
+      "name": "Orbital",
+      "url": "https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1791,38 +1787,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Orbital",
-        "url": "https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F"
+        "name": "4U",
+        "url": "https://open.spotify.com/album/4x0dpkxoEAYiqIKI3LAROt"
       },
       "artists": [
         {
-          "name": "Allen Watts",
-          "url": "https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR"
-        }
-      ],
-      "duration_ms": 209196,
-      "name": "Orbital",
-      "url": "https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Leaving Me",
-        "url": "https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p"
-      },
-      "artists": [
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
         }
       ],
-      "duration_ms": 200250,
-      "name": "Leaving Me",
-      "url": "https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N"
+      "duration_ms": 218507,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/2xwgWtJlylRCOJ9h9rCbIc"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1843,6 +1823,26 @@
       "duration_ms": 198096,
       "name": "Free Your Soul",
       "url": "https://open.spotify.com/track/1i07sRwLRVMLp4QCuR8U3u"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Leaving Me",
+        "url": "https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Leaving Me",
+      "url": "https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/7wwrTpBOX2szuF0E63tzy2"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Tokarev",
-          "url": "https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4"
-        },
-        {
-          "name": "Bruno Oloviani",
-          "url": "https://open.spotify.com/artist/1JLm7d4tLJiFzxCwgngt2i"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/6u1me6uJh0ZbXy9mdA3s7z"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Meet Again",
         "url": "https://open.spotify.com/album/2gWB2YHPVUk01bRQZiKZGM"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 190009,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/1TJsxoJte19MgSzGSsIM3h"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/7wwrTpBOX2szuF0E63tzy2"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Tokarev",
+          "url": "https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4"
+        },
+        {
+          "name": "Bruno Oloviani",
+          "url": "https://open.spotify.com/artist/1JLm7d4tLJiFzxCwgngt2i"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/6u1me6uJh0ZbXy9mdA3s7z"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Mystica",
-        "url": "https://open.spotify.com/album/62G2jRCYlKWE8ytFEJyiL5"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 280873,
-      "name": "Mystica",
-      "url": "https://open.spotify.com/track/51pX2IgyFW8fMnUqp85cVF"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Feel Less",
         "url": "https://open.spotify.com/album/4HcMLj9TRh9BGqU7Mwejoj"
       },
@@ -2079,22 +2063,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Vespera",
-        "url": "https://open.spotify.com/album/6TExN4CIc5UiiBkrMDl10p"
+        "name": "Mystica",
+        "url": "https://open.spotify.com/album/62G2jRCYlKWE8ytFEJyiL5"
       },
       "artists": [
         {
-          "name": "Protoculture",
-          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
-        },
-        {
-          "name": "Freak E Beatz",
-          "url": "https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
       ],
-      "duration_ms": 238109,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/5Y3NxSLtGdwBFzkiKVYbUT"
+      "duration_ms": 280873,
+      "name": "Mystica",
+      "url": "https://open.spotify.com/track/51pX2IgyFW8fMnUqp85cVF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2119,6 +2099,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Vespera",
+        "url": "https://open.spotify.com/album/6TExN4CIc5UiiBkrMDl10p"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        },
+        {
+          "name": "Freak E Beatz",
+          "url": "https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/5Y3NxSLtGdwBFzkiKVYbUT"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "The Code",
         "url": "https://open.spotify.com/album/6BLKSVuO52ga0CUDGf4nak"
       },
@@ -2131,6 +2131,42 @@
       "duration_ms": 228970,
       "name": "The Code",
       "url": "https://open.spotify.com/track/2vHv8jD16CYkzJYdH3k7fB"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "United in Love",
+        "url": "https://open.spotify.com/album/0avVnNGC0mYWvGJuLqc6bP"
+      },
+      "artists": [
+        {
+          "name": "Dim3nsion",
+          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+        }
+      ],
+      "duration_ms": 206422,
+      "name": "United in Love",
+      "url": "https://open.spotify.com/track/2OTlxfRnBZKPWqO16fQC2h"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Wave (Is Coming)",
+        "url": "https://open.spotify.com/album/5823Cau4UyTySFTCdXGJgW"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "duration_ms": 210434,
+      "name": "The Wave (is Coming) (York Back To The Roots Mix)",
+      "url": "https://open.spotify.com/track/1EHa4jVUQri79NcoFeuzZG"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2159,62 +2195,6 @@
       "duration_ms": 199110,
       "name": "Falls Apart",
       "url": "https://open.spotify.com/track/3J4bMzrZYbEHX7zBkA2BvR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Wave (Is Coming)",
-        "url": "https://open.spotify.com/album/5823Cau4UyTySFTCdXGJgW"
-      },
-      "artists": [
-        {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
-        },
-        {
-          "name": "Torsten Stenzel",
-          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
-        }
-      ],
-      "duration_ms": 210434,
-      "name": "The Wave (is Coming) (York Back To The Roots Mix)",
-      "url": "https://open.spotify.com/track/1EHa4jVUQri79NcoFeuzZG"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "United in Love",
-        "url": "https://open.spotify.com/album/0avVnNGC0mYWvGJuLqc6bP"
-      },
-      "artists": [
-        {
-          "name": "Dim3nsion",
-          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
-        }
-      ],
-      "duration_ms": 206422,
-      "name": "United in Love",
-      "url": "https://open.spotify.com/track/2OTlxfRnBZKPWqO16fQC2h"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Together Forever",
-        "url": "https://open.spotify.com/album/32PNO3ivzTh9bQK2roHY6Q"
-      },
-      "artists": [
-        {
-          "name": "Roman Messer",
-          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
-        },
-        {
-          "name": "ThoBa",
-          "url": "https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd"
-        }
-      ],
-      "duration_ms": 244772,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/5kgPGFORn3jYjQXmvJzJ58"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2259,6 +2239,46 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Together Forever",
+        "url": "https://open.spotify.com/album/32PNO3ivzTh9bQK2roHY6Q"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        },
+        {
+          "name": "ThoBa",
+          "url": "https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd"
+        }
+      ],
+      "duration_ms": 244772,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/5kgPGFORn3jYjQXmvJzJ58"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Divergent",
+        "url": "https://open.spotify.com/album/0phnZ39wLh4zd4tLRZkrpQ"
+      },
+      "artists": [
+        {
+          "name": "Pinkque",
+          "url": "https://open.spotify.com/artist/26czhdztIjvJv7qNVprCXt"
+        },
+        {
+          "name": "Darren Porter",
+          "url": "https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Divergent - Radio Edit",
+      "url": "https://open.spotify.com/track/07tSIYAgH9ovlgLr4iZJMS"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/4prVX8o2AXEQbuFcSsl4BA"
       },
@@ -2271,30 +2291,6 @@
       "duration_ms": 215896,
       "name": "Raven",
       "url": "https://open.spotify.com/track/1PUYKZpMSDACwrKsW4CUuv"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Wild Horse (Siskin Remix)",
-        "url": "https://open.spotify.com/album/4DiN78ngbYr9DH0yPu4omM"
-      },
-      "artists": [
-        {
-          "name": "John Askew",
-          "url": "https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J"
-        },
-        {
-          "name": "Shelby Merry",
-          "url": "https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd"
-        },
-        {
-          "name": "Siskin",
-          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
-        }
-      ],
-      "duration_ms": 204008,
-      "name": "Wild Horse - Siskin Remix",
-      "url": "https://open.spotify.com/track/60wkt69A8u9171nbyTg4gV"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2323,22 +2319,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Divergent",
-        "url": "https://open.spotify.com/album/0phnZ39wLh4zd4tLRZkrpQ"
+        "name": "Wild Horse (Siskin Remix)",
+        "url": "https://open.spotify.com/album/4DiN78ngbYr9DH0yPu4omM"
       },
       "artists": [
         {
-          "name": "Pinkque",
-          "url": "https://open.spotify.com/artist/26czhdztIjvJv7qNVprCXt"
+          "name": "John Askew",
+          "url": "https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J"
         },
         {
-          "name": "Darren Porter",
-          "url": "https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA"
+          "name": "Shelby Merry",
+          "url": "https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd"
+        },
+        {
+          "name": "Siskin",
+          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Divergent - Radio Edit",
-      "url": "https://open.spotify.com/track/07tSIYAgH9ovlgLr4iZJMS"
+      "duration_ms": 204008,
+      "name": "Wild Horse - Siskin Remix",
+      "url": "https://open.spotify.com/track/60wkt69A8u9171nbyTg4gV"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2375,18 +2375,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/4tEYpiGHCylPgdCdQG2LFu"
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/1t0LemLP1MPN3Ljzdr3Xm3"
       },
       "artists": [
         {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+          "name": "Alex M.O.R.P.H.",
+          "url": "https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW"
         }
       ],
-      "duration_ms": 214460,
-      "name": "U",
-      "url": "https://open.spotify.com/track/4Bfpl39pwLWVFXdiv16sPX"
+      "duration_ms": 177395,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/0LKv2CdHWNjh7kIFuw7dQQ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/1t0LemLP1MPN3Ljzdr3Xm3"
+        "name": "Dance of Life",
+        "url": "https://open.spotify.com/album/1c4YuF4rGrlj665PVyxDuL"
       },
       "artists": [
         {
-          "name": "Alex M.O.R.P.H.",
-          "url": "https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW"
+          "name": "Orkidea",
+          "url": "https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7"
         }
       ],
-      "duration_ms": 177395,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/0LKv2CdHWNjh7kIFuw7dQQ"
+      "duration_ms": 247619,
+      "name": "Dance of Life",
+      "url": "https://open.spotify.com/track/2DfahOK7hUFhiiHFvVS9WF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2435,22 +2435,6 @@
       "duration_ms": 205714,
       "name": "Alcazar",
       "url": "https://open.spotify.com/track/2SUYjTg0xeWe8qYM4jx8x0"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Dance of Life",
-        "url": "https://open.spotify.com/album/1c4YuF4rGrlj665PVyxDuL"
-      },
-      "artists": [
-        {
-          "name": "Orkidea",
-          "url": "https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7"
-        }
-      ],
-      "duration_ms": 247619,
-      "name": "Dance of Life",
-      "url": "https://open.spotify.com/track/2DfahOK7hUFhiiHFvVS9WF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2475,6 +2459,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/4tEYpiGHCylPgdCdQG2LFu"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "duration_ms": 214460,
+      "name": "U",
+      "url": "https://open.spotify.com/track/4Bfpl39pwLWVFXdiv16sPX"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/4toXocV8ZrRUSjvkeG26Fr"
       },
@@ -2487,6 +2487,22 @@
       "duration_ms": 167082,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0sKJQ38BIstZUFXihXB4rU"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Keep Falling",
+        "url": "https://open.spotify.com/album/2jKldNnVhLU9MDb5W7Bhwo"
+      },
+      "artists": [
+        {
+          "name": "Dim3nsion",
+          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Keep Falling",
+      "url": "https://open.spotify.com/track/6wqipHY3gVEHqyoAOJIugd"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2511,18 +2527,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Keep Falling",
-        "url": "https://open.spotify.com/album/2jKldNnVhLU9MDb5W7Bhwo"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7FgoElKaznGpdkB4klnBoD"
       },
       "artists": [
         {
-          "name": "Dim3nsion",
-          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+          "name": "Siskin",
+          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
+        },
+        {
+          "name": "Susie Ledge",
+          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
+        },
+        {
+          "name": "Hal Stucker",
+          "url": "https://open.spotify.com/artist/01HjiueGdSdynpvQiBsJ04"
         }
       ],
-      "duration_ms": 196025,
-      "name": "Keep Falling",
-      "url": "https://open.spotify.com/track/6wqipHY3gVEHqyoAOJIugd"
+      "duration_ms": 212812,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6CxxV9JSweebzhfQv6oqIe"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2563,30 +2587,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7FgoElKaznGpdkB4klnBoD"
-      },
-      "artists": [
-        {
-          "name": "Siskin",
-          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
-        },
-        {
-          "name": "Susie Ledge",
-          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
-        },
-        {
-          "name": "Hal Stucker",
-          "url": "https://open.spotify.com/artist/01HjiueGdSdynpvQiBsJ04"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/6CxxV9JSweebzhfQv6oqIe"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Stargazing (feat. Lin was here)",
         "url": "https://open.spotify.com/album/1D6jer7Ksr9doUbvKuSEqO"
       },
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "A Trillion Suns",
-        "url": "https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE"
-      },
-      "artists": [
-        {
-          "name": "Daniel Skyver",
-          "url": "https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y"
-        }
-      ],
-      "duration_ms": 209130,
-      "name": "A Trillion Suns",
-      "url": "https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Defector",
         "url": "https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 226956,
       "name": "Defector",
       "url": "https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "A Trillion Suns",
+        "url": "https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE"
+      },
+      "artists": [
+        {
+          "name": "Daniel Skyver",
+          "url": "https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y"
+        }
+      ],
+      "duration_ms": 209130,
+      "name": "A Trillion Suns",
+      "url": "https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2707,6 +2707,30 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Sublimity",
+        "url": "https://open.spotify.com/album/71gvScDXVDD1Qd4Xt1IEM0"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        },
+        {
+          "name": "Dim3nsion",
+          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+        },
+        {
+          "name": "Dennis Sheperd",
+          "url": "https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY"
+        }
+      ],
+      "duration_ms": 211451,
+      "name": "Sublimity",
+      "url": "https://open.spotify.com/track/0uVxg9G8CwOt5n616PyNHr"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Global Consciousness",
         "url": "https://open.spotify.com/album/27biuyQ0cJWit8czIN9R2c"
       },
@@ -2743,30 +2767,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Sublimity",
-        "url": "https://open.spotify.com/album/71gvScDXVDD1Qd4Xt1IEM0"
-      },
-      "artists": [
-        {
-          "name": "Protoculture",
-          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
-        },
-        {
-          "name": "Dim3nsion",
-          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
-        },
-        {
-          "name": "Dennis Sheperd",
-          "url": "https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY"
-        }
-      ],
-      "duration_ms": 211451,
-      "name": "Sublimity",
-      "url": "https://open.spotify.com/track/0uVxg9G8CwOt5n616PyNHr"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "To Light a Fire",
         "url": "https://open.spotify.com/album/5yWR9CtYkwqjyWiS6QWtOQ"
       },
@@ -2783,22 +2783,6 @@
       "duration_ms": 368437,
       "name": "To Light a Fire",
       "url": "https://open.spotify.com/track/4PSajMg5llKKiP96GwU8Rz"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Cicero",
-        "url": "https://open.spotify.com/album/2jPHZliiuvUdQQLqaVTQpx"
-      },
-      "artists": [
-        {
-          "name": "Robert Nickson",
-          "url": "https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Cicero",
-      "url": "https://open.spotify.com/track/5rWTEexNPxNkDVvPiD9q6C"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2867,6 +2851,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Cicero",
+        "url": "https://open.spotify.com/album/2jPHZliiuvUdQQLqaVTQpx"
+      },
+      "artists": [
+        {
+          "name": "Robert Nickson",
+          "url": "https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Cicero",
+      "url": "https://open.spotify.com/track/5rWTEexNPxNkDVvPiD9q6C"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Tank",
         "url": "https://open.spotify.com/album/0tvQMIWpBuHe8dgOBqyy6u"
       },
@@ -2883,22 +2883,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/0bGX3xsVSohtC2i22yXamg"
-      },
-      "artists": [
-        {
-          "name": "AFTERUS",
-          "url": "https://open.spotify.com/artist/7aypFEIbgPh3LrdhAC6C3E"
-        }
-      ],
-      "duration_ms": 281250,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/2BaS9Wc7gBIkicXxtIOUUH"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Belong To You",
         "url": "https://open.spotify.com/album/1vMmazCAffiPFTwy68F1bq"
       },
@@ -2911,6 +2895,22 @@
       "duration_ms": 245625,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/093YOS7A79Whhk8nVIans5"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/0bGX3xsVSohtC2i22yXamg"
+      },
+      "artists": [
+        {
+          "name": "AFTERUS",
+          "url": "https://open.spotify.com/artist/7aypFEIbgPh3LrdhAC6C3E"
+        }
+      ],
+      "duration_ms": 281250,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/2BaS9Wc7gBIkicXxtIOUUH"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Till The Sun Is Up High",
-        "url": "https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5"
-      },
-      "artists": [
-        {
-          "name": "Natalie Gioia",
-          "url": "https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO"
-        }
-      ],
-      "duration_ms": 198654,
-      "name": "Till The Sun Is Up High",
-      "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Resource",
         "url": "https://open.spotify.com/album/5FgkWUGEsLOuykvly4JXe6"
       },
@@ -3163,6 +3147,42 @@
       "duration_ms": 236250,
       "name": "Resource",
       "url": "https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Light In The Sky",
+        "url": "https://open.spotify.com/album/7KyKMpRYJGr2AGWHKI47NI"
+      },
+      "artists": [
+        {
+          "name": "Motez",
+          "url": "https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR"
+        },
+        {
+          "name": "Lauren Ray",
+          "url": "https://open.spotify.com/artist/1X7h3UZ29XSP2XMoDT8WiA"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "Light In The Sky",
+      "url": "https://open.spotify.com/track/2dNUiG7dynCHnHwKyg0YT9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Till The Sun Is Up High",
+        "url": "https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5"
+      },
+      "artists": [
+        {
+          "name": "Natalie Gioia",
+          "url": "https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO"
+        }
+      ],
+      "duration_ms": 198654,
+      "name": "Till The Sun Is Up High",
+      "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -3275,6 +3295,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Pushing On",
+        "url": "https://open.spotify.com/album/4HRcfPNhtyWPxsCgj40OQV"
+      },
+      "artists": [
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "Pushing On",
+      "url": "https://open.spotify.com/track/0HJP9Wxx0wG1tpVOfbHeIs"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Lost Forever",
         "url": "https://open.spotify.com/album/3qEUg6rcO3Q1ALFeqwqdnG"
       },
@@ -3291,22 +3327,6 @@
       "duration_ms": 209142,
       "name": "Lost Forever",
       "url": "https://open.spotify.com/track/4FSbVedpeT9emcIrOUrwKo"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Make U",
-        "url": "https://open.spotify.com/album/6G6jZWF1mQdVsR9589Vv37"
-      },
-      "artists": [
-        {
-          "name": "Chris Schweizer",
-          "url": "https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Make U",
-      "url": "https://open.spotify.com/track/2egXvEvtADEcBgaDvzxOdm"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -3339,38 +3359,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Light In The Sky",
-        "url": "https://open.spotify.com/album/7KyKMpRYJGr2AGWHKI47NI"
+        "name": "Make U",
+        "url": "https://open.spotify.com/album/6G6jZWF1mQdVsR9589Vv37"
       },
       "artists": [
         {
-          "name": "Motez",
-          "url": "https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR"
-        },
-        {
-          "name": "Lauren Ray",
-          "url": "https://open.spotify.com/artist/1X7h3UZ29XSP2XMoDT8WiA"
+          "name": "Chris Schweizer",
+          "url": "https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc"
         }
       ],
-      "duration_ms": 212142,
-      "name": "Light In The Sky",
-      "url": "https://open.spotify.com/track/2dNUiG7dynCHnHwKyg0YT9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Pushing On",
-        "url": "https://open.spotify.com/album/4HRcfPNhtyWPxsCgj40OQV"
-      },
-      "artists": [
-        {
-          "name": "Marco V",
-          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Pushing On",
-      "url": "https://open.spotify.com/track/0HJP9Wxx0wG1tpVOfbHeIs"
+      "duration_ms": 184666,
+      "name": "Make U",
+      "url": "https://open.spotify.com/track/2egXvEvtADEcBgaDvzxOdm"
     },
     {
       "added_at": "2024-11-15 05:00:00",

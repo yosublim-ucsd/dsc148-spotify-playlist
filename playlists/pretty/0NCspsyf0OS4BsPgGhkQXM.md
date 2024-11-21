@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,034,873 likes - 137 songs - 7 hr 12 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,034,840 likes - 137 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 39 | [I'm All In](https://open.spotify.com/track/0mOX7j9WeCohrAiHjwlVFR) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [I'm All In](https://open.spotify.com/album/1PZFdSAn2YYnzHMPFRown6) | 2:53 |
 | 40 | [After Dark](https://open.spotify.com/track/3PeeEUukuSrEBUkpsr0dSk) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [After Dark](https://open.spotify.com/album/7kAwn79OktPUYnKVZekIPD) | 3:55 |
 | 41 | [Just A Mirage](https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [ILLUSIO](https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp) | [Just A Mirage](https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr) | 4:48 |
-| 42 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
-| 43 | [the way i was \- enjoii remix](https://open.spotify.com/track/25uSI4fvxRU3Iujvw7flSh) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [the way i was \(enjoii remix\)](https://open.spotify.com/album/4NzioCx6B71TPCLR5VhfPW) | 2:12 |
-| 44 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
-| 45 | [Pumpfake](https://open.spotify.com/track/6GwdfiUA3p0zyXpP7LelL5) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Towa](https://open.spotify.com/artist/0deFUk9nP4wGKSUc20yJgm) | [Pumpfake](https://open.spotify.com/album/0E1PmBhE7u7iR2ifVyAoCP) | 1:33 |
+| 42 | [Pumpfake](https://open.spotify.com/track/6GwdfiUA3p0zyXpP7LelL5) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Towa](https://open.spotify.com/artist/0deFUk9nP4wGKSUc20yJgm) | [Pumpfake](https://open.spotify.com/album/0E1PmBhE7u7iR2ifVyAoCP) | 1:33 |
+| 43 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
+| 44 | [the way i was \- enjoii remix](https://open.spotify.com/track/25uSI4fvxRU3Iujvw7flSh) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [the way i was \(enjoii remix\)](https://open.spotify.com/album/4NzioCx6B71TPCLR5VhfPW) | 2:12 |
+| 45 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 |
 | 46 | [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:47 |
 | 47 | [Annihilation](https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n) | [Annihilation](https://open.spotify.com/album/07GNUhyyXfJFfDhhD2vcL5) | 3:08 |
 | 48 | [Poker Face](https://open.spotify.com/track/7tQPXgC9h5m7XyzSpRCYkD) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Poker Face](https://open.spotify.com/album/3S0E6XgBZZEHwtMK4Gq7vO) | 2:04 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 136 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 | 137 | [Embers](https://open.spotify.com/track/67lyxsvzzzHKSKfh0rSSMo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 3:33 |
 
-Snapshot ID: `AAA5zcN7hOg1j9a9u1ZK8515c+6hOhx8`
+Snapshot ID: `AAA5zqJokm7Wsmtz6weJy6MYw2sWhqIX`

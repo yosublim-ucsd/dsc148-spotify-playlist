@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists and labels\. Cover:  Dani Marchio\.  Artwork by Paola Saliby
 
-3,731 songs - 7 day 21 hr 48 min
+3,734 songs - 7 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [DELETE MY HISTORY \(ctrl+alt+delete\)](https://open.spotify.com/track/1wV8KInvXt4g7TVRnXZVNn) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [DELETE MY HISTORY \(ctrl+alt+delete\)](https://open.spotify.com/album/2JIQgCa5NfPv4b2FXtWkIw) | 3:10 | 2022-03-23 | 2022-04-28 |
 | [Delilah](https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [No Borders](https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat) | 2:32 | 2022-01-12 | 2022-02-10 |
 | [Delusional](https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix) | [Alexa Kate](https://open.spotify.com/artist/3iBxsXUg8JpSzeZQlp75e8) | [Delusional](https://open.spotify.com/album/4cq0eZqoh82zqqi7fBsvSa) | 3:22 | 2024-03-20 | 2024-06-13 |
+| [Delusional](https://open.spotify.com/track/2ieoz22DNZyqZSnulU6nsn) | [Maggie Ries](https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4) | [DON'T BE SO OVERDRAMATIC](https://open.spotify.com/album/5cErFpZgci6ABkvy3NG34s) | 3:19 | 2024-11-20 |  |
 | [denial](https://open.spotify.com/track/7xG9bhLJONG5W78hjojWtj) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [denial](https://open.spotify.com/album/41sOCLbglhmvU6wdySOcy3) | 2:20 | 2020-12-08 | 2021-01-15 |
 | [Denouement](https://open.spotify.com/track/4ml7mrfUUxg8VtLwnu38nr) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Denouement](https://open.spotify.com/album/4OM9A1NtnL1vVCuPMj8gfT) | 3:12 | 2021-09-24 | 2021-10-28 |
 | [Denver](https://open.spotify.com/track/17lzfz6X01zjK7gt07o3PR) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Denver](https://open.spotify.com/album/1gLV0r2aZoTLbGADaGuzhP) | 2:53 | 2024-01-10 | 2024-02-01 |
@@ -1553,6 +1554,7 @@
 | [I Can't Be Friends With You](https://open.spotify.com/track/6Clm36yYbpzT7Ea1D0TJYb) | [Sara Sommerer](https://open.spotify.com/artist/7t3a0pLRpE216teeNNhKpa) | [I Can't Be Friends With You](https://open.spotify.com/album/3VgSk5NW9DfQtYs1Bf7yN5) | 2:08 | 2024-05-08 | 2024-06-20 |
 | [I CAN'T HATE YOU](https://open.spotify.com/track/3JKPAGIV3Hcs6eWGBRGRw7) | [COLE](https://open.spotify.com/artist/3QYpKiqpeL1EKF2NF4kOMA) | [I CAN'T HATE YOU](https://open.spotify.com/album/7aBHwzH8RaoRY1ytodyToO) | 2:54 | 2021-06-03 | 2021-07-22 |
 | [I Can't Help Myself](https://open.spotify.com/track/19p9psi8RNJVk18fHUEc38) | [Valentine Byrne](https://open.spotify.com/artist/1TxRQpnXprFiFXJJBQELcs), [jacuzzi jefferson](https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw) | [I Can't Help Myself](https://open.spotify.com/album/7ieFIM2hOX4Qj2rkeQzEze) | 3:06 | 2021-04-01 | 2021-05-13 |
+| [I Can't Quit](https://open.spotify.com/track/0Irj6PuEEGzi7JGJvAhdZ8) | [Mel 4Ever](https://open.spotify.com/artist/7e34iWed5vSXh7wAoejlOJ) | [I Can't Quit](https://open.spotify.com/album/33wwTPX7FZ7OoSBjORbQHj) | 2:34 | 2024-11-20 |  |
 | [I Can't Wait](https://open.spotify.com/track/6JvIYeuGbmrbUsjKL6xKD1) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [I Can't Wait](https://open.spotify.com/album/7hGMRSJZFLREQMNPEBgOHT) | 3:23 | 2021-03-18 | 2021-04-15 |
 | [I Can't Wait to Be British](https://open.spotify.com/track/2HAnmtm1N1twtiVRrLD4jQ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [I Can't Wait to Be British](https://open.spotify.com/album/6QlIINO4XfjelShb0urw5g) | 3:25 | 2021-06-18 | 2021-08-05 |
 | [I Could Save You](https://open.spotify.com/track/5EqBMnYhnpiKQjdSaR09t5) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [I Could Save You](https://open.spotify.com/album/08Mrfef0Iw2pjJAfwvupvY) | 2:47 | 2022-06-29 | 2022-07-28 |
@@ -3703,6 +3705,7 @@
 | [You Don’t Know Me Yet](https://open.spotify.com/track/5iZuZah6zg3CRQzQGi51Vf) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [You Don’t Know Me Yet](https://open.spotify.com/album/1flU6YH5h4mdG2b8rkoOtw) | 3:20 | 2020-12-03 | 2020-12-08 |
 | [You Got Me](https://open.spotify.com/track/7HgiJTptTSMYrF9gNAOOnx) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [You Got Me](https://open.spotify.com/album/5BiFVPU7IMHSDLO9ItJeYD) | 2:59 | 2024-06-05 | 2024-06-28 |
 | [You Got That \(Hometown Smile\)](https://open.spotify.com/track/4hQ4hVrKXZny7ytwlKwf0l) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [You Got That \(Hometown Smile\)](https://open.spotify.com/album/03uOBr7LmsCjOOJJc7aqVj) | 2:56 | 2020-11-27 | 2020-12-08 |
+| [You Just Keep Living](https://open.spotify.com/track/12T4kEjA1K8yGaW7i5hLAc) | [Maisyn](https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d) | [Past Life](https://open.spotify.com/album/3lNSihWcUvJc8LbSbgCDVV) | 3:59 | 2024-11-20 |  |
 | [you made me like this](https://open.spotify.com/track/4tFdFGySFruNkHlTwoIlLf) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [ALL THE WORDS WE NEVER SAID](https://open.spotify.com/album/52xreJuWQUsl0gKdnBK1ue) | 2:38 | 2023-04-12 | 2023-06-29 |
 | [you make me feel](https://open.spotify.com/track/3fSXG6hm7U9zHja6zgTsUG) | [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [you make me feel](https://open.spotify.com/album/4GH2Qzq4oWm62V84FYYg38) | 3:11 | 2022-03-02 | 2022-04-28 |
 | [You Make Me Feel](https://open.spotify.com/track/4x3ULUtifUsTCsRMXlhaAq) | [Hrly](https://open.spotify.com/artist/77tVnBddoU1XDxxlSML4oq), [Tony Clarke](https://open.spotify.com/artist/179l2jt6RNWEfp7rZzVR7i) | [You Make Me Feel](https://open.spotify.com/album/1r1i85Td1O5Is3pu3QLkkt) | 2:45 | 2021-03-25 | 2021-05-13 |

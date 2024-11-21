@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 213106,
       "name": "Cruel Heart",
       "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
@@ -6222,6 +6222,28 @@
       "duration_ms": 205312,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M"
+    },
+    {
+      "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/5cOfOgTa5sRRjCXXhAeKaS"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Talia Rose",
+          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/4Ljh1IJawcThzlcCkDCtPf"
     },
     {
       "album": {

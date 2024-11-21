@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-129 songs - 5 hr 13 min
+133 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Coventry Carol](https://open.spotify.com/track/2E58NGSvZRVE94PY8fpCHZ) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:26 | 2021-12-22 |  |
 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 | 2021-12-22 |  |
 | [Deck The Halls](https://open.spotify.com/track/6BtuV4fSCgieGeNWPMqRMf) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/4kLp6CqCmDy7CeengHFpJK) | 1:52 | 2023-12-19 | 2024-04-19 |
+| [Deck The Halls](https://open.spotify.com/track/1t9YioEXydKP5SPNgPahqD) | [Tarragona Heights](https://open.spotify.com/artist/4AuwVtWa7s61M7ryOo4Nq2) | [Deck The Halls](https://open.spotify.com/album/38jc0zVg0GY0ImfhjWwoqV) | 1:50 | 2024-11-20 |  |
 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 | 2021-12-22 |  |
 | [Do You Want to Build a Snowman](https://open.spotify.com/track/25RqCzdrL6O6OFahC1sFqk) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 1:46 | 2023-10-13 | 2023-10-14 |
 | [Do You Want To Build A Snowman](https://open.spotify.com/track/2EtcEa7S0RO3Kxp5L3CnWJ) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Do You Want To Build A Snowman](https://open.spotify.com/album/2IpgZTkBoc4vHXZ48BZlC2) | 1:46 | 2023-10-13 |  |
@@ -95,6 +96,7 @@
 | [My Grown Up Christmas List](https://open.spotify.com/track/4xMeWrXp8otvk2uKnmo2jc) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [My Grown Up Christmas List](https://open.spotify.com/album/5tbvWgWYczNeYLKQePqSkS) | 2:59 | 2021-12-22 |  |
 | [O Christmas Tree](https://open.spotify.com/track/0MLQUwQoS19BsLUPA6e9X9) | [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [O Christmas Tree](https://open.spotify.com/album/556MZq4fufq4ZqNfDPqUTR) | 2:22 | 2022-11-11 | 2023-09-14 |
 | [O Christmas Tree](https://open.spotify.com/track/1o4OWH9X9vCLdXovc9srBf) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [O Christmas Tree](https://open.spotify.com/album/330srj378ZK3zv8SgU0gnO) | 2:43 | 2022-11-11 | 2023-11-18 |
+| [O Come All Ye Faithful](https://open.spotify.com/track/2Xbwz90RmiyjxpEwb7mDBB) | [Benjamin Kind](https://open.spotify.com/artist/0BA7zez00ansnG7yhRhHGo) | [Christmas Gems](https://open.spotify.com/album/5xYvzhwYal0LGfQxkcyXGx) | 2:19 | 2024-11-20 |  |
 | [O Come O Come Emmanuel \(Guitar Version\)](https://open.spotify.com/track/1Pt6RJNt2czMZh1JBHWOke) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Christmas Classics on Guitar, Vol\. 1](https://open.spotify.com/album/0HLYPlAeius3rPL4ihsswM) | 2:38 | 2021-12-22 | 2024-04-19 |
 | [O Come O Come Emmanuel \(Guitar Version\)](https://open.spotify.com/track/5SnfBCzQuFdVYnHDIl6csn) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Christmas Classics on Guitar, Vol\. 1](https://open.spotify.com/album/0d0EcsmVJ5pCGduav8AHmv) | 2:38 | 2021-12-22 |  |
 | [O Come, All Ye Faithful \(Guitar Version\)](https://open.spotify.com/track/2dBAE3QlE85uEVQtjrTY72) | [Kim Aspen](https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al) | [Traditional Christmas: Gentle Guitar Versions](https://open.spotify.com/album/1n7liT9IF0lI3YwwwD4zkc) | 2:27 | 2021-12-22 | 2024-04-19 |
@@ -134,8 +136,10 @@
 | [What Child Is This?](https://open.spotify.com/track/2gcvDiGbpfcJWXutp1Ntto) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [O Little Town of Bethlehem: Christmas Miniatures for Classical Guitar](https://open.spotify.com/album/6qiHGxAMfUzMkqaA9OAvtK) | 1:54 | 2021-12-22 | 2023-09-14 |
 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 | 2021-12-22 |  |
 | [White Christmas](https://open.spotify.com/track/2buEezFY9Ng3J8OKBgrBzF) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/40nvH9bnMRD5lTL8T0kECR) | 2:43 | 2022-11-11 | 2023-09-14 |
+| [White Christmas](https://open.spotify.com/track/2RTvegdv7A79tqC8FLmgOn) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [White Christmas](https://open.spotify.com/album/2ji6NjJQjc56GhF9s8TlOG) | 2:24 | 2024-11-20 |  |
 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-06-10 |  |
 | [Winter Wonderland](https://open.spotify.com/track/64g4v0OJ7yjojZimg7YvNO) | [Dean Staffs](https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W) | [Winter Wonderland](https://open.spotify.com/album/0jNmaN5mDTpx1PTicTRohX) | 1:42 | 2021-12-22 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6MnRyaawFW1WQlW6BvvtTT) | [Valencia de Rojas](https://open.spotify.com/artist/3cVBLaz97HsIX9pYhm65NM) | [Silent Night](https://open.spotify.com/album/3sfo0Cl8w5ogF5lC0OGJ3V) | 3:00 | 2022-11-11 | 2023-09-14 |
+| [You're All I Want For Christmas](https://open.spotify.com/track/51IdIQcSPewuPxJEzfE1CN) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [You're All I Want For Christmas](https://open.spotify.com/album/6YRVMODykBOFnUFskFzyq8) | 2:30 | 2024-11-20 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

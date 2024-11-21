@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,719 likes - 135 songs - 7 hr 55 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,703 likes - 133 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 82 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 83 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 84 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 85 | [Ledge](https://open.spotify.com/track/13TgcF9QZiUsK8ofSJIUis) | [Jony Shelby](https://open.spotify.com/artist/7yJZUrIFXjKIfJ2pvR8PGE) | [Ledge](https://open.spotify.com/album/35Yhb9cghf6cORBoaA9cel) | 3:51 |
-| 86 | [Spells Me Under](https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Spells Me Under](https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC) | 4:46 |
+| 85 | [Spells Me Under](https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Spells Me Under](https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC) | 4:46 |
+| 86 | [Ledge](https://open.spotify.com/track/13TgcF9QZiUsK8ofSJIUis) | [Jony Shelby](https://open.spotify.com/artist/7yJZUrIFXjKIfJ2pvR8PGE) | [Ledge](https://open.spotify.com/album/35Yhb9cghf6cORBoaA9cel) | 3:51 |
 | 87 | [breathe](https://open.spotify.com/track/1rRwEeIXxEPnmOGUXoqcXC) | [Earl Hondo](https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x) | [breathe](https://open.spotify.com/album/5V4QQy1FXNw62vRB2y9kMD) | 2:54 |
 | 88 | [Saturn’s Moon](https://open.spotify.com/track/4zzC42HMdFYdSOwOquBAqm) | [Justelle](https://open.spotify.com/artist/5jKZa3GZPDDmC0QFBMMK6Q) | [Saturn’s Moon](https://open.spotify.com/album/3mURA1aKd0D6dob4F1i9oo) | 4:08 |
 | 89 | [Bleach](https://open.spotify.com/track/3xNlmQ7NXQM97Rc1s8sTxI) | [Claire Brooks](https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB) | [I Will Outlive You](https://open.spotify.com/album/2nMaW1BQ6UXVCPOh4zVGOY) | 2:37 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 93 | [Broken Heart Diamond Ring](https://open.spotify.com/track/6oBllnn0HGgFJH87mUUwj7) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Broken Heart Diamond Ring](https://open.spotify.com/album/6PPeDHupUbrr1HjX3mSOuq) | 2:52 |
 | 94 | [Brother](https://open.spotify.com/track/3CeEVNbns845IpQLghLTYl) | [Dino Archon](https://open.spotify.com/artist/3aMxKso1iRRt8RBAymCbuP) | [Brother](https://open.spotify.com/album/1ZEEeHlnROsYni65smnt55) | 4:00 |
 | 95 | [California](https://open.spotify.com/track/1h2YFWh9gak3YjEiqMCLwp) | [Caek and Minko](https://open.spotify.com/artist/1bCA86HTIXG9182AuWBs3x) | [California](https://open.spotify.com/album/0Is0kvMk7Uuy7JmWgChE5b) | 3:14 |
-| 96 | [Outside of Us](https://open.spotify.com/track/5Lz9hBk7YF4E52VNMcUL4S) | [Sasha Sky](https://open.spotify.com/artist/1oEWS0flnmCRKutZMCnsWX) | [Outside of Us](https://open.spotify.com/album/2U5GjrBaRcWjqoiWw6LMVy) | 3:41 |
-| 97 | [ONE WISH](https://open.spotify.com/track/1ND85SvaizoVfj6rJDvD1M) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [ONE WISH](https://open.spotify.com/album/4xIjUIY2jN4vAEpbJJUZbe) | 2:22 |
-| 98 | [Got It](https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Got It](https://open.spotify.com/album/1FzHz1sMaLoseEEIafDyuV) | 3:19 |
-| 99 | [Love Reservoir](https://open.spotify.com/track/0ckzBpHyjOxCwgE67V5goB) | [Frenchie](https://open.spotify.com/artist/11RwEPDXg0xuxLmfontXCJ), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Love Reservoir](https://open.spotify.com/album/6rEJeZWAqsnQ7AoZw29Lz3) | 4:04 |
+| 96 | [ONE WISH](https://open.spotify.com/track/1ND85SvaizoVfj6rJDvD1M) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [ONE WISH](https://open.spotify.com/album/4xIjUIY2jN4vAEpbJJUZbe) | 2:22 |
+| 97 | [Got It](https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Got It](https://open.spotify.com/album/1FzHz1sMaLoseEEIafDyuV) | 3:19 |
+| 98 | [A VECES SE PIERDE \| A VECES SE GANA](https://open.spotify.com/track/76IV0SeSn22UhWtp2Wx8Wc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [A VECES SE PIERDE \| A VECES SE GANA](https://open.spotify.com/album/3Isetje5C6z12gfyjK5XC4) | 2:37 |
+| 99 | [Rain Check](https://open.spotify.com/track/5jYfG3kLK35fCOnO4sdOjX) | [Romel](https://open.spotify.com/artist/5xS3wALUzY9L0wPyvhOAJe) | [And Then, There Was Us](https://open.spotify.com/album/4MH4KdZNfVExygGlTVTz9s) | 1:48 |
 | 100 | [The Frequency \- AmaPiano Mix](https://open.spotify.com/track/756tlGGsIYumWBTk3eW1VU) | [Julian Maverick](https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb) | [The Frequency](https://open.spotify.com/album/6rT6VmPW7iSE5NcfSVPiXI) | 4:04 |
 | 101 | [Smoke In My Lungs](https://open.spotify.com/track/71t4WiR13EVHl4RODNvqJy) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS) | [Smoke In My Lungs](https://open.spotify.com/album/0KB1NtYSHnNhcbhaTXQWKa) | 3:38 |
 | 102 | [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 |
@@ -140,8 +140,6 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 130 | [Get Go](https://open.spotify.com/track/6uUhULywbpSYgqalmqtHJa) | [Sophia Stephens](https://open.spotify.com/artist/0u3rpTUnVkv6hnfzVTWIne) | [Love & Grief](https://open.spotify.com/album/0oy2GP7TFPjnWCRMSwGEVS) | 3:04 |
 | 131 | [Beautiful Lies](https://open.spotify.com/track/4Bos7oKfHFY7SpWWRpk49E) | [YOUNG HitzRUS](https://open.spotify.com/artist/7eCB3R7e8Bh2ZQ4PeaBVCS) | [Beautiful Lies](https://open.spotify.com/album/01rWcOk7IyJdyivWRz4xfG) | 1:25 |
 | 132 | [beverly hills](https://open.spotify.com/track/6FZfgEiOEBsfvvH3OpDYi2) | [Julia Kate](https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ) | [beverly hills](https://open.spotify.com/album/3Z7bJrbCT58ReP5V5RaiIk) | 5:00 |
-| 133 | [Further](https://open.spotify.com/track/5smeYjQ6i8SSKdbW2Hknrp) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Further](https://open.spotify.com/album/0c2CX0YVhH1DhCAp3IsIip) | 3:44 |
-| 134 | [Wonderful Girl](https://open.spotify.com/track/08NpEzFfxh6DXOhZN4plAU) | [Michael Dametto](https://open.spotify.com/artist/5iMF7zxzkmDSRIys2wL980) | [Wonderful Girl](https://open.spotify.com/album/2JlT8qTM50BUSpso4RTjU9) | 3:43 |
-| 135 | [Love Love](https://open.spotify.com/track/2980j0HEONoxDkzGoTYueY) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [Stuck In LA](https://open.spotify.com/album/1Ihv3k42Livf5NCbWOIIxm) | 2:24 |
+| 133 | [Love Love](https://open.spotify.com/track/2980j0HEONoxDkzGoTYueY) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [Stuck In LA](https://open.spotify.com/album/1Ihv3k42Livf5NCbWOIIxm) | 2:24 |
 
-Snapshot ID: `AAAqeeJ0l18VE+ULu/HIpwnwGVi2OaF0`
+Snapshot ID: `AAAqg8upH3nq3y4ZomSmtNQB2fMEMn6i`

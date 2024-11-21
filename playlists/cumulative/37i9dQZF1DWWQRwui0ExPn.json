@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 106315,
       "name": "almost there",
       "url": "https://open.spotify.com/track/2rJLOmmXcxhCyRlENiJcFz"
@@ -9566,7 +9566,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 109714,
       "name": "badhamia",
       "url": "https://open.spotify.com/track/4RTXyKPBPov8ymOJpYp5oO"
@@ -21903,6 +21903,24 @@
     },
     {
       "album": {
+        "name": "chuli",
+        "url": "https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124715,
+      "name": "chuli",
+      "url": "https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH"
+    },
+    {
+      "album": {
         "name": "ch\u1ea1y tr\u1ed1n",
         "url": "https://open.spotify.com/album/1lWx3rPdvhE7QO8kP1G8nD"
       },
@@ -23282,6 +23300,24 @@
       "duration_ms": 107408,
       "name": "Coastal",
       "url": "https://open.spotify.com/track/2zI8kItxIqtyFYfFsy3ngx"
+    },
+    {
+      "album": {
+        "name": "coastal breeze",
+        "url": "https://open.spotify.com/album/2857cnGsdaqAnG32HTO4rv"
+      },
+      "artists": [
+        {
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127374,
+      "name": "coastal breeze",
+      "url": "https://open.spotify.com/track/1LWxWHABHw5jnIn82XPJnv"
     },
     {
       "album": {
@@ -43752,7 +43788,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 162000,
       "name": "fourward",
       "url": "https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt"
@@ -43774,6 +43810,24 @@
       "duration_ms": 182127,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU"
+    },
+    {
+      "album": {
+        "name": "fragile",
+        "url": "https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd"
+      },
+      "artists": [
+        {
+          "name": "frid",
+          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "fragile",
+      "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
     },
     {
       "album": {
@@ -51258,7 +51312,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 155061,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/1sDHPnIy3H3LmykZX09W9l"
@@ -65514,7 +65568,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 103739,
       "name": "lazy monday",
       "url": "https://open.spotify.com/track/0X85ZqakAJsOEA6bCMhHpc"
@@ -97149,6 +97203,24 @@
     },
     {
       "album": {
+        "name": "Red Wine",
+        "url": "https://open.spotify.com/album/7HNeOxVrNr02jM012iGRdQ"
+      },
+      "artists": [
+        {
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/6svC69lvZvccKXeToiyaiY"
+    },
+    {
+      "album": {
         "name": "Red Wine at Dawn",
         "url": "https://open.spotify.com/album/78JpJyBCQgkOIVdk91YwE3"
       },
@@ -103139,6 +103211,28 @@
     },
     {
       "album": {
+        "name": "Sensia",
+        "url": "https://open.spotify.com/album/7K8s4ba6y6Pq5RPAMBklU4"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "Sensia",
+      "url": "https://open.spotify.com/track/5putLwZVDKvE7q0DRm0diB"
+    },
+    {
+      "album": {
         "name": "Sentaku Shitsu (Japanese Lofi)",
         "url": "https://open.spotify.com/album/2HDoDYRcBEEkSvGXwt4K7w"
       },
@@ -103954,7 +104048,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 107647,
       "name": "sheesh bloke",
       "url": "https://open.spotify.com/track/2DvtuX7pLLwe5RWuqecuCX"
@@ -130192,6 +130286,24 @@
       "duration_ms": 120000,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/25GRAt8pxcPtEeN61klRFr"
+    },
+    {
+      "album": {
+        "name": "Couch Potato",
+        "url": "https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146781,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
     },
     {
       "album": {

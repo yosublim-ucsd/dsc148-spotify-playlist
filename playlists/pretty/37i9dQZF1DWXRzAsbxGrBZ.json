@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 71810,
+  "num_followers": 71874,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Some Lovin'",
-        "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
-      },
-      "artists": [
-        {
-          "name": "UPZ",
-          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
-        },
-        {
-          "name": "Salvador",
-          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Some Lovin'",
-      "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "The Whole Thing",
         "url": "https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 412631,
       "name": "The Whole Thing",
       "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Some Lovin'",
+        "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Some Lovin'",
+      "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Paradise Mixed (DJ Mix)",
-        "url": "https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        }
-      ],
-      "duration_ms": 311649,
-      "name": "Once Again - Mixed",
-      "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Papino's Revenge Remixes",
         "url": "https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf"
       },
@@ -967,18 +951,42 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "The Gameplan",
-        "url": "https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH"
+        "name": "Paradise Mixed (DJ Mix)",
+        "url": "https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9"
       },
       "artists": [
         {
-          "name": "Fynn",
-          "url": "https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB"
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
         }
       ],
-      "duration_ms": 461694,
-      "name": "The Gameplan",
-      "url": "https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ"
+      "duration_ms": 311649,
+      "name": "Once Again - Mixed",
+      "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Mmino Wa Batho",
+        "url": "https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ"
+      },
+      "artists": [
+        {
+          "name": "Miza",
+          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
+        },
+        {
+          "name": "Aubs",
+          "url": "https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3"
+        },
+        {
+          "name": "Kabomo",
+          "url": "https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB"
     }
   ],
   "unique_name": "Deep House Session",

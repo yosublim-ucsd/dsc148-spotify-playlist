@@ -17101,6 +17101,24 @@
     },
     {
       "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3"
       },

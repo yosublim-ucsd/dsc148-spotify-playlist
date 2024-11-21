@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,600 likes - 113 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,608 likes - 113 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 47 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 |
 | 48 | [dust](https://open.spotify.com/track/4dzl4oqOEsKWRdzaDRY2Uz) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [dust](https://open.spotify.com/album/0ZrXhShijWSRMnugxrnDgQ) | 4:11 |
 | 49 | [Break Free](https://open.spotify.com/track/6YoDbIGSUKhhk7t63zXJkM) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Break Free](https://open.spotify.com/album/2D7WcHj7mz8BtzrOkBUDVM) | 3:06 |
-| 50 | [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 |
+| 50 | [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [８６―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 |
 | 51 | [証](https://open.spotify.com/track/0XGoDPEHpeDTBpoDfndXrQ) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [Dignified](https://open.spotify.com/album/7l4oSwR9WSZmS1LWOX0fBW) | 3:27 |
 | 52 | [kIng](https://open.spotify.com/track/11lbUUMW8T5MFpHTYLulmg) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [kIng](https://open.spotify.com/album/05KfSFZpuYmktTahDYnjbZ) | 3:50 |
 | 53 | [KINGDOM \- DUE](https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「キングダム」 \-合従軍編\- Original Sound Track](https://open.spotify.com/album/4pikDrig4sbyY3av3PNGmY) | 4:20 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 71 | [Back to the Starting Point](https://open.spotify.com/track/7qlTOfTqpFFr4hXG1TimGh) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [日本テレビ系火曜ドラマ「貧乏男子」オリジナル・サウンドトラック](https://open.spotify.com/album/7mEJs3rEABEunfhoRtrr55) | 4:23 |
 | 72 | [God of ink](https://open.spotify.com/track/5s0LeGW1HW39G1ZqxonnFj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:11 |
 | 73 | [Tranquility](https://open.spotify.com/track/4U5PadmkZvwnEixcCVTuGM) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:43 |
-| 74 | [祓魔師強奏曲 第一楽章: Me & Creed](https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:21 |
+| 74 | [祓魔師強奏曲　第一楽章: Me & Creed](https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:21 |
 | 75 | [gravityWall](https://open.spotify.com/track/5vM7uTVvj65yNYKwnuERFo) | [SawanoHiroyuki\[nZk\]:Tielle&Gemie](https://open.spotify.com/artist/2A0KFlCxqLrv5U7YSFLl8q) | [Gravity Wall / Sh0ut](https://open.spotify.com/album/40OdNHLOlVwCqp5ZkKBM2O) | 3:46 |
 | 76 | [AL:Lu](https://open.spotify.com/track/40QCH2u7X2ztyxrTW9mfEj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:12 |
 | 77 | [BRAVE THE OCEAN](https://open.spotify.com/track/0hmk2Wp5zmsH4tRpgGG61b) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:24 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 82 | [aLIEz](https://open.spotify.com/track/1sbc8eGIQ69LOdmOdDx6g7) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [A/Z\|aLIEz](https://open.spotify.com/album/1FgOn3h8OH4b8udcRf230e) | 4:28 |
 | 83 | [BRE@TH//LESS](https://open.spotify.com/track/5OC6Gv6qYt2s59IwiJZhu7) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [アルドノア・ゼロ オリジナル・サウンドトラック](https://open.spotify.com/album/0S7j5fH2fipQ9i9MXwCYqi) | 4:01 |
 | 84 | [His/Story](https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [His/Story / Roll The Dice](https://open.spotify.com/album/36kha76MJobek1T7CzFASG) | 3:54 |
-| 85 | [thunderBOLTfantasy](https://open.spotify.com/track/09WSdjh5Xa0rYZs3SIxh4P) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Thunderbolt Fantasy 東離劍遊紀 オリジナルサウンドトラック](https://open.spotify.com/album/30HkaUQCrZj2wMd1ONqklE) | 5:35 |
+| 85 | [thunderBOLTfantasy](https://open.spotify.com/track/09WSdjh5Xa0rYZs3SIxh4P) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Thunderbolt Fantasy 東離劍遊紀　オリジナルサウンドトラック](https://open.spotify.com/album/30HkaUQCrZj2wMd1ONqklE) | 5:35 |
 | 86 | [光あれ](https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [光あれ](https://open.spotify.com/album/68per7qELaTtnUTYjqduRy) | 3:38 |
 | 87 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 |
 | 88 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 |

@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 33835,
+  "num_followers": 33854,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzsduwAAAAD6WD6Pf3YcDXanasRL0b+c",
+  "snapshot_id": "Zz1bxwAAAAApwK6KLjp62Gd9vb9F2itA",
   "tracks": [
     {
       "added_at": "2024-02-26 07:32:29",
@@ -135,6 +135,30 @@
       "duration_ms": 173658,
       "name": "Arike",
       "url": "https://open.spotify.com/track/2Jz9wqeskXX6Hw81qwavK8"
+    },
+    {
+      "added_at": "2024-11-20 03:47:19",
+      "album": {
+        "name": "HubB - Song Of Love",
+        "url": "https://open.spotify.com/album/1irZV7ojma8ojEwuUgJSb0"
+      },
+      "artists": [
+        {
+          "name": "Haseeb Razak",
+          "url": "https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8"
+        },
+        {
+          "name": "Huda Basheer",
+          "url": "https://open.spotify.com/artist/3nVXXoviGSsNkUZohVgkRS"
+        },
+        {
+          "name": "Ajmal Mampad",
+          "url": "https://open.spotify.com/artist/0Wtf4vdZQ2lPtE4YUUh2iy"
+        }
+      ],
+      "duration_ms": 263774,
+      "name": "HubB - Song Of Love",
+      "url": "https://open.spotify.com/track/7HrXLVWZCEEscNlx57xsLF"
     },
     {
       "added_at": "2024-11-12 09:42:03",

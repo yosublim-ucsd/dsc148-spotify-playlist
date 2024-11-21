@@ -37213,6 +37213,24 @@
     },
     {
       "album": {
+        "name": "Obrigado",
+        "url": "https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139416,
+      "name": "Obrigado",
+      "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
+    },
+    {
+      "album": {
         "name": "Bushi Tape 3",
         "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
@@ -37786,7 +37804,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 172080,
       "name": "On s'\u00e9crira",
       "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"

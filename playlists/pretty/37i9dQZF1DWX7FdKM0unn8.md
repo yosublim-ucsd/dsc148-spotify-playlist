@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,112 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,127 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 53 | [잊어야 한다는 마음으로](https://open.spotify.com/track/5PRFMb0iu0Ji3P9CNPeDpp) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET \(Remastered\)](https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9) | 4:17 |
 | 54 | [지금 그대로의 모습으로](https://open.spotify.com/track/2jfxNjEWEem2EwKsXZY1Bp) | [Yoo Yeol](https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl) | [대학가요제 Golden Best](https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X) | 4:49 |
 | 55 | [기다린 날도 지워질 날도 Days Of Longing, Days To Be Forgotten](https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
-| 56 | [그 때 그 사람](https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0) | [Sim Soo Bong](https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn) | [대학가요제 Golden Best](https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X) | 3:28 |
+| 56 | [그 때 그 사람](https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0) | [심수봉](https://open.spotify.com/artist/7xcj5TEoeAUmtYRPjspjf9) | [대학가요제 Golden Best](https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X) | 3:28 |
 | 57 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 |
 | 58 | [보고싶은 마음](https://open.spotify.com/track/5I69xkBlJoa7v8T3saqcLN) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/4pr8oJG9Zq2DW1WNRflJxS) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 2:40 |

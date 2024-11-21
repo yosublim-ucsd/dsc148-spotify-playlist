@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,141 likes - 19 songs - 59 min 52 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 22,140 likes - 22 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 13 | [Invitation](https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [Song for the Moon](https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5) | 4:22 |
 | 14 | [The Homecoming Queen's Got a Gun](https://open.spotify.com/track/2scmuBEKCDn4ofQrckKTrh) | [Julie Brown](https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv) | [Trapped In The Body Of A White Girl](https://open.spotify.com/album/3bzU0DnGcEbvORXPeGi3Z2) | 4:38 |
 | 15 | [Fool](https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml) | [The Slaps](https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl) | [Mudglimmer](https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3) | 3:29 |
-| 16 | [Summertime](https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 3:21 |
-| 17 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 |
-| 18 | [If I Am](https://open.spotify.com/track/7vO8kQ5RVYQdmdApypvjAi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [If I Am](https://open.spotify.com/album/6SRNDhfOZNAKR1d9qkYARJ) | 2:22 |
-| 19 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 |
+| 16 | [Safari](https://open.spotify.com/track/38K4MzpzkLyirD5nJNSfYS) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [My Dear Life](https://open.spotify.com/album/1S82OiBWv9ozsRalgCSI6l) | 7:08 |
+| 17 | [Summertime](https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 3:21 |
+| 18 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 |
+| 19 | [If I Am](https://open.spotify.com/track/7vO8kQ5RVYQdmdApypvjAi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [If I Am](https://open.spotify.com/album/6SRNDhfOZNAKR1d9qkYARJ) | 2:22 |
+| 20 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 |
+| 21 | [Time \(Clock Of The Heart\)](https://open.spotify.com/track/7J2Oy8QVCd5DWMMnBuDzd0) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 3:43 |
+| 22 | [Private Armies](https://open.spotify.com/track/1eBTlFwFojxaUjKSVysx2r) | [Vivien Goldman](https://open.spotify.com/artist/5qS1FvS2piwbC0YMEkXz0z) | [Resolutionary \(Songs 1979\-1982\)](https://open.spotify.com/album/2m5TBTAN0FD3usyySTsOZW) | 6:17 |
 
-Snapshot ID: `AAALYgygOqLqFPbfn/u/cjVMV1fWCVKf`
+Snapshot ID: `AAALZviEOnqMeyMMKN1eD7JtsxbPka92`

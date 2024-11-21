@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 222493,
       "name": "SPARKLE SIGN",
       "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 221813,
       "name": "Sweep Your Gloom",
       "url": "https://open.spotify.com/track/6bzIrkxN0By1bPzmJ436NQ"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 289453,
       "name": "Welcome to Japan\uff01",
       "url": "https://open.spotify.com/track/5kxccpSCJFJ13zS1HuCAoN"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 333200,
       "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046",
       "url": "https://open.spotify.com/track/5dNPZvFGu6R0oRpaQYy6CS"
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 265480,
       "name": "\u60c5\u71b1...FIGHTER",
       "url": "https://open.spotify.com/track/59adiCCwOpRo5mMqQLlZWb"
@@ -3714,6 +3714,24 @@
       "duration_ms": 238933,
       "name": "\u7d20\u6575\u306bCon grazia\uff01",
       "url": "https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 02",
+        "url": "https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld"
+      },
+      "artists": [
+        {
+          "name": "\u79cb\u6708 \u6dbc (CV.\u4e09\u74f6\u7531\u5e03\u5b50)",
+          "url": "https://open.spotify.com/artist/3rnZQSon7LNBIUiXm9U28F"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286053,
+      "name": "\u7fbd\u3070\u305f\u304d\u306eMy Soul",
+      "url": "https://open.spotify.com/track/7dbJHWEPrDikiGbG6kBQPV"
     },
     {
       "album": {

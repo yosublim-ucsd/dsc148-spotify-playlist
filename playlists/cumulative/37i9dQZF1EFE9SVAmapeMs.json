@@ -800,6 +800,24 @@
     {
       "album": {
         "name": "Surrender Your Soul",
+        "url": "https://open.spotify.com/album/4VIdladobId1PgK1qpeFDM"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Never Let Up",
+      "url": "https://open.spotify.com/track/5fn4YpsHIowEeWfuyhQbnP"
+    },
+    {
+      "album": {
+        "name": "Surrender Your Soul",
         "url": "https://open.spotify.com/album/4lJR5ozGbDnCvikes1Veck"
       },
       "artists": [
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 150500,
       "name": "Never Let Up",
       "url": "https://open.spotify.com/track/7yxxOZGMVcYJqUfeDqjEo7"

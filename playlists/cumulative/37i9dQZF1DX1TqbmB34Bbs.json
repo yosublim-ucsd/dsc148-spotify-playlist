@@ -3197,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "BEEF",
+        "url": "https://open.spotify.com/album/1zRgoN1IqbQ0PiCRKkG4DE"
+      },
+      "artists": [
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117842,
+      "name": "BEEF",
+      "url": "https://open.spotify.com/track/57ihhpShbD11bf2WwcdyAN"
+    },
+    {
+      "album": {
         "name": "The Road Less Traveled",
         "url": "https://open.spotify.com/album/7uIX1VIj6lQTjYuWfjCQ59"
       },
@@ -5700,7 +5718,7 @@
           "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
         },
         {
-          "name": "Uneducated Kid",
+          "name": "UNEDUCATED KID",
           "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
         },
         {
@@ -10822,7 +10840,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 155294,
       "name": "HAKA (Prod. Wiz World)",
       "url": "https://open.spotify.com/track/1PDjnLmB01bPGmavXyTATc"
@@ -17449,6 +17467,24 @@
     },
     {
       "album": {
+        "name": "Lucifer's Therapy",
+        "url": "https://open.spotify.com/album/1JDuTu31tWRKplO8wsBqsM"
+      },
+      "artists": [
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "NORI",
+      "url": "https://open.spotify.com/track/5vAmgWcxiq0MdyhYT44ich"
+    },
+    {
+      "album": {
         "name": "North Face",
         "url": "https://open.spotify.com/album/6HmXI1Y3c6HUjgeUmprtCo"
       },
@@ -21730,7 +21766,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 207236,
       "name": "SEARCH",
       "url": "https://open.spotify.com/track/3lncaMwTfJ0fAWHg5MeOmY"
@@ -25218,7 +25254,7 @@
           "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
         },
         {
-          "name": "Uneducated Kid",
+          "name": "UNEDUCATED KID",
           "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
         }
       ],

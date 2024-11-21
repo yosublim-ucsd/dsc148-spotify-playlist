@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22141,
+  "num_followers": 22140,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALYgygOqLqFPbfn/u/cjVMV1fWCVKf",
+  "snapshot_id": "AAALZviEOnqMeyMMKN1eD7JtsxbPka92",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml"
     },
     {
+      "added_at": "2024-11-21 01:56:50",
+      "album": {
+        "name": "My Dear Life",
+        "url": "https://open.spotify.com/album/1S82OiBWv9ozsRalgCSI6l"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        }
+      ],
+      "duration_ms": 428933,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/38K4MzpzkLyirD5nJNSfYS"
+    },
+    {
       "added_at": "2024-11-17 16:12:21",
       "album": {
         "name": "Summertime",
@@ -323,6 +339,38 @@
       "duration_ms": 218892,
       "name": "Whoops",
       "url": "https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q"
+    },
+    {
+      "added_at": "2024-11-20 16:24:11",
+      "album": {
+        "name": "The Best Of Culture Club",
+        "url": "https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Time (Clock Of The Heart)",
+      "url": "https://open.spotify.com/track/7J2Oy8QVCd5DWMMnBuDzd0"
+    },
+    {
+      "added_at": "2024-11-21 01:57:18",
+      "album": {
+        "name": "Resolutionary (Songs 1979-1982)",
+        "url": "https://open.spotify.com/album/2m5TBTAN0FD3usyySTsOZW"
+      },
+      "artists": [
+        {
+          "name": "Vivien Goldman",
+          "url": "https://open.spotify.com/artist/5qS1FvS2piwbC0YMEkXz0z"
+        }
+      ],
+      "duration_ms": 377533,
+      "name": "Private Armies",
+      "url": "https://open.spotify.com/track/1eBTlFwFojxaUjKSVysx2r"
     }
   ],
   "unique_name": "thoughts never said aloud",

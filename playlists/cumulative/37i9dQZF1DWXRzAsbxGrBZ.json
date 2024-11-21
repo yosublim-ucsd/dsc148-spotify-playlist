@@ -1735,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "Mmino Wa Batho",
+        "url": "https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ"
+      },
+      "artists": [
+        {
+          "name": "Miza",
+          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
+        },
+        {
+          "name": "Aubs",
+          "url": "https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3"
+        },
+        {
+          "name": "Kabomo",
+          "url": "https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB"
+    },
+    {
+      "album": {
         "name": "Red Lips Swaying Hips (Part 2)",
         "url": "https://open.spotify.com/album/1wk5bggiYMXwtzo1h23D1V"
       },
@@ -2998,7 +3024,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 461694,
       "name": "The Gameplan",
       "url": "https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ"

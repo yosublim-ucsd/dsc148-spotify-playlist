@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavit\u00f3ria",
-  "num_followers": 436184,
+  "num_followers": 436213,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 178864,
       "name": "Viva O Amor",
       "url": "https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
-        "url": "https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4"
-      },
-      "artists": [
-        {
-          "name": "Joe Caetano",
-          "url": "https://open.spotify.com/artist/0hUnMWEMD2Om6juG3dBJTE"
-        },
-        {
-          "name": "Felipe Artioli",
-          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
-        },
-        {
-          "name": "Cabes",
-          "url": "https://open.spotify.com/artist/48GZNgM06HJVEZGAvlAA0B"
-        }
-      ],
-      "duration_ms": 162327,
-      "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
-      "url": "https://open.spotify.com/track/7FDk8EX3fuUsSDVbS4gIB3"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Como D\u00f3i",
         "url": "https://open.spotify.com/album/5YlJGGxLqQ69CHJwEo8SkD"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 143658,
       "name": "Como D\u00f3i",
       "url": "https://open.spotify.com/track/3nNb9AXOB4sH2Q6z3ERMV1"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
+        "url": "https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4"
+      },
+      "artists": [
+        {
+          "name": "Joe Caetano",
+          "url": "https://open.spotify.com/artist/0hUnMWEMD2Om6juG3dBJTE"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        },
+        {
+          "name": "Cabes",
+          "url": "https://open.spotify.com/artist/48GZNgM06HJVEZGAvlAA0B"
+        }
+      ],
+      "duration_ms": 162327,
+      "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
+      "url": "https://open.spotify.com/track/7FDk8EX3fuUsSDVbS4gIB3"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -891,18 +891,38 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "tonteira",
-        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
+        "name": "Deixa Florescer",
+        "url": "https://open.spotify.com/album/2DReGxGd2EVlR4x2wE56gO"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "AL\u00ca",
+          "url": "https://open.spotify.com/artist/6zdHDBmiRPPdRqiv5MacRF"
         }
       ],
-      "duration_ms": 147812,
-      "name": "tonteira",
-      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+      "duration_ms": 171428,
+      "name": "Deixa Florescer",
+      "url": "https://open.spotify.com/track/3jcoj5dT14jtXSR2HI7rZS"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Ver Em Cores",
+        "url": "https://open.spotify.com/album/4I0aqJmFE8H1mXlvGRYRrp"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 243370,
+      "name": "Ver Em Cores",
+      "url": "https://open.spotify.com/track/5cJ3lUnqM7Aio9bG50bn9Y"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -923,18 +943,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Deixa Florescer",
-        "url": "https://open.spotify.com/album/2DReGxGd2EVlR4x2wE56gO"
+        "name": "tonteira",
+        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
       },
       "artists": [
         {
-          "name": "AL\u00ca",
-          "url": "https://open.spotify.com/artist/6zdHDBmiRPPdRqiv5MacRF"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Deixa Florescer",
-      "url": "https://open.spotify.com/track/3jcoj5dT14jtXSR2HI7rZS"
+      "duration_ms": 147812,
+      "name": "tonteira",
+      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -959,22 +979,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Ver Em Cores",
-        "url": "https://open.spotify.com/album/4I0aqJmFE8H1mXlvGRYRrp"
+        "name": "TUDO ACONTECE AGORA PT.2",
+        "url": "https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
         }
       ],
-      "duration_ms": 243370,
-      "name": "Ver Em Cores",
-      "url": "https://open.spotify.com/track/5cJ3lUnqM7Aio9bG50bn9Y"
+      "duration_ms": 213338,
+      "name": "Sombra No Sol",
+      "url": "https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1007,26 +1023,6 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Maracan\u00e3",
-        "url": "https://open.spotify.com/album/1h6tMbup7bgVA7Z29Iw6OE"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Maracan\u00e3",
-      "url": "https://open.spotify.com/track/38FSFQs3d5awePVymteipA"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "TUDO ACONTECE AGORA PT.2",
-        "url": "https://open.spotify.com/album/2KXEpo3wGBMAG3Y4oaHc3C"
+        "name": "Maracan\u00e3",
+        "url": "https://open.spotify.com/album/1h6tMbup7bgVA7Z29Iw6OE"
       },
       "artists": [
         {
-          "name": "O Grilo",
-          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
         }
       ],
-      "duration_ms": 213338,
-      "name": "Sombra No Sol",
-      "url": "https://open.spotify.com/track/0THAXJaI48swxIJAX2sygk"
+      "duration_ms": 169333,
+      "name": "Maracan\u00e3",
+      "url": "https://open.spotify.com/track/38FSFQs3d5awePVymteipA"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "do c\u00e9u ao inferno",
-        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "do c\u00e9u ao inferno",
-      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Duas da Manh\u00e3",
         "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 198071,
       "name": "Duas da Manh\u00e3",
       "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "do c\u00e9u ao inferno",
+        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "do c\u00e9u ao inferno",
+      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Embeleza o Meu Dia",
-        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Embeleza o Meu Dia",
-      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Fita do Bonfim",
         "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 205961,
       "name": "Fita do Bonfim",
       "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Embeleza o Meu Dia",
+        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Embeleza o Meu Dia",
+      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Sigo de Volta",
+        "url": "https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "Chega Pra C\u00e1",
+      "url": "https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Nosso Carnaval",
         "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
@@ -1367,6 +1383,22 @@
       "duration_ms": 165490,
       "name": "Nosso Carnaval",
       "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Ainda Bem Que Chegou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1411,42 +1443,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Vem C\u00e1, Me Beija",
-        "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        },
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        }
-      ],
-      "duration_ms": 158170,
-      "name": "Vem C\u00e1, Me Beija",
-      "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Bhangzwn",
-        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 205132,
-      "name": "T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Sigo de Volta",
-        "url": "https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav"
+        "name": "Vem C\u00e1, Me Beija",
+        "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        },
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
         }
       ],
-      "duration_ms": 179907,
-      "name": "Chega Pra C\u00e1",
-      "url": "https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz"
+      "duration_ms": 158170,
+      "name": "Vem C\u00e1, Me Beija",
+      "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
     }
   ],
   "unique_name": "Pop Leve",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-325 songs - 16 hr 6 min
+326 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-08-23 |  |
 | [Les amis](https://open.spotify.com/track/45RCxpqeO3UZ7OqF0ssWYJ) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les amis](https://open.spotify.com/album/7kSUMlTFtg8OVUzpLnyW0G) | 3:04 | 2024-08-30 |  |
 | [Les cigales](https://open.spotify.com/track/6Zof5IP3yS2ihhI6sG3t9e) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Les cigales](https://open.spotify.com/album/7GByk3zU16geQvds0ZkFSe) | 2:19 | 2024-11-08 |  |
+| [Letting Go of Forever](https://open.spotify.com/track/79w55ScCjW71NKRgfHozmG) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [Letting Go of Forever](https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj) | 3:08 | 2024-11-15 |  |
 | [library](https://open.spotify.com/track/6KadekEsEQX4rvcqP9X84U) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Kofi Anonymous](https://open.spotify.com/artist/2xssjViTF8Zdd97DXXH0lI) | [library](https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB) | 2:00 | 2024-10-11 |  |
 | [Life Form](https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Life Form](https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM) | 3:14 | 2024-08-23 |  |
 | [Limbo](https://open.spotify.com/track/6W5MXzKRew1avcRnVQ89UY) | [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [Limbo](https://open.spotify.com/album/1V1A4f4DmJJfrDjWETEU4C) | 2:42 | 2023-10-27 |  |
@@ -177,7 +178,7 @@
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
-| [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 |  |
+| [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 | 2024-11-21 |
 | [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-08-23 |  |
 | [Mamba Nova](https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8) | [TWYN](https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm) | [Mamba Nova](https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv) | 3:55 | 2024-06-04 | 2024-08-24 |
 | [Mantras](https://open.spotify.com/track/5JBhE0SFiEJqfevwqO69AJ) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Mantras](https://open.spotify.com/album/4vcHSgvMEozchsFpfqbpVq) | 2:24 | 2024-09-06 |  |

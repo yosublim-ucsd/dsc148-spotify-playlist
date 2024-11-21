@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: ANYUJIN\(안유진\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: DAVICHI\(다비치\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,342 songs - 3 day 14 hr 51 min
+1,345 songs - 3 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [I'll Try](https://open.spotify.com/track/6sK0ZT95mPOuPSKo5QOikz) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [MONO](https://open.spotify.com/album/6rZ3FuJABmnr9GVCFjPP6Y) | 4:10 | 2022-07-04 | 2022-10-08 |
 | [I'm a fool](https://open.spotify.com/track/0qItZ9vDSIFleEQmsO6tsE) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'm a fool](https://open.spotify.com/album/7dBmfaZvykDeq4HFGsuaTG) | 4:31 | 2023-02-08 | 2023-06-23 |
 | [I'm glad it rained](https://open.spotify.com/track/7BUSo3fCuGldDyZd9ucHd9) | [Park Hajung \(Park kunhee](https://open.spotify.com/artist/6vX0R6OLbm85FzUtVSqlWQ), [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3), [Choi Min Jeong\)](https://open.spotify.com/artist/3HgD1kVG3Pzut5GbeArZeZ) | [I'm glad it rained](https://open.spotify.com/album/4M7276e9Rb4xhP2gWH3tAl) | 4:08 | 2024-09-02 |  |
+| [I'm gonna change](https://open.spotify.com/track/5vfuJfkb777TwMGBCtEVlS) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [I'm gonna change](https://open.spotify.com/album/0AaZdCzbTqYFovfZNmjlZn) | 3:58 | 2024-11-20 |  |
 | [I'm in love with you](https://open.spotify.com/track/6BAZjhRiEbMj40qxX1r49d) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [I'm in love with you](https://open.spotify.com/album/4K379GrQ1F8ZHV3CbRGxoU) | 4:05 | 2024-04-15 | 2024-08-11 |
 | [I'm not even drunk](https://open.spotify.com/track/0uNTk70FsyFRhHg03O9sPr) | [Baby Blue](https://open.spotify.com/artist/4lPysgWv3ElxXrp6IKcJN1) | [I'm not even drunk](https://open.spotify.com/album/0134ShAd5n7nCkie4PYWGU) | 3:20 | 2023-10-20 | 2023-12-14 |
 | [I'm Not Okay](https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2) | 3:43 | 2022-03-29 | 2022-04-11 |
@@ -689,6 +690,7 @@
 | [Love poem](https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo) | 4:18 | 2021-12-20 | 2022-07-08 |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-07-07 | 2022-08-13 |
 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
+| [Love Stealer](https://open.spotify.com/track/3QkpeXIN5VmuEhDvjieufR) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [KIIRI](https://open.spotify.com/artist/1wMLcvjlqV86dKKDe6IhfQ) | [IRON FAMILY, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AvRIjH6ax50gaC4GRHANv) | 3:09 | 2024-11-20 |  |
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-04-09 |
 | [Love Things](https://open.spotify.com/track/0XIy3jZASGk60aT8i8Ri2g) | [HYOJIN](https://open.spotify.com/artist/2ZSycsw08uAqPhM7j37Slg) | [Love Things](https://open.spotify.com/album/5BMWCz8yepMfdYuAWU9Yrz) | 3:57 | 2023-02-14 | 2023-04-27 |
 | [Love War](https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Love War](https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7) | 4:00 | 2023-07-20 | 2023-10-17 |
@@ -1004,6 +1006,7 @@
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-07-07 | 2023-10-20 |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-17 | 2023-11-16 |
+| [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 | 2024-11-20 |  |
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 | 2024-06-18 |
 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 | 2024-05-18 |
 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 | 2024-10-30 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-567 songs - 1 day 3 hr 36 min
+568 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Me Segurou \- Ao Vivo](https://open.spotify.com/track/5O7lcZWwATyq4s94uaBclA) | [Leo Chaves](https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Retorno \(Ao Vivo\)](https://open.spotify.com/album/0nuU23HeR7hFATG34c1mH4) | 2:47 | 2023-12-30 |  |
 | [Me Tira do Boteco \- Ao Vivo](https://open.spotify.com/track/7616yseW2cG2Zt5qgBzihG) | [Kleo Dibah](https://open.spotify.com/artist/5xduTT7FbesL8fMuEKIqtB) | [Me Tira do Boteco \(Ao Vivo\)](https://open.spotify.com/album/2dW8z4DHo4hqWG50FOpX9h) | 2:39 | 2023-12-30 |  |
 | [Me Tira do Grupo \- Ao Vivo](https://open.spotify.com/track/2lqrdSl5dovc2BFqcN0FpD) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [O Regresso, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5kMYy5OIJkwDkS4pFDX4wi) | 3:10 | 2023-12-30 |  |
+| [Mean the Most \- Edit](https://open.spotify.com/track/1ARDct8fIzTX7AEwyjgTEF) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [NEHRUVIANDOOM \(REDUX\)](https://open.spotify.com/album/5XrsB0YjsgEftjA9etarsL) | 2:59 | 2024-11-20 |  |
 | [Meio Atual](https://open.spotify.com/track/5mpoVgvCIiT3jGXIsYDBQW) | [Nayra Days](https://open.spotify.com/artist/0MgBvmLkWI0uhEa6zXFluu) | [Melhor Versão](https://open.spotify.com/album/7IMQeFgTaBlrTzbo26TL2E) | 2:52 | 2023-12-30 |  |
 | [Meio Caminho Andado \- Ao Vivo](https://open.spotify.com/track/7fWfPq3o9g1gPh5ou4zQGC) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [Meio Caminho Andado \(Ao Vivo\)](https://open.spotify.com/album/6ScSLvl8YCibxA2sHCkPdx) | 2:31 | 2024-07-19 |  |
 | [Meio Copo \(Ao Vivo\)](https://open.spotify.com/track/0wydHA8x7xsSazwd9FiLWx) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/64oZoq8E6MTyBZGUnrSb9F) | 2:55 | 2023-12-30 |  |
@@ -416,7 +417,7 @@
 | [Profissional do amor \- Ao vivo](https://open.spotify.com/track/43Yys3TJ5aqHK78LSEnpZb) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 2:41 | 2023-12-30 |  |
 | [Prova pra Eu Ver \- Ao Vivo](https://open.spotify.com/track/1oF49UW9i72g2GJBmpxhp8) | [Débora Vitória](https://open.spotify.com/artist/01YaVyADj1RRc04lQ65QCy) | [Débora Vitória \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/3kMFsETlyrHhLqCDBQ94aC) | 2:37 | 2023-12-30 |  |
 | [Provas de Amor \(Psicografado\)](https://open.spotify.com/track/0lhaiy0jS0svOdvUEiaDdD) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Eu e Você](https://open.spotify.com/album/7h6CWCea9P6SLDkL9dhdiP) | 2:38 | 2023-12-30 |  |
-| [Pézin Na Rua \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/75qv4qnNhOyZXzq2fHBjdI) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [No Morro \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/5mgO08IoSpp5C1BrqdDVyr) | 2:41 | 2023-12-30 |  |
+| [Pézin Na Rua \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/75qv4qnNhOyZXzq2fHBjdI) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [No Morro \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/5mgO08IoSpp5C1BrqdDVyr) | 2:41 | 2023-12-30 | 2024-11-21 |
 | [Quando Perde Um Amor](https://open.spotify.com/track/4m2ELhmVHZXtXpu9pI5CNf) | [Gabi & Rapha](https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD) | [Quando Perde Um Amor](https://open.spotify.com/album/3fMiMx2cV7ReHQnnTDVJix) | 3:29 | 2024-10-24 |  |
 | [Quebra Esse Gelo](https://open.spotify.com/track/2gv7ZKtzi7dHVoLFpAM6DE) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/5o6ge5nutV05dTdfP8wUF5) | 2:56 | 2023-12-30 | 2024-06-08 |
 | [Quebra Esse Gelo](https://open.spotify.com/track/4zqD3641QULpTGKiQaGfqa) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/7FQLDUqC75tCfP6orsmoml) | 2:56 | 2024-06-07 |  |

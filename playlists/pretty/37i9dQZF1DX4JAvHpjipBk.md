@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Linkin Park, Tate McRae, Shawn Mendes, Rauw Alejandro, Shaboozey, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,236,526 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,236,651 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

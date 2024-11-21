@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201250,
+      "name": "Ainda Bem Que Chegou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg"
+    },
+    {
+      "album": {
         "name": "Ainda Vou Morrer por N\u00e3o Falar",
         "url": "https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM"
       },
@@ -13332,7 +13350,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 205132,
       "name": "T\u00e3o Bom",
       "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"

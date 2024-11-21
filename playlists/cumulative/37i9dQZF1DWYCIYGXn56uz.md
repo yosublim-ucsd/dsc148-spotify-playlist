@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Alex Wyse
 
-552 songs - 1 day 1 hr 36 min
+553 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-03-23 | 2023-05-24 |
 | [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 | 2023-05-18 | 2023-06-16 |
 | [MAPPAMONDO](https://open.spotify.com/track/4FYdBhoiUkrAZfkcaPd2sn) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MAPPAMONDO](https://open.spotify.com/album/3rAzTTDojPhT2uaEyO8Lvf) | 2:47 | 2024-03-07 | 2024-07-19 |
-| [mare](https://open.spotify.com/track/0eH4rFpeCMiMq2eZsD6cIE) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [mare](https://open.spotify.com/album/3SSbn0sQDe8YbUtFe3Cvvh) | 2:33 | 2024-10-17 |  |
+| [mare](https://open.spotify.com/track/0eH4rFpeCMiMq2eZsD6cIE) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [mare](https://open.spotify.com/album/3SSbn0sQDe8YbUtFe3Cvvh) | 2:33 | 2024-10-17 | 2024-11-21 |
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-03-23 | 2023-09-15 |
 | [Megapixel \- URANO](https://open.spotify.com/track/1lA9F7QGuekEPyZlPZbAo7) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Megapixel \- URANO](https://open.spotify.com/album/4nvmZ5EqjvSBiurFRFOSOl) | 2:50 | 2024-10-24 |  |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-05-23 | 2024-10-25 |
@@ -542,6 +542,7 @@
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-03-14 | 2024-07-05 |
 | [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 | 2023-11-23 | 2024-01-12 |
 | [Vent'anni](https://open.spotify.com/track/3b9qwv1l4WW2Yipz8aLWgR) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Vent'anni](https://open.spotify.com/album/3EYZS9x81k6jtpAWhHmnm0) | 2:33 | 2024-05-02 | 2024-07-19 |
+| [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-11-20 |  |
 | [Via da me](https://open.spotify.com/track/2SFFxjmuvx91Yt4gCnLTO2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [Via da me](https://open.spotify.com/album/7KWbI2xW8wVSwWQUyKcXFQ) | 3:03 | 2023-10-05 | 2023-11-10 |
 | [Viole e Violini](https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Viole e Violini](https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y) | 2:50 | 2023-12-12 | 2024-03-15 |
 | [Vita morte e miracoli](https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 2:40 | 2023-05-18 | 2023-06-09 |

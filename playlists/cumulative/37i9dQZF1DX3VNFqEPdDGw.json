@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 157317,
       "name": "Bach baliye",
       "url": "https://open.spotify.com/track/509WQBvemcYvF3rSGhmWCu"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 230400,
       "name": "Bitch I'm Back",
       "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
@@ -1679,6 +1679,28 @@
     },
     {
       "album": {
+        "name": "Munda Inj Da Nahi",
+        "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
+      },
+      "artists": [
+        {
+          "name": "Surjit Bhullar",
+          "url": "https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD"
+        },
+        {
+          "name": "Mista Baaz",
+          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Munda Inj Da Nahi",
+      "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
+    },
+    {
+      "album": {
         "name": "Na Na",
         "url": "https://open.spotify.com/album/5bc8FMXhrMZD4VFQNPOtWH"
       },
@@ -2317,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Sunke",
+        "url": "https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159011,
+      "name": "Sunke",
+      "url": "https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq"
+    },
+    {
+      "album": {
         "name": "Surma",
         "url": "https://open.spotify.com/album/0mynneCJOCqAWYEW8Eg6JM"
       },
@@ -2710,7 +2750,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 188000,
       "name": "What Ve",
       "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"

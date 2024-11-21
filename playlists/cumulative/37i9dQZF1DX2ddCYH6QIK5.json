@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Laurel Bloom,  Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Christian Sean,  Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 160493,
       "name": "1000 W\u00fcnsche",
       "url": "https://open.spotify.com/track/03IljGKrDnoAFCocYQIgmh"
@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "allein sein",
+        "url": "https://open.spotify.com/album/7fs2JvwlQdq8YTWwDi4ggK"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129534,
+      "name": "allein sein",
+      "url": "https://open.spotify.com/track/2Oux8SVZ6FgnvGQei22kfG"
+    },
+    {
+      "album": {
         "name": "Alleine",
         "url": "https://open.spotify.com/album/47DFH6ziUzkoecygQlAlYp"
       },
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 166900,
       "name": "Am Badestrand (Attach\u00e9)",
       "url": "https://open.spotify.com/track/7e3iBxHbwHtKAu47j9zKhy"
@@ -6585,6 +6603,24 @@
     },
     {
       "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/5Y7K33t8zhF7BoJlubG7GL"
+      },
+      "artists": [
+        {
+          "name": "Christian Sean",
+          "url": "https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230254,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/6B0RWRptvb8cwMLpOfOiLD"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/2PPtJgAWi0uwXGBW5z31E5"
       },
@@ -9200,7 +9236,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 153882,
       "name": "Herz aus Gold",
       "url": "https://open.spotify.com/track/4PKS2K2zZW6peFww8xJKP6"
@@ -11656,7 +11692,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 208000,
       "name": "LACTOBOY",
       "url": "https://open.spotify.com/track/2C1VLt6q6bvPOQGQZyKgCk"
@@ -12140,6 +12176,24 @@
       "duration_ms": 170740,
       "name": "Lichtblick",
       "url": "https://open.spotify.com/track/3hZKeMBXB7swz85lkuMZyX"
+    },
+    {
+      "album": {
+        "name": "Lichter",
+        "url": "https://open.spotify.com/album/5GhvA64GvSFjI7cQfoinmK"
+      },
+      "artists": [
+        {
+          "name": "wylhem",
+          "url": "https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131213,
+      "name": "Lichter",
+      "url": "https://open.spotify.com/track/6l8u6FeBVtdruvoIwQjrct"
     },
     {
       "album": {
@@ -16180,7 +16234,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 185706,
       "name": "Radar",
       "url": "https://open.spotify.com/track/7Hq3xnWJo3373ERWG4V2kI"
@@ -17443,6 +17497,24 @@
     },
     {
       "album": {
+        "name": "Schmetterlinge",
+        "url": "https://open.spotify.com/album/5MsGpt9iCXIZQ5pffbwm7T"
+      },
+      "artists": [
+        {
+          "name": "Clara Lou",
+          "url": "https://open.spotify.com/artist/7aC89IptWSdgo4pP1Vih7P"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "Schmetterlinge",
+      "url": "https://open.spotify.com/track/1JRtXd8WREehanndaJOuEM"
+    },
+    {
+      "album": {
         "name": "SCHOCK OMG",
         "url": "https://open.spotify.com/album/1KhZiEyCdLwslNj8puOwJ1"
       },
@@ -18402,7 +18474,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 144181,
       "name": "Sommerherz",
       "url": "https://open.spotify.com/track/3MvYgQdC075ShrV9NMY5l3"
@@ -19344,6 +19416,24 @@
       "duration_ms": 196506,
       "name": "Sun Signs",
       "url": "https://open.spotify.com/track/17npFuelMi67mMpYgTiJ92"
+    },
+    {
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/5buzaLuGXo6sPuftgENpbB"
+      },
+      "artists": [
+        {
+          "name": "Laundromat Chicks",
+          "url": "https://open.spotify.com/artist/46HzAMITllrFpiZAvvJudl"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/0IjXr94p2opARXxCTX92bY"
     },
     {
       "album": {
@@ -21886,6 +21976,24 @@
       "duration_ms": 179718,
       "name": "We Didn't Fit Together At All",
       "url": "https://open.spotify.com/track/6051tQ7EVkAuRshp4le6Tf"
+    },
+    {
+      "album": {
+        "name": "We Must Have Been Asleep",
+        "url": "https://open.spotify.com/album/1bGEtxNspIG3CiRJoKoSSd"
+      },
+      "artists": [
+        {
+          "name": "Aino Salto",
+          "url": "https://open.spotify.com/artist/6FHdbKQfdgDdTGibIj8ZDb"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220234,
+      "name": "We Must Have Been Asleep",
+      "url": "https://open.spotify.com/track/2v3nIUhZyC7kDU5zp4Tpn5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3lo cl\u00e1sicos tropicales.",
-  "num_followers": 15377,
+  "num_followers": 15378,
   "original_name": "Salsa, Vallenato & Merengue",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Homenaje",
+        "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
+      },
+      "artists": [
+        {
+          "name": "Estrellas Vallenatas",
+          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Homenaje",
-        "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
-      },
-      "artists": [
-        {
-          "name": "Estrellas Vallenatas",
-          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Pa Que No Me Anden Contando",
+        "url": "https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 129930,
+      "name": "Pa Que No Me Anden Contando",
+      "url": "https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Salsa Clasica",
         "url": "https://open.spotify.com/album/6H7VxpaLQkZdXAaGV7FXU7"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 325906,
       "name": "El Jardin Prohibido",
       "url": "https://open.spotify.com/track/5eufP63aSvtJuoI33YyRxF"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Pa Que No Me Anden Contando",
-        "url": "https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 129930,
-      "name": "Pa Que No Me Anden Contando",
-      "url": "https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Colecci\u00f3n Oro del Vallenato, Vol. 10",
         "url": "https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 241297,
       "name": "Ceniza Fr\u00eda",
       "url": "https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
     }
   ],
   "unique_name": "Salsa, Vallenato & Merengue",

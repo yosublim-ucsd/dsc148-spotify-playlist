@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Carolina Durante.
 
-218 songs - 11 hr 15 min
+219 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 | 2024-11-15 |
 | [Aún Quedan Sensaciones](https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu) | [LOS VALIENTES](https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN) | [Dos De Cal](https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ) | 3:01 | 2024-11-14 |  |
 | [Bailaremos](https://open.spotify.com/track/6NKepMBqaJaR2DLpZgROgY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Calle Liberación](https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ) | 3:44 | 2024-06-27 | 2024-08-23 |
+| [Baimen gabe](https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8) | [Izaki Gardenak](https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh) | [Baimen gabe](https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG) | 5:11 | 2024-11-14 |  |
 | [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 | 2024-06-27 |  |
 | [Bats \- Bonus Track](https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:03 | 2024-10-04 | 2024-10-25 |
 | [Cada instante](https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH) | [Ártico](https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ) | [Cada instante](https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR) | 3:25 | 2024-08-15 | 2024-10-30 |
@@ -149,7 +150,7 @@
 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 | 2024-06-27 |  |
 | [Paga y Señal](https://open.spotify.com/track/1v9VKI3Xikbei4lyaqzSGA) | [Vecinos](https://open.spotify.com/artist/42g6k1iU30Z2lDl0E2oKZR) | [Paga y Señal](https://open.spotify.com/album/1qorXCYFm9ZHWC4LmJUkTY) | 3:02 | 2024-10-03 | 2024-11-08 |
 | [Palos y Piedras](https://open.spotify.com/track/49BUQqlGJ42mDQtJWyypxp) | [Bañaperros](https://open.spotify.com/artist/4Zbtr7GoFeQqg9iZkxaiIg) | [Palos y Piedras](https://open.spotify.com/album/0vL4rwFaRMQPaffWRHGATE) | 3:48 | 2024-08-22 | 2024-09-20 |
-| [Parkour](https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Parkour](https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8) | 3:04 | 2024-10-03 |  |
+| [Parkour](https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Parkour](https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8) | 3:04 | 2024-10-03 | 2024-11-21 |
 | [Pastillas](https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Pastillas](https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs) | 2:30 | 2024-08-29 |  |
 | [patito](https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [patito](https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ) | 2:54 | 2024-06-27 | 2024-07-27 |
 | [Patrón de las causas imposibles](https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4) | [María Jesús Y Su Hijo](https://open.spotify.com/artist/6u6tjnHJ5CGecNVi2Wfwx9) | [Patrón de las causas imposibles](https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN) | 5:29 | 2024-06-27 |  |

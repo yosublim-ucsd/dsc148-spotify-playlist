@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 47619,
       "name": "Minimix",
       "url": "https://open.spotify.com/track/0owkPaicQL4owIMN1MNvSx"

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clara Luciani
 
-2,961 songs - 6 day 13 hr 34 min
+2,962 songs - 6 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1920,6 +1920,7 @@
 | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/track/4JWcNs4BNjjGJqSArbbe2P) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/album/6HSDmPm3qHHh8V7EldYCys) | 3:30 | 2023-09-08 | 2023-09-16 |
 | [O H N A](https://open.spotify.com/track/5FCqxCBtKuHSVn8UBaQ5cn) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [O H N A](https://open.spotify.com/album/4GS5hqmVK3qJmTr22KHNea) | 3:20 | 2022-07-01 | 2022-07-16 |
 | [Oblije Blockem \- Baby Gyal](https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Oblije Blockem \(Baby Gyal\)](https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9) | 3:28 | 2024-08-02 | 2024-08-10 |
+| [Obrigado](https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Obrigado](https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz) | 2:19 | 2024-11-15 |  |
 | [Océane](https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Bushi Tape 3](https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf) | 3:04 | 2024-03-29 | 2024-05-25 |
 | [OG Gang](https://open.spotify.com/track/6U8gy0hqd1kF53sILUYFPS) | [MonMon](https://open.spotify.com/artist/2MUhto1HVbmHfpVKwRPwlZ), [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [Caya](https://open.spotify.com/artist/23vve81LSeTNBa0QtzI0nY), [Nordiqc](https://open.spotify.com/artist/33eVpx3Jm3YbG2Bf5utbVn) | [OG Gang](https://open.spotify.com/album/444efVgrIdTMZXrKqjgfH7) | 3:26 | 2022-12-02 | 2023-01-06 |
 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-09-01 | 2023-10-30 |
@@ -1947,7 +1948,7 @@
 | [On s'est compris](https://open.spotify.com/track/6CysmL5giqn1fGn3C6w8hi) | [Gotti Maras](https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [On s'est compris](https://open.spotify.com/album/4MlYPC6ZjhpsI6HulUG24w) | 3:02 | 2022-07-22 | 2022-08-20 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-01-20 | 2023-02-04 |
 | [On s'passe à côté](https://open.spotify.com/track/2luutsPAHOP7uHrlRDG5HJ) | [Damien Lauretta](https://open.spotify.com/artist/5XzUJg13VlUKJ97W9dp3Fh) | [French Riviera](https://open.spotify.com/album/7FvFGPiHSa12LO1UkgTk6d) | 2:51 | 2022-01-14 | 2022-01-29 |
-| [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-20 |  |
+| [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-20 | 2024-11-21 |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2023-09-08 | 2023-09-16 |
 | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/track/67t14XAtkgchkqWhYjlyTM) | [Stage Lacroix](https://open.spotify.com/artist/7tkE0AJ82mOghkNbBF1LpQ) | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/album/6WFtXnLkhAA0bM7AggOxTe) | 4:33 | 2022-10-14 | 2022-10-29 |
 | [On voudrait](https://open.spotify.com/track/353yen1tiVmrd5w49rFUQi) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Les liens les lieux](https://open.spotify.com/album/2Jj2Jqb4peRyI1xjflggkl) | 4:23 | 2022-09-09 | 2022-09-24 |

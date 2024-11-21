@@ -4,13 +4,13 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Noha Saré
 
-475 songs - 1 day 3 hr 46 min
+476 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(K\)no\(w\) Better](https://open.spotify.com/track/23jEUEJ8S4S5w9ULfKGQxP) | [Vice Beats](https://open.spotify.com/artist/0IIyN8h6bhn7pzkR0SbAS8), [Mac Lloyd](https://open.spotify.com/artist/1LwgWZaHMmRVyu2fIglu3l) | [\(K\)no\(w\) Better](https://open.spotify.com/album/0DUQ0jMsZqTpWt2lEnI9x7) | 3:16 | 2024-04-18 |  |
 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 | 2022-09-29 | 2023-12-12 |
-| [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-04-18 |  |
+| [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-04-18 | 2024-11-21 |
 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-19 | 2024-04-19 |
 | [90s](https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [90s](https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR) | 4:19 | 2022-12-02 | 2023-04-27 |
 | [Addicted](https://open.spotify.com/track/1vqYqiZA1Su4GgqIO4oVSY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/7x3kXrzMt2FuKA5S0kbHas) | 3:24 | 2021-12-16 | 2022-03-11 |
@@ -344,6 +344,7 @@
 | [Sauce](https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 2:54 | 2021-12-16 | 2022-03-11 |
 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 | 2021-12-16 | 2022-12-03 |
 | [Save You](https://open.spotify.com/track/4RENGaT8EpQK0bhUfW877V) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:29 | 2021-12-16 | 2022-01-14 |
+| [Say You Won't \(Say You Will\)](https://open.spotify.com/track/5YTIJG10wBgQU6vQy9I9aq) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Lost In Translation EP](https://open.spotify.com/album/7ciXXVGcJPYLQqnhDCBWYU) | 1:55 | 2024-11-20 |  |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2024-01-18 |
 | [Screw My Head Back On](https://open.spotify.com/track/2tlhFFTqAcM2OgAF4NOAtY) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Len](https://open.spotify.com/artist/2iYJH0zXVSgpM6Ln6zslxj) | [Screw My Head Back On](https://open.spotify.com/album/41ipmhsYupEWd8N3rrNudY) | 2:56 | 2022-12-02 | 2024-02-09 |
 | [sealand](https://open.spotify.com/track/0snUtOBX7IyyygQHflCUNj) | [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [sealand](https://open.spotify.com/album/3uoHVEX65eMnvDEsDc2IMG) | 4:18 | 2022-10-28 | 2023-08-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0WROHrBJtziRF6ng68lUHx.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 5 songs - 15 min 22 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 6 songs - 18 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,5 +13,6 @@ pretty - [cumulative](/playlists/cumulative/0WROHrBJtziRF6ng68lUHx.md) - [plain]
 | 3 | [Aaa](https://open.spotify.com/track/6ZaHZR8trkaELFMwbH6wbF) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:59 |
 | 4 | [Am I Awake?](https://open.spotify.com/track/5ZuFa017ebD1p6aU9zHTnT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Idlewild: A Compilation](https://open.spotify.com/album/6oySHdG0nQzH5Belcm0fQi) | 3:03 |
 | 5 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 |
+| 6 | [Family Happiness](https://open.spotify.com/track/2lbRuGZlv4jumboWPeRA59) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:57 |
 
-Snapshot ID: `AAAACbaNxH6gjLVvXnynM5DYdUADHli5`
+Snapshot ID: `AAAACuIP5sz8g8phil8EAk0Lh2POX0ZD`

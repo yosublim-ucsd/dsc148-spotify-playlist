@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "New Hip Hop from India. Cover: FEROZI",
+  "description": "New Hip Hop from India. Cover: Raja Kumari",
   "name": "Taaza hai bro!",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 334116,
       "name": "2023 FLOW",
       "url": "https://open.spotify.com/track/3BcqRnsndjbzXARO1cuQJT"
+    },
+    {
+      "album": {
+        "name": "302",
+        "url": "https://open.spotify.com/album/3kd88ysTjrX3eoije5QAxe"
+      },
+      "artists": [
+        {
+          "name": "MC GAWTHI",
+          "url": "https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276762,
+      "name": "302",
+      "url": "https://open.spotify.com/track/1bJPme47wT0IIKImzOOehj"
     },
     {
       "album": {
@@ -396,7 +414,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 140250,
       "name": "99 Missed Calls",
       "url": "https://open.spotify.com/track/3E4qmUrFTrMXYmoprWLKj9"
@@ -486,7 +504,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 165841,
       "name": "Aasmaan",
       "url": "https://open.spotify.com/track/7u1NoJDlHcuYTIuzPbCZhP"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 149278,
       "name": "Aji Ghanta",
       "url": "https://open.spotify.com/track/6MSf6wBJfiICajQRd6UTZJ"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 190908,
       "name": "All Bout Me",
       "url": "https://open.spotify.com/track/4MpzDc1zB9ZD0sZQ70pAus"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 171622,
       "name": "Area 46",
       "url": "https://open.spotify.com/track/4FvpUiLWxotcm9h3vYcbgV"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 182961,
       "name": "Badmash Munda",
       "url": "https://open.spotify.com/track/5BIphb5EZinzyZtpbDIE6M"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 149730,
       "name": "Bhaag Bhag",
       "url": "https://open.spotify.com/track/0tubIhrMsn7z3Plr6Ui0h0"
@@ -1698,6 +1716,28 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
+        "name": "BLACK MONEY",
+        "url": "https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        },
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228501,
+      "name": "BLACK MONEY",
+      "url": "https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3"
     },
     {
       "album": {
@@ -1900,6 +1940,24 @@
       "duration_ms": 178143,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
+    },
+    {
+      "album": {
+        "name": "Born SuperStar",
+        "url": "https://open.spotify.com/album/1gDJ7WJxYUFeyhS2W6tilw"
+      },
+      "artists": [
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Born SuperStar",
+      "url": "https://open.spotify.com/track/2ODqYo3poNPyxk4olwf3vA"
     },
     {
       "album": {
@@ -2550,7 +2608,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 248961,
       "name": "Chowk Pe",
       "url": "https://open.spotify.com/track/74FxbDVOE2TG7oR5f83F5w"
@@ -2770,6 +2828,68 @@
       "duration_ms": 197142,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/21n8WOX81Ntub6g1kFFRtH"
+      },
+      "artists": [
+        {
+          "name": "Shera Dhaliwal",
+          "url": "https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6zeqoQLXUuTjk5Hr1C9VzM"
+    },
+    {
+      "album": {
+        "name": "CULLINAN",
+        "url": "https://open.spotify.com/album/5JzoIApW11QEo5xKj0NJhl"
+      },
+      "artists": [
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        },
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141242,
+      "name": "CULLINAN",
+      "url": "https://open.spotify.com/track/5xAxz2XOH93HFIC1DaU1Tc"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4xgtLuP2QVVRyG54TNlfbK"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163808,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/6szgLz2R9DuvttnAb0BiY4"
     },
     {
       "album": {
@@ -3016,7 +3136,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 191029,
       "name": "Dhyaan Se",
       "url": "https://open.spotify.com/track/5vBl4keuohlsqXdmz5hw76"
@@ -3170,7 +3290,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 272879,
       "name": "DIVINE VIOLENCE",
       "url": "https://open.spotify.com/track/0SXvbmKCpSVYaUCbeDVfyK"
@@ -3218,6 +3338,28 @@
       "duration_ms": 165483,
       "name": "Do Shabd",
       "url": "https://open.spotify.com/track/18peD3JZAcGFIwd07vvU7H"
+    },
+    {
+      "album": {
+        "name": "POLARIS",
+        "url": "https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Boyblanck",
+          "url": "https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121481,
+      "name": "DOBAARA",
+      "url": "https://open.spotify.com/track/0XhIeUGrWUYv5k5F9EOXoz"
     },
     {
       "album": {
@@ -3368,6 +3510,28 @@
       "duration_ms": 166472,
       "name": "Drifta",
       "url": "https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL"
+    },
+    {
+      "album": {
+        "name": "MTV Hustle 4 - Episode 8",
+        "url": "https://open.spotify.com/album/3Zw82APevZxUD79EOLkBbd"
+      },
+      "artists": [
+        {
+          "name": "99side",
+          "url": "https://open.spotify.com/artist/269bxxEYnNM4N0Iizy2dL7"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196730,
+      "name": "Du Buckle",
+      "url": "https://open.spotify.com/track/4p6uoH9nVn4OvUTACTxn1s"
     },
     {
       "album": {
@@ -3636,6 +3800,32 @@
       "duration_ms": 136128,
       "name": "FEEL OR REEL",
       "url": "https://open.spotify.com/track/6zR5hJvWpmey1iz2edXqzW"
+    },
+    {
+      "album": {
+        "name": "Filmy Freestyle",
+        "url": "https://open.spotify.com/album/227dr9EN2hLEffyFBjXS3J"
+      },
+      "artists": [
+        {
+          "name": "Smoke",
+          "url": "https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy"
+        },
+        {
+          "name": "Umer Anjum",
+          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
+        },
+        {
+          "name": "Yoki",
+          "url": "https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Filmy Freestyle",
+      "url": "https://open.spotify.com/track/33GQZYQU3TxE8flUj1rbIR"
     },
     {
       "album": {
@@ -4242,7 +4432,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 139591,
       "name": "Glock",
       "url": "https://open.spotify.com/track/3Tew8PRnaVMwIX1UERZK0L"
@@ -5476,10 +5666,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 195929,
       "name": "Jawab De",
       "url": "https://open.spotify.com/track/5D0DPHvozDW5qDLK7SS83X"
+    },
+    {
+      "album": {
+        "name": "Jawani",
+        "url": "https://open.spotify.com/album/4ylWXL2qwXlIwelrfOAAiR"
+      },
+      "artists": [
+        {
+          "name": "Nimaan Sidhu",
+          "url": "https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154197,
+      "name": "Jawani",
+      "url": "https://open.spotify.com/track/2Ymc0aIHa3ifiHlXHvrQhI"
     },
     {
       "album": {
@@ -6100,7 +6308,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 195000,
       "name": "KILL'EM",
       "url": "https://open.spotify.com/track/1XyAh3EeohzGtMx3Fokdfm"
@@ -6260,6 +6468,28 @@
       "duration_ms": 199054,
       "name": "Korakkavo!",
       "url": "https://open.spotify.com/track/0EglZV7Juuo9U40iwgBgrl"
+    },
+    {
+      "album": {
+        "name": "MTV Hustle 4 - Episode 6",
+        "url": "https://open.spotify.com/album/6kAsMy9cFonMnuBfF1Vx33"
+      },
+      "artists": [
+        {
+          "name": "Mad Trip",
+          "url": "https://open.spotify.com/artist/1Ecrm44mycnnlYXo9O8Pcg"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182550,
+      "name": "Kothi Bangle Wali",
+      "url": "https://open.spotify.com/track/71kyJcW5i6rlnVF91fQnyx"
     },
     {
       "album": {
@@ -6619,6 +6849,28 @@
     },
     {
       "album": {
+        "name": "LOCKED UP",
+        "url": "https://open.spotify.com/album/2Hxm1ebbOaRBlijRbNkLmx"
+      },
+      "artists": [
+        {
+          "name": "Minta",
+          "url": "https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL"
+        },
+        {
+          "name": "MEMAX",
+          "url": "https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "LOCKED UP",
+      "url": "https://open.spotify.com/track/0eFlDGLRG26pCnnGIFfgav"
+    },
+    {
+      "album": {
         "name": "Lockup No 4Three",
         "url": "https://open.spotify.com/album/5EwcM2juMFPTAJcOo2IhoE"
       },
@@ -6794,7 +7046,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 172153,
       "name": "Maa Ka Call",
       "url": "https://open.spotify.com/track/30J1YSP7njH6AqPpGTNQuW"
@@ -7663,6 +7915,28 @@
     },
     {
       "album": {
+        "name": "MTCD",
+        "url": "https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Japjeet Sandhu",
+          "url": "https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "MTCD",
+      "url": "https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6"
+    },
+    {
+      "album": {
         "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
         "url": "https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE"
       },
@@ -7748,7 +8022,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 170781,
       "name": "Murran",
       "url": "https://open.spotify.com/track/2cAvdhmaj9onBaC1UbmJ4W"
@@ -7880,6 +8154,32 @@
       "duration_ms": 171500,
       "name": "Naam Mera Young Nik",
       "url": "https://open.spotify.com/track/6cg3mBodjqwLr0zGmemoz2"
+    },
+    {
+      "album": {
+        "name": "Naam Toh Tu Jaanta Hai",
+        "url": "https://open.spotify.com/album/2li8D8P7MZ0aPXmn6ebRM4"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        },
+        {
+          "name": "Sameer Uddin",
+          "url": "https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156702,
+      "name": "Naam Toh Tu Jaanta Hai",
+      "url": "https://open.spotify.com/track/6LQcvhQHdoDAr09PENVdjx"
     },
     {
       "album": {
@@ -8054,7 +8354,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 184941,
       "name": "Near By Me",
       "url": "https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU"
@@ -8363,6 +8663,32 @@
     },
     {
       "album": {
+        "name": "NOIDA 2 NYC",
+        "url": "https://open.spotify.com/album/2L8apKkPLDG1MaGprjcdP8"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "NOIDA 2 NYC",
+      "url": "https://open.spotify.com/track/6KnOI7gIfuSJw1TkwrhXSh"
+    },
+    {
+      "album": {
         "name": "Mangal Bajaar",
         "url": "https://open.spotify.com/album/39j4SJ7S2Vpx1ZW1GgIddZ"
       },
@@ -8611,6 +8937,28 @@
     },
     {
       "album": {
+        "name": "POLARIS",
+        "url": "https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Dhanji",
+          "url": "https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "OVERSTIMULATED",
+      "url": "https://open.spotify.com/track/7iR2ivxReZXTelb0ntk59N"
+    },
+    {
+      "album": {
         "name": "The Heal Album",
         "url": "https://open.spotify.com/album/1zb1bWKMryfC8vYUTkmMpQ"
       },
@@ -8622,7 +8970,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 237372,
       "name": "Painful weather",
       "url": "https://open.spotify.com/track/55LUJfwGl4lmmhNY8QFxOo"
@@ -8812,6 +9160,28 @@
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi"
+    },
+    {
+      "album": {
+        "name": "POLARIS",
+        "url": "https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "POLARIS",
+      "url": "https://open.spotify.com/track/3CBZQE2UU71lPmKvfHd8tb"
     },
     {
       "album": {
@@ -9273,6 +9643,24 @@
     },
     {
       "album": {
+        "name": "Rishta",
+        "url": "https://open.spotify.com/album/1VSNr8QMD2FQpsl2NMYxuI"
+      },
+      "artists": [
+        {
+          "name": "Gopi Longia",
+          "url": "https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245061,
+      "name": "Rishta",
+      "url": "https://open.spotify.com/track/55cfAVkcEdk3UFs1m3GcDC"
+    },
+    {
+      "album": {
         "name": "Bhram (Deluxe)",
         "url": "https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d"
       },
@@ -9310,6 +9698,24 @@
       "duration_ms": 208636,
       "name": "Rudali",
       "url": "https://open.spotify.com/track/5IbcfJPO1LQ97hzaNIXF3L"
+    },
+    {
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6293wzQJ1KsgdUsCremrVH"
+      },
+      "artists": [
+        {
+          "name": "Yelhomie",
+          "url": "https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/2QedfBbXokap1ucNBbPBlo"
     },
     {
       "album": {
@@ -10227,6 +10633,28 @@
     },
     {
       "album": {
+        "name": "Tanashahi",
+        "url": "https://open.spotify.com/album/5bwV8At1245wDyvszkpXFS"
+      },
+      "artists": [
+        {
+          "name": "Ashish Vidyarthi",
+          "url": "https://open.spotify.com/artist/28kueW1ZYtknu2RsmvpyGg"
+        },
+        {
+          "name": "Mallar Karmakar",
+          "url": "https://open.spotify.com/artist/1Hex9TNKn9XZe354Sjsqdv"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Tanashahi",
+      "url": "https://open.spotify.com/track/2e3pD9lgTPx9ITLnENWU3Z"
+    },
+    {
+      "album": {
         "name": "Tanha",
         "url": "https://open.spotify.com/album/35tboEzagJLar0rHpxPfyz"
       },
@@ -10404,7 +10832,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 169384,
       "name": "Tere Jaisi",
       "url": "https://open.spotify.com/track/7ebzprvKL2Z1tMOfBC40YG"
@@ -10924,7 +11352,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 138333,
       "name": "Unfreeze",
       "url": "https://open.spotify.com/track/1A629s5oIVLiBg03A2s4sl"
@@ -11337,6 +11765,24 @@
     },
     {
       "album": {
+        "name": "POLARIS",
+        "url": "https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "WIDE AWAKE",
+      "url": "https://open.spotify.com/track/36YkcfuGBBvvCLkgzfHIB6"
+    },
+    {
+      "album": {
         "name": "WIDE AWAKE",
         "url": "https://open.spotify.com/album/5jIa47UVXJidZQILZU1bML"
       },
@@ -11550,7 +11996,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 161107,
       "name": "Yaarmade",
       "url": "https://open.spotify.com/track/0yei26BkNWAtANnaU6s9Qw"
@@ -11572,7 +12018,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 179048,
       "name": "YES SIR",
       "url": "https://open.spotify.com/track/1egzeLE9L7M5vBFkbjzxYC"

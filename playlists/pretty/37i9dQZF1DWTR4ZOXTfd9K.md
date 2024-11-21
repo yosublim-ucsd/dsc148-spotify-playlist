@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,762 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,834 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 82 | [Wind Parade](https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Places And Spaces](https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh) | 6:09 |
 | 83 | [Oblighetto](https://open.spotify.com/track/5H9ndwyE50LFwZFuZnVe2o) | [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [Moon Rappin'](https://open.spotify.com/album/25sQE6mJ38XKqKm4VKgWp8) | 6:36 |
 | 84 | [Orange Peel](https://open.spotify.com/track/1rgBIkLubecld0M92q5ulV) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Blue Mode](https://open.spotify.com/album/0e0wYhumzrbDwoAhhZihs8) | 6:39 |
-| 85 | [Spinning Wheel \- Remastered](https://open.spotify.com/track/6jBlCAZroSB2ZSKXE08LXL) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Drives](https://open.spotify.com/album/2teLy7sTvctRCe2CXCcYyn) | 7:37 |
+| 85 | [Spinning Wheel \- Remastered 1993](https://open.spotify.com/track/6jBlCAZroSB2ZSKXE08LXL) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Drives](https://open.spotify.com/album/2teLy7sTvctRCe2CXCcYyn) | 7:37 |
 | 86 | [Alligator Bogaloo](https://open.spotify.com/track/2Wq889rsIlEG0l2ea9pE9J) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Alligator Bogaloo](https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX) | 6:57 |
 | 87 | [Do Like Eddie](https://open.spotify.com/track/0QyvQaZam7ZmVM50Y5Y6QC) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Hand Jive](https://open.spotify.com/album/01MeOXVO3prEBCy8Pa5KJd) | 8:10 |
 | 88 | [Greasy Granny](https://open.spotify.com/track/46YM2qxONdtigVtu80Xb2l) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Bing! Bing! Bing!](https://open.spotify.com/album/60SBajnbT4gWbD2q8SWKbT) | 4:56 |

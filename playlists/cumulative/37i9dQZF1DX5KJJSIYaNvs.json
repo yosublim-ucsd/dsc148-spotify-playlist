@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 148000,
       "name": "Barsaat",
       "url": "https://open.spotify.com/track/3vpAmtwC8sVXIw9bgZQjPw"
@@ -5542,12 +5542,12 @@
           "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
         },
         {
-          "name": "Harshit Jain",
-          "url": "https://open.spotify.com/artist/2AodR8abevN2PdYshu9oE1"
-        },
-        {
           "name": "Jeffrey Iqbal",
           "url": "https://open.spotify.com/artist/0QJN3RYr6xAyScRqhkephw"
+        },
+        {
+          "name": "Harshit Jain",
+          "url": "https://open.spotify.com/artist/2AodR8abevN2PdYshu9oE1"
         }
       ],
       "date_added": "2024-11-12",
@@ -8040,6 +8040,24 @@
       "duration_ms": 283680,
       "name": "Sleep Walking",
       "url": "https://open.spotify.com/track/1SL4efhZ3hlnoPewOmClQF"
+    },
+    {
+      "album": {
+        "name": "SLNB",
+        "url": "https://open.spotify.com/album/4hfjvM4Rqn33Npq3OlTpcR"
+      },
+      "artists": [
+        {
+          "name": "Roshanara",
+          "url": "https://open.spotify.com/artist/7emzpBPOKHKxut0AQZzjzz"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "SLNB",
+      "url": "https://open.spotify.com/track/1P4POfccJFWKWdGdSCSgpj"
     },
     {
       "album": {

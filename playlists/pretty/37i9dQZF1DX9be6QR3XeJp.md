@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Douvelle19
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,948 likes - 213 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,947 likes - 213 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

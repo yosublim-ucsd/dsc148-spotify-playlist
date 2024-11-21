@@ -4,12 +4,14 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae & Hev Abi
 
-199 songs - 11 hr 23 min
+201 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$tr33t$](https://open.spotify.com/track/1Qksl8s59ywSHo1exDdEqd) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW), [Toney Chrome](https://open.spotify.com/artist/07umKW3OWa1Kul8FDGgokH), [Jo$h Papers](https://open.spotify.com/artist/2jYpMImUc829yIVfP0azJV) | [$tr33t$](https://open.spotify.com/album/6EwBlz4PQtfzko9D8ibO0E) | 3:57 | 2024-03-27 | 2024-05-02 |
 | ['97 Jay\-Z](https://open.spotify.com/track/6KdGHRlQ7PUuVplvNySZHH) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | ['97 Jay\-Z](https://open.spotify.com/album/31fonibdBz5jRaUpxe31kp) | 2:40 | 2023-12-06 | 2024-01-25 |
+| [1209 FREESTYLE](https://open.spotify.com/track/11gzq8J4geKBsT7LnAa1Wv) | [Matteyo](https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Whiteboy T](https://open.spotify.com/album/1T7TGiN4hkPNW8YqT18Yio) | 2:35 | 2024-11-20 |  |
+| [213](https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R) | [Tommie King](https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm), [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [213](https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY) | 3:03 | 2024-11-20 |  |
 | [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-20 | 2023-11-23 |
 | [4 2nite](https://open.spotify.com/track/3x0vnR5bpjgPWXPmXLpMBq) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Daarth](https://open.spotify.com/artist/32xQ6EBQOP6dIGDbJ7cSAH) | [4 2nite](https://open.spotify.com/album/53QnhxubYEtiTqMu1UIFAK) | 2:43 | 2024-08-29 | 2024-10-18 |
 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 | 2023-09-20 |  |
@@ -112,7 +114,7 @@
 | [Letter X](https://open.spotify.com/track/1eeDm7r6Q0oGhpu9KlVofe) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Letter X](https://open.spotify.com/album/4P3orLxvtiV72yVLKdY9vv) | 2:39 | 2024-09-26 | 2024-10-24 |
 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 | 2023-11-15 |  |
 | [LOW](https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [LOW](https://open.spotify.com/album/6GudVvbJ370hfdYFDj97G9) | 4:57 | 2024-03-27 | 2024-05-09 |
-| [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-11 |  |
+| [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-11 | 2024-11-21 |
 | [Lulong](https://open.spotify.com/track/2ILq8y45JOaFdMm3IvcAqC) | [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Lulong](https://open.spotify.com/album/6zKXgWsUwDHFPfkna0yNeX) | 3:47 | 2024-02-14 | 2024-03-28 |
 | [LUMAYO KANA](https://open.spotify.com/track/6RMuVO3C62Y8qkUxtpgdLr) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [LUMAYO KANA](https://open.spotify.com/album/39xaV4n6qZgC2FCdANA6Zk) | 3:11 | 2023-12-06 | 2024-01-25 |
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-09-20 | 2024-09-26 |
@@ -157,7 +159,7 @@
 | [RAW](https://open.spotify.com/track/6YK6D1wwSEK2DfAC6HXR2m) | [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [RAW](https://open.spotify.com/album/775RKE5HoZQlRqLlukngVI) | 2:03 | 2023-11-08 | 2023-12-21 |
 | [Real Love](https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Real Love](https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98) | 2:54 | 2024-07-31 |  |
 | [Real Talk](https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Real Talk](https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu) | 3:12 | 2024-06-20 | 2024-10-30 |
-| [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 | 2024-08-16 |  |
+| [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 | 2024-08-16 | 2024-11-21 |
 | [SA'YO LANG](https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [SA'YO LANG](https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ) | 4:02 | 2024-08-14 |  |
 | [Sabak Daddy](https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg) | [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Sabak Daddy](https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi) | 2:13 | 2023-09-20 | 2023-10-05 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-07-18 |

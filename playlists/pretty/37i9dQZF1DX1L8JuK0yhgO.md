@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,294 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,295 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 7 | [Dehydration \(feat\. Joe Cupertino\)](https://open.spotify.com/track/2Su1a90UUrovJMMaQNLR0z) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF), [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [Dehydration \(feat\. Joe Cupertino\)](https://open.spotify.com/album/0TmaneGcQfMnjawO8YkvRb) | 3:09 |
 | 8 | [One Voice](https://open.spotify.com/track/5edJUrYBUDLUNVXrta9fnS) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH), [K\-Natural](https://open.spotify.com/artist/0EVzPAj4toto8VpCcXls76), [ビラル](https://open.spotify.com/artist/4YWGp2MeO7LQihs0cKDM0v) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 5:04 |
 | 9 | [For a long time](https://open.spotify.com/track/3gYBa8w5iUYWJBtuN1keYB) | [TRIPPYHOUSING](https://open.spotify.com/artist/4pdZ66BsPUNzMSqlC1r9YN) | [For a long time](https://open.spotify.com/album/1hADWIvMFHjFmV3AoM3VGV) | 3:42 |
-| 10 | [Ameagari no I Miss You Pt.2 （雨上がりの I Miss You Pt.2）](https://open.spotify.com/track/5KT9nCp2ANiDixp9DljHOV) | [Ai Kakihira](https://open.spotify.com/artist/4JclQRnUPxSgNnzin6Ec1O) | [MAKUNOUCHI](https://open.spotify.com/album/1oxtDBsEl08o6HsiesoBEx) | 4:13 |
+| 10 | [Ameagari no I Miss You Pt.2 （雨上がりの I Miss You Pt.2）](https://open.spotify.com/track/5KT9nCp2ANiDixp9DljHOV) | [Ai Kakihira](https://open.spotify.com/artist/4JclQRnUPxSgNnzin6Ec1O) | [MAKUNOUCHI](https://open.spotify.com/album/1oxtDBsEl08o6HsiesoBEx) | 4:09 |
 | 11 | [友達さ](https://open.spotify.com/track/31ePmprC32o7FqqMfbmf4c) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 2:30 |
 | 12 | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 |
 | 13 | [成長痛](https://open.spotify.com/track/6jTVrUczOZQKqprs4OT7gI) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [成長痛](https://open.spotify.com/album/6jMX7olPJ81OEMrfErL4Dk) | 2:52 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 43 | [ダリい](https://open.spotify.com/track/7jDankB3NeekeWm8AnNtiR) | [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1) | [HARDEST BEACH](https://open.spotify.com/album/57G31G7ctk2VDvd6Xz5sjv) | 1:53 |
 | 44 | [This the TJ flow](https://open.spotify.com/track/6c7TybiPxkvoJ2TnQ2PAZC) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [This the TJ flow](https://open.spotify.com/album/4C2NBVo4SVxMoIMwoB93oU) | 1:59 |
 | 45 | [Nostalgia](https://open.spotify.com/track/592l5ZPVUhoZtsAG8fTtEm) | [ANLELA](https://open.spotify.com/artist/0aa8K3n6sgjQZ3L6jXTgoO) | [思索](https://open.spotify.com/album/1dLRSE2gBKH020zfr2vkT4) | 2:31 |
-| 46 | [response](https://open.spotify.com/track/1h4mP6GxnJ0OJHRJSbqsu5) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE), [YUNGYU](https://open.spotify.com/artist/4FVmYyoYUkAcAzueZL8lJe) | [response](https://open.spotify.com/album/1sZRak9YsxOGGjynrrhyTf) | 2:42 |
+| 46 | [response](https://open.spotify.com/track/1h4mP6GxnJ0OJHRJSbqsu5) | [Chilax](https://open.spotify.com/artist/1yjvOYZrHFyZ5qAxjeWu0q), [YUNGYU](https://open.spotify.com/artist/4FVmYyoYUkAcAzueZL8lJe) | [response](https://open.spotify.com/album/1sZRak9YsxOGGjynrrhyTf) | 2:42 |
 | 47 | [MANGO \- Remix](https://open.spotify.com/track/0El0f2QEiuK55ShBzXbv47) | [bby\_mell0w](https://open.spotify.com/artist/2fV7hnh4NVqIOwfDnLUE2j), [ナゴヒビキ](https://open.spotify.com/artist/1DcXNdNSvC91r27VmuycxX), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw), [Tmk](https://open.spotify.com/artist/0CCjgcPoRAWTlfat9Oyiez) | [MANGO \(feat\. ナゴヒビキ & Tete\) \[Remix\]](https://open.spotify.com/album/2wPIv4Me81Y7qyrklBnx4x) | 3:12 |
 | 48 | [STAR MODE \(feat\. 100DEW & 100RAW\)](https://open.spotify.com/track/61dIUJKxCoNG1pQs6WtafZ) | [GENKIZ](https://open.spotify.com/artist/14L2PTvYMqKmSuJEweqZrg), [100DEW](https://open.spotify.com/artist/5PTc9YXGuIEmUxZigDdADK), [100RAW](https://open.spotify.com/artist/4eFHGqSuGoz9TwneHOesC3) | [STAR MODE \(feat\. 100DEW & 100RAW\)](https://open.spotify.com/album/1DhVJbTeHxvI37OVNO7wB4) | 1:57 |
 | 49 | [Moonlight](https://open.spotify.com/track/0WssiQ4l0tiVkeWslWYt1C) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Moonlight](https://open.spotify.com/album/2mazcGoo3AHuIKugiV3Q3V) | 2:06 |

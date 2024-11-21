@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "a letter from home",
+        "url": "https://open.spotify.com/album/6VW7CsHUujqDXqF4N6ApEp"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "a letter from home",
+      "url": "https://open.spotify.com/track/6yQlJCDORFuhLGIYHfJGDL"
+    },
+    {
+      "album": {
         "name": "A Letter to the Moon",
         "url": "https://open.spotify.com/album/2mwh66JWm6qx5yGvQ0ysW6"
       },
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 304417,
       "name": "At Your Best",
       "url": "https://open.spotify.com/track/1kvyA5x85r6gkOqrXW6g1d"
@@ -2621,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "Southern & Enlightened",
+        "url": "https://open.spotify.com/album/6o5yWPGR3o4LsNsEc63dm8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Cummings",
+          "url": "https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291408,
+      "name": "Big Ol' Deer",
+      "url": "https://open.spotify.com/track/7gwETtbG2z1NSP4C00VFNZ"
+    },
+    {
+      "album": {
         "name": "Big Open Sky Flyer",
         "url": "https://open.spotify.com/album/24Qik8HHbQbvCIsuEpWxu4"
       },
@@ -2636,6 +2672,28 @@
       "duration_ms": 320808,
       "name": "Big Open Sky Flyer",
       "url": "https://open.spotify.com/track/5FlLGHaavAIPxvVPEuphiF"
+    },
+    {
+      "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/6pmwjBpzXxoL6LYbwnLTYO"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        },
+        {
+          "name": "buffchick",
+          "url": "https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Big Picture",
+      "url": "https://open.spotify.com/track/5KTbAv7H6sbnGcZAImIzBx"
     },
     {
       "album": {
@@ -3436,7 +3494,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 222708,
       "name": "Bumper Sticker",
       "url": "https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco"
@@ -4106,6 +4164,24 @@
       "duration_ms": 186400,
       "name": "change",
       "url": "https://open.spotify.com/track/0EvDzKDIwY5NkYWxzsOy3P"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5iXBJ0SMOO2Bv5V5oMExTs"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216578,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/04MG5pNkf0sGjORtPHo8dS"
     },
     {
       "album": {
@@ -7884,7 +7960,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 266000,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/6rqLYepc5lcpZxvoSlJIiB"
@@ -8864,6 +8940,24 @@
       "duration_ms": 271421,
       "name": "from here on out",
       "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+    },
+    {
+      "album": {
+        "name": "From Nowhere",
+        "url": "https://open.spotify.com/album/2MhVy3Us4MNPZg8bidrsPV"
+      },
+      "artists": [
+        {
+          "name": "Mo Kenney",
+          "url": "https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "From Nowhere",
+      "url": "https://open.spotify.com/track/2LR8l3p4kITNITh11PgxzD"
     },
     {
       "album": {
@@ -12311,6 +12405,24 @@
     },
     {
       "album": {
+        "name": "In the Haze",
+        "url": "https://open.spotify.com/album/2WzfqnmrYUDbwp6xkJyz0d"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "In the Haze",
+      "url": "https://open.spotify.com/track/129MxO8ztlnNLRtgUALkVu"
+    },
+    {
+      "album": {
         "name": "let them eat grass",
         "url": "https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca"
       },
@@ -12358,7 +12470,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 229023,
       "name": "Incarnations",
       "url": "https://open.spotify.com/track/6tgZESj1bDC7wGHllB1MIF"
@@ -15572,7 +15684,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 201005,
       "name": "Miss Maine",
       "url": "https://open.spotify.com/track/5GOUliqSDh3kQ75qimjjRJ"
@@ -16358,7 +16470,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 131003,
       "name": "Never Arriving",
       "url": "https://open.spotify.com/track/0lxJSpSLiynTr9TvZrsfEj"
@@ -17058,6 +17170,24 @@
       "duration_ms": 234520,
       "name": "O Gone",
       "url": "https://open.spotify.com/track/6O5f0Yl8S3iuuxQYwD1ZlK"
+    },
+    {
+      "album": {
+        "name": "O The Sun",
+        "url": "https://open.spotify.com/album/12fNz8WjNVfz2rmdOdshvY"
+      },
+      "artists": [
+        {
+          "name": "Alice Boyd",
+          "url": "https://open.spotify.com/artist/7nwmqkSphItNiC3Pa8So7r"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118773,
+      "name": "O The Sun",
+      "url": "https://open.spotify.com/track/0edxc446WSeOD1tjkrCuKY"
     },
     {
       "album": {
@@ -17868,7 +17998,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 325250,
       "name": "Palm",
       "url": "https://open.spotify.com/track/3zY8tJEfLhc4iEFRzbAQdT"
@@ -17904,7 +18034,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 161580,
       "name": "paper doll",
       "url": "https://open.spotify.com/track/5O5kgNI28lR2j9E01RUe6W"
@@ -18906,7 +19036,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 204170,
       "name": "Red Cedar",
       "url": "https://open.spotify.com/track/7dIqIfRnRz4HhgbylWPvf5"
@@ -19832,6 +19962,24 @@
       "duration_ms": 272000,
       "name": "Scorpions Don't Live Forever",
       "url": "https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E"
+    },
+    {
+      "album": {
+        "name": "Scrooge",
+        "url": "https://open.spotify.com/album/0nBzqzBYWxfcwMf6TPlEj7"
+      },
+      "artists": [
+        {
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Scrooge",
+      "url": "https://open.spotify.com/track/1StdMBW0isj2kHc7ENiORC"
     },
     {
       "album": {
@@ -23058,7 +23206,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 142718,
       "name": "The Rock",
       "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
@@ -24914,7 +25062,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 176712,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
@@ -25058,7 +25206,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 224346,
       "name": "What Nightmares Are Made Of",
       "url": "https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV"
@@ -25436,7 +25584,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 330687,
       "name": "White Laced Gown",
       "url": "https://open.spotify.com/track/0Htgmc5Y83idiRButmvFdW"

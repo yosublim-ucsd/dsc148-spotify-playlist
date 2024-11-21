@@ -182,6 +182,24 @@
           "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         }
       ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153101,
+      "name": "Dream 1 (before the wind blows it all away) - Pt. 1",
+      "url": "https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -752,6 +770,28 @@
       "duration_ms": 283280,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/5aBpRb8Su6q0aWJiCModUr"
+      },
+      "artists": [
+        {
+          "name": "Christian Badzura",
+          "url": "https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/0v1YUX6yWvRJCoWIYuU1vB"
     },
     {
       "album": {

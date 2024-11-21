@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "Ajj Di Ghadi",
       "url": "https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE"
@@ -3075,6 +3075,24 @@
     },
     {
       "album": {
+        "name": "Jaat Drip",
+        "url": "https://open.spotify.com/album/0WcL9oDVW96gcSJqmWdCpm"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Jaat Drip",
+      "url": "https://open.spotify.com/track/40NK2jX5LKFINVXZc8EWP2"
+    },
+    {
+      "album": {
         "name": "Jaat Hai Ke?",
         "url": "https://open.spotify.com/album/17zPN0SR4GQb2Tg6aE5RiA"
       },
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 184888,
       "name": "Lal Dabbi",
       "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"

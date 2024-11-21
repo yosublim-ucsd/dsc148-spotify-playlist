@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 6573,
+  "num_followers": 6844,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
+      },
+      "artists": [
+        {
+          "name": "Fuzzy Donut",
+          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Cherry Orchards",
+      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Inconspicuous",
         "url": "https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Northern Lights",
-        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf"
       },
       "artists": [
         {
-          "name": "Fuzzy Donut",
-          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
+          "name": "parrow",
+          "url": "https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Cherry Orchards",
-      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
+      "duration_ms": 144230,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -151,22 +167,6 @@
       "duration_ms": 155120,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf"
-      },
-      "artists": [
-        {
-          "name": "parrow",
-          "url": "https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/26GxtM80uLUiS82C069HQm"
-      },
-      "artists": [
-        {
-          "name": "Red Cedar",
-          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
-        }
-      ],
-      "duration_ms": 126428,
-      "name": "First Things First",
-      "url": "https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "thyme moves slow",
         "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Maze",
-        "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/26GxtM80uLUiS82C069HQm"
       },
       "artists": [
         {
-          "name": "Trippy Park",
-          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+          "name": "Red Cedar",
+          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
         }
       ],
-      "duration_ms": 132281,
-      "name": "Maze",
-      "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
+      "duration_ms": 126428,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -263,6 +247,38 @@
       "duration_ms": 142995,
       "name": "Ends",
       "url": "https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Island Bounce",
+        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Island Bounce",
+      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Maze",
+        "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "duration_ms": 132281,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Island Bounce",
-        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
-      },
-      "artists": [
-        {
-          "name": "Hi Hat Henry",
-          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Island Bounce",
-      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Marupe Blues",
         "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "late nights",
-        "url": "https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA"
+        "name": "The Tallest Mountain",
+        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
       },
       "artists": [
         {
-          "name": "Slowday",
-          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+          "name": "Cyber Bloom",
+          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
         }
       ],
-      "duration_ms": 157021,
-      "name": "late nights",
-      "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
+      "duration_ms": 136750,
+      "name": "The Tallest Mountain",
+      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -415,22 +431,6 @@
       "duration_ms": 129037,
       "name": "Ocean Ride",
       "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "The Tallest Mountain",
-        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
-      },
-      "artists": [
-        {
-          "name": "Cyber Bloom",
-          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "The Tallest Mountain",
-      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "slow down time",
-        "url": "https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw"
-      },
-      "artists": [
-        {
-          "name": "yellow sofa",
-          "url": "https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc"
-        }
-      ],
-      "duration_ms": 144193,
-      "name": "slow down time",
-      "url": "https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Long Road Home",
         "url": "https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 133333,
       "name": "Long Road Home",
       "url": "https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "slow down time",
+        "url": "https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw"
+      },
+      "artists": [
+        {
+          "name": "yellow sofa",
+          "url": "https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc"
+        }
+      ],
+      "duration_ms": 144193,
+      "name": "slow down time",
+      "url": "https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u"
-      },
-      "artists": [
-        {
-          "name": "Erwin Do",
-          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
-        },
-        {
-          "name": "Sineg",
-          "url": "https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9"
-        }
-      ],
-      "duration_ms": 105397,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG"
       },
@@ -591,18 +571,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "temporary approved",
-        "url": "https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa"
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u"
       },
       "artists": [
         {
-          "name": "Oroshi",
-          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Sineg",
+          "url": "https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9"
         }
       ],
-      "duration_ms": 120604,
-      "name": "temporary approved",
-      "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"
+      "duration_ms": 105397,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "temporary approved",
+        "url": "https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa"
+      },
+      "artists": [
+        {
+          "name": "Oroshi",
+          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+        }
+      ],
+      "duration_ms": 120604,
+      "name": "temporary approved",
+      "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Worcestershire dreaming",
         "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 126857,
       "name": "Worcestershire dreaming",
       "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
+      },
+      "artists": [
+        {
+          "name": "Berhanio",
+          "url": "https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -655,6 +671,22 @@
       "duration_ms": 103783,
       "name": "lohmar",
       "url": "https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Days to Come",
+        "url": "https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Days to Come",
+      "url": "https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -683,34 +715,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Make It",
-        "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
+        "name": "Drizzle",
+        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
       },
       "artists": [
         {
-          "name": "Berhanio",
-          "url": "https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW"
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
         }
       ],
-      "duration_ms": 118153,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Days to Come",
-        "url": "https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW"
-      },
-      "artists": [
-        {
-          "name": "Mr Argyle",
-          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "Days to Come",
-      "url": "https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F"
+      "duration_ms": 124931,
+      "name": "Drizzle",
+      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -727,22 +743,6 @@
       "duration_ms": 138987,
       "name": "Paper Kites",
       "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Drizzle",
-        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
-      },
-      "artists": [
-        {
-          "name": "Philanthrope",
-          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
-        }
-      ],
-      "duration_ms": 124931,
-      "name": "Drizzle",
-      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "empty beach",
-        "url": "https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx"
-      },
-      "artists": [
-        {
-          "name": "Nitta' Gritta'",
-          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "empty beach",
-      "url": "https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Autumn Briefs",
         "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 145242,
       "name": "Autumn Briefs",
       "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "empty beach",
+        "url": "https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx"
+      },
+      "artists": [
+        {
+          "name": "Nitta' Gritta'",
+          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "empty beach",
+      "url": "https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -987,6 +987,22 @@
       "duration_ms": 152812,
       "name": "nothing to lose",
       "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "rainfall",
+        "url": "https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s"
+      },
+      "artists": [
+        {
+          "name": "Cozy Nordic",
+          "url": "https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "rainfall",
+      "url": "https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "rainfall",
-        "url": "https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s"
-      },
-      "artists": [
-        {
-          "name": "Cozy Nordic",
-          "url": "https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "rainfall",
-      "url": "https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "raphael",
         "url": "https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "mirror maze",
+        "url": "https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp"
+      },
+      "artists": [
+        {
+          "name": "C-90",
+          "url": "https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq"
+        }
+      ],
+      "duration_ms": 148291,
+      "name": "mirror maze",
+      "url": "https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Porcelain Nebula",
         "url": "https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 142516,
       "name": "Occasions",
       "url": "https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "mirror maze",
-        "url": "https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp"
-      },
-      "artists": [
-        {
-          "name": "C-90",
-          "url": "https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq"
-        }
-      ],
-      "duration_ms": 148291,
-      "name": "mirror maze",
-      "url": "https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq"
     },
     {
       "added_at": "2024-11-15 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 74683,
+  "num_followers": 74695,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Bongo Song",
-        "url": "https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u"
-      },
-      "artists": [
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Bongo Song",
-      "url": "https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Bump",
         "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 447000,
       "name": "Bump - Switch Remix",
       "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Bongo Song",
+        "url": "https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u"
+      },
+      "artists": [
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Bongo Song",
+      "url": "https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Mosaik",
-        "url": "https://open.spotify.com/album/5joNe9uuYWY9GjJlpASff2"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
       },
       "artists": [
         {
-          "name": "Siriusmo",
-          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 247826,
-      "name": "Nights Off",
-      "url": "https://open.spotify.com/track/3UubSlnwOhvZQq4lyCzTJG"
+      "duration_ms": 465333,
+      "name": "Paris (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
     }
   ],
   "unique_name": "Bloghouse",

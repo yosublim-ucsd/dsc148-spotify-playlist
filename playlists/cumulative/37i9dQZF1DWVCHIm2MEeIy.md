@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-487 songs - 1 day 18 hr 14 min
+488 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Raaaw](https://open.spotify.com/track/3rURdGhiVS3rcRQM4NPoz4) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Raaaw](https://open.spotify.com/album/5TsjXGjgAS1MTgcxBO9BVp) | 5:00 | 2022-04-15 | 2022-07-29 |
 | [Radio, Radio](https://open.spotify.com/track/0cXWPlmItEo1ZeCruguXir) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr), [Ira Atari](https://open.spotify.com/artist/6xh4CCUrcNmMuODz3OKduD) | [Space House](https://open.spotify.com/album/5pV68287GmXjouIpIygzsN) | 7:09 | 2022-04-15 | 2022-07-26 |
 | [Radix](https://open.spotify.com/track/500IbSzCDw1kwSCQJTI1HO) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S) | [Radix](https://open.spotify.com/album/2iLLecHz1HlmVMCmH5BxFg) | 6:48 | 2022-04-15 | 2022-06-25 |
-| [Rave \- Boris Brejcha Remix](https://open.spotify.com/track/3dKlUv9WhX0M12vQP25KO5) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Rave \(Boris Brejcha Remix\)](https://open.spotify.com/album/5ksBzi3MAsxgCx31HUst6H) | 8:48 | 2024-10-10 |  |
+| [Rave \- Boris Brejcha Remix](https://open.spotify.com/track/3dKlUv9WhX0M12vQP25KO5) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Rave \(Boris Brejcha Remix\)](https://open.spotify.com/album/5ksBzi3MAsxgCx31HUst6H) | 8:48 | 2024-10-10 | 2024-11-21 |
 | [Rave Girl](https://open.spotify.com/track/0Q8O9vyX1X6tajbwXIYiFX) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Rave Girl EP](https://open.spotify.com/album/7aoxgkYsJfy2IdudBGzKjJ) | 7:48 | 2022-04-15 | 2022-07-28 |
 | [Real](https://open.spotify.com/track/6JLm4rcL6xcg7VmndwOj87) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Real](https://open.spotify.com/album/0PumUj5x4eE4XHIQmG8TWQ) | 5:18 | 2022-04-15 | 2022-04-21 |
 | [Reality Love](https://open.spotify.com/track/2UQaBlKigGwrKCr6maft1g) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Universal Motion EP](https://open.spotify.com/album/5fMOvK6TWr7Vbwl2sKAY5B) | 7:06 | 2022-05-20 | 2022-06-09 |
@@ -377,6 +377,7 @@
 | [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 | 2024-09-27 |  |
 | [Save The Rave](https://open.spotify.com/track/0F98k4uhiiQhyCMKojTkFB) | [Lexy & K\-Paul](https://open.spotify.com/artist/5Jpy5UevFNksfrxNyE7tcE) | [Save The Rave](https://open.spotify.com/album/3lejIMtfZWGjcSGSBroPrY) | 6:07 | 2022-05-20 | 2022-06-22 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-24 |  |
+| [Searching](https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [Searching](https://open.spotify.com/album/1wtegba6llZ8I6UeKGyFlY) | 4:07 | 2024-11-18 |  |
 | [Serendipity](https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Serendipity](https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ) | 6:08 | 2022-11-15 | 2022-11-26 |
 | [set me free](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M) | 3:38 | 2024-10-10 |  |
 | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB) | 2:30 | 2024-09-16 |  |

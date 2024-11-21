@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
@@ -4563,6 +4563,28 @@
     },
     {
       "album": {
+        "name": "Dice Freestyle",
+        "url": "https://open.spotify.com/album/5e4TvzQSzgzARBDhEtOblz"
+      },
+      "artists": [
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        },
+        {
+          "name": "OVE",
+          "url": "https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213311,
+      "name": "Dice Freestyle",
+      "url": "https://open.spotify.com/track/0QFChsQnTPB5xe4zGnZFOJ"
+    },
+    {
+      "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
       },
@@ -4604,7 +4626,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 163764,
       "name": "Die Eine",
       "url": "https://open.spotify.com/track/4ushe0EJJOOFveRbXF48RZ"
@@ -7000,7 +7022,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 165850,
       "name": "Geschlossene Augen",
       "url": "https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR"
@@ -8468,6 +8490,36 @@
       "duration_ms": 131764,
       "name": "Hm Hm hm",
       "url": "https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5"
+    },
+    {
+      "album": {
+        "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
+        "url": "https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE"
+      },
+      "artists": [
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "DJ DAVY FELIPE",
+          "url": "https://open.spotify.com/artist/3lcoMONMPxWP4WzYYK403m"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88615,
+      "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
+      "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
     },
     {
       "album": {
@@ -11114,7 +11166,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 164413,
       "name": "lieb dich eigentlich :(",
       "url": "https://open.spotify.com/track/3xkLGMxuILomQ4kFACymnx"
@@ -14190,7 +14242,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/63NQJKiTf57EOHazzq0Oif"
@@ -15394,7 +15446,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 91013,
       "name": "Pro7",
       "url": "https://open.spotify.com/track/1YmHOcjmp69C0bAxYtfhH5"

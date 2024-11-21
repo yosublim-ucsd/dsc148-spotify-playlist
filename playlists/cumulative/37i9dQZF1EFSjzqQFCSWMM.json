@@ -1580,10 +1580,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 138925,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6c1ZoarYrehwUalcmRUsTt"
+      },
+      "artists": [
+        {
+          "name": "Smba",
+          "url": "https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138944,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0TZU7f8kkSpSrTGDQ6tlAx"
     },
     {
       "album": {

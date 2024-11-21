@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\*〜アスタリスク〜](https://open.spotify.com/track/706e7n479uUY8Q46jGAnaA) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [All the Singles](https://open.spotify.com/album/38vsrgcwNmrNgF3fBLsIgh) | 4:17 | 2024-08-19 |  |
 | [again](https://open.spotify.com/track/5Ywyag9zGnY8w11MKIszuP) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/71Qzr6Dzym3jDLB11eSqZk) | 4:14 | 2024-08-19 |  |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-08-19 |  |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-08-19 |  |
@@ -49,5 +48,6 @@
 | [明日もこの世は回るから](https://open.spotify.com/track/3ck36TRBcv022W4h4Cs9S1) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [CULTURE DOG](https://open.spotify.com/album/5a1bxguVm8EXhv8Mo1DePm) | 3:40 | 2024-08-19 |  |
 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-08-19 |  |
 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 | 2024-08-19 |  |
+| [＊〜アスタリスク〜](https://open.spotify.com/track/706e7n479uUY8Q46jGAnaA) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [All the Singles](https://open.spotify.com/album/38vsrgcwNmrNgF3fBLsIgh) | 4:17 | 2024-08-19 |  |
 
 \*This playlist was first scraped on 2024-08-20. Prior content cannot be recovered.

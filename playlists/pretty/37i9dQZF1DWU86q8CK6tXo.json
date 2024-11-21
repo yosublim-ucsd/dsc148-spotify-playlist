@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!",
-  "num_followers": 59753,
+  "num_followers": 59751,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "LEFT EYE",
+        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "LEFT EYE",
+      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 170400,
       "name": "Biking",
       "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "LEFT EYE",
-        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 133234,
-      "name": "LEFT EYE",
-      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "LYIN",
-        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
-      },
-      "artists": [
-        {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "LYIN",
-      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Best I Can",
         "url": "https://open.spotify.com/album/3mfyhjLxQG8uWLom3HG3b6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 183857,
       "name": "Best I Can",
       "url": "https://open.spotify.com/track/2Houj3ox1DpDuOKt9S05iV"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "LYIN",
+        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "LYIN",
+      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
     },
     {
       "added_at": "2024-11-01 04:00:00",

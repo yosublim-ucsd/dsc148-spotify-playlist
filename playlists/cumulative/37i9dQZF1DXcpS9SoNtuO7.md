@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-650 songs - 2 day 9 hr 35 min
+655 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [\#62解禁!!“リスアニ！LIVE 2025” 出し惜しみなし、出演ラインナップ20組・全解説スペシャル！](https://open.spotify.com/episode/0hyIuWlHo6TdlyR6eBL9YI) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 56:57 | 2024-09-18 |  |
 | [\#63 『ドラゴンボールDAIMA』主題歌に決まったスゴい人の話／森口博子からラスマス・フェイバーまで語りつくすアニソン・カバーの世界](https://open.spotify.com/episode/1flCZgE4BDWiRkXhJbrRNB) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 31:18 | 2024-10-08 |  |
 | [\#64 『ダンダダン』屈服せざるを得なかった凄まじさ／サカナクション、新たな代表曲誕生／『らんま1/2』を観て実家に帰りたくなる](https://open.spotify.com/episode/3DO1nHE805NXvU7VCopma3) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 42:47 | 2024-10-23 |  |
+| [\#65 「学マス“初心公演”」の尊さ、「内田真礼VS内田雄馬」の凄みを語りたい／各地に広がるアニソンフェスを応援したい](https://open.spotify.com/episode/7JL6K19mQTrmqDrrnYV2LN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 49:48 | 2024-11-20 |  |
+| [\#66 今こそLiella!のプレゼンがしたい！ ラブライブ！大好きおじさん持ち込み企画、驚愕の熱量で語る愛と考察SP](https://open.spotify.com/episode/6JQy1pcJZ5ryQFU70jczYA) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 57:58 | 2024-11-20 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 |  |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |
@@ -189,6 +191,7 @@
 | [Let Me Be With You](https://open.spotify.com/track/4UBt00S6TNsKwgfxMcfNal) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/1A84EfaPGuBdtLSEG0K0Fz) | 4:29 | 2022-09-27 | 2023-01-28 |
 | [LEVEL5\-judgelight\- \(\-version 2022\-\)](https://open.spotify.com/track/52aKwaRO82uwLTp0IVLbJL) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [double Decades](https://open.spotify.com/album/3x99HmexDuRN1325jOdfwS) | 4:25 | 2023-01-29 | 2023-07-12 |
 | [Limitless](https://open.spotify.com/track/7fDdcq8GVkN1StJsTi1kIE) | [棗いつき](https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t) | [覚醒](https://open.spotify.com/album/3K9bsEB1T0UNSCZYmXwgT5) | 4:10 | 2024-08-28 |  |
+| [LINKs](https://open.spotify.com/track/0qew2O6aoMGAh77V19AdR8) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS Song for Prism 時限式狂騒ワンダーランド / LINKs【ストレイライト盤】](https://open.spotify.com/album/4jE2dC882GMnscJSe8KrMt) | 4:29 | 2024-11-20 |  |
 | [LISTEN!!](https://open.spotify.com/track/4wtZ1QM9c0wJfedtA4jfLt) | [Mikako Komatsu](https://open.spotify.com/artist/4gzfRfkcrQ3Lle7ONpYZJO) | [LISTEN!!](https://open.spotify.com/album/1rtVSl6S2WpZqLfr25ODfI) | 3:35 | 2023-07-26 | 2024-01-24 |
 | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 3:47 | 2022-11-22 | 2023-01-12 |
 | [Loud Hailer](https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM) | 3:48 | 2023-01-27 | 2023-07-12 |
@@ -476,6 +479,7 @@
 | [ヒカリアレ](https://open.spotify.com/track/2KP76NyUIH8XNvWa84lRPi) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [ヒカリアレ](https://open.spotify.com/album/6P3es2NRZNMLV5VcQVT46r) | 4:04 | 2022-06-07 | 2022-06-23 |
 | [ヒカリ証明論](https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 | 2022-06-07 | 2024-07-06 |
 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 | 2023-06-21 | 2024-01-24 |
+| [ビタミンSUMMER！](https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER！ / Chance Day, Chance Way！ \(第6話盤\)](https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF) | 3:29 | 2024-11-20 |  |
 | [ビバナミダ](https://open.spotify.com/track/5TX2HoADxFcAWD1rDz9Ghv) | [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL) | [幸福](https://open.spotify.com/album/2Lr5UgmI5i8IZhBEGNfycT) | 5:34 | 2023-10-11 | 2024-01-24 |
 | [ビーチブレイバー](https://open.spotify.com/track/6rHnoHywkJbqXPZvyU3xeM) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 04](https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ) | 3:55 | 2024-01-28 | 2024-07-06 |
 | [ビードロ模様](https://open.spotify.com/track/4r33Tn9OGS6XNgDA3v0Ais) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ビードロ模様](https://open.spotify.com/album/1KHdG99TKNaU5gMhSWPqqb) | 4:51 | 2022-06-07 | 2022-06-23 |
@@ -548,6 +552,7 @@
 | [太陽キッス](https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school](https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu) | 4:51 | 2024-01-28 | 2024-07-06 |
 | [好きじゃないよ](https://open.spotify.com/track/5BGiDyJcxkeBQONkP1Onh3) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ペタルズ](https://open.spotify.com/album/2SkT0uHQuGEGjwweAt6JMk) | 2:55 | 2022-06-07 | 2022-06-23 |
 | [妄想コントローラー](https://open.spotify.com/track/4G6HSfbcTTGXgjiBZodMgx) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Letters to U](https://open.spotify.com/album/4ATTPvYUUlWFj4f4UDfCXZ) | 4:06 | 2022-06-22 | 2023-01-12 |
+| [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 | 2024-11-20 |  |
 | [学祭革命夜明け前](https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:52 | 2024-01-23 | 2024-01-28 |
 | [宇宙刑事ギャバン \(宇宙刑事ギャバン\)](https://open.spotify.com/track/4pg3vPhv1o9lWufzRZOoaB) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:13 | 2022-07-19 | 2023-01-28 |
 | [宇宙戦艦ヤマト](https://open.spotify.com/track/09pUxhVxAKmf6udCGaztw1) | [ANIMETAL](https://open.spotify.com/artist/1T35Bs8JTxdDOprE4fXf8W) | [DECADE OF BRAVEHEARTS](https://open.spotify.com/album/7nmCNxTqAq7c0YXuJ5Em38) | 4:09 | 2024-10-08 |  |

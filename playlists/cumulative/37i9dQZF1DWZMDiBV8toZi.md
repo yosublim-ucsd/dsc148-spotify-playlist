@@ -2,9 +2,9 @@
 
 ### [A Day in the Studio](https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi)
 
-> Artists recording in Coke Studio at Spotify LA\. Cover: Peggy Gou
+> Artists recording in Coke Studio at Spotify LA\. Cover: Tyla
 
-37 songs - 2 hr 0 min
+38 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Sunn Beliya](https://open.spotify.com/track/3OkCwXuKOcX65UqowgsYcy) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Sunn Beliya](https://open.spotify.com/album/2WeZJHeP3y00c2scV1s17W) | 2:44 | 2024-05-02 |  |
 | [Symphony \- Inner City Youth Orchestra of Los Angeles Version](https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Symphony \(Inner City Youth Orchestra of Los Angeles Version\)](https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4) | 3:08 | 2024-05-02 |  |
 | [Taller than the Trees](https://open.spotify.com/track/22LaJN3GNYXxEUCqZXbV7m) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Taller than the Trees](https://open.spotify.com/album/0Q8lprXZoLotPO7RFcLTNl) | 2:43 | 2024-05-02 |  |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-20 |  |
 | [Tears '06](https://open.spotify.com/track/6yKH9f9cDCLpLuLOUIEW85) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay \(Deluxe\)](https://open.spotify.com/album/2H375PR2qADVz9VE6FrZ79) | 4:38 | 2024-10-08 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2024-05-02 |  |
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2024-05-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 
 > All songs from South Korean survival hip\-hop TV show 'School Rapper\(고등래퍼\)\. Cover: TRADE L \(Season 4 Winner\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,866 likes - 107 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,872 likes - 107 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 | 49 | [Cowboy](https://open.spotify.com/track/53UcPeoFjxe0zR9URUQVLt) | [$IGA A](https://open.spotify.com/artist/748FoG8Fdb63dzoBCuHqRt), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [School Rapper3 Team\-Battle, Pt\. 3](https://open.spotify.com/album/2ep0kOZU9lQeMWhqfmYfsj) | 3:17 |
 | 50 | [how are you](https://open.spotify.com/track/5TIhMCX7XOA6Du8FWC69fG) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [School Rapper3 Team\-Battle, Pt\. 3](https://open.spotify.com/album/2ep0kOZU9lQeMWhqfmYfsj) | 3:41 |
 | 51 | [CAMOUFLAGE](https://open.spotify.com/track/3AkCVQQepf0StlfNCYKyw9) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [BlueWhale](https://open.spotify.com/artist/1106z5vBDKCXowfWQmOLoX), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [School Rapper3 Team\-Battle, Pt\. 3](https://open.spotify.com/album/2ep0kOZU9lQeMWhqfmYfsj) | 4:02 |
-| 52 | [U.F.O](https://open.spotify.com/track/24yxIhLQskhLzw3SsaEJoX) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [School Rapper3 Team\-Battle, Pt\. 3](https://open.spotify.com/album/2ep0kOZU9lQeMWhqfmYfsj) | 3:18 |
+| 52 | [U.F.O](https://open.spotify.com/track/24yxIhLQskhLzw3SsaEJoX) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [UNEDUCATED KID](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [School Rapper3 Team\-Battle, Pt\. 3](https://open.spotify.com/album/2ep0kOZU9lQeMWhqfmYfsj) | 3:18 |
 | 53 | [G.O](https://open.spotify.com/track/6kextfqZcICFWjgti8tEW5) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [School Rapper3 Team\-Battle, Pt\. 3](https://open.spotify.com/album/2ep0kOZU9lQeMWhqfmYfsj) | 4:14 |
 | 54 | [Ggggwung](https://open.spotify.com/track/1oJpjcdVFgaSVnbl7HU8lW) | [ITOWNKID](https://open.spotify.com/artist/5XcL8K9gKWa5XaSMcUyg9m), [Goi](https://open.spotify.com/artist/6Pi9dCw2J8AB5YHIT2MP8t) | [School Rapper3 Team\-Battle, Pt\. 2](https://open.spotify.com/album/7fiXbZzvulgyf0VPVgdRSv) | 3:00 |
 | 55 | [Orange Tree](https://open.spotify.com/track/4mXGecfALMG4Mya6ydSEZj) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [School Rapper3 Team\-Battle, Pt\. 2](https://open.spotify.com/album/7fiXbZzvulgyf0VPVgdRSv) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > introducing sofie royer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,936 likes - 139 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,918 likes - 139 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
-  "num_followers": 13614,
+  "num_followers": 13628,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzwjJAAAAABp386peCxzWocEL0Yzvwhf",
+  "snapshot_id": "Zz1yRAAAAAArUEgRR4uEM2pyexIhUxss",
   "tracks": [
     {
       "added_at": "2024-10-18 04:57:06",
@@ -103,6 +103,26 @@
       "duration_ms": 169186,
       "name": "Yawanaa",
       "url": "https://open.spotify.com/track/7gHhbgeEtaYtpOCov2cV3B"
+    },
+    {
+      "added_at": "2024-11-20 05:23:16",
+      "album": {
+        "name": "Olti Vudu",
+        "url": "https://open.spotify.com/album/7bdLk0h0PNqkBv9KVUPTdo"
+      },
+      "artists": [
+        {
+          "name": "Vetti Payan Venkat",
+          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Olti Vudu",
+      "url": "https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh"
     },
     {
       "added_at": "2024-11-19 05:32:11",
@@ -1479,114 +1499,6 @@
       "duration_ms": 190697,
       "name": "Nenjukulla",
       "url": "https://open.spotify.com/track/3OYjfa7A8EkqUZkEtkwOgJ"
-    },
-    {
-      "added_at": "2024-05-20 08:39:45",
-      "album": {
-        "name": "Adiye",
-        "url": "https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth"
-      },
-      "artists": [
-        {
-          "name": "Stefan Packianathan",
-          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
-        },
-        {
-          "name": "Krishan J",
-          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "Adiye",
-      "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
-    },
-    {
-      "added_at": "2024-05-13 07:13:34",
-      "album": {
-        "name": "LoveBHK",
-        "url": "https://open.spotify.com/album/7Mog9E9w8TZ5iVoVYTAosn"
-      },
-      "artists": [
-        {
-          "name": "Kiran S Shankar",
-          "url": "https://open.spotify.com/artist/0ouznHZynuafFNiXYTnCCt"
-        },
-        {
-          "name": "Aswin Gopakumar",
-          "url": "https://open.spotify.com/artist/2LJyNI2fjaA6hUTlMSGRMo"
-        }
-      ],
-      "duration_ms": 287498,
-      "name": "LoveBHK",
-      "url": "https://open.spotify.com/track/2MfIpKND74ODPk5Y7t94Z1"
-    },
-    {
-      "added_at": "2024-07-27 02:48:58",
-      "album": {
-        "name": "Mudivili",
-        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
-      },
-      "artists": [
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        },
-        {
-          "name": "Ailaah",
-          "url": "https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX"
-        }
-      ],
-      "duration_ms": 228660,
-      "name": "Avasara Kaadhalaa",
-      "url": "https://open.spotify.com/track/7jmumPRevl7t8Kc4YovNtS"
-    },
-    {
-      "added_at": "2024-04-30 11:26:30",
-      "album": {
-        "name": "Kanavondru Kanmunne",
-        "url": "https://open.spotify.com/album/1Znw9BvpfIXyn7OTZdzGiG"
-      },
-      "artists": [
-        {
-          "name": "Rozario",
-          "url": "https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz"
-        },
-        {
-          "name": "Rithvi Ramesh",
-          "url": "https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq"
-        },
-        {
-          "name": "Suraj Vishnu",
-          "url": "https://open.spotify.com/artist/2XmHvywesi5fnKBdo0IRW5"
-        }
-      ],
-      "duration_ms": 195825,
-      "name": "Kanavondru Kanmunne",
-      "url": "https://open.spotify.com/track/40UdAtoDxy5pr8T3WxgJzk"
-    },
-    {
-      "added_at": "2024-04-01 05:41:53",
-      "album": {
-        "name": "Ninaivuakle Ninaivukale",
-        "url": "https://open.spotify.com/album/3RvWEOeRiCIejBCr0fTG9d"
-      },
-      "artists": [
-        {
-          "name": "Ashwathi Hari",
-          "url": "https://open.spotify.com/artist/18Huo8X4RsqJ2WHHA7ha2Y"
-        },
-        {
-          "name": "Sreenivasan Mahadevan",
-          "url": "https://open.spotify.com/artist/2YyxHN6CyhcITIEj7Mwlhd"
-        },
-        {
-          "name": "Anand Menon",
-          "url": "https://open.spotify.com/artist/1lBBbXWJUZJ96siXw7T3OZ"
-        }
-      ],
-      "duration_ms": 272236,
-      "name": "Ninaivuakle Ninaivukale",
-      "url": "https://open.spotify.com/track/1uPQxeisar57nvyqnmCIln"
     }
   ],
   "unique_name": "RADAR Tamil",

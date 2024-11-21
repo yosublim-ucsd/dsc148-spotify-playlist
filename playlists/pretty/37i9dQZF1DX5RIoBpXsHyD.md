@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 
 > Unleash the power of Persona and immerse yourself in the world of this epic RPG series with this\. 『ペルソナ３リロード: Episode Aegis』を含む、ペルソナシリーズの世界に浸れる公式プレイリスト！ⒸATLUS\. ⒸSEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,246 likes - 87 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,330 likes - 87 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 | 59 | [I believe](https://open.spotify.com/track/6mUe0fvy1hvB83H2nklnCf) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:30 |
 | 60 | [Throw Away Your Mask](https://open.spotify.com/track/0l4PLfgj4NNLO864TyEV9R) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:02 |
 | 61 | [僕らの光](https://open.spotify.com/track/67R5GlshGBZ6aY8NIc8BN1) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 7:14 |
-| 62 | [You Are Stronger](https://open.spotify.com/track/5yFztk05d2X1QnlmEBNWot) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:12 |
-| 63 | [Last Surprise \- Scramble](https://open.spotify.com/track/449WY5R7Zf7aJDX3Q929VK) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:07 |
-| 64 | [Daredevil](https://open.spotify.com/track/6xrnAqFmfkFAGzyfRGLiNe) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:55 |
-| 65 | [What you wish for](https://open.spotify.com/track/58KdiEsra1PWfSn1wcNKTv) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 3:00 |
-| 66 | [Axe to Grind](https://open.spotify.com/track/2uorXJpnIKjB2L1JpuLO5L) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 3:14 |
+| 62 | [You Are Stronger](https://open.spotify.com/track/5yFztk05d2X1QnlmEBNWot) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５ スクランブル　ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:12 |
+| 63 | [Last Surprise \- Scramble](https://open.spotify.com/track/449WY5R7Zf7aJDX3Q929VK) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５ スクランブル　ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:07 |
+| 64 | [Daredevil](https://open.spotify.com/track/6xrnAqFmfkFAGzyfRGLiNe) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５ スクランブル　ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:55 |
+| 65 | [What you wish for](https://open.spotify.com/track/58KdiEsra1PWfSn1wcNKTv) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５ スクランブル　ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 3:00 |
+| 66 | [Axe to Grind](https://open.spotify.com/track/2uorXJpnIKjB2L1JpuLO5L) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５ スクランブル　ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 3:14 |
 | 67 | [Revolution in your Heart](https://open.spotify.com/track/3stIdXb3bOBhqyc4b6TR2p) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ５ タクティカ オリジナル・サウンドトラック](https://open.spotify.com/album/4uqbr3RRJ47LoRK5jZlzPS) | 4:16 |
 | 68 | [Beneath the Mask \-Tactica\-](https://open.spotify.com/track/1ZrtIEtc3ezSzTAzLEKq6U) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ５ タクティカ オリジナル・サウンドトラック](https://open.spotify.com/album/4uqbr3RRJ47LoRK5jZlzPS) | 5:04 |
 | 69 | [Got Your Tail](https://open.spotify.com/track/0Eyt0IUWJSBgZxJl8omLUA) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ５ タクティカ オリジナル・サウンドトラック](https://open.spotify.com/album/4uqbr3RRJ47LoRK5jZlzPS) | 5:34 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-864 songs - 2 day 1 hr 13 min
+865 songs - 2 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Warmer](https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Warmer](https://open.spotify.com/album/05PEAJk2RAUtqaAbixRJAG) | 2:51 | 2022-01-11 | 2022-03-19 |
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-07 | 2022-05-20 |
 | [Warriors](https://open.spotify.com/track/1iJpQvWxpYSSVbEx671V6w) | [Glacier](https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL) | [Warriors](https://open.spotify.com/album/6rmqekUXNb6eIXiNlwYCVE) | 4:15 | 2021-11-19 | 2022-02-03 |
+| [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-20 |  |
 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 | 2023-09-21 | 2024-01-11 |
 | [Wastin Time](https://open.spotify.com/track/6hpuWbCqRFYWAxCuYDhMev) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Wastin Time](https://open.spotify.com/album/5XcER4wQ8lYFk72OeLHm8q) | 2:30 | 2023-11-30 | 2024-03-14 |
 | [Water Resistant](https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Water Resistant](https://open.spotify.com/album/2WLfJXC56KZzaTl4JQ0odn) | 3:17 | 2021-11-19 | 2022-02-23 |

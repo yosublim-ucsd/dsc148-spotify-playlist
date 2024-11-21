@@ -1,13 +1,129 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6639,
+  "num_followers": 6638,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AAClyDN5YigP/TjPXDPs6qsYwan7Y4jF",
+  "snapshot_id": "AACl0p6v+XEViefBSO7XcJ39XPLSlQrD",
   "tracks": [
+    {
+      "added_at": "2024-11-20 08:40:32",
+      "album": {
+        "name": "Pamela Anderson",
+        "url": "https://open.spotify.com/album/2LvQWpk1Msym5Nlve48TQ4"
+      },
+      "artists": [
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "duration_ms": 220237,
+      "name": "Pamela Anderson",
+      "url": "https://open.spotify.com/track/7nHlJOS6WLCCdrWnKlKLew"
+    },
+    {
+      "added_at": "2024-11-20 08:59:39",
+      "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
+    {
+      "added_at": "2024-11-20 09:00:54",
+      "album": {
+        "name": "2468",
+        "url": "https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 197688,
+      "name": "2468",
+      "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
+    },
+    {
+      "added_at": "2024-11-20 08:58:43",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7wpaAlxtd65rsAwGct7xMN"
+      },
+      "artists": [
+        {
+          "name": "Edith Frost",
+          "url": "https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0KwnAAMxNMnOFg2PTDiazu"
+    },
+    {
+      "added_at": "2024-11-20 08:58:01",
+      "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg"
+    },
+    {
+      "added_at": "2024-11-20 09:00:30",
+      "album": {
+        "name": "Pride Trials",
+        "url": "https://open.spotify.com/album/6UFltduAEZYKcBqplU2HMk"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Pride Trials",
+      "url": "https://open.spotify.com/track/5zuVohl16pC7vc5AgaQ4TZ"
+    },
+    {
+      "added_at": "2024-11-20 08:59:09",
+      "album": {
+        "name": "Is It Cold In The Water?",
+        "url": "https://open.spotify.com/album/5XxuvaQ1vtCbP921JTvMgJ"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Is It Cold In The Water?",
+      "url": "https://open.spotify.com/track/3KG0YB2FmSuuCSWxlfky7s"
+    },
     {
       "added_at": "2024-11-15 06:06:35",
       "album": {
@@ -461,7 +577,7 @@
         }
       ],
       "duration_ms": 189280,
-      "name": "De Nueva Otra Vez",
+      "name": "De Nuevo Otra Vez",
       "url": "https://open.spotify.com/track/7KrwtWy4YaoAqLbi8FBqM5"
     },
     {

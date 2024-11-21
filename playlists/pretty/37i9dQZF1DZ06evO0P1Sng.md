@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,068 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 42 | [Meio Dia](https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Meio Dia](https://open.spotify.com/album/11CDv8nWVPsvCRNuuP5I2y) | 4:03 |
 | 43 | [VIP](https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VIP](https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv) | 2:10 |
 | 44 | [Tifanny](https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6), [Bgnobeat](https://open.spotify.com/artist/5V6BONZ5wppD3nyZtFtjqp) | [Tifanny](https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643) | 2:40 |
-| 45 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
-| 46 | [Eles Não Ligam Pra Gente](https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eles Não Ligam Pra Gente](https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn) | 6:00 |
-| 47 | [Morango](https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Morango](https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG) | 2:12 |
+| 45 | [Eles Não Ligam Pra Gente](https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eles Não Ligam Pra Gente](https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn) | 6:00 |
+| 46 | [Morango](https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Morango](https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG) | 2:12 |
+| 47 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
 | 48 | [Água de Bala](https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DK Prod](https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq) | [Água de Bala](https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP) | 2:24 |
-| 49 | [Ctrl Z](https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:30 |
-| 50 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
+| 49 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
+| 50 | [Ctrl Z](https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:30 |
 
-Snapshot ID: `ZzqDgAAAAADuP/bEDyktZ2T4odOzJGOa`
+Snapshot ID: `ZzvVAAAAAAD7zA8ASylB0PRr/5qIG/Lb`

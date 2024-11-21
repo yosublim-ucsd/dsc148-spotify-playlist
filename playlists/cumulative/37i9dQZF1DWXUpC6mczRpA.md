@@ -4,7 +4,7 @@
 
 > Stay focused with a little help from Mozart.
 
-113 songs - 13 hr 6 min
+114 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Piano Sonata No\. 10 in C Major, K\. 330: II\. Andante cantabile](https://open.spotify.com/track/4zMRf5RYHmtXBkjfr4WtVX) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Mozart: Piano Sonatas, Vol\. 1 \(Piano Sonatas Nos\. 8, 10 and 15\)](https://open.spotify.com/album/7d0zIKdwD4ugHhLZIRLstn) | 6:19 | 2021-03-12 | 2024-04-19 |
 | [Piano Sonata No\. 10 in C Major, K\. 330: II\. Andante cantabile](https://open.spotify.com/track/2QbYvuEyP6dftFkdWS1i4A) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Easy\-Listening Piano Classics: Mozart](https://open.spotify.com/album/2FohU82m61PsVftG1DHeG9) | 6:23 | 2021-03-12 | 2022-11-13 |
 | [Piano Sonata No\. 11 in A Major, K\. 331: I\. Theme & Variations\. Andante grazioso](https://open.spotify.com/track/7MZYcbKjK8BQafByBYfZCH) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Mozart: Sonatas for Piano](https://open.spotify.com/album/3BwuQAKmuCQEfu2n59lOi7) | 13:48 | 2021-03-12 |  |
+| [Piano Sonata No\. 12 in F Major, K\. 332: I\. Allegro](https://open.spotify.com/track/0z0t5ihTRm0XSZSw8iRZ0T) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: The Piano Sonatas](https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ) | 6:54 | 2024-11-20 |  |
 | [Piano Sonata No\. 12 in F Major, K\. 332: II\. Adagio](https://open.spotify.com/track/0b77MuNAk8GZdm9dm3mIam) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Mozart: Piano Concerto No\. 20, K\. 466; Piano Sonatas, K\. 281 & 332](https://open.spotify.com/album/46WCq8QQ9gzZ4iEWjv2gQw) | 5:05 | 2021-03-12 |  |
 | [Piano Sonata No\. 14 In C Minor, K\. 457: II\. Adagio](https://open.spotify.com/track/0rTKLeDReVbVqBOWUYk7EK) | [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7), [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) | [Mozart: Piano Sonatas Vol\. 5](https://open.spotify.com/album/7MvAjSneu6FXGJox1Fv7El) | 7:47 | 2021-03-12 | 2024-04-19 |
 | [Piano Sonata No\. 14 in C Minor, K\. 457: II\. Adagio](https://open.spotify.com/track/3bsdCPmDMOWliSMB1U0kyT) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Mozart: Piano Sonatas, Vol\. 5 \(Piano Sonatas Nos 2, 13 and 14 \- Fantasia, K\. 475\)](https://open.spotify.com/album/1t6TCJ9GqSSSzHaOBGRLRO) | 7:47 | 2021-03-12 |  |

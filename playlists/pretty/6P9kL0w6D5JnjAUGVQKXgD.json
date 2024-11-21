@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47454,
+  "num_followers": 47453,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHzCSmxueU951XqyH0xAQ9nN5B6x2I",
+  "snapshot_id": "AAAHzaU6raYBrR3GrmszhDUSvH5/FNuM",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1605,34 +1605,6 @@
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
-      "added_at": "2024-07-19 00:44:03",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/4tVWABZzAWQq1ry9ikOmZs"
-      },
-      "artists": [
-        {
-          "name": "Salasnich",
-          "url": "https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2"
-        },
-        {
-          "name": "Mike More",
-          "url": "https://open.spotify.com/artist/0LFar64SzPGHxxR8ivxhvQ"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Nito-Onna",
-          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4NSlW2vJpgSxHZ8vh50pK1"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Know Your Worth",
@@ -1979,6 +1951,34 @@
       "duration_ms": 176428,
       "name": "Turn Up This Song",
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
+    },
+    {
+      "added_at": "2024-07-19 00:44:03",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/4tVWABZzAWQq1ry9ikOmZs"
+      },
+      "artists": [
+        {
+          "name": "Salasnich",
+          "url": "https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2"
+        },
+        {
+          "name": "Mike More",
+          "url": "https://open.spotify.com/artist/0LFar64SzPGHxxR8ivxhvQ"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4NSlW2vJpgSxHZ8vh50pK1"
     },
     {
       "added_at": "2024-11-01 00:41:04",

@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Lil Noid",
+          "url": "https://open.spotify.com/artist/7gl9WTEz70flJtHlSSnR0S"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205278,
+      "name": "Candy and Her Friends (feat. Lil Noid)",
+      "url": "https://open.spotify.com/track/6tQlRlfZTOwXR55T43eZ4g"
+    },
+    {
+      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -330,6 +352,24 @@
       "duration_ms": 203773,
       "name": "Everlasting Light",
       "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
+    },
+    {
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "Every Time You Leave",
+      "url": "https://open.spotify.com/track/4XMz6QU2koOZY4RflWCT99"
     },
     {
       "album": {
@@ -856,7 +896,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 228533,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
@@ -968,6 +1008,24 @@
       "duration_ms": 143588,
       "name": "Live Till I Die",
       "url": "https://open.spotify.com/track/2KpZR7pwzvyujYPb668LD4"
+    },
+    {
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143588,
+      "name": "Live Till I Die",
+      "url": "https://open.spotify.com/track/4Cq26iV1NDhckZgVwplEbx"
     },
     {
       "album": {
@@ -1202,7 +1260,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 257532,
       "name": "No Lovin\u2019",
       "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
@@ -1692,7 +1750,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 300611,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
@@ -1710,7 +1768,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 228373,
       "name": "Thickfreakness",
       "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
@@ -1966,6 +2024,24 @@
       "duration_ms": 165252,
       "name": "You'll Pay",
       "url": "https://open.spotify.com/track/0At3olUnhR29VyL0eXBkQP"
+    },
+    {
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165252,
+      "name": "You'll Pay",
+      "url": "https://open.spotify.com/track/0lyfI7eXg8k3Hu9hfl0Z2I"
     },
     {
       "album": {

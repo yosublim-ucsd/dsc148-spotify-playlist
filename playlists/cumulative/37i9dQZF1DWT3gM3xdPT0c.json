@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Brings Understanding",
+        "url": "https://open.spotify.com/album/4hhL3bnXIIvmb3iDLVC9d1"
+      },
+      "artists": [
+        {
+          "name": "Zinning",
+          "url": "https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134411,
+      "name": "Brings Understanding",
+      "url": "https://open.spotify.com/track/0gUofFMk3CEUZ71Iq8lszw"
+    },
+    {
+      "album": {
         "name": "Broader Perspective",
         "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
       },
@@ -1406,6 +1424,24 @@
       "duration_ms": 149074,
       "name": "Dandelion wishes",
       "url": "https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4"
+    },
+    {
+      "album": {
+        "name": "Deeply Hidden",
+        "url": "https://open.spotify.com/album/5GJu1B3anUhQ2f8o0jB1AE"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164581,
+      "name": "Deeply Hidden",
+      "url": "https://open.spotify.com/track/2MpBCkBR5ZbDwCzTJeYFbt"
     },
     {
       "album": {
@@ -5342,6 +5378,24 @@
       "duration_ms": 159453,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/3Q3cJemxjTRoQmtyn6EXA8"
+    },
+    {
+      "album": {
+        "name": "Sun Waves",
+        "url": "https://open.spotify.com/album/186RycBnLS6vwy9Io1fsFY"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen",
+          "url": "https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Sun Waves",
+      "url": "https://open.spotify.com/track/2DTFW9FNwqG8yFaq1g6lzd"
     },
     {
       "album": {

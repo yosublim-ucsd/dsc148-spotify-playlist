@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain]
 
 > A warrior knows when it&\#x27;s their time\. Might as well put on a show.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 8 songs - 21 min 6 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 9 songs - 25 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,5 +16,6 @@ pretty - [cumulative](/playlists/cumulative/1PUscxdHPJrtEo7OzV1rPx.md) - [plain]
 | 6 | [Jenny III](https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:26 |
 | 7 | [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 |
 | 8 | [The Ballad of Bull Ramos](https://open.spotify.com/track/491XVMCXT51FiwxXkGHJkY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 2:53 |
+| 9 | [Shelved](https://open.spotify.com/track/3ImifXwRr0kej9hlD67O3q) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths](https://open.spotify.com/album/6VTTkMIKHhmFsZkKXsvS5I) | 4:01 |
 
-Snapshot ID: `AAAADLX/FmtygzYnQFVsX6aHZ9nRpnSW`
+Snapshot ID: `AAAADSNVoUwOGMa15pr4cF5Nf+GD0Zu/`

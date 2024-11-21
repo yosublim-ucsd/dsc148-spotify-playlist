@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k?si=zsG4AiBaTyWV4-BZYzNchg\">We Kill Cowboys</a>",
-  "num_followers": 20887,
+  "num_followers": 20903,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -349,20 +349,20 @@
       "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
     },
     {
-      "added_at": "2024-10-25 09:16:00",
+      "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Even If",
-        "url": "https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62"
+        "name": "Revolusie, Romantiek, Ruk en Rol",
+        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
       },
       "artists": [
         {
-          "name": "Zondagkraal",
-          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
         }
       ],
-      "duration_ms": 138727,
-      "name": "Even If",
-      "url": "https://open.spotify.com/track/3hafu7svrimt7vpensLKie"
+      "duration_ms": 175866,
+      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
+      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2024-11-14 22:00:00",
@@ -381,20 +381,20 @@
       "url": "https://open.spotify.com/track/0dy8BVnoUkRROD0jBFWJHI"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-10-25 09:16:00",
       "album": {
-        "name": "Revolusie, Romantiek, Ruk en Rol",
-        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+        "name": "Even If",
+        "url": "https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62"
       },
       "artists": [
         {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
-      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
+      "duration_ms": 138727,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/3hafu7svrimt7vpensLKie"
     },
     {
       "added_at": "2024-10-18 06:11:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-25 09:16:00",
       "album": {
-        "name": "Oliver Tambo",
-        "url": "https://open.spotify.com/album/57MRp3TE28E55l9VtnlBmW"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 168352,
-      "name": "Oliver Tambo",
-      "url": "https://open.spotify.com/track/4c9ADuZ16t4rkPJCakRxLz"
-    },
-    {
-      "added_at": "2024-10-25 09:16:00",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 228434,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U"
+    },
+    {
+      "added_at": "2024-10-25 09:16:00",
+      "album": {
+        "name": "Oliver Tambo",
+        "url": "https://open.spotify.com/album/57MRp3TE28E55l9VtnlBmW"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 168352,
+      "name": "Oliver Tambo",
+      "url": "https://open.spotify.com/track/4c9ADuZ16t4rkPJCakRxLz"
     },
     {
       "added_at": "2024-07-28 19:12:15",

@@ -5853,6 +5853,28 @@
     },
     {
       "album": {
+        "name": "NEHRUVIANDOOM (REDUX)",
+        "url": "https://open.spotify.com/album/5XrsB0YjsgEftjA9etarsL"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Bishop Nehru",
+          "url": "https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "Mean the Most - Edit",
+      "url": "https://open.spotify.com/track/1ARDct8fIzTX7AEwyjgTEF"
+    },
+    {
+      "album": {
         "name": "Melhor Vers\u00e3o",
         "url": "https://open.spotify.com/album/7IMQeFgTaBlrTzbo26TL2E"
       },
@@ -7768,7 +7790,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 161749,
       "name": "P\u00e9zin Na Rua - Ao Vivo No Rio De Janeiro / 2019",
       "url": "https://open.spotify.com/track/75qv4qnNhOyZXzq2fHBjdI"

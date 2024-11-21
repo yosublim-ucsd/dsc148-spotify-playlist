@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,037 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,054 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Candy](https://open.spotify.com/track/6TdE2qJLF6WVjmSI9tejG2) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [miss\. G](https://open.spotify.com/album/3IpAH8JSFF2SXz8YcolB0a) | 4:41 |
 | 2 | [接吻 \- Single Version](https://open.spotify.com/track/4xFN8vjN4QSZ9EtMQjplpc) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 5:01 |
-| 3 | [まわれ まわれ](https://open.spotify.com/track/1lZbxQcKkq7LPyWdzZUhkS) | [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ささやかれた夢の話](https://open.spotify.com/album/4vvaXPl77ekeetmDhltVOr) | 4:57 |
+| 3 | [まわれ　まわれ](https://open.spotify.com/track/1lZbxQcKkq7LPyWdzZUhkS) | [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ささやかれた夢の話](https://open.spotify.com/album/4vvaXPl77ekeetmDhltVOr) | 4:57 |
 | 4 | [Sweet Love](https://open.spotify.com/track/5WTCHYg9G27e9e5HFKGdd1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [THE BEST SONGS OF JUNKO OHASHI](https://open.spotify.com/album/10BIzys0QO4l9UQGay0iRI) | 4:49 |
 | 5 | [MIND CIRCUS](https://open.spotify.com/track/0gqTHvXLAkAKimqY7E4ngQ) | [Miki Nakatani](https://open.spotify.com/artist/0lQqccMaSieqmC4KN96fgs) | [食物連鎖](https://open.spotify.com/album/0rAypOqCpgSzKzuNRfVsux) | 5:16 |
 | 6 | [私達を信じていて](https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 5:52 |

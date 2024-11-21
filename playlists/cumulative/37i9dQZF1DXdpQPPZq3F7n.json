@@ -264,6 +264,10 @@
       },
       "artists": [
         {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
@@ -422,6 +426,32 @@
       "duration_ms": 184666,
       "name": "Bandeya - From \"Dil Juunglee\"",
       "url": "https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa 3",
+        "url": "https://open.spotify.com/album/2DNzidacofd4SvmOyj620R"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199181,
+      "name": "Beiraada",
+      "url": "https://open.spotify.com/track/5k82jcjY4iRV9SoYbNfLmY"
     },
     {
       "album": {
@@ -678,7 +708,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 274354,
       "name": "Darasal",
       "url": "https://open.spotify.com/track/3OZLwCFeWOCFHTlIIrwzmO"
@@ -2471,6 +2501,36 @@
     },
     {
       "album": {
+        "name": "Do Patti",
+        "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Maiyya",
+      "url": "https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp"
+    },
+    {
+      "album": {
         "name": "Jersey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC"
       },
@@ -3887,6 +3947,32 @@
     },
     {
       "album": {
+        "name": "Kedarnath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341823,
+      "name": "Qaafirana",
+      "url": "https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff"
+    },
+    {
+      "album": {
         "name": "Kedarnath",
         "url": "https://open.spotify.com/album/7lF34sP6HtRAL7VEMvYHff"
       },
@@ -3906,28 +3992,6 @@
       "duration_ms": 341823,
       "name": "Qaafirana",
       "url": "https://open.spotify.com/track/0xkGTPTijMU84dtHr3KQQi"
-    },
-    {
-      "album": {
-        "name": "Kedarnath (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "date_added": "2023-12-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 341823,
-      "name": "Qaafirana",
-      "url": "https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff"
     },
     {
       "album": {
@@ -4598,6 +4662,10 @@
       },
       "artists": [
         {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
           "name": "Chinmayi",
           "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
         },
@@ -5130,7 +5198,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 333922,
       "name": "Tu Hai Ki Nahi",
       "url": "https://open.spotify.com/track/4brSaQIT3bnnE41D042fgL"

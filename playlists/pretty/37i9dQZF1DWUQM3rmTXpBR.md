@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Malket
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,521 likes - 89 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,556 likes - 89 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

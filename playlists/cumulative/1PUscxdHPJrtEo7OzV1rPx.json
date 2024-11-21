@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Goths",
+        "url": "https://open.spotify.com/album/6VTTkMIKHhmFsZkKXsvS5I"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241053,
+      "name": "Shelved",
+      "url": "https://open.spotify.com/track/3ImifXwRr0kej9hlD67O3q"
+    },
+    {
+      "album": {
         "name": "Transcendental Youth",
         "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 17248,
+  "num_followers": 17250,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALrkCeXtRMvTCx3FiQesm10eqD/gZA",
+  "snapshot_id": "AAALsWg68aZe+BLB56rySaPOf4lPRRbX",
   "tracks": [
     {
       "added_at": "2024-11-02 09:39:57",
@@ -6748,22 +6748,6 @@
           "url": "https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb"
         }
       ],
-      "duration_ms": 169537,
-      "name": "Are You Ready?",
-      "url": "https://open.spotify.com/track/0f6mkOsTAsAdjZEca7uNed"
-    },
-    {
-      "added_at": "2023-10-25 08:54:21",
-      "album": {
-        "name": "So Sweet So Nice",
-        "url": "https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy"
-      },
-      "artists": [
-        {
-          "name": "John Moods",
-          "url": "https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb"
-        }
-      ],
       "duration_ms": 253491,
       "name": "Sensitive One",
       "url": "https://open.spotify.com/track/6taXwxkEViUzO3dZaN0hDT"
@@ -9403,6 +9387,38 @@
       "duration_ms": 250133,
       "name": "Syncro",
       "url": "https://open.spotify.com/track/0ZK74IJO10o8XzZBz22UPV"
+    },
+    {
+      "added_at": "2024-11-20 16:31:22",
+      "album": {
+        "name": "In the Morning",
+        "url": "https://open.spotify.com/album/7BcMxIC3XZxVLeb0Kukbwu"
+      },
+      "artists": [
+        {
+          "name": "Santa Selva",
+          "url": "https://open.spotify.com/artist/4LmaLtD3YAabZIacEIa3MG"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/7kIN2qFcq01enQVZv2bKKF"
+    },
+    {
+      "added_at": "2024-11-20 16:31:45",
+      "album": {
+        "name": "Is It Easy",
+        "url": "https://open.spotify.com/album/5zrGQDYD3KBJx8xE5xrxtz"
+      },
+      "artists": [
+        {
+          "name": "Echo Frame",
+          "url": "https://open.spotify.com/artist/0GmTtKJyLs8HQitzFWXlOi"
+        }
+      ],
+      "duration_ms": 205632,
+      "name": "Is It Easy",
+      "url": "https://open.spotify.com/track/4SrQ3ckBtE3lbnu2Y1HWXP"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

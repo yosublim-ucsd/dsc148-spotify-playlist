@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,723 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,722 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 4 | [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 |
 | 5 | [upside down](https://open.spotify.com/track/6zQ0c4YaJefSGSKeF9iESF) | [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [upside down](https://open.spotify.com/album/6EKbr6r3Xl6LbXMla63wgr) | 2:13 |
 | 6 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
-| 7 | [ピアノ・ソナタ第12番 ヘ長調 K.332\(300k\) 第2楽章 アダージョ](https://open.spotify.com/track/1NszhP8H7EpgbLcV4OtK5A) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Ikuyo Nakamichi](https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd) | [モーツァルト:ピアノ・ソナタ全集](https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL) | 4:34 |
+| 7 | [ピアノ・ソナタ第12番 ヘ長調 K.332\(300k\)　第2楽章　アダージョ](https://open.spotify.com/track/1NszhP8H7EpgbLcV4OtK5A) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Ikuyo Nakamichi](https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd) | [モーツァルト：ピアノ・ソナタ全集](https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL) | 4:34 |
 | 8 | [24の前奏曲 作品28　第15番変ニ長調「雨だれ」](https://open.spotify.com/track/4SYtaQjXT3Wyw2mIBU6FF6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [映画「蜜蜂と遠雷」 ～ 河村尚子 plays 栄伝亜夜](https://open.spotify.com/album/6vlTbjLLiXsgdyShPe1IFb) | 5:37 |
 | 9 | [Chair](https://open.spotify.com/track/3lJdgFLbcFKLYWWBMCGjES) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Chair](https://open.spotify.com/album/3vbaSNyRCbwEi2kP6PxZo9) | 4:48 |
 | 10 | [Préludes / Book 1, L.117: 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 |

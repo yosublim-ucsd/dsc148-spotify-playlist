@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Whether a vampire’s bite or a bump in the night, grab your best ghouls and set the Halloween vibes anime style!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,126 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,264 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 | 30 | [ひぐらしのなく頃に](https://open.spotify.com/track/6uOkZYxlUppkstU3PlS148) | [Eiko Shimamiya](https://open.spotify.com/artist/6kfYlGEez4g2EsdjKu9YpJ) | [O](https://open.spotify.com/album/6NuVt3KdqonxDkZe0XrHLZ) | 4:25 |
 | 31 | [好き好き大好き \- 2016 Remaster](https://open.spotify.com/track/6x1TTTokRumrQK4qqZONtG) | [Jun Togawa](https://open.spotify.com/artist/6fI3ZQseiBwzjXLSVuJGEI) | [好き好き大好き](https://open.spotify.com/album/0JEAzf6Ss4CZs4ZhKR79np) | 3:34 |
 | 32 | [「見えないからね!?」](https://open.spotify.com/track/5NAvOzBiEqv8bZMcAt37yP) | [四谷みこ\(CV:雨宮 天\)](https://open.spotify.com/artist/53y8LruFOofZwCNqDnxjYG) | [TVアニメ「見える子ちゃん」メインテーマCD](https://open.spotify.com/album/5gaMci4Lkm0hxIAJUem34g) | 3:21 |
-| 33 | [MAN HUMAN\(DEVILMAN crybaby Ver.\)](https://open.spotify.com/track/1WXdpAzM6dRwPlpbcjQEG3) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [MAN HUMAN](https://open.spotify.com/album/7s0M6PJiYoL4SiYKw7AKpU) | 4:15 |
+| 33 | [MAN HUMAN（DEVILMAN crybaby Ver.）](https://open.spotify.com/track/1WXdpAzM6dRwPlpbcjQEG3) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [MAN HUMAN](https://open.spotify.com/album/7s0M6PJiYoL4SiYKw7AKpU) | 4:15 |
 | 34 | [Bloodthirsty](https://open.spotify.com/track/35c6yjrzRxrVDZQMpzQKXI) | [Nao Sato](https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2vk75ceKng4mZYzoQKqiIb) | 2:16 |
 | 35 | [on the precipice of defeat](https://open.spotify.com/track/32SYEk2ksN8iQtz50AtHYj) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:57 |
 | 36 | [星の綺麗な夜](https://open.spotify.com/track/2PH4WifAFF84aCxj7vlxip) | [Sound Horizon](https://open.spotify.com/artist/3QS5fal3V4CkbuDgsmpL7q) | [ハロウィンと夜の物語](https://open.spotify.com/album/0z9jfABWUL2s19qLhjr4W1) | 10:33 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 | 43 | [Punchline Halloween!!!](https://open.spotify.com/track/7bZO8aaCdU6bQ67NqqW2yX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Punchline Halloween!!!](https://open.spotify.com/album/3tLAWvDGh1cKOyrXZFy2GN) | 3:54 |
 | 44 | [ふ・れ・ん・ど・し・た・い](https://open.spotify.com/track/5YnXSJsYpocKM8ehlvyiQG) | [学園生活部](https://open.spotify.com/artist/4sIU4N9mysa6f5FwG2W3qT) | [ふ・れ・ん・ど・し・た・い](https://open.spotify.com/album/6xVCgRFxF5RryNxPQKGgJr) | 3:38 |
 | 45 | [Liar Mask](https://open.spotify.com/track/17gqkmWPppwlxIZLxTWzVy) | [真山りか](https://open.spotify.com/artist/78hBJsHMdvLJNcUY2Y2kxs) | [Liar Mask](https://open.spotify.com/album/4KAGO5gZrdQaqYI0RY0uDi) | 4:53 |
-| 46 | [trick or treat!](https://open.spotify.com/track/5JLJ5pi3wMlCCxsxVgoRvb) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [happy endings](https://open.spotify.com/album/36Kxqw8OD6v9u0gGFrxTOR) | 4:36 |
+| 46 | [trick or treat！](https://open.spotify.com/track/5JLJ5pi3wMlCCxsxVgoRvb) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [happy endings](https://open.spotify.com/album/36Kxqw8OD6v9u0gGFrxTOR) | 4:36 |
 | 47 | [Sharin'　Miracle](https://open.spotify.com/track/2QparwZWMVEda1wGcpHVkZ) | [パンプルル姫\(CV:花澤香菜\)](https://open.spotify.com/artist/2o2IVtNJVyU2JrJhGCZYcl) | [映画「Ｇｏ！プリンセスプリキュア　Go！Go！！豪華３本立て！！！」パンプキン王国のたからもの挿入歌：「Sharin’ Miracle」／プリキュアとレフィのワンダーナイト！挿入歌：「Happy Happening♪」](https://open.spotify.com/album/2nzuKLZNJNcgO8YNHj4fko) | 4:51 |
 | 48 | [Melty Halloween](https://open.spotify.com/track/0VWHVbkHUR8per23OAGceY) | [岡本信彦](https://open.spotify.com/artist/4LnBMr1Dx4lzwe4txArNCR) | [Melty Halloween](https://open.spotify.com/album/57PZxv5n6Gj6TfmSI1Eitn) | 4:02 |
 | 49 | [ノルニル \(RADIO ONSEN EUTOPIA\)](https://open.spotify.com/track/0eVdU7En1aeRq70PtWJ83a) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [RADIO ONSEN EUTOPIA](https://open.spotify.com/album/3txAqR7xThb5LKKu8kGQrw) | 7:07 |

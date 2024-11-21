@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,851 likes - 624 songs - 1 day 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,880 likes - 624 songs - 1 day 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 26 | [Voy a Olvidarme de Mí \(feat\. Bomba Estéreo\)](https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Voy a Olvidarme de Mí \(feat\. Bomba Estéreo\)](https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2) | 2:52 |
 | 27 | [Amor de Mis Ojos](https://open.spotify.com/track/058nrgDLWDN2MDnNal7naJ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:17 |
 | 28 | [Vivir](https://open.spotify.com/track/7hk2fYVOXLhm6tuq1iVh2P) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 2:58 |
-| 29 | [Quien Me Entiende](https://open.spotify.com/track/0WCYYO1ca10j1e5GQUoX2f) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Cuentas Pendientes](https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE) | 4:00 |
+| 29 | [Quién Me Entiende](https://open.spotify.com/track/0WCYYO1ca10j1e5GQUoX2f) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Cuentas Pendientes](https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE) | 4:00 |
 | 30 | [Hay Fuegos](https://open.spotify.com/track/0lGbazuTGhsYQAbkg4F1OO) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Cuentas Pendientes](https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE) | 3:30 |
 | 31 | [Cuando Seas Grande](https://open.spotify.com/track/1AckJPvydkLsfsOoCwVrjY) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Cuentas Pendientes](https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE) | 1:57 |
 | 32 | [CABLES CRUZADOS](https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 2:51 |

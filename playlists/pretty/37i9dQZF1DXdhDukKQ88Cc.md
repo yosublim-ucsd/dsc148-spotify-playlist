@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap og den vibe 💎 <a href="spotify:artist:5Eb9Tyd8uGdju7tI8FPQXr">Zuloo</a> 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,463 likes - 56 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,473 likes - 56 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

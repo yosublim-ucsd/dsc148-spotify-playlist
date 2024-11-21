@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,727 likes - 264 songs - 21 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,737 likes - 264 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 174 | [Big Blues](https://open.spotify.com/track/1i3dBiG2khueQ72ZVp51ke) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Big Blues](https://open.spotify.com/album/3lE6R0vxIj34meHdTFBWTu) | 2:19 |
 | 175 | [2007](https://open.spotify.com/track/5Qmy89XJap9wMfEZu3Mwg0) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [2007](https://open.spotify.com/album/2XOGsUkrk5gaMcflEdLq9J) | 4:28 |
 | 176 | [Summer Night in Harlem](https://open.spotify.com/track/6MtsjHqPCheY2TgVJmvVxw) | [The Fantasy](https://open.spotify.com/artist/11bKdhdaE9OZjDtaRDCOef) | [Secret Mixes Fixes Vol\. 14](https://open.spotify.com/album/5y209JmqXjXoUGmdaDqCBU) | 6:16 |
-| 177 | [You Always Hurt the One You Love](https://open.spotify.com/track/2HPAOcHVqZX3OsrgybwU0N) | [Laura Michele](https://open.spotify.com/artist/1IkA0eKvX4Cj58SmmrB7iE) | [America Dream Reserve](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 5:35 |
+| 177 | [You Always Hurt the One You Love](https://open.spotify.com/track/2HPAOcHVqZX3OsrgybwU0N) | [Laura Michele](https://open.spotify.com/artist/1IkA0eKvX4Cj58SmmrB7iE) | [America Dream Reserve \(Compiled by Charles Bals and Smiling C\)](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 5:35 |
 | 178 | [Fantango](https://open.spotify.com/track/7qo1SVGPYmkt5eYJSNaqEP) | [XWaves](https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ) | [Vaporwave for China](https://open.spotify.com/album/06kDgbR2zJasMj6kuRyNRS) | 3:40 |
 | 179 | [Sweetest Taboo \(Soca\)](https://open.spotify.com/track/2tb1nqo8CeLDXoQADJpTmm) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A) | [Sweetest Taboo \(Soca\)](https://open.spotify.com/album/6UKodITGM5epbA6rUWPU0r) | 6:45 |
 | 180 | [Do I Do \- Short Version](https://open.spotify.com/track/7hddYeuOSoFJVDtOqU1FHv) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/2kmtLFGAt1wdfxybQ96Jp8) | 4:04 |

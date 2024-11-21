@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G?si=rM\-9M\-\_LRumV7XBWJ\-50Ig">Saràh Phenom</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe?si=F\-Y4\-qc5QiiG2aMKGJDs2g">Ugaboys</a>\. Artwork: Isu Kim.
 
-1,148 songs - 2 day 9 hr 33 min
+1,149 songs - 2 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Ecstasy](https://open.spotify.com/track/4ny37TMReXtTuAe4LHGLaS) | [O’Rhymz](https://open.spotify.com/artist/5HH8MqsWUbNqfXCLbQz5bm) | [Ecstasy](https://open.spotify.com/album/1T70MQJjt2zrS17htJ7WtX) | 3:10 | 2023-02-22 | 2023-03-30 |
 | [Eehu](https://open.spotify.com/track/2Nx1CuCfl2snZtHq9sREn8) | [Sammy Black](https://open.spotify.com/artist/7aQea8Ein0nhNWLm8oa5d5), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Eehu](https://open.spotify.com/album/0dpHILIFMtDm9VUP8rY4OF) | 3:08 | 2023-03-05 | 2023-03-10 |
 | [Egomania](https://open.spotify.com/track/6iEdNGb2vl8IMy7OUcPhEg) | [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Egomania](https://open.spotify.com/album/66C8dZd7FQzC2RTE8GY1Pi) | 3:46 | 2024-06-04 | 2024-07-03 |
+| [Ekhoneni](https://open.spotify.com/track/1kaz9V1xMm7TB4LtOTxmIq) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [So Much Love](https://open.spotify.com/album/7u102rYCYvzq06KbWGF2oh) | 4:41 | 2024-11-20 |  |
 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2023-03-05 | 2023-03-10 |
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4EtGe6B8EF4QeSK3m8nNNg), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-22 | 2023-03-30 |
 | [Eleyele](https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Eleyele](https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT) | 2:08 | 2023-06-27 | 2024-02-07 |

@@ -1433,6 +1433,32 @@
     },
     {
       "album": {
+        "name": "HubB - Song Of Love",
+        "url": "https://open.spotify.com/album/1irZV7ojma8ojEwuUgJSb0"
+      },
+      "artists": [
+        {
+          "name": "Haseeb Razak",
+          "url": "https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8"
+        },
+        {
+          "name": "Huda Basheer",
+          "url": "https://open.spotify.com/artist/3nVXXoviGSsNkUZohVgkRS"
+        },
+        {
+          "name": "Ajmal Mampad",
+          "url": "https://open.spotify.com/artist/0Wtf4vdZQ2lPtE4YUUh2iy"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263774,
+      "name": "HubB - Song Of Love",
+      "url": "https://open.spotify.com/track/7HrXLVWZCEEscNlx57xsLF"
+    },
+    {
+      "album": {
         "name": "Hymns Of Shiva",
         "url": "https://open.spotify.com/album/18ln7n5xBhxkxBUSye5TeE"
       },

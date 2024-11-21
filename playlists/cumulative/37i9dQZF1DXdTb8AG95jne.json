@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: KIM A REUM(\uae40\uc544\ub984)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Damons\byear(\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 184800,
       "name": "101(Home Home)",
       "url": "https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0"
+    },
+    {
+      "album": {
+        "name": "14551",
+        "url": "https://open.spotify.com/album/2q0oMA64W0M58swynXTNWe"
+      },
+      "artists": [
+        {
+          "name": "dogyu",
+          "url": "https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N"
+        },
+        {
+          "name": "\uc774\ud55c\uc6b8",
+          "url": "https://open.spotify.com/artist/3GpsldJn4oynTvoAPnzCWG"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "14551",
+      "url": "https://open.spotify.com/track/7MiGI1BmyQWhd0blrrTTxO"
     },
     {
       "album": {
@@ -496,7 +518,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 215760,
       "name": "A Letter",
       "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
@@ -1669,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Broken camper",
+        "url": "https://open.spotify.com/album/4MDrfI6KLD88dZceoqJi7D"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Broken camper",
+      "url": "https://open.spotify.com/track/4k2erZIXJTbRnYXQ3dpmAk"
+    },
+    {
+      "album": {
         "name": "Bruised Cloud",
         "url": "https://open.spotify.com/album/3gUHZCAPR0m2vogn5cmZVm"
       },
@@ -1716,7 +1756,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 198000,
       "name": "BURN",
       "url": "https://open.spotify.com/track/6lhkk6BanA5aIc7FMIu8kN"
@@ -2254,7 +2294,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
@@ -2370,6 +2410,24 @@
       "duration_ms": 196112,
       "name": "Cream Dream",
       "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+    },
+    {
+      "album": {
+        "name": "Cry For Me",
+        "url": "https://open.spotify.com/album/0lN99kXjTbq6mUgmT2Agnr"
+      },
+      "artists": [
+        {
+          "name": "jaegyeong Lee",
+          "url": "https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200171,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/2y1SIAGlhU7qgwaYJ3nHP4"
     },
     {
       "album": {
@@ -3202,7 +3260,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 168036,
       "name": "Dwaeji Gukbap",
       "url": "https://open.spotify.com/track/4BjcOOlE57CRTGwOPMHJLc"
@@ -3766,6 +3824,24 @@
       "duration_ms": 241000,
       "name": "FALL",
       "url": "https://open.spotify.com/track/6vUrSRRrSAcTUZMbGyds1C"
+    },
+    {
+      "album": {
+        "name": "on and on",
+        "url": "https://open.spotify.com/album/1zaYXYzPbFzUrQHl7APGZY"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135374,
+      "name": "fall apart",
+      "url": "https://open.spotify.com/track/4jAVpxfvPYN09k2uzax9DS"
     },
     {
       "album": {
@@ -4902,7 +4978,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 231000,
       "name": "H O M E",
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
@@ -5666,7 +5742,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 268539,
       "name": "I do not know why I am here",
       "url": "https://open.spotify.com/track/1J7MT5yYGxvYO51DFKK8Ti"
@@ -7344,7 +7420,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 204605,
       "name": "Look At Me Look At Me",
       "url": "https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7"
@@ -8023,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "Memory Romanticize",
+        "url": "https://open.spotify.com/album/6t5SZcjGngcGnTUZgkryhH"
+      },
+      "artists": [
+        {
+          "name": "Vahn",
+          "url": "https://open.spotify.com/artist/5snxmL23WuzHdNccHE7qvN"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154411,
+      "name": "Memory Romanticize",
+      "url": "https://open.spotify.com/track/2mPP1mApGGvXWSLgIDqtZC"
+    },
+    {
+      "album": {
         "name": "Menu1 - Puzzle",
         "url": "https://open.spotify.com/album/0SunxBI28Tc6rtFxrv1p27"
       },
@@ -8468,6 +8562,24 @@
       "duration_ms": 217513,
       "name": "My Little Lambs",
       "url": "https://open.spotify.com/track/3mLf0rGbBQHpkK0Sm8IQR6"
+    },
+    {
+      "album": {
+        "name": "My love, by my side",
+        "url": "https://open.spotify.com/album/4UpByOE8MfywwVS7S1Yqrl"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185781,
+      "name": "My love, by my side",
+      "url": "https://open.spotify.com/track/175tbDIeoknT95ymckiGto"
     },
     {
       "album": {
@@ -11217,6 +11329,24 @@
     },
     {
       "album": {
+        "name": "snowman",
+        "url": "https://open.spotify.com/album/6QJktjy7f9BcLYVHIO1Mud"
+      },
+      "artists": [
+        {
+          "name": "cacophony",
+          "url": "https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215618,
+      "name": "snowman",
+      "url": "https://open.spotify.com/track/2lOZ5ha2t7YBf3tKRvd0aC"
+    },
+    {
+      "album": {
         "name": "So life goes on",
         "url": "https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36"
       },
@@ -11228,7 +11358,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 194633,
       "name": "So life goes on",
       "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
@@ -11829,6 +11959,24 @@
     },
     {
       "album": {
+        "name": "Stay, there",
+        "url": "https://open.spotify.com/album/1vPQqRYXMxU1HPy1VTABWC"
+      },
+      "artists": [
+        {
+          "name": "Woo Yeon So",
+          "url": "https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Stay, there",
+      "url": "https://open.spotify.com/track/52r4FaIzEa9VGSi1ftzIzc"
+    },
+    {
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/2J0icYKdk19idztc0KgvHO"
       },
@@ -11898,7 +12046,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 206476,
       "name": "Still like this",
       "url": "https://open.spotify.com/track/54L406FREsFPcDTjP5YD5a"
@@ -12476,6 +12624,24 @@
       "duration_ms": 217453,
       "name": "THE",
       "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
+    },
+    {
+      "album": {
+        "name": "THE BEACON OF HOPE",
+        "url": "https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284121,
+      "name": "THE BEACON OF HOPE",
+      "url": "https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A"
     },
     {
       "album": {
@@ -14768,7 +14934,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 323531,
       "name": "\uace0\ubc31",
       "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
@@ -15118,6 +15284,24 @@
       "duration_ms": 186044,
       "name": "\uc78a\uace0 \uc0b4\uc558\ub358 \uac83\ub4e4",
       "url": "https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W"
+    },
+    {
+      "album": {
+        "name": "\ud3b8\uc9c0",
+        "url": "https://open.spotify.com/album/6d5eWLmLanYAJCFmFb4OQx"
+      },
+      "artists": [
+        {
+          "name": "Terry",
+          "url": "https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "\ud3b8\uc9c0",
+      "url": "https://open.spotify.com/track/4vCFXfI59csHOHeLuy3OC7"
     },
     {
       "album": {

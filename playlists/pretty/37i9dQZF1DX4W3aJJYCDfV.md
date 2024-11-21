@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sam Fender \(pictured\), Tate McRae, Linkin Park and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,087 likes - 122 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,099 likes - 122 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 41 | [Weather Woman](https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Weather Woman](https://open.spotify.com/album/3VYjEVRtowF8QLwleGYDcS) | 2:52 |
 | 42 | [Together](https://open.spotify.com/track/3WfIymJJ0IzjtpOI7eLzdq) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Together](https://open.spotify.com/album/1e6eBRV5OXNELTEHsBvVAG) | 3:21 |
 | 43 | [be someone](https://open.spotify.com/track/4ySSfveKffGyDTYvJBoQpi) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SUBURBIA](https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE) | 3:13 |
-| 44 | [Sex On Video](https://open.spotify.com/track/1pyUIov4uF1dX3QxXXdFAA) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Sex On Video](https://open.spotify.com/album/1zY4XNJ9pXUsBG0PgwhOE7) | 2:12 |
+| 44 | [Sex On Video \(feat\. Chase Icon\)](https://open.spotify.com/track/1pyUIov4uF1dX3QxXXdFAA) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Sex On Video \(feat\. Chase Icon\)](https://open.spotify.com/album/1zY4XNJ9pXUsBG0PgwhOE7) | 2:12 |
 | 45 | [Mohobbat \- Love](https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Mohobbat \(Love\)](https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN) | 3:28 |
 | 46 | [When I Wake Up I'm Sad](https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [When I Wake Up I'm Sad](https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG) | 4:27 |
 | 47 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |

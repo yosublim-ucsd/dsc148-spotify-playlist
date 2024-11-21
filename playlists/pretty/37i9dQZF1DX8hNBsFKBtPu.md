@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Thor Farlov
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,928 likes - 119 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,920 likes - 119 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 8 | [Alt Jeg Ville Have Sagt \(feat\. Peter Smith\)](https://open.spotify.com/track/2nV9TdQNJNmwYs9tptsKhT) | [ROSÉL](https://open.spotify.com/artist/68qzFAN4togCedlRiLWshZ), [Peter Smith](https://open.spotify.com/artist/6qh9sju49yWkUNF3RnLuNO) | [Alt Jeg Ville Have Sagt \(feat\. Peter Smith\)](https://open.spotify.com/album/4AKVO49bN6EjqXGRsPyupl) | 3:08 |
 | 9 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
 | 10 | [Fri](https://open.spotify.com/track/5VQ2lgaLOhJKXwgqKaPR3w) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Fri](https://open.spotify.com/album/61pr82QsY1CNXVT5hKuDbl) | 2:58 |
-| 11 | [Lige Nu \(feat\. Artigeardit\)](https://open.spotify.com/track/7u6jj9bsecmZhI6bnATgoc) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [DINE VENNER](https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2) | 2:55 |
+| 11 | [Lige Nu \(feat\. Artigeardit\)](https://open.spotify.com/track/7u6jj9bsecmZhI6bnATgoc) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Dine Venner](https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2) | 2:55 |
 | 12 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
 | 13 | [hva så?](https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hva så?](https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj) | 2:44 |
 | 14 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |

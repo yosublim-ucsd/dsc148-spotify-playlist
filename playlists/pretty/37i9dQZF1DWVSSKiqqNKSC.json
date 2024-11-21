@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 260611,
+  "num_followers": 260666,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "The Most From Beny More",
-        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Me Lo Gan\u00e9",
         "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 394653,
       "name": "Abreme la puerta",
       "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "The Most From Beny More",
+        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Recoge y Vete",
+        "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 351506,
+      "name": "Esto Est\u00e1",
+      "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -711,22 +711,6 @@
       "duration_ms": 285733,
       "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
       "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Recoge y Vete",
-        "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Esto Est\u00e1",
-      "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Tranquilo Que Yo Controlo (Remasterizado)",
         "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
       },
@@ -795,22 +795,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Que No Me Controlen",
-        "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
       "artists": [
         {
-          "name": "Juan Guillermo",
-          "url": "https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq"
-        },
-        {
-          "name": "Los Extraterrestres",
-          "url": "https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau"
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
         }
       ],
-      "duration_ms": 279173,
-      "name": "El Dueno del Party",
-      "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"
+      "duration_ms": 332706,
+      "name": "Que Tiene Que Te Mueve",
+      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -835,22 +831,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Caramelo Con Picante",
-        "url": "https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1"
+        "name": "Que No Me Controlen",
+        "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
       },
       "artists": [
         {
-          "name": "Lazarito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s"
+          "name": "Juan Guillermo",
+          "url": "https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq"
         },
         {
-          "name": "Bamboleo",
-          "url": "https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4"
+          "name": "Los Extraterrestres",
+          "url": "https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau"
         }
       ],
-      "duration_ms": 336095,
-      "name": "Caramelo Con Picante",
-      "url": "https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns"
+      "duration_ms": 279173,
+      "name": "El Dueno del Party",
+      "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"
     }
   ],
   "unique_name": "Salsa Cubana",

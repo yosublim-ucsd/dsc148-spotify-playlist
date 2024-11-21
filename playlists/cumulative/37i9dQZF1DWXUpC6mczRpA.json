@@ -1499,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Mozart: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414426,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/0z0t5ihTRm0XSZSw8iRZ0T"
+    },
+    {
+      "album": {
         "name": "Mozart: Piano Concerto No. 20, K. 466; Piano Sonatas, K. 281 & 332",
         "url": "https://open.spotify.com/album/46WCq8QQ9gzZ4iEWjv2gQw"
       },

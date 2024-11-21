@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-423 songs - 22 hr 20 min
+424 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 | 2022-07-15 | 2024-04-19 |
 | [Provócame](https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK) | 3:00 | 2022-01-28 | 2022-07-29 |
 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 | 2022-07-01 | 2022-07-25 |
+| [Pude](https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Pude](https://open.spotify.com/album/7FZYJ0y7Lk5EkcCKbFLHTI) | 3:30 | 2024-11-15 |  |
 | [Punto Y Aparte](https://open.spotify.com/track/674KkMr78BLwDVfWnjkceE) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:00 | 2023-01-16 | 2023-08-12 |
 | [Que Falta Me Hace Mi Padre](https://open.spotify.com/track/1aEicowaVDN82dt0U1r3og) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Que Falta Me Hace Mi Padre](https://open.spotify.com/album/29l9FsZD7XBhdEs15Pb9a7) | 3:19 | 2022-11-03 | 2023-06-24 |
 | [Que Hay Que Hacer](https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Que Hay Que Hacer](https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV) | 3:33 | 2024-05-10 |  |
@@ -310,7 +311,7 @@
 | [Que Me Digan Loco](https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Homenaje A La Trayectoria De Don Salvador Lizárraga](https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7) | 3:42 | 2023-01-06 | 2024-05-11 |
 | [Que Te Trague La Tierra](https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Que Te Trague La Tierra](https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv) | 3:08 | 2023-01-27 | 2024-06-04 |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-08-26 | 2024-09-07 |
-| [Quien Extraña A Quien](https://open.spotify.com/track/6rrSW34Fl9ScAgp77l6gST) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Quien Extraña A Quien](https://open.spotify.com/album/3NnqIZXRhLdL0ZAXYWI0gi) | 2:09 | 2024-06-28 |  |
+| [Quien Extraña A Quien](https://open.spotify.com/track/6rrSW34Fl9ScAgp77l6gST) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Quien Extraña A Quien](https://open.spotify.com/album/3NnqIZXRhLdL0ZAXYWI0gi) | 2:09 | 2024-06-28 | 2024-11-21 |
 | [Quien Te Dio Permiso](https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Quien Te Dio Permiso](https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3) | 2:53 | 2023-12-01 | 2024-08-03 |
 | [Quiero Pensar Que Estás Mejor](https://open.spotify.com/track/4vvgjlVHmt7i9A1dHGQt8x) | [Banda Águila Real](https://open.spotify.com/artist/2hr1spGCHQ0uhuRQvCBPFW) | [Quiero Pensar Que Estás Mejor](https://open.spotify.com/album/68fTv6080j5CRbkAfaLIm4) | 2:59 | 2023-05-26 | 2023-07-03 |
 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 | 2024-10-04 |  |

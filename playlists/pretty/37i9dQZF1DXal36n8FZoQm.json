@@ -1,12 +1,12 @@
 {
   "description": "It's time to return to the dojo. Listen to all the music from Cobra Kai, new season coming soon to Netflix.",
-  "num_followers": 128547,
+  "num_followers": 128758,
   "original_name": "Cobra Kai Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzUsTAAAAADO2woZGjkOqxtWHCJFvK1B",
+  "snapshot_id": "Zz43hwAAAADC7O6qs4hMUz1MtbU2ljzL",
   "tracks": [
     {
       "added_at": "2024-11-13 22:46:36",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/3OUmjWm8M9MO7qwWQ4sBK7"
     },
     {
+      "added_at": "2024-11-20 19:24:55",
+      "album": {
+        "name": "Enter the Sekai Taikai (from the Cobra Kai: Season 6 Soundtrack)",
+        "url": "https://open.spotify.com/album/5OOd0riDXAmniicItrOKAm"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 288140,
+      "name": "Enter the Sekai Taikai (from the Cobra Kai: Season 6 Soundtrack)",
+      "url": "https://open.spotify.com/track/1De7MS4Yctp6imxCUzQbbz"
+    },
+    {
       "added_at": "2022-09-09 12:58:25",
       "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
@@ -565,6 +581,26 @@
       "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
     },
     {
+      "added_at": "2024-11-20 19:24:55",
+      "album": {
+        "name": "Cobra Kai: Season 6, Part 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4WbFmwPAKDm0G9agWe6EdQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        },
+        {
+          "name": "Charlie Robbins",
+          "url": "https://open.spotify.com/artist/5OtkPEce6CPUiMFKEgCbxl"
+        }
+      ],
+      "duration_ms": 127337,
+      "name": "Iron Dragons (feat. Charlie Robbins)",
+      "url": "https://open.spotify.com/track/4rbTrjNkce5KAI75h1HQ10"
+    },
+    {
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Screaming For Vengeance",
@@ -741,6 +777,22 @@
       "url": "https://open.spotify.com/track/1Zw7J4bGDMH6eAbdN5Y46V"
     },
     {
+      "added_at": "2024-11-20 19:24:55",
+      "album": {
+        "name": "Cobra Kai: Season 6, Part 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4WbFmwPAKDm0G9agWe6EdQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 127893,
+      "name": "Mortal Kwon-Bat",
+      "url": "https://open.spotify.com/track/0D75om3r8V4vEOQoLFyT38"
+    },
+    {
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Allele",
@@ -855,6 +907,22 @@
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
+    },
+    {
+      "added_at": "2024-11-20 19:24:55",
+      "album": {
+        "name": "Cobra Kai: Season 6, Part 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4WbFmwPAKDm0G9agWe6EdQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 394816,
+      "name": "\u00daltima Sangre",
+      "url": "https://open.spotify.com/track/4STWCo8SNpBYVJAxHf0lru"
     },
     {
       "added_at": "2022-01-07 19:11:07",

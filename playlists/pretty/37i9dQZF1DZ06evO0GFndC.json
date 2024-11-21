@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 56520,
+  "num_followers": 56541,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzqDgAAAAABG/qAnT1rq7ZJdarevdB1p",
+  "snapshot_id": "ZzvVAAAAAAAQI2d+Et7L8Q3bcEuq6htB",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kilos De Oro",
-        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
+        "name": "El Se\u00f1or de la A",
+        "url": "https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE"
       },
       "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 220947,
-      "name": "Miran Mi Brillo",
-      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
+      "duration_ms": 184354,
+      "name": "El Se\u00f1or de la A",
+      "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
     },
     {
       "added_at": null,
@@ -831,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or de la A",
-        "url": "https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE"
+        "name": "Kilos De Oro",
+        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
       },
       "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 184354,
-      "name": "El Se\u00f1or de la A",
-      "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
+      "duration_ms": 220947,
+      "name": "Miran Mi Brillo",
+      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
     },
     {
       "added_at": null,

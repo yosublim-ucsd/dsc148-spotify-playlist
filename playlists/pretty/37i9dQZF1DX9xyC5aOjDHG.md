@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 「ソードアート・オンライン オルタナティブ ガンゲイル オンラインⅡ」の放送を記念し、2期放送期間中SAOプレイリストをGGOがジャック！©2023 時雨沢恵一/KADOKAWA/GGO2 Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,646 likes - 89 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,665 likes - 89 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 76 | [smile for you](https://open.spotify.com/track/0dVfePUasoG0Op2MM7zm9r) | [ユナ \(CV:神田沙也加\)](https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A) | [劇場版 ソードアート・オンライン \-オーディナル・スケール\- Original Soundtrack](https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF) | 3:17 |
 | 77 | [swordland](https://open.spotify.com/track/60a0z9XRCwk70L9gnxf4fV) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 3:17 |
 | 78 | [a tender feeling](https://open.spotify.com/track/4qGRptIf2ok9nHdDH6VwzW) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:07 |
-| 79 | [swordland\~to be continued](https://open.spotify.com/track/2ymkEAjk4NHGen1wtr1LzJ) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 0:33 |
+| 79 | [swordland～to be continued](https://open.spotify.com/track/2ymkEAjk4NHGen1wtr1LzJ) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 0:33 |
 | 80 | [think tenderly of you](https://open.spotify.com/track/6G24G2b9bWqz6jZdOmM500) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:03 |
 | 81 | [good bye, again and again](https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:09 |
 | 82 | [ピルグリム](https://open.spotify.com/track/5v57M8ipH5giH9l7m6u8Ku) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:05 |

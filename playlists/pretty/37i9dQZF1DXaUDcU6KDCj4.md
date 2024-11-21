@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Birdtalker
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,291 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,364 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 15 | [Love Until We Die](https://open.spotify.com/track/5OkJSnECySqrYjJyl6TZti) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Love Until We Die](https://open.spotify.com/album/1NXhH6n6Maz9h9rfJ9JH4a) | 3:52 |
 | 16 | [Walking Contradiction \- feat\. Steve Ignorant](https://open.spotify.com/track/1hWhFP0TQTEJ3EUxt7VnHW) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Steve Ignorant](https://open.spotify.com/artist/6j2TgxYyBUVwhFg7fYaDEY) | [Walking Contradiction \(feat\. Steve Ignorant\)](https://open.spotify.com/album/1stwbUbB36rb50D7S5ddzj) | 4:11 |
 | 17 | [Love](https://open.spotify.com/track/76I70X6G9quUz4njqSSTRM) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Love](https://open.spotify.com/album/33nfqKiDCVUC2rh3H81A09) | 2:11 |
-| 18 | [Mahk Jchi](https://open.spotify.com/track/2tKZlz2ErffzYLObokKv3S) | [Silkroad Ensemble](https://open.spotify.com/artist/5ZwvWOcjjYC5gHX2NKyxBl), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [American Railroad](https://open.spotify.com/album/1HWrVS6hMHt1uHiUBCpxaR) | 6:00 |
+| 18 | [Mahk Jchi \(feat\. Pura Fé\)](https://open.spotify.com/track/2tKZlz2ErffzYLObokKv3S) | [Silkroad Ensemble](https://open.spotify.com/artist/5ZwvWOcjjYC5gHX2NKyxBl), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Pura Fé](https://open.spotify.com/artist/4X29e8gzgjLJ6ZpFp6TljL) | [American Railroad](https://open.spotify.com/album/1HWrVS6hMHt1uHiUBCpxaR) | 6:00 |
 | 19 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 |
 | 20 | [Wildflower](https://open.spotify.com/track/1C9qqEC3qObxvjLS55rnhO) | [Christian Hayes](https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu) | [Wildflower](https://open.spotify.com/album/4J4h1hf3qrSxEdDH6owTMC) | 3:04 |
 | 21 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 |

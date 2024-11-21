@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=w1wkaF8KSUGhCkbLjDOq8A>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,079 likes - 98 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,097 likes - 98 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

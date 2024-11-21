@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-547 songs - 21 hr 3 min
+548 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-12-07 | 2022-05-27 |
 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 | 2021-12-07 | 2024-05-14 |
 | [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 | 2024-03-01 |  |
-| [Cigar](https://open.spotify.com/track/7yD9xepeRrBa6bO3li14Gu) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Cigar](https://open.spotify.com/album/2BARicBFCobZspePy6WvhJ) | 2:31 | 2022-09-30 |  |
+| [Cigar](https://open.spotify.com/track/7yD9xepeRrBa6bO3li14Gu) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Cigar](https://open.spotify.com/album/2BARicBFCobZspePy6WvhJ) | 2:31 | 2022-09-30 | 2024-11-21 |
 | [Cinnamon](https://open.spotify.com/track/4pyVqxmgjlgKp4PWY9VdJp) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Cinnamon](https://open.spotify.com/album/6ye2vtm17HqV3Rh74NVZzb) | 2:27 | 2023-02-17 |  |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2021-12-07 | 2022-05-27 |
 | [City Serenade](https://open.spotify.com/track/2DCrYodQKFVT9kKAXA4KZi) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [City Serenade](https://open.spotify.com/album/5OrOV5CkSPMeishCpPWuAr) | 2:00 | 2024-02-23 |  |
@@ -262,7 +262,7 @@
 | [Lakeside](https://open.spotify.com/track/2vfoQNoj0XTdk64B21cdpc) | [yourneighborsclassicbeats](https://open.spotify.com/artist/07YwFEZfj3G4ZRQ08iFDAM) | [Lakeside](https://open.spotify.com/album/5NhSlxdnAPt27SlzxFHJXd) | 2:03 | 2021-12-07 | 2022-12-10 |
 | [landslide](https://open.spotify.com/track/4ht7dWyVh2eUt3S2Vjjt3x) | [Mass Effect](https://open.spotify.com/artist/1Owv65l8RxWnof7K5xetKq) | [breakbeat poetry](https://open.spotify.com/album/0qRefCA6PWOybxJvQeBXl6) | 2:04 | 2021-12-07 |  |
 | [Last One](https://open.spotify.com/track/1Bw0Vj3hp6Dos8xgAV9rLm) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Tidy your Room](https://open.spotify.com/album/6ov0vylgSHHYQbCWBAK3Sd) | 2:39 | 2021-12-07 | 2022-09-17 |
-| [late](https://open.spotify.com/track/4MapfTz35onmkmfi7TmMlQ) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [late](https://open.spotify.com/album/6fzByHc5DrtRR8sdjvhAGp) | 2:17 | 2022-09-02 |  |
+| [late](https://open.spotify.com/track/4MapfTz35onmkmfi7TmMlQ) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [late](https://open.spotify.com/album/6fzByHc5DrtRR8sdjvhAGp) | 2:17 | 2022-09-02 | 2024-11-21 |
 | [later that year](https://open.spotify.com/track/1yCHrKV9rVX8TJewzt92bt) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [later that year](https://open.spotify.com/album/39Yw5V2DkO0QaH8BoeIuE6) | 2:10 | 2022-07-29 |  |
 | [lazos](https://open.spotify.com/track/7mxsGL3TUaMvhwvRSBn7ne) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [lazos](https://open.spotify.com/album/1eQowgre1jsz7vxsEhunt0) | 2:03 | 2022-07-22 | 2022-09-03 |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2021-12-07 | 2023-06-07 |
@@ -376,7 +376,7 @@
 | [Orchards](https://open.spotify.com/track/4NNojnTmAd2ayvXOl13t6m) | [ghost talk](https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB) | [Orchards](https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy) | 2:13 | 2022-05-13 | 2022-09-03 |
 | [orchid](https://open.spotify.com/track/4dFghKKkPZStUpdyFYu0oJ) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [orchid](https://open.spotify.com/album/7tIsJ2fOZzxGnvufJxGmkz) | 2:31 | 2023-02-07 |  |
 | [orchids](https://open.spotify.com/track/5G3TTFdKhBxpX7lnuKhG2M) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [orchids](https://open.spotify.com/album/2blOKU5vzKaPMj0cJEoJpl) | 2:04 | 2024-03-08 |  |
-| [our milky way](https://open.spotify.com/track/2TXKq4ZOyXx40HsXjmS0mm) | [SPUDB](https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6) | [our milky way](https://open.spotify.com/album/4WRBQh73XrvGcky6nsdseD) | 1:56 | 2024-06-28 |  |
+| [our milky way](https://open.spotify.com/track/2TXKq4ZOyXx40HsXjmS0mm) | [SPUDB](https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6) | [our milky way](https://open.spotify.com/album/4WRBQh73XrvGcky6nsdseD) | 1:56 | 2024-06-28 | 2024-11-21 |
 | [outdoors](https://open.spotify.com/track/5fEU8VYP1yto7mugwoPqvi) | [GM Nanashi](https://open.spotify.com/artist/3UGhltIiwrExCxs5CjJQFh) | [outdoors](https://open.spotify.com/album/6B0e6J5jSyFryQ9TiPAlYI) | 2:19 | 2022-12-23 |  |
 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 | 2021-12-07 | 2024-05-14 |
 | [overdew](https://open.spotify.com/track/5xhDhy0TXQr5pG35nSBGsh) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [overdew](https://open.spotify.com/album/6HGPs5V9xVsLdR9U9iSB9I) | 2:06 | 2024-06-05 | 2024-10-05 |
@@ -408,6 +408,7 @@
 | [Puddles](https://open.spotify.com/track/2AUCIO8f9WjCvFcDJnx7tg) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:05 | 2023-02-17 |  |
 | [Purple Bubble Tea](https://open.spotify.com/track/5GuLKaN7VRCdpzH7wfcvKI) | [Naken.](https://open.spotify.com/artist/6MASa6n2anhamIe2oJnD4v) | [Purple Bubble Tea](https://open.spotify.com/album/0CyowkYC05i8Ox2T3dDqyy) | 2:13 | 2022-09-23 |  |
 | [Purple Dreams](https://open.spotify.com/track/0gPOjseJyPBzHQXvDz0gcv) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 1:39 | 2021-12-07 | 2022-05-27 |
+| [quiet air](https://open.spotify.com/track/6BqnZCW1haj2aNyAX0H4il) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [quiet air](https://open.spotify.com/album/39oIne3kbNWDWoyiu0uv2i) | 1:58 | 2024-11-20 |  |
 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2021-12-07 | 2022-05-27 |
 | [quiet thoughts](https://open.spotify.com/track/1ND8aZ8F6qe74L9lF8XZop) | [sumthin](https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd) | [quiet thoughts](https://open.spotify.com/album/6GXoGTgAT0ibfre1Mqv3Kq) | 1:33 | 2022-05-20 | 2022-09-17 |
 | [Radio Head](https://open.spotify.com/track/465eA0AbmDTORT39flcRfZ) | [Bell Chenko](https://open.spotify.com/artist/5saowJ1itYDsVZG8Bp6pPo) | [Radio Head](https://open.spotify.com/album/0qQRICDc4ARCQBqLeMhFfm) | 2:06 | 2021-12-07 |  |
@@ -430,7 +431,7 @@
 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-12-07 | 2022-12-24 |
 | [roadtripp](https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [roadtripp](https://open.spotify.com/album/7EM5p1WI1wpBPUrG46eTXe) | 2:21 | 2021-12-07 | 2024-05-14 |
 | [Rooftop Nights](https://open.spotify.com/track/2VPjZDOq6n7Mx3Qr7fkic9) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [Rooftop Nights](https://open.spotify.com/album/7tlPuXFPzOnYb8s0zOSgpc) | 2:12 | 2024-06-19 |  |
-| [round bird](https://open.spotify.com/track/7rSKadpiQrCkiSGKpBFXX4) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [round bird](https://open.spotify.com/album/6YirhcCuMUVsWH2sXLxQMJ) | 2:18 | 2023-01-13 |  |
+| [round bird](https://open.spotify.com/track/7rSKadpiQrCkiSGKpBFXX4) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [round bird](https://open.spotify.com/album/6YirhcCuMUVsWH2sXLxQMJ) | 2:18 | 2023-01-13 | 2024-11-21 |
 | [rounded](https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [rounded](https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh) | 1:48 | 2023-10-06 |  |
 | [Running Away](https://open.spotify.com/track/1oOVp3mUoS6CSjdYsdjaAi) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Lohbe](https://open.spotify.com/artist/1gkQWhf8PQlIaXgZVohf0z) | [Running Away](https://open.spotify.com/album/0Of7eQQhGZhZsv9GRhttax) | 1:40 | 2022-06-24 | 2022-08-19 |
 | [Safest Place On Earth](https://open.spotify.com/track/0UbNd2SiCac2XutEQPc1zZ) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Safest Place On Earth](https://open.spotify.com/album/6Ui1YWXoHUDcXbhaJ76rlE) | 2:52 | 2022-08-19 | 2022-10-14 |
@@ -498,7 +499,7 @@
 | [Terraforma](https://open.spotify.com/track/5O2obBZsd58cpx1GE0XECe) | [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL) | [Terraforma](https://open.spotify.com/album/2OjwyKz7hqO5EL9JLw3Al0) | 1:38 | 2022-08-19 | 2022-11-12 |
 | [The Hotel at the End of the World](https://open.spotify.com/track/1by1Ft419vJMoWynFCLwMX) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [The Hotel at the End of the World](https://open.spotify.com/album/5OQcRQ3T3dVxq3Ga898XXp) | 1:31 | 2022-05-27 | 2023-06-07 |
 | [the return](https://open.spotify.com/track/7IkeZ0rRYjsOXX2g1qIZga) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [the return of slace n' cal](https://open.spotify.com/album/1wxW8xdGbEWJutK15Y66Pu) | 2:21 | 2023-04-11 |  |
-| [The Shore](https://open.spotify.com/track/3GPREePdZKcPnZkReSnZnz) | [ticofaces](https://open.spotify.com/artist/7fG9d41QElOF8zSI1OoRbE) | [The Shore](https://open.spotify.com/album/7mKl1hW33KrnBBXQqghrcs) | 2:06 | 2022-09-02 |  |
+| [The Shore](https://open.spotify.com/track/3GPREePdZKcPnZkReSnZnz) | [ticofaces](https://open.spotify.com/artist/7fG9d41QElOF8zSI1OoRbE) | [The Shore](https://open.spotify.com/album/7mKl1hW33KrnBBXQqghrcs) | 2:06 | 2022-09-02 | 2024-11-21 |
 | [The Time I Looked into the Sun](https://open.spotify.com/track/01AWFRAE691sMg8QwiZIPO) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [The Time I Looked into the Sun](https://open.spotify.com/album/27SWCLPFYAmuaUH5aNRKEz) | 3:25 | 2023-03-08 | 2024-10-05 |
 | [There is a New Beginning](https://open.spotify.com/track/0E1F9N1OMTTBIeNob0GjG7) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:59 | 2023-02-17 | 2024-10-05 |
 | [Time to Leave](https://open.spotify.com/track/5mnyE3aeYUgg7LQf2MbQwG) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Time to Leave](https://open.spotify.com/album/6fDcJPTZaFhIEn7ddwssFt) | 2:27 | 2024-05-13 |  |

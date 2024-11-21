@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,099 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,236 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 79 | [Broken Youth](https://open.spotify.com/track/2pjRFU0akiTgVCAkHVPCPV) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [Broken Youth](https://open.spotify.com/album/0BgYclVGeCMvf9xWwXO3jQ) | 4:54 |
 | 80 | [Long Kiss Good Bye](https://open.spotify.com/track/7elnaTfxmTw3W8aEKXyuAX) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [Long Kiss Good Bye](https://open.spotify.com/album/09lzjhiSHkmc8VcrCGoUve) | 4:06 |
 | 81 | [深呼吸](https://open.spotify.com/track/1y3ED9Dk1PdVDDmW1IU0j0) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [深呼吸](https://open.spotify.com/album/7CwfNkrr0WSqFqDxE4pHRq) | 4:43 |
-| 82 | [My ANSWER](https://open.spotify.com/track/31aK9U1zIMXLx8DyFUDpFS) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [My ANSWER/不景気なんてぶっとばせ!!](https://open.spotify.com/album/2rnpkD8agSeZsKAXYLeD2N) | 3:43 |
+| 82 | [My ANSWER](https://open.spotify.com/track/31aK9U1zIMXLx8DyFUDpFS) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [My ANSWER／不景気なんてぶっとばせ!!](https://open.spotify.com/album/2rnpkD8agSeZsKAXYLeD2N) | 3:43 |
 | 83 | [おまえだったんだ](https://open.spotify.com/track/2yKzGhN76MQ0q57fMZwTe4) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [さよなら世界 / おまえだったんだ](https://open.spotify.com/album/6YDZOiV7HTlUDMidrIOgae) | 3:59 |
 | 84 | [For You](https://open.spotify.com/track/6qF1nBMKfvvRqN2qnHBg78) | [AZU](https://open.spotify.com/artist/5cfwQHc25w8JNzcXfxLNy5) | [For You](https://open.spotify.com/album/2OkWqLkW9jPxVNC8B0zhti) | 4:19 |
 | 85 | [自転車](https://open.spotify.com/track/3abl06N92fbHupUhgM8war) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [自転車](https://open.spotify.com/album/6n1MP20lISDU1YGR4Vd3Bj) | 3:29 |
-| 86 | [うたかた花火](https://open.spotify.com/track/3VbpuVvobZbMJ86p1w3GKK) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [うたかた花火/星が瞬くこんな夜に](https://open.spotify.com/album/0YrYEfC8jhCObNKbDZzfpq) | 6:01 |
+| 86 | [うたかた花火](https://open.spotify.com/track/3VbpuVvobZbMJ86p1w3GKK) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [うたかた花火／星が瞬くこんな夜に](https://open.spotify.com/album/0YrYEfC8jhCObNKbDZzfpq) | 6:01 |
 | 87 | [U can do it !](https://open.spotify.com/track/7jmTWEQM8IJ5SScHP3k9wm) | [DOMINO](https://open.spotify.com/artist/0RiR4LQa6SFZZGYK04iAcb) | [U can do it !](https://open.spotify.com/album/4QMnP3Smgx6WLi4Xij5KDE) | 4:16 |
 | 88 | [真夜中のオーケストラ](https://open.spotify.com/track/5rVh7XwddfPnt1ASSkD36i) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [真夜中のオーケストラ](https://open.spotify.com/album/1ywc44mVhCi4SYtZnSlDGL) | 5:53 |
 | 89 | [FREEDOM](https://open.spotify.com/track/6sKAwvk1B1fWMAFPWwv2bC) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [FREEDOM](https://open.spotify.com/album/66m8rLXjiTnUFCRcp6RJm6) | 3:54 |

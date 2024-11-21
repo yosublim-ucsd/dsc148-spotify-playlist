@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Owen Riegling",
-  "num_followers": 65225,
+  "num_followers": 65238,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "What Kind of Song",
-        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "What Kind of Song",
-      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Visions of Dallas",
         "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 207986,
       "name": "Visions of Dallas",
       "url": "https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "What Kind of Song",
+        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "What Kind of Song",
+      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Darlin' Baby",
-        "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "Darlin' Baby",
-      "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 288402,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Darlin' Baby",
+        "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Darlin' Baby",
+      "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley (feat. Allison Russell)",
-      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 374834,
       "name": "This Ain't It",
       "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Devil's Wine",
-        "url": "https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ"
-      },
-      "artists": [
-        {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
-        },
-        {
-          "name": "Joe Newton",
-          "url": "https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z"
-        }
-      ],
-      "duration_ms": 196637,
-      "name": "Devil's Wine feat. Joe Newton",
-      "url": "https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Come Morning",
         "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
       },
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Mountain Road",
-        "url": "https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9"
+        "name": "Devil's Wine",
+        "url": "https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ"
       },
       "artists": [
         {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        },
+        {
+          "name": "Joe Newton",
+          "url": "https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z"
         }
       ],
-      "duration_ms": 215661,
-      "name": "Mountain Road",
-      "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
+      "duration_ms": 196637,
+      "name": "Devil's Wine feat. Joe Newton",
+      "url": "https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mountain Road",
+        "url": "https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 215661,
+      "name": "Mountain Road",
+      "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Take It Right On",
-        "url": "https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH"
-      },
-      "artists": [
-        {
-          "name": "Rare Americans",
-          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "Take It Right On",
-      "url": "https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Say When",
         "url": "https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 253754,
       "name": "Say When",
       "url": "https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Take It Right On",
+        "url": "https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Take It Right On",
+      "url": "https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF"
     },
     {
       "added_at": "2024-11-15 05:00:00",

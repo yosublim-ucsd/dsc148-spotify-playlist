@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Jordin Sparks & Maverick City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,614,036 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,614,220 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 78 | [Won't He Do It \- Single Version](https://open.spotify.com/track/2TyUlM2ElcoGD2HTNIRNYr) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Won't He Do It](https://open.spotify.com/album/4u2z3RZJODIY8sM38nm5eF) | 3:03 |
 | 79 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
 | 80 | [That's My King](https://open.spotify.com/track/6YoCr1PHjCNCniM5iJivoh) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/2hNiu7tTe7qv2PrB97Umvi) | 4:10 |
-| 81 | [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice \(Live\)](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 |
+| 81 | [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 |
 | 82 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 83 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |
 | 84 | [What A Time To Be Alive](https://open.spotify.com/track/0vWPIN2Hte6jKQkUONJbxH) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process \(Deluxe\) \[Clean\]](https://open.spotify.com/album/4nPlzTW356DylMSmm22dxI) | 2:48 |

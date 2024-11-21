@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-359 songs - 16 hr 15 min
+363 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 |  |
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2022-05-13 | 2022-05-27 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-05-13 | 2024-05-10 |
+| [Opus](https://open.spotify.com/track/1A4Hmte4jyPqiocYQtFRwT) | [Velvet Pines](https://open.spotify.com/artist/2LD1CbmqGxPI5l13pMDITB) | [Opus](https://open.spotify.com/album/4KMcz0Oe9JrpAchuQcfB7o) | 2:37 | 2024-11-20 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2022-05-13 | 2023-09-16 |
 | [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 | 2022-07-01 | 2024-05-10 |
 | [Palindrome](https://open.spotify.com/track/5LwVS7ZfA5n6uqkUJbwCUT) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Palindrome](https://open.spotify.com/album/1gDcpPpuH5KWxRqgQ0c6zh) | 2:41 | 2022-07-01 | 2022-07-15 |
@@ -262,6 +263,7 @@
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-05-13 | 2024-04-20 |
 | [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 | 2023-06-23 |
 | [Saskatoon](https://open.spotify.com/track/4BIM2ib6mlidsvIN8wgy1O) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Summer Hours](https://open.spotify.com/album/162323wg0KbD1JCf1zstHl) | 2:48 | 2022-06-10 | 2022-07-15 |
+| [Seamless Change](https://open.spotify.com/track/5YFp36gVYMSr7gbBJCjiUM) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Seamless Change](https://open.spotify.com/album/7s1JYXjuX0MSzrM3eVzsWI) | 2:19 | 2024-11-20 |  |
 | [Second Chances](https://open.spotify.com/track/2S3Lmj2nPEgIB2VMjrYwMl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Second Chances](https://open.spotify.com/album/28VajLtHLAaJodE637DFQd) | 2:35 | 2024-04-19 |  |
 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 | 2022-05-13 | 2023-02-25 |
 | [Secure Place](https://open.spotify.com/track/27EKDvsmQrZeAoACrcfMs1) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Secure Place](https://open.spotify.com/album/01B3d2G5Qri7B6Bzjj34PV) | 2:57 | 2024-04-19 |  |
@@ -282,6 +284,7 @@
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-09-16 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-05-13 |  |
+| [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 | 2024-11-20 |  |
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-05-13 | 2024-04-06 |
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2022-05-13 | 2022-06-10 |
 | [Stirling](https://open.spotify.com/track/14I5NCZR2Ml2egUlLPxSKL) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Stirling](https://open.spotify.com/album/7uU6IUooGwe60ajUtMfBy2) | 2:08 | 2022-05-13 | 2023-02-25 |
@@ -317,6 +320,7 @@
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-31 |
 | [The Safflower Harvest](https://open.spotify.com/track/2Bb66gsw9HlLjMLrVjSJv8) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:57 | 2022-05-13 | 2023-02-25 |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-05-13 | 2024-05-10 |
+| [The sweeping wind](https://open.spotify.com/track/4ME6RzLbiTxN4sz9qKceAM) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The sweeping wind](https://open.spotify.com/album/1zAw0rdmcMrWlFrhtb37kj) | 2:41 | 2024-11-20 |  |
 | [The Wait Is Finally Over](https://open.spotify.com/track/7845ttrSnatgaUwevW7mAX) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [The Wait Is Finally Over](https://open.spotify.com/album/6eKi4KS6HBKCrtjUznDdZZ) | 3:49 | 2022-05-13 | 2022-06-10 |
 | [The Winding Roads](https://open.spotify.com/track/3iOUS5sk9qaMVK8oH3WK4D) | [John Parker Stones](https://open.spotify.com/artist/1sLvTJ8ABBKHmPQr2PDoU9) | [The Winding Roads](https://open.spotify.com/album/2zjuzlgf264Qm2Sul8Nzw3) | 1:45 | 2022-10-07 | 2023-09-16 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 |  |

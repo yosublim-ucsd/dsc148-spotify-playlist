@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavitória
 
-743 songs - 1 day 13 hr 5 min
+744 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ai Bebê](https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Ai Bebê](https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX) | 2:44 | 2022-06-14 | 2023-01-21 |
 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 | 2024-11-08 |  |
 | [Ai, Que Calor](https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Ai, Que Calor](https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ) | 2:24 | 2023-12-15 | 2024-02-17 |
+| [Ainda Bem Que Chegou \- Ao Vivo](https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:21 | 2024-11-15 |  |
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-06-03 |
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 | 2022-07-29 |
@@ -678,7 +679,7 @@
 | [Tá Tudo Bem](https://open.spotify.com/track/55rCBBXLThMY2lqpDxX6XL) | [Naiara Terra](https://open.spotify.com/artist/1Tck18rJG2l4W47yBj9WfT) | [Tá Tudo Bem](https://open.spotify.com/album/534ZaDkN71lI78x5ctCsuI) | 2:09 | 2022-10-28 | 2022-11-04 |
 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 | 2022-05-13 | 2022-06-04 |
 | [Tão Bem \- Atemporal Remix](https://open.spotify.com/track/4tVq0nZb8el6tdUvEzvl8N) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Tão Bem \(Atemporal Remix\)](https://open.spotify.com/album/3nPik6VafRjWml3JEbEOBh) | 2:28 | 2023-11-24 | 2024-02-10 |
-| [Tão Bom](https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Bhangzwn](https://open.spotify.com/album/3183dne70LPY7JS3DngZNO) | 3:25 | 2024-09-06 |  |
+| [Tão Bom](https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Bhangzwn](https://open.spotify.com/album/3183dne70LPY7JS3DngZNO) | 3:25 | 2024-09-06 | 2024-11-21 |
 | [Tão Cedo](https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Tão Cedo](https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa) | 3:03 | 2023-08-25 | 2023-09-23 |
 | [Tão Leve](https://open.spotify.com/track/2i2SzU9jZd6nNew4CJEKqw) | [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Tão Leve](https://open.spotify.com/album/63Q5H9JaYhTxlDMFcX4rNx) | 2:18 | 2022-10-10 | 2022-11-12 |
 | [Tão Sem Graça](https://open.spotify.com/track/091LhYj7dDBpGT7Yrnuqi7) | [Vic Brow](https://open.spotify.com/artist/1GoCvVwfqLj1J5DdnVS3ZI) | [Tão Sem Graça](https://open.spotify.com/album/49GfljQXX3qrFDCLXctAmO) | 3:10 | 2023-01-27 | 2023-04-15 |

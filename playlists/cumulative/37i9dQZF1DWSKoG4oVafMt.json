@@ -9303,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "Lahore",
+        "url": "https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176349,
+      "name": "Lahore",
+      "url": "https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ"
+    },
+    {
+      "album": {
         "name": "Lai Dass",
         "url": "https://open.spotify.com/album/2AgJubUHUajZY9lzXYRFsy"
       },
@@ -19534,7 +19552,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 142428,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU"

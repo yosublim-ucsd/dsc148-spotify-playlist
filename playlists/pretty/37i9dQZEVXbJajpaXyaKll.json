@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 126035,
+  "num_followers": 126041,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ls//IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LtFQoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Tattoo (Spanish Version)",
         "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
       },
       "artists": [
         {
@@ -37,11 +37,11 @@
         }
       ],
       "duration_ms": 181677,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "VIDA AMARGA",
         "url": "https://open.spotify.com/album/5NtDJrZVqjx9u4gohcdhSo"
@@ -101,43 +101,7 @@
       "url": "https://open.spotify.com/track/0PF27his4VVs9xQMZMdrFL"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Boxindanga",
         "url": "https://open.spotify.com/album/72CZMSoQrgPxxjjWdAKOSc"
@@ -157,7 +121,43 @@
       "url": "https://open.spotify.com/track/4xKY2pP7CON2YFZLig4Mu5"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "COLOCARTELO",
         "url": "https://open.spotify.com/album/1H9iOGypdEnAKbNHSlU2EV"
@@ -197,43 +197,7 @@
       "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "AMERI",
-        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 199310,
-      "name": "Ameri",
-      "url": "https://open.spotify.com/track/5lXKHJ3kYg9aM0TdBgaZBe"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "Dos Peine Rkt",
-        "url": "https://open.spotify.com/album/1jqnV3gENYYmNT9BXJDM61"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chavez Dj",
-          "url": "https://open.spotify.com/artist/5tCFSqlpTypwpcpLx4U7sO"
-        },
-        {
-          "name": "Tomi Rmx",
-          "url": "https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ"
-        }
-      ],
-      "duration_ms": 144284,
-      "name": "Dos Peine Rkt - Rkt",
-      "url": "https://open.spotify.com/track/68YtOHlQPFGK2HoOfbVZ9p"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
@@ -253,7 +217,43 @@
       "url": "https://open.spotify.com/track/6CjV7qCrV3HvZ6NE0xLySS"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 199310,
+      "name": "Ameri",
+      "url": "https://open.spotify.com/track/5lXKHJ3kYg9aM0TdBgaZBe"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "Dos Peine Rkt",
+        "url": "https://open.spotify.com/album/1jqnV3gENYYmNT9BXJDM61"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chavez Dj",
+          "url": "https://open.spotify.com/artist/5tCFSqlpTypwpcpLx4U7sO"
+        },
+        {
+          "name": "Tomi Rmx",
+          "url": "https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ"
+        }
+      ],
+      "duration_ms": 144284,
+      "name": "Dos Peine Rkt - Rkt",
+      "url": "https://open.spotify.com/track/68YtOHlQPFGK2HoOfbVZ9p"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/63rRgkllF0FDeZ9fpOkFKl"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Amor de Vago",
         "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/26y2gBrbiFJIOUjIlSQfdH"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "BAD PARENTING FUNK",
         "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
@@ -349,27 +349,7 @@
       "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "AMERI",
-        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 194447,
-      "name": "Buscarte Lejos",
-      "url": "https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -389,7 +369,27 @@
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 194447,
+      "name": "Buscarte Lejos",
+      "url": "https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
@@ -405,7 +405,23 @@
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
+      },
+      "artists": [
+        {
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
+        }
+      ],
+      "duration_ms": 225881,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "LA PANTERA NEGRA (DELUXE)",
         "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
@@ -425,23 +441,7 @@
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "Cuidado Que Te Supero",
-        "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
-      },
-      "artists": [
-        {
-          "name": "Sharon y los Camperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
-        }
-      ],
-      "duration_ms": 225881,
-      "name": "Cuidado Que Te Supero",
-      "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Choque",
         "url": "https://open.spotify.com/album/5AYst00PGHdm7Xrsdi0dAx"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/201qC0QTZuxvpHhS9NrleU"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "IA",
         "url": "https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3"
@@ -477,27 +477,23 @@
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "MANO ARRIBA",
-        "url": "https://open.spotify.com/album/0ZzwCw2Y0SSgOcj9WBcYzj"
+        "name": "El Amor es Ciego",
+        "url": "https://open.spotify.com/album/7j8I25QEFhz4qs69GMK2wu"
       },
       "artists": [
         {
-          "name": "Franco Giugno",
-          "url": "https://open.spotify.com/artist/3DUJLgWQuLPshquQMIxFhx"
-        },
-        {
-          "name": "AXEL MARTINEZ",
-          "url": "https://open.spotify.com/artist/6z84xZAaLttG9sO2x1N6tA"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 159555,
-      "name": "MANO ARRIBA",
-      "url": "https://open.spotify.com/track/1nPbjq6rB4liFmm0J4M7gt"
+      "duration_ms": 176601,
+      "name": "El Amor es Ciego",
+      "url": "https://open.spotify.com/track/4cxPAmWigFLHovtJnd088a"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "A200",
         "url": "https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -541,7 +537,27 @@
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "MANO ARRIBA",
+        "url": "https://open.spotify.com/album/0ZzwCw2Y0SSgOcj9WBcYzj"
+      },
+      "artists": [
+        {
+          "name": "Franco Giugno",
+          "url": "https://open.spotify.com/artist/3DUJLgWQuLPshquQMIxFhx"
+        },
+        {
+          "name": "AXEL MARTINEZ",
+          "url": "https://open.spotify.com/artist/6z84xZAaLttG9sO2x1N6tA"
+        }
+      ],
+      "duration_ms": 159555,
+      "name": "MANO ARRIBA",
+      "url": "https://open.spotify.com/track/1nPbjq6rB4liFmm0J4M7gt"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
@@ -557,23 +573,23 @@
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "El Amor es Ciego",
-        "url": "https://open.spotify.com/album/7j8I25QEFhz4qs69GMK2wu"
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
       },
       "artists": [
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 176601,
-      "name": "El Amor es Ciego",
-      "url": "https://open.spotify.com/track/4cxPAmWigFLHovtJnd088a"
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
@@ -593,55 +609,23 @@
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "noviogangsta <3",
-        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
         }
       ],
-      "duration_ms": 157209,
-      "name": "noviogangsta <3",
-      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
+      "duration_ms": 197853,
+      "name": "Samba do Brasil",
+      "url": "https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "AMERI",
-        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 142957,
-      "name": "Cine \ud83d\udeac",
-      "url": "https://open.spotify.com/track/64sXViF6VlsihR0eJt0vUq"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -661,23 +645,23 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "Festival",
-        "url": "https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa"
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
       "artists": [
         {
-          "name": "Bellini",
-          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Samba do Brasil",
-      "url": "https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD"
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -697,7 +681,7 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "A Donde Me Lleva La Vida",
         "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
@@ -713,7 +697,39 @@
       "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 142957,
+      "name": "Cine \ud83d\udeac",
+      "url": "https://open.spotify.com/track/64sXViF6VlsihR0eJt0vUq"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "Pegate a Mi Rkt",
+        "url": "https://open.spotify.com/album/4hdIcWve37GDUxvnJm1wyD"
+      },
+      "artists": [
+        {
+          "name": "DJ Roman",
+          "url": "https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Pegate a Mi Rkt",
+      "url": "https://open.spotify.com/track/77U6Q3syJVRUfyuPxpJO11"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Come Play (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
@@ -745,23 +761,63 @@
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "Pegate a Mi Rkt",
-        "url": "https://open.spotify.com/album/4hdIcWve37GDUxvnJm1wyD"
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
       "artists": [
         {
-          "name": "DJ Roman",
-          "url": "https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Pegate a Mi Rkt",
-      "url": "https://open.spotify.com/track/77U6Q3syJVRUfyuPxpJO11"
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
+      "album": {
+        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 115533,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
+    },
+    {
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Veneka",
         "url": "https://open.spotify.com/album/2FHeDV8HFl5GQCiEXA7Ite"
@@ -781,43 +837,7 @@
       "url": "https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 301623,
-      "name": "S\u00e3o Paulo (feat. Anitta)",
-      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "Heavy Is the Crown",
-      "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "RAPSINCORTE 51",
         "url": "https://open.spotify.com/album/3nwkvErRbwyluwnpJqiSep"
@@ -889,23 +909,23 @@
       "url": "https://open.spotify.com/track/1VAIam58WpXrdJsB5QU70A"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 170445,
-      "name": "Over Each Other",
-      "url": "https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9"
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "KUSTOM",
         "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
@@ -925,39 +945,23 @@
       "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
       },
       "artists": [
         {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "chuala",
-          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 181593,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
         "name": "Desp\u00f3jate Vol.2",
         "url": "https://open.spotify.com/album/2rIGm59XDgX2eYwiOWtFgV"
@@ -981,36 +985,20 @@
       "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
     },
     {
-      "added_at": "2024-11-19 13:41:41",
+      "added_at": "2024-11-20 14:32:14",
       "album": {
-        "name": "Churrasquinho 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+        "name": "Amigos Y Enemigos Almighty",
+        "url": "https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Membrillito",
+          "url": "https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9"
         }
       ],
-      "duration_ms": 195794,
-      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
-    },
-    {
-      "added_at": "2024-11-19 13:41:41",
-      "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+      "duration_ms": 150024,
+      "name": "Amigos Y Enemigos Almighty",
+      "url": "https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE"
     }
   ],
   "unique_name": "Viral 50 - Argentina",

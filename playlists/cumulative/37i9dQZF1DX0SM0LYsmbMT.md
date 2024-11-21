@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,282 songs - 6 day 19 hr 19 min
+4,283 songs - 6 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Armagosa](https://open.spotify.com/track/4hpVe9mtln0F74fbADIVPU) | [Heitech](https://open.spotify.com/artist/4FZqkBu4TXfyD3SqjkuK2u) | [Armagosa](https://open.spotify.com/album/6IbnNQY0GFx1V4WM49Yy09) | 2:23 | 2022-03-17 | 2022-04-21 |
 | [Arpoador](https://open.spotify.com/track/5PVJi0Z0PPqda1tneSNPnD) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Arpoador](https://open.spotify.com/album/0ptMX7Jd4VfymLTrmHyyCE) | 2:20 | 2021-05-14 | 2023-04-28 |
 | [Arrival](https://open.spotify.com/track/5XqujNgAEGWLFecsPVFoow) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Arrival](https://open.spotify.com/album/3stLRsyCYQkdcBsLMc0TBV) | 2:58 | 2024-07-04 | 2024-08-02 |
-| [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 | 2023-12-14 |  |
+| [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 | 2023-12-14 | 2024-11-21 |
 | [Art Clone](https://open.spotify.com/track/40KzjjmjBrdWi3qWzAnT0R) | [Jtwig](https://open.spotify.com/artist/47ZdMwDzDhjHcMNcAbl9FX) | [Unreleased](https://open.spotify.com/album/0HIvKZqhF8FnKO3yGoxPeD) | 3:32 | 2021-02-20 | 2021-06-25 |
 | [As Time Goes By](https://open.spotify.com/track/0xh8FDAOAhaUh5R090cNwR) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [As Time Goes By](https://open.spotify.com/album/1cnwAI0srg62j5GyhPRN1h) | 1:27 | 2022-12-22 | 2023-10-20 |
 | [AsleepInStormyWeather](https://open.spotify.com/track/2nasu1BH3DBRGs6d3nKEMl) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [AsleepInstormyweather](https://open.spotify.com/album/4cju1zfSvEnBDckIr7NHLV) | 2:10 | 2020-08-30 | 2021-02-12 |
@@ -984,6 +984,7 @@
 | [Down with the Smoothness](https://open.spotify.com/track/2AAlu95FlvSVEUC4F51zOh) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Down with the Smoothness](https://open.spotify.com/album/2w2tFlS1I6aQQsJvaVLz7y) | 1:48 | 2020-05-15 | 2020-07-24 |
 | [Downstream](https://open.spotify.com/track/1dGC8B4AVlFvTE7hW1ZNK3) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi) | [Downstream](https://open.spotify.com/album/767onf5fb50tFpgDlLbauW) | 2:21 | 2023-02-09 | 2023-05-05 |
 | [Downtown](https://open.spotify.com/track/08zOuqqYtN4B8S17LLJ2aQ) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Do you remember?](https://open.spotify.com/album/6hk2eKfcqFFtRutay2WKDi) | 2:29 | 2021-08-27 | 2022-01-07 |
+| [Downtown](https://open.spotify.com/track/3knHoBqJ6s9eO61ejZpGU8) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Downtown](https://open.spotify.com/album/5ywRgJBn71TjhGMSC7U5Wp) | 2:13 | 2024-11-11 |  |
 | [Downtown Bustle](https://open.spotify.com/track/5kNaIxJ4awv83KFZDhrLhR) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Downtown Bustle](https://open.spotify.com/album/5ERNk8DcFZlmaG1L4WuUVf) | 2:00 | 2022-12-22 | 2023-01-27 |
 | [Downtown Dojo](https://open.spotify.com/track/4XxGD1FwHRLB5MP9lzjTm2) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Downtown Dojo](https://open.spotify.com/album/0f1tdieIIUW5yvOK92g6tP) | 2:16 | 2021-05-30 | 2021-08-06 |
 | [Downtown Downpour](https://open.spotify.com/track/3lVIsWbcY8k54zeCrsvW2H) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 2](https://open.spotify.com/album/0GETkBhzjUfvvmTGG3LkaU) | 2:26 | 2019-05-26\* | 2019-06-15 |

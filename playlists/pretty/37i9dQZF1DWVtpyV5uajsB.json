@@ -1,15 +1,95 @@
 {
   "description": "Listen to the soundtracks of Family By Choice. (\uc870\ub9bd\uc2dd \uac00\uc871\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 1730,
+  "num_followers": 1810,
   "original_name": "\uc870\ub9bd\uc2dd \uac00\uc871 (Family By Choice)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZySAqAAAAAAHeNWeC0C8AOgqYbnXOWxz",
+  "snapshot_id": "Zz2bvQAAAACuEWPsdt/q2oKP+DWldD2d",
   "tracks": [
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4xTPHGdQUkNAYDAs2hrFOL"
+      },
+      "artists": [
+        {
+          "name": "JUNGSOOMIN",
+          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Dreaming on Your Breath",
+      "url": "https://open.spotify.com/track/486xNvg98AMuWqdl7titQ6"
+    },
+    {
+      "added_at": "2024-11-20 08:20:13",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/0W1WW2KPlSQ83CqnZuONNg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 244432,
+      "name": "Wondering About Love",
+      "url": "https://open.spotify.com/track/0bwxi09zia4YxIrs4u7r22"
+    },
+    {
+      "added_at": "2024-11-20 08:20:13",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
+    },
+    {
+      "added_at": "2024-11-20 08:20:13",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/50M5e84jStYwkdVKOMletm"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 264996,
+      "name": "Little Tree",
+      "url": "https://open.spotify.com/track/5ulBUbp4XhmzRUvUCmkT3m"
+    },
+    {
+      "added_at": "2024-11-20 08:20:13",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/6FJ0Lr9uSgcPoRF5N3Hdbe"
+      },
+      "artists": [
+        {
+          "name": "PITTA",
+          "url": "https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI"
+        }
+      ],
+      "duration_ms": 213970,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/0xxYOPCnWcQiIqfBss00S4"
+    },
+    {
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Family by Choice (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/5Kz2NMX6k4K0vNWaPbbp1Y"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Family by Choice Audio Liners",
         "url": "https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB"
@@ -41,7 +121,7 @@
       "url": "https://open.spotify.com/track/6FLY9tXZv2pLJdw4vkp0nW"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "That's okay",
         "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
@@ -57,7 +137,7 @@
       "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -77,7 +157,7 @@
       "url": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
@@ -93,7 +173,7 @@
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
@@ -109,7 +189,7 @@
       "url": "https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Walking Together",
         "url": "https://open.spotify.com/album/286U6R2fhZmWXDKCRkHbZn"
@@ -125,7 +205,7 @@
       "url": "https://open.spotify.com/track/143MWj1w7d5G5Hpn2bYyqv"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Family by Choice Audio Liners",
         "url": "https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB"
@@ -141,7 +221,7 @@
       "url": "https://open.spotify.com/track/6OdUoHMyjvBlRXocluAXC1"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "In the summer",
         "url": "https://open.spotify.com/album/1w795FmKN4kXH9lM511jwb"
@@ -157,7 +237,7 @@
       "url": "https://open.spotify.com/track/2bcbyin6MAQK7OvFT6BVDE"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Shape",
         "url": "https://open.spotify.com/album/1rXCbK2LqR1QFQ1LIaOugu"
@@ -173,7 +253,7 @@
       "url": "https://open.spotify.com/track/4bA9FWOYtBp3eA42auvK72"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "\uc5f0\uc560 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 OST Part.2",
         "url": "https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt"
@@ -189,7 +269,7 @@
       "url": "https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
@@ -205,23 +285,7 @@
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
-      "album": {
-        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 288046,
-      "name": "All Our Days",
-      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
-    },
-    {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Family by Choice Audio Liners",
         "url": "https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/30a4CeCW62yESEM2aCkrlG"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Very Good",
         "url": "https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww"
@@ -253,7 +317,7 @@
       "url": "https://open.spotify.com/track/1YfVQeKmnq3xwz7U3pPYZs"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Resurrection - The 3rd Album",
         "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
@@ -269,7 +333,7 @@
       "url": "https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
@@ -285,7 +349,7 @@
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Linger On",
         "url": "https://open.spotify.com/album/4pGKlXNo6TKQame8hMFZI7"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/7e256LLur2qADLXIJbsMEK"
     },
     {
-      "added_at": "2024-11-01 07:18:00",
+      "added_at": "2024-11-20 08:20:13",
       "album": {
         "name": "Family by Choice (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9"

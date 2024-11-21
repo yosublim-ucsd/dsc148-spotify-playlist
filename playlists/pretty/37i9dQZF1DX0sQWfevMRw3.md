@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG SKULLE DÖ FÖR DIG!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,435 likes - 103 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,441 likes - 103 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 9 | [Öl i varje hand](https://open.spotify.com/track/21OV1ybi23D5gKHvpDozHe) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Öl i varje hand](https://open.spotify.com/album/7JVK71Bz710LYLnA3HE2Hs) | 2:18 |
 | 10 | [HEJSAN HOPPSAN](https://open.spotify.com/track/1rZPdTKzDl6y2UeEboezRm) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [SNORUNGEN](https://open.spotify.com/artist/4gjekSffN5ZROTdwWg4oDn) | [HEJSAN HOPPSAN](https://open.spotify.com/album/2vhz8FpzSlZaIJhGEgCZx4) | 2:03 |
 | 11 | [DANSA](https://open.spotify.com/track/4CellqWafv897wak02iDB8) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [DANSA](https://open.spotify.com/album/5k52sj7dirn6gpWjHYm5lu) | 2:25 |
-| 12 | [Du og jeg](https://open.spotify.com/track/5ehkUwrElsQ93TIvfqIogE) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM) | [Du og jeg](https://open.spotify.com/album/3InWss9cffmoPjRyij7DCU) | 2:34 |
+| 12 | [Du og jeg](https://open.spotify.com/track/5ehkUwrElsQ93TIvfqIogE) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM) | [Du og jeg](https://open.spotify.com/album/3InWss9cffmoPjRyij7DCU) | 2:34 |
 | 13 | [Ljuger jag för mig själv igen?](https://open.spotify.com/track/3GNugq8Z47vv3t8M9WsfyC) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Ljuger jag för mig själv igen?](https://open.spotify.com/album/1ODJZ5v5iVTJsJ4VVrXUBC) | 2:15 |
 | 14 | [xINGEN VANLIG TJEJx](https://open.spotify.com/track/4scwxMjLyqqxRylWgotXHA) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Vindrós](https://open.spotify.com/artist/7Li3iBTpdvdVzXalcOZDe5) | [xINGEN VANLIG TJEJx](https://open.spotify.com/album/0r6ytLz1V4bmIf8uxOnQAg) | 2:28 |
 | 15 | [SISTA ANDETAG](https://open.spotify.com/track/3k4ojl0NO0AFAn9iPCXYw6) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [NESS](https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3) | [SISTA ANDETAG](https://open.spotify.com/album/5nqtIPl0w0QWHEbDE5ww15) | 3:01 |

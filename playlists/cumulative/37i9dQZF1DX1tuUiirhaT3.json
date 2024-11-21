@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 165000,
       "name": "Birds Sounds",
       "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Ebb",
+        "url": "https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136483,
+      "name": "Ebb",
+      "url": "https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ"
+    },
+    {
+      "album": {
         "name": "Echiche",
         "url": "https://open.spotify.com/album/4gqY9q2Pb4eE7jsnnWeSON"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 192750,
       "name": "Echiche Stream",
       "url": "https://open.spotify.com/track/0B6TUf0dz4XeBKpFrw8hK9"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 173000,
       "name": "gentle sunlight - Meditation Edit",
       "url": "https://open.spotify.com/track/6wkYV8Um7G2YSS6mtfeOFc"
@@ -2510,6 +2528,24 @@
       "duration_ms": 147250,
       "name": "Jade",
       "url": "https://open.spotify.com/track/55GdkEWWsoj8JlXVXCGY4j"
+    },
+    {
+      "album": {
+        "name": "Jorden",
+        "url": "https://open.spotify.com/album/7svlbEYBbrQmpqYFtGhRdo"
+      },
+      "artists": [
+        {
+          "name": "Bergdahl",
+          "url": "https://open.spotify.com/artist/2imD2tcPPvJrdB8qzu1fqU"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155086,
+      "name": "Jorden",
+      "url": "https://open.spotify.com/track/11NzKvH3vrQYdiQwSHRVGI"
     },
     {
       "album": {
@@ -4116,7 +4152,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 189000,
       "name": "Relajaci\u00f3n espiritual (Sound Bath)",
       "url": "https://open.spotify.com/track/4oetcmOX3Se7HSEzFuymZ4"
@@ -4314,7 +4350,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 121318,
       "name": "Sacred Groves",
       "url": "https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF"
@@ -4908,7 +4944,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 174000,
       "name": "Somos Tierra",
       "url": "https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX"
@@ -5268,7 +5304,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 180922,
       "name": "The Danish Waterfall",
       "url": "https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS"
@@ -5546,6 +5582,24 @@
       "duration_ms": 163059,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g"
+    },
+    {
+      "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/6P9UOCViUkPpWijj7wV6fQ"
+      },
+      "artists": [
+        {
+          "name": "Spacetiming",
+          "url": "https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171633,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/06O8wPfnfKwzme7B2l6mEP"
     },
     {
       "album": {

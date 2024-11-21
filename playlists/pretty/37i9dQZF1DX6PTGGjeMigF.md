@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 
 > Relive the excitement of that day by listening to the setlist of SEVENTEEN's world tour <RIGHT HERE> Seoul concert! \(세븐틴의 월드투어 <RIGHT HERE> 서울 콘서트의 셋리스트를 감상하며 그 날의 감동을 다시 느껴보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,740 likes - 26 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,946 likes - 26 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,868 likes - 92 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,871 likes - 92 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJV2gcuJO7.md) - [plain]
 | 31 | [It's all in the game](https://open.spotify.com/track/5lmBqBjVSjzMAvxZyfyQPJ) | [Qyoto](https://open.spotify.com/artist/6iQ3UtYM6LPmprxJEEMFbC) | [It's all in the game](https://open.spotify.com/album/0aD4aBsyAvck9dKod1G3y8) | 4:05 |
 | 32 | [破天荒](https://open.spotify.com/track/0PrRxhhqxoBkjkB5rUIxtz) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\-　NARUTO NEXT GENERATIONS　オリジナルサウンドトラック Ⅰ](https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE) | 1:40 |
 | 33 | [血気](https://open.spotify.com/track/4ciutPBzcQ3iRFnN6xppNL) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\-　NARUTO NEXT GENERATIONS　オリジナルサウンドトラック Ⅰ](https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE) | 1:16 |
-| 34 | [花鳥風月](https://open.spotify.com/track/3Qtq0KAhUOopXnAEZpWmSm) | [COALAMODE.](https://open.spotify.com/artist/2BbazztW4wjJHFbtGdSzvP) | [花鳥風月 \(Special Edition\)](https://open.spotify.com/album/7wxAOq1QXsNBx6HC5qkDNr) | 4:30 |
+| 34 | [花鳥風月](https://open.spotify.com/track/3Qtq0KAhUOopXnAEZpWmSm) | [COALAMODE.](https://open.spotify.com/artist/2BbazztW4wjJHFbtGdSzvP) | [花鳥風月 （Special Edition）](https://open.spotify.com/album/7wxAOq1QXsNBx6HC5qkDNr) | 4:30 |
 | 35 | [ライカ](https://open.spotify.com/track/6egi9p0qHB91OsEJBzDclJ) | [Bird Bear Hare and Fish](https://open.spotify.com/artist/0XI8iyoe7ppGsWLVsH4cHB) | [ライカ](https://open.spotify.com/album/13g0FdbJIaQE7vtfhKNFaF) | 3:47 |
 | 36 | [Lonely Go!](https://open.spotify.com/track/23b70WxAS1W3x9X69MlVSo) | [Brian the Sun](https://open.spotify.com/artist/5CVx8gIHxBaYMuQVXr8ogM) | [MEME](https://open.spotify.com/album/3DH1SzNyX3FLsEM28ktmbg) | 3:56 |
 | 37 | [ボルト～無双](https://open.spotify.com/track/306YRuDPq13psebwjuRgk2) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\-　NARUTO NEXT GENERATIONS　オリジナルサウンドトラック Ⅰ](https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE) | 2:01 |

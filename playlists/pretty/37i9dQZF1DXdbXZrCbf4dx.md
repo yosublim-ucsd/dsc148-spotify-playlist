@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 
 > Music from "Ranking of Kings" /「王様ランキング」の楽曲を1つのプレイリストで。© 十日草輔・KADOKAWA刊／アニメ「王様ランキング 勇気の宝箱」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,888 likes - 40 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,892 likes - 40 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 | 5 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 |
 | 6 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 |
 | 7 | [王様ランキング \-メインテーマ\-](https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 2:06 |
-| 8 | [王様ランキング \-勇気!\-](https://open.spotify.com/track/0g0vMEbSwx2Ojbnt53J8wO) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 1:39 |
+| 8 | [王様ランキング \-勇気！\-](https://open.spotify.com/track/0g0vMEbSwx2Ojbnt53J8wO) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 1:39 |
 | 9 | [ボッジの朝](https://open.spotify.com/track/7sA4vMDXyZdMGYQ9idFuYZ) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 1:35 |
 | 10 | [ボッジのテーマ](https://open.spotify.com/track/3UKMhNuRPYt93fEnn8MF52) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 1:29 |
 | 11 | [小さな警戒心](https://open.spotify.com/track/4BcYMxzlwsMzrFgAf7BRU2) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 1:32 |

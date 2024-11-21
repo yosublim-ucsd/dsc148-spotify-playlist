@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAACbaNxH6gjLVvXnynM5DYdUADHli5",
+  "snapshot_id": "AAAACuIP5sz8g8phil8EAk0Lh2POX0ZD",
   "tracks": [
     {
       "added_at": "2023-03-26 06:07:02",
@@ -87,6 +87,22 @@
       "duration_ms": 224253,
       "name": "Hardware Store",
       "url": "https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr"
+    },
+    {
+      "added_at": "2024-11-20 03:33:50",
+      "album": {
+        "name": "The Coroner's Gambit",
+        "url": "https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Family Happiness",
+      "url": "https://open.spotify.com/track/2lbRuGZlv4jumboWPeRA59"
     }
   ],
   "unique_name": "ADHD",

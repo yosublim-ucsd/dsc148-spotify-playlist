@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,659 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,666 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 20 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 21 | [A Hazy Shade of Winter](https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:17 |
 | 22 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:19 |
-| 23 | [す き](https://open.spotify.com/track/6VyQUTvpGDqOiK9cvCleWA) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [す き/きづいてよ](https://open.spotify.com/album/7MJs63TKUEgGMjUltRKprf) | 3:39 |
+| 23 | [す　き](https://open.spotify.com/track/6VyQUTvpGDqOiK9cvCleWA) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [す　き／きづいてよ](https://open.spotify.com/album/7MJs63TKUEgGMjUltRKprf) | 3:39 |
 | 24 | [接吻 \- Single Version](https://open.spotify.com/track/4xFN8vjN4QSZ9EtMQjplpc) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 5:01 |
 | 25 | [月](https://open.spotify.com/track/5sSrowk68vJ1mV7CpUmFtJ) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [月](https://open.spotify.com/album/5GxXCMhBG1zCuBWhBFjISR) | 4:46 |
 | 26 | [マリア](https://open.spotify.com/track/1W2zqB3QsTQDtKwUUdS80P) | [T\-BOLAN](https://open.spotify.com/artist/3etntM5D8zqhYOTJHFhMXb) | [マリア](https://open.spotify.com/album/7MnGmYivs1nxYAIe4v6f7F) | 5:01 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 32 | [TRUE LOVE](https://open.spotify.com/track/0fF6StCPuAyFnENfLcWtiz) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [TRUE LOVE](https://open.spotify.com/album/1xoLFqa1ABKj0MO432Ra55) | 3:50 |
 | 33 | [IT'S ONLY LOVE](https://open.spotify.com/track/46MCa76VV7lh5xtb7MJRC9) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [IT'S ONLY LOVE](https://open.spotify.com/album/6BhsbRUqKXH9E8gGcDcl2H) | 4:35 |
 | 34 | [CROSS ROAD](https://open.spotify.com/track/3UuN77M7JzMj9UrCNrvByu) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [CROSS ROAD](https://open.spotify.com/album/4PPoS7AAl42Z2TglkCRrTP) | 4:33 |
-| 35 | [WHEREVER YOU ARE](https://open.spotify.com/track/1tlNlfRQP0i3X79dmSsRvP) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [WHEREVER YOU ARE/SAYONARA〜WORLDWIDE VERSION〜](https://open.spotify.com/album/5h9BQ16cRGFI1xvy8gVB2k) | 4:20 |
+| 35 | [WHEREVER YOU ARE](https://open.spotify.com/track/1tlNlfRQP0i3X79dmSsRvP) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [WHEREVER　YOU　ARE／SAYONARA〜WORLDWIDE　VERSION〜](https://open.spotify.com/album/5h9BQ16cRGFI1xvy8gVB2k) | 4:20 |
 | 36 | [My Sweet Home](https://open.spotify.com/track/6SU1b4iKlhXlOK1kL2YMAV) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [ANYTIME](https://open.spotify.com/album/0eD1n6a0WONd8nOdnUpmeD) | 4:44 |
 | 37 | [All For Love \- From "The Three Musketeers"](https://open.spotify.com/track/5EAx0ff3lfPeNpLDZmhaNQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Ultimate](https://open.spotify.com/album/29PaTFb1Y3KjipQaayjAS5) | 4:43 |
 | 38 | [Girls & Boys \- 2012 Remaster](https://open.spotify.com/track/5OS6hw3tFeWUiT3NPQyUM8) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife](https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4) | 4:51 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 52 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
 | 53 | [WINTER SONG \(“雪のクリスマス” WORLDWIDE VERSION\)](https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [WINTER SONG](https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf) | 4:45 |
 | 54 | [夏が来る](https://open.spotify.com/track/32MwyrgupLo6dWgCWbqrb8) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:44 |
-| 55 | [夏を抱きしめて](https://open.spotify.com/track/5lKYNdiGaR6n68ALW4SCxU) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [BEST of TUBEst \~All Time Best\~](https://open.spotify.com/album/29X3mJkXUG7yUMUMntkUZ0) | 4:22 |
+| 55 | [夏を抱きしめて](https://open.spotify.com/track/5lKYNdiGaR6n68ALW4SCxU) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [BEST of TUBEst ～All Time Best～](https://open.spotify.com/album/29X3mJkXUG7yUMUMntkUZ0) | 4:22 |
 | 56 | [Whatta Man](https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 5:08 |
 | 57 | [Wild Night](https://open.spotify.com/track/6opIwpImZYdxNgG4wpDxED) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Dance Naked](https://open.spotify.com/album/7JAOJVFqLdIyjwQKi9H3Qp) | 3:27 |
 | 58 | [Can You Feel The Love Tonight](https://open.spotify.com/track/7pLAzrfG0Er3Eitij1BA9O) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [ライオン・キング \(オリジナル・サウンドトラック 日本語版\)](https://open.spotify.com/album/3SPlH7bVkr9JYRBDUU8fA7) | 3:59 |

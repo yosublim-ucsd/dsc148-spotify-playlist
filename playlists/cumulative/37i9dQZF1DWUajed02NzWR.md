@@ -4,7 +4,7 @@
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-86 songs - 7 hr 1 min
+87 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Serenade No\. 11 in E\-flat, Adagio](https://open.spotify.com/track/7olY7FonY2xM3mOxeZQfin) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [New York Philomusica Chamber Ensemble](https://open.spotify.com/artist/5atwwUdVhGHCwiJBlpl0DF) | [The Wind Serenades of Mozart plus Cosi fan tutte & The Marriage of Figaro](https://open.spotify.com/album/3n10SS4s4XqSIDxTutv4aV) | 6:01 | 2020-09-04 | 2022-11-13 |
 | [Sheep May Safely Graze](https://open.spotify.com/track/7wEql4SrP9nL5U4zxmcrVM) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Leon Fleisher](https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy) | [Two Hands](https://open.spotify.com/album/3DfJIkZx34132XJ7j1L43O) | 4:55 | 2020-09-04 |  |
 | [Shostakovich: Fugue No\. 7 In A Major](https://open.spotify.com/track/4ZIYqwSH9aQj0Ua3jnhZsf) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Joachim Kwetzinsky](https://open.spotify.com/artist/1GPhEP8zBPmMwdQR1jVGqu) | [Polyphonic Dialogues: Shostakovich \- Shchedrin](https://open.spotify.com/album/36abjFHn6E5qXLtnFRxyIb) | 2:43 | 2020-09-04 |  |
+| [String Quartet in E\-Flat Major, H\. 277: II\. Allegretto](https://open.spotify.com/track/1xWatkcOFPdkyVubqPMkGC) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Quatuor Cobalt](https://open.spotify.com/artist/7DB3PThRACKSehOKYZed2P) | [String Quartet in E\-flat major, H.277: II\. Allegretto](https://open.spotify.com/album/7wxj5L3bStPox3zFQdnzU4) | 3:44 | 2024-11-20 |  |
 | [Suite Bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/1p6E7j1YIlrJ82hOoG1OM4) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 5:33 | 2020-09-04 |  |
 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 | 2020-09-04 |  |
 | [Symphony No\. 5 in B Flat Major, D\. 485: II\. Andante con moto](https://open.spotify.com/track/0uYFmyWGIAGdbYvBseRWl5) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Chamber Orchestra of Europe](https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Schubert: The Symphonies](https://open.spotify.com/album/5FsOC7uLO8taQdw3srZeO4) | 9:32 | 2020-09-04 | 2022-11-13 |

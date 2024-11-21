@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 502 likes - 96 songs - 5 hr 29 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 501 likes - 96 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

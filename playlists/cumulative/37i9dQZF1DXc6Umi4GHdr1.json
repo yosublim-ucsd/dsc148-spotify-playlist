@@ -2699,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Imperfect surface",
+        "url": "https://open.spotify.com/album/4jzA8qFhsy53HbwTziuZFg"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Imperfect surface",
+      "url": "https://open.spotify.com/track/1IwZ0a1rx9WhSRw2fsxVBy"
+    },
+    {
+      "album": {
         "name": "In A Dream",
         "url": "https://open.spotify.com/album/0ztD5jQE1F3plYTyquXMTT"
       },
@@ -2912,6 +2930,24 @@
       "duration_ms": 134466,
       "name": "Junto Contigo",
       "url": "https://open.spotify.com/track/5Hb0hG9ulwZBV7FuTnQMia"
+    },
+    {
+      "album": {
+        "name": "Kapri",
+        "url": "https://open.spotify.com/album/0tBA9ZTyLoZ7FHkSM11msZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Soeder",
+          "url": "https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Kapri",
+      "url": "https://open.spotify.com/track/3iNj8HFlWjJLQsSoj30Umh"
     },
     {
       "album": {

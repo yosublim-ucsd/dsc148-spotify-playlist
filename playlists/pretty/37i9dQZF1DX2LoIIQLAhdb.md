@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,243 likes - 38 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,285 likes - 38 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

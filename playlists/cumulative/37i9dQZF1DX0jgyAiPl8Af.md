@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-820 songs - 1 day 11 hr 24 min
+822 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Cadaqués](https://open.spotify.com/track/5jg06BQ7aNRWBArYMDlw77) | [Jacques Walter](https://open.spotify.com/artist/3Ag2nPTVyDtgYpbAIe8xHn) | [Cadaqués](https://open.spotify.com/album/3LGKDNlZXmrJNo8iDFjD9s) | 2:23 | 2021-12-08 | 2022-06-17 |
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2021-12-08 | 2024-04-05 |
 | [Calida Brisa](https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Calida Brisa](https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp) | 1:55 | 2023-05-26 | 2023-08-19 |
+| [Calm River Drift](https://open.spotify.com/track/1J8WIFvjbCxmUWyeabvb74) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Calm River Drift](https://open.spotify.com/album/1NsuGUIXTwglEwFvWtNRjo) | 3:03 | 2024-11-20 |  |
 | [Calma](https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Calma](https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr) | 2:01 | 2024-03-29 |  |
 | [Camila](https://open.spotify.com/track/5dNpam7kD3OsBJOVQC5YyX) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Camila](https://open.spotify.com/album/516cqGsOEFiDxIhqbRWCuy) | 2:19 | 2022-08-05 | 2022-10-29 |
 | [Caminata Noctorna](https://open.spotify.com/track/7BrVO5fvmo0QC698cUj0fP) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Caminata Noctorna](https://open.spotify.com/album/4tv3b6MQn6EWVl1188BIaO) | 2:23 | 2024-02-02 | 2024-04-20 |
@@ -289,6 +290,7 @@
 | [Guahara](https://open.spotify.com/track/0E75PdtuOHBBVQUg108RwT) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Die Bachforelle](https://open.spotify.com/album/6clyfmjUE2O7MQ2v5r1Ick) | 3:36 | 2021-12-08 | 2022-09-03 |
 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 | 2021-12-08 | 2024-04-05 |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2022-02-01 | 2023-08-19 |
+| [Gullunge](https://open.spotify.com/track/0IsOaDcVMdsL1EXsN3B1lt) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [Gullunge](https://open.spotify.com/album/2PIDYHxFHqUAteA9G78kdy) | 2:35 | 2024-11-20 |  |
 | [Hallelujah](https://open.spotify.com/track/7uhgHXvl8iluHcOm7MoP77) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Hallelujah](https://open.spotify.com/album/4VCVGxXhgcBjPROtRoeTNz) | 3:32 | 2022-09-16 | 2022-11-26 |
 | [Harbor Light](https://open.spotify.com/track/4IsEpm8Krhp2eyyu7wsooI) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Harbor Light](https://open.spotify.com/album/3SuzrVzAA7XHa5oSFgMEoZ) | 2:52 | 2024-11-06 |  |
 | [Harvest](https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu) | [Esther Lopez](https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc) | [Harvest](https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc) | 2:19 | 2023-08-10 |  |

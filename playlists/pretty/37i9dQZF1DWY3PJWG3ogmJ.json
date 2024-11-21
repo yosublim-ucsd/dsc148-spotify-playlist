@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 673878,
+  "num_followers": 674024,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -200,25 +200,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 180134,
+      "duration_ms": 181134,
       "name": "Curse",
       "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
-    },
-    {
-      "added_at": "2024-07-19 10:55:24",
-      "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -235,6 +219,22 @@
       "duration_ms": 208834,
       "name": "Divide",
       "url": "https://open.spotify.com/track/2ciYYljvXw3vJdWi6hkEfS"
+    },
+    {
+      "added_at": "2024-07-19 10:55:24",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Hammer of the Witch (Deluxe Version)",
         "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 202215,
       "name": "Hammer of the Witch",
       "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
-      },
-      "artists": [
-        {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
-        }
-      ],
-      "duration_ms": 249901,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Poverty of Self",
-        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
       },
       "artists": [
         {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
         }
       ],
-      "duration_ms": 205669,
-      "name": "Poverty of Self",
-      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+      "duration_ms": 249901,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1543,6 +1527,22 @@
       "duration_ms": 228572,
       "name": "Seeds of Hate",
       "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Poverty of Self",
+        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "Poverty of Self",
+      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Writhe",
-        "url": "https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM"
-      },
-      "artists": [
-        {
-          "name": "Teeth",
-          "url": "https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F"
-        }
-      ],
-      "duration_ms": 202764,
-      "name": "Writhe",
-      "url": "https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "ManiaCult",
         "url": "https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir"
       },
@@ -1871,22 +1855,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Outlaw",
-        "url": "https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ"
+        "name": "Writhe",
+        "url": "https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM"
       },
       "artists": [
         {
-          "name": "Wake up Frankie",
-          "url": "https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv"
-        },
-        {
-          "name": "Antti Wirman",
-          "url": "https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA"
+          "name": "Teeth",
+          "url": "https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F"
         }
       ],
-      "duration_ms": 226956,
-      "name": "The Outlaw",
-      "url": "https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6"
+      "duration_ms": 202764,
+      "name": "Writhe",
+      "url": "https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1907,6 +1887,26 @@
       "duration_ms": 221153,
       "name": "Peeling Wax (feat. Matt Honeycutt)",
       "url": "https://open.spotify.com/track/4A64JdONZNE0ShoiHrJx1N"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Outlaw",
+        "url": "https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ"
+      },
+      "artists": [
+        {
+          "name": "Wake up Frankie",
+          "url": "https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv"
+        },
+        {
+          "name": "Antti Wirman",
+          "url": "https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA"
+        }
+      ],
+      "duration_ms": 226956,
+      "name": "The Outlaw",
+      "url": "https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eat What You Kill",
-        "url": "https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt"
-      },
-      "artists": [
-        {
-          "name": "Confess",
-          "url": "https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw"
-        }
-      ],
-      "duration_ms": 315789,
-      "name": "Eat What You Kill",
-      "url": "https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Sadness Rains",
         "url": "https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 160500,
       "name": "Sadness Rains",
       "url": "https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Eat What You Kill",
+        "url": "https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt"
+      },
+      "artists": [
+        {
+          "name": "Confess",
+          "url": "https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw"
+        }
+      ],
+      "duration_ms": 315789,
+      "name": "Eat What You Kill",
+      "url": "https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH"
     }
   ],
   "unique_name": "Extreme Metal Workout",

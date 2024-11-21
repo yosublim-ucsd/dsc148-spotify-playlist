@@ -4,7 +4,7 @@
 
 > Are you 'Happy' with Jin? 💜
 
-20 songs - 57 min 58 sec
+27 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,13 @@
 | [Jin's Message \- To\. ARMY](https://open.spotify.com/track/4tjluLOtTQnbDNsqVAPwTu) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [This Is Jin \- Audio Liner](https://open.spotify.com/album/5olFX9UHaONUdMvR1VxUuf) | 0:22 | 2024-11-15 |  |
 | [Moon](https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:28 | 2024-11-15 |  |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 |  |
+| [Running Wild \(Afropop Remix\)](https://open.spotify.com/track/7uHAhFnUOfJXlDzfyvRJQD) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:29 | 2024-11-20 |  |
+| [Running Wild \(Ballad Remix\)](https://open.spotify.com/track/1XZeIqnzH8LKB1SmUL7tpy) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:23 | 2024-11-20 |  |
+| [Running Wild \(Band Ver.\)](https://open.spotify.com/track/6mJRx8ghgw9QwJk0v5DfVj) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:43 | 2024-11-20 |  |
+| [Running Wild \(Extended Ver.\)](https://open.spotify.com/track/6dCqghpYHuD1LqBloAzgDv) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 3:34 | 2024-11-20 |  |
+| [Running Wild \(Holiday Remix\)](https://open.spotify.com/track/1faf3hb79uGzk5a7O5H144) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:33 | 2024-11-20 |  |
+| [Running Wild \(Instrumental\)](https://open.spotify.com/track/3WBkiZRpmyDBXIHi0o4xjK) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:31 | 2024-11-20 |  |
+| [Running Wild \(UK Garage Remix\)](https://open.spotify.com/track/0K0lpwTATjvexmWWVURaZP) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:42 | 2024-11-20 |  |
 | [Super Tuna](https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT) | 1:54 | 2024-11-15 |  |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2024-11-15 |  |
 | [This Is Jin \- Intro](https://open.spotify.com/track/49JqqzD3qEcyUy0FIcyUao) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [This Is Jin \- Audio Liner](https://open.spotify.com/album/5olFX9UHaONUdMvR1VxUuf) | 0:19 | 2024-11-15 |  |

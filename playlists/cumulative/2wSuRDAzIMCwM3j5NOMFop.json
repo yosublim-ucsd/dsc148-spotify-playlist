@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "The Coroner's Gambit",
+        "url": "https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Insurance Fraud #2",
+      "url": "https://open.spotify.com/track/0q337BaQiBq43WLMm7VKlM"
+    },
+    {
+      "album": {
         "name": "Then: The Earlier Years",
         "url": "https://open.spotify.com/album/2NxD978NSpgrG9ME6p5Uj7"
       },

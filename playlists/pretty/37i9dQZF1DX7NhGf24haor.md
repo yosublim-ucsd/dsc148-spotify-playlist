@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,629 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,704 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Off My Face](https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [3BLOKES](https://open.spotify.com/artist/1Fu6pK1yz2uHEtDckXDXat) | [Off My Face](https://open.spotify.com/album/4MXVV2AhvqxKEuyLpDwSBg) | 2:47 |
+| 1 | [Off My Face](https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [3Blokes](https://open.spotify.com/artist/6ZwMox7xjnCiXvMYEDCiHb) | [Off My Face](https://open.spotify.com/album/4MXVV2AhvqxKEuyLpDwSBg) | 2:47 |
 | 2 | [New Perspective](https://open.spotify.com/track/5EO871vyXKMVLTRTCYmjtK) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz) | [New Perspective](https://open.spotify.com/album/6C2YhbY9uFaR3ImduCYljs) | 2:32 |
 | 3 | [Robot Ravolution](https://open.spotify.com/track/6ZnQGHGcB1LU0X2Tl08bts) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [Robot Ravolution](https://open.spotify.com/album/29ZJULqFan3puJjuEXssW0) | 3:12 |
 | 4 | [Rebel Revolution \- Official REBELLiON Indoor 2024 Anthem](https://open.spotify.com/track/6vPQ63XDadIOzKZwDdx2IT) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Rebel Revolution \(Official REBELLiON Indoor 2024 Anthem\)](https://open.spotify.com/album/0pePUkHjltJ61BETWBQ0kc) | 3:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 
 > Music from "SHADOWS HOUSE"! /アニメ「シャドーハウス」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 30 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,861 likes - 30 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 | 10 | [壊れた人形](https://open.spotify.com/track/1HHiyjXTxorDGIvklmqQfJ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:50 |
 | 11 | [顔](https://open.spotify.com/track/59NiYwTyvLQS7KTx8DHNBC) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:31 |
 | 12 | [教えましょう](https://open.spotify.com/track/68Ma0UfNWc7Rt5RTDfCKXW) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:43 |
-| 13 | [寝坊した!](https://open.spotify.com/track/4jPitGtfxHy5pVpSpO0wk4) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:35 |
+| 13 | [寝坊した！](https://open.spotify.com/track/4jPitGtfxHy5pVpSpO0wk4) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:35 |
 | 14 | [良いこと](https://open.spotify.com/track/5niSiTKiHDBEDotG5Kb7K2) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:40 |
 | 15 | [あなたらしく](https://open.spotify.com/track/6lplVHnbe2M0EvBGspLKqM) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:41 |
 | 16 | [1日のはじまり](https://open.spotify.com/track/21bkJ3JE2uh8xavA5RwFf8) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:44 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 | 20 | [役に立たなければ](https://open.spotify.com/track/21ZXBywbD7uPKHaVPlYmYD) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 3:00 |
 | 21 | [動く人形](https://open.spotify.com/track/5EiI35mVB0myTcZOr3gWUz) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:34 |
 | 22 | [出来損ない](https://open.spotify.com/track/7AjE5Zu1TTvpHyyDQJymez) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 1:44 |
-| 23 | [潰せ!](https://open.spotify.com/track/2kfREcC05PBb2NzSYcsMGJ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 2:12 |
+| 23 | [潰せ！](https://open.spotify.com/track/2kfREcC05PBb2NzSYcsMGJ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 2:12 |
 | 24 | [”顔”のない一族](https://open.spotify.com/track/6KWLCpYzVksCw46QCGMnqI) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 3:43 |
 | 25 | [シャドーの館](https://open.spotify.com/track/0IR8lf2WmapKwxpfZL2YBc) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 2:44 |
 | 26 | [特別な生き人形](https://open.spotify.com/track/74dz2zIV0UgLr976EDGXSi) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 3:36 |

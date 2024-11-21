@@ -1599,7 +1599,7 @@
     },
     {
       "album": {
-        "name": "WHEREVER YOU ARE/SAYONARA\u301cWORLDWIDE VERSION\u301c",
+        "name": "WHEREVER\u3000YOU\u3000ARE\uff0fSAYONARA\u301cWORLDWIDE\u3000VERSION\u301c",
         "url": "https://open.spotify.com/album/5h9BQ16cRGFI1xvy8gVB2k"
       },
       "artists": [
@@ -1747,24 +1747,6 @@
     },
     {
       "album": {
-        "name": "\u3059 \u304d/\u304d\u3064\u3099\u3044\u3066\u3088",
-        "url": "https://open.spotify.com/album/7MJs63TKUEgGMjUltRKprf"
-      },
-      "artists": [
-        {
-          "name": "DREAMS COME TRUE",
-          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
-        }
-      ],
-      "date_added": "2024-03-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219640,
-      "name": "\u3059 \u304d",
-      "url": "https://open.spotify.com/track/6VyQUTvpGDqOiK9cvCleWA"
-    },
-    {
-      "album": {
         "name": "Delicious",
         "url": "https://open.spotify.com/album/1GHJyuX4Yzslv7TIvs0bZq"
       },
@@ -1780,6 +1762,24 @@
       "duration_ms": 217306,
       "name": "\u3059 \u304d \u301cALBUM VERSION\u301c",
       "url": "https://open.spotify.com/track/7rTSqBYD0kBRiJjgoX1JfJ"
+    },
+    {
+      "album": {
+        "name": "\u3059\u3000\u304d\uff0f\u304d\u3065\u3044\u3066\u3088",
+        "url": "https://open.spotify.com/album/7MJs63TKUEgGMjUltRKprf"
+      },
+      "artists": [
+        {
+          "name": "DREAMS COME TRUE",
+          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+        }
+      ],
+      "date_added": "2024-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "\u3059\u3000\u304d",
+      "url": "https://open.spotify.com/track/6VyQUTvpGDqOiK9cvCleWA"
     },
     {
       "album": {
@@ -2075,7 +2075,7 @@
     },
     {
       "album": {
-        "name": "BEST of TUBEst ~All Time Best~",
+        "name": "BEST of TUBEst \uff5eAll Time Best\uff5e",
         "url": "https://open.spotify.com/album/29X3mJkXUG7yUMUMntkUZ0"
       },
       "artists": [

@@ -584,6 +584,10 @@
       },
       "artists": [
         {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
@@ -2440,6 +2444,10 @@
       },
       "artists": [
         {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
@@ -2884,6 +2892,32 @@
     {
       "album": {
         "name": "Guddu Rangeela",
+        "url": "https://open.spotify.com/album/341FZdVIVGwER19ZnZBTLW"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241102,
+      "name": "Sooiyan",
+      "url": "https://open.spotify.com/track/6OTfUkn4BwQtSnWvwO9vyR"
+    },
+    {
+      "album": {
+        "name": "Guddu Rangeela",
         "url": "https://open.spotify.com/album/7wd1rZIM464TFr8SLaguwZ"
       },
       "artists": [
@@ -2902,28 +2936,6 @@
       "duration_ms": 241102,
       "name": "Sooiyan",
       "url": "https://open.spotify.com/track/5ybC28fr8Kmm8Kvv6tqI8X"
-    },
-    {
-      "album": {
-        "name": "Guddu Rangeela",
-        "url": "https://open.spotify.com/album/341FZdVIVGwER19ZnZBTLW"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "date_added": "2024-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241102,
-      "name": "Sooiyan",
-      "url": "https://open.spotify.com/track/6OTfUkn4BwQtSnWvwO9vyR"
     },
     {
       "album": {

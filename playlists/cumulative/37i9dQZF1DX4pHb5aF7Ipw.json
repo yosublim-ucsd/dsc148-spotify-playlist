@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/21n8WOX81Ntub6g1kFFRtH"
+      },
+      "artists": [
+        {
+          "name": "Shera Dhaliwal",
+          "url": "https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6zeqoQLXUuTjk5Hr1C9VzM"
+    },
+    {
+      "album": {
         "name": "CULLINAN",
         "url": "https://open.spotify.com/album/5JzoIApW11QEo5xKj0NJhl"
       },
@@ -2498,7 +2520,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 164284,
       "name": "Hop In",
       "url": "https://open.spotify.com/track/4cCdHyMpezQ9ELWrUB54yC"
@@ -4750,7 +4772,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 128571,
       "name": "Shut 'Em Down",
       "url": "https://open.spotify.com/track/0oUAzrYEgVzSaeje72p491"
@@ -4998,6 +5020,28 @@
       "duration_ms": 129654,
       "name": "Takkre",
       "url": "https://open.spotify.com/track/6mk8Crg34K7YadjQbWwFGm"
+    },
+    {
+      "album": {
+        "name": "Target",
+        "url": "https://open.spotify.com/album/7aXLU9T9rZbzHtK401mabp"
+      },
+      "artists": [
+        {
+          "name": "Mahlan Wala 59",
+          "url": "https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/7iBJGUKzu81s7CkPw4T8HD"
     },
     {
       "album": {

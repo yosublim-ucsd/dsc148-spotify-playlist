@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 157739,
+  "num_followers": 157766,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzqDgAAAAACm4SbuSiFwtKkBHdRSu2B1",
+  "snapshot_id": "ZzvVAAAAAAAnxDe89g8RDbr/9oqAOJXB",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv"
+      "duration_ms": 146790,
+      "name": "Con Palabras Sencillas",
+      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 146790,
-      "name": "Con Palabras Sencillas",
-      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
+      "duration_ms": 171600,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Haces Llorar? (En Vivo)",
-        "url": "https://open.spotify.com/album/7LosuoGd6sHiY1QKXimQUW"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 198391,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar? - En Vivo",
-      "url": "https://open.spotify.com/track/6YuIK9sCV6g89yVmkNZtla"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Suerte",
         "url": "https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 196231,
       "name": "Un Mentado Ariel",
       "url": "https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Me Haces Llorar? (En Vivo)",
+        "url": "https://open.spotify.com/album/7LosuoGd6sHiY1QKXimQUW"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 198391,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar? - En Vivo",
+      "url": "https://open.spotify.com/track/6YuIK9sCV6g89yVmkNZtla"
     },
     {
       "added_at": null,
@@ -599,26 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Versos De Muel",
-        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
+        "name": "Una M\u00e1s Desde el Llano 1ra. Funci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8"
       },
       "artists": [
         {
-          "name": "Darey de la Sierra",
-          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
         },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 205209,
-      "name": "Los Versos De Muel",
-      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
+      "duration_ms": 183574,
+      "name": "Hablemos - En Vivo",
+      "url": "https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu"
     },
     {
       "added_at": null,
@@ -639,22 +635,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una M\u00e1s Desde el Llano 1ra. Funci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8"
+        "name": "Los Versos De Muel",
+        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
       },
       "artists": [
         {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+          "name": "Darey de la Sierra",
+          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 183574,
-      "name": "Hablemos - En Vivo",
-      "url": "https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu"
+      "duration_ms": 205209,
+      "name": "Los Versos De Muel",
+      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
     },
     {
       "added_at": null,

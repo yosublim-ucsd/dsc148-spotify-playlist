@@ -1,13 +1,29 @@
 {
-  "description": "Discover new favorites or tomorrow's hits today. Cover: Charlie Puth",
-  "num_followers": 12966,
+  "description": "Discover new favorites or tomorrow's hits today. Cover: Tate McRae",
+  "num_followers": 12968,
   "original_name": "Pop Rising Singapore & Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzOwWgAAAABtyvrCxcC5KcCrD/AOyJYc",
+  "snapshot_id": "Zz27RgAAAADFqCGINbPigDp+p3j/WHeM",
   "tracks": [
+    {
+      "added_at": "2024-11-20 10:34:46",
+      "album": {
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 181820,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
     {
       "added_at": "2024-11-12 19:45:30",
       "album": {

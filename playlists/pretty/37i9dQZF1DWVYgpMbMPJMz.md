@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,833 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,060 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 74 | [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 |
 | 75 | [Alone in It \(Live\)](https://open.spotify.com/track/3dpHqU2m4sDt7G4QA8B7Nr) | [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn), [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Metro Collective Worship](https://open.spotify.com/album/3C946eNtnL5SUkNXrjxdL8) | 3:08 |
 | 76 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One \(Live\)](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 |
-| 77 | [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice \(Live\)](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 |
+| 77 | [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 |
 | 78 | [HEART AND MIND](https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [HEART AND MIND](https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek) | 3:47 |
 | 79 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 |
 | 80 | [Praise](https://open.spotify.com/track/0ZjS6dbLy2DKiGkl8PJ78w) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Praise](https://open.spotify.com/album/0Kaib6L3q1EUeAbqFBgcap) | 4:01 |

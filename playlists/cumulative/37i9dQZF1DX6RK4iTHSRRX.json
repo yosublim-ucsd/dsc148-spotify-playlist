@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/38jc0zVg0GY0ImfhjWwoqV"
+      },
+      "artists": [
+        {
+          "name": "Tarragona Heights",
+          "url": "https://open.spotify.com/artist/4AuwVtWa7s61M7ryOo4Nq2"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110210,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/1t9YioEXydKP5SPNgPahqD"
+    },
+    {
+      "album": {
         "name": "Ding Dong Merrily High",
         "url": "https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL"
       },
@@ -1587,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Christmas Gems",
+        "url": "https://open.spotify.com/album/5xYvzhwYal0LGfQxkcyXGx"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kind",
+          "url": "https://open.spotify.com/artist/0BA7zez00ansnG7yhRhHGo"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139431,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/2Xbwz90RmiyjxpEwb7mDBB"
+    },
+    {
+      "album": {
         "name": "Christmas Classics on Guitar, Vol. 1",
         "url": "https://open.spotify.com/album/0HLYPlAeius3rPL4ihsswM"
       },
@@ -2305,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/2ji6NjJQjc56GhF9s8TlOG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Leon",
+          "url": "https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144986,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/2RTvegdv7A79tqC8FLmgOn"
+    },
+    {
+      "album": {
         "name": "Winter Dreamin'",
         "url": "https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th"
       },
@@ -2356,6 +2410,24 @@
       "duration_ms": 180302,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6MnRyaawFW1WQlW6BvvtTT"
+    },
+    {
+      "album": {
+        "name": "You're All I Want For Christmas",
+        "url": "https://open.spotify.com/album/6YRVMODykBOFnUFskFzyq8"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "You're All I Want For Christmas",
+      "url": "https://open.spotify.com/track/51IdIQcSPewuPxJEzfE1CN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6RK4iTHSRRX"

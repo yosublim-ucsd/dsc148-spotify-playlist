@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 56293,
       "name": "Club Outing",
       "url": "https://open.spotify.com/track/3WgeO7JfRvkkr8p5UZQz91"
@@ -622,6 +622,24 @@
       "duration_ms": 225733,
       "name": "I'm Scared Too",
       "url": "https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk"
+    },
+    {
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73253,
+      "name": "If You Choose This Over Me",
+      "url": "https://open.spotify.com/track/2mavOEFRldoW9JosK9Q7hp"
     },
     {
       "album": {
@@ -1471,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69800,
+      "name": "They Are Always Beautiful",
+      "url": "https://open.spotify.com/track/7kv1RwOpJP8BbGPUnrHylC"
+    },
+    {
+      "album": {
         "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
         "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 155306,
       "name": "This Is My Witness Statement",
       "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"

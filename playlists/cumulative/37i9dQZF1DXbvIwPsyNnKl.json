@@ -53,6 +53,50 @@
     },
     {
       "album": {
+        "name": "Whiteboy T",
+        "url": "https://open.spotify.com/album/1T7TGiN4hkPNW8YqT18Yio"
+      },
+      "artists": [
+        {
+          "name": "Matteyo",
+          "url": "https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "1209 FREESTYLE",
+      "url": "https://open.spotify.com/track/11gzq8J4geKBsT7LnAa1Wv"
+    },
+    {
+      "album": {
+        "name": "213",
+        "url": "https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY"
+      },
+      "artists": [
+        {
+          "name": "Tommie King",
+          "url": "https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm"
+        },
+        {
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "213",
+      "url": "https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R"
+    },
+    {
+      "album": {
         "name": "3 AM",
         "url": "https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY"
       },
@@ -2236,7 +2280,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 163764,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl"
@@ -3194,7 +3238,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 244500,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx"

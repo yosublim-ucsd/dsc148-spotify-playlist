@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: Stella Bridie
 
-3,681 songs - 8 day 10 hr 1 min
+3,682 songs - 8 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2789,6 +2789,7 @@
 | [Settling Down](https://open.spotify.com/track/4XIjKkcMOxWJwxFMnwUiT3) | [Psychic Social Club](https://open.spotify.com/artist/3zdmOqsxv0670azOyHTFYY) | [Settling Down](https://open.spotify.com/album/5vekeb3JTodzTkN9DJ1Qie) | 3:16 | 2024-08-13 | 2024-09-25 |
 | [Seven Sisters](https://open.spotify.com/track/6KF2cM7KNHZyb34YCDqclI) | [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Seven Sisters](https://open.spotify.com/album/3jngh9e2BivcpBS5coGqVe) | 3:43 | 2023-08-16 | 2023-08-31 |
 | [seven storeys up](https://open.spotify.com/track/5xgvOTcLPF7JkE97hlqZwv) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [seven storeys up](https://open.spotify.com/album/1057WawBAyfhBaLBpDChuJ) | 3:49 | 2024-10-01 |  |
+| [Seventeen](https://open.spotify.com/track/2c8RCiW2RGoX2KbQSdw0QY) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Seventeen](https://open.spotify.com/album/69RbJjVaNSYD8zEtA8M9J1) | 2:58 | 2024-11-19 |  |
 | [Sex & Rage](https://open.spotify.com/track/4bHt1bK5dDSUm2YEVO0MXc) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Sex & Rage](https://open.spotify.com/album/117DECkURJ4JhxYdiOxCug) | 2:42 | 2022-02-16 | 2022-03-10 |
 | [Sex Money Murder](https://open.spotify.com/track/5Sf1lIP3Lbgj1cEWM1w4Sp) | [Apollo Fontane](https://open.spotify.com/artist/00EbwCJVNnQhf39QOegJdz), [Jay Cooper](https://open.spotify.com/artist/5mYyUdTTfQPQpJe4LeOZC5) | [Rubaiyat, Vol\. 1: Ides of March](https://open.spotify.com/album/5kmD4dnLfmukCOqjwMjOFB) | 4:04 | 2022-07-19 | 2022-08-11 |
 | [Shade of Blue](https://open.spotify.com/track/1k3cpP8dthMypmDKh1ocBN) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Shade of Blue](https://open.spotify.com/album/0HWl110vM0RJRlUU6fQyag) | 3:06 | 2023-06-07 | 2023-07-06 |

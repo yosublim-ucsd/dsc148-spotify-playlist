@@ -1,6 +1,6 @@
 {
   "description": "Non-stop energy, riffs and belters.. for all you rock'n'roll stars.",
-  "num_followers": 90702,
+  "num_followers": 90735,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 281840,
-      "name": "Headshrinker - Remastered",
-      "url": "https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Amyl and The Sniffers",
         "url": "https://open.spotify.com/album/78lob7vtivvo4vm41e362A"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 138946,
       "name": "Got You",
       "url": "https://open.spotify.com/track/48vErDbNdjwhwGkNUQBoLt"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "Headshrinker - Remastered",
+      "url": "https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Amyl and The Sniffers",
+        "url": "https://open.spotify.com/album/78lob7vtivvo4vm41e362A"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 109280,
+      "name": "Gacked on Anger",
+      "url": "https://open.spotify.com/track/2u5JordgUNEliQRWGkAiHP"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "PUP",
         "url": "https://open.spotify.com/album/2i0sTsyZZGEGcakLqHFcyw"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 279306,
       "name": "Two Steps, Twice",
       "url": "https://open.spotify.com/track/2K1upo7TEAIMVd9D9FDhrx"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Amyl and The Sniffers",
-        "url": "https://open.spotify.com/album/78lob7vtivvo4vm41e362A"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 109280,
-      "name": "Gacked on Anger",
-      "url": "https://open.spotify.com/track/2u5JordgUNEliQRWGkAiHP"
     },
     {
       "added_at": "2023-05-25 23:00:00",

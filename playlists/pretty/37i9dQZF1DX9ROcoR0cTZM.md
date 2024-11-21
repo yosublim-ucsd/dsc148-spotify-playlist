@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ROcoR0cTZM.md) - [plain]
 
 > Are you 'Happy' with Jin? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,756 likes - 20 songs - 57 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 39,994 likes - 27 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ROcoR0cTZM.md) - [plain]
 | 16 | [Awake](https://open.spotify.com/track/1GZ4rjIbktlYy1n7zmyCmq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:46 |
 | 17 | [Epiphany](https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:00 |
 | 18 | [Moon](https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:28 |
-| 19 | [Yours \- Instrumental](https://open.spotify.com/track/6zSTivatZLiVJ63bRzjIF1) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 |
-| 20 | [It's Definitely You \- Instrumental](https://open.spotify.com/track/1bItNehmEre5eCsR5IVUNX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 |
+| 19 | [Running Wild \(Extended Ver.\)](https://open.spotify.com/track/6dCqghpYHuD1LqBloAzgDv) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 3:34 |
+| 20 | [Running Wild \(Band Ver.\)](https://open.spotify.com/track/6mJRx8ghgw9QwJk0v5DfVj) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:43 |
+| 21 | [Running Wild \(Ballad Remix\)](https://open.spotify.com/track/1XZeIqnzH8LKB1SmUL7tpy) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:23 |
+| 22 | [Running Wild \(Holiday Remix\)](https://open.spotify.com/track/1faf3hb79uGzk5a7O5H144) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:33 |
+| 23 | [Running Wild \(Afropop Remix\)](https://open.spotify.com/track/7uHAhFnUOfJXlDzfyvRJQD) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:29 |
+| 24 | [Running Wild \(UK Garage Remix\)](https://open.spotify.com/track/0K0lpwTATjvexmWWVURaZP) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:42 |
+| 25 | [Running Wild \(Instrumental\)](https://open.spotify.com/track/3WBkiZRpmyDBXIHi0o4xjK) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild \(Remixes\)](https://open.spotify.com/album/2qGQ07UX7Vb2Tewoik0QQY) | 2:31 |
+| 26 | [Yours \- Instrumental](https://open.spotify.com/track/6zSTivatZLiVJ63bRzjIF1) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 |
+| 27 | [It's Definitely You \- Instrumental](https://open.spotify.com/track/1bItNehmEre5eCsR5IVUNX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 |
 
-Snapshot ID: `ZzbV2wAAAAApj7YNhs4XPL6rB1xrJGTB`
+Snapshot ID: `Zz2GgwAAAAAvuDz3Amw9d7nsFVieOBj3`

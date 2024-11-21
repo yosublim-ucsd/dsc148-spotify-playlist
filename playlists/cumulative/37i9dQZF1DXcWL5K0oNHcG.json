@@ -10919,6 +10919,28 @@
     },
     {
       "album": {
+        "name": "Airwaves (Deluxe)",
+        "url": "https://open.spotify.com/album/0zIdvHMZr8G0Eh90mOQzcP"
+      },
+      "artists": [
+        {
+          "name": "Shane Sato",
+          "url": "https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj"
+        },
+        {
+          "name": "Coastal",
+          "url": "https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158365,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/67PhfdGBpd1cGzXYSL0X1K"
+    },
+    {
+      "album": {
         "name": "If I Had",
         "url": "https://open.spotify.com/album/10J86EfR4gFWjd5nl77aiL"
       },
@@ -14785,6 +14807,24 @@
     },
     {
       "album": {
+        "name": "Letting Go of Forever",
+        "url": "https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188999,
+      "name": "Letting Go of Forever",
+      "url": "https://open.spotify.com/track/79w55ScCjW71NKRgfHozmG"
+    },
+    {
+      "album": {
         "name": "Life Came into Colour",
         "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
       },
@@ -14932,7 +14972,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 196000,
       "name": "Ligurian Storm",
       "url": "https://open.spotify.com/track/6SlYU3fzGI9DeV1YiExpTI"
@@ -21897,6 +21937,24 @@
     },
     {
       "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/02uGnVCyyFMMyREvxRk1cB"
+      },
+      "artists": [
+        {
+          "name": "mega cat",
+          "url": "https://open.spotify.com/artist/6MqD2dmJGZNlkmlXE9xvkp"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176193,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/7Ivyt06NnQRBi2mVwtUbwY"
+    },
+    {
+      "album": {
         "name": "Safe Way To Fall",
         "url": "https://open.spotify.com/album/6tN9HzBJLCmM5IeCBsWiPp"
       },
@@ -25428,7 +25486,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 150400,
       "name": "Tell Me Myths",
       "url": "https://open.spotify.com/track/7Erkcbf3FC0VEY9wZ7kKkg"
@@ -26596,7 +26654,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 174689,
       "name": "The Sunrise Fool",
       "url": "https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s"

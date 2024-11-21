@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3buBOPR7JMvIlCvoAmUACa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116640,
+      "name": "Amsterdam (Opening)",
+      "url": "https://open.spotify.com/track/1X5HxVUwbvrgecO21L4IG0"
+    },
+    {
+      "album": {
         "name": "2001 - A Space Odyssey",
         "url": "https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK"
       },
@@ -309,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/7jkV6uU9wKgczd7UjS6Rdv"
+    },
+    {
+      "album": {
         "name": "Samuel Barber - Adagio",
         "url": "https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu"
       },
@@ -379,6 +415,36 @@
     },
     {
       "album": {
+        "name": "Brahms: Violin Concerto",
+        "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Carlo Maria Giulini",
+          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500293,
+      "name": "Brahms: Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
+      "url": "https://open.spotify.com/track/55NalIUC671ie5eaNJAHjt"
+    },
+    {
+      "album": {
         "name": "Soundtrack \"Amour\"",
         "url": "https://open.spotify.com/album/3Jk6OE35BZLAtYlOm2EMvQ"
       },
@@ -398,6 +464,32 @@
       "duration_ms": 192297,
       "name": "Busoni: Ich ruf' zu dir (After Bach's chorale prelude, BWV 639), BV B27 No. 5",
       "url": "https://open.spotify.com/track/1IhPdKNRYpN745LTBXE7Ng"
+    },
+    {
+      "album": {
+        "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276444,
+      "name": "Candide: Overture",
+      "url": "https://open.spotify.com/track/30vrUPVSGjVWAOzEmjT9g0"
     },
     {
       "album": {
@@ -457,6 +549,36 @@
     },
     {
       "album": {
+        "name": "Cavalleria rusticana: Intermezzo",
+        "url": "https://open.spotify.com/album/4QzroossnF0SqsfH2jIQFp"
+      },
+      "artists": [
+        {
+          "name": "Pietro Mascagni",
+          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Domingo Hindoyan",
+          "url": "https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg"
+        },
+        {
+          "name": "Royal Liverpool Philharmopnic Orchestra",
+          "url": "https://open.spotify.com/artist/6cE6l2zY3xSJFbGQmMZDXc"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Cavalleria rusticana: Intermezzo",
+      "url": "https://open.spotify.com/track/6wKkWFhgOPKgiE360T6NNs"
+    },
+    {
+      "album": {
         "name": "Classical Music: 50 of the Best Film Classics",
         "url": "https://open.spotify.com/album/4RqJLaVkFhOYsn72FUS2iQ"
       },
@@ -476,7 +598,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 223800,
       "name": "Cavalleria Rusticana: Intermezzo (Raging Bull)",
       "url": "https://open.spotify.com/track/5uDcTcPNVo1HPerNu6ghhL"
@@ -532,6 +654,36 @@
       "duration_ms": 351466,
       "name": "Cello Concerto in E Minor, Op. 85: III. Adagio",
       "url": "https://open.spotify.com/track/0rIac8mqqnUu7g200X3zP2"
+    },
+    {
+      "album": {
+        "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Sophie Kauer",
+          "url": "https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Natalie Murray Beale",
+          "url": "https://open.spotify.com/artist/3e6PGrRPMQ7XG8aJgw2Sp4"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728693,
+      "name": "Cello Concerto in E Minor, Op. 85: IV. Allegro - Recording Session",
+      "url": "https://open.spotify.com/track/2pNKNKMBZX1e7L0nqx907n"
     },
     {
       "album": {
@@ -708,6 +860,32 @@
       "duration_ms": 73000,
       "name": "Deh, vieni alla finestra",
       "url": "https://open.spotify.com/track/0XPRVDPheCqOxrnhYdrLT8"
+    },
+    {
+      "album": {
+        "name": "Florence Foster Jenkins (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yUEloMHWZiryWwR0L74sU"
+      },
+      "artists": [
+        {
+          "name": "Aida Garifullina",
+          "url": "https://open.spotify.com/artist/7irTi8cqirW4rD9JV4lT24"
+        },
+        {
+          "name": "London Metropolitan Orchestra",
+          "url": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+        },
+        {
+          "name": "Terry Davies",
+          "url": "https://open.spotify.com/artist/3NgsK1tWaHynBkdHN4ZBA9"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350933,
+      "name": "Delibes: The Bell Song - From \u201cLakm\u00e9\u201d",
+      "url": "https://open.spotify.com/track/7cFpqWKihYh7zPzg3c9sdL"
     },
     {
       "album": {
@@ -909,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartet \"American\": III. Molto vivace",
+        "url": "https://open.spotify.com/album/5fZkGvvBy9vhd93PhtAznL"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96, B. 179 \"American\": III. Molto vivace",
+      "url": "https://open.spotify.com/track/41CJPgitcH8WYFDr8Fuugn"
+    },
+    {
+      "album": {
         "name": "Metro Manila (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2Y2sDqEdBHIirjjapqWFjB"
       },
@@ -982,7 +1182,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 677000,
       "name": "Fratres",
       "url": "https://open.spotify.com/track/2ux87ulIxFZMgr7843eoJt"
@@ -1004,6 +1204,32 @@
       "duration_ms": 677000,
       "name": "Fratres",
       "url": "https://open.spotify.com/track/54luziFgl6GfThvult5o2A"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Tabula Rasa",
+        "url": "https://open.spotify.com/album/3D3dLscRKfP5b9zIr0FED9"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688413,
+      "name": "Fratres",
+      "url": "https://open.spotify.com/track/1gRJOkMPSNUddnnfb0g2fF"
     },
     {
       "album": {
@@ -1495,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        },
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128946,
+      "name": "Night on Bald Mountain",
+      "url": "https://open.spotify.com/track/5zGKN4zL3lDv4ovhJbQenN"
+    },
+    {
+      "album": {
         "name": "Hands of Stone (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1fysQPIgbfPtGXEo4sUujP"
       },
@@ -1641,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Black Swan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jdo6AZlL4wLRgeOYTrxGb"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344933,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/6wQWYfRcZWyzRaH3hnjNxq"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Concertos Nos. 1 & 2 by Arthur Rubinstein",
         "url": "https://open.spotify.com/album/41DBxOqkpKLyW6wJIOWGCp"
       },
@@ -1671,6 +1937,32 @@
     },
     {
       "album": {
+        "name": "Chopin: Piano Concertos Nos.1 & 2",
+        "url": "https://open.spotify.com/album/6VihhA5em01r0pkom28mNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        },
+        {
+          "name": "Polish Festival Orchestra",
+          "url": "https://open.spotify.com/artist/0whBNs0jVwzSnC5hWKRv8Y"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 755000,
+      "name": "Piano Concerto No. 1 in E minor, Op. 11: 2. Romance (Larghetto)",
+      "url": "https://open.spotify.com/track/4czfzwEfUJ8Qx52pYfOOUj"
+    },
+    {
+      "album": {
         "name": "Rubinstein Collection, Vol. 44: All Chopin: Piano Concertos Nos. 1/2; Trois nouvelles etudes, Op. posth.",
         "url": "https://open.spotify.com/album/5pvXSio4z7B7gkN1fMH2kr"
       },
@@ -1698,6 +1990,36 @@
       "duration_ms": 646000,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance. Larghetto",
       "url": "https://open.spotify.com/track/31WC5psMchxL8LHUjfyi0f"
+    },
+    {
+      "album": {
+        "name": "Destination Rachmaninoff: Departure",
+        "url": "https://open.spotify.com/album/5MFK8xu5ZnoKezAQQ5UFE5"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706653,
+      "name": "Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/2aRfKNDurRBR3rEwIdiHUg"
     },
     {
       "album": {
@@ -1917,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "The Pianist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wzrKpVf1i1ef4HxabBU83"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janusz Olejniczak",
+          "url": "https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "Pr\u00e9lude in E minor, Op. 28, No. 4",
+      "url": "https://open.spotify.com/track/1Xf4sNtMKc1xiUhuIPAUg2"
+    },
+    {
+      "album": {
         "name": "Purcell: Music for Queen Mary, Come ye Sons of Art",
         "url": "https://open.spotify.com/album/59IXibPF6cZcudHdvvskrK"
       },
@@ -2126,7 +2470,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 645893,
       "name": "Romance-Larghetto",
       "url": "https://open.spotify.com/track/1yAvn8CD3gA8qyP6ZWwzdu"
@@ -2740,7 +3084,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 326746,
       "name": "Swan Lake, Op. 20",
       "url": "https://open.spotify.com/track/6eXn2jNKMVgBcdEQ46QTMa"
@@ -2822,6 +3166,74 @@
       "duration_ms": 406240,
       "name": "Symphony #3: Passacaglia - Allegro Moderato",
       "url": "https://open.spotify.com/track/1KYmJQOEotLxPUo8oz9UPH"
+    },
+    {
+      "album": {
+        "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        },
+        {
+          "name": "Rosa Feola",
+          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
+        },
+        {
+          "name": "Isabel Leonard",
+          "url": "https://open.spotify.com/artist/3XVnSyHTd5H6NMv1r2kKSX"
+        },
+        {
+          "name": "London Symphony Chorus",
+          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376090,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Finale. In Tempo des Scherzos",
+      "url": "https://open.spotify.com/track/0eAU8t5YOpJWTlyzbBrA2G"
+    },
+    {
+      "album": {
+        "name": "Amadeus",
+        "url": "https://open.spotify.com/album/2G0rAfHlDtXDmD33Ik7Lbl"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460026,
+      "name": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/64ta7ZvTJeThz7Ns4LmAHS"
     },
     {
       "album": {
@@ -3218,6 +3630,36 @@
       "duration_ms": 190029,
       "name": "Viola d'amore Concerto in A Minor, RV 397: I. Vivace",
       "url": "https://open.spotify.com/track/73WeT74sA6tnCl9VtgPbq4"
+    },
+    {
+      "album": {
+        "name": "Chevalier (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3y2KkTMbsx3E35iUTb971k"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boulogne Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "London Contemporary Orchestra",
+          "url": "https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599960,
+      "name": "Violin Concerto in G Major, Op. 8, No. 2: I. Allegro",
+      "url": "https://open.spotify.com/track/3rd8fjFT9AupdVa4Kr3k1h"
     },
     {
       "album": {

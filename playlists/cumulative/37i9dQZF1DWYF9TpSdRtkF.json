@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 282280,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 276666,
       "name": "Precious Grain",
       "url": "https://open.spotify.com/track/78VkrLXLPjnEhwdatKWNcH"
@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 292893,
       "name": "Sweet Sweet Soul",
       "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
@@ -7449,6 +7449,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
+        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
+      },
+      "artists": [
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "\u7a32\u59bb\u30b9\u30d4\u30ea\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/3tOGQym8VauhRw5NVGQDhz"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 08",
         "url": "https://open.spotify.com/album/04LqpjfZj0C6Rhhoh6SHxA"
       },
@@ -7496,7 +7514,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-21",
       "duration_ms": 321693,
       "name": "\u7a7a\u8272 Birthday Card",
       "url": "https://open.spotify.com/track/7Bl7zceAe34Vvs4CALJ6Zs"
@@ -7666,7 +7684,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

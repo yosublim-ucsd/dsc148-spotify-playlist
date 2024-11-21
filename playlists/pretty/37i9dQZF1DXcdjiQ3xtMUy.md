@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Stavento, LILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,632 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,660 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 16 | [La Luna](https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [La Luna](https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI) | 3:05 |
 | 17 | [Party](https://open.spotify.com/track/3E5i4Ys2tHx1WxjvCaVu4K) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Party](https://open.spotify.com/album/6e2lLFF8WN5gjiRJUku0Kf) | 3:19 |
 | 18 | [S' Agapao Giati](https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [S' Agapao Giati](https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa) | 3:48 |
-| 19 | [Mavra Gialia](https://open.spotify.com/track/61zId67ppahNpBdcf2cVzH) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Mavra Gialia](https://open.spotify.com/album/4bOTyitTQMaaN4I3ObGIre) | 2:37 |
+| 19 | [Mavra Gialia](https://open.spotify.com/track/61zId67ppahNpBdcf2cVzH) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Beyond](https://open.spotify.com/artist/6AR9kA5fYGjpH8uAflO3Up), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Mavra Gialia](https://open.spotify.com/album/4bOTyitTQMaaN4I3ObGIre) | 2:37 |
 | 20 | [Exeis Ta Matia 2024](https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0) | [Thelxi](https://open.spotify.com/artist/7s6h5FkIxQL153eAozGzM7), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Exeis Ta Matia 2024](https://open.spotify.com/album/7lXjuneALZsQQfsfaKdiwH) | 2:46 |
 | 21 | [Bomba](https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Bomba](https://open.spotify.com/album/1qZvff3aZbd2zw9RscdR45) | 2:26 |
 | 22 | [Gia Panta Kai Mia Mera](https://open.spotify.com/track/3SkCF5ITFZ4qEJ2QPjkY4L) | [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes) | [Gia Panta Kai Mia Mera](https://open.spotify.com/album/4zY1YVxKhvJP2K7GFuDl3o) | 3:41 |

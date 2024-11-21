@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: SELMI
 
-216 songs - 10 hr 37 min
+217 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 | 2024-08-29 | 2024-10-04 |
 | [Ragazza del Mare](https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG) | [Ragazza del Mare](https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ) | 2:45 | 2024-09-26 |  |
 | [Ragazza del ‘99](https://open.spotify.com/track/76uaJQ5isjG1PV998e5ulQ) | [Boetti](https://open.spotify.com/artist/1DBR12wJQpK03Xe1M6G0vt) | [Ragazza del ‘99](https://open.spotify.com/album/0z7UGEskI3o62QgXlSZ2DQ) | 3:00 | 2024-06-27 | 2024-07-19 |
-| [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 | 2024-09-26 |  |
+| [Rigacuore](https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [Rigacuore](https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0) | 2:25 | 2024-09-26 | 2024-11-21 |
 | [Rumore](https://open.spotify.com/track/620MwmY8pV08hAixU1bKn6) | [Montegro](https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ) | [Rumore](https://open.spotify.com/album/6QOsXyx17cx4ZsDylUEQNH) | 2:29 | 2024-06-27 | 2024-07-12 |
 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 | 2024-09-05 | 2024-11-18 |
 | [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 |  |
@@ -206,6 +206,7 @@
 | [Tutta La Notte](https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Tutta La Notte](https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg) | 3:12 | 2024-09-26 | 2024-10-01 |
 | [tutte le tue onde](https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU) | [Lucia](https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1) | [tutte le tue onde](https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi) | 2:24 | 2024-09-05 |  |
 | [tuttoaposto](https://open.spotify.com/track/651BJ5dPNUhbW8n4KXhDla) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [tuttoaposto](https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA) | 3:03 | 2024-06-27 | 2024-07-05 |
+| [tuxtu](https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tuxtu](https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu) | 2:44 | 2024-11-14 |  |
 | [Tè al limone](https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Tè al limone](https://open.spotify.com/album/2JxjXBj48mmkjhoRibh0VR) | 2:51 | 2024-06-27 | 2024-07-12 |
 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-07-04 | 2024-10-25 |
 | [Un Altro Giro](https://open.spotify.com/track/6Da8hRd6GzbBYtjBtSyR1f) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Un Altro Giro](https://open.spotify.com/album/7maR5YIcAUKBY3YzfYucQ9) | 2:26 | 2024-06-27 | 2024-07-05 |

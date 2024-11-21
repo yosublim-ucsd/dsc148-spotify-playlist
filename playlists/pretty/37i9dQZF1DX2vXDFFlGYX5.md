@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vXDFFlGYX5.md) - [plain]
 
 > Music From "TIGER & BUNNY"! タイバニの世界を彩る楽曲を1つのプレイリストで！©BNP/T&B2 PARTNERS
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,854 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,855 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vXDFFlGYX5.md) - [plain]
 | 56 | [I'm "KING OF HERO"](https://open.spotify.com/track/7rcibQ7SG8e5UDLA7iE7K5) | [スカイハイ \(CV: 井上 剛\)](https://open.spotify.com/artist/53n62xqb1wixwFBiUcAwHi) | [TIGER & BUNNY \- CIRCUIT OF HERO Vol.3](https://open.spotify.com/album/5yY3XLGvaZNRa8xzK1pecq) | 4:20 |
 | 57 | [見切れヒーローイズム](https://open.spotify.com/track/2GcmtV9EdFPLkOPA3s5TvH) | [折紙サイクロン \(CV: 岡本信彦\)](https://open.spotify.com/artist/5wNBszi1Aj4la5EDUNZvJ4) | [TIGER & BUNNY \- CIRCUIT OF HERO Vol.4](https://open.spotify.com/album/7jJaCXj3AqApMtIzBmjYQD) | 4:05 |
 | 58 | [ドラゴンスマイル](https://open.spotify.com/track/5aiUXUHvDUewfLpKMcuAYD) | [ドラゴンキッド \(CV: 伊瀬茉莉也\)](https://open.spotify.com/artist/5xS25FsNrVkujZl4Wudawx) | [TIGER & BUNNY \- CIRCUIT OF HERO Vol.5](https://open.spotify.com/album/4kZPDXq07GdX7HWNoZqOo6) | 4:04 |
-| 59 | [硬く気高き誇りと共に \~ロックバイソンのテーマ\~](https://open.spotify.com/track/2g3fuZWlzZmWyejwtADoEB) | [ロックバイソン \(CV: 楠 大典\)](https://open.spotify.com/artist/3aJ3ZyRQUbqhD7qgcwR4L0) | [TIGER & BUNNY \- CIRCUIT OF HERO Vol.6](https://open.spotify.com/album/19b7wiZEYVzWkrmp6QpxAp) | 4:55 |
+| 59 | [硬く気高き誇りと共に ～ロックバイソンのテーマ～](https://open.spotify.com/track/2g3fuZWlzZmWyejwtADoEB) | [ロックバイソン \(CV: 楠 大典\)](https://open.spotify.com/artist/3aJ3ZyRQUbqhD7qgcwR4L0) | [TIGER & BUNNY \- CIRCUIT OF HERO Vol.6](https://open.spotify.com/album/19b7wiZEYVzWkrmp6QpxAp) | 4:55 |
 | 60 | [はみだし者讃歌](https://open.spotify.com/track/7D6KtbSRzToHJdUcpgcyhd) | [ワイルドタイガー \(CV: 平田広明\)](https://open.spotify.com/artist/7wnI1BmAApOJJ07CEWenw6) | [TIGER & BUNNY \- 正義の声が聞こえるかい](https://open.spotify.com/album/5GtbG1Ik0HBPe7VwSnzUG1) | 4:04 |
 | 61 | [No Farewell](https://open.spotify.com/track/5J9FzKoDVBReTfIv7HBKhn) | [バーナビー・ブルックスJr\. \(CV: 森田成一\)](https://open.spotify.com/artist/3OdhXbFF2QeMtqF8Pyq6MS) | [TIGER & BUNNY \- BEST OF HERO](https://open.spotify.com/album/1sOc0zSzUPkavHuZgdZqex) | 4:46 |
 | 62 | [POWER OF JUSTICE](https://open.spotify.com/track/5XHzV2zzGchhl35sc8ads1) | [バーナビー・ブルックスJr\. \(CV: 森田成一\)](https://open.spotify.com/artist/3OdhXbFF2QeMtqF8Pyq6MS) | [TIGER & BUNNY \- 正義の声が聞こえるかい](https://open.spotify.com/album/5GtbG1Ik0HBPe7VwSnzUG1) | 4:16 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vXDFFlGYX5.md) - [plain]
 | 79 | [タナトスの声を聞け](https://open.spotify.com/track/5JYMYuzXBeMjetKwaBoeUV) | [ルナティック \(CV: 遊佐浩二\)](https://open.spotify.com/artist/4dTVlY26QkS672kIaNLLgz) | [TIGER & BUNNY \- BEST OF HERO](https://open.spotify.com/album/1sOc0zSzUPkavHuZgdZqex) | 3:50 |
 | 80 | [The Rising \-Theme for APOLLON\-](https://open.spotify.com/track/6TYY0ddHWuYEnqiXw95Vak) | [ゴールデンライアン \(CV: 中村悠一\)](https://open.spotify.com/artist/6jfyqTEq4yHWNv7Yo0bI3p), [バーナビー・ブルックスJr\. \(CV: 森田成一\)](https://open.spotify.com/artist/3OdhXbFF2QeMtqF8Pyq6MS) | [劇場版TIGER & BUNNY \-The Rising\- オリジナル・サウンドトラック](https://open.spotify.com/album/5H2HVNyeYpxGmrFoFlr2lQ) | 3:23 |
 | 81 | [March of Uroboros](https://open.spotify.com/track/4WeOsutk2RmU1ad5PJcOx1) | [Yoshihiro Ike](https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U) | [TIGER & BUNNY \- オリジナル・サウンドトラック](https://open.spotify.com/album/3wjkoVYkhgHpeQEFKfbfT1) | 3:47 |
-| 82 | [Fiat Lux \~聖書「光りあれ」より\~](https://open.spotify.com/track/2UdiH2X33x31HLkd2nqMmJ) | [Yoshihiro Ike](https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U) | [TIGER & BUNNY \- オリジナル・サウンドトラック](https://open.spotify.com/album/3wjkoVYkhgHpeQEFKfbfT1) | 2:33 |
+| 82 | [Fiat Lux ～聖書「光りあれ」より～](https://open.spotify.com/track/2UdiH2X33x31HLkd2nqMmJ) | [Yoshihiro Ike](https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U) | [TIGER & BUNNY \- オリジナル・サウンドトラック](https://open.spotify.com/album/3wjkoVYkhgHpeQEFKfbfT1) | 2:33 |
 | 83 | [Never Fight! Kotetsu](https://open.spotify.com/track/5vxdozuSISBuUxeIOk9xZw) | [Yoshihiro Ike](https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U) | [劇場版TIGER & BUNNY \-The Beginning\- オリジナル・サウンドトラック](https://open.spotify.com/album/48vzb6XswZBcdker3JgpVd) | 2:57 |
 | 84 | [The Red Moon](https://open.spotify.com/track/2fHsSBQHlN2DF7aSkV2aTR) | [Yoshihiro Ike](https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U) | [TIGER & BUNNY \- オリジナル・サウンドトラック](https://open.spotify.com/album/3wjkoVYkhgHpeQEFKfbfT1) | 3:29 |
 | 85 | [Family Union](https://open.spotify.com/track/0Sl2CyZ1qgF5BYoyPGg0zz) | [Yoshihiro Ike](https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U) | [TIGER & BUNNY \- オリジナル・サウンドトラック](https://open.spotify.com/album/3wjkoVYkhgHpeQEFKfbfT1) | 2:27 |

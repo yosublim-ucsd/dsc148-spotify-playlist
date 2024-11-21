@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-307 songs - 15 hr 55 min
+308 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [ADVICE](https://open.spotify.com/track/5nPbBpS7oaX1Y9P8vmIa8b) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:02 | 2024-11-15 |  |
 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 | 2023-03-28 | 2023-11-24 |
 | [Aji Ghanta](https://open.spotify.com/track/6MSf6wBJfiICajQRd6UTZJ) | [Hashtag Rv](https://open.spotify.com/artist/4WvHsUaJVGnrRKJSEIKfHV) | [Aji Ghanta](https://open.spotify.com/album/6hg62gYftHls0qCgajYfVQ) | 2:29 | 2024-10-23 |  |
-| [Ajj Di Ghadi](https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE) | [Mandys](https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu) | [Ajj Di Ghadi](https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3) | 2:04 | 2024-03-18 | 2024-11-16 |
+| [Ajj Di Ghadi](https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE) | [Mandys](https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu) | [Ajj Di Ghadi](https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3) | 2:04 | 2024-03-18 |  |
 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 | 2023-07-24 |  |
 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 |  |
 | [Alcoholic](https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:23 | 2024-10-18 |  |
@@ -151,6 +151,7 @@
 | [Inform me](https://open.spotify.com/track/0ek0ApZzBwlLjhMDmxQG3N) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Inform me](https://open.spotify.com/album/47srYYfK2BMfgAiHh66Ozh) | 3:30 | 2023-04-03 | 2023-04-29 |
 | [Jaat](https://open.spotify.com/track/2yDrzP2riEk9nj0z94cJ4h) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Fakeer Music](https://open.spotify.com/artist/3JRA310czJn79acuTTDetA) | [Boon](https://open.spotify.com/album/5SpdwWStrbkgR4WLedB7ih) | 2:12 | 2024-05-07 |  |
 | [Jaat Brat](https://open.spotify.com/track/7mYpS6ZxxD5hVXtnorjceQ) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8) | [Jaat Brat](https://open.spotify.com/album/3q0KhGknaKrmSTyr7PCbmf) | 3:02 | 2024-08-30 |  |
+| [Jaat Drip](https://open.spotify.com/track/40NK2jX5LKFINVXZc8EWP2) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Jaat Drip](https://open.spotify.com/album/0WcL9oDVW96gcSJqmWdCpm) | 2:27 | 2024-11-15 |  |
 | [Jaat Hai Ke?](https://open.spotify.com/track/1xbUl3I72bPCrdAxPWR51S) | [Hemant Faujdar](https://open.spotify.com/artist/4fzTq8u4SYeCbUvgs3ysI1) | [Jaat Hai Ke?](https://open.spotify.com/album/17zPN0SR4GQb2Tg6aE5RiA) | 2:49 | 2024-02-06 |  |
 | [Jaat Warrior's 2](https://open.spotify.com/track/0lP4CU1KyUr4kKdrRlJHC4) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/31bWRAyu7Gv5sBgE6c5cwY) | 3:13 | 2023-12-14 | 2024-02-21 |
 | [Jaat Warrior's 2](https://open.spotify.com/track/5BkaKLfWqHkeOVpnnis9aL) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/77vZGIjLDfVzmCcEVIThXx) | 3:13 | 2024-02-23 | 2024-04-19 |
@@ -188,7 +189,7 @@
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 | 2023-07-07 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-08-31 |  |
 | [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 | 2024-04-10 |
-| [Lal Dabbi](https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo) | [Lal Dabbi](https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM) | 3:04 | 2024-04-18 |  |
+| [Lal Dabbi](https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo) | [Lal Dabbi](https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM) | 3:04 | 2024-04-18 | 2024-11-21 |
 | [Lemme Know](https://open.spotify.com/track/4YU9SN7GT4cAZPjSdhjnKo) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Lemme Know](https://open.spotify.com/album/1JJKTzJOd3yIBobyq2ktLJ) | 3:41 | 2024-04-24 |  |
 | [Maan Ja Chhori](https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [Maan Ja Chhori](https://open.spotify.com/album/0uInM6EbRS3Y3Yp8SbiFYJ) | 2:30 | 2024-08-26 |  |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 |  |

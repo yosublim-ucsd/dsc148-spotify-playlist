@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,152 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,154 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 21 | [Mais oú? \- Single Version](https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Golden Greats](https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw) | 4:14 |
 | 22 | [Hip Hop Kultur \(feat\. Black Tiger & Skelt!\)](https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a) | [AOH Family](https://open.spotify.com/artist/6J8clSIX1gKyknptGxlAct), [Black Tiger](https://open.spotify.com/artist/4okygcKGLIMASoQNIldJWZ), [Skelt!](https://open.spotify.com/artist/72mwhpTF4TBBZo0erVXELM) | [Chill](https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF) | 4:08 |
 | 23 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
-| 24 | [Mini Homeboys](https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5) | [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [Bar](https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG) | 4:12 |
-| 25 | [Mond](https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 4:01 |
+| 24 | [Mond](https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 4:01 |
+| 25 | [Mini Homeboys](https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5) | [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [Bar](https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG) | 4:12 |
 | 26 | [Luftloch](https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N) | [Moskito](https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va) | [Maxilla](https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su) | 4:55 |
 | 27 | [Vom Feinste](https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b) | [Ruff](https://open.spotify.com/artist/6c4A4szzdPRitveDWGOP87), [Arthi](https://open.spotify.com/artist/4jNAeGaooM9Is7PEXBmhP9), [Jears](https://open.spotify.com/artist/0g9eVkK9DaH2pyZmCQK7iP) | [Uhrsprung](https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb) | 4:13 |
 | 28 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 30 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
 | 31 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
 | 32 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
-| 33 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
-| 34 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
-| 35 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
+| 33 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
+| 34 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
+| 35 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
 | 36 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
 | 37 | [Antihelda](https://open.spotify.com/track/4aTG1xUHF1qZR8czxkpjW5) | [Gimma](https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv) | [Unmensch](https://open.spotify.com/album/6IJX3an6LJLXNuk9uf5gG1) | 4:08 |
 | 38 | [Volksmusigg](https://open.spotify.com/track/3S09OtRKrgj8XD3tWsQpLe) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Yves Spink](https://open.spotify.com/album/3RRlOwXXKu0Mc6Xhg8oQk8) | 3:26 |
