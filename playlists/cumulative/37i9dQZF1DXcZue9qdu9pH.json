@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 183433,
       "name": "Divine Intervention - Acoustic",
       "url": "https://open.spotify.com/track/0ROiUmUgUIuTRjS6VBdwHU"
@@ -1038,6 +1038,32 @@
       "duration_ms": 166666,
       "name": "Money Emotions",
       "url": "https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq"
+    },
+    {
+      "album": {
+        "name": "olympean",
+        "url": "https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Hurricane Dan Fischer",
+          "url": "https://open.spotify.com/artist/6FBvTqUW5FkfopSN89CGtP"
+        },
+        {
+          "name": "Ridym",
+          "url": "https://open.spotify.com/artist/0oHKQJYVEgW3r3NzOX0YyY"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153625,
+      "name": "moonblush",
+      "url": "https://open.spotify.com/track/5vopOwOC7OSmxGBqNf8aRa"
     },
     {
       "album": {
@@ -1819,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/4UU3AuDsnhCk6QDwNZci6p"
+      },
+      "artists": [
+        {
+          "name": "Alisha Popat",
+          "url": "https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0D3SNWVC7KAzCy8jnBwqln"
+    },
+    {
+      "album": {
         "name": "Tamagotchi",
         "url": "https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R"
       },
@@ -1968,7 +2012,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168000,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ"

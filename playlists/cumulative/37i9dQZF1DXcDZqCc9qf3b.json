@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "The Way It Was Before (End Credits Version) [From the Netflix film by Skydance Animation \"Spellbound\"]",
+        "url": "https://open.spotify.com/album/60hiESggNyRXv4japokeyn"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226277,
+      "name": "The Way It Was Before (End Credits Version)",
+      "url": "https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB"
+    },
+    {
+      "album": {
         "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 
 > Big rock tracks from 2019\. Cover: Machine Gun Kelly/YUNGBLUD/Travis Barker
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,112 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 | 6 | [Ausländer](https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 3:51 |
 | 7 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 |
 | 8 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
-| 9 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
-| 10 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
+| 9 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
+| 10 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 11 | [11 Minutes \(with Halsey feat\. Travis Barker\)](https://open.spotify.com/track/4mGdjNMo0RonTlOEb7cYg4) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [11 Minutes \(with Halsey feat\. Travis Barker\)](https://open.spotify.com/album/7jY0r3cjoRY6M3IqRb1m7H) | 3:59 |
 | 12 | [Bow Down](https://open.spotify.com/track/5qD3Qv8Wu3r5uRD0DahcZy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 4:02 |
 | 13 | [Hurt](https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 | 55 | [Borderlines](https://open.spotify.com/track/7JcsItFKeN3lxQuSjSnzFK) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Gold & Grey](https://open.spotify.com/album/73rGQwg2KzF2ZJadR7FzQ8) | 6:16 |
 | 56 | [Just Like Ringing a Bell](https://open.spotify.com/track/0knThWRiKruOwcPbFRpcPP) | [Titus Andronicus](https://open.spotify.com/artist/5lJ4XQ2hlPlxACN7q3xKL1) | [An Obelisk](https://open.spotify.com/album/3wGeXcYHGi2y0Ox9MvdGGS) | 3:30 |
 | 57 | [Come Around](https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx) | 3:30 |
-| 58 | [Take Control](https://open.spotify.com/track/4ayIpClJzUh43tJgzyPI9f) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Take Control EP](https://open.spotify.com/album/60fONqEriuAr5UWfkIXJPa) | 3:27 |
+| 58 | [No Roots](https://open.spotify.com/track/6vXeC42lnuinYXyjKJiDHu) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [MINT](https://open.spotify.com/album/2FEGUDyvpMp7KlrVrBN0q7) | 3:57 |
 | 59 | [Sunday Driver](https://open.spotify.com/track/4sFqnKblhJ1Q78T5DpCVYD) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger \(With Track\-by\-Track Commentary\)](https://open.spotify.com/album/7hUXTSJ66iobSF352n2GT8) | 3:38 |
-| 60 | [No Roots](https://open.spotify.com/track/6vXeC42lnuinYXyjKJiDHu) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [MINT](https://open.spotify.com/album/2FEGUDyvpMp7KlrVrBN0q7) | 3:57 |
+| 60 | [Take Control](https://open.spotify.com/track/4ayIpClJzUh43tJgzyPI9f) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Take Control EP](https://open.spotify.com/album/60fONqEriuAr5UWfkIXJPa) | 3:27 |
 
 Snapshot ID: `Zo2++QAAAACY+M2vKvCRI8HRp2tA4Ts1`

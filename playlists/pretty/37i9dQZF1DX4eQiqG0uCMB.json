@@ -1,15 +1,15 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 36032,
+  "num_followers": 36063,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zzc4EwAAAACJJyyWy6370Li15iO9zPjC",
+  "snapshot_id": "Zz/JvAAAAADvBF0pmf3Yh0PdboyuEER1",
   "tracks": [
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Realms",
         "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Be Easy",
         "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Live from Paris (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2qChmTFMg5D2Ingc7Mjy4J"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+        }
+      ],
+      "duration_ms": 236053,
+      "name": "Catch the Wind - Acoustic Version",
+      "url": "https://open.spotify.com/track/514lgnRIexfb9nr89KHYxX"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -81,151 +97,7 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "ARABAMBI (Acoustic)",
-        "url": "https://open.spotify.com/album/4MfFAULzlha3XyidqSykLu"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 216375,
-      "name": "ARABAMBI - Acoustic",
-      "url": "https://open.spotify.com/track/3IWrciCBCWopk57MBY9lgL"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Morning Glory",
-        "url": "https://open.spotify.com/album/32gRbloKLzcW1CVJbXql8e"
-      },
-      "artists": [
-        {
-          "name": "Narah",
-          "url": "https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh"
-        },
-        {
-          "name": "Seyyoh",
-          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/0L2WB5mMXqMwKRG4cIkvU4"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "GOLD II",
-        "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        },
-        {
-          "name": "GOLD",
-          "url": "https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Bang!",
-        "url": "https://open.spotify.com/album/6Rjw6loSBCxD0Laj1WR6uh"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/1nnOecYV4M4EXbZqa1UazG"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "With Open Arms",
-        "url": "https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg"
-      },
-      "artists": [
-        {
-          "name": "Ogranya",
-          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "With Open Arms",
-      "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
@@ -241,7 +113,23 @@
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/3cn5nIvrNELVlQNGuGevlv"
+      },
+      "artists": [
+        {
+          "name": "Wapo",
+          "url": "https://open.spotify.com/artist/7bsdZxG79PZ5aFeubDD13H"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/30nZk02B1AIpJrWQIvECqk"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
@@ -261,27 +149,23 @@
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "WAHALA (Stressed)",
-        "url": "https://open.spotify.com/album/05L6FePvgnL7hYRMaMeWjd"
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
       "artists": [
         {
-          "name": "theSylk",
-          "url": "https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX"
-        },
-        {
-          "name": "Jake Cromwell",
-          "url": "https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 235151,
-      "name": "WAHALA (Stressed)",
-      "url": "https://open.spotify.com/track/14JmQapOfMzE13SP7OeAfP"
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
@@ -301,7 +185,7 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Jaga Jaga (with Babyboy AV)",
         "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
@@ -321,115 +205,7 @@
       "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Lofi Afrobeats",
-        "url": "https://open.spotify.com/album/15clSwjH1f0FadaU3AQjbv"
-      },
-      "artists": [
-        {
-          "name": "Cobby Dollar",
-          "url": "https://open.spotify.com/artist/0SP1ZiXtFAc6L7ZKmPdx3A"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Afrobeat Soul",
-      "url": "https://open.spotify.com/track/70zP3dZqVVDLmUYUMXCGBn"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Ah Well",
-        "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        },
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ah Well",
-      "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Lagos Paris London",
-        "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
-      },
-      "artists": [
-        {
-          "name": "Yannis & The Yaw",
-          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
-        },
-        {
-          "name": "Yannis",
-          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
-        }
-      ],
-      "duration_ms": 240711,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Painless Melody",
-        "url": "https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Painless Melody",
-      "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
@@ -449,7 +225,7 @@
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
@@ -469,7 +245,7 @@
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
@@ -485,7 +261,39 @@
       "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
@@ -501,7 +309,7 @@
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Rave & Roses (Ultra)",
         "url": "https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6"
@@ -517,7 +325,7 @@
       "url": "https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
@@ -533,23 +341,7 @@
       "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
@@ -565,7 +357,7 @@
       "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
@@ -589,7 +381,39 @@
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "What Is Finished Has Began",
+        "url": "https://open.spotify.com/album/0sSV7TcVOkYRXEkp0CeRB5"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "What Is Finished Has Began",
+      "url": "https://open.spotify.com/track/057FOdCftxO0VRBKVbzso0"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
@@ -605,7 +429,7 @@
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "SOMETHING",
         "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
@@ -621,7 +445,7 @@
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
@@ -637,7 +461,7 @@
       "url": "https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Proof Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
@@ -653,7 +477,7 @@
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
@@ -673,7 +497,7 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
@@ -689,23 +513,7 @@
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
@@ -721,23 +529,23 @@
       "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "No Dey Form",
         "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
@@ -753,7 +561,23 @@
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "APOLLO",
         "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
@@ -769,7 +593,7 @@
       "url": "https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
@@ -785,7 +609,7 @@
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
@@ -805,7 +629,27 @@
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Lagos Paris London",
+        "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
+      },
+      "artists": [
+        {
+          "name": "Yannis & The Yaw",
+          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "duration_ms": 240711,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
@@ -821,7 +665,7 @@
       "url": "https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "WITH YOU",
         "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
@@ -837,7 +681,7 @@
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Hypertension",
         "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
@@ -853,7 +697,7 @@
       "url": "https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "DKT",
         "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
@@ -869,7 +713,7 @@
       "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
-      "added_at": "2024-11-15 12:01:23",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu"
@@ -887,6 +731,146 @@
       "duration_ms": 230020,
       "name": "Know You",
       "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Bodija / Folake",
+        "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 151014,
+      "name": "Something sweet",
+      "url": "https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Mukulu",
+      "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 163604,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/71NRY0QzNjfk4slnJ5Q1lh"
     }
   ],
   "unique_name": "Sound Semester ",

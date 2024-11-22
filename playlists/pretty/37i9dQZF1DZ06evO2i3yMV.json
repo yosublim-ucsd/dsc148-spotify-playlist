@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8225,
+  "num_followers": 8226,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAADcW+nCLhPfomcIThVmvFD9",
+  "snapshot_id": "Zz0mgAAAAACL5UdR8DOWFvMROHU7HtTk",
   "tracks": [
     {
       "added_at": null,
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 266345,
-      "name": "House of Dal",
-      "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+      "duration_ms": 266345,
+      "name": "House of Dal",
+      "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

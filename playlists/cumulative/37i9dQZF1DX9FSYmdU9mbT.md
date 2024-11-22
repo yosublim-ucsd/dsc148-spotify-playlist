@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Djavan
 
-155 songs - 9 hr 54 min
+156 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Coração Vagabundo](https://open.spotify.com/track/20vPQfpYA6qfYGblGAWSvS) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 2:36 | 2021-12-31 | 2022-01-21 |
 | [Corra e Olhe o Céu](https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Canta Cartola](https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5) | 2:26 | 2022-06-24 | 2024-04-19 |
 | [Corra e Olhe o Céu \- Ao Vivo](https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Corra e Olhe o Céu \(Ao Vivo\)](https://open.spotify.com/album/79DPA9Kvc8oVkSQCqt8rSV) | 2:25 | 2021-12-31 |  |
-| [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 | 2021-12-31 | 2022-08-27 |
+| [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 | 2021-12-31 |  |
 | [De Volta Ao Começo](https://open.spotify.com/track/3gKVp2pfgNXXoENC4UXbIo) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 2:50 | 2021-12-31 | 2022-01-21 |
 | [Depois](https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 2:53 | 2022-06-24 | 2024-04-19 |
 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 | 2021-12-31 |  |
@@ -86,6 +86,7 @@
 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 | 2021-12-31 |  |
 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 | 2022-11-09 |  |
 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 | 2021-12-31 |  |
+| [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 | 2024-11-21 |  |
 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 | 2021-12-31 |  |
 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 | 2021-12-31 |  |
 | [Lábios Que Beijei](https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Lábios Que Beijei](https://open.spotify.com/album/1wUzUUx7Uush6TxCnkp0AS) | 4:04 | 2021-12-31 | 2022-08-27 |

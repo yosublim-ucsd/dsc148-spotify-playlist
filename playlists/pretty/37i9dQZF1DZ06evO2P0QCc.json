@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 112952,
+  "num_followers": 112974,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAADuEcb7qllgMxVJ1vOBUA9a",
+  "snapshot_id": "Zz0mgAAAAAAURAhXhssAt3xI1X6Kc0/C",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luna (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 321493,
+      "name": "Luna - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 206694,
       "name": "Convaleciente",
       "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 321493,
-      "name": "Luna - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
     },
     {
       "added_at": null,

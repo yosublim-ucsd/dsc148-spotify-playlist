@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Alex Wyse",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: SETTEMBRE",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 181732,
       "name": "17 anni (PANICO)",
       "url": "https://open.spotify.com/track/5nlJwV1jDu4hhQdY3YsG8W"
+    },
+    {
+      "album": {
+        "name": "2 DI NOTTE",
+        "url": "https://open.spotify.com/album/7cKDdcCQOppoElo1DzF0b0"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180685,
+      "name": "2 DI NOTTE",
+      "url": "https://open.spotify.com/track/3A6cNspp2smTRIRqlZwhk1"
     },
     {
       "album": {
@@ -6543,6 +6561,24 @@
     },
     {
       "album": {
+        "name": "Nuvola",
+        "url": "https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1"
+      },
+      "artists": [
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Nuvola",
+      "url": "https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw"
+    },
+    {
+      "album": {
         "name": "NUVOLA",
         "url": "https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk"
       },
@@ -7227,6 +7263,24 @@
     },
     {
       "album": {
+        "name": "PERICOLOSA",
+        "url": "https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "PERICOLOSA",
+      "url": "https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt"
+    },
+    {
+      "album": {
         "name": "PERLE",
         "url": "https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf"
       },
@@ -7296,6 +7350,28 @@
       "duration_ms": 199845,
       "name": "Piango In Discoteca",
       "url": "https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ"
+    },
+    {
+      "album": {
+        "name": "PIAZZALE MICHELANGELO",
+        "url": "https://open.spotify.com/album/7BDts23lmlCtOadFH8yOyV"
+      },
+      "artists": [
+        {
+          "name": "Ascanio",
+          "url": "https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI"
+        },
+        {
+          "name": "JARO",
+          "url": "https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "PIAZZALE MICHELANGELO",
+      "url": "https://open.spotify.com/track/4qWPde1KTA5SgkZzcLrLHK"
     },
     {
       "album": {
@@ -10388,6 +10464,46 @@
       "duration_ms": 170500,
       "name": "Viole e Violini",
       "url": "https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm"
+    },
+    {
+      "album": {
+        "name": "violenza",
+        "url": "https://open.spotify.com/album/0NMw6VlB1DUFMyoOX5v8Os"
+      },
+      "artists": [
+        {
+          "name": "Diego Stray",
+          "url": "https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "violenza",
+      "url": "https://open.spotify.com/track/1yVLQv8SOjFIbV2IKCdy4s"
+    },
+    {
+      "album": {
+        "name": "Virt\u00f9 dei fragili",
+        "url": "https://open.spotify.com/album/6gAyQzb1vrS1epJLXxNhxF"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Virt\u00f9 dei fragili",
+      "url": "https://open.spotify.com/track/2zQorQicWbyz2piMgK0U3b"
     },
     {
       "album": {

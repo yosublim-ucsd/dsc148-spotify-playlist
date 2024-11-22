@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: Dillom
 
-214 songs - 14 hr 39 min
+215 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100 Años](https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:01 | 2022-04-01 | 2024-11-12 |
 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 | 2024-01-03 | 2024-11-21 |
 | [9 de Julio](https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:46 | 2022-04-01 |  |
-| [Ahí](https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Tocando Mañana](https://open.spotify.com/album/6XCws2Vp6vVq8GosvDqWvz) | 4:03 | 2022-04-01 |  |
+| [Ahí](https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Tocando Mañana](https://open.spotify.com/album/6XCws2Vp6vVq8GosvDqWvz) | 4:03 | 2022-04-01 | 2024-11-22 |
 | [Amando A Mi Guitarra](https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Fiesta Sudaka \(Parte 1\)](https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu) | 5:35 | 2022-04-01 | 2023-10-04 |
 | [Amar y Envejecer](https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 7:11 | 2022-04-01 | 2024-11-12 |
 | [Amor de Contramano](https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy) | 5:57 | 2022-04-01 | 2024-11-12 |
@@ -78,6 +78,7 @@
 | [Fuera De Control \(En Vivo\)](https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Tan \(En Vivo\)](https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz) | 3:32 | 2023-10-05 | 2024-04-19 |
 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 | 2022-07-08 |  |
 | [Hasta La Victoria](https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Perfecto](https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC) | 3:48 | 2022-04-01 | 2023-05-23 |
+| [Historias](https://open.spotify.com/track/2zksb0j5tjiG83xPDIYuBg) | [El Padre César](https://open.spotify.com/artist/6PjvpIOzogn283TGorNxKN), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Historias](https://open.spotify.com/album/3WqoOfnRn68SsPTtkK3A5O) | 2:54 | 2024-11-21 |  |
 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 | 2022-04-01 |  |
 | [Homero](https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 4:24 | 2024-01-03 | 2024-04-19 |
 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 | 2022-04-01 |  |

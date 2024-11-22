@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,293 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,650 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 42 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 |
 | 43 | [Confession](https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Confession](https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss) | 2:52 |
 | 44 | [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 |
-| 45 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
+| 45 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
 | 46 | [settings!](https://open.spotify.com/track/3TDZRV8TdWySueKV3UX3j2) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:35 |
 | 47 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
 | 48 | [Loopy](https://open.spotify.com/track/1FQ4gFzY4SAsvVtqqzBcOW) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Loopy](https://open.spotify.com/album/6HzhPQQ81iZ8wMLhmDBjGS) | 2:21 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 52 | [SUMN PRETTY](https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SUMN PRETTY](https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn) | 2:38 |
 | 53 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 |
 | 54 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 |
-| 55 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 |
+| 55 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 |
 
 Snapshot ID: `ZzUFSAAAAACNjRnlfjKx7hwmCfxDIaH/`

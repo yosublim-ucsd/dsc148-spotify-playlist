@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Goes best with small chops and party jollof
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,903 likes - 57 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,907 likes - 57 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

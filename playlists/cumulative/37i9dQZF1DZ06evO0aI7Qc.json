@@ -2301,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "Le Apodan El Fresa",
+        "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194541,
+      "name": "Le Apodan El Fresa",
+      "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
+    },
+    {
+      "album": {
         "name": "Le Compre Casa A Mi Ama",
         "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
       },

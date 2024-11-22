@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-577 songs - 1 day 6 hr 22 min
+578 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Kiki](https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR) | [Leftizzle](https://open.spotify.com/artist/0UJ4laOahyFVmjDyLPHJc8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Kiki](https://open.spotify.com/album/004vsMw80QFIVP2MWgSfOd) | 3:22 | 2024-07-12 | 2024-10-05 |
 | [Killa Ji Mi](https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Killa Ji Mi](https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q) | 2:43 | 2024-08-29 | 2024-10-28 |
 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 | 2024-06-21 |  |
-| [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
+| [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 | 2024-11-22 |
 | [Knocking \(Remix\)](https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM) | [Knocking \(Remix\)](https://open.spotify.com/album/7e1Vbnaoy1o4i5ebxqAfgt) | 3:14 | 2022-10-30 | 2023-01-21 |
 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 | 2022-09-09 | 2023-09-27 |
 | [Kom](https://open.spotify.com/track/5cnW4vF3zPUfNGNR2dzDVf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Kom](https://open.spotify.com/album/7KH66XzcwUnvuTLcbfuHxX) | 2:50 | 2023-09-29 | 2023-10-02 |
@@ -424,6 +424,7 @@
 | [Pressure \(feat\. Thama Tee\)](https://open.spotify.com/track/5Z4GEEF7ePjdUzPY6CKOoI) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Pressure \(feat\. Thama Tee\)](https://open.spotify.com/album/49M4TyiZuRTkryPF2T9BMA) | 3:57 | 2024-04-26 | 2024-05-17 |
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-10-30 | 2022-11-16 |
 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2023-06-09 | 2023-09-28 |
+| [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 | 2024-11-22 |  |
 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 | 2022-10-13 | 2023-01-28 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 | 2023-02-24 |
 | [PUFF PUFF](https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [PUFF PUFF](https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm) | 2:44 | 2024-10-18 | 2024-11-16 |

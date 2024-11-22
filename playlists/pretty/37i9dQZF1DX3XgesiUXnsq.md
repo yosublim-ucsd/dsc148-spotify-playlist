@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,706 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,771 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 6 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
 | 7 | [1985 \- Intro to “The Fall Off”](https://open.spotify.com/track/7EulRO07ZgchxqKUHb8Pvc) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:10 |
 | 8 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
-| 9 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
+| 9 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
 | 10 | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/track/4OTmDHEUGop3Qw1GAXm3F9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/album/1VY0UoPeaR3V7P4sA55KnW) | 3:46 |
 | 11 | [Mind Playing Tricks on Me](https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [We Can't Be Stopped](https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4) | 5:08 |
 | 12 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |

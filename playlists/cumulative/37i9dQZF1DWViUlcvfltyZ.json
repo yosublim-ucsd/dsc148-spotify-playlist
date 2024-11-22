@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 GINEVRA in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Mondaze in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 206366,
       "name": "Alfabeto Morse",
       "url": "https://open.spotify.com/track/7hgbQAeDkakYnio3JsUblh"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 210872,
       "name": "Bevi Troppo",
       "url": "https://open.spotify.com/track/2rxDjE0b2YmZ6wQmO3gh3W"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 144449,
       "name": "Cane",
       "url": "https://open.spotify.com/track/2e3OME9HzsagNojdCNLCcm"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 289764,
       "name": "Chinito",
       "url": "https://open.spotify.com/track/47e9RGkocSwKaxhq3nscN2"
@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167018,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/3dmDKB9fmskXEjZcMniFh8"
@@ -4454,6 +4454,24 @@
       "duration_ms": 154842,
       "name": "Contare 0",
       "url": "https://open.spotify.com/track/0ErWsPtoGFO8qDnEbxJRkO"
+    },
+    {
+      "album": {
+        "name": "Contro Saturno",
+        "url": "https://open.spotify.com/album/01pBO95hZFZtycj2qD8CsD"
+      },
+      "artists": [
+        {
+          "name": "Pop V\u00e9ronique",
+          "url": "https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Contro Saturno",
+      "url": "https://open.spotify.com/track/4XQiHvu0vtucLjbR3eEZq6"
     },
     {
       "album": {
@@ -5753,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/2lIiJ4z6igQv2ttgP1PX6i"
+      },
+      "artists": [
+        {
+          "name": "Mondaze",
+          "url": "https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "Dusty Eyes",
+      "url": "https://open.spotify.com/track/4INIkh0QycwEh1o5l8zDvL"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/4qq6sl99NWDbnySzlnUGiT"
       },
@@ -6554,6 +6590,24 @@
       "duration_ms": 165277,
       "name": "Falling under",
       "url": "https://open.spotify.com/track/0wiTdQwKlof1MfonOohkyb"
+    },
+    {
+      "album": {
+        "name": "Far tremare il corpo",
+        "url": "https://open.spotify.com/album/6MKZrpg6YXvSCANmb9NuuD"
+      },
+      "artists": [
+        {
+          "name": "Chiv\u00e0la",
+          "url": "https://open.spotify.com/artist/2aG1EHtNL5uPbCVPEuzTJH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172731,
+      "name": "Far tremare il corpo",
+      "url": "https://open.spotify.com/track/6LKLQQWwZgUGEcfhm6qMZ9"
     },
     {
       "album": {
@@ -8038,6 +8092,24 @@
       "duration_ms": 161934,
       "name": "Globuli Rossi",
       "url": "https://open.spotify.com/track/03qG1nmLmKUrgY1ZnTpECZ"
+    },
+    {
+      "album": {
+        "name": "gloom",
+        "url": "https://open.spotify.com/album/6kXcjTkSNRrisC8C5QSmUO"
+      },
+      "artists": [
+        {
+          "name": "PUNKCAKE",
+          "url": "https://open.spotify.com/artist/6APLj5QmyOtIOVG15SETvR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117305,
+      "name": "gloom",
+      "url": "https://open.spotify.com/track/3LDN8d2SzarrAJCm9swqT6"
     },
     {
       "album": {
@@ -9676,7 +9748,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 194027,
       "name": "Invisibile",
       "url": "https://open.spotify.com/track/2Arm5lPwb1mUayrzYy6EZN"
@@ -10786,7 +10858,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 82914,
       "name": "LA SIGNORA DEI BACI",
       "url": "https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs"
@@ -12841,6 +12913,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0iJrCqDHPcq8Y88qQEWpmi"
+      },
+      "artists": [
+        {
+          "name": "Les Votives",
+          "url": "https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2Imf5A0uAWGe8P1Rf8ZIK3"
+    },
+    {
+      "album": {
         "name": "Pastimes",
         "url": "https://open.spotify.com/album/4ep2PpS27FYkcXqje4ibyE"
       },
@@ -13993,6 +14083,24 @@
     },
     {
       "album": {
+        "name": "Not a Song for U",
+        "url": "https://open.spotify.com/album/5DrQcWGXrSFuuJaO78DVn8"
+      },
+      "artists": [
+        {
+          "name": "Hardcore Tamburo",
+          "url": "https://open.spotify.com/artist/7LQPw5C8KFKcwO9g6XWCBH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266830,
+      "name": "Not a Song for U",
+      "url": "https://open.spotify.com/track/0DdthnQVldWOcOkrwcvRXL"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/4gb7fCkDqvfH5Xe5Dex8Md"
       },
@@ -14456,6 +14564,24 @@
       "duration_ms": 158373,
       "name": "Open Access",
       "url": "https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ"
+    },
+    {
+      "album": {
+        "name": "Ora Che",
+        "url": "https://open.spotify.com/album/4lM6GJZu7uiWWqleL4D8st"
+      },
+      "artists": [
+        {
+          "name": "INARIA",
+          "url": "https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Ora Che",
+      "url": "https://open.spotify.com/track/0mXzzgj8MKpkaZc6dkZuJ6"
     },
     {
       "album": {
@@ -15412,6 +15538,24 @@
       "duration_ms": 220706,
       "name": "Piramide",
       "url": "https://open.spotify.com/track/5gTJGgKeFbcJvaqmZXMdpS"
+    },
+    {
+      "album": {
+        "name": "Pista Nera",
+        "url": "https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Pista nera",
+      "url": "https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka"
     },
     {
       "album": {
@@ -16396,10 +16540,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201290,
       "name": "RAFFREDDORE*",
       "url": "https://open.spotify.com/track/7uzTRPwuwJWnpc771V2joO"
+    },
+    {
+      "album": {
+        "name": "Ragazzo Fragile",
+        "url": "https://open.spotify.com/album/06wD4az9ARLJZV6KAhJQJI"
+      },
+      "artists": [
+        {
+          "name": "Balto",
+          "url": "https://open.spotify.com/artist/2u3GEhLf7fYa480zQ7e0bZ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179578,
+      "name": "Ragazzo Fragile",
+      "url": "https://open.spotify.com/track/0sAmlbM6PIRqEYzbEWIhmg"
     },
     {
       "album": {
@@ -16444,6 +16606,24 @@
       "duration_ms": 306880,
       "name": "Raha",
       "url": "https://open.spotify.com/track/2lnJEZh2IopfJ6YCeDqrGU"
+    },
+    {
+      "album": {
+        "name": "Rampicanti",
+        "url": "https://open.spotify.com/album/0l8Yd9IeNKED3u1axpA3rE"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164919,
+      "name": "Rampicanti",
+      "url": "https://open.spotify.com/track/53A1OWZenFhTVhzuGHi6fG"
     },
     {
       "album": {
@@ -17190,7 +17370,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 110751,
       "name": "Sassaiola",
       "url": "https://open.spotify.com/track/5G5bVxrHFOj7jPmDvXIBue"
@@ -17454,6 +17634,24 @@
       "duration_ms": 192631,
       "name": "Scrivere",
       "url": "https://open.spotify.com/track/6A4gpoXjKnQC0IpBqJRxAL"
+    },
+    {
+      "album": {
+        "name": "Veleno",
+        "url": "https://open.spotify.com/album/43UGY43vWG2lk1htHyQVKl"
+      },
+      "artists": [
+        {
+          "name": "lecoseimportanti",
+          "url": "https://open.spotify.com/artist/2OWhHem4vaHvD36d6xlK7B"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Scusa",
+      "url": "https://open.spotify.com/track/0Hb70ojScTaAVp4y7r1pFN"
     },
     {
       "album": {
@@ -17908,6 +18106,24 @@
       "duration_ms": 281500,
       "name": "Shirly",
       "url": "https://open.spotify.com/track/7elf321mzsREI27HuwWWGC"
+    },
+    {
+      "album": {
+        "name": "Shoegera",
+        "url": "https://open.spotify.com/album/04geTYlId05kqq8VN7oPcp"
+      },
+      "artists": [
+        {
+          "name": "Taistoi",
+          "url": "https://open.spotify.com/artist/0DLA2Quu9XLc0ivFIHhihF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121743,
+      "name": "Shoegera",
+      "url": "https://open.spotify.com/track/3YjNJ9TA70c6nSS6tQso1C"
     },
     {
       "album": {
@@ -19752,7 +19968,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 161613,
       "name": "The Trick",
       "url": "https://open.spotify.com/track/3K6njCk89hVhF0F4S7yLHw"
@@ -21068,7 +21284,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 242602,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO"
@@ -21764,7 +21980,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185152,
       "name": "Vuoto",
       "url": "https://open.spotify.com/track/596f5WmG7Q611WheySvHHW"

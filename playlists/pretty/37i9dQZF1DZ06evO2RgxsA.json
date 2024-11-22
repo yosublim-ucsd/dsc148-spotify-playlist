@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 90047,
+  "num_followers": 90062,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABbMwLceNBhO0qh/RnqmsbK",
+  "snapshot_id": "Zz0mgAAAAACZMgvQ3RlGtXeX7TepzQCu",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 153426,
-      "name": "Don't Call Me White",
-      "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
+      "duration_ms": 124426,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 124426,
-      "name": "Leave It Alone",
-      "url": "https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM"
+      "duration_ms": 153426,
+      "name": "Don't Call Me White",
+      "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
     },
     {
       "added_at": null,

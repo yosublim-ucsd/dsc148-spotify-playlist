@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,698 songs - 4 day 20 hr 17 min
+1,699 songs - 4 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [Flicker](https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:39 | 2020-05-22 | 2020-07-03 |
 | [Float](https://open.spotify.com/track/1LKo1pAertanzWdCwjykFB) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Messing With Magic](https://open.spotify.com/album/7uZGulWnnHuNfRkzGZ2yEa) | 3:32 | 2020-12-12 | 2021-01-11 |
 | [Floating](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 5 \(Floating\)](https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02) | 4:53 | 2022-08-05 | 2022-12-29 |
-| [Floodlights](https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Floodlights](https://open.spotify.com/album/2KKX05cLL1m0blKSrFKE5m) | 3:36 | 2024-07-02 |  |
+| [Floodlights](https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Floodlights](https://open.spotify.com/album/2KKX05cLL1m0blKSrFKE5m) | 3:36 | 2024-07-02 | 2024-11-22 |
 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 | 2020-10-24 | 2022-07-29 |
 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
 | [Flutter \(Feat\. Madi\)](https://open.spotify.com/track/7FiQUNyXClHIoKoy2ct96M) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Madi](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Flutter \(Feat\. Madi\)](https://open.spotify.com/album/762gMNCRrjyHEVuyUSQh4M) | 2:58 | 2020-05-22 | 2020-07-03 |
@@ -983,6 +983,7 @@
 | [MO](https://open.spotify.com/track/5ozStnkHfqXVroea7vLCpX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Colour](https://open.spotify.com/album/6z8WhxG1JnXfAWmCoVIKBA) | 4:28 | 2022-01-21 | 2022-05-07 |
 | [Modest Life](https://open.spotify.com/track/6OKVsI0IxFSsciRlB5COqB) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light/Dark Deluxe Edition\)](https://open.spotify.com/album/5cibljLILelhJ2RhDq9CxE) | 3:42 | 2020-05-18 | 2020-07-03 |
 | [Moldau](https://open.spotify.com/track/0jJgyhhY0xE7lgAUotflrp) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Moldau](https://open.spotify.com/album/4ok6tBKhUZrv0jSnOyUmix) | 7:20 | 2021-01-23 | 2022-04-21 |
+| [Moments](https://open.spotify.com/track/73Ro9Wi19muexSwwV4vTm1) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB), [Passing Clouds](https://open.spotify.com/artist/1kadXKsRuqG8fbGB8nAvO6) | [Moments](https://open.spotify.com/album/5xdxb391UwEIUp9AB0uloL) | 2:27 | 2024-11-15 |  |
 | [Moments](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Moments](https://open.spotify.com/album/29h6YzXV7UUXJRdpnQaJ9P) | 3:20 | 2020-10-23 | 2022-04-21 |
 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Moments \(Ben Böhmer & Nils Hoffmann Remix\)](https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc) | 4:10 | 2020-04-22 | 2020-07-18 |
 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/4F6dlpCLyi8jWWFEjdxCQ0) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Grow \(The Remixes\)](https://open.spotify.com/album/3dOltzM79aOC0iyFpxoZ9B) | 4:10 | 2020-07-18 | 2022-08-20 |

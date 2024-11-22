@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-146 songs - 7 hr 34 min
+147 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2023-03-18 | 2023-04-20 |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 | 2024-04-24 |
 | [KAHANI](https://open.spotify.com/track/1HBT2aq5MwWncKt4H4SiBr) | [Avin Gill](https://open.spotify.com/artist/0jl5MrF3Ry8ROjsl5Opfdp) | [KAHANI](https://open.spotify.com/album/5EktebJF2fNgJMROjzlPGS) | 2:46 | 2024-11-20 |  |
-| [Kajla](https://open.spotify.com/track/5WLhcOzSlH8fGqwVWQN7QO) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Kajla](https://open.spotify.com/album/7A8U16OreD6q9ahr2xsZY4) | 2:12 | 2024-10-08 |  |
+| [Kajla](https://open.spotify.com/track/5WLhcOzSlH8fGqwVWQN7QO) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Kajla](https://open.spotify.com/album/7A8U16OreD6q9ahr2xsZY4) | 2:12 | 2024-10-08 | 2024-11-22 |
 | [Kala Dhaga](https://open.spotify.com/track/1D7hlxCIxeKvBYUVKTa1P9) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [Kala Dhaga](https://open.spotify.com/album/6vHA6JUcG1QvLcZzRJKRiV) | 2:36 | 2023-03-18 | 2023-05-26 |
 | [Kan Akhiyaan](https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Kan Akhiyaan](https://open.spotify.com/album/5MKXR6yhcohniMtsKE32xm) | 2:24 | 2024-09-05 |  |
 | [Kangne](https://open.spotify.com/track/6IF6djka6tJw6Eshve4PIw) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI) | [Kangne](https://open.spotify.com/album/5OYsNcPXF0WdYSgJB0zVMp) | 2:49 | 2023-03-18 | 2024-08-31 |
@@ -124,6 +124,7 @@
 | [Rool Ditta Ee](https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC) | [Asif Masood](https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl), [Saba Riaz](https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN) | [Rool Ditta Ee](https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS) | 3:14 | 2024-09-11 |  |
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 |  |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 | 2024-09-29 |
+| [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 |  |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |
 | [Sheesha](https://open.spotify.com/track/1pVQtACumdjLJt2ChcyIJf) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Sheesha](https://open.spotify.com/album/1cUkKKUDmycMkQhA88gyLG) | 3:15 | 2024-09-06 | 2024-10-09 |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 |  |

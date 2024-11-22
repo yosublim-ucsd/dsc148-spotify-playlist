@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Wallice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,109 likes - 175 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,263 likes - 175 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 35 | [mistake](https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mistake](https://open.spotify.com/album/1cA2MMkwjTl4XsWlc5A8PF) | 2:36 |
 | 36 | [Under These Conditions](https://open.spotify.com/track/7cR7JpA66zQGOTH8uSLAUS) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Porch Lights](https://open.spotify.com/album/6f43WvCbH7Xymepnb1zfeC) | 3:08 |
 | 37 | [i'm not proud](https://open.spotify.com/track/0DMSQ0g0KuUjfZlqhUrUUN) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [i'm not proud](https://open.spotify.com/album/1Bq3ELClmYUqxPFfaRHNg1) | 3:02 |
-| 38 | [Give My Heart](https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star](https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe) | 3:27 |
+| 38 | [Give My Heart](https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star](https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe) | 3:26 |
 | 39 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 40 | [SPJ](https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [SPJ](https://open.spotify.com/album/3MFVcbp3tgK5fcVXRqvpal) | 3:30 |
 | 41 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 |

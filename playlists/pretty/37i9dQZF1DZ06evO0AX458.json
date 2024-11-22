@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3800,
+  "num_followers": 3801,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABv/woNVyG4pgWZOmRYargZ",
+  "snapshot_id": "Zz0mgAAAAADt8jZpBQ7juDBGH6GdaIZV",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Non Fiction",
-      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
+      "duration_ms": 91906,
+      "name": "Blue Angels",
+      "url": "https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 91906,
-      "name": "Blue Angels",
-      "url": "https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8"
+      "duration_ms": 185653,
+      "name": "Non Fiction",
+      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
     }
   ],
   "unique_name": "This Is Touch\u00e9 Amor\u00e9",

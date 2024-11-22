@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Stony x Kalipsxau
+> Les hits zouk du moment\. Photo : Oswald
 
-185 songs - 9 hr 56 min
+187 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 | 2024-02-01 | 2024-03-29 |
 | [Mayday](https://open.spotify.com/track/6NyjNLMgKnPpH3DskxJriG) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Mayday](https://open.spotify.com/album/0b45cVfN3y7J2IWaeDNgL1) | 2:57 | 2024-10-24 |  |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 | 2024-02-09 |
+| [Minimum](https://open.spotify.com/track/44lAeDpvW8PH18OPxWGuY9) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Minimum](https://open.spotify.com/album/70tsN0GNXbpD2X2sQLIEQ5) | 2:42 | 2024-11-21 |  |
 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 | 2023-12-21 | 2024-01-26 |
 | [Mon Ame \- Gouyad Remix](https://open.spotify.com/track/00rSchsTFFQtIgVvWGfdUv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [King Bouji](https://open.spotify.com/artist/1Q0GT56P1DZTHDsAYQihnX) | [Mon Ame \(Gouyad Remix\)](https://open.spotify.com/album/4KIpKdDmy0UZZ4WaqKsnpZ) | 3:06 | 2024-06-20 | 2024-08-23 |
 | [MON PÉCHÉ](https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [RM'N PROD](https://open.spotify.com/artist/43r0w2IY7M8mujZbclCzKM) | [MON PÉCHÉ](https://open.spotify.com/album/3NcbXib1tE0AgbzdeIqWhf) | 3:28 | 2023-09-28 | 2024-02-09 |
@@ -115,6 +116,7 @@
 | [Oblije Blockem \- Baby Gyal](https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Oblije Blockem \(Baby Gyal\)](https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9) | 3:28 | 2024-08-01 | 2024-08-30 |
 | [Offishal](https://open.spotify.com/track/0WQlV0IFRTgDU08LiZLr85) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk), [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [Offishal](https://open.spotify.com/album/0ViZKlgGnL2xKAgTBvbPwt) | 2:52 | 2024-02-22 | 2024-05-17 |
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 | 2024-06-14 |
+| [Ou fè'm mal](https://open.spotify.com/track/5aFXwdIy5hkZ6WZZDHnEcq) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Eclosion](https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu) | 3:18 | 2024-11-21 |  |
 | [Ou fèm vakabon](https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:33 | 2024-09-26 | 2024-11-08 |
 | [Ou Pé](https://open.spotify.com/track/0eWNcMTXQ8985SKAZM24cO) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:16 | 2024-10-10 |  |
 | [Oublie Dehors](https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Oublie Dehors](https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg) | 2:46 | 2023-09-28 | 2024-01-05 |
@@ -186,12 +188,12 @@
 | [Vide](https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh) | [Vide](https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic) | 2:20 | 2023-12-08 | 2024-02-02 |
 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 | 2023-11-30 | 2024-01-26 |
 | [Vini](https://open.spotify.com/track/2lTGtcexmJIqIFlhzTg4Pv) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [Vini](https://open.spotify.com/album/0pLVrFf6Dim0z2IV84q02w) | 3:21 | 2023-10-19 | 2023-12-01 |
-| [VIRÉ FEY](https://open.spotify.com/track/3HntoALO84z82ZIF3vJwHl) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:56 | 2024-06-06 |  |
+| [VIRÉ FEY](https://open.spotify.com/track/3HntoALO84z82ZIF3vJwHl) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:56 | 2024-06-06 | 2024-11-22 |
 | [Visa](https://open.spotify.com/track/5DBZASQQb9BjZeYyjuA1WG) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Visa](https://open.spotify.com/album/0SAjOy3Wii7Tet7MIA7Sia) | 3:41 | 2023-09-28 | 2024-01-05 |
 | [Vivre ou Pardonner](https://open.spotify.com/track/5JMZ9ZTlkTRTH9jsL0sNlF) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Gwins](https://open.spotify.com/artist/6LTbAfj4mFbQGuw2o08rVc) | [Vivre ou Pardonner](https://open.spotify.com/album/34ms9IhHgVIiiTvWLDkbRg) | 3:02 | 2023-12-28 | 2024-07-05 |
 | [Vou Et Mwen](https://open.spotify.com/track/6vq16h5EmKesnlHnyH6aWM) | [Sauce](https://open.spotify.com/artist/3Jrb45fRTmSOk2w2TePU4r), [S.A.M.O](https://open.spotify.com/artist/1FCBufI9ovdHlo2bSwGNvV) | [Vou Et Mwen](https://open.spotify.com/album/6CAnEVMN8pVMjlKp1oIXX7) | 2:38 | 2024-09-19 | 2024-10-11 |
 | [West Indies](https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [West Indies](https://open.spotify.com/album/2DJLNFCYzyX9piDBw3m7IM) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 | 2024-06-28 |
-| [Âme soeur](https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [Sodaade](https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn) | [Âme soeur](https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom) | 3:45 | 2024-08-08 |  |
+| [Âme soeur](https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [Sodaade](https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn) | [Âme soeur](https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom) | 3:45 | 2024-08-08 | 2024-11-22 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

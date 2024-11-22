@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Ana Lebnani",
+        "url": "https://open.spotify.com/album/5kYUHXEtD6A1GimOcpsq9l"
+      },
+      "artists": [
+        {
+          "name": "Nader Al Atat",
+          "url": "https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195077,
+      "name": "Ana Lebnani",
+      "url": "https://open.spotify.com/track/05yK0D4WzPDYffxjVf6FKU"
+    },
+    {
+      "album": {
         "name": "Ard El Ghajar (Nomad's Land)",
         "url": "https://open.spotify.com/album/3f4BryZ3UKeFEPjH968Okg"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 91440,
       "name": "Sabah El Kheer Ya Lebnan",
       "url": "https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo"

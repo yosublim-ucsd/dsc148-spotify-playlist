@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,326 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,329 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 46 | [DICE](https://open.spotify.com/track/6LTdHM863k5AiwRCMzOSLN) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU) | [HIDE YOUR FACE](https://open.spotify.com/album/3KHW7BoWav0uQ51ryewFFz) | 3:02 |
 | 47 | [Morgue](https://open.spotify.com/track/2oE2vbP3PrfI9mAACMIvF5) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/6knrLrwN4MgolmNvr80gBT) | 2:33 |
 | 48 | [LIGHTS](https://open.spotify.com/track/0ZxRJBw6mE4b1S3o919Nfl) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/2Li1mXDcT5wKDLi4xkmptr) | 4:44 |
-| 49 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
+| 49 | [KING & ASHLEY](https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [KING & ASHLEY](https://open.spotify.com/album/5ddFAELd3H8dmTnGfeA6nT) | 3:23 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
 Snapshot ID: `Zo37bAAAAAB1NCSOG7D4tm0L+15Cju7k`

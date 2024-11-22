@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1065444,
+  "num_followers": 1065431,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Sound Of Sunshine",
-        "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "The Sound Of Sunshine",
-      "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "30 Million",
         "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Sound Of Sunshine",
+        "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "The Sound Of Sunshine",
+      "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Barefoot On The Dancefloor",
-        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
+        "name": "Forward I Will Go",
+        "url": "https://open.spotify.com/album/56tMQe3320UxHWkAJdYcNt"
       },
       "artists": [
         {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+          "name": "Green Lion Crew",
+          "url": "https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 168650,
-      "name": "Barefoot On The Dancefloor",
-      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
+      "duration_ms": 179732,
+      "name": "Forward I Will Go",
+      "url": "https://open.spotify.com/track/4KrOo78db1JDkVVdVSL0ou"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1771,22 +1775,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Forward I Will Go",
-        "url": "https://open.spotify.com/album/56tMQe3320UxHWkAJdYcNt"
+        "name": "Barefoot On The Dancefloor",
+        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
       },
       "artists": [
         {
-          "name": "Green Lion Crew",
-          "url": "https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
         }
       ],
-      "duration_ms": 179732,
-      "name": "Forward I Will Go",
-      "url": "https://open.spotify.com/track/4KrOo78db1JDkVVdVSL0ou"
+      "duration_ms": 168650,
+      "name": "Barefoot On The Dancefloor",
+      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2215,6 +2215,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sun and the Moon (with Collie Buddz)",
+        "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 212994,
+      "name": "Sun and the Moon (with Collie Buddz)",
+      "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Good Times (Roll On)",
         "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
       },
@@ -2243,42 +2279,6 @@
       "duration_ms": 260390,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sun and the Moon (with Collie Buddz)",
-        "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 212994,
-      "name": "Sun and the Moon (with Collie Buddz)",
-      "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2431,26 +2431,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Raise It (with Mihali)",
-        "url": "https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT"
-      },
-      "artists": [
-        {
-          "name": "Coyote Island",
-          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
-        },
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "Raise It (with Mihali)",
-      "url": "https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "MEANT TO BE.",
         "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
       },
@@ -2467,6 +2447,26 @@
       "duration_ms": 207906,
       "name": "MEANT TO BE.",
       "url": "https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Raise It (with Mihali)",
+        "url": "https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT"
+      },
+      "artists": [
+        {
+          "name": "Coyote Island",
+          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
+        },
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "Raise It (with Mihali)",
+      "url": "https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2599,6 +2599,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "STRATOSPHERE.",
+        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "STRATOSPHERE.",
+      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Lyrics Over Everything",
         "url": "https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd"
       },
@@ -2635,22 +2655,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "STRATOSPHERE.",
-        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/6sxHexxRZSaulHeylFZP8f"
       },
       "artists": [
         {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
         }
       ],
-      "duration_ms": 170057,
-      "name": "STRATOSPHERE.",
-      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
+      "duration_ms": 260105,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/1qMrDdn5WfLmkQw3Np0eFW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2687,22 +2703,6 @@
       "duration_ms": 170250,
       "name": "Not The End",
       "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/6sxHexxRZSaulHeylFZP8f"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 260105,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/1qMrDdn5WfLmkQw3Np0eFW"
     },
     {
       "added_at": "2024-07-26 04:00:00",

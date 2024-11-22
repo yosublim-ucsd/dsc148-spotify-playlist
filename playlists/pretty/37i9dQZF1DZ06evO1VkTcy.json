@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21753,
+  "num_followers": 21773,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACTIPE9PsbwYkDTJ32lq0mG",
+  "snapshot_id": "Zz0mgAAAAABGUgyLOj3lmdmBMCvPNF9H",
   "tracks": [
     {
       "added_at": null,
@@ -1051,6 +1051,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Origens 3 - O Show (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy"
+      },
+      "artists": [
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 238958,
+      "name": "Liberdade - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gEBQVRSsifWkXneKO4Uk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake",
         "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
       },
@@ -1087,34 +1115,6 @@
       "duration_ms": 176111,
       "name": "Chore N\u00e3o",
       "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Origens 3 - O Show (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy"
-      },
-      "artists": [
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 238958,
-      "name": "Liberdade - Ao Vivo",
-      "url": "https://open.spotify.com/track/0gEBQVRSsifWkXneKO4Uk5"
     },
     {
       "added_at": null,
@@ -1303,26 +1303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Mais Uma Vez",
-        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187564,
-      "name": "S\u00f3 Mais Uma Vez",
-      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187564,
+      "name": "S\u00f3 Mais Uma Vez",
+      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
     },
     {
       "added_at": null,

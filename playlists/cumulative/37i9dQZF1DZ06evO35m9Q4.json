@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 270360,
       "name": "Come On, Pt. III",
       "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
@@ -1264,6 +1264,28 @@
       "duration_ms": 551786,
       "name": "Tin Pan Alley (AKA Roughest Place in Town)",
       "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
+    },
+    {
+      "album": {
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50470,
+      "name": "Turn It Over - Remastered 2024",
+      "url": "https://open.spotify.com/track/2aTykX37qTyZ59C8YZOqzP"
     },
     {
       "album": {

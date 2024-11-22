@@ -4,7 +4,7 @@
 
 > Music from Lil Baby, GloRilla and Young Nudy.
 
-2,223 songs - 4 day 19 hr 9 min
+2,224 songs - 4 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1930,6 +1930,7 @@
 | [The Largest](https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Largest](https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144) | 2:12 | 2024-08-09 |  |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 | 2019-05-26\* | 2019-09-27 |
 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 | 2023-01-19 | 2023-01-21 |
+| [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2024-11-21 |  |
 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 | 2023-08-04 | 2023-11-04 |
 | [The Parables](https://open.spotify.com/track/0uinQuLSYDMua89kLVVnjv) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Parables](https://open.spotify.com/album/2r50ydw2FOuiffavTsvXAM) | 3:14 | 2020-11-25 | 2021-02-06 |
 | [The Plan \- From the Motion Picture "TENET"](https://open.spotify.com/track/551xyaSJsg8hILXFq9JdST) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Plan \(From the Motion Picture "TENET"\)](https://open.spotify.com/album/3S4AQxtnqGJOtw1k6ZT111) | 3:05 | 2020-08-22 | 2020-09-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,981 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,984 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 26 | [Always](https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 8:02 |
 | 27 | [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 |
 | 28 | [Bird On The Wire](https://open.spotify.com/track/3UvXtf3ZXjmFDB3QSY4iXL) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [The Mayor Of MacDougal Street: Rarities 1957\-1969](https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg) | 3:29 |
-| 29 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
+| 29 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V) | [Harvey Milk](https://open.spotify.com/artist/0U06WlIl1leJMEHBf7WAwR) | [The Kelly Sessions](https://open.spotify.com/album/3PeIUnA8sZ1lubjS1zjE8D) | 2:22 |
 | 30 | [Joan of Arc](https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 6:10 |
-| 31 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V) | [Harvey Milk](https://open.spotify.com/artist/0U06WlIl1leJMEHBf7WAwR) | [The Kelly Sessions](https://open.spotify.com/album/3PeIUnA8sZ1lubjS1zjE8D) | 2:22 |
+| 31 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
 | 32 | [Hallelujah](https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [So Real: Songs From Jeff Buckley](https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY) | 6:54 |
 | 33 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 |
 | 34 | [Pequeño Vals Vienés](https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Fernandez Miró](https://open.spotify.com/artist/1jIEmZJNXh1TT7hBjCMSy2) | [Granada](https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV) | 5:34 |

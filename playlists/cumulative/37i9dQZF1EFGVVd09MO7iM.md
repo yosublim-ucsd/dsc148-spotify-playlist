@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-863 songs - 2 day 7 hr 20 min
+864 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Backseat Love](https://open.spotify.com/track/1Y8COhjk0mv8ok2aJV9mly) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Suspended Kid](https://open.spotify.com/album/6fxq6rO03F1ElbvfVkJhzY) | 3:40 | 2024-06-20 |  |
 | [Bad Girl](https://open.spotify.com/track/2DIBSNAREiXTtesz8yQo1U) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Tropical Storm](https://open.spotify.com/album/03i0DCI2eCItJIeuibuE0I) | 3:53 | 2024-06-20 | 2024-10-20 |
 | [Bad Girl \(feat\. Trey Songz & Robin Thicke\)](https://open.spotify.com/track/3KIPN9BE8rh6ueIFYZHrIZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:49 | 2024-01-29 |  |
+| [Baddies](https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:53 | 2024-11-21 |  |
 | [Bags](https://open.spotify.com/track/6AIRexQBhNcZt3ZnzPTcCM) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Wash & Set](https://open.spotify.com/album/1VAZdFNZ1t5BYugJ3NfaZh) | 3:17 | 2024-09-12 |  |
 | [Bailan](https://open.spotify.com/track/20hJHh3rZS3qharPd6jAKj) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 3:50 | 2024-01-30 |  |
 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 | 2024-01-29 |  |
@@ -682,7 +683,7 @@
 | [Show Me Your Soul](https://open.spotify.com/track/1knbenpnNbaewAdVs36g0R) | [Jesse Lawrence](https://open.spotify.com/artist/7BvE6eTudE3ike9s6sUvR7), [Ami Cissé](https://open.spotify.com/artist/0dcQeyjQ24Ok0rWMyL7B5b) | [Dandelion](https://open.spotify.com/album/2LHC4c193jpKUsirHBcqeG) | 3:38 | 2024-09-12 |  |
 | [Show Me Your Soul](https://open.spotify.com/track/7eCYyli4U6ZuOxHiT5NqxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [What Hits!?](https://open.spotify.com/album/2tPDuNTakdxcbfhHSi7Rc6) | 4:23 | 2024-01-29 |  |
 | [Show You How To Hustle](https://open.spotify.com/track/000Bpkj55Qzriw94DCpV1T) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Lauren](https://open.spotify.com/artist/5oEy08wjyANort4jmsMK9K) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:13 | 2024-01-29 |  |
-| [Showing Out \(feat\. Yo Gotti\)](https://open.spotify.com/track/1Wqt6HNfWtRuauomYNqvPS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 3:38 | 2024-06-20 | 2024-11-12 |
+| [Showing Out \(feat\. Yo Gotti\)](https://open.spotify.com/track/1Wqt6HNfWtRuauomYNqvPS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 3:38 | 2024-06-20 |  |
 | [Shred or Die \- EP Version](https://open.spotify.com/track/5tVHESxNer2TUUc81mG9TW) | [Dog Blood](https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY) | [Middle Finger Pt\. 2](https://open.spotify.com/album/1JCt2kwQOQVBJ4coDu2YyS) | 3:36 | 2024-09-12 |  |
 | [Side Piece](https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:54 | 2024-01-29 |  |
 | [Signs](https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 3:56 | 2024-01-29 |  |

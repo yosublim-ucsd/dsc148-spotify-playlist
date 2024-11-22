@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0?si=2m1OIjRLRFa0tE28uktFTw\">Letta Mbulu</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx\">Kyle Shepherd Trio</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -3692,6 +3692,24 @@
       "duration_ms": 351773,
       "name": "Sunset (in California)",
       "url": "https://open.spotify.com/track/4TtGgEvZmvelHF4hvUStfi"
+    },
+    {
+      "album": {
+        "name": "A Dance More Sweetly Played",
+        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
+      },
+      "artists": [
+        {
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384853,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
     },
     {
       "album": {

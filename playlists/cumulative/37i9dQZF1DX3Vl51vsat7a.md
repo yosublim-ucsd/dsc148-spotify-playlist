@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Sofie Royer
 
-354 songs - 18 hr 30 min
+355 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2024-06-07 |
 | [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
 | [Boyfriend](https://open.spotify.com/track/19PyeLis1yiy48lDeGK4rq) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Boyfriend](https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra) | 2:25 | 2024-08-29 |  |
+| [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 | 2024-11-21 |  |
 | [Boys Will Be Girls](https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/7sSLzWKQYO44GfnqQF6PRX) | 3:16 | 2021-12-16 | 2022-04-29 |
 | [Breddaz](https://open.spotify.com/track/3eFK7YcmFd90Q0gozVo6q1) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/7rD5yTGXPn8LthwKhgKRG3) | 2:25 | 2022-06-09 | 2022-11-21 |
 | [Breddaz](https://open.spotify.com/track/2f3Mn7wQBLthtljAg3pNtj) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/5FT4AWmrf82orNUV9Y8EwD) | 2:26 | 2022-11-17 | 2023-03-18 |
@@ -293,7 +294,7 @@
 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 | 2024-06-27 | 2024-09-06 |
 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 | 2023-08-31 |  |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 | 2023-06-16 |
-| [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 |  |
+| [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 | 2024-11-22 |
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-08 | 2024-08-23 |
 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 | 2022-11-17 | 2024-04-19 |
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-24 | 2024-01-19 |

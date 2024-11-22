@@ -4,7 +4,7 @@
 
 > El futuro está aquí\. Foto: Samuraï.
 
-248 songs - 12 hr 8 min
+250 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ansiedad](https://open.spotify.com/track/2hswWjOIbxumXz63x796xi) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/4jzP7NAgCO7zqDIdZsTnzs) | 2:58 | 2022-09-08 | 2022-10-08 |
 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 | 2022-09-23 | 2023-03-27 |
 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 | 2024-10-24 |  |
+| [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 |  |
 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 | 2024-02-06 |  |
 | [Bali](https://open.spotify.com/track/5AhfgQqtXnSQhtYAQ9SLDl) | [Aiman JR](https://open.spotify.com/artist/4BwfloY1F2zHUPcYlYnDnz) | [Bali](https://open.spotify.com/album/0ZiQztdWTlJ0ka8jHN5Qmw) | 3:02 | 2021-12-31 | 2022-04-01 |
 | [Barcelona](https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Barcelona](https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3) | 2:59 | 2022-10-27 | 2024-02-07 |
@@ -192,6 +193,7 @@
 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 | 2022-09-08 | 2023-09-16 |
 | [Pétalos de Margarita](https://open.spotify.com/track/3SsYoRhQR9HS4bGelWcmjx) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [Pétalos de Margarita](https://open.spotify.com/album/4BfyVRfqU1Eq64QcP3P0tU) | 2:40 | 2021-12-31 | 2022-03-18 |
 | [Que Me Lleve el Aire](https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Que Me Lleve el Aire](https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm) | 2:50 | 2024-07-18 |  |
+| [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 | 2024-11-21 |  |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Que Te Vaya Bonito](https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt) | 2:53 | 2023-09-15 | 2024-02-07 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-14 | 2022-09-17 |
 | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc) | [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp) | 2:47 | 2023-03-09 | 2024-02-07 |

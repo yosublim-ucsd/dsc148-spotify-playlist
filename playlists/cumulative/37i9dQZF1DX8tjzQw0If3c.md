@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Cover: Haven
+> Unearthing trailblazers\. Cover: Amir Hasan
 
-89 songs - 4 hr 49 min
+90 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [leftover feelings](https://open.spotify.com/track/4Q6GXGl5DcW5w615iSiUjf) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [leftover feelings](https://open.spotify.com/album/30nGunlYKukm79Nq7XbNnC) | 5:23 | 2024-06-27 |  |
 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 | 2024-10-10 |  |
 | [MAJOR](https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [MAJOR](https://open.spotify.com/album/3j7NuPl15ipyBD2zd5FSpx) | 2:27 | 2024-06-27 |  |
+| [Manis](https://open.spotify.com/track/2DC4XhFNBcnF1mIINob0ZI) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Manis](https://open.spotify.com/album/2hUGh46dEXYxupRcLKEh41) | 3:06 | 2024-11-21 |  |
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-07 |  |
 | [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-06-27 |  |
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2024-06-27 |  |

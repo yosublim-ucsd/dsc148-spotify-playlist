@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Zoe Ko
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,101 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,125 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lucky](https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Lucky](https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2) | 2:02 |
+| 1 | [lucky](https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [lucky](https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2) | 2:02 |
 | 2 | [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 |
 | 3 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 |
 | 4 | [Do You Hate Me?](https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m) | [Tender Misfit](https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I) | [Do You Hate Me? EP](https://open.spotify.com/album/0abHrs7DkJU4rXHgCCBtgt) | 3:08 |

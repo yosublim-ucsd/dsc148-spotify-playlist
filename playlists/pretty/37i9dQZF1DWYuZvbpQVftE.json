@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 31429,
+  "num_followers": 31462,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+      "duration_ms": 210213,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -503,22 +507,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 210213,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2024-09-03 09:42:20",

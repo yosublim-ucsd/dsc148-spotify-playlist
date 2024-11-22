@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 187170,
+  "num_followers": 187195,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
-        "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
-      "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -723,6 +703,26 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
+        "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
+        "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
+      "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
+        "name": "Lo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 223096,
+      "name": "Lo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "Lo Que Perd\u00ed",
-        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
       "artists": [
         {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 223096,
-      "name": "Lo Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+      "duration_ms": 250573,
+      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1131,22 +1147,6 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
+        "name": "Mil Mensajes",
+        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Mil Mensajes",
+      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
         "name": "Constelaciones en el Luna Park (En Vivo)",
         "url": "https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 206080,
       "name": "Voy Con Vos - En Vivo",
       "url": "https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
-        "name": "Mil Mensajes",
-        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Mil Mensajes",
-      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
+        "name": "PAJARITOS (Versiones)",
+        "url": "https://open.spotify.com/album/31DWQYCVs3CcqoSFLxTYtn"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        },
+        {
+          "name": "Julia Bravo",
+          "url": "https://open.spotify.com/artist/3yHrPHfdJj50JT6LqtsgQl"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "PAJARITOS - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0PJ0aybhM9AFMgCb7nZCbM"
+    },
+    {
+      "added_at": "2024-11-07 20:18:21",
+      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/1pBwQQJIszYaQIx7g7RzgO"
       },
@@ -1663,22 +1683,18 @@
     {
       "added_at": "2024-11-07 20:18:21",
       "album": {
-        "name": "PAJARITOS (Versiones)",
-        "url": "https://open.spotify.com/album/31DWQYCVs3CcqoSFLxTYtn"
+        "name": "no es tan dif\u00edcil",
+        "url": "https://open.spotify.com/album/6UcvM8J4k359OpFXdlZBsH"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        },
-        {
-          "name": "Julia Bravo",
-          "url": "https://open.spotify.com/artist/3yHrPHfdJj50JT6LqtsgQl"
+          "name": "ERNES",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
         }
       ],
-      "duration_ms": 246500,
-      "name": "PAJARITOS - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0PJ0aybhM9AFMgCb7nZCbM"
+      "duration_ms": 145037,
+      "name": "no es tan dif\u00edcil",
+      "url": "https://open.spotify.com/track/4QorS11YLX4D3At0JcWu7S"
     },
     {
       "added_at": "2024-11-07 20:18:21",
@@ -1711,22 +1727,6 @@
       "duration_ms": 277733,
       "name": "Hermoza From Heaven",
       "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
-    },
-    {
-      "added_at": "2024-11-07 20:18:21",
-      "album": {
-        "name": "Nada Mas Que Vos (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0dryP4RnzaMFTIznpegVei"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 182241,
-      "name": "Nada Mas Que Vos - (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/6GFCK8ZGXmjtXI7rUUTNns"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

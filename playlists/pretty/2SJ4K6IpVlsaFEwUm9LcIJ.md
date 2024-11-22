@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,140 likes - 22 songs - 1 hr 17 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,150 likes - 24 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 20 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 |
 | 21 | [Time \(Clock Of The Heart\)](https://open.spotify.com/track/7J2Oy8QVCd5DWMMnBuDzd0) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 3:43 |
 | 22 | [Private Armies](https://open.spotify.com/track/1eBTlFwFojxaUjKSVysx2r) | [Vivien Goldman](https://open.spotify.com/artist/5qS1FvS2piwbC0YMEkXz0z) | [Resolutionary \(Songs 1979\-1982\)](https://open.spotify.com/album/2m5TBTAN0FD3usyySTsOZW) | 6:17 |
+| 23 | [Ivy](https://open.spotify.com/track/0lZz50Je4AoRsUSy7BrzAh) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 4:26 |
+| 24 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 |
 
-Snapshot ID: `AAALZviEOnqMeyMMKN1eD7JtsxbPka92`
+Snapshot ID: `AAALaA3d5yqOmVBcfd9XGoKFUQhYWvtA`

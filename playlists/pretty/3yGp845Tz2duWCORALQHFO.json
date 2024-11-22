@@ -1,13 +1,29 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25781,
-  "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
+  "num_followers": 25780,
+  "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABha2gs1BT+ijBMdIvqP+k1qDCTLAy5",
+  "snapshot_id": "AABhbttuQaZ/YZ68Nc91wciKkC+XFeTI",
   "tracks": [
+    {
+      "added_at": "2024-11-21 13:37:50",
+      "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/2ezHxmPObJK1ZJAf2yJ6zK"
+      },
+      "artists": [
+        {
+          "name": "Mark Vox",
+          "url": "https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/1oN0baex7YsYnLrv1WE2Pi"
+    },
     {
       "added_at": "2024-11-15 13:24:04",
       "album": {
@@ -949,6 +965,6 @@
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
     }
   ],
-  "unique_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
+  "unique_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "url": "https://open.spotify.com/playlist/3yGp845Tz2duWCORALQHFO"
 }

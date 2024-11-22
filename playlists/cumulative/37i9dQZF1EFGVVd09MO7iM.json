@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD"
+    },
+    {
+      "album": {
         "name": "Wash & Set",
         "url": "https://open.spotify.com/album/1VAZdFNZ1t5BYugJ3NfaZh"
       },
@@ -13856,7 +13874,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 218480,
       "name": "Showing Out (feat. Yo Gotti)",
       "url": "https://open.spotify.com/track/1Wqt6HNfWtRuauomYNqvPS"

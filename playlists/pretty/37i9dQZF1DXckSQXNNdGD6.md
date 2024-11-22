@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Jordana B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,101 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,116 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 21 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
 | 22 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 |
 | 23 | [Olor a perfume caro y tabaco](https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [El Grimorio](https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72) | 2:41 |
-| 24 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 24 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
 | 25 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
-| 26 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
+| 26 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 27 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
 | 28 | [La Magia de Tu Melena](https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [La Magia de Tu Melena](https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw) | 3:06 |
 | 29 | [Hetero Pero](https://open.spotify.com/track/5hgfnnDrhPuS3SqtpFR1nd) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Hetero Pero](https://open.spotify.com/album/0309jUpTGxLbb2lfi57Mdg) | 3:19 |
 | 30 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 31 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
-| 32 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
+| 32 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 |
 | 33 | [Hello Moto](https://open.spotify.com/track/7ihPpGUZmbrTX0CRI1VXbY) | [Mireya, Caray!](https://open.spotify.com/artist/5jfcuaJNiLfL0P4QpCTL9v) | [Hello Moto](https://open.spotify.com/album/1YZjTk9esPoHyqRn0RcXwv) | 2:58 |
-| 34 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 |
+| 34 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
 | 35 | [CASI ALGO](https://open.spotify.com/track/1uGkcgGo5kq25dSJHOXQEL) | [ERRE JODR](https://open.spotify.com/artist/6kKVoJYoyaI1AKZOcOTv4u) | [CASI ALGO](https://open.spotify.com/album/5CQlx7B3h6eftZe63cz6IS) | 2:49 |
 | 36 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
 | 37 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |

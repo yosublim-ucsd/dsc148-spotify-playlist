@@ -471,6 +471,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Purified Love",
+        "url": "https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
         "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Purified Love",
-        "url": "https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Gettin' Away With It",
         "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "The Heavy. The Healing. The Holding.",
-        "url": "https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "choirs",
-      "url": "https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "LEFT EYE",
         "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 133234,
       "name": "LEFT EYE",
       "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "The Heavy. The Healing. The Holding.",
+        "url": "https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "choirs",
+      "url": "https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "LYIN",
-        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
-      },
-      "artists": [
-        {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "LYIN",
-      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "MERCZONE",
         "url": "https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 185991,
       "name": "HIGH2GETBY",
       "url": "https://open.spotify.com/track/3lB5cmc6YVzvIXLNBqB9lF"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "LYIN",
+        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "LYIN",
+      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
     },
     {
       "added_at": "2024-11-01 04:00:00",

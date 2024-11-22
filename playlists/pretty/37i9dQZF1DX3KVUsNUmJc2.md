@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,001 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,005 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

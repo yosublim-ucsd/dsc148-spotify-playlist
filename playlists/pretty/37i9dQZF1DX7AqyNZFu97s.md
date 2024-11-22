@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: She's In Parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,022 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,165 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FSM](https://open.spotify.com/track/3YtFe3uquOEWWNrao5bLxQ) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Puppet Show](https://open.spotify.com/album/58zwDEiGgbM5X9nAGAdWge) | 3:34 |
 | 2 | [Cranium](https://open.spotify.com/track/749zlkeyfz7is44tqB7t1O) | [Lei Hope](https://open.spotify.com/artist/6257V4WUEDg5kZd2IbBUJu) | [Cranium](https://open.spotify.com/album/6GLvAOeCOr1KK2O6S59KHU) | 2:28 |
-| 3 | [Bad Dreams](https://open.spotify.com/track/2iYloG141GZNKVGXdfYBvS) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [I'll Be Fine...](https://open.spotify.com/album/66QiRk8mEl9fcHpApBCaU5) | 2:14 |
+| 3 | [Bad Dreams](https://open.spotify.com/track/2iYloG141GZNKVGXdfYBvS) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [I'll be fine...](https://open.spotify.com/album/66QiRk8mEl9fcHpApBCaU5) | 2:14 |
 | 4 | [Soar When I'm Alone](https://open.spotify.com/track/1weYM28rRNsMuT69FFqPxJ) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/2ew7u07SEK1elZMVAddYyK) | 4:56 |
 | 5 | [Idols](https://open.spotify.com/track/33OhCXM1c85EwuFWDZ0kbo) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Idols](https://open.spotify.com/album/3GAX4kgkWYaKKfvUcgNvRk) | 2:33 |
 | 6 | [Penelope](https://open.spotify.com/track/766gVJ6idkDsR3szVwybIB) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Penelope](https://open.spotify.com/album/75XqySUi4jxaLIQtq3PgYo) | 3:42 |

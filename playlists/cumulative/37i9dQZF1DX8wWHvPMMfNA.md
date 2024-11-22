@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-934 songs - 2 day 10 hr 31 min
+935 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [I See Your Face Before Me \- Remastered](https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 5:29 | 2021-12-16 | 2024-05-14 |
 | [I Should Care](https://open.spotify.com/track/0uCk5mVLsnjndhPl7sXMCe) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [I Should Care](https://open.spotify.com/album/00pfFfQ3l1A9dZItYypDcg) | 3:27 | 2023-06-01 |  |
 | [I Waited For You](https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I Waited For You](https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8) | 3:24 | 2024-01-19 |  |
-| [I was young once](https://open.spotify.com/track/3Imvyp4ZL0a72YBahaBp4q) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [I was young once](https://open.spotify.com/album/6wh0GCT50gtsm1hlsECn4t) | 3:25 | 2024-02-02 |  |
+| [I was young once](https://open.spotify.com/track/3Imvyp4ZL0a72YBahaBp4q) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [I was young once](https://open.spotify.com/album/6wh0GCT50gtsm1hlsECn4t) | 3:25 | 2024-02-02 | 2024-11-22 |
 | [I Will](https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [I Will](https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5) | 2:48 | 2023-06-15 |  |
 | [I Will Never Forget You](https://open.spotify.com/track/2k6t2F2sRJnCRflfc5lLHb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [I Will Never Forget You](https://open.spotify.com/album/1HMy9qwW27UExno4ElQUIX) | 3:14 | 2023-06-01 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2023-06-01 |  |
@@ -511,6 +511,7 @@
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-08 |  |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-11-11 | 2024-08-21 |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-16 |  |
+| [Midnight Fog](https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Midnight Fog](https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM) | 3:29 | 2024-11-19 |  |
 | [Midnight Memories](https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Midnight Memories](https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP) | 2:50 | 2023-08-24 | 2024-06-12 |
 | [Midnight Moods](https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [Midnight Moods](https://open.spotify.com/album/4LEcYRPLzM6qln70B05TS2) | 2:59 | 2023-04-20 |  |
 | [Midnight Passion](https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Midnight Passion](https://open.spotify.com/album/0vt5ejd6J0VlbhW41zN84q) | 2:29 | 2023-12-08 |  |

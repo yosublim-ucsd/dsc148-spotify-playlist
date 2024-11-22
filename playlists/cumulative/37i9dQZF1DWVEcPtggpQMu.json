@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn?si=SSBX2UrZQ2qfeFD6frjywQ\">Thato Saul</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=2F38TQjuRNq4JwJe2kW3eA\">Blxckie</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -7461,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "The New Era 2",
+        "url": "https://open.spotify.com/album/3UC7aTzlumWW0g9Byn9lT5"
+      },
+      "artists": [
+        {
+          "name": "Bizzcuit",
+          "url": "https://open.spotify.com/artist/0gPadd5VkZQLJuM40Czzd4"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160163,
+      "name": "Imali Engakanani",
+      "url": "https://open.spotify.com/track/6NR9niVSJKsUdDAnlYxxNv"
+    },
+    {
+      "album": {
         "name": "WAVES NEVER DIE",
         "url": "https://open.spotify.com/album/4fIpd7Ct0PeRCUqym2KCKL"
       },
@@ -10518,6 +10536,28 @@
       "duration_ms": 158896,
       "name": "Money",
       "url": "https://open.spotify.com/track/2LCI4rN4ZQJsDRZvRT3PLG"
+    },
+    {
+      "album": {
+        "name": "Mongameli",
+        "url": "https://open.spotify.com/album/0eNqPQLDlV8IxOtdrmRMxr"
+      },
+      "artists": [
+        {
+          "name": "Gigi Lamayne",
+          "url": "https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087"
+        },
+        {
+          "name": "The Qwellers",
+          "url": "https://open.spotify.com/artist/6LzK1MJJaoY07M7gmwqBq7"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Mongameli",
+      "url": "https://open.spotify.com/track/3e5Rmoa90ZCwWptHfC6yPs"
     },
     {
       "album": {
@@ -15407,6 +15447,32 @@
     },
     {
       "album": {
+        "name": "sunroof",
+        "url": "https://open.spotify.com/album/5Mi8O1KnkNGcfKTiQNCVu2"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143242,
+      "name": "sunroof (feat. LaCabra & Lowfeye)",
+      "url": "https://open.spotify.com/track/1fROU8ikM7Wtng5zAq4UVS"
+    },
+    {
+      "album": {
         "name": "Sunset Boulevard",
         "url": "https://open.spotify.com/album/12t0GrcToxrjNcmZ50g5c6"
       },
@@ -16942,6 +17008,28 @@
       "duration_ms": 162352,
       "name": "Top Of The Money",
       "url": "https://open.spotify.com/track/7v7Rl1AI7XWBfnkxiXDqrr"
+    },
+    {
+      "album": {
+        "name": "Our Father",
+        "url": "https://open.spotify.com/album/3aeEohCjAUzigyPUfi75Dq"
+      },
+      "artists": [
+        {
+          "name": "Lord Script",
+          "url": "https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192854,
+      "name": "Top Of The Top",
+      "url": "https://open.spotify.com/track/4XT4E28gw0nSPOl13CDoiN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: VIAL",
+  "description": "The best new music from the wide world of punk. Cover: Lambrini Girls",
   "name": "All New Punk",
   "tracks": [
     {
@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "2468",
+        "url": "https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197688,
+      "name": "2468",
+      "url": "https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr"
+    },
+    {
+      "album": {
         "name": "25 - Single Edit",
         "url": "https://open.spotify.com/album/1WnFFnMi8FHCDwb5nN6LAF"
       },
@@ -486,6 +504,24 @@
       "duration_ms": 165779,
       "name": "40 winks",
       "url": "https://open.spotify.com/track/0yrju5I0Ps2ISUVe8Am9wG"
+    },
+    {
+      "album": {
+        "name": "Closer To;",
+        "url": "https://open.spotify.com/album/34Bv0P1zXTnqLkL0B4ykXV"
+      },
+      "artists": [
+        {
+          "name": "Common Sage",
+          "url": "https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "47.",
+      "url": "https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo"
     },
     {
       "album": {
@@ -6752,7 +6788,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 241000,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF"
@@ -6944,6 +6980,24 @@
       "duration_ms": 171678,
       "name": "CITY OF ANGELS",
       "url": "https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/75kZgDnW8R67X306ZDEfjj"
+      },
+      "artists": [
+        {
+          "name": "Saving Face",
+          "url": "https://open.spotify.com/artist/13upTRjiSvKITKBtvWkypR"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229117,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/2X3BB3fO2RdZAdjymw5q0i"
     },
     {
       "album": {
@@ -10698,7 +10752,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 237122,
       "name": "Drop Me Out",
       "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
@@ -11362,7 +11416,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 187245,
       "name": "every little thing",
       "url": "https://open.spotify.com/track/5YTjpBWmHCtSDu7tQ4jsf1"
@@ -12600,7 +12654,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 196400,
       "name": "Fly Move (The Whole Time)",
       "url": "https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs"
@@ -16394,7 +16448,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176200,
       "name": "HURT",
       "url": "https://open.spotify.com/track/2VrOyyuHn82TWgAH3ztuku"
@@ -20985,6 +21039,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh"
+    },
+    {
+      "album": {
         "name": "The Crucible Of Life",
         "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
       },
@@ -23792,7 +23864,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 153600,
       "name": "NEW! Christianity",
       "url": "https://open.spotify.com/track/2h48pUPKbkXCH0z2BqgUyQ"
@@ -25572,6 +25644,24 @@
       "duration_ms": 290638,
       "name": "Out in Bloom",
       "url": "https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj"
+    },
+    {
+      "album": {
+        "name": "Out of Depth",
+        "url": "https://open.spotify.com/album/47853E1ah5tQHDUcXL7cwS"
+      },
+      "artists": [
+        {
+          "name": "Marathon",
+          "url": "https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272022,
+      "name": "Out of Depth",
+      "url": "https://open.spotify.com/track/5amMdfV0sDSPH94QjmNZIk"
     },
     {
       "album": {
@@ -29464,7 +29554,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176293,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/0s5CBIvJJdecBCEq1Lg3VP"
@@ -31268,7 +31358,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 157626,
       "name": "Slide 2 Me",
       "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
@@ -32513,6 +32603,24 @@
     },
     {
       "album": {
+        "name": "Stone Spit",
+        "url": "https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191594,
+      "name": "Stone Spit",
+      "url": "https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1"
+    },
+    {
+      "album": {
         "name": "Stop Living & Don't Dream",
         "url": "https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy"
       },
@@ -33668,6 +33776,24 @@
       "duration_ms": 246000,
       "name": "Talk Big",
       "url": "https://open.spotify.com/track/2r2JFsODSiub2na9aM1xwn"
+    },
+    {
+      "album": {
+        "name": "Talk Real",
+        "url": "https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o"
+      },
+      "artists": [
+        {
+          "name": "Gridiron",
+          "url": "https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Talk Real",
+      "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
     },
     {
       "album": {
@@ -39276,6 +39402,24 @@
       "duration_ms": 204453,
       "name": "wondering how",
       "url": "https://open.spotify.com/track/5vraAGKBOoxAX44ftREyar"
+    },
+    {
+      "album": {
+        "name": "Words Lost Meaning",
+        "url": "https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Words Lost Meaning",
+      "url": "https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE"
     },
     {
       "album": {

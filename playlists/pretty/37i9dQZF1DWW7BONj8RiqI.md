@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,767 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,827 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 34 | [Funky Business](https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu) | [Fimba](https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM) | [Funky Business](https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj) | 2:53 |
 | 35 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
 | 36 | [No Apology](https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [No Apology](https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh) | 2:49 |
-| 37 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
+| 37 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 38 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
-| 39 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
+| 39 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
 | 40 | [Shake The Place](https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Shake The Place](https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm) | 3:47 |
 | 41 | [Pump Me Up](https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Ultimate Party \- Pump Me Up](https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3) | 4:45 |
 | 42 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 79 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
 | 80 | [Mas](https://open.spotify.com/track/31pjhmSv0FaqsgmDA4MUYM) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG) | [Mas](https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa) | 3:30 |
 | 81 | [Sak Pasé](https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA), [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe), [Khiomal Nurse](https://open.spotify.com/artist/7qvcDCo5D5so7VA5hGzSUE) | [Kool Under Fire](https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp) | 4:23 |
-| 82 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
-| 83 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
+| 82 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
+| 83 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
 | 84 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
 | 85 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
 | 86 | [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 91 | [Bless This Party](https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:50 |
 | 92 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 | 93 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
-| 94 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 |
-| 95 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 94 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 95 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 |
 | 96 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
 | 97 | [Jumbo Jet](https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:53 |
-| 98 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
+| 98 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 | 99 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
-| 100 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
+| 100 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
 
 Snapshot ID: `ZrEwDwAAAACG3IOEOyev05tiwGWFN0Cx`

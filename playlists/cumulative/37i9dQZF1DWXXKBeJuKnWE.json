@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Malevolence",
+  "description": "The home for heavy music. Cover: Architects",
   "name": "The Pit",
   "tracks": [
     {
@@ -230,6 +230,28 @@
       "duration_ms": 171615,
       "name": "Act Violently",
       "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
+    },
+    {
+      "album": {
+        "name": "Afterlove",
+        "url": "https://open.spotify.com/album/3hUGMqXXDHKYBEMySgoHGY"
+      },
+      "artists": [
+        {
+          "name": "Afterlove",
+          "url": "https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Afterlove",
+      "url": "https://open.spotify.com/track/2guRN4CqL8RzsauI3nKOqY"
     },
     {
       "album": {
@@ -1166,6 +1188,24 @@
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
+    },
+    {
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140915,
+      "name": "Casualty",
+      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
     },
     {
       "album": {
@@ -4557,6 +4597,42 @@
     },
     {
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
+    },
+    {
+      "album": {
+        "name": "Maze of Fools",
+        "url": "https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198098,
+      "name": "Maze of Fools",
+      "url": "https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb"
+    },
+    {
+      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/1pHMFUWSlIq6FVFhi1Yn2Q"
       },
@@ -5342,6 +5418,24 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
       "album": {
@@ -8184,6 +8278,24 @@
       "duration_ms": 193886,
       "name": "when we were young",
       "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9"
     },
     {
       "album": {

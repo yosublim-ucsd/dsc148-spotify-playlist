@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Sans toi" de Lenie est le Grand Hit de la semaine.
+> "Hymne à l'amour" de Céline Dion est le Grand Hit de la semaine.
 
-198 songs - 10 hr 10 min
+199 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-05-09 |  |
 | [Je reste calme](https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy) | 2:52 | 2023-10-19 | 2023-12-09 |
 | [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 | 2023-12-07 | 2024-09-06 |
+| [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 | 2024-11-21 |  |
 | [Je te donne](https://open.spotify.com/track/6p6itTnPOqEatoQJxU2vek) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [n°9](https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g) | 2:51 | 2023-09-28 | 2023-10-24 |
 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 | 2023-09-28 | 2023-10-06 |
 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 | 2024-09-12 | 2024-10-11 |
@@ -175,7 +176,7 @@
 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 | 2024-01-25 | 2024-06-14 |
 | [Roméo](https://open.spotify.com/track/3uBlI0TvJ1QGOPesQ7yL6W) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 3:12 | 2023-09-28 | 2023-10-06 |
 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 | 2024-08-01 |  |
-| [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-20 |  |
+| [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-20 | 2024-11-22 |
 | [Sans toi](https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans toi](https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf) | 3:01 | 2024-04-04 | 2024-08-02 |
 | [Sans toi](https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Sans toi](https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI) | 3:34 | 2024-11-07 |  |
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-11-09 | 2023-12-09 |

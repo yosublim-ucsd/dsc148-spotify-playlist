@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Douvelle19",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Leonie Biney",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2202,6 +2202,24 @@
       "duration_ms": 222000,
       "name": "I'm Insecure",
       "url": "https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN"
+    },
+    {
+      "album": {
+        "name": "If U Leave Me",
+        "url": "https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "If U Leave Me",
+      "url": "https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0"
     },
     {
       "album": {

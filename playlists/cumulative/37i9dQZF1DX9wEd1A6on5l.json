@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174562,
       "name": "1 WORK",
       "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 203893,
       "name": "4x4 (feat.Tyler ICU)",
       "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
@@ -90,6 +90,28 @@
       "duration_ms": 150000,
       "name": "64 \u00b0C",
       "url": "https://open.spotify.com/track/7CVTkhet8Si18yfTHtgVuS"
+    },
+    {
+      "album": {
+        "name": "A Fuul",
+        "url": "https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167996,
+      "name": "A Fuul",
+      "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
     },
     {
       "album": {
@@ -630,7 +652,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
@@ -934,7 +956,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
@@ -1416,7 +1438,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
@@ -3706,7 +3728,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 166958,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
@@ -3854,7 +3876,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 129000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
@@ -4786,7 +4808,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
@@ -5538,7 +5560,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
@@ -5812,7 +5834,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 194040,
       "name": "KANTE (feat. Fave)",
       "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
@@ -6389,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "Lemme Know",
+        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Lemme Know",
+      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "album": {
         "name": "Let Them Know",
         "url": "https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73"
       },
@@ -6778,7 +6818,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
@@ -6818,7 +6858,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
@@ -6976,7 +7016,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 182979,
       "name": "Men Don Show Face",
       "url": "https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX"
@@ -7463,6 +7503,28 @@
     },
     {
       "album": {
+        "name": "My Niqqa",
+        "url": "https://open.spotify.com/album/6VWAPHRy3FIOka5Uc1qDCz"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157758,
+      "name": "My Niqqa",
+      "url": "https://open.spotify.com/track/3HEe6VTTRVGsfYJauDgufe"
+    },
+    {
+      "album": {
         "name": "Naija Funk",
         "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
       },
@@ -7762,7 +7824,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 173061,
       "name": "Nyash Na Nyash (feat. Young Jonn) - Remix",
       "url": "https://open.spotify.com/track/2jktscfZKJsDs2ELhEXg4R"
@@ -8126,7 +8188,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 170044,
       "name": "One Call (feat. Tyla) - TMXO Remix",
       "url": "https://open.spotify.com/track/2wBHbtnpHDqYrBpTV4yVFn"
@@ -8250,7 +8312,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
@@ -8726,7 +8788,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 160653,
       "name": "Payday",
       "url": "https://open.spotify.com/track/6aOkoOXWcltgTPuT3s420d"
@@ -9024,7 +9086,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -9514,7 +9576,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
@@ -9896,7 +9958,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 177005,
       "name": "Something Something - Remix",
       "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
@@ -9936,7 +9998,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 153941,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
@@ -10684,7 +10746,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 155028,
       "name": "Time Of My life",
       "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"
@@ -10896,7 +10958,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
@@ -10974,7 +11036,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
@@ -11131,6 +11193,28 @@
     },
     {
       "album": {
+        "name": "Vibes on Vibes (feat. Olamide)",
+        "url": "https://open.spotify.com/album/77fRTsdTQ9zVQdLZxW86jQ"
+      },
+      "artists": [
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185927,
+      "name": "Vibes on Vibes (feat. Olamide)",
+      "url": "https://open.spotify.com/track/4rxFF4dNlg86J29KCedZGO"
+    },
+    {
+      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -11146,7 +11230,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
@@ -11184,6 +11268,24 @@
       "duration_ms": 285034,
       "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
+    },
+    {
+      "album": {
+        "name": "Tears Of A Mad Man",
+        "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/6a9DY77Rxv9yWo46qSLPxT"
     },
     {
       "album": {
@@ -11294,7 +11396,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
@@ -11490,7 +11592,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 156763,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
@@ -11732,7 +11834,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
@@ -11868,7 +11970,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 133846,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"

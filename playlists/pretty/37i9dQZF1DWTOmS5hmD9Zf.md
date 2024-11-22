@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,059 likes - 106 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,077 likes - 106 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 57 | [If James Hetfield Can Stay Straight Edge, Anyone Can](https://open.spotify.com/track/6qJltWOE8ARhn91oK79I0Q) | [Casey Jones](https://open.spotify.com/artist/17HqNPoYO052O7dO0cgE96) | [I Hope We're Not the Last](https://open.spotify.com/album/2xWU3z1pVfrpC3AhPalvMl) | 2:38 |
 | 58 | [One Life Drug Free](https://open.spotify.com/track/053URkkKwe5ko85V8GSPru) | [Confront](https://open.spotify.com/artist/28lGKZ0RxCogjpaAL91G84) | [Only The Strong 1990](https://open.spotify.com/album/2OKJezabLjBnPQs2Zw8WQx) | 1:52 |
 | 59 | [I Drink Milk](https://open.spotify.com/track/4q8U7FbHhjtud4nxqiji19) | [Teen Idles](https://open.spotify.com/artist/5t0HWVQFpMImu2GdWDbDHd) | [Flex Your Head](https://open.spotify.com/album/70tJWTyiUNEicvP5ljSDtz) | 1:09 |
-| 60 | [You're X'd](https://open.spotify.com/track/4cOYHZ1zFViyDSY8R9hvxg) | [The Faith](https://open.spotify.com/artist/3su2IgaxD1B1RqaK5a6GFw) | [Side A](https://open.spotify.com/album/7q5KsjzwLinFkYJ6u06vPR) | 1:05 |
+| 60 | [You're X'd](https://open.spotify.com/track/4cOYHZ1zFViyDSY8R9hvxg) | [Faith](https://open.spotify.com/artist/0iD89lpIY7iTrlwzhTnEvL) | [Side A](https://open.spotify.com/album/7q5KsjzwLinFkYJ6u06vPR) | 1:05 |
 | 61 | [In Control](https://open.spotify.com/track/2w647JfE21aean203DhIWl) | [Stalag 13](https://open.spotify.com/artist/0mIzEnUJCNI95eycUPRuZs) | [In Control](https://open.spotify.com/album/0H3qJ9SsEgOee7l64wLLKt) | 1:27 |
 | 62 | [Chain of Strength](https://open.spotify.com/track/157oftOeXHSQrm5ZAR9H3i) | [Justice League](https://open.spotify.com/artist/5pCvzkiLM9KubR9FiHQmPv) | [Shattered Dreams](https://open.spotify.com/album/6wg43Kj54KVPerX0QQF4pm) | 2:10 |
 | 63 | [In Your Face](https://open.spotify.com/track/1Y6ZE2BrcumCIuyxFd83hS) | [Slapshot](https://open.spotify.com/artist/6sBw8Lm18Aj4Zd4dVzM9WU) | [Step On It](https://open.spotify.com/album/5JTpdzYJd9QJbzWCZu78uE) | 2:40 |

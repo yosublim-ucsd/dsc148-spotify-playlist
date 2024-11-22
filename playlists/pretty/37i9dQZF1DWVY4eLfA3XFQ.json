@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Catz 'n Dogz \ud83d\udc08\u200d\u2b1b \ud83d\udc29 50% techno, 50% house",
-  "num_followers": 638682,
+  "num_followers": 638767,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
@@ -855,22 +871,6 @@
       "duration_ms": 145454,
       "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
       "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-11-01 05:19:33",
@@ -1341,42 +1341,6 @@
       "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "See You Sweat",
-        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "See You Sweat",
-      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Make U Sweat",
-        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 148730,
-      "name": "Make U Sweat",
-      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Pegao",
@@ -1395,6 +1359,42 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "See You Sweat",
+        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "See You Sweat",
+      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1701,22 +1701,6 @@
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
-        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 215192,
-      "name": "Freaky Feed Me",
-      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Let's Go Dancing (Matroda Remix)",
@@ -1739,6 +1723,22 @@
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
+        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 215192,
+      "name": "Freaky Feed Me",
+      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1777,6 +1777,26 @@
       "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/3aDdLz2Tx2RSoVCCS0Aviw"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "ATI\u00d8PE",
+          "url": "https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Ready For Your Love (Odd Mob Remix)",
@@ -1801,26 +1821,6 @@
       "url": "https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/3aDdLz2Tx2RSoVCCS0Aviw"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "ATI\u00d8PE",
-          "url": "https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Heard About Me",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
-    },
-    {
       "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Carry Out",
@@ -1867,6 +1851,22 @@
       "duration_ms": 178500,
       "name": "Carry Out",
       "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
       "added_at": "2024-11-01 05:19:33",
@@ -1913,22 +1913,6 @@
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Dominator",
@@ -1951,6 +1935,22 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2013,6 +2013,22 @@
       "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "What Is Life",
@@ -2033,38 +2049,6 @@
       "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Voodoo",
@@ -2081,24 +2065,20 @@
       "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1e27rVcXkqV86rzXHSzSfW"
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
         }
       ],
-      "duration_ms": 166621,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
+      "duration_ms": 157142,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2121,6 +2101,26 @@
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1e27rVcXkqV86rzXHSzSfW"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 166621,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Vertigo",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/2FXzX7kUXBxqU62TYdheVT"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "FIREFLY",
-        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "FIREFLY",
-      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "What You Looking For",
@@ -2175,6 +2159,38 @@
       "duration_ms": 182343,
       "name": "What You Looking For",
       "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "FIREFLY",
+        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "FIREFLY",
+      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2207,22 +2223,6 @@
       "duration_ms": 183383,
       "name": "In The Place",
       "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2297,6 +2297,22 @@
       "url": "https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Jump N Twist",
+        "url": "https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "Jump N Twist",
+      "url": "https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Freddie's Warmup",
@@ -2313,20 +2329,24 @@
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Jump N Twist",
-        "url": "https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI"
+        "name": "Control It",
+        "url": "https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca"
       },
       "artists": [
         {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Winnie Ama",
+          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
         }
       ],
-      "duration_ms": 178900,
-      "name": "Jump N Twist",
-      "url": "https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO"
+      "duration_ms": 196153,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2347,22 +2367,6 @@
       "duration_ms": 142851,
       "name": "Fired Up (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "I Can't Take No More",
-        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 157784,
-      "name": "I Can't Take No More",
-      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     }
   ],
   "unique_name": "Tech House Operator",

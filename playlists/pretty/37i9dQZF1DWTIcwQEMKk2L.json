@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69618,
+  "num_followers": 69630,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 147029,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+      },
+      "artists": [
+        {
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+        }
+      ],
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2024-11-18 03:41:03",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
         "name": "Compass",
         "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
-      },
-      "artists": [
-        {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
-        }
-      ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
         "name": "Box Of Photos",
         "url": "https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ"
       },
@@ -843,38 +843,6 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
-      },
-      "artists": [
-        {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
-        }
-      ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
@@ -891,18 +859,18 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Dolce Far Niente",
-        "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
       "artists": [
         {
-          "name": "Heddwch",
-          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Dolce Far Niente",
-      "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2024-11-18 03:41:03",
@@ -923,18 +891,18 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "First Sunrise",
-        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+        "name": "Dolce Far Niente",
+        "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
       },
       "artists": [
         {
-          "name": "Haru Kitamura",
-          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+          "name": "Heddwch",
+          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
         }
       ],
-      "duration_ms": 212000,
-      "name": "First Sunrise",
-      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+      "duration_ms": 132000,
+      "name": "Dolce Far Niente",
+      "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
     },
     {
       "added_at": "2024-11-18 03:41:03",
@@ -951,6 +919,38 @@
       "duration_ms": 161250,
       "name": "Rest Well, My Good Friend",
       "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
+        "name": "First Sunrise",
+        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "First Sunrise",
+      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2024-11-18 03:41:03",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 125133,
       "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
       "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2024-11-18 03:41:03",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 284000,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-11-18 03:41:03",
@@ -1579,6 +1547,38 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-11-18 03:41:03",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB"
-      },
-      "artists": [
-        {
-          "name": "Augusta Winslow",
-          "url": "https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z"
-        }
-      ],
-      "duration_ms": 183659,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
-    },
-    {
-      "added_at": "2024-11-18 03:41:03",
-      "album": {
         "name": "Birdman",
         "url": "https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 201734,
       "name": "Birdman",
       "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
+    },
+    {
+      "added_at": "2024-11-18 03:41:03",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB"
+      },
+      "artists": [
+        {
+          "name": "Augusta Winslow",
+          "url": "https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z"
+        }
+      ],
+      "duration_ms": 183659,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

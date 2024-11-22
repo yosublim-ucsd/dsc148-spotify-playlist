@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Jirayut
+> Dendang Dangdut teratas\. Cover: Iis Dahlia
 
-206 songs - 16 hr 14 min
+209 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bukan Ku Tak Sudi \- \(Live Ska Reggae\)](https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bukan Ku Tak Sudi \(Live Ska Reggae\)](https://open.spotify.com/album/6pnHrH876sQ5cAQsHSm4I3) | 4:17 | 2024-05-02 | 2024-07-19 |
 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 | 2023-07-21 |  |
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
+| [Cinta Palsu](https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [IsDa](https://open.spotify.com/album/0ricRhNidM6AMUXeF0DATq) | 3:37 | 2024-11-21 |  |
 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 |  |
 | [Cinta Sendirian](https://open.spotify.com/track/3ZJMOtKmwmIC60mnoUMpGd) | [Tryana](https://open.spotify.com/artist/3ZZg6UVxhi09ZMmLTzmTgr) | [Cinta Sendirian](https://open.spotify.com/album/6129TABKojET9GxfFf04VG) | 5:18 | 2024-09-26 |  |
 | [Cinta Tak Terpisahkan \- Live Ska Reggae](https://open.spotify.com/track/5O6qQZLSMLwK7eGwAKruUH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Cinta Tak Terpisahkan \(Live Ska Reggae\)](https://open.spotify.com/album/4Rt4gtk07aN4sPJzZ18GeC) | 5:47 | 2024-05-23 | 2024-10-18 |
@@ -73,6 +74,7 @@
 | [Goyang Dua Jari](https://open.spotify.com/track/4iAHwaR6q8NPn0LQUZ8E0g) | [Sandrina](https://open.spotify.com/artist/7j2KcU3ogpP9jtAsomBNwA) | [Goyang Dua Jari](https://open.spotify.com/album/2J9oHWko5w4Xsm96yuXiSD) | 2:45 | 2021-08-23 | 2023-02-17 |
 | [Goyang Nasi Padang](https://open.spotify.com/track/3zS02VGXpRYeXSsif1QxRM) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/7k86TETd5hMeUyX32ifK2j) | 3:07 | 2021-08-23 | 2024-03-23 |
 | [Goyang Nasi Padang](https://open.spotify.com/track/5enljbovbOWMy0WDtGfrPm) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/5K3HoEf17Jd4ZlBxPtIHKH) | 3:07 | 2021-08-23 | 2022-07-29 |
+| [Hai Sayang](https://open.spotify.com/track/2GfIBIeCABdzxZ2qDB7NHN) | [Ima Zara](https://open.spotify.com/artist/34nOrinFOsc5m9yjhi36qa) | [Hai Sayang](https://open.spotify.com/album/1isZbLn2v6VwPL4lDsIiUd) | 3:55 | 2024-11-21 |  |
 | [HALU](https://open.spotify.com/track/0Mh4TBn6iBLkp99TeuFQHw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [HALU](https://open.spotify.com/album/3WAJxIWrZAnMH6gGbqESYt) | 3:42 | 2024-08-22 |  |
 | [Hanya Insan Biasa \- Live Ska Reggae](https://open.spotify.com/track/6qJIqqPqWim82D36xcYXua) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Hanya Insan Biasa \(Live Ska Reggae\)](https://open.spotify.com/album/5RPExE9DE9rnYUHJm55kaT) | 5:02 | 2024-07-18 | 2024-10-18 |
 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 | 2024-02-22 |  |
@@ -165,6 +167,7 @@
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 | 2024-09-07 |
 | [Satu Kamu](https://open.spotify.com/track/2E79MZzmwGOJRhfE73DyIo) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Satu Kamu](https://open.spotify.com/album/0PUJsQZYGFlDliTLrQrZ2A) | 4:32 | 2023-07-13 |  |
 | [Satu Rasa Cinta](https://open.spotify.com/track/2LkIEQEtMp4agDn68uJ4OF) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Satu Rasa Cinta](https://open.spotify.com/album/6hjsEcQfDliKpxh1totuC6) | 4:54 | 2024-09-12 |  |
+| [Satu Satunya Permaisurimu](https://open.spotify.com/track/5NgfhMk8ToGK7lHYdZtQI9) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Satu Satunya Permaisurimu](https://open.spotify.com/album/6pJq4Rti7RbDvFiZzq4ISx) | 6:11 | 2024-11-21 |  |
 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 | 2021-08-23 |  |
 | [Sebiduk Tak Searah](https://open.spotify.com/track/3shQooklj8xY9Wu5dShuyc) | [Erie Suzan](https://open.spotify.com/artist/3FL9QyW1idGhwsTomiGoOK) | [Sebiduk Tak Searah](https://open.spotify.com/album/4Y1uXuCfRJRxx0kxxx7ALs) | 5:00 | 2024-06-13 |  |
 | [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 | 2023-06-01 | 2024-07-19 |

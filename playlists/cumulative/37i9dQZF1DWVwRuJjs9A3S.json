@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the highlights from the world of indie! Cover: Skott",
+  "description": "All the highlights from the world of indie! Cover: Mina Okabe",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178000,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 125933,
       "name": "Antidote to Heaven",
       "url": "https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Beating",
+        "url": "https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Beating",
+      "url": "https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3"
+    },
+    {
+      "album": {
         "name": "Beautiful Woman",
         "url": "https://open.spotify.com/album/2knOdaW7pPUpALJpNCZS1R"
       },
@@ -845,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Blockbuster Stereotypes",
+        "url": "https://open.spotify.com/album/4X7idbpXjBQnk5VXvof32T"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149015,
+      "name": "Blockbuster Stereotypes",
+      "url": "https://open.spotify.com/track/5tdhZOFvk4RKixIDx4Qtxb"
+    },
+    {
+      "album": {
         "name": "Good Neighbours",
         "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
       },
@@ -860,6 +900,24 @@
       "duration_ms": 186405,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Blue Ruin",
+      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
     },
     {
       "album": {
@@ -972,6 +1030,24 @@
       "duration_ms": 210141,
       "name": "B\u00f6rjan p\u00e5 ingenting",
       "url": "https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK"
+    },
+    {
+      "album": {
+        "name": "flush",
+        "url": "https://open.spotify.com/album/6XZwTTGjAU81iQWc1yIgZp"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268898,
+      "name": "calico",
+      "url": "https://open.spotify.com/track/6UsmfLq4GHjdNEsL1KUBhe"
     },
     {
       "album": {
@@ -1568,7 +1644,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195954,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
@@ -1626,7 +1702,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 129893,
       "name": "Du borde s\u00e4ga f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY"
@@ -1876,7 +1952,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 199250,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/7q9xa6dfbTKXhmnXxQtJXe"
@@ -1984,7 +2060,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 159000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
@@ -2092,7 +2168,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 207360,
       "name": "Flowers at a Funeral",
       "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
@@ -2118,6 +2194,28 @@
       "duration_ms": 182416,
       "name": "Flyga Fram",
       "url": "https://open.spotify.com/track/35buTrFZ00h0svO032k1m2"
+    },
+    {
+      "album": {
+        "name": "For Sale Sign (feat. Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "For Sale Sign (feat. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
     },
     {
       "album": {
@@ -2956,7 +3054,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 262160,
       "name": "I'm Not Ready To Go",
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
@@ -3542,7 +3640,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 186666,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
@@ -3762,7 +3860,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 143625,
       "name": "Livs levande lik",
       "url": "https://open.spotify.com/track/4jEdKp4Tph3NlGN8OAW14Q"
@@ -3816,7 +3914,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 231506,
       "name": "Lotus Eater",
       "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
@@ -3852,7 +3950,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178352,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ"
@@ -3968,10 +4066,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 177539,
       "name": "magic 8 ball",
       "url": "https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk"
+    },
+    {
+      "album": {
+        "name": "Making Plans",
+        "url": "https://open.spotify.com/album/6FllofMmZ3DnrkBxxVBzo4"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198985,
+      "name": "Making Plans",
+      "url": "https://open.spotify.com/track/2nls6cWh0dHGIzwzZ1ArrC"
     },
     {
       "album": {
@@ -4130,7 +4246,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 155788,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM"
@@ -4433,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "honey,",
+        "url": "https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165365,
+      "name": "not far from home",
+      "url": "https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6"
+    },
+    {
+      "album": {
         "name": "It's Nothing",
         "url": "https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF"
       },
@@ -4588,7 +4722,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 275208,
       "name": "Omen",
       "url": "https://open.spotify.com/track/4ct7YkbAS6GfTubthEDqtP"
@@ -4610,6 +4744,24 @@
       "duration_ms": 299354,
       "name": "Once A Bunch",
       "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "album": {
@@ -4790,7 +4942,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 250272,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8"
@@ -4808,7 +4960,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167148,
       "name": "passenger side",
       "url": "https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU"
@@ -5032,7 +5184,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 92624,
       "name": "RADIO INTERRUPTION ABOUT MY FEELINGS",
       "url": "https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2"
@@ -5598,7 +5750,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 250000,
       "name": "Should've Dressed for the Event",
       "url": "https://open.spotify.com/track/2WWUQS3BBdfgqlC8cn3lPK"
@@ -5656,6 +5808,24 @@
       "duration_ms": 231933,
       "name": "Silver Sable",
       "url": "https://open.spotify.com/track/2F6vx9sOQJE264gYgn9dxr"
+    },
+    {
+      "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128364,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/4H9p6vy930al2phntMu19N"
     },
     {
       "album": {
@@ -5768,7 +5938,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 143680,
       "name": "Sockerbitar",
       "url": "https://open.spotify.com/track/1RkGkZi7Z887WHUJbLC6K1"
@@ -5930,7 +6100,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 247360,
       "name": "Stockholm brinner",
       "url": "https://open.spotify.com/track/2ZLrHZTegwnUKYWjQxQkfW"
@@ -5966,7 +6136,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164943,
       "name": "Stuff That I Like",
       "url": "https://open.spotify.com/track/7cBluqYWyEjJEMSWCw9DVI"
@@ -6234,7 +6404,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178124,
       "name": "The Last Sad Song",
       "url": "https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8"
@@ -6676,7 +6846,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 139846,
       "name": "Valborg",
       "url": "https://open.spotify.com/track/2TvD1DYT6bxu3AqxR48aVy"
@@ -7030,7 +7200,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 232866,
       "name": "Wish I Could Hold You",
       "url": "https://open.spotify.com/track/6oP3Lock2adIgvHb1Sr9wu"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-288 songs - 15 hr 2 min
+289 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 | 2023-12-30 |  |
 | [Don't Have The Right To Cry](https://open.spotify.com/track/3snVJyPEbFrnKdAYXzU0k6) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 3:19 | 2023-12-30 |  |
 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 | 2023-12-30 |  |
-| [Down Home](https://open.spotify.com/track/4WFb3IoQDFq7bShdIjDOQx) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Sessions from the 17th Ward](https://open.spotify.com/album/5CPO3cYVybEYsE3w0zezXz) | 2:05 | 2024-11-17 |  |
+| [Down Home](https://open.spotify.com/track/4WFb3IoQDFq7bShdIjDOQx) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Sessions from the 17th Ward](https://open.spotify.com/album/5CPO3cYVybEYsE3w0zezXz) | 2:05 | 2024-11-17 | 2024-11-22 |
 | [Down Home](https://open.spotify.com/track/6Byxe0CH0j0ETYnFXGZAXb) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Sessions from the 17th Ward](https://open.spotify.com/album/6I1fi4ALmK4OfB7Jpt6uKz) | 2:05 | 2023-12-30 | 2024-11-18 |
+| [Down Home](https://open.spotify.com/track/53VcK1ZiDZ2C3LI7u5JRlZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Nelson Sings For You](https://open.spotify.com/album/3mendizPjqVORmu6mBQIDV) | 2:44 | 2024-11-21 |  |
 | [Dreamin' About You](https://open.spotify.com/track/0cbJpZkWLOL0etGXm6xoE8) | [Annette And The Vonnair Sisters](https://open.spotify.com/artist/4MW9tyMCzCz8y8cLj0jCN2) | [The Singles & Albums Collection 1958\-62](https://open.spotify.com/album/0oVIj5WJyWMIJH03EUwYI6) | 2:04 | 2023-12-30 |  |
 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 | 2023-12-30 |  |
 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 | 2023-12-30 |  |

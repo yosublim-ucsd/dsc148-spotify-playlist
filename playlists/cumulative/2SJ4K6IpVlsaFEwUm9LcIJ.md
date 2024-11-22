@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-363 songs - 19 hr 26 min
+365 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Invitation](https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [Song for the Moon](https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5) | 4:22 | 2024-11-17 |  |
 | [It Can Feel So Good](https://open.spotify.com/track/1CVK1udYLWWqoJ0pSdtk3j) | [Zammuto](https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu) | [Veryone](https://open.spotify.com/album/3tjeakbcyy8YGjuJ88S1dX) | 4:04 | 2024-09-07 | 2024-11-14 |
 | [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 | 2024-10-01 | 2024-11-14 |
+| [Ivy](https://open.spotify.com/track/0lZz50Je4AoRsUSy7BrzAh) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 4:26 | 2024-11-21 |  |
 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 | 2024-03-11 | 2024-05-16 |
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
 | [Japan](https://open.spotify.com/track/7gUexbkQ4hUsrdDxcIifAw) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Tauhid](https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt) | 3:24 | 2024-07-15 | 2024-09-08 |
@@ -305,6 +306,7 @@
 | [Summertime](https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 3:21 | 2024-11-17 |  |
 | [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 | 2024-06-03 | 2024-07-12 |
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 | 2024-07-12 |
+| [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 | 2024-11-21 |  |
 | [Take Refuge](https://open.spotify.com/track/16PM5R7DFzNFaCyIrTIVCq) | [Webster Harrod](https://open.spotify.com/artist/7yleLfgpIXZy8KptsfpbTr) | [Keep Breathing](https://open.spotify.com/album/6O3JyH7T2a51bIWAE3ZI4x) | 1:58 | 2024-06-24 | 2024-07-01 |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |

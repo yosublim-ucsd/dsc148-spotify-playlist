@@ -2,9 +2,9 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> Si la rompe está acá\. Foto: YSY A.
+> Si la rompe está acá\. Foto: Myke Towers.
 
-479 songs - 1 day 0 hr 48 min
+480 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-04-05 | 2023-10-30 |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-05-26 | 2022-08-12 |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-03-30 | 2023-06-02 |
+| [COLOCARTELO](https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [COLOCARTELO](https://open.spotify.com/album/1H9iOGypdEnAKbNHSlU2EV) | 2:56 | 2024-11-21 |  |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-14 | 2024-02-23 |
 | [Combi Nueva](https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Combi Nueva](https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM) | 3:12 | 2021-12-31 | 2022-02-04 |
 | [Como + Nadie](https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como + Nadie](https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C) | 3:03 | 2021-12-31 | 2022-01-28 |
@@ -109,7 +110,7 @@
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-31 | 2022-05-13 |
 | [Daytona](https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 2:53 | 2024-03-01 | 2024-06-14 |
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2021-12-31 | 2022-07-08 |
-| [DE REPENTE](https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:59 | 2024-11-15 |  |
+| [DE REPENTE](https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:59 | 2024-11-15 | 2024-11-22 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-05 | 2024-10-25 |
 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 | 2024-10-24 |  |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-03-17 | 2022-05-25 |

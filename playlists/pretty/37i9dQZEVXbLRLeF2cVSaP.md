@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,096 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,103 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 |
 | 50 | [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 |
 
-Snapshot ID: `LtFQoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LtKiIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

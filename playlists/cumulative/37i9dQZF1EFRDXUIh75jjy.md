@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 11 hr 4 min
+217 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,11 +164,13 @@
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2024-06-07 |  |
 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 | 2024-06-07 |  |
 | [Reasons](https://open.spotify.com/track/4kPV7Tx30Ph0tQ4XrhgYCh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Reasons](https://open.spotify.com/album/5QWym2ctJvsr8pDCS38F9Y) | 2:42 | 2024-06-07 |  |
-| [Rent Money](https://open.spotify.com/track/0orZXs0sFjiPZjKntMdM9j) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:10 | 2024-06-07 |  |
+| [Rent Money](https://open.spotify.com/track/0orZXs0sFjiPZjKntMdM9j) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:10 | 2024-06-07 | 2024-11-22 |
+| [Rent Money](https://open.spotify.com/track/0EG27a3cBSGE5bQvkVdAhY) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:12 | 2024-11-21 |  |
 | [Ring](https://open.spotify.com/track/61YRwJhh806c08P61ZWKc5) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [How it Used to Feel](https://open.spotify.com/album/1LqOKFe0jiCnmbRfuatV2b) | 3:40 | 2024-06-07 |  |
 | [Roaring 20s](https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:06 | 2024-06-07 |  |
 | [roots](https://open.spotify.com/track/0cB3Loy7nNn0RdptFUvKws) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [vital](https://open.spotify.com/album/07hIcfKFcbsOSWpvsGslyE) | 3:49 | 2024-06-07 |  |
 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 | 2024-08-27 |  |
+| [Roses \(feat\. Avery Anna\)](https://open.spotify.com/track/3rIQNSEDm5z7SpZImacINj) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Roses \(feat\. Avery Anna\)](https://open.spotify.com/album/5esoOC1dYGXzsc5anNMGml) | 3:10 | 2024-11-21 |  |
 | [Rules](https://open.spotify.com/track/5965DWoiOuO2T3jIWLlXyf) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 2:49 | 2024-06-07 |  |
 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-07-06 | 2024-09-09 |
 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 | 2024-09-08 |  |
@@ -212,6 +214,7 @@
 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 | 2024-06-07 |  |
 | [Used To You Now](https://open.spotify.com/track/2dCTUG5y7ZMKzm2b6ILDcH) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:11 | 2024-06-07 |  |
 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 | 2024-07-21 |  |
+| [Wait So Yeah](https://open.spotify.com/track/4KwjMTNV2EPshRxetSqz5h) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Wait So Yeah](https://open.spotify.com/album/7deI2VrFcQmkGusj5YQRvj) | 2:21 | 2024-11-21 |  |
 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 | 2024-11-16 |  |
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2024-06-07 |  |
 | [What If It Doesn't End Well](https://open.spotify.com/track/7iAONiacXnWa66oZD0aVHh) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:41 | 2024-06-07 |  |

@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-288 songs - 17 hr 47 min
+289 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 | 2023-10-06 | 2024-04-19 |
 | [In For The Kill](https://open.spotify.com/track/01vHZ3NIqFavLNMDcqnGQU) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [In For The Kill](https://open.spotify.com/album/28BkLUZKuVfS9SJgbbZz6i) | 3:03 | 2024-04-04 |  |
 | [In The City](https://open.spotify.com/track/4U4vRo9EM6DXaLIagwbbMW) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [In The City / Wasted](https://open.spotify.com/album/6fD63DrkcebHWfu9a5krd0) | 2:36 | 2023-09-20 | 2024-09-13 |
+| [In The Echo](https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In The Echo / Change](https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj) | 3:03 | 2024-11-15 |  |
 | [Infinite \(Freedom\)](https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Infinite \(Freedom\)](https://open.spotify.com/album/3EzpNsSk1ZUWc0vAoM2zp0) | 3:45 | 2021-12-21 | 2024-05-17 |
 | [Into The Night](https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 4:13 | 2022-11-25 | 2023-09-16 |
 | [Is Anybody out There? \- S.P.Y\. VIP](https://open.spotify.com/track/2qGhRZ2qGak5bWSXQ5Loh2) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Is Anybody out There? \(S.P.Y VIP\)](https://open.spotify.com/album/3bBQC4Bmi8Letng5G2Gnuo) | 5:01 | 2021-12-21 | 2022-07-28 |
@@ -215,7 +216,7 @@
 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 | 2022-07-05 | 2023-04-12 |
 | [Portal](https://open.spotify.com/track/64KjiKPJkgmb44IRYVXLJ0) | [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR) | [Lucid Dreams](https://open.spotify.com/album/6SVAHUGTdZTCeLYTog2mfQ) | 5:01 | 2021-12-21 | 2022-06-28 |
 | [Power](https://open.spotify.com/track/2tO19fnOEkxZYSAeez4nSY) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Power](https://open.spotify.com/album/2HX3wYrMqUacbssXHi5G47) | 3:28 | 2024-09-12 |  |
-| [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/track/3NvttPtSmUTY0EHZiF9fgs) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/album/7hG2MhIyTEPSf5zZV3FaBW) | 4:05 | 2024-04-04 |  |
+| [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/track/3NvttPtSmUTY0EHZiF9fgs) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/album/7hG2MhIyTEPSf5zZV3FaBW) | 4:05 | 2024-04-04 | 2024-11-22 |
 | [Punching Holes](https://open.spotify.com/track/0IX0Pj2FKvvWrZUz26J3ZB) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Punching Holes](https://open.spotify.com/album/0T13CQoXqmhaZ8gHvjBAp5) | 3:13 | 2024-08-22 |  |
 | [Punk](https://open.spotify.com/track/729B5zjWEZ1GPow5IzTJhJ) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Punk](https://open.spotify.com/album/5KRYfMMz8GEFXU1vDt4hiy) | 2:33 | 2024-10-24 | 2024-11-01 |
 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2024-11-15 |  |

@@ -36107,6 +36107,24 @@
     },
     {
       "album": {
+        "name": "JEJE",
+        "url": "https://open.spotify.com/album/39kbJk0XkZPt1itquPZvd1"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/1srgbcQlCI56byuqb1FphT"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "JEJE",
+      "url": "https://open.spotify.com/track/0pVmlTT52FFqgJB1cu5b7J"
+    },
+    {
+      "album": {
         "name": "jet-lagged",
         "url": "https://open.spotify.com/album/3NbsWUWQC3mYqPhvi7bKHB"
       },

@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. The return of Sam Fender: music to run wild and free to 🤍🖤
+> The best indie music of the moment\. Introducing jasmine.4.t 🐘
 
-275 songs - 15 hr 49 min
+280 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Blackout Drunk](https://open.spotify.com/track/0PyN8JswfA5otVomw09V5Q) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:28 | 2024-09-13 |  |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-01 | 2024-09-14 |
 | [Blonde](https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\)](https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl) | 4:43 | 2024-06-27 | 2024-07-12 |
+| [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 | 2024-11-22 |  |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-10-04 |
 | [Body](https://open.spotify.com/track/1lb8y5ayNhqmoyDMULKPhn) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Body](https://open.spotify.com/album/4hbkzqBY4OWpiFIoDtqTYl) | 2:45 | 2024-09-12 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-27 | 2024-07-27 |
@@ -101,6 +102,7 @@
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-09-20 | 2024-10-18 |
 | [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [Get Back To You](https://open.spotify.com/track/0rfKOy4TA3vF4UitzYGQmQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Get Back To You](https://open.spotify.com/album/3wPIhRMeGQ8s6g7UyCzdk3) | 4:07 | 2024-07-25 | 2024-09-06 |
+| [Ginkgo](https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/7jnqB6h2Ctvm2dpT91oyRR) | 2:37 | 2024-11-22 |  |
 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 | 2024-06-27 | 2024-07-12 |
 | [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 | 2024-07-11 | 2024-09-13 |
 | [Glitter](https://open.spotify.com/track/3BzGaX0BMT6DJIjHREFfTl) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [There's A Big Star Outside](https://open.spotify.com/album/1yg5mDwQPoM6fj4zrq5vOC) | 3:42 | 2024-06-27 | 2024-08-09 |
@@ -108,6 +110,7 @@
 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-03 | 2024-11-15 |
 | [God Of Everything Else](https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [God Of Everything Else](https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN) | 3:24 | 2024-10-17 |  |
 | [Good Morning](https://open.spotify.com/track/6RxkHlSHlJAWQth05E8hIK) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Good Morning](https://open.spotify.com/album/0A8846M7HY6ErWS3bttWci) | 2:22 | 2024-08-08 | 2024-09-27 |
+| [gossip](https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [gossip](https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF) | 3:47 | 2024-11-22 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 | 2024-08-09 |
 | [Gut Punch Love](https://open.spotify.com/track/1qzgtjh0waCwTb1sW9tVQn) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Gut Punch Love](https://open.spotify.com/album/1bkhDhgBqTsNI6rrwGNWZT) | 2:59 | 2024-09-20 |  |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-12 |  |
@@ -136,9 +139,10 @@
 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 | 2024-09-12 | 2024-09-14 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 | 2024-10-18 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-27 | 2024-07-12 |
-| [kickin](https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [kickin](https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6) | 2:56 | 2024-09-20 |  |
+| [kickin](https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [kickin](https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6) | 2:56 | 2024-09-20 | 2024-11-22 |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-18 | 2024-10-18 |
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-26 | 2024-10-04 |
+| [Kiss My Apocalypse](https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Kiss My Apocalypse](https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl) | 3:48 | 2024-11-22 |  |
 | [labour](https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:57 | 2024-11-08 |  |
 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 | 2024-08-29 | 2024-09-27 |
 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-29 | 2024-10-04 |
@@ -174,6 +178,7 @@
 | [Old Me](https://open.spotify.com/track/64BxXkUu8a6QefK2VPDhKl) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Old Me](https://open.spotify.com/album/2mnRi7vQNy6BpPoQZTKQC1) | 3:22 | 2024-09-20 |  |
 | [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 | 2024-08-01 | 2024-10-18 |
 | [Passengers](https://open.spotify.com/track/4MDw775ERuTHWo1ndIfOLg) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:50 | 2024-07-04 | 2024-07-27 |
+| [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 | 2024-11-22 |  |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-06-27 | 2024-07-19 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 |  |
 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 | 2024-07-25 | 2024-09-21 |
@@ -214,12 +219,12 @@
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-11 | 2024-10-04 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-10 | 2024-11-01 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-03 | 2024-11-15 |
-| [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 | 2024-10-10 |  |
+| [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 | 2024-10-10 | 2024-11-22 |
 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 | 2024-08-22 | 2024-11-01 |
 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 | 2024-07-25 | 2024-10-04 |
 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-25 | 2024-10-18 |
 | [Stranger](https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:26 | 2024-09-05 |  |
-| [Summer Of Hate](https://open.spotify.com/track/3s3fD692V8r3UCT7nqcoZe) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Summer Of Hate](https://open.spotify.com/album/4D44Z3OVJFZM4gSzuCXDMa) | 3:35 | 2024-10-25 |  |
+| [Summer Of Hate](https://open.spotify.com/track/3s3fD692V8r3UCT7nqcoZe) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Summer Of Hate](https://open.spotify.com/album/4D44Z3OVJFZM4gSzuCXDMa) | 3:35 | 2024-10-25 | 2024-11-22 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-27 | 2024-08-16 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-16 |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-17 |  |

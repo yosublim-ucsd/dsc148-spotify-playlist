@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno & La K´onga.
 
-497 songs - 1 day 6 hr 44 min
+498 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 |  |
 | [Corazón en Bandeja de Té](https://open.spotify.com/track/6JAqFBKUiAff3hYZafk8HI) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Corazón en Bandeja de Té](https://open.spotify.com/album/52vYmKaGgaXJ5gXFOG0dnP) | 3:09 | 2023-05-05 | 2023-05-13 |
 | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX) | 3:06 | 2023-08-18 | 2023-10-07 |
-| [Corazón que miente](https://open.spotify.com/track/7IX8K58YVVPJOIwio7vIpz) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Corazón que miente](https://open.spotify.com/album/745UcNkOQwdtDL1Uu65Heq) | 3:06 | 2024-10-18 |  |
+| [Corazón que miente](https://open.spotify.com/track/7IX8K58YVVPJOIwio7vIpz) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Corazón que miente](https://open.spotify.com/album/745UcNkOQwdtDL1Uu65Heq) | 3:06 | 2024-10-18 | 2024-11-22 |
 | [Costumbres](https://open.spotify.com/track/6gCcOzq4uy8VQktaBzx7wy) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Costumbres](https://open.spotify.com/album/4jX7jBxxmd04LdZB35Hg2r) | 3:30 | 2023-02-17 | 2023-02-25 |
 | [Crimenes Perfectos](https://open.spotify.com/track/2nk3FvvhXu6IPCVuEbIh60) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Crimenes Perfectos](https://open.spotify.com/album/7pSRkjpTzpxjqfgzcrbQO3) | 2:02 | 2023-08-18 | 2023-08-26 |
 | [Cuando Grita la Piel / Amiga del Alma](https://open.spotify.com/track/3Fm7HsAtL7YD0Ecjsj980C) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Aquellas Canciones Inolvidables](https://open.spotify.com/album/5cZIWDRBhoWptFfZ7BCiei) | 4:24 | 2021-12-24 | 2022-07-13 |
@@ -463,6 +463,7 @@
 | [Tu maldito amor](https://open.spotify.com/track/1AtIb5oZBXHLKzyoM6POtc) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:27 | 2022-01-07 | 2022-07-14 |
 | [Tu Nombre](https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Tu Nombre](https://open.spotify.com/album/1vTsQEEsyMLY7b5xKvSklj) | 3:24 | 2022-04-15 | 2022-08-13 |
 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 | 2022-09-05 | 2023-09-17 |
+| [Tu Perfume](https://open.spotify.com/track/3NfOwGq570quGzZ8Bbbu57) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Perfume](https://open.spotify.com/album/0e75oRmbVwdnOJdWDPeMYI) | 2:54 | 2024-11-21 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 | 2021-12-24 |  |
 | [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 | 2023-01-17 |
 | [Tu y Yo](https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [Tu y Yo](https://open.spotify.com/album/7vIWILcUZgqcMoXBdk1BD0) | 3:13 | 2023-01-13 | 2023-01-18 |

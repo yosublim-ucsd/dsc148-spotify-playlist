@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Elena Rose, María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,813 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,817 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

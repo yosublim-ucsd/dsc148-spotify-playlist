@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Yoa
+> La pop française annonce la couleur\. Photo : Helena
 
-239 songs - 11 hr 54 min
+242 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,10 +50,11 @@
 | [CHAVIRE](https://open.spotify.com/track/7Dz7FQgW6Wkr5hfxMKneFa) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [CHAVIRE](https://open.spotify.com/album/01iCU2e0KQI7b1FUhCbqWa) | 2:47 | 2023-09-14 | 2023-11-25 |
 | [CINÉMA](https://open.spotify.com/track/4BFNzsg8KIL0quoCNU4kFE) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [CINÉMA](https://open.spotify.com/album/1haJVnTC4CrfC6WZMtpRjh) | 3:16 | 2024-11-14 |  |
 | [Colle au corps](https://open.spotify.com/track/7L532sGPiyGrz1I9V0lhTK) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU) | 3:07 | 2024-10-17 |  |
+| [Comme au cinéma](https://open.spotify.com/track/7y56DoO0KggFFXE8WMU0ua) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Comme au cinéma](https://open.spotify.com/album/6mNPjjdJ80ktgX3Ef5kSdO) | 2:51 | 2024-11-21 |  |
 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 | 2024-01-25 | 2024-09-06 |
 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 | 2024-11-07 |  |
 | [Comme je suis belle](https://open.spotify.com/track/7yM1d0OtroPcDI7tRxIExK) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [J'vais bien](https://open.spotify.com/album/1zOhEkxGnRvaESmUxpcucl) | 2:42 | 2023-07-27 | 2023-10-06 |
-| [Comme Will](https://open.spotify.com/track/2HNDyfBNhMrX6BU1gC2zLP) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Comme Will](https://open.spotify.com/album/2rmd0gLPanM23MgOrhoPAh) | 3:22 | 2024-06-06 |  |
+| [Comme Will](https://open.spotify.com/track/2HNDyfBNhMrX6BU1gC2zLP) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Comme Will](https://open.spotify.com/album/2rmd0gLPanM23MgOrhoPAh) | 3:22 | 2024-06-06 | 2024-11-22 |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-21 | 2023-12-01 |
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2024-11-14 |  |
 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 | 2023-10-12 | 2024-03-01 |
@@ -71,7 +72,7 @@
 | [Des Trésors](https://open.spotify.com/track/3La4lre4zcgSmP8ZtSZWAL) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/0EcdCP79FGAUF30sPIvgI6) | 3:22 | 2023-07-27 | 2023-09-08 |
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-11-16 | 2024-03-08 |
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |
-| [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 | 2024-04-25 |  |
+| [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 | 2024-04-25 | 2024-11-22 |
 | [donne tout](https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [donne tout](https://open.spotify.com/album/548QpYIvopTwh1GAPk1mkr) | 3:17 | 2024-11-07 |  |
 | [Dos à dos](https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Dos à dos](https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V) | 3:20 | 2024-09-05 |  |
 | [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 | 2024-01-04 | 2024-01-26 |
@@ -147,6 +148,7 @@
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-07 | 2024-04-19 |
 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 | 2023-08-24 | 2023-10-13 |
 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 | 2024-03-07 |  |
+| [Mauvais garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2024-11-21 |  |
 | [Meilleur](https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Meilleur](https://open.spotify.com/album/03Wh09RLnT9UXIsKt140iV) | 2:32 | 2023-11-30 | 2024-02-09 |
 | [Mercredi](https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:51 | 2023-10-19 | 2024-03-29 |
 | [Mes inconnus](https://open.spotify.com/track/0yiF9SR69R8ceBDjIet6NM) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [Mes inconnus](https://open.spotify.com/album/5qko1zYziTbwfo2VfNp6lU) | 2:56 | 2024-02-08 | 2024-04-26 |
@@ -178,6 +180,7 @@
 | [Pas vraiment](https://open.spotify.com/track/50bolTQzLQn8AC1QhjM3XP) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:42 | 2023-07-27 | 2023-11-17 |
 | [Pensées violentes](https://open.spotify.com/track/7LZeI9vSZQCOVQHGsblPNi) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Pensées violentes](https://open.spotify.com/album/0m67K9xL80XNzIc4jtlBgB) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-07-27 | 2023-11-17 |
+| [Personne n'écoute ceux qui pleurent](https://open.spotify.com/track/68AR1kPPiSjBQgJ5zjc7lS) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Personne n'écoute ceux qui pleurent](https://open.spotify.com/album/5iWQvnso6R53XtzKe0LzwP) | 3:20 | 2024-11-21 |  |
 | [petite musique](https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR+](https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617) | 2:59 | 2024-11-07 |  |
 | [Playboy](https://open.spotify.com/track/6yM7BqM060fqEvVN6ukugK) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les Extraordinaires Histoires d'Amour de St Graal](https://open.spotify.com/album/62JxbuSVRrQQy2MeqJNuXh) | 2:23 | 2024-09-26 |  |
 | [Pleurer de joie](https://open.spotify.com/track/4lZqzNfv2xx0DJSchmyci8) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Pleurer de joie](https://open.spotify.com/album/4oY57RnsySHT43Zvtf6Em2) | 2:45 | 2023-07-27 | 2023-09-15 |
@@ -199,7 +202,7 @@
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-08-24 | 2023-09-15 |
 | [Rater une rupture pour les nuls](https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Rater une rupture pour les nuls](https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg) | 4:54 | 2024-10-17 |  |
 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 | 2024-01-12 |
-| [Rendez\-vous](https://open.spotify.com/track/31RrSOLsLYx9CsHlC11x5V) | [Jeanne Patronik](https://open.spotify.com/artist/21HK8UZA439q6bjQ0cpu2M) | [Passe temps](https://open.spotify.com/album/5ABIkEsRQ99GUxSgBKk5ZR) | 2:38 | 2024-08-01 |  |
+| [Rendez\-vous](https://open.spotify.com/track/31RrSOLsLYx9CsHlC11x5V) | [Jeanne Patronik](https://open.spotify.com/artist/21HK8UZA439q6bjQ0cpu2M) | [Passe temps](https://open.spotify.com/album/5ABIkEsRQ99GUxSgBKk5ZR) | 2:38 | 2024-08-01 | 2024-11-22 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-07-27 | 2023-11-10 |
 | [Rester Pur.e](https://open.spotify.com/track/553SFuQ2AzrnvsXI2f5VtH) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Rester Pur.e](https://open.spotify.com/album/2b2JfK1MXqXW95DB7kexYp) | 3:07 | 2024-04-25 | 2024-11-15 |
 | [Reviens\-tu](https://open.spotify.com/track/3rMKYCKljvm9Wo6fvshMz3) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Pilote](https://open.spotify.com/album/1b5vs9vwsQMveVLedlKhZ4) | 2:21 | 2024-01-25 | 2024-03-15 |

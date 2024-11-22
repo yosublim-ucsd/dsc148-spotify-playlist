@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,128 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,129 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 49 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 |
 | 50 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 |
 | 51 | [Hips Don't Lie \(feat\. Wyclef Jean\) \- Live \- December 2006](https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Shakira Oral Fixation Tour \(Live\)](https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ) | 7:16 |
-| 52 | [Sorry \- Live](https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 5:03 |
-| 53 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 |
+| 52 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 |
+| 53 | [Sorry \- Live](https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 5:03 |
 | 54 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 |
 | 55 | [The Power Of Love \- Live at Le Zénith, Paris, France \- October 1995](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 |
 | 56 | [Sing \- Live and in Session](https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 5:19 |

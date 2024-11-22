@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mavokali",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mbosso",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201809,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 211973,
       "name": "Huu Mwaka",
       "url": "https://open.spotify.com/track/32f2btqR7W2xZeuqDQbDRN"
@@ -2568,6 +2568,28 @@
       "duration_ms": 207908,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/0b0Si2XZJ5ZY27ASJu1qbq"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6"
+      },
+      "artists": [
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190897,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs"
     },
     {
       "album": {
@@ -4226,7 +4248,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 170721,
       "name": "Manu (feat. Jay Melody)",
       "url": "https://open.spotify.com/track/1n2beraaBdeHstydRddlpI"
@@ -7280,7 +7302,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 252857,
       "name": "Sele (feat. Chley)",
       "url": "https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7"
@@ -8649,6 +8671,28 @@
     },
     {
       "album": {
+        "name": "Tunapendana",
+        "url": "https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Tunapendana",
+      "url": "https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y"
+    },
+    {
+      "album": {
         "name": "The King Of New School",
         "url": "https://open.spotify.com/album/5yAlMOYeLIEerxJyCbJEtu"
       },
@@ -8754,7 +8798,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 208000,
       "name": "Umechelewa",
       "url": "https://open.spotify.com/track/58K662tAMuRzVnceOHqosF"
@@ -9318,7 +9362,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 219900,
       "name": "Watu Feki",
       "url": "https://open.spotify.com/track/43EczENfxxOy3nJBqKRcV2"
@@ -9490,7 +9534,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 225766,
       "name": "Wewe Hapo",
       "url": "https://open.spotify.com/track/0IyXFzO9oyN8rnLhHdfQob"

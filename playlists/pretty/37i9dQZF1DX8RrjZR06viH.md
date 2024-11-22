@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,058 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,069 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 84 | [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 |
 | 85 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 |
 
-Snapshot ID: `ZzaA8AAAAAADzS9awx4WX49YKpfjoR8z`
+Snapshot ID: `Zz+7cAAAAABB3uAxLcr0MzZm5G6gUrpv`

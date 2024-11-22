@@ -1,13 +1,177 @@
 {
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn?si=SSBX2UrZQ2qfeFD6frjywQ\">Thato Saul</a>",
-  "num_followers": 94632,
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=2F38TQjuRNq4JwJe2kW3eA\">Blxckie</a>",
+  "num_followers": 94698,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaRLQAAAADGZFSps1/lf0Y9b3LSavWu",
+  "snapshot_id": "Zz+tYAAAAAAdYZ2h/XbNrw7/z42rQPvy",
   "tracks": [
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "sunroof",
+        "url": "https://open.spotify.com/album/5Mi8O1KnkNGcfKTiQNCVu2"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        }
+      ],
+      "duration_ms": 143242,
+      "name": "sunroof (feat. LaCabra & Lowfeye)",
+      "url": "https://open.spotify.com/track/1fROU8ikM7Wtng5zAq4UVS"
+    },
+    {
+      "added_at": "2024-11-15 00:09:17",
+      "album": {
+        "name": "Eish Chief (Remix)",
+        "url": "https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7"
+      },
+      "artists": [
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 220327,
+      "name": "Eish Chief - Remix",
+      "url": "https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Our Father",
+        "url": "https://open.spotify.com/album/3aeEohCjAUzigyPUfi75Dq"
+      },
+      "artists": [
+        {
+          "name": "Lord Script",
+          "url": "https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "duration_ms": 192854,
+      "name": "Top Of The Top",
+      "url": "https://open.spotify.com/track/4XT4E28gw0nSPOl13CDoiN"
+    },
+    {
+      "added_at": "2024-11-15 00:09:17",
+      "album": {
+        "name": "Location Hurting 3 (Mixtape)",
+        "url": "https://open.spotify.com/album/5WPt6PcUue6KOMOcZVEkpm"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "KING KAI (feat. Nasty C)",
+      "url": "https://open.spotify.com/track/0jspR3US1OGEElaum3nSxY"
+    },
+    {
+      "added_at": "2024-11-15 00:09:17",
+      "album": {
+        "name": "20th: Days Before Maud",
+        "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "BANK",
+      "url": "https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Mongameli",
+        "url": "https://open.spotify.com/album/0eNqPQLDlV8IxOtdrmRMxr"
+      },
+      "artists": [
+        {
+          "name": "Gigi Lamayne",
+          "url": "https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087"
+        },
+        {
+          "name": "The Qwellers",
+          "url": "https://open.spotify.com/artist/6LzK1MJJaoY07M7gmwqBq7"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Mongameli",
+      "url": "https://open.spotify.com/track/3e5Rmoa90ZCwWptHfC6yPs"
+    },
+    {
+      "added_at": "2024-11-15 00:09:17",
+      "album": {
+        "name": "Abekho",
+        "url": "https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Abekho",
+      "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "The New Era 2",
+        "url": "https://open.spotify.com/album/3UC7aTzlumWW0g9Byn9lT5"
+      },
+      "artists": [
+        {
+          "name": "Bizzcuit",
+          "url": "https://open.spotify.com/artist/0gPadd5VkZQLJuM40Czzd4"
+        }
+      ],
+      "duration_ms": 160163,
+      "name": "Imali Engakanani",
+      "url": "https://open.spotify.com/track/6NR9niVSJKsUdDAnlYxxNv"
+    },
     {
       "added_at": "2024-11-15 00:09:17",
       "album": {
@@ -43,26 +207,6 @@
       "duration_ms": 237410,
       "name": "Real Is Rare (feat. Nasty C)",
       "url": "https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
-        "name": "Eish Chief (Remix)",
-        "url": "https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7"
-      },
-      "artists": [
-        {
-          "name": "KindlyNxsh",
-          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 220327,
-      "name": "Eish Chief - Remix",
-      "url": "https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4"
     },
     {
       "added_at": "2024-11-15 00:09:17",
@@ -171,46 +315,6 @@
     {
       "added_at": "2024-11-15 00:09:17",
       "album": {
-        "name": "Location Hurting 3 (Mixtape)",
-        "url": "https://open.spotify.com/album/5WPt6PcUue6KOMOcZVEkpm"
-      },
-      "artists": [
-        {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "KING KAI (feat. Nasty C)",
-      "url": "https://open.spotify.com/track/0jspR3US1OGEElaum3nSxY"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
-        "name": "Abekho",
-        "url": "https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu"
-      },
-      "artists": [
-        {
-          "name": "Sonwabile",
-          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Abekho",
-      "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
         "name": "DIY 3",
         "url": "https://open.spotify.com/album/4T51wSiqn804oHNUfkImOS"
       },
@@ -251,30 +355,6 @@
       "duration_ms": 216432,
       "name": "Ke Tech",
       "url": "https://open.spotify.com/track/58y6XZ4iA7v4WT9o9a9q5Z"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
-        "name": "20th: Days Before Maud",
-        "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
-      },
-      "artists": [
-        {
-          "name": "Usimamane",
-          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
-        },
-        {
-          "name": "ANATII",
-          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
-        },
-        {
-          "name": "Tony Dayimane",
-          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "BANK",
-      "url": "https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth"
     },
     {
       "added_at": "2024-11-15 00:09:17",

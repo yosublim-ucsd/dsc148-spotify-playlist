@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Fino y elegante, como KAROL G y el combo +57",
+  "description": "Fino y elegante, como Maluma baby",
   "name": "FINO",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 171032,
       "name": "Amor De Tu Vida",
       "url": "https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b"
@@ -1008,6 +1008,24 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
+    },
+    {
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
     },
     {
       "album": {
@@ -5291,6 +5309,32 @@
     },
     {
       "album": {
+        "name": "SQ (W Sound 04)",
+        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "SQ - W Sound 04",
+      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
+    },
+    {
+      "album": {
         "name": "A Tope",
         "url": "https://open.spotify.com/album/6mSxJETRf3SranFbgFs1QM"
       },
@@ -6070,7 +6114,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 130838,
       "name": "\u00a1Ya no me pregunten por mi ex!",
       "url": "https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7"

@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2787632,
+  "num_followers": 2788881,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABr3//q65w7kce3AB5JBoM0",
+  "snapshot_id": "Zz0mgAAAAADewXbKr7V8u/O/3ca1zTX/",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "IN MY REMAINS",
-      "url": "https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 339853,
       "name": "The Catalyst",
       "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "IN MY REMAINS",
+      "url": "https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "ROADS UNTRAVELED",
-      "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 289906,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "ROADS UNTRAVELED",
+      "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 216281,
-      "name": "Battle Symphony",
-      "url": "https://open.spotify.com/track/3FQCJI2t5LTbsRPfYVBSVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 296560,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 216281,
+      "name": "Battle Symphony",
+      "url": "https://open.spotify.com/track/3FQCJI2t5LTbsRPfYVBSVB"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RECHARGED",
-        "url": "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 229439,
-      "name": "A LIGHT THAT NEVER COMES",
-      "url": "https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunting Party",
         "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
@@ -855,6 +835,30 @@
       "duration_ms": 355120,
       "name": "Guilty All the Same (feat. Rakim)",
       "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Good Goodbye (feat. Pusha T and Stormzy)",
+      "url": "https://open.spotify.com/track/650OeHTLxZAQmb4aEbGmaA"
     }
   ],
   "unique_name": "This Is Linkin Park",

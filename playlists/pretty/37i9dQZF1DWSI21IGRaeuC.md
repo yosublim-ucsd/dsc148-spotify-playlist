@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,677 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,808 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,17 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 85 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 |
 | 86 | [Nuthin' On](https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Nuthin' On EP](https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5) | 3:30 |
 | 87 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
-| 88 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 |
-| 89 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
+| 88 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
+| 89 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 |
 | 90 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 |
 | 91 | [Don't Need You](https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Don't Need You](https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX) | 3:09 |
 | 92 | [50 INCH WOOFAS](https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [50 INCH WOOFAS](https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb) | 2:56 |
-| 93 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 |
-| 94 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
+| 93 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
+| 94 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 |
 | 95 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
 | 96 | [Bass Go Boom \- Collier Remix](https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Bass Go Boom \(Collier Remix\)](https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH) | 2:48 |
-| 97 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
-| 98 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
+| 97 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
+| 98 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
 | 99 | [Hooky \- LDN Dub Mix](https://open.spotify.com/track/2pmiDdLR1JaQxGjxfktsPg) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [For The Music, Pt\. 2](https://open.spotify.com/album/5V6ltIRpsRzqYsgxnRYWlu) | 3:18 |
 | 100 | [Un Beso](https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Un Beso](https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ) | 3:45 |
 

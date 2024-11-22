@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,707 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,720 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 34 | [Yes Papi \(Miami Daddy Theme\)](https://open.spotify.com/track/4oaYqcrEfd6CSUtsM19w0i) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7) | [Touch The Vibe](https://open.spotify.com/album/04FEDPnkep9dDTJ5BGaei2) | 5:03 |
 | 35 | [Orchestra Spring](https://open.spotify.com/track/6s9twrBLBjKx5OnZje77QT) | [BELLA](https://open.spotify.com/artist/5GwSwlEJFFjdpIHYPQ6qdy) | [Note To Self EP](https://open.spotify.com/album/523hbS3DA5kkJetEzeI3Dg) | 4:50 |
 | 36 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 |
-| 37 | [House Flava](https://open.spotify.com/track/1LrkeZcHMnmaeZLBseksRY) | [Cromby](https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX) | [House Flava](https://open.spotify.com/album/1y667NXO8SYJRLo8VxZLU8) | 6:04 |
+| 37 | [House Flava \- Extended Mix](https://open.spotify.com/track/1LrkeZcHMnmaeZLBseksRY) | [Cromby](https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX) | [House Flava](https://open.spotify.com/album/1y667NXO8SYJRLo8VxZLU8) | 6:04 |
 | 38 | [There's Space For Us All](https://open.spotify.com/track/3H58PaYizmfWsyR6x7iOOA) | [musclecars](https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R) | [Sugar Honey Iced Tea!](https://open.spotify.com/album/71hzJFdi64i7BcgfRfRkoy) | 9:52 |
 | 39 | [Believe In It \- Trinidadian Deep Remix Edit](https://open.spotify.com/track/5wy3U4f1FWlLPInCyFTev1) | [Rosie from the Block](https://open.spotify.com/artist/2AXxpeo2g947FYlmiByK1z), [Trinidadian Deep](https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb) | [Deep Rooted \(Compiled & Mixed by Sean McCabe\)](https://open.spotify.com/album/6PzPABWLWqZe7sFzXQdubc) | 3:52 |
 | 40 | [Modmed \- Dar Disku's Balearic Touch](https://open.spotify.com/track/583jS8whhSSMhCrcJ5IUKk) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR) | [Charismatic Mutations](https://open.spotify.com/album/0GQ1Eo42sLfjgOzJs5w7mm) | 4:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 69 | [Ish You](https://open.spotify.com/track/58teWtfces5HCrrhfWoOgl) | [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [Ish You](https://open.spotify.com/album/6rzoEEc09wOYHyreduG8U6) | 3:50 |
 | 70 | [Do You Dream?](https://open.spotify.com/track/5R7MpWzuNlpf2UZpvKXL4R) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/7zZ7r4afyGgb5VLcIT0l2t) | 3:28 |
 
-Snapshot ID: `ZzLEsAAAAABEoJ8LbKg103m/jTuMGL2+`
+Snapshot ID: `Zz/zsAAAAABzrUGqSpmgNTx2179DFL0W`

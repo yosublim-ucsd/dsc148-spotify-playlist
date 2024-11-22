@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34036,
+  "num_followers": 34040,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACASLGKdRhLUB56tZQAT+5B",
+  "snapshot_id": "Zz0mgAAAAACjcXLMfuZXgXQJcJAdaTcN",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Heart (Live)",
-        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 343320,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: White Flag",
         "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 350720,
       "name": "10,000 Reasons (Bless The Lord) - Live",
       "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Heart (Live)",
+        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Passion (So Far) [Live]",
+        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
+      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -967,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Passion (So Far) [Live]",
-        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
       "artists": [
         {
@@ -976,13 +996,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 323666,
-      "name": "You Are My King (Amazing Love) - Live/2006 Remastered",
-      "url": "https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA"
+      "duration_ms": 368866,
+      "name": "The Stand - Live",
+      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
     },
     {
       "added_at": null,
@@ -1047,8 +1067,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
       "artists": [
         {
@@ -1056,33 +1076,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 368866,
-      "name": "The Stand - Live",
-      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live From Camp",
-        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
-        }
-      ],
-      "duration_ms": 365185,
-      "name": "Christ Our King - Live From Camp",
-      "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+      "duration_ms": 514039,
+      "name": "Amazing Grace (My Chains Are Gone) - Live",
+      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
     }
   ],
   "unique_name": "This Is Passion",

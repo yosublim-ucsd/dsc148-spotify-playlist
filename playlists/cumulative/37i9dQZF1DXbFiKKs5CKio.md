@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-125 songs - 7 hr 3 min
+126 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Amor É Bom Quando Tem Chama](https://open.spotify.com/track/2Jivvjt7JABrzX2D5dYn6i) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 | 2024-05-31 |  |
 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 | 2023-09-15 | 2024-09-20 |
 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 | 2023-09-15 |  |
-| [Aurora](https://open.spotify.com/track/67kJQNF0jfWl3IhFQkROGA) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Doug O\. no estúdio Showlivre](https://open.spotify.com/album/5yUhko9VWWdbBxX8IaopRK) | 4:04 | 2024-10-11 |  |
+| [Aurora](https://open.spotify.com/track/67kJQNF0jfWl3IhFQkROGA) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Doug O\. no estúdio Showlivre](https://open.spotify.com/album/5yUhko9VWWdbBxX8IaopRK) | 4:04 | 2024-10-11 | 2024-11-22 |
+| [Baby](https://open.spotify.com/track/68hsGjcm2hh7UpFJwFKq8v) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 2:47 | 2024-11-22 |  |
 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 | 2023-12-01 | 2024-03-02 |
 | [Brincava de Amar](https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Brincava de Amar](https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg) | 2:05 | 2023-10-13 | 2023-11-25 |
 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 | 2024-05-28 |  |

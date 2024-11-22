@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "chuli",
+        "url": "https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124715,
+      "name": "chuli",
+      "url": "https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH"
+    },
+    {
+      "album": {
         "name": "clouded",
         "url": "https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE"
       },
@@ -306,7 +324,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 151996,
       "name": "dawn to dawn",
       "url": "https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA"
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Light of October",
+        "url": "https://open.spotify.com/album/0BmL2ieDWhMalFMmle2HEu"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Light of October",
+      "url": "https://open.spotify.com/track/0bT0KigMA1yirlMo7EBZqp"
+    },
+    {
+      "album": {
         "name": "Orion Express",
         "url": "https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y"
       },
@@ -1198,7 +1234,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 142516,
       "name": "Occasions",
       "url": "https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV"

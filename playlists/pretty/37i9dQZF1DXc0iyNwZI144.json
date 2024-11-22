@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1050351,
+  "num_followers": 1050324,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 186997,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -1127,26 +1147,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 186997,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS"
       },
@@ -1199,30 +1199,6 @@
       "duration_ms": 191495,
       "name": "I Found You (with Calvin Harris)",
       "url": "https://open.spotify.com/track/5sdb5pMhcK44SSLsj1moUh"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Save Me (feat. MKLA)",
-        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Adam K",
-          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Save Me (feat. MKLA)",
-      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1311,6 +1287,30 @@
       "duration_ms": 179456,
       "name": "All The Lies",
       "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Save Me (feat. MKLA)",
+        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Adam K",
+          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Save Me (feat. MKLA)",
+      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Brother Louie",
         "url": "https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 164797,
       "name": "All This Love (feat. Harl\u0153)",
       "url": "https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh"
     }
   ],
   "unique_name": "Projeto Ver\u00e3o",

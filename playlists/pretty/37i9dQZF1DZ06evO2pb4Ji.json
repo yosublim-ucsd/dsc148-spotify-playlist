@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 391422,
+  "num_followers": 391556,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABVOaEJL91sefTY6jZn7wI+",
+  "snapshot_id": "Zz0mgAAAAAD4YZEq/Or+x6kAULfdH9os",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 115533,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Play (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
       },
@@ -103,30 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 115533,
-      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
       },
@@ -143,26 +143,6 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT"
     },
     {
       "added_at": null,
@@ -187,6 +167,50 @@
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remember Me (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 122053,
+      "name": "Remember Me (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
     },
     {
       "added_at": null,
@@ -259,30 +283,6 @@
       "duration_ms": 192881,
       "name": "RISE",
       "url": "https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remember Me (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 122053,
-      "name": "Remember Me (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
     },
     {
       "added_at": null,
@@ -371,34 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Forts",
-          "url": "https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE"
-        },
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasties & Dystopia (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3l2cEVlSiNrjnPLfPwzvnR"
       },
@@ -427,6 +399,34 @@
       "duration_ms": 178080,
       "name": "Dynasties & Dystopia (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/28487fkXVQa2e6F2z73CBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Forts",
+          "url": "https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe"
     },
     {
       "added_at": null,
@@ -491,50 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn It All Down",
-        "url": "https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Burn It All Down",
-      "url": "https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Edda Hayes",
-          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snakes (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2OpCTw15JLMqUTeBAA2yd7"
       },
@@ -563,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn It All Down",
+        "url": "https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Burn It All Down",
+      "url": "https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goodbye (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/7q2FV4zz7UvTr29VroExbu"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 230985,
       "name": "Goodbye (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/50qY6EQTt33QAUQnDgbYOS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Edda Hayes",
+          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
     },
     {
       "added_at": null,
@@ -623,6 +623,30 @@
       "duration_ms": 217088,
       "name": "MORE",
       "url": "https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellfire (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 164773,
+      "name": "Hellfire (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
     },
     {
       "added_at": null,
@@ -675,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -707,74 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellfire (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 164773,
-      "name": "Hellfire (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Goes On",
-        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 202821,
-      "name": "Everything Goes On",
-      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guns for Hire (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/5NgVCpHat6HmhlEISyXdIV"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 226460,
       "name": "Guns for Hire (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/38x5NsjgoLaYCnhAghHdyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Goes On",
+        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "Everything Goes On",
+      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
     },
     {
       "added_at": null,
@@ -863,6 +863,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Misfit Toys (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/76wOGJh4irz8szcQ0PsgUU"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 189692,
+      "name": "Misfit Toys (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0oKPOxrcUkvJ8YVaV79qE8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Over",
         "url": "https://open.spotify.com/album/746kCUpkRofCTYBupy2grd"
       },
@@ -891,18 +919,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misfit Toys (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/76wOGJh4irz8szcQ0PsgUU"
+        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit"
       },
       "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -912,9 +932,9 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 189692,
-      "name": "Misfit Toys (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0oKPOxrcUkvJ8YVaV79qE8"
+      "duration_ms": 264680,
+      "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3mVU7NvtY6OYslKyAnDkD4"
     },
     {
       "added_at": null,
@@ -951,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3mVU7NvtY6OYslKyAnDkD4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
       },
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Nicki Taylor",
-          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
-        }
-      ],
-      "duration_ms": 216308,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Love (From the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 218248,
       "name": "Our Love (From the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Nicki Taylor",
+          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
+        }
+      ],
+      "duration_ms": 216308,
+      "name": "Worlds Collide",
+      "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
     },
     {
       "added_at": null,
@@ -1119,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warsongs",
-        "url": "https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 291314,
-      "name": "Piercing Light",
-      "url": "https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2mwGEdmUVr7RjkDlxzjRzJ"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 193095,
       "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5fW9gRfANuXLNgopaNTrHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warsongs",
+        "url": "https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 291314,
+      "name": "Piercing Light",
+      "url": "https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9"
     },
     {
       "added_at": null,
@@ -1271,26 +1271,6 @@
       "duration_ms": 241157,
       "name": "Aphelios, the Weapon of the Faithful",
       "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise (Redux)",
-        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Rise (Redux)",
-      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
     }
   ],
   "unique_name": "This Is League of Legends",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,852 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,884 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,23 +58,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 48 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
 | 49 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
 | 50 | [Ouch!](https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp) | [Prince Unique](https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:08 |
-| 51 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
-| 52 | [Tribute to Sundar](https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 4:15 |
+| 51 | [Tribute to Sundar](https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 4:15 |
+| 52 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
 | 53 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
 | 54 | [Wine On A Bumsee](https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:03 |
 | 55 | [Doye, Doye](https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke) | [Wayne T & Silky Slim](https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:36 |
 | 56 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 |
 | 57 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [CRAZY](https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
-| 58 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
-| 59 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |
-| 60 | [Rollin'](https://open.spotify.com/track/0w6IdovoMpwt9vR0tYCK5V) | [Home Front](https://open.spotify.com/artist/6M1vWklD0ySWgutjJS8r3i) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:59 |
-| 61 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 |
-| 62 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
+| 58 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |
+| 59 | [Rollin'](https://open.spotify.com/track/0w6IdovoMpwt9vR0tYCK5V) | [Home Front](https://open.spotify.com/artist/6M1vWklD0ySWgutjJS8r3i) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:59 |
+| 60 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 |
+| 61 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
+| 62 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 63 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
 | 64 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
-| 65 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |
-| 66 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
-| 67 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 |
+| 65 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 |
+| 66 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |
+| 67 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
 | 68 | [Far from Finished](https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Get Soca 2017](https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG) | 3:51 |
 | 69 | [Blame It \(on De Music\)](https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:18 |
 | 70 | [Happiest Man Alive](https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 |

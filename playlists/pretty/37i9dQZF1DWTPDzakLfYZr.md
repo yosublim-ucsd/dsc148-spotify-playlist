@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Soley & Luister La Voz
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,366 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,355 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 | 13 | [IG](https://open.spotify.com/track/3vtPzVMbYE5KveyLyNS2Hj) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [IG](https://open.spotify.com/album/0iytPnOagkUKmOWkwhnNvf) | 3:10 |
 | 14 | [Tu Boca](https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Tu Boca](https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt) | 3:06 |
 | 15 | [HABLAME CLARO](https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [HABLAME CLARO](https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI) | 2:34 |
-| 16 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/6BHtDxFFPp7S1fjg5P1W3a) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
+| 16 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 | 17 | [40º](https://open.spotify.com/track/3S3y2smpdcXRowIGr6CkXj) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [40º](https://open.spotify.com/album/4hWAFWIPkc2nG8ihSHTa64) | 2:20 |
 | 18 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 19 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |

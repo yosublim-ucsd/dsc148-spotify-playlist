@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : DJ Snake x Hamza",
+  "description": "Photo : Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 173760,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "J'tavais dis",
+        "url": "https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112615,
+      "name": "J'tavais dis",
+      "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
+    },
+    {
+      "album": {
         "name": "Je remplace mes exs",
         "url": "https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM"
       },
@@ -1564,6 +1582,32 @@
       "duration_ms": 138306,
       "name": "Joie de filles (feat. Vacra)",
       "url": "https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk"
+    },
+    {
+      "album": {
+        "name": "Jour de paye",
+        "url": "https://open.spotify.com/album/7miXW9QaEsGkoOI4UhK7IY"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120786,
+      "name": "Jour de paye",
+      "url": "https://open.spotify.com/track/4HDn7aBVTld8BdDTucAuu7"
     },
     {
       "album": {
@@ -3076,7 +3120,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 328933,
       "name": "Rolex pr\u00e9sidentielle",
       "url": "https://open.spotify.com/track/2RXQkxvCCkuEPHmlum1Dy1"
@@ -3276,6 +3320,28 @@
       "duration_ms": 154096,
       "name": "SAMU KANI",
       "url": "https://open.spotify.com/track/4G9qKwAEHXctjKlyTOMpZj"
+    },
+    {
+      "album": {
+        "name": "San Diego",
+        "url": "https://open.spotify.com/album/4nEnGfngTG00aUEfaawHGz"
+      },
+      "artists": [
+        {
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142849,
+      "name": "San Diego ft. Lacrim",
+      "url": "https://open.spotify.com/track/6ephzT5CqrF6hzm4odZ81t"
     },
     {
       "album": {
@@ -3884,6 +3950,24 @@
       "duration_ms": 145150,
       "name": "Turn Up (feat. Leto & MHD)",
       "url": "https://open.spotify.com/track/5NerckOQ6Feq0DMf3tB9Ln"
+    },
+    {
+      "album": {
+        "name": "Un jour, je l'aurai",
+        "url": "https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "Un jour, je l'aurai",
+      "url": "https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y"
     },
     {
       "album": {

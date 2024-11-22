@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: FLO",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: John Legend",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 204447,
       "name": "AAA",
       "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 203624,
       "name": "For Me (feat. Brent Faiyaz) - Remix",
       "url": "https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 144528,
       "name": "Front and Center",
       "url": "https://open.spotify.com/track/3RI71qdKavGIEWP5pEQGBc"
@@ -3704,6 +3704,28 @@
       "duration_ms": 178226,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
+    },
+    {
+      "album": {
+        "name": "Fry Plantain (with Joey Bada$$)",
+        "url": "https://open.spotify.com/album/34FbQTA8MX6dNQKyTSZPMy"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252381,
+      "name": "Fry Plantain (with Joey Bada$$)",
+      "url": "https://open.spotify.com/track/1pmXeu9cAF2at62I3m5VKE"
     },
     {
       "album": {
@@ -3994,6 +4016,32 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+    },
+    {
+      "album": {
+        "name": "Good Mornin'",
+        "url": "https://open.spotify.com/album/1AcJ5mlY3LtmuHkOzIlAju"
+      },
+      "artists": [
+        {
+          "name": "Marley Bleu",
+          "url": "https://open.spotify.com/artist/7dgNHt7bKVud97fsCjuv6K"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Doodles",
+          "url": "https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200021,
+      "name": "Good Mornin'",
+      "url": "https://open.spotify.com/track/2bYpOtmUrsVRdvFIe36qoR"
     },
     {
       "album": {
@@ -5394,7 +5442,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 265120,
       "name": "Itch",
       "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
@@ -6709,6 +6757,32 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You (Deluxe)",
+        "url": "https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/6HpfFUKzicwYBysbrmYwW1"
+    },
+    {
+      "album": {
         "name": "Make Up Your Mind",
         "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
       },
@@ -7631,6 +7705,24 @@
     },
     {
       "album": {
+        "name": "Mr. Enjoy Da Melody",
+        "url": "https://open.spotify.com/album/52ixE6g5IJMLX275XGQO5s"
+      },
+      "artists": [
+        {
+          "name": "KnowKnow",
+          "url": "https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220423,
+      "name": "No Halo",
+      "url": "https://open.spotify.com/track/0kqNednnjSFDOKCFpVfgGT"
+    },
+    {
+      "album": {
         "name": "NO INTENTION",
         "url": "https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri"
       },
@@ -8184,6 +8276,32 @@
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
+    },
+    {
+      "album": {
+        "name": "Get Lifted (20th Anniversary)",
+        "url": "https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Eugene \"Man-Man\" Roberts",
+          "url": "https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289094,
+      "name": "Ordinary People (feat. Tems) - Man-Man Remix",
+      "url": "https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr"
     },
     {
       "album": {
@@ -9467,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/2b4ki0I5s5ng1ZfWE8L1JD"
+      },
+      "artists": [
+        {
+          "name": "KAHOH",
+          "url": "https://open.spotify.com/artist/1rknkKzJEuqVordsoo3B3I"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138068,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/38IXYKGHsvHtTNcEnVtLwD"
+    },
+    {
+      "album": {
         "name": "Found in Tokyo",
         "url": "https://open.spotify.com/album/1CLhqua3C3qKKJiM4gtIuj"
       },
@@ -10107,6 +10243,32 @@
     },
     {
       "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191503,
+      "name": "Soft (feat. Chl\u00f6e & Halle) [Unlocked]",
+      "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
+    },
+    {
+      "album": {
         "name": "Softest Touch",
         "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
@@ -10268,7 +10430,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
@@ -10462,7 +10624,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178506,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/68YEhbcx2OWqvCPZnQ6twD"
@@ -11352,7 +11514,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 243013,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW"
@@ -12124,6 +12286,24 @@
       "duration_ms": 200142,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH"
+    },
+    {
+      "album": {
+        "name": "Wait So Yeah",
+        "url": "https://open.spotify.com/album/7deI2VrFcQmkGusj5YQRvj"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141384,
+      "name": "Wait So Yeah",
+      "url": "https://open.spotify.com/track/4KwjMTNV2EPshRxetSqz5h"
     },
     {
       "album": {

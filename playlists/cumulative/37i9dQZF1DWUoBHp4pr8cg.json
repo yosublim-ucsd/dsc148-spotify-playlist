@@ -3049,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Kele Hampe",
+        "url": "https://open.spotify.com/album/7wR0kz0ZVvo4nlw3sP6oCg"
+      },
+      "artists": [
+        {
+          "name": "G-TECH 2bit",
+          "url": "https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Kele Hampe",
+      "url": "https://open.spotify.com/track/5TonGmNvzkRDCDOc0S49ZO"
+    },
+    {
+      "album": {
         "name": "Khuphuka",
         "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
       },
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 192000,
       "name": "Life Isn't Fair",
       "url": "https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7"

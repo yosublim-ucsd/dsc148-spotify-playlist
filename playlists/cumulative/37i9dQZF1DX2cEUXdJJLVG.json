@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 151034,
       "name": "Afterspot",
       "url": "https://open.spotify.com/track/3pZiVS3HTGN4iTZ21zqzv4"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 150545,
       "name": "But, I'm Tied",
       "url": "https://open.spotify.com/track/416qwFAr8F4MJ7PzEJB1xy"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 140298,
       "name": "Face Me",
       "url": "https://open.spotify.com/track/2w0iO1KhpyaFL1dhwot8Ac"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 189945,
       "name": "Feelings Mutual?",
       "url": "https://open.spotify.com/track/7J1Zusa5GedbeBAtGrvFoC"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 225512,
       "name": "Found Without Searching",
       "url": "https://open.spotify.com/track/6ol1UDjGWnfNs5BvAP8suV"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185687,
       "name": "I Got Your Back",
       "url": "https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll"
@@ -3487,6 +3487,32 @@
     },
     {
       "album": {
+        "name": "Jealous Of The Sun (feat. AYL\u00d8 & Thierry Ganz)",
+        "url": "https://open.spotify.com/album/72bGxLGUh1RVANjKcFVcMQ"
+      },
+      "artists": [
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191845,
+      "name": "Jealous Of The Sun (feat. AYL\u00d8 & Thierry Ganz)",
+      "url": "https://open.spotify.com/track/6GPabZCoP7HRFUFs81Osrw"
+    },
+    {
+      "album": {
         "name": "Jewels in the Night",
         "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
@@ -3795,6 +3821,28 @@
     },
     {
       "album": {
+        "name": "Livin' It Up (Moods Remix)",
+        "url": "https://open.spotify.com/album/4bCXM8Ns1tylwHm5MYwqnq"
+      },
+      "artists": [
+        {
+          "name": "NEMO",
+          "url": "https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP"
+        },
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200844,
+      "name": "Livin' It Up - Moods Remix",
+      "url": "https://open.spotify.com/track/74gHxVSEVIhYm5eboNBTiz"
+    },
+    {
+      "album": {
         "name": "Super-Sonic Family Vol. 2 - Part 2",
         "url": "https://open.spotify.com/album/1IBVTjdpwq7zVp427hgTAK"
       },
@@ -3864,7 +3912,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 182455,
       "name": "Losing My Perfection",
       "url": "https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB"
@@ -4396,7 +4444,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 244054,
       "name": "Music Saved My LIfe",
       "url": "https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q"
@@ -4414,7 +4462,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 194724,
       "name": "My Favourite",
       "url": "https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ"
@@ -5742,7 +5790,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184952,
       "name": "Rollout (feat. Jay Prince, Scrufizzer & Close Counters)",
       "url": "https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY"
@@ -5844,7 +5892,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP"
@@ -6252,7 +6300,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 392000,
       "name": "So Full Of Love",
       "url": "https://open.spotify.com/track/0Vb4ByCBddUaXWyqr8Aj6B"

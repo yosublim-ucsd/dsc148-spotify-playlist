@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1373857,
+  "num_followers": 1374411,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -943,42 +943,6 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1011,22 +975,38 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
-        "name": "They Ain't Want Us",
-        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
       "artists": [
         {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
         },
         {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
         }
       ],
-      "duration_ms": 222027,
-      "name": "PARADIGM",
-      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2024-11-19 17:09:17",
@@ -1139,6 +1119,26 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
+        "name": "They Ain't Want Us",
+        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
+      },
+      "artists": [
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        }
+      ],
+      "duration_ms": 222027,
+      "name": "PARADIGM",
+      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
         "name": "Peerless",
         "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2024-11-19 17:09:17",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
-        "name": "BREAK BREAD",
-        "url": "https://open.spotify.com/album/4jp1kvBpCFBX5IyrBLNLHq"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Dibia$E",
-          "url": "https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb"
-        }
-      ],
-      "duration_ms": 120029,
-      "name": "BREAK BREAD",
-      "url": "https://open.spotify.com/track/1BEMiV33Zy3htKqppm6pKU"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
         "name": "Ravenite Social Club",
         "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 236873,
       "name": "To You (feat. Robert Glasper, Emi Secrest)",
       "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
+        "name": "BREAK BREAD",
+        "url": "https://open.spotify.com/album/4jp1kvBpCFBX5IyrBLNLHq"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Dibia$E",
+          "url": "https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb"
+        }
+      ],
+      "duration_ms": 120029,
+      "name": "BREAK BREAD",
+      "url": "https://open.spotify.com/track/1BEMiV33Zy3htKqppm6pKU"
     },
     {
       "added_at": "2024-11-19 17:09:17",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
         "name": "Out Of My Hands (feat. Oddisee)",
         "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2024-11-19 17:09:17",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
-        "name": "DADADOO",
-        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "DADADOO",
-      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 105577,
       "name": "Sega",
       "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
+        "name": "DADADOO",
+        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "DADADOO",
+      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
     },
     {
       "added_at": "2024-11-19 17:09:17",
@@ -1923,6 +1923,30 @@
     {
       "added_at": "2024-11-19 17:09:17",
       "album": {
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
+      },
+      "artists": [
+        {
+          "name": "AzMattic",
+          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "duration_ms": 193450,
+      "name": "Morning Walk",
+      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
+    },
+    {
+      "added_at": "2024-11-19 17:09:17",
+      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 176149,
       "name": "Still Not In Space",
       "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
-    },
-    {
-      "added_at": "2024-11-19 17:09:17",
-      "album": {
-        "name": "Morning Walk",
-        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
-      },
-      "artists": [
-        {
-          "name": "AzMattic",
-          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        },
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
-        }
-      ],
-      "duration_ms": 193450,
-      "name": "Morning Walk",
-      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
     },
     {
       "added_at": "2024-11-19 17:09:17",

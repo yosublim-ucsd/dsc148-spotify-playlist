@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,517 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,513 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Whine](https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Whine](https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR) | 2:19 |
 | 9 | [Time](https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Time](https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9) | 3:20 |
 | 10 | [Küss dein Herz](https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Küss dein Herz](https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym) | 2:42 |
-| 11 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
-| 12 | [so als ob](https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Ist es schon wieder Abend?](https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1) | 2:34 |
+| 11 | [so als ob](https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Ist es schon wieder Abend?](https://open.spotify.com/album/2sasQFlydD1KAFgu9wqxg1) | 2:34 |
+| 12 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
 | 13 | [Brenne](https://open.spotify.com/track/2fv5ZNriD458IXRR9qffTu) | [ILO](https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP) | [Brenne](https://open.spotify.com/album/7vMoDNGKcNbriWELFzZZV5) | 2:51 |
 | 14 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 15 | [Pberg](https://open.spotify.com/track/3fUuGfJmvc4p8NXlLgWI5o) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Pberg](https://open.spotify.com/album/0J7CtWfxGVROwIDi8ARBd3) | 1:39 |

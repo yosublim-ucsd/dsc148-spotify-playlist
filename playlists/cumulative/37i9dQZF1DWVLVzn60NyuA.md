@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-519 songs - 1 day 3 hr 27 min
+520 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 | 2023-04-07 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-05-24 |  |
 | [Table For Two](https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa) | [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Quarantime: The Lost Files](https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0) | 2:34 | 2021-12-16 | 2023-03-01 |
+| [Tadow \- Full Crate Remix](https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Tadow \(Full Crate Remix\)](https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM) | 3:08 | 2024-11-21 |  |
 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-07-07 |  |
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-10-07 | 2023-03-01 |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 | 2022-03-25 | 2022-12-15 |
@@ -507,7 +508,7 @@
 | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/track/7LRJmZ6G5qHQEG2CGeTCji) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/album/6MhwOilsUaISxb4VnIuxpl) | 3:14 | 2021-12-16 | 2022-01-26 |
 | [West Indies](https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 3:57 | 2024-01-31 | 2024-04-19 |
 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-12-16 | 2024-01-29 |
-| [What A Loss](https://open.spotify.com/track/3UvqQpBrhM9GfgCDoTl28G) | [Taffy Ghazali](https://open.spotify.com/artist/3Q0iumVR9I3LUs7RY0QY4s), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [What a loss](https://open.spotify.com/album/6IBO1yvczU6NmnhZ3p2Mw8) | 4:19 | 2024-10-17 |  |
+| [What A Loss](https://open.spotify.com/track/3UvqQpBrhM9GfgCDoTl28G) | [Taffy Ghazali](https://open.spotify.com/artist/3Q0iumVR9I3LUs7RY0QY4s), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [What a loss](https://open.spotify.com/album/6IBO1yvczU6NmnhZ3p2Mw8) | 4:19 | 2024-10-17 | 2024-11-22 |
 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-23 | 2023-09-08 |
 | [Whine It](https://open.spotify.com/track/0s3aOtZgvBUjQcXLpASza8) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Tsunami](https://open.spotify.com/album/2hsPUsRm1eOGkNxqr2wira) | 2:41 | 2021-12-16 | 2022-01-21 |
 | [Why](https://open.spotify.com/track/5JivNZTf3Oz2yy5KuSqvFm) | [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7) | [Why](https://open.spotify.com/album/4rHgrEa4eGz71uNklcNKhd) | 2:42 | 2021-12-16 | 2022-07-29 |

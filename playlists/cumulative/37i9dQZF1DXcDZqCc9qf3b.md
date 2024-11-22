@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom
 
-137 songs - 5 hr 34 min
+138 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [The Sea Beast](https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 2:23 | 2022-07-08 | 2022-07-10 |
 | [The Slip](https://open.spotify.com/track/7Jr9MNxJWexglBZJvHNTCk) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Jordan Mosley](https://open.spotify.com/artist/3sdEAXDskGxSy9wwOsza6s) | [My Dad The Bounty Hunter \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/18hA5x8SmQG5FDATMx3wvp) | 2:27 | 2023-02-03 |  |
 | [The Trickster Twins](https://open.spotify.com/track/0bODqMJZeLTmFLvQFuBYg5) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze) | [Spirit Rangers: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/20hf5xuyRMfWSqN5GYlSAd) | 0:58 | 2024-04-08 |  |
+| [The Way It Was Before \(End Credits Version\)](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 | 2024-11-21 |  |
 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 | 2022-04-08 | 2024-08-17 |
 | [This Day](https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc) | [Justin Cornwell](https://open.spotify.com/artist/2A5eGxahQnw1LlZDMlzCWC), [Sharon Rose](https://open.spotify.com/artist/4eeDtE1DM9kHdHyHi668JQ) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:33 | 2022-04-08 | 2024-08-17 |
 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 | 2022-10-12 | 2024-04-19 |

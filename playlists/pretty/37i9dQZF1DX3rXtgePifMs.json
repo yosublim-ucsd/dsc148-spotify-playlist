@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 115989,
+  "num_followers": 116006,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "CATALYST",
+        "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "CATALYST",
-        "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "CATALYST",
-      "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Passport Bros (with J. Cole)",
-        "url": "https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 164551,
-      "name": "Passport Bros (with J. Cole)",
-      "url": "https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 222070,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Passport Bros (with J. Cole)",
+        "url": "https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 164551,
+      "name": "Passport Bros (with J. Cole)",
+      "url": "https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "I Just Wanna Dance",
         "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "EZ 4 Me",
+        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 180628,
+      "name": "EZ 4 Me",
+      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "EZ 4 Me",
-        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 180628,
-      "name": "EZ 4 Me",
-      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Can't Stay",
         "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 257828,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
       "added_at": "2023-11-20 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Baaba J
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,496 likes - 81 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503 likes - 81 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

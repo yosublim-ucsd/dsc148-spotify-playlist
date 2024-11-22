@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 
 > Big rock tracks from 2018\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,276 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,320 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 | 47 | [Rats](https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq) | 4:21 |
 | 48 | [Always Ascending](https://open.spotify.com/track/1by2yZWXqeTs4SRlBDsGov) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Always Ascending](https://open.spotify.com/album/5mGnBhRKFyZ3hcqNJLl08W) | 5:21 |
 | 49 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 |
-| 50 | [When The Seasons Change](https://open.spotify.com/track/2ioTQEEJcTMdiFE6PCwj9q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:47 |
+| 50 | [Burnin'](https://open.spotify.com/track/2N9tek9pAY4PnMqO8lrHAv) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Family Tree](https://open.spotify.com/album/1zDzNUjqgDuZkrgHWear9s) | 3:28 |
 | 51 | [I Can't Quit](https://open.spotify.com/track/4DBeUcBD2zVZzhf2oX1PLc) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Combat Sports](https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY) | 2:42 |
-| 52 | [Burnin'](https://open.spotify.com/track/2N9tek9pAY4PnMqO8lrHAv) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Family Tree](https://open.spotify.com/album/1zDzNUjqgDuZkrgHWear9s) | 3:28 |
+| 52 | [When The Seasons Change](https://open.spotify.com/track/2ioTQEEJcTMdiFE6PCwj9q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:47 |
 | 53 | [Gold Rush](https://open.spotify.com/track/6x9VaGUbiSRvkLEdjeqjsN) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Thank You for Today](https://open.spotify.com/album/6agCM9GJcebduMddgFmgsO) | 4:00 |
 | 54 | [home ft\. WALK THE MOON](https://open.spotify.com/track/1Wm8n5eQpDaOk2eQjf8ENd) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [home ft\. WALK THE MOON](https://open.spotify.com/album/3lxAYZqyv3GpLfEXO275bZ) | 3:25 |
 | 55 | [The Kids Are Alt\-Right](https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Kids Are Alt\-Right](https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX) | 2:43 |

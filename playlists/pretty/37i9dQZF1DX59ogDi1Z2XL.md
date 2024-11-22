@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,480 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,504 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 28 | [Gone](https://open.spotify.com/track/2tzABP9sVtpioKm1etJpcZ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi), [LeRoyce](https://open.spotify.com/artist/02eLls9aGOtRCaIr39nq4X) | [Gone](https://open.spotify.com/album/46KYdMyw37LpoZ156aJayG) | 3:41 |
 | 29 | [Sing Along](https://open.spotify.com/track/3SzgqnaGGWP0yPxmRiZy5Y) | [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK) | [ACTIVATED](https://open.spotify.com/album/1l4UIJ3pgHaINLhUpBWM2N) | 3:04 |
 | 30 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 |
-| 31 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
+| 31 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
 | 32 | [OWTS](https://open.spotify.com/track/17I97We87Ww9Jg8Teczqa4) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [OWTS](https://open.spotify.com/album/3LnKBpQpULQHQcomO5O5q7) | 2:52 |
 | 33 | [The One \(feat\. Maestro Fresh Wes\)](https://open.spotify.com/track/31VPHjirgKqd91Ti87GHPt) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K) | [Still Queen of the 6ix](https://open.spotify.com/album/5IYOxwLAyGDJSQTiUiE6cz) | 3:06 |
 | 34 | [TOO LATE II](https://open.spotify.com/track/5Bt4KILKgEXVU3cIln0Kjd) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [TOO LATE II](https://open.spotify.com/album/2UnNUtWS47noKHC9EZlq9g) | 2:56 |

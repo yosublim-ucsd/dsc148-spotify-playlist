@@ -4,12 +4,12 @@
 
 > Türkiye'nin en büyük pop listesi\. Kapak:   Mela Bedel
 
-120 songs - 6 hr 4 min
+122 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acı Veriyor](https://open.spotify.com/track/0NcrorHQw7tB1ykMIsZkGD) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Acı Veriyor](https://open.spotify.com/album/0ZanJVLiFEKEHsEzzaxaZE) | 3:13 | 2024-07-02 | 2024-10-10 |
-| [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-07 |  |
+| [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-07 | 2024-11-22 |
 | [Aferin Bana](https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Aferin Bana](https://open.spotify.com/album/0LBF46qGy65WEcrtbxetHP) | 3:40 | 2024-07-25 | 2024-08-16 |
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-07 |  |
 | [Anılara Dalarız](https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Anılara Dalarız](https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP) | 2:30 | 2024-09-05 |  |
@@ -18,6 +18,8 @@
 | [Atlantis](https://open.spotify.com/track/5McJm018JxLoTC54fInvWo) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atlantis](https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI) | 2:08 | 2024-07-25 | 2024-08-09 |
 | [Atmıyor Nabzım](https://open.spotify.com/track/4jkWK59V3EqLbxYh4aDPtS) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atmıyor Nabzım](https://open.spotify.com/album/6hxfB48Sxt5XVZOvJhleEG) | 2:37 | 2024-07-02 | 2024-07-19 |
 | [Azar Azar](https://open.spotify.com/track/4xdl1mVmS8lwVdwadHXL3A) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Azar Azar](https://open.spotify.com/album/70Ou8qkOFl2LwnvnEO3bex) | 3:00 | 2024-09-26 |  |
+| [Babil](https://open.spotify.com/track/53DRdoRp8ihlGH2XZwqv6a) | [Nil Karaibrahimgil](https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q) | [Babil](https://open.spotify.com/album/5laJzLzpppiMQo5EvwTMc7) | 2:20 | 2024-11-21 |  |
+| [Baksana Bana](https://open.spotify.com/track/5u5aUcPR8ldDForXsAAtqP) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Baksana Bana](https://open.spotify.com/album/0SRLj5x7TcO8LbS65oPzbF) | 3:13 | 2024-11-21 |  |
 | [Bakınca Görünüyorsun](https://open.spotify.com/track/2GWlSl2wcp4B808K9pYsT9) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Bakınca Görünüyorsun](https://open.spotify.com/album/2usfWnZB55dHYwOjgoqUT9) | 3:26 | 2024-07-02 | 2024-07-19 |
 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-07-02 |  |
 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 | 2024-07-04 | 2024-08-09 |
@@ -77,7 +79,7 @@
 | [Mevzu Derin](https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Mevzu Derin](https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV) | 2:55 | 2024-10-24 | 2024-11-08 |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-10-31 |  |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-07-27 |
-| [Ne Olur](https://open.spotify.com/track/5jxxdNApkd5Uayjfqiv5lh) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Ne Olur](https://open.spotify.com/album/1tJGZnDCmzMhNpLfjnyvxg) | 2:11 | 2024-11-07 |  |
+| [Ne Olur](https://open.spotify.com/track/5jxxdNApkd5Uayjfqiv5lh) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Ne Olur](https://open.spotify.com/album/1tJGZnDCmzMhNpLfjnyvxg) | 2:11 | 2024-11-07 | 2024-11-22 |
 | [Neden Anlamadın Beni?](https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Neden Anlamadın Beni?](https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO) | 2:16 | 2024-08-01 | 2024-08-16 |
 | [NERESİ?](https://open.spotify.com/track/69j3pb1B6timV7SEEcfsQ0) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [NERESİ?](https://open.spotify.com/album/3b9rPCIjMeLjOmz4zKuhV7) | 2:50 | 2024-07-02 | 2024-07-12 |
 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 | 2024-07-02 | 2024-07-19 |

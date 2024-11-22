@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-133 songs - 6 hr 52 min
+135 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 | 2021-12-21 |  |
 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 | 2023-10-13 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 | 2023-10-14 |
+| [Restless Elves on Christmas Day](https://open.spotify.com/track/74h0jsKWQe41qxSwYKsyZR) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Restless Elves on Christmas Day](https://open.spotify.com/album/3wDWOoxVzE5kLzis5EF5mA) | 3:25 | 2024-11-21 |  |
 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 | 2023-10-06 |  |
 | [Santa Baby](https://open.spotify.com/track/2dAfFeRPrMoUb6ZKObAHrr) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Christmas](https://open.spotify.com/album/1LmktIGUC5EwQ7YRKP76iO) | 2:53 | 2023-10-20 |  |
 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 | 2021-12-21 | 2023-10-20 |
@@ -120,6 +121,7 @@
 | [The Little Drummer Boy](https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr) | [Rudy Snow](https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg) | [Feliz Navidad](https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK) | 2:38 | 2022-10-20 | 2024-11-12 |
 | [The Most Wonderful Day of The Year](https://open.spotify.com/track/6rnbHty5DmSiKwpLqOaZqK) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 2:45 | 2023-10-13 |  |
 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 | 2021-12-21 |  |
+| [The Story of Santa Claus](https://open.spotify.com/track/6P6j7AvhNwxZNAomiCw1ZS) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [The Story of Santa Claus](https://open.spotify.com/album/6S3izXh542A5ER5eAh8a73) | 3:22 | 2024-11-21 |  |
 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 | 2021-12-21 |  |
 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 | 2023-09-22 |  |
 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 | 2023-11-10 |  |
@@ -131,7 +133,7 @@
 | [We Wish You a Merry Christmas \(Piano\)](https://open.spotify.com/track/46o7C7eAk0MHuRIoniPfwZ) | [John Fulford Music](https://open.spotify.com/artist/6CL7c5qT8oda6dIdyOoXTz) | [Holiday Jazz](https://open.spotify.com/album/4Y5LPU1oUNQUGPNOEq8Jkm) | 2:22 | 2021-12-21 | 2022-12-16 |
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/1fnKHY9FBFexqlx69unvhd) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Jeff Steinberg Jazz Ensemble](https://open.spotify.com/artist/37SofF6rHmWJudegF3hBUH) | [Christmas By Candlelight](https://open.spotify.com/album/3tSZBHIEPQo1nOrniwqadI) | 4:57 | 2021-12-21 | 2023-10-20 |
 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 | 2023-10-20 |  |
-| [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 | 2023-11-10 |  |
+| [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 | 2023-11-10 | 2024-11-22 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2021-12-21 |  |
 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 | 2023-09-29 |  |
 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 | 2022-10-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Sofie Royer
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,996 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,994 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 17 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 |
 | 18 | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Spark \(feat\. yunè pinku\)](https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2) | 3:14 |
 | 19 | [Defense](https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Defense](https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27) | 4:35 |
-| 20 | [Give My Heart](https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star](https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe) | 3:27 |
+| 20 | [Give My Heart](https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star](https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe) | 3:26 |
 | 21 | [Hearts Working Overtime](https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Hearts Working Overtime](https://open.spotify.com/album/5eA3zrRbb9OiyQc9YValBm) | 3:00 |
 | 22 | [Crash Test Plane](https://open.spotify.com/track/0ZHcU2BZfeylr6uF1S3vzE) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Crash Test Plane](https://open.spotify.com/album/3cAjesTUTU5FNLTISuMHbW) | 4:12 |
 | 23 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |

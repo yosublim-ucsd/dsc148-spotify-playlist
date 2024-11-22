@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: iii",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: \u65b9\u7693\u739f",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -936,6 +936,28 @@
       "duration_ms": 180301,
       "name": "Girls Talk",
       "url": "https://open.spotify.com/track/1YSMKti9APTruhAFfzMf83"
+    },
+    {
+      "album": {
+        "name": "grwm",
+        "url": "https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        },
+        {
+          "name": "Marf \u90b1\u5f65\u7b52",
+          "url": "https://open.spotify.com/artist/7BHqouffSZsWJH8EfFuehR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162621,
+      "name": "grwm",
+      "url": "https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP"
     },
     {
       "album": {
@@ -2036,6 +2058,28 @@
       "duration_ms": 345741,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0Jzfsn3VpuF1VbwCtla7Xw"
+    },
+    {
+      "album": {
+        "name": "Something About You\uff08\u96fb\u5f71\u300a\u5bc4\u4e86\u4e00\u6574\u500b\u6625\u5929\u300b\u63d2\u66f2\uff09",
+        "url": "https://open.spotify.com/album/35NNLFfB3ic305HsTe55h4"
+      },
+      "artists": [
+        {
+          "name": "Marf \u90b1\u5f65\u7b52",
+          "url": "https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08"
+        },
+        {
+          "name": "Sheena \u9673\u66f8\u6615",
+          "url": "https://open.spotify.com/artist/31l0gLWOmac7pl45vzXmvR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160085,
+      "name": "Something About You\uff08\u96fb\u5f71\u300a\u5bc4\u4e86\u4e00\u6574\u500b\u6625\u5929\u300b\u63d2\u66f2\uff09",
+      "url": "https://open.spotify.com/track/6OeqBgXjRapq5I9TwtN8ub"
     },
     {
       "album": {
@@ -5213,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "\u63d0\u524d\u5206\u624b",
+        "url": "https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp"
+      },
+      "artists": [
+        {
+          "name": "Charmaine Fong",
+          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212689,
+      "name": "\u63d0\u524d\u5206\u624b",
+      "url": "https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS"
+    },
+    {
+      "album": {
         "name": "\u6487sss",
         "url": "https://open.spotify.com/album/36ar1jx7PBW7ytUHSFzRwa"
       },
@@ -6560,6 +6622,24 @@
       "duration_ms": 238916,
       "name": "\u7d9c\u85dd\u9b42",
       "url": "https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up"
+    },
+    {
+      "album": {
+        "name": "\u7dad\u7d0d\u65af\u7684\u8a95\u751f",
+        "url": "https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky"
+      },
+      "artists": [
+        {
+          "name": "Kendy Suen",
+          "url": "https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260833,
+      "name": "\u7dad\u7d0d\u65af\u7684\u8a95\u751f",
+      "url": "https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp"
     },
     {
       "album": {

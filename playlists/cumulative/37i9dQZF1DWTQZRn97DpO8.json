@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Enchant\u00e9e Julia",
   "name": "le miel",
   "tracks": [
     {
@@ -1559,6 +1559,32 @@
     },
     {
       "album": {
+        "name": "Rencontres",
+        "url": "https://open.spotify.com/album/0vPQ2B9kOr8EB3EpKQehJu"
+      },
+      "artists": [
+        {
+          "name": "Soless",
+          "url": "https://open.spotify.com/artist/5B0bNvzDNblvSEp9T0s20L"
+        },
+        {
+          "name": "Glodi West",
+          "url": "https://open.spotify.com/artist/0J3zBtOK7EXBP97dKyQpYT"
+        },
+        {
+          "name": "SaMajest\u00e9",
+          "url": "https://open.spotify.com/artist/3VrZN0xunY3wOmsK4nzBB4"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/7hw1C0mBei28gbmjUbrQhw"
+    },
+    {
+      "album": {
         "name": "HOLD-UP",
         "url": "https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx"
       },
@@ -2749,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Nymphonie",
+        "url": "https://open.spotify.com/album/3aZtRyaMulrww5u9yiKfkM"
+      },
+      "artists": [
+        {
+          "name": "\u00c4zy",
+          "url": "https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149788,
+      "name": "Nymphonie",
+      "url": "https://open.spotify.com/track/64XVDdlZIx89lMDZSVoILc"
+    },
+    {
+      "album": {
         "name": "OK.",
         "url": "https://open.spotify.com/album/1CGNBNbj4RIfBW2Lbi7PHK"
       },
@@ -2764,6 +2808,28 @@
       "duration_ms": 189979,
       "name": "OK.",
       "url": "https://open.spotify.com/track/1vE9QlPY6du7P63UNVsge5"
+    },
+    {
+      "album": {
+        "name": "ONZE",
+        "url": "https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K"
+      },
+      "artists": [
+        {
+          "name": "Enchant\u00e9e Julia",
+          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
+        },
+        {
+          "name": "Prince Waly",
+          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166620,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/0GTtsPEsu9Mr2X125jHKRj"
     },
     {
       "album": {
@@ -3428,7 +3494,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176595,
       "name": "R\u00e8gles du Game",
       "url": "https://open.spotify.com/track/0mitC7wQ4uDagan8O6seV2"
@@ -3534,7 +3600,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 160000,
       "name": "Sans Moi",
       "url": "https://open.spotify.com/track/4ndGsIoBmYWMaZw70NlsQr"
@@ -3892,7 +3958,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 166231,
       "name": "Tapage nocturne",
       "url": "https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9"

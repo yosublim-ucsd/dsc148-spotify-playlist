@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-168 songs - 8 hr 32 min
+170 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas Meets Jazz](https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ) | 4:50 | 2021-12-21 | 2023-10-06 |
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA) | 4:50 | 2021-12-21 | 2022-07-29 |
 | [Jolly old st Nicolas](https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Jolly old st Nicolas](https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5) | 1:44 | 2023-10-06 |  |
-| [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 | 2021-12-21 |  |
+| [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 | 2021-12-21 | 2024-11-22 |
 | [Let It Snow](https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Jingle Bell Rock](https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW) | 2:03 | 2021-12-21 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/7hhDPZWfG8IPm8gjW2DpJw) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/2dSlsnpZqRdUOkTzxJ0H6H) | 3:27 | 2024-11-11 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 | 2023-11-10 |  |
@@ -125,6 +125,7 @@
 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 | 2023-10-13 |  |
 | [Santa Tell Me](https://open.spotify.com/track/44RdYUqTwUvlQlTBnRNUkq) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:18 | 2023-10-13 | 2023-10-14 |
 | [Santa's Holiday](https://open.spotify.com/track/5KZzkQ5nsiqWo9meSkoR3X) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Santa's Holiday](https://open.spotify.com/album/5FOBxYcmfp50AlWk2v2A8P) | 2:19 | 2024-11-11 |  |
+| [Santa's Sleighbell Song](https://open.spotify.com/track/0bBZ8ISzCYpOtiaykMl7lg) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Santa's Sleighbell Song](https://open.spotify.com/album/5hZW8lqvODmNGu3x7nwXOJ) | 2:29 | 2024-11-21 |  |
 | [Santa's Way Home](https://open.spotify.com/track/1UCAVkeC3iShW7B2uoK39C) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Santa's Way Home](https://open.spotify.com/album/4xq5dmKLHqupgbLvrAeYyY) | 3:05 | 2023-10-20 |  |
 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 | 2023-11-10 |  |
 | [Silent Night](https://open.spotify.com/track/1ly2fVX5oa3mEYIIJmZy7y) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Silent Night](https://open.spotify.com/album/494ISYC4VJgaXehehLU6zI) | 3:03 | 2021-12-21 |  |
@@ -148,7 +149,7 @@
 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 | 2024-11-11 |  |
 | [The Sussex carol](https://open.spotify.com/track/2LVzktB1XdBMjfUIgvsWmq) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [The Sussex carol](https://open.spotify.com/album/6eEeB3BkpWLJaFU6wILJtb) | 1:12 | 2023-10-20 |  |
 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 | 2023-09-22 |  |
-| [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 | 2023-11-10 |  |
+| [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 | 2023-11-10 | 2024-11-22 |
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 | 2022-10-20 |  |
 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 | 2023-10-13 |  |
@@ -168,6 +169,7 @@
 | [White Christmas](https://open.spotify.com/track/0X5GOwlZZgW0lT1NsCuir5) | [Sian Sullivan](https://open.spotify.com/artist/4VVP1CLZbbGay53RL2Gbe6) | [White Christmas](https://open.spotify.com/album/7iQnxZfcvdaaQX1fYRAfof) | 4:21 | 2022-10-07 |  |
 | [White Christmas \- Remastered](https://open.spotify.com/track/0uiPNd0fdoklct761AycxJ) | [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [Structurally Sound](https://open.spotify.com/album/4T7k8nLuMrFoiJSL1rlq0k) | 4:30 | 2021-12-21 | 2022-10-08 |
 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 | 2023-11-17 |  |
+| [Winter Lights on Christmas Eve](https://open.spotify.com/track/2WdZKwHQmVh9Z6mViudQf2) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Winter Lights on Christmas Eve](https://open.spotify.com/album/7a1wXo2JMcZo92VCZJkjVl) | 3:11 | 2024-11-21 |  |
 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 | 2023-11-17 |  |
 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 | 2021-12-21 | 2023-09-28 |
 | [Winter Weather/I've Got My Love to Keep Me Warm \- Medley](https://open.spotify.com/track/0JZNXXaHEtsMMpBPV5e4lz) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/0GlnZ6vrTnXbQKc13Ia8Qz) | 3:46 | 2023-09-22 | 2023-11-11 |

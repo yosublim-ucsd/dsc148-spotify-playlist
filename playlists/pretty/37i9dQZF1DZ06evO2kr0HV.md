@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,074 likes - 48 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,093 likes - 48 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 47 | [Pobre Corazón](https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Pobre Corazón](https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2) | 3:02 |
 | 48 | [Yo Seguiré \- Demo](https://open.spotify.com/track/5YPblWFtdDF0DmI6rmKrOL) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:48 |
 
-Snapshot ID: `ZzvVAAAAAAAmrCDt9tkrJsnQHR+okP3l`
+Snapshot ID: `Zz0mgAAAAADNzQOmt4lyVmiGF+ALKABI`

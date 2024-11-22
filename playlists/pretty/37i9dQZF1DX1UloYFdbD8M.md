@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,854 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,855 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 2 | [Paattu](https://open.spotify.com/track/77sckVjf0h9oNyrGi7jIT7) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Meenakshi Krishna](https://open.spotify.com/artist/5RfM3LYItqRdk1yAcdFfou) | [Paattu](https://open.spotify.com/album/45lcm2jQOdd0XNubzRPtaj) | 2:48 |
 | 3 | [NISHANI](https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [NISHANI](https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7) | 2:48 |
 | 4 | [Thelivaanile](https://open.spotify.com/track/4LLpxblnNhzE3l1z2b9fdP) | [Blesson Thomas](https://open.spotify.com/artist/33WUO7FZfK5tKam1QSJm2j), [Athul Sebastian](https://open.spotify.com/artist/3ZWqF6wmLqHbkxUZi7yroM) | [Thelivaanile](https://open.spotify.com/album/1GkBhNNWh5HV7QgTUKip2r) | 3:59 |
-| 5 | [Bleed](https://open.spotify.com/track/39uIWCPy3cJUHqMPqo18NO) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [Unkill Ji](https://open.spotify.com/artist/3yCDAJQ2Bh3PrmScfF8uor), [Crustacean](https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2) | [Bait/Switch](https://open.spotify.com/album/5BVFf3JcElyZUD1ds8N0St) | 3:09 |
+| 5 | [Bleed](https://open.spotify.com/track/39uIWCPy3cJUHqMPqo18NO) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [Unkill ji](https://open.spotify.com/artist/37IDTCYm9GJTwptgygP8Wz), [Crustacean](https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2) | [Bait/Switch](https://open.spotify.com/album/5BVFf3JcElyZUD1ds8N0St) | 3:09 |
 | 6 | [Arike](https://open.spotify.com/track/2Jz9wqeskXX6Hw81qwavK8) | [buds](https://open.spotify.com/artist/4xu4FnvRIMI8MXNNKWaasp), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp), [Gokul Krishnan](https://open.spotify.com/artist/2cNgnMWhzBS9FsuxgRSxAF) | [Arike](https://open.spotify.com/album/42NkFwfeLi2tfopYyuhH1y) | 2:53 |
 | 7 | [HubB \- Song Of Love](https://open.spotify.com/track/7HrXLVWZCEEscNlx57xsLF) | [Haseeb Razak](https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8), [Huda Basheer](https://open.spotify.com/artist/3nVXXoviGSsNkUZohVgkRS), [Ajmal Mampad](https://open.spotify.com/artist/0Wtf4vdZQ2lPtE4YUUh2iy) | [HubB \- Song Of Love](https://open.spotify.com/album/1irZV7ojma8ojEwuUgJSb0) | 4:23 |
 | 8 | [Madhure](https://open.spotify.com/track/4laP9v1EYy0XNPXB801MpR) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Nazeer Minnale](https://open.spotify.com/artist/5raKbwjQso45ujdj5638gg) | [Madhure](https://open.spotify.com/album/2KoXz4gKvMogaqaqsuGvNu) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZo89d5U6t.md) - [plain]
 
 > Enjoy music & episodes from “Teasing Master Takagi\-san”! 劇場版公開記念『からかい上手の高木さん』プレイリスト！　©S.Y,S/TKGM 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,393 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,401 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZo89d5U6t.md) - [plain]
 | 35 | [こっちは?](https://open.spotify.com/track/0nFa4HB48O8LQvh0HpL2LJ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん2」Music Collection](https://open.spotify.com/album/3hn37dAULrRJk0MAmEJno7) | 1:50 |
 | 36 | [星に願い事](https://open.spotify.com/track/2HNhzinp7E72wSa65zbqJj) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん2」Music Collection](https://open.spotify.com/album/3hn37dAULrRJk0MAmEJno7) | 1:05 |
 | 37 | [100%片想い](https://open.spotify.com/track/1eEUnj9J16eDECS302oVaN) | [大嵜さんと堤くん](https://open.spotify.com/artist/3JBmymaW8UCQvf36PRE1Jn), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [からかい上手の高木さん Music Collection](https://open.spotify.com/album/2jQkaKjHsrjfaxaKL9Kq8q) | 3:00 |
-| 38 | [握力のやつ](https://open.spotify.com/track/3F7eqtUVVAtrIi9PjpDPPa) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん3」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 1:18 |
-| 39 | [ロミ代とジュリ夫\(本番\)](https://open.spotify.com/track/6UVpYyBlTeUsq7OIZfemTy) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん3」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 3:08 |
-| 40 | [ミナとユカリとサナエのネコ救出](https://open.spotify.com/track/11z77tAmrlauznGIFhtOGF) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん3」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 2:20 |
-| 41 | [気配](https://open.spotify.com/track/1zzWpkMtdw5h2C6B7eU7Vl) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん3」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 4:57 |
+| 38 | [握力のやつ](https://open.spotify.com/track/3F7eqtUVVAtrIi9PjpDPPa) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん３」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 1:18 |
+| 39 | [ロミ代とジュリ夫（本番）](https://open.spotify.com/track/6UVpYyBlTeUsq7OIZfemTy) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん３」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 3:08 |
+| 40 | [ミナとユカリとサナエのネコ救出](https://open.spotify.com/track/11z77tAmrlauznGIFhtOGF) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん３」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 2:20 |
+| 41 | [気配](https://open.spotify.com/track/1zzWpkMtdw5h2C6B7eU7Vl) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん３」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 4:57 |
 | 42 | [ハナと高木さんと西片](https://open.spotify.com/track/6xompzP6z5fvNTveqp0ujN) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 1:39 |
 | 43 | [からかい上手の高木さん](https://open.spotify.com/track/4F6QMnvOcXkoNfdVpuP3u5) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 3:16 |
 

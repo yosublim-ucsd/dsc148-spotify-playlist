@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Roy Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,010 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,018 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 8 | [Scars](https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:16 |
 | 9 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:55 |
 | 10 | [Or Somthin](https://open.spotify.com/track/5vxHNUpLcsSsKWafGLLyNU) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Arbutus Canyon](https://open.spotify.com/album/78NkrKqrHnETfJa8ZASt1K) | 2:06 |
-| 11 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
+| 11 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
 | 12 | [Big Smile \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
 | 13 | [Bring Your Lungs \- feat\. Smoke DZA](https://open.spotify.com/track/7DWxJBtfOCs5WORaya45MV) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Bring Your Lungs \(feat\. Smoke DZA\)](https://open.spotify.com/album/2cJt7TdxGyYN1AGgQNwBmV) | 3:06 |
 | 14 | [Ego Maniacs](https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Ego Maniacs](https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB) | 3:38 |

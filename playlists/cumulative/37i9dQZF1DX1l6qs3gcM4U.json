@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Mr. Carly",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Irina Barros",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 211230,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/16Aiw4tQzSZhrt9P2qKKNR"
+    },
+    {
+      "album": {
+        "name": "Ado\u00e7are",
+        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218229,
+      "name": "Ado\u00e7are",
+      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
     },
     {
       "album": {
@@ -968,7 +986,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 190434,
       "name": "Benga",
       "url": "https://open.spotify.com/track/3EmHfwcxzONBlYGdUrgNSi"
@@ -2933,6 +2951,28 @@
     },
     {
       "album": {
+        "name": "Filme",
+        "url": "https://open.spotify.com/album/1x2A4KzdcS4RCkCqLjEohS"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166810,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
+    },
+    {
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/3Djqo8MIXcu1wt13fedq8Y"
       },
@@ -3796,7 +3836,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 193710,
       "name": "Kuyar Assim",
       "url": "https://open.spotify.com/track/4UZNXdjwzKLk6NC5Iq8E8v"
@@ -5804,7 +5844,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
@@ -6890,7 +6930,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 239189,
       "name": "Sempre Sonhei (feat. Yasmine)",
       "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"

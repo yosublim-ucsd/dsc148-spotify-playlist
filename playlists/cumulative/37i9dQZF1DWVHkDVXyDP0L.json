@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Bukowski",
+  "description": "New and local indie noise. Cover: Heavy Moss",
   "name": "Local Noise",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 213853,
       "name": "Animals",
       "url": "https://open.spotify.com/track/6HH7k6Xrj80gE9Ejf0ThZA"
@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Dead Slow",
+        "url": "https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC"
+      },
+      "artists": [
+        {
+          "name": "Heavy Moss",
+          "url": "https://open.spotify.com/artist/5a2NcVLOLrrn3oaG5cXmVt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335998,
+      "name": "Blutac",
+      "url": "https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5"
+    },
+    {
+      "album": {
         "name": "MAJORDOMO",
         "url": "https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 217602,
       "name": "Boarding Pass",
       "url": "https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf"
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Cloud Away",
+        "url": "https://open.spotify.com/album/4Luv3SguDP4dDtGOds6db4"
+      },
+      "artists": [
+        {
+          "name": "Floodlights",
+          "url": "https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218771,
+      "name": "Cloud Away",
+      "url": "https://open.spotify.com/track/5bRkVOnFXYm4ouHkoHCMxO"
+    },
+    {
+      "album": {
         "name": "Cold Pizza",
         "url": "https://open.spotify.com/album/2JXOlIjcupCJWC2GdnrtDw"
       },
@@ -1220,6 +1256,24 @@
       "duration_ms": 172261,
       "name": "DASHCAM",
       "url": "https://open.spotify.com/track/0Gx36lcDcYj74kGk5yZLDy"
+    },
+    {
+      "album": {
+        "name": "fainter",
+        "url": "https://open.spotify.com/album/05qFLnsjeBAwHtBHM6a8yc"
+      },
+      "artists": [
+        {
+          "name": "Moaning Lisa",
+          "url": "https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214119,
+      "name": "de facto",
+      "url": "https://open.spotify.com/track/2uYInarDGrbZ2oarZwHsmx"
     },
     {
       "album": {
@@ -1570,7 +1624,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 75509,
       "name": "Empty Barrels",
       "url": "https://open.spotify.com/track/5BfEjqgxW5c1SsI8gfT1VS"
@@ -1876,7 +1930,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 124663,
       "name": "First One",
       "url": "https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD"
@@ -2103,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Ghost Of Us",
+        "url": "https://open.spotify.com/album/7oO3cTGMCYfXOEptg8jVxS"
+      },
+      "artists": [
+        {
+          "name": "Siobhan Cotchin",
+          "url": "https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207955,
+      "name": "Ghost Of Us",
+      "url": "https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO"
+    },
+    {
+      "album": {
         "name": "Gimme the Wrench",
         "url": "https://open.spotify.com/album/5eIWOlKHdKO9s6gMV8QZxd"
       },
@@ -2172,6 +2244,24 @@
       "duration_ms": 255916,
       "name": "GROW UP / NIC SICK",
       "url": "https://open.spotify.com/track/0vxH5NujQ15KPwgmGgiKLV"
+    },
+    {
+      "album": {
+        "name": "Guillotine",
+        "url": "https://open.spotify.com/album/5gOS4xgZbZ7sRVZn4jVPdS"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/0WBpabiR6czdkQMvH9Wo6B"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215527,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/7yQnOAYsaRfDIXGKW8ZCtl"
     },
     {
       "album": {
@@ -2280,6 +2370,28 @@
       "duration_ms": 294005,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/52T1LYNEAtaUdCHbZgxixa"
+    },
+    {
+      "album": {
+        "name": "Mutation",
+        "url": "https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164939,
+      "name": "HEXXX",
+      "url": "https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6"
     },
     {
       "album": {
@@ -2784,7 +2896,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 173829,
       "name": "It Takes Courage To Be Soft",
       "url": "https://open.spotify.com/track/3UsuEAV0x0fJ1kxjtKqFSj"
@@ -3506,6 +3618,24 @@
       "duration_ms": 142482,
       "name": "Moving Out",
       "url": "https://open.spotify.com/track/3fZ3IDsdGkND5OJR0WACmN"
+    },
+    {
+      "album": {
+        "name": "Munarra",
+        "url": "https://open.spotify.com/album/2IMBC6hkbxh91dvQyhr4GI"
+      },
+      "artists": [
+        {
+          "name": "Briggs",
+          "url": "https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167384,
+      "name": "Munarra",
+      "url": "https://open.spotify.com/track/24yO4P0dHKnG6MKklMzwaG"
     },
     {
       "album": {
@@ -4810,7 +4940,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 156561,
       "name": "shes already out the doorstep",
       "url": "https://open.spotify.com/track/5DnSr0OoOWJeICYT1F0LRW"
@@ -5138,7 +5268,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 241917,
       "name": "STFAFM",
       "url": "https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd"
@@ -5361,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Sweet Like Sugar",
+        "url": "https://open.spotify.com/album/0JhaLPy7HhaA5wKewUhtqI"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198184,
+      "name": "Sweet Like Sugar",
+      "url": "https://open.spotify.com/track/2JCFVEDXZfWWzx3aiV1gZ3"
+    },
+    {
+      "album": {
         "name": "Take Another Lap",
         "url": "https://open.spotify.com/album/5jI6bVwij1SAY7BeIJ3Y5x"
       },
@@ -5426,7 +5574,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 183642,
       "name": "TANTRUM",
       "url": "https://open.spotify.com/track/3F1MKtNYeOrBF4oXfn6D7r"
@@ -5444,7 +5592,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 216000,
       "name": "Tappin Into Magic",
       "url": "https://open.spotify.com/track/6JauEacOM5Y1ojqaR7ELEr"
@@ -5516,7 +5664,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 171303,
       "name": "The Ants",
       "url": "https://open.spotify.com/track/0HK3HtEmnidY5r13CyZf1x"
@@ -5682,6 +5830,24 @@
       "duration_ms": 200736,
       "name": "Think Again, Motherf*cker",
       "url": "https://open.spotify.com/track/38AibaRLGt76ZG2ZbQX4Nd"
+    },
+    {
+      "album": {
+        "name": "This High Up",
+        "url": "https://open.spotify.com/album/1pwN3Vli2mtFaWYBmcXBzm"
+      },
+      "artists": [
+        {
+          "name": "Mystic Knights",
+          "url": "https://open.spotify.com/artist/1wF4JLm549nAAJUm7437js"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111320,
+      "name": "This High Up",
+      "url": "https://open.spotify.com/track/6fzrti55gh3cXknLB7kcCJ"
     },
     {
       "album": {

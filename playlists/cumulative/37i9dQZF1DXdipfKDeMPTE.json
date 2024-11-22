@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 120000,
       "name": "Beyond Sight",
       "url": "https://open.spotify.com/track/1roMpJzKbIqZzqS79K33oj"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184800,
       "name": "Caf\u00e9 Contemplation",
       "url": "https://open.spotify.com/track/3axcOHtOYpoE4opkZ4RKfk"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 114545,
       "name": "Chamberjam",
       "url": "https://open.spotify.com/track/1Mg6zkSzuik8zHJeEOfVs3"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 121008,
       "name": "Chicago Nights",
       "url": "https://open.spotify.com/track/0FXG3k1T09bIB3JKEr9CIt"
@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Estelle",
+        "url": "https://open.spotify.com/album/4o9PfEHog5OOVF3csh6ypi"
+      },
+      "artists": [
+        {
+          "name": "Samara Milli",
+          "url": "https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110666,
+      "name": "Estelle",
+      "url": "https://open.spotify.com/track/39j1lrsLa9jZ72Qx6PxJ2r"
+    },
+    {
+      "album": {
         "name": "exhale",
         "url": "https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I"
       },
@@ -3340,6 +3358,24 @@
       "duration_ms": 167000,
       "name": "exhale",
       "url": "https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5"
+    },
+    {
+      "album": {
+        "name": "exhibit",
+        "url": "https://open.spotify.com/album/3CydxB2cJBwnEn1eaUBXJp"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149745,
+      "name": "exhibit",
+      "url": "https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr"
     },
     {
       "album": {
@@ -3867,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Glum Look",
+        "url": "https://open.spotify.com/album/3D3AYyKxxfxagXU3BiY4aZ"
+      },
+      "artists": [
+        {
+          "name": "drawn animal",
+          "url": "https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Glum Look",
+      "url": "https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf"
+    },
+    {
+      "album": {
         "name": "God Girl",
         "url": "https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU"
       },
@@ -4004,7 +4058,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 128015,
       "name": "gots to chill",
       "url": "https://open.spotify.com/track/2N0EsmVXjS2Fc3FFR2BouU"
@@ -5107,6 +5161,24 @@
     },
     {
       "album": {
+        "name": "Karma With Some Fries",
+        "url": "https://open.spotify.com/album/40dzxlX6cYHgOsh3k4XeML"
+      },
+      "artists": [
+        {
+          "name": "Origami Boy",
+          "url": "https://open.spotify.com/artist/6AXuEi329nYd2kt46evInQ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145363,
+      "name": "Karma With Some Fries",
+      "url": "https://open.spotify.com/track/6aYmDGMiG4WILsQ2xrRAyN"
+    },
+    {
+      "album": {
         "name": "Keep Warm",
         "url": "https://open.spotify.com/album/15ki4Z5IWbuJ7uJsyzhV0J"
       },
@@ -6184,7 +6256,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 126709,
       "name": "Midnight Cigar",
       "url": "https://open.spotify.com/track/3f0NlJqwjtfPdmXbE2rpfH"
@@ -6300,7 +6372,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 131142,
       "name": "Mindfeed",
       "url": "https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA"
@@ -8261,6 +8333,24 @@
     },
     {
       "album": {
+        "name": "Quiet Pulse",
+        "url": "https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT"
+      },
+      "artists": [
+        {
+          "name": "poems",
+          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Quiet Pulse",
+      "url": "https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC"
+    },
+    {
+      "album": {
         "name": "Rain Man",
         "url": "https://open.spotify.com/album/7zHvg8OIupzWCgzPRmOyzZ"
       },
@@ -9740,7 +9830,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 92080,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0oDKxUVSxtqZ244FiGbcBN"
@@ -9891,6 +9981,24 @@
     },
     {
       "album": {
+        "name": "still images",
+        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127146,
+      "name": "still images",
+      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
+    },
+    {
+      "album": {
         "name": "Stormy Weather",
         "url": "https://open.spotify.com/album/5s0x6jVEZYJsZLqXBm4aoG"
       },
@@ -9960,7 +10068,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 120000,
       "name": "Summer Sleepy",
       "url": "https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns"
@@ -10484,7 +10592,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 114090,
       "name": "The Market",
       "url": "https://open.spotify.com/track/3112UHGw8PKkHkUzwHaccj"

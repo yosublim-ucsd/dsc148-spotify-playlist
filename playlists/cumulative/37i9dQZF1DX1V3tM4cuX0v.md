@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Parfeniuk
+> Найпопулярніші пісні сьогодення\. Обкладинка: The Weeknd
 
 77 songs - 3 hr 45 min
 

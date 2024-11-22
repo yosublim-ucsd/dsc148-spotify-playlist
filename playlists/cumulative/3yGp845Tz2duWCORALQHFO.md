@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/3yGp845Tz2duWCORALQHFO.md) - cumulative - [plain](/playlists/plain/3yGp845Tz2duWCORALQHFO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3yGp845Tz2duWCORALQHFO)
 
-### [NEW EDM 2024 ⚡ EDM HITS 2024 ⚡ MUSICA ELECTRONICA 2024](https://open.spotify.com/playlist/3yGp845Tz2duWCORALQHFO)
+### [NEW EDM 2025 ⚡ EDM HITS 2025 ⚡ MUSICA ELECTRONICA 2025](https://open.spotify.com/playlist/3yGp845Tz2duWCORALQHFO)
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,440 songs - 3 day 6 hr 21 min
+1,441 songs - 3 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1298,6 +1298,7 @@
 | [Thinking About You](https://open.spotify.com/track/1UzByE5dIKKbiFmhQ71Qre) | [Damian Ray](https://open.spotify.com/artist/5liX0vRbvORENzGrNlmJ4J) | [Thinking About You](https://open.spotify.com/album/7paFKG0nvrLAEh4pCGz3zX) | 3:21 | 2024-06-21 | 2024-06-29 |
 | [Thinking of You](https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Thinking of You](https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW) | 3:22 | 2024-08-09 | 2024-08-16 |
 | [This Groove is Crazy](https://open.spotify.com/track/1h8ob2eHXpG911xD5XudtX) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [This Groove is Crazy](https://open.spotify.com/album/3hIngv3IPHV0eOvtO71HzE) | 3:05 | 2024-05-22 | 2024-05-25 |
+| [This Love](https://open.spotify.com/track/1oN0baex7YsYnLrv1WE2Pi) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [This Love](https://open.spotify.com/album/2ezHxmPObJK1ZJAf2yJ6zK) | 2:49 | 2024-11-21 |  |
 | [This Pain](https://open.spotify.com/track/22axRxZqMClirktRxYWLkf) | [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle) | [This Pain](https://open.spotify.com/album/6EWPKLQKPlUHLa0R3YvOqc) | 3:59 | 2024-07-12 | 2024-07-19 |
 | [This Time](https://open.spotify.com/track/6MTvO2JpANHrxwEQe8xnNW) | [Vito V](https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg) | [This Time](https://open.spotify.com/album/4o3r3qELq1RX5Tz3g1FFoy) | 2:53 | 2024-08-16 | 2024-08-24 |
 | [Thousand Sides](https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thousand Sides](https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8) | 3:11 | 2024-06-07 | 2024-06-17 |

@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Find The Way (Smokey Bubblin' B Remix)",
+        "url": "https://open.spotify.com/album/0VGwTefFVC2h5X9UBQ3qm8"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Find The Way - Smokey Bubblin' B Remix - Edit",
+      "url": "https://open.spotify.com/track/2ZPtUFGyi6SrPCSSnXwenD"
+    },
+    {
+      "album": {
         "name": "Seek For Maktoop",
         "url": "https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX"
       },

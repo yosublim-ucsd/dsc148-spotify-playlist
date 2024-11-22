@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 232603,
+  "num_followers": 232630,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAADzRI5+ByJIf5+JhWkoHXX4",
+  "snapshot_id": "Zz0mgAAAAAD107GvPiwUTwPRAHquzAnF",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 281253,
       "name": "Estrella Gemela - Remastered 2021",
       "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Casi Amor (Quasi amore) - Remastered 2021",
-      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dove c'\u00e8 musica",
         "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 335440,
       "name": "L'aurora",
       "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Casi Amor (Quasi amore) - Remastered 2021",
+      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 232613,
-      "name": "Perfetto",
-      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 228080,
-      "name": "Sei Un Pensiero Speciale",
-      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+      "duration_ms": 232613,
+      "name": "Perfetto",
+      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros (Spanish Version)",
-        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 584573,
-      "name": "Musica \u00e8",
-      "url": "https://open.spotify.com/track/0iBOLnepgpMhH4NinExjCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Certi Momenti",
         "url": "https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd"
       },
@@ -879,6 +859,22 @@
       "duration_ms": 249893,
       "name": "Ma che bello questo amore",
       "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 286746,
+      "name": "Huracan Meri - Remastered 2021",
+      "url": "https://open.spotify.com/track/16PPtSAznMYuqfeQ9vPYnM"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

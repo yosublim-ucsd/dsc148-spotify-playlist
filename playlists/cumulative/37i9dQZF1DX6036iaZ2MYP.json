@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Nana Fofie",
+  "description": "Tracks popping off in the Afro scene. Cover: Wizkid",
   "name": "Afro Station",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 189026,
       "name": "Amapiupiu",
       "url": "https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE"
@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153026,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
+    },
+    {
+      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -1611,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Ca Va Aller",
+        "url": "https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov"
+      },
+      "artists": [
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227020,
+      "name": "Ca Va Aller",
+      "url": "https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w"
+    },
+    {
+      "album": {
         "name": "Ca va pour nous (feat. MadeInParis)",
         "url": "https://open.spotify.com/album/25E4LriKEiGJQLwB7D2CbD"
       },
@@ -1843,6 +1883,28 @@
     },
     {
       "album": {
+        "name": "Emma'a Part.II",
+        "url": "https://open.spotify.com/album/6djrJmDDCtvnpIz5VxxKmb"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Changer les choses (feat. Jo\u00e9 Dw\u00e8t Fil\u00e9)",
+      "url": "https://open.spotify.com/track/73A1WdVIFE6Zk8EMEw0j9H"
+    },
+    {
+      "album": {
         "name": "Chanj\u00e9",
         "url": "https://open.spotify.com/album/3iIOfM4ooNNBxufKmAHoeV"
       },
@@ -1894,6 +1956,24 @@
       "duration_ms": 167756,
       "name": "Cheri Ya Motema",
       "url": "https://open.spotify.com/track/30To0a1sj1igWsyeZbLqBB"
+    },
+    {
+      "album": {
+        "name": "BOUNCE MUSIC : SAISON 2",
+        "url": "https://open.spotify.com/album/6zkrs0rjrDKIUbs05RrQoG"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/2fcti4G9MP1YWqbusdkode"
     },
     {
       "album": {
@@ -2150,6 +2230,32 @@
       "duration_ms": 164444,
       "name": "Confusion - Amapiano RMX",
       "url": "https://open.spotify.com/track/2j29cHzEJbUWuqN8YfeTYb"
+    },
+    {
+      "album": {
+        "name": "Constantly",
+        "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
+      },
+      "artists": [
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193567,
+      "name": "Constantly",
+      "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
     },
     {
       "album": {
@@ -3380,7 +3486,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 143934,
       "name": "Elles demandent",
       "url": "https://open.spotify.com/track/3V2IuZQ2ZVvsrsrUVjhHDb"
@@ -4668,7 +4774,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 127741,
       "name": "Hendek",
       "url": "https://open.spotify.com/track/55HAQNklLPxmHNFaaUu2f7"
@@ -4944,7 +5050,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 158048,
       "name": "I WISH",
       "url": "https://open.spotify.com/track/6bKaXEeXVuoR3anv7BKc7B"
@@ -6298,7 +6404,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164472,
       "name": "lon3ly",
       "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
@@ -6701,6 +6807,32 @@
     },
     {
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
+      },
+      "artists": [
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "whereislema",
+          "url": "https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV"
+        },
+        {
+          "name": "Kyara Shereen",
+          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235732,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
+    },
+    {
+      "album": {
         "name": "Maitama (Going)",
         "url": "https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5"
       },
@@ -7077,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/20fs75YoZE9lEwxNw4GzZu"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/5xrZngLg030qda7Qd7MvST"
+    },
+    {
+      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -7118,7 +7268,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 166374,
       "name": "MIMI",
       "url": "https://open.spotify.com/track/37nQnHxzCpr0i7emp25goc"
@@ -7276,6 +7426,24 @@
       "duration_ms": 159687,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/6hz2R7LudNTURnmv6xVyEl"
+    },
+    {
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs"
+      },
+      "artists": [
+        {
+          "name": "CJ Tell'm",
+          "url": "https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206273,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/6K8yvIAG0B4k1p02oCBa0r"
     },
     {
       "album": {
@@ -7450,6 +7618,24 @@
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/6PtyD7UKp1mummbMzNA7sf"
+      },
+      "artists": [
+        {
+          "name": "DJ Moh Green",
+          "url": "https://open.spotify.com/artist/6i4GzOgHcFD5XGbEUt0KhH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192110,
+      "name": "My Baby Oh",
+      "url": "https://open.spotify.com/track/3OIw6EMvFbZTEDqegbIU7f"
     },
     {
       "album": {
@@ -8238,7 +8424,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 317714,
       "name": "Ohnana (feat. Farruko & Nicky Jam) - Remix",
       "url": "https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l"
@@ -11596,7 +11782,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 259114,
       "name": "What A Loss",
       "url": "https://open.spotify.com/track/3UvqQpBrhM9GfgCDoTl28G"

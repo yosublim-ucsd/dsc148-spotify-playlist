@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> introducing sofie royer
+> sam austins its your time
 
-3,085 songs - 6 day 23 hr 15 min
+3,087 songs - 6 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Cherub](https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Cherub](https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg) | 1:50 | 2022-09-16 | 2022-12-08 |
 | [Chicken Tenders](https://open.spotify.com/track/3D8sT8D3f5egWSQnF0fbqu) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Chicken Tenders](https://open.spotify.com/album/6Hlyw2Jvzz7BnIQQYzSXVZ) | 2:50 | 2020-06-29 | 2021-01-23 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-17 | 2024-06-22 |
+| [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 | 2024-11-21 |  |
 | [chinatown](https://open.spotify.com/track/7y9McRKnL5wrKXwbsGrS4U) | [taia](https://open.spotify.com/artist/1t84tnhmmcxVfAkJCGloOp) | [chinatown](https://open.spotify.com/album/0eU10itRZokBvXLAT7zRNX) | 4:08 | 2020-12-18 | 2021-02-02 |
 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 | 2020-11-20 | 2021-01-12 |
 | [Chinatown Market](https://open.spotify.com/track/02iFWg8h0cc8tpL7OtlLaq) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Chinatown Market](https://open.spotify.com/album/2INb2zLlA5HVPsBFHvbITU) | 2:12 | 2019-12-12 | 2020-05-14 |
@@ -1648,7 +1649,7 @@
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-05-31 | 2024-06-20 |
 | [Love On Top](https://open.spotify.com/track/2aPsnczW0FbW24MXtlWrC4) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Love On Top](https://open.spotify.com/album/1IzSQzGqrHWaMe12OI5yH8) | 2:13 | 2020-05-15 | 2020-07-31 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-24 | 2024-04-19 |
-| [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-10 |  |
+| [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-10 | 2024-11-22 |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-02-10 | 2023-04-22 |
 | [love, or the lack thereof](https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [love, or the lack thereof](https://open.spotify.com/album/4TDZ6koiaFEdZhMvuWqyDk) | 3:07 | 2021-01-07 | 2021-05-19 |
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2024-10-25 |  |
@@ -1680,7 +1681,7 @@
 | [MadHappySad](https://open.spotify.com/track/6xy2hBEpnojRUBupAhde7T) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [MadHappySad](https://open.spotify.com/album/6F8vrmq85tq11d980P2YBr) | 2:48 | 2020-05-22 | 2020-08-20 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-03 | 2024-02-10 |
 | [magic](https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [magic](https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw) | 4:13 | 2024-04-19 | 2024-07-27 |
-| [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 | 2024-10-11 |  |
+| [magic 8 ball](https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [magic 8 ball](https://open.spotify.com/album/0kJMWGpVMMueV7IBAga0OK) | 2:57 | 2024-10-11 | 2024-11-22 |
 | [Magic I Want U](https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 4:58 | 2024-09-13 |  |
 | [Maine](https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine/The Sink](https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb) | 4:53 | 2024-04-26 | 2024-09-05 |
 | [make ur way \[Feat\. 80purppp\]](https://open.spotify.com/track/7hHG2sRkxVCul6bYULETL8) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [make ur way](https://open.spotify.com/album/5Nkw0bkUzHQOWC4qNG5ZW9) | 3:21 | 2022-07-15 | 2022-08-06 |
@@ -1980,6 +1981,7 @@
 | [Online](https://open.spotify.com/track/4kGayPS8mNhWPZn65K7mJH) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/6EyXcFKu0dmDeGqw1ABxOm) | 2:47 | 2019-10-25 | 2019-11-14 |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2022-05-31 | 2022-07-02 |
 | [Only One I Know](https://open.spotify.com/track/1gxAuze1sWPszKLIE4qm8T) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Only One I Know](https://open.spotify.com/album/6u15BIrKPn2VxNOAzdbyGX) | 2:50 | 2020-10-16 | 2020-12-18 |
+| [Ooh Yeah](https://open.spotify.com/track/3TwfAgMEfaerj8XmrMZZRb) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Last Night](https://open.spotify.com/album/5UUl2XKczVeGQE15nVPY3X) | 5:18 | 2024-11-21 |  |
 | [OOZ](https://open.spotify.com/track/02SS3PqtrKPZpWnTtyTFaN) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [OOZ](https://open.spotify.com/album/1NZjWMc4WucANW1OGEFUvo) | 4:29 | 2021-02-12 | 2021-05-19 |
 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 | 2019-07-30\* | 2019-10-10 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-09 | 2022-04-21 |

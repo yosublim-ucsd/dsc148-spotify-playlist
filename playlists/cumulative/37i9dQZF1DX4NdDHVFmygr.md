@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-417 songs - 22 hr 17 min
+419 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-05-25 | 2024-08-29 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
+| [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 | 2024-11-21 |  |
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-15 |  |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2022-12-20 | 2023-06-05 |
 | [Ghdaydi](https://open.spotify.com/track/1ltkoXySdo28bXpFfowp9F) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Ghdaydi](https://open.spotify.com/album/2D4R9VGzp7sbJKuyNo4n16) | 3:15 | 2024-11-11 |  |
@@ -146,7 +147,7 @@
 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-10 |  |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2022-09-26 | 2023-08-03 |
 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 | 2023-07-21 | 2023-12-07 |
-| [Hak Ela Babah](https://open.spotify.com/track/3yatozm6pb25lgFGXXOKh7) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Hak Ela Babah](https://open.spotify.com/album/1gGfWC7gnNrB2I70YbACZK) | 3:15 | 2024-08-28 |  |
+| [Hak Ela Babah](https://open.spotify.com/track/3yatozm6pb25lgFGXXOKh7) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Hak Ela Babah](https://open.spotify.com/album/1gGfWC7gnNrB2I70YbACZK) | 3:15 | 2024-08-28 | 2024-11-22 |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-13 | 2024-07-09 |
 | [Hali](https://open.spotify.com/track/5URAcSsDPT49IKdX4yYoi0) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Hali](https://open.spotify.com/album/2ZyqDb5y7rvIRHA8KYcMt4) | 3:27 | 2022-03-24 | 2022-07-20 |
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-03-10 | 2022-06-28 |
@@ -213,6 +214,7 @@
 | [La Tzöröni](https://open.spotify.com/track/32GxbI4EMezFdM9hROGw5u) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko) | [La Tzöröni](https://open.spotify.com/album/4GwUKOnGUSek37TvxSKZy4) | 2:50 | 2023-10-20 | 2023-11-10 |
 | [La vie](https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [La vie](https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE) | 3:18 | 2022-02-28 | 2022-06-17 |
 | [La Vie](https://open.spotify.com/track/13UrWaFgpqfFBSodEvWC0X) | [LIMIT\-LESS](https://open.spotify.com/artist/4luLWQQk00Om8mJUKGjISW), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [La Vie](https://open.spotify.com/album/4eDWdMdsRcu0p0L5wE8fld) | 2:39 | 2022-02-02 | 2023-01-06 |
+| [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 | 2024-11-21 |  |
 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 | 2022-01-27 | 2022-06-23 |
 | [Lahdat Wadaa](https://open.spotify.com/track/12WSYJ73sp5zghz5KkfEyn) | [Imad Benaomar](https://open.spotify.com/artist/4FQZuJsPXl0i8cc5S8MTpj) | [Lahdat Wadaa](https://open.spotify.com/album/14CTUjJ4BKavEEKW8myoi3) | 3:36 | 2021-12-25 | 2022-01-18 |
 | [Lala Mira](https://open.spotify.com/track/6kYAA6UTHlVyYLLtC9d2Rt) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Lala Mira](https://open.spotify.com/album/18pYd2oiF7VjM9cO4sgFQW) | 2:44 | 2022-02-14 | 2022-06-23 |
@@ -287,7 +289,7 @@
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-10-26 | 2023-10-17 |
 | [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 | 2022-08-09 | 2022-09-03 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-12 | 2024-08-29 |
-| [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-06-27 |  |
+| [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-06-27 | 2024-11-22 |
 | [Mrta7](https://open.spotify.com/track/0bxd1G6TBQaxnKptoRw4OX) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [ASL](https://open.spotify.com/album/5ssgImQoCEOMysDTkyAkxi) | 3:10 | 2023-05-08 | 2023-06-09 |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 | 2023-08-30 |
 | [Mujer Cobra](https://open.spotify.com/track/7ksDUL9YnwbZB1gEE5eEMO) | [Rita L'Oujdia](https://open.spotify.com/artist/0bSpJFvBMj4Qo5ziwNVs7w) | [Mujer Cobra](https://open.spotify.com/album/0EZKWJVmkVgp2xQgqBoaGg) | 3:06 | 2023-01-14 | 2023-01-20 |

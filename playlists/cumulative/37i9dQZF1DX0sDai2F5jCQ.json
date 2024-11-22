@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 190904,
       "name": "Allure (feat. Future & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 138866,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201290,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/1HaIquoEu5tA0oW7fpsT4k"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 115914,
       "name": "Cracc Era",
       "url": "https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/1uDYxzeUCAEPfZq6eV18cm"
@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "He Is There (feat. Faith Sosene)",
       "url": "https://open.spotify.com/track/49Tk7PtWbTfGaj1SuF0MKH"
@@ -3368,6 +3368,28 @@
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
+    {
+      "album": {
+        "name": "Heaterz",
+        "url": "https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Heaterz",
+      "url": "https://open.spotify.com/track/2xq0T6R1a1cFBYCn7HPKtt"
     },
     {
       "album": {
@@ -3438,6 +3460,24 @@
       "duration_ms": 165863,
       "name": "Hellcats SRTs 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+    },
+    {
+      "album": {
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
       "album": {
@@ -3742,7 +3782,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
@@ -3892,6 +3932,28 @@
       "duration_ms": 149500,
       "name": "I Will",
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
+    },
+    {
+      "album": {
+        "name": "I'm Him",
+        "url": "https://open.spotify.com/album/13VUiN7KfghO2d7YfhoDJY"
+      },
+      "artists": [
+        {
+          "name": "Pistol Pete & Enzo",
+          "url": "https://open.spotify.com/artist/2rii6NNe3ZNmGoLyq6yjUG"
+        },
+        {
+          "name": "PROPER",
+          "url": "https://open.spotify.com/artist/1keifiXI5BfdQjv8woANJH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "I'm Him",
+      "url": "https://open.spotify.com/track/2jm3OuDpOJyUPqZs1RYPH1"
     },
     {
       "album": {
@@ -4289,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "Keep it 600",
+        "url": "https://open.spotify.com/album/76nqxARYsepq6q0zWgyHmF"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99906,
+      "name": "Keep it 600",
+      "url": "https://open.spotify.com/track/3sDxvOsvgg4Y00t48YQQUs"
+    },
+    {
+      "album": {
         "name": "Back To Square One",
         "url": "https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI"
       },
@@ -4544,7 +4624,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 162757,
       "name": "LIKE A DAWG",
       "url": "https://open.spotify.com/track/3TLfrZEPkRaV42OMuysuiE"
@@ -4855,6 +4935,28 @@
     },
     {
       "album": {
+        "name": "A Gangster's Holiday",
+        "url": "https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133161,
+      "name": "MAP",
+      "url": "https://open.spotify.com/track/1CKkePrhEoioJX2FgzTFyf"
+    },
+    {
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -4982,7 +5084,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185142,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
@@ -5452,7 +5554,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
@@ -5750,6 +5852,32 @@
       "duration_ms": 234846,
       "name": "OUR PEOPLE (feat. The Presets)",
       "url": "https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG"
+    },
+    {
+      "album": {
+        "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+        "url": "https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Alus",
+          "url": "https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+      "url": "https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl"
     },
     {
       "album": {
@@ -6258,7 +6386,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 122984,
       "name": "Quincy Promes",
       "url": "https://open.spotify.com/track/63EsJUVOQFYkMogamKR7o2"
@@ -6465,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "album": {
         "name": "roll da dice",
         "url": "https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh"
       },
@@ -6480,7 +6626,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 190948,
       "name": "roll da dice",
       "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
@@ -6642,6 +6788,28 @@
       "duration_ms": 193426,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
+    },
+    {
+      "album": {
+        "name": "Gilberto's Son",
+        "url": "https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136847,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f"
     },
     {
       "album": {
@@ -7118,7 +7286,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 104751,
       "name": "STFU",
       "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
@@ -7557,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "The Clintons",
+        "url": "https://open.spotify.com/album/79vdiK8zMHspcYVKLfd7Z4"
+      },
+      "artists": [
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104574,
+      "name": "The Clintons",
+      "url": "https://open.spotify.com/track/3exsTgmtJkXmYdcdSXi1cQ"
+    },
+    {
+      "album": {
         "name": "The Largest",
         "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
       },
@@ -7678,7 +7864,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 130500,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
@@ -7959,6 +8145,24 @@
     },
     {
       "album": {
+        "name": "She.",
+        "url": "https://open.spotify.com/album/7fMcS6WbnDIIiuZiiUNUzF"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/1WDjFpLgiMgtcPk2ObFmQf"
+    },
+    {
+      "album": {
         "name": "MIXTAPE PLUTO",
         "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
       },
@@ -8201,6 +8405,24 @@
     },
     {
       "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/7l6jZUVZtc20SP07o56TUy"
+      },
+      "artists": [
+        {
+          "name": "SHARKY43",
+          "url": "https://open.spotify.com/artist/2hBDoKWNRWRW8Eq4vOi0do"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/6kFZ1RVm0rDLCmfRRlyfq3"
+    },
+    {
+      "album": {
         "name": "Us Against the World",
         "url": "https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556"
       },
@@ -8234,6 +8456,24 @@
       "duration_ms": 151141,
       "name": "Van Cleef Island",
       "url": "https://open.spotify.com/track/6XpOsw4d970xooR27nqHiJ"
+    },
+    {
+      "album": {
+        "name": "Vito",
+        "url": "https://open.spotify.com/album/4dcSiJ6QLFlScw5XqKvqY5"
+      },
+      "artists": [
+        {
+          "name": "JJ4K",
+          "url": "https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221531,
+      "name": "Vito",
+      "url": "https://open.spotify.com/track/5Ycyo6OuA5zHGQPymB4haG"
     },
     {
       "album": {
@@ -8672,6 +8912,28 @@
       "duration_ms": 124255,
       "name": "WHO'S BACK?",
       "url": "https://open.spotify.com/track/2MpOA7dCkVgMtAFmMkAdyi"
+    },
+    {
+      "album": {
+        "name": "Why Lie?",
+        "url": "https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Why Lie?",
+      "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
     },
     {
       "album": {

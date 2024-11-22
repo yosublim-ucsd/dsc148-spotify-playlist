@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: Yves Berendse & Emma Heesters",
+  "description": "De beste Nederlandse liedjes. Cover: FLEMMING",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 190702,
       "name": "Dansen Om Het Vuur",
       "url": "https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y"
@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Ik Zeg Niets",
+        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Ik Zeg Niets",
+      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
+    },
+    {
+      "album": {
         "name": "In M'n Bloed",
         "url": "https://open.spotify.com/album/4koKtBIFT0l7okXvUz5mB9"
       },
@@ -3235,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "Mijn Haren Ruiken Naar Vuur",
+        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162694,
+      "name": "Mijn Haren Ruiken Naar Vuur",
+      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
+    },
+    {
+      "album": {
         "name": "Mijn Kleine Presidentje",
         "url": "https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh"
       },
@@ -3326,7 +3362,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
@@ -4107,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Naar De Haaien & Weer Terug",
+        "url": "https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262554,
+      "name": "Salmari & Kreeft",
+      "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
+    },
+    {
+      "album": {
         "name": "Samen Niets Doen",
         "url": "https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27"
       },
@@ -4158,6 +4212,24 @@
       "duration_ms": 168181,
       "name": "Schat Ik Ben Ok",
       "url": "https://open.spotify.com/track/0SjRVIZcRHqIHuU540ZZN5"
+    },
+    {
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175381,
+      "name": "Schreeuwen",
+      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
     },
     {
       "album": {
@@ -5172,7 +5244,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 186671,
       "name": "Voor Wat Je Lief Is",
       "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
@@ -5546,7 +5618,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 203229,
       "name": "Zachte Landing",
       "url": "https://open.spotify.com/track/5J9BrWf45n2uTcGcrrwcQ3"

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Dedublüman x Aleyna Tilki
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Melike Şahin
 
 84 songs - 4 hr 12 min
 

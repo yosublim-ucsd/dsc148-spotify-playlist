@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,950 likes - 99 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,199 likes - 99 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 76 | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/track/2LuOb3ZBWt05ECgQgdfUOc) | [The Honest Guys](https://open.spotify.com/artist/6n47s4smWR5T6mZnvHWv7V) | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/album/3Dd4WuCF8HvasKUWfoOlkw) | 9:55 |
 | 77 | [Cultivating Self\-Compassion: Meditation for Self\-Love](https://open.spotify.com/track/5CpZkt4BWbYX4mncxYpeGL) | [The Quiet Mind](https://open.spotify.com/artist/0LEfne5xgVFpxqsugKkUE0) | [SOUL JOURNEY: Lessons For Enlightened Living](https://open.spotify.com/album/6M70oJQ3fPJOodD91yeuG9) | 4:37 |
 | 78 | [Guardian Angel](https://open.spotify.com/track/6dNNGJPjsgCAq6BaqlstGC) | [Manifesting for Change](https://open.spotify.com/artist/5PKoUXsVdla0JvF8uSBiYf), [LunaLight](https://open.spotify.com/artist/6FusMx9tVAbqvvSGXjOlnc) | [Abundance Affirmations](https://open.spotify.com/album/2yTAhUNxn22BUqnj2axSNn) | 4:15 |
-| 79 | [Body Scan I](https://open.spotify.com/track/4XCnG1OFusCUNn9YkngprA) | [Sah D’Simone](https://open.spotify.com/artist/22voaG7ISWLCo2nF7JT5jH) | [Guided Sleep Meditation](https://open.spotify.com/album/3KxmwidmnvhpP6ioEbfWAy) | 2:24 |
+| 79 | [Body Scan I](https://open.spotify.com/track/4XCnG1OFusCUNn9YkngprA) | [Sah D'Simone](https://open.spotify.com/artist/1DrzWBkqLPvrBTB47aELRw) | [Guided Sleep Meditation](https://open.spotify.com/album/3KxmwidmnvhpP6ioEbfWAy) | 2:24 |
 | 80 | [Guided Meditation II \- Relaxing Releasing Tension in Body & Mind](https://open.spotify.com/track/216LJHHrKJZNPZpPmMFifj) | [Erica Rayner\-Horn](https://open.spotify.com/artist/2S0OchnjJSc71aPbveHobS) | [Finding Tranqulity\-Guided Mindfulness Meditations for Stressful Times](https://open.spotify.com/album/6mdcFb6iCsRo1W7gnPfLZP) | 14:50 |
 | 81 | [Three Mindful Breaths](https://open.spotify.com/track/2HNo24J81o49hTO9PoL2Gr) | [Sean Fargo](https://open.spotify.com/artist/5xhkbIHbtfoiWahxugkJUn) | [Mindfulness for Beginners](https://open.spotify.com/album/3lAdrHUsuGm6RESDtA8LDC) | 7:04 |
 | 82 | [Relax at the Beach Meditation](https://open.spotify.com/track/2gUM3sjwqfIB0R5PE31oTr) | [Brad Austen](https://open.spotify.com/artist/4WuEtfn195RUB0RVhWaUmO) | [Guided Meditations](https://open.spotify.com/album/30UPjcn7tQ0HdNWwVoK8Ef) | 8:29 |

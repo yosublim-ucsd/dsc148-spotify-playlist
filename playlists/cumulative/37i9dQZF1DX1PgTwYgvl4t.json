@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "Before Your Throne (Live)",
+        "url": "https://open.spotify.com/album/4u2vnwlPnxYKdIpAn3b7wo"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 765957,
+      "name": "Before Your Throne - Live",
+      "url": "https://open.spotify.com/track/27LcHHruNMuHCN6Fc9L6U4"
+    },
+    {
+      "album": {
         "name": "The Love Story",
         "url": "https://open.spotify.com/album/55oOa9npkSisKLa3tvbibr"
       },
@@ -292,6 +314,28 @@
       "duration_ms": 431592,
       "name": "Beyond Me",
       "url": "https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT"
+    },
+    {
+      "album": {
+        "name": "Bless The Lord God",
+        "url": "https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA"
+      },
+      "artists": [
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        },
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245358,
+      "name": "Bless The Lord God",
+      "url": "https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed"
     },
     {
       "album": {
@@ -904,6 +948,24 @@
       "duration_ms": 289149,
       "name": "HEAVENS GATE",
       "url": "https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE"
+    },
+    {
+      "album": {
+        "name": "HOLY (Live)",
+        "url": "https://open.spotify.com/album/3n2PZk98qSBlgdzyrd87eN"
+      },
+      "artists": [
+        {
+          "name": "Patience Tumba",
+          "url": "https://open.spotify.com/artist/5rl5zLtbpyb9RQHAn2L31v"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570048,
+      "name": "HOLY - Live",
+      "url": "https://open.spotify.com/track/5LIokuDAPMtNTnDWDKbGgm"
     },
     {
       "album": {
@@ -1544,7 +1606,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 424315,
       "name": "None As Great (feat. IBKSings)",
       "url": "https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd"

@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Natasha Noorani
 
-106 songs - 5 hr 49 min
+107 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 | 2023-07-31 |  |
 | [Midnight](https://open.spotify.com/track/60zoHgHcJhStSg8qUbndjl) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Midnight](https://open.spotify.com/album/24wsaxD6FbhBqDGxQmptC5) | 3:07 | 2023-10-20 |  |
 | [Miracle feat\. Nimra Gilani](https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Nimra Gilani](https://open.spotify.com/artist/16YcBCxja71bOiP9BWktfD), [Rishabh Rajan](https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z) | [Ordinary Miracle \| ہیرے موتی](https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr) | 2:34 | 2023-09-03 | 2024-02-17 |
+| [Mithi Gal](https://open.spotify.com/track/6RYJ0YD97OExc24Lf4YcQw) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [CLUB SANDWICH](https://open.spotify.com/album/430Af0wtsNi3smXvzdvqgV) | 2:37 | 2024-11-21 |  |
 | [mouqa](https://open.spotify.com/track/5uy6jIeJcCAlkl4QwRFnGI) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [mouqa](https://open.spotify.com/album/744Dw76R031Qy100gOTnMe) | 4:08 | 2024-02-06 |  |
 | [Mukhtasir Baatein](https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Mukhtasir Baatein](https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo) | 2:42 | 2023-07-31 | 2024-01-06 |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-07-31 |  |

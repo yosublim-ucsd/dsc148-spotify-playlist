@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 200048,
+  "num_followers": 200092,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Big Shouty",
         "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Everything Dies",
-        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
       "artists": [
         {
-          "name": "Nervus",
-          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
         }
       ],
-      "duration_ms": 191009,
-      "name": "Sick Sad World",
-      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Everything Dies",
+        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+      },
+      "artists": [
+        {
+          "name": "Nervus",
+          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Sick Sad World",
+      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",

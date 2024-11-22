@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBHT4jrQJ7v.md) - [plain]
 
 > Classical music to help children and young minds focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,106 likes - 84 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,226 likes - 84 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBHT4jrQJ7v.md) - [plain]
 | 7 | [Peter and the Wolf, Op\. 67 \(Without Narration\): Peter in the meadow](https://open.spotify.com/track/6JNTtNIHK2ChxSYM6eDFWg) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Ondrej Lenard](https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs) | [Prokofiev: Peter and the Wolf, Op\. 67 \(Without Narration\)](https://open.spotify.com/album/3QtuozLIqApRQP6K2OeMLz) | 0:42 |
 | 8 | [Peter and the Wolf, Op\. 67 \(Without Narration\): The Bird](https://open.spotify.com/track/0rgq27oKFqGcUrlLn4TFpy) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Ondrej Lenard](https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs) | [Prokofiev: Peter and the Wolf, Op\. 67 \(Without Narration\)](https://open.spotify.com/album/3QtuozLIqApRQP6K2OeMLz) | 1:12 |
 | 9 | [Fauré: Pavane, Op\. 50](https://open.spotify.com/track/4CZq7M6hBTg77Qhp3TJHdN) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78) | [Masterpieces in Miniature](https://open.spotify.com/album/05Eck7k66jfjQEs0NGVPHj) | 6:25 |
-| 10 | [Primavera](https://open.spotify.com/track/1GstcZ4ooGDwEFlB9a66H6) | [Ludovico Einaudi](https://open.spotify.com/artist/4eE1pndp9eq1epaeDM9ICV) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 7:23 |
+| 10 | [Primavera](https://open.spotify.com/track/1GstcZ4ooGDwEFlB9a66H6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 7:23 |
 | 11 | [The Shire](https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \- the Complete Recordings](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) | 2:29 |
 | 12 | [The Well\-Tempered Clavier, Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 2:19 |
 | 13 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 5:21 |

@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8?si=TgeWgTQnQeGABCgE3L9RXg">TRON PYRE</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=11mOaw8DS3edYE3\-wyf\_lw">Tyla</a>
 
-405 songs - 21 hr 25 min
+408 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Attention](https://open.spotify.com/track/0N8c3AlYRcgJ0RcCmZjbCV) | [Shalate](https://open.spotify.com/artist/52XowYt0U9ZWvAbKVZ0HaK) | [Love Is...](https://open.spotify.com/album/40XbmQcytzVV35HGy7bonG) | 2:50 | 2023-10-12 | 2023-10-20 |
 | [Autumn](https://open.spotify.com/track/4rwdjhmikuhQ7APQMKrNoe) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Sarang / 사랑](https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy) | 3:23 | 2024-05-09 | 2024-09-03 |
 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 | 2023-10-20 | 2024-01-26 |
+| [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 | 2024-11-21 |  |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 |  |
 | [Baki Pekee Yako](https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baki Pekee Yako](https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr) | 3:58 | 2024-05-09 | 2024-09-03 |
 | [bebé](https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tron Pyre](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [bebé](https://open.spotify.com/album/7iIlZFq4OfdFkEJaPZjl4y) | 3:20 | 2023-10-26 | 2023-12-23 |
@@ -233,6 +234,7 @@
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-12 | 2024-01-26 |
 | [Mi Amor](https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Mi Amor](https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds) | 1:57 | 2024-10-03 |  |
 | [MICELLAR WATER](https://open.spotify.com/track/1bGO5aoFzejQLjjAs2A02D) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd), [Tyson Sybateli](https://open.spotify.com/artist/7Ea3plMenK7eJQjjTXTfDC) | [VESPER](https://open.spotify.com/album/2oxqAqodD8LNvRdowCYDLN) | 3:09 | 2023-10-12 | 2024-02-09 |
+| [Mirror Mirror](https://open.spotify.com/track/0xGeYAUMOeqPrOCK7RKrQH) | [YoursTruly](https://open.spotify.com/artist/3OpHB8JIbNLEXdVxAuluew), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [For My One](https://open.spotify.com/album/4qPSP697RfT3mL8K5fizfE) | 4:08 | 2024-11-21 |  |
 | [Misscomplicationship \- Yolophonik Remix](https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ) | [Retro Vibe](https://open.spotify.com/artist/6YwTq9An1a91MBtsBMVC4d), [Gemma Fassie](https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf) | [Misscomplicationship \(Yolophonik Remix\)](https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq) | 3:34 | 2024-08-30 | 2024-09-03 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2024-02-08 | 2024-04-26 |
 | [MORE](https://open.spotify.com/track/56Oe9EY7yofIzej5nin0qa) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [MORE](https://open.spotify.com/album/2OUisYCs0NRCPFbbPCI7qX) | 2:20 | 2024-02-22 | 2024-07-27 |
@@ -356,6 +358,7 @@
 | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 | 2024-09-26 |  |
 | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-10-12 | 2024-03-15 |
 | [Talk 2 Me \(feat\. Mike BGRZ\)](https://open.spotify.com/track/6EwnRdSwd6UTlQF4Ro9ebT) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mike BGRZ](https://open.spotify.com/artist/3RGHZwxg9IcltCx0RqSYhW) | [The Waiting Room](https://open.spotify.com/album/5dE0mvQOTu4FbHfZQs7zLj) | 2:53 | 2024-09-02 | 2024-09-12 |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2023-10-26 | 2024-03-15 |
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-23 | 2024-09-03 |
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-10-12 | 2024-01-26 |

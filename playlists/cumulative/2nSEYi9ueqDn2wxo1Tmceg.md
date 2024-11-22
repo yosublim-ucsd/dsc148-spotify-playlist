@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,150 songs - 3 day 6 hr 36 min
+1,151 songs - 3 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Parody](https://open.spotify.com/track/4oWHRC1mCSSJhNv3YoUlBc) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:06 | 2023-03-22 | 2023-05-04 |
 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 | 2022-08-31 | 2022-10-13 |
 | [Passed Tense \- DJ Shadow Future Passed Remix](https://open.spotify.com/track/4qvhaiO7G73mxH4YEjniE1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense \(DJ Shadow Future Passed Remix\)](https://open.spotify.com/album/5agwUqU194EtMa7KUVRbM3) | 4:09 | 2023-11-15 | 2024-01-18 |
+| [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 | 2024-11-21 |  |
 | [Peach Fuzz](https://open.spotify.com/track/3vwt67u7F205Ajl7kDdLJc) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [i've seen a way](https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB) | 4:44 | 2023-05-24 | 2023-07-06 |
 | [Pearl](https://open.spotify.com/track/79tNL18U9ZQ2dKk2BxfNp6) | [Empty Country](https://open.spotify.com/artist/6EaW3JpcbKgWbfGCAD16oK) | [Pearl](https://open.spotify.com/album/2tOV9qwquwwAVFsd7mdEMg) | 5:42 | 2023-07-05 | 2023-08-31 |
 | [Peligro \(Danger\)](https://open.spotify.com/track/5JD3aqW59iy4WR2qp7HhYF) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI), [Mariachi 2000 de Cutberto Pérez](https://open.spotify.com/artist/2zuzlDjpiL13KS95cZGGjI) | [Reset Mariachi EP](https://open.spotify.com/album/0NCCLK5RqnGNMvRON2hDjf) | 5:17 | 2024-08-14 | 2024-09-26 |

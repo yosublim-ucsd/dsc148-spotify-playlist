@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,987 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,997 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 90 | [Calle \(feat\. Capo Plaza\)](https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:50 |
 | 91 | [C'EST LA VIE](https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [C'EST LA VIE](https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb) | 3:08 |
 | 92 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
-| 93 | [Lento](https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Lento](https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P) | 2:42 |
+| 93 | [Nena \(feat\. Geolier & Andry The Hitmaker\)](https://open.spotify.com/track/6TEPwGCSq4XGWu3hnZkC5m) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Nena \(feat\. Geolier & Andry The Hitmaker\)](https://open.spotify.com/album/5CWg7WHLM21pfgYbkm4jEu) | 2:29 |
 | 94 | [25 ore RMX \(feat\. Ernia & Shablo\)](https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:03 |
 | 95 | [181](https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:20 |
 | 96 | [BlaBlaBla](https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [BlaBlaBla](https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7) | 1:53 |

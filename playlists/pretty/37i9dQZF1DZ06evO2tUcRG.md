@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,516 likes - 51 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,524 likes - 51 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 50 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
 | 51 | [A Bênção](https://open.spotify.com/track/1E4SbVflqQFJFRSOrLWU7J) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Bênção](https://open.spotify.com/album/60xlTAgIuBNdZxaCbPkjZt) | 4:15 |
 
-Snapshot ID: `ZzvVAAAAAAC4RhGWFxDaSxJJhc3R6d0t`
+Snapshot ID: `Zz0mgAAAAAAxv+4zstgOWCEZo4bSR0V3`

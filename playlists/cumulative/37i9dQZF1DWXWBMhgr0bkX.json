@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: Chloe Qisha",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: Leonie Biney",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 170400,
       "name": "August",
       "url": "https://open.spotify.com/track/0bMcyfjZK0Ohpshoy2QXp2"
+    },
+    {
+      "album": {
+        "name": "Back To Then",
+        "url": "https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169960,
+      "name": "Back To Then",
+      "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
     },
     {
       "album": {
@@ -725,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169934,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
+    },
+    {
+      "album": {
         "name": "end game",
         "url": "https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz"
       },
@@ -934,7 +970,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 149390,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR"
@@ -952,7 +988,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168889,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/4OgLQctGaqePQNdXJbBIoT"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 211000,
       "name": "I Cried, I Wept",
       "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
@@ -1312,10 +1348,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 173748,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/0mnq2lTY2XvbZB8ioo7kCS"
+    },
+    {
+      "album": {
+        "name": "If U Leave Me",
+        "url": "https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "If U Leave Me",
+      "url": "https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0"
     },
     {
       "album": {
@@ -1683,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "need dat boy",
+        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "need dat boy",
+      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
+    },
+    {
+      "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/1Kpa2QiC6MLVqE05XhfKYE"
       },
@@ -1712,7 +1784,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174403,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/5zs5O9cifU84KU5IBIpYZY"
@@ -1824,6 +1896,24 @@
       "duration_ms": 224132,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
+    },
+    {
+      "album": {
+        "name": "Polari",
+        "url": "https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87454,
+      "name": "Polari",
+      "url": "https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7"
     },
     {
       "album": {
@@ -2080,6 +2170,24 @@
       "duration_ms": 183420,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
+    },
+    {
+      "album": {
+        "name": "Poppy",
+        "url": "https://open.spotify.com/album/2TtI8fMyIhPwTtGc1xlLnv"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193489,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5jGUkT2SlERLGacoy85kU1"
     },
     {
       "album": {
@@ -2426,7 +2534,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"

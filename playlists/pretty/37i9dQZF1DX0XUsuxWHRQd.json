@@ -1,12 +1,12 @@
 {
   "description": "Music from Lil Baby, GloRilla and Young Nudy. ",
-  "num_followers": 16095786,
+  "num_followers": 16096323,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZztW0AAAAADds+tHFKBv84qF3hYCOWdt",
+  "snapshot_id": "Zz6+UAAAAACYnHb/KIQBRHfuTtswzB0A",
   "tracks": [
     {
       "added_at": "2024-11-18 15:01:36",
@@ -171,6 +171,26 @@
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2024-11-21 05:00:00",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2024-11-18 15:01:36",

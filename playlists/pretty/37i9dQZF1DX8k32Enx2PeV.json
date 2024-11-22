@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 11851,
+  "num_followers": 11859,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -249,7 +249,7 @@
         },
         {
           "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/6BHtDxFFPp7S1fjg5P1W3a"
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
       "duration_ms": 196271,
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 155613,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Calz\u00f3n",
         "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 231828,
       "name": "Calz\u00f3n",
       "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Tierra de Promesas (Sierra Nevada)",
+        "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 211891,
+      "name": "Tierra de Promesas (Sierra Nevada)",
+      "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Mudanza",
         "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
@@ -1075,38 +1095,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Tierra de Promesas (Sierra Nevada)",
-        "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
+        "name": "Ese Dinero",
+        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
       },
       "artists": [
         {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
         }
       ],
-      "duration_ms": 211891,
-      "name": "Tierra de Promesas (Sierra Nevada)",
-      "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+      "duration_ms": 238648,
+      "name": "Ese Dinero",
+      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1127,34 +1127,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Ese Dinero",
-        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
       },
       "artists": [
         {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
         }
       ],
-      "duration_ms": 238648,
-      "name": "Ese Dinero",
-      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1175,6 +1159,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Rumbo a Tierra",
+        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 212885,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Calavera",
         "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 171537,
       "name": "Un Trambo (feat. De La Ghetto)",
       "url": "https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Rumbo a Tierra",
-        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 212885,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
     },
     {
       "added_at": "2024-08-09 04:23:31",

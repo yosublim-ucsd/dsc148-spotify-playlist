@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SDM au top de la première playlist de rap français.
+> Gazo au top de la première playlist de rap français.
 
-290 songs - 14 hr 57 min
+291 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-11-30 | 2024-09-27 |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 | 2022-03-31 | 2023-01-20 |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2022-01-06 | 2022-03-18 |
-| [PANAMA](https://open.spotify.com/track/6czia5imsRfw18FRD8FJ5L) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SUR LE CHEMIN](https://open.spotify.com/album/0sLnQ2wypUWqf1Q15VXGSn) | 2:49 | 2024-02-22 |  |
+| [Only You](https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Only You](https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT) | 3:01 | 2024-11-21 |  |
+| [PANAMA](https://open.spotify.com/track/6czia5imsRfw18FRD8FJ5L) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SUR LE CHEMIN](https://open.spotify.com/album/0sLnQ2wypUWqf1Q15VXGSn) | 2:49 | 2024-02-22 | 2024-11-22 |
 | [PAPEL](https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [PAPEL](https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5) | 3:10 | 2022-07-14 | 2023-02-03 |
 | [Parapluie \(feat\. Maes\)](https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [A l'aube](https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z) | 3:14 | 2022-06-23 | 2022-10-14 |
 | [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-06-13 | 2024-08-22 |

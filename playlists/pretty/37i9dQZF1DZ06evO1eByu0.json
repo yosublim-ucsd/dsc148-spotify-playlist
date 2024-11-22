@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 160912,
+  "num_followers": 160919,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACNmXB4qKZZr4CfG47Zzm/R",
+  "snapshot_id": "Zz0mgAAAAAC38uq74uVsexpL3LXZLT+a",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo em F\u00e9",
-        "url": "https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Comunidade Evang\u00e9lica Internacional da Zona Sul",
-          "url": "https://open.spotify.com/artist/1NuQ2vlJpm8ZS9HfEOmB4j"
-        }
-      ],
-      "duration_ms": 289459,
-      "name": "Rompendo em F\u00e9",
-      "url": "https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompendo em F\u00e9",
+        "url": "https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Comunidade Evang\u00e9lica Internacional da Zona Sul",
+          "url": "https://open.spotify.com/artist/1NuQ2vlJpm8ZS9HfEOmB4j"
+        }
+      ],
+      "duration_ms": 289459,
+      "name": "Rompendo em F\u00e9",
+      "url": "https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU"
     },
     {
       "added_at": null,

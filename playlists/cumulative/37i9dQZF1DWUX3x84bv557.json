@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover:  Bankzitters",
+  "description": "De nieuwste Nederlandse pop! Cover:  Luna",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Altijd Anders",
+        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "Altijd Anders",
+      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
+    },
+    {
+      "album": {
         "name": "Altijd Klein",
         "url": "https://open.spotify.com/album/1scWwX3wH6Uvc4Cz7b5z3w"
       },
@@ -1419,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Alles Komt, Alles Gaat",
+        "url": "https://open.spotify.com/album/7hlpC2SJnuKtP1VgkHMx8r"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179375,
+      "name": "Antwoord",
+      "url": "https://open.spotify.com/track/0ssnNZsidlDT4QeXIjTmh5"
+    },
+    {
+      "album": {
         "name": "App me als je thuis bent",
         "url": "https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8"
       },
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 158709,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/0KEcM17Ln54bBRvYyStNNL"
@@ -1792,6 +1828,24 @@
       "duration_ms": 190117,
       "name": "Beter Met Z\u2019n Twee\u00ebn",
       "url": "https://open.spotify.com/track/2716GiYd36LugxNYZB047Y"
+    },
+    {
+      "album": {
+        "name": "Bij Deze",
+        "url": "https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "Bij Deze",
+      "url": "https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ"
     },
     {
       "album": {
@@ -2750,7 +2804,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 179100,
       "name": "Dat Is Het Leven",
       "url": "https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j"
@@ -4796,7 +4850,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134576,
       "name": "Had Zo Moeten Zijn",
       "url": "https://open.spotify.com/track/4RlFVnopFHn3ixsPo9TIqD"
@@ -5212,7 +5266,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 207182,
       "name": "Het Is Ok\u00e9 Zo",
       "url": "https://open.spotify.com/track/6rv1HIB3mhvH54z7x9pVWY"
@@ -6559,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Je Geeft Me Niets",
+        "url": "https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153831,
+      "name": "Je Geeft Me Niets",
+      "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
+    },
+    {
+      "album": {
         "name": "Je Hebt Me",
         "url": "https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG"
       },
@@ -6938,6 +7010,24 @@
       "duration_ms": 146353,
       "name": "Keuzestress",
       "url": "https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk"
+    },
+    {
+      "album": {
+        "name": "Klaar Voor Wat Er Komt",
+        "url": "https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206642,
+      "name": "Klaar Voor Wat Er Komt",
+      "url": "https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge"
     },
     {
       "album": {
@@ -8102,7 +8192,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 179093,
       "name": "Mag Ik Vrij Zijn?",
       "url": "https://open.spotify.com/track/3pWn13u4Tdb8Mgxfm2TrHM"
@@ -8516,7 +8606,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 132000,
       "name": "Mijn Amsterdam",
       "url": "https://open.spotify.com/track/0g1315hg3X5St8hBlydASA"
@@ -10545,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "ruimte voor mij",
+        "url": "https://open.spotify.com/album/2cX6KxowGgmoe3mOiRizlN"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "ruimte voor mij",
+      "url": "https://open.spotify.com/track/7Als8qnGuEMDJMxrXixIzo"
+    },
+    {
+      "album": {
         "name": "Achtbaan",
         "url": "https://open.spotify.com/album/4qhYNZ5tx0bXtk57J572mB"
       },
@@ -10592,7 +10700,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 262554,
       "name": "Salmari & Kreeft",
       "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
@@ -12658,7 +12766,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 165937,
       "name": "Verlaten Terrein",
       "url": "https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S"
@@ -13086,6 +13194,24 @@
       "duration_ms": 130285,
       "name": "Volle Maan",
       "url": "https://open.spotify.com/track/2ArCv6pgZP2c62gU6Bc4aa"
+    },
+    {
+      "album": {
+        "name": "Voor Altijd",
+        "url": "https://open.spotify.com/album/6FSu3XpDFgsWzbLWk4RZTq"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184375,
+      "name": "Voor Altijd",
+      "url": "https://open.spotify.com/track/6nBDeVN1bXBYxc8M0IQsoF"
     },
     {
       "album": {
@@ -14156,6 +14282,24 @@
       "duration_ms": 183598,
       "name": "Zij Heeft Alles",
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
+    },
+    {
+      "album": {
+        "name": "Zing & Pieker (Pam Pam Hey!)",
+        "url": "https://open.spotify.com/album/6AZQFJ1oMfPUQ7tMzq5963"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Zing & Pieker (Pam Pam Hey!)",
+      "url": "https://open.spotify.com/track/1lJAdNL3AZ2TK5rgDuAr2P"
     },
     {
       "album": {

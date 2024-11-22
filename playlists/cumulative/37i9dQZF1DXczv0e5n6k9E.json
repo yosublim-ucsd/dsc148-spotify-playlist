@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: LEX",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -45,6 +45,64 @@
     },
     {
       "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/7MwFZxNqCln91eO61O7eUt"
+      },
+      "artists": [
+        {
+          "name": "Corle",
+          "url": "https://open.spotify.com/artist/6z05xgIbD3oUDdSwE16YNo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "1111",
+      "url": "https://open.spotify.com/track/32IRJRxqNoIN7jN6jl7FgO"
+    },
+    {
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "24ora",
+      "url": "https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/2CAgmzbtvSYrx1wSGwW3O7"
+      },
+      "artists": [
+        {
+          "name": "epimtx",
+          "url": "https://open.spotify.com/artist/1ZPhnqvMdnyj44yhtLMXzR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "30",
+      "url": "https://open.spotify.com/track/50hYmMmVmVBwgRhjT5nh3c"
+    },
+    {
+      "album": {
         "name": "3:33",
         "url": "https://open.spotify.com/album/2OMJUNHAbqGUGIC4GO6zxC"
       },
@@ -60,6 +118,28 @@
       "duration_ms": 180743,
       "name": "3:33",
       "url": "https://open.spotify.com/track/6ZogZyvoQJDfrIa6Hzojyq"
+    },
+    {
+      "album": {
+        "name": "4th of July",
+        "url": "https://open.spotify.com/album/6GR55GxLutrhTAIBV1yYfC"
+      },
+      "artists": [
+        {
+          "name": "ATC Coco",
+          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+        },
+        {
+          "name": "Joey Evans",
+          "url": "https://open.spotify.com/artist/2KUhRrZ8gyki8zG4HJFDjN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "4th of July",
+      "url": "https://open.spotify.com/track/0aP9eI4nZBmLCgzEYfWTJ9"
     },
     {
       "album": {
@@ -156,7 +236,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 163252,
       "name": "Aggelos Sti Gi",
       "url": "https://open.spotify.com/track/1DCCtsrcogyKEW567delN1"
@@ -614,7 +694,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 152504,
       "name": "BLACK MAGIC",
       "url": "https://open.spotify.com/track/4zBOoOyPER0pGpfH6GwTzb"
@@ -871,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Extreme Sports",
+        "url": "https://open.spotify.com/album/2rxk9jGYM4D9IKM9sTVUE2"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104489,
+      "name": "City Hot",
+      "url": "https://open.spotify.com/track/0eDbMy8fsF1ceP2xGjbi1l"
+    },
+    {
+      "album": {
         "name": "COLOMBIA",
         "url": "https://open.spotify.com/album/3hrbYM55QkhBCIRLYR66Nl"
       },
@@ -890,7 +988,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 196269,
       "name": "COLOMBIA",
       "url": "https://open.spotify.com/track/3hJKLXQm0js0n0Iym1xbcf"
@@ -1258,7 +1356,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134959,
       "name": "Dromologia",
       "url": "https://open.spotify.com/track/4cVAtNCerpw4Q0sKR1AEtQ"
@@ -1878,7 +1976,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 211866,
       "name": "Gioconda",
       "url": "https://open.spotify.com/track/17M10WNrMkrxBzoW6jK2Dg"
@@ -2390,7 +2488,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164610,
       "name": "Kodikas",
       "url": "https://open.spotify.com/track/6jJ0iqIH1CBZgvGnzsFryX"
@@ -3302,7 +3400,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176709,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/6Y3vVTKOJFWCgBbzp9YPU2"
@@ -3376,6 +3474,24 @@
       "duration_ms": 169696,
       "name": "OMERTA",
       "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
+    },
+    {
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/0UawBFSivyDAeiaEW4DPLJ"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232900,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0"
     },
     {
       "album": {
@@ -3537,6 +3653,28 @@
     },
     {
       "album": {
+        "name": "PASARELA",
+        "url": "https://open.spotify.com/album/5uHQoNwkyfCqndwYuX37WB"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "PASARELA",
+      "url": "https://open.spotify.com/track/19zZ6CFn39KaEgwlnxEtEa"
+    },
+    {
+      "album": {
         "name": "Passion Haze",
         "url": "https://open.spotify.com/album/2V0SJWjhXpcxZXq7w4dEd5"
       },
@@ -3565,7 +3703,7 @@
       "artists": [
         {
           "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+          "url": "https://open.spotify.com/artist/1r9GJXN6FxIluigNRpnRII"
         }
       ],
       "date_added": "2024-11-14",
@@ -4714,7 +4852,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185934,
       "name": "VLEMMA",
       "url": "https://open.spotify.com/track/4s2AgjptNpVUl7xwj5yVKI"
@@ -4806,6 +4944,28 @@
       "duration_ms": 154545,
       "name": "WESH POTO",
       "url": "https://open.spotify.com/track/608Da9ZOerBhtedVOMCeAH"
+    },
+    {
+      "album": {
+        "name": "Wiz Khalifa",
+        "url": "https://open.spotify.com/album/45fR6g8RPxZA2KCO6TBP06"
+      },
+      "artists": [
+        {
+          "name": "Twelvee",
+          "url": "https://open.spotify.com/artist/0a2t4vDouXARHc6c39QBth"
+        },
+        {
+          "name": "Stolou",
+          "url": "https://open.spotify.com/artist/3dRTRPZYK8Wa3hQuyHMs0A"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171658,
+      "name": "Wiz Khalifa",
+      "url": "https://open.spotify.com/track/1YJ5ybDAyIQeytKBzeAuyT"
     },
     {
       "album": {

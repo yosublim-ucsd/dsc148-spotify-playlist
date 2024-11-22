@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>
 
-239 songs - 19 hr 24 min
+240 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,11 +33,12 @@
 | [Any More](https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More](https://open.spotify.com/album/5I8ZmHSWHadih90oz3B7Gp) | 3:08 | 2023-09-15 | 2023-11-07 |
 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 | 2023-11-24 | 2023-12-06 |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 | 2024-10-16 |
+| [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 | 2024-10-18 |  |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-09-15 | 2024-03-16 |
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-06-28 | 2024-08-13 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 | 2024-04-27 |
-| [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 |  |
+| [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2024-11-22 |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 | 2024-08-22 |
 | [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 | 2024-04-13 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-15 | 2024-03-16 |

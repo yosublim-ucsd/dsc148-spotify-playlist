@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22140,
+  "num_followers": 22150,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALZviEOnqMeyMMKN1eD7JtsxbPka92",
+  "snapshot_id": "AAALaA3d5yqOmVBcfd9XGoKFUQhYWvtA",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -371,6 +371,38 @@
       "duration_ms": 377533,
       "name": "Private Armies",
       "url": "https://open.spotify.com/track/1eBTlFwFojxaUjKSVysx2r"
+    },
+    {
+      "added_at": "2024-11-21 16:40:56",
+      "album": {
+        "name": "Lily of the Valley",
+        "url": "https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq"
+      },
+      "artists": [
+        {
+          "name": "22\u00ba Halo",
+          "url": "https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH"
+        }
+      ],
+      "duration_ms": 266021,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/0lZz50Je4AoRsUSy7BrzAh"
+    },
+    {
+      "added_at": "2024-11-21 18:19:37",
+      "album": {
+        "name": "Lily of the Valley",
+        "url": "https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq"
+      },
+      "artists": [
+        {
+          "name": "22\u00ba Halo",
+          "url": "https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH"
+        }
+      ],
+      "duration_ms": 190370,
+      "name": "Swallows Wings",
+      "url": "https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH"
     }
   ],
   "unique_name": "thoughts never said aloud",

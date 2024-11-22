@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
+  "description": "The best from Britain's vibrant scene. Cover: Yazmin Lacey",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 276625,
       "name": "Beautiful Sunday",
       "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
@@ -7892,7 +7892,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
@@ -11651,6 +11651,24 @@
     },
     {
       "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176715,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe"
+    },
+    {
+      "album": {
         "name": "The Good Mixer",
         "url": "https://open.spotify.com/album/0FvgTIVfAakUedNplzESrF"
       },
@@ -13310,7 +13328,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 187208,
       "name": "Why Are You?",
       "url": "https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8"

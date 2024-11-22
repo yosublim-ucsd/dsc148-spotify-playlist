@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 13956,
+  "num_followers": 13953,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABF0aNPXDwmncFNIpo4nOrS",
+  "snapshot_id": "Zz0mgAAAAAAXtO2cWogBuMRZgTSkVYjj",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "News Of The World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 126906,
-      "name": "Captain Jefferson",
-      "url": "https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batman Begins (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 260066,
       "name": "Eptesicus",
       "url": "https://open.spotify.com/track/6akwM3md7dzP2LkK8pKk6d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "News Of The World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 126906,
+      "name": "Captain Jefferson",
+      "url": "https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peter Pan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Fairy Dance",
-      "url": "https://open.spotify.com/track/3VODwXoY2gZKbgC098Hr77"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 141066,
       "name": "Mercy - from \"The Hunger Games: The Ballad of Songbirds and Snakes\" Score",
       "url": "https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peter Pan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Fairy Dance",
+      "url": "https://open.spotify.com/track/3VODwXoY2gZKbgC098Hr77"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "Fantastic Beasts Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/44qAUS0siEj2plisdS25xw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 159960,
       "name": "The Mockingjay",
       "url": "https://open.spotify.com/track/46EmDxrxAXfkplyXDQKTJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "Fantastic Beasts Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "Primrose - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 155613,
       "name": "I Know You Are There",
       "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "Primrose - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF"
     },
     {
       "added_at": null,

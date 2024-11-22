@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Mi buen fin sería que ya empiecen las pre\-posadas\. Plis no gastes tanto, ahorra, bebé\. Rolitas cool con Rauw Alejandro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,470 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,612 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 2 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 |
 | 3 | [MY LOVE](https://open.spotify.com/track/2ajOfRsIVgVO4pmjeCPIzp) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [MY LOVE](https://open.spotify.com/album/7ugkf8YbI3vpukv48xyoSK) | 2:52 |
 | 4 | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc) | 3:00 |
-| 5 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
+| 5 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
 | 6 | [Tu Reemplazo](https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Tu Reemplazo](https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE) | 2:23 |
 | 7 | [COQUETO TAZO DORADO](https://open.spotify.com/track/3em90DscDPoispuwsdd2aT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [COQUETO TAZO DORADO](https://open.spotify.com/album/0Tv8a7UNMKcvNXMCntg7fC) | 3:30 |
 | 8 | [TUPAC](https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [TUPAC](https://open.spotify.com/album/2xn0vF5pRFEa0ncq5rIqyz) | 1:54 |

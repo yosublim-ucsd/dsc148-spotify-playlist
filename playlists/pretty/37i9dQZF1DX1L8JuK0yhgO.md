@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,295 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,298 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 5 | [Mate \(feat\. Kouichi Arakawa & Calli Stephus\)](https://open.spotify.com/track/79pGgYJ7MxIQrQHJEZT3CS) | [CPO](https://open.spotify.com/artist/1rORyjQsdYcylFLoWheVAK), [Kouichi Arakawa](https://open.spotify.com/artist/0jjsQnz7M1lFD3vFEWlwSw), [Calli Stephus](https://open.spotify.com/artist/0wd74OAjVp5E6r5Cr2p54y) | [BEYOND](https://open.spotify.com/album/4PYzowVsR5PvgrfekSFg2j) | 3:00 |
 | 6 | [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 |
 | 7 | [Dehydration \(feat\. Joe Cupertino\)](https://open.spotify.com/track/2Su1a90UUrovJMMaQNLR0z) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF), [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [Dehydration \(feat\. Joe Cupertino\)](https://open.spotify.com/album/0TmaneGcQfMnjawO8YkvRb) | 3:09 |
-| 8 | [One Voice](https://open.spotify.com/track/5edJUrYBUDLUNVXrta9fnS) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH), [K\-Natural](https://open.spotify.com/artist/0EVzPAj4toto8VpCcXls76), [ビラル](https://open.spotify.com/artist/4YWGp2MeO7LQihs0cKDM0v) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 5:04 |
+| 8 | [One Voice](https://open.spotify.com/track/5edJUrYBUDLUNVXrta9fnS) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH), [K\-Natural](https://open.spotify.com/artist/0EVzPAj4toto8VpCcXls76), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 5:04 |
 | 9 | [For a long time](https://open.spotify.com/track/3gYBa8w5iUYWJBtuN1keYB) | [TRIPPYHOUSING](https://open.spotify.com/artist/4pdZ66BsPUNzMSqlC1r9YN) | [For a long time](https://open.spotify.com/album/1hADWIvMFHjFmV3AoM3VGV) | 3:42 |
 | 10 | [Ameagari no I Miss You Pt.2 （雨上がりの I Miss You Pt.2）](https://open.spotify.com/track/5KT9nCp2ANiDixp9DljHOV) | [Ai Kakihira](https://open.spotify.com/artist/4JclQRnUPxSgNnzin6Ec1O) | [MAKUNOUCHI](https://open.spotify.com/album/1oxtDBsEl08o6HsiesoBEx) | 4:09 |
 | 11 | [友達さ](https://open.spotify.com/track/31ePmprC32o7FqqMfbmf4c) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 2:30 |

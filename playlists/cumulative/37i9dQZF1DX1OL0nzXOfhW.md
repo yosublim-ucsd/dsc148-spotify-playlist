@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: CotaBoii
 
-215 songs - 12 hr 29 min
+216 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [憑實力單身](https://open.spotify.com/track/4vTrVuUu1WKna22qQaKgK4) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [憑實力單身](https://open.spotify.com/album/4bvYTZJ2yqZ53ZDFemidF7) | 3:17 | 2023-04-13 | 2024-03-29 |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-11 | 2024-03-29 |
 | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ) | 1:17 | 2023-04-13 | 2024-03-29 |
+| [我想 \(feat\. Cheeseekit\)](https://open.spotify.com/track/4GXIllyHaxbTF37wPtCu7a) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW), [Cheeseekit](https://open.spotify.com/artist/5fcgeZ3ESW3drdOj99i288) | [我想 \(feat\. Cheeseekit\)](https://open.spotify.com/album/0dKWKuY4BQm1qO4jn2BXNW) | 3:07 | 2024-11-21 |  |
 | [我想 I Want](https://open.spotify.com/track/1fuyf4kGxjdEF6ScAR5k0C) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想是南 Want Am Nam](https://open.spotify.com/album/1xoswUs26cYFezapHEqxDS) | 8:51 | 2024-09-12 |  |
 | [我的世界地圖](https://open.spotify.com/track/2n0jP1AyLtWiA4kTGf1uTn) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我的世界地圖](https://open.spotify.com/album/0Rlcptg7wuzXIb3roe0irv) | 3:32 | 2023-11-23 |  |
 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2024-03-28 |  |

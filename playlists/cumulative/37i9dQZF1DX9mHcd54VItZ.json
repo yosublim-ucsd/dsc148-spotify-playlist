@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k?si=zsG4AiBaTyWV4-BZYzNchg\">We Kill Cowboys</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=jt2QUqt7QZWvf4He_zjY1A\">Zaan Sonnekus</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 189973,
       "name": "Birthday Card",
       "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
@@ -1126,6 +1126,24 @@
       "duration_ms": 221818,
       "name": "Bones",
       "url": "https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o"
+    },
+    {
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142286,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q"
     },
     {
       "album": {
@@ -2465,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Geraamtes",
+        "url": "https://open.spotify.com/album/4bU4nJP63nj8Yesi7H2Qpl"
+      },
+      "artists": [
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/0spxw39MSHIABGaQmmWGnV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Dwelms en Gebed",
+      "url": "https://open.spotify.com/track/7ancL0tV6IqzOlCZg9S9Yy"
+    },
+    {
+      "album": {
         "name": "Earth Demon",
         "url": "https://open.spotify.com/album/5Pm64aOAGvY23k51TRB258"
       },
@@ -3040,6 +3076,24 @@
       "duration_ms": 203513,
       "name": "Flower (\uaf43)",
       "url": "https://open.spotify.com/track/5z4Etcsgyj0bXQBefoiC7w"
+    },
+    {
+      "album": {
+        "name": "Fok Jou",
+        "url": "https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Fok Jou",
+      "url": "https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN"
     },
     {
       "album": {
@@ -4129,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "I Won't Come to Your Opening",
+        "url": "https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "I Won't Come to Your Opening",
+      "url": "https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP"
+    },
+    {
+      "album": {
         "name": "I'm On My Way",
         "url": "https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A"
       },
@@ -4659,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "KOM JY SAAM?",
+        "url": "https://open.spotify.com/album/3lLMsTW6no3PrA1q5T4CG8"
+      },
+      "artists": [
+        {
+          "name": "Bloumoord",
+          "url": "https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230855,
+      "name": "KOM JY SAAM?",
+      "url": "https://open.spotify.com/track/59XxY47a6MENEj2HhMFLHX"
+    },
+    {
+      "album": {
         "name": "Kom Kry Van Myne",
         "url": "https://open.spotify.com/album/3m0if00d6lcjf4f9OrCtM0"
       },
@@ -5168,7 +5258,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184346,
       "name": "Los My",
       "url": "https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp"
@@ -5612,7 +5702,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 323357,
       "name": "Moth Eater",
       "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
@@ -5666,7 +5756,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 217200,
       "name": "My Ek(skuus)",
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
@@ -5886,7 +5976,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 228434,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U"
@@ -6124,7 +6214,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168352,
       "name": "Oliver Tambo",
       "url": "https://open.spotify.com/track/4c9ADuZ16t4rkPJCakRxLz"
@@ -6200,6 +6290,24 @@
       "duration_ms": 233500,
       "name": "Ongevalle",
       "url": "https://open.spotify.com/track/1shcVBVEDQ43bJOIThkiR2"
+    },
+    {
+      "album": {
+        "name": "Onlogika",
+        "url": "https://open.spotify.com/album/1qMzBOi38VpXaaoQrjuOcy"
+      },
+      "artists": [
+        {
+          "name": "Skelm",
+          "url": "https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Onlogika",
+      "url": "https://open.spotify.com/track/2pWaFCP35lfAtzOtophC9B"
     },
     {
       "album": {
@@ -6442,7 +6550,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185624,
       "name": "Paaie X",
       "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
@@ -7706,6 +7814,24 @@
       "duration_ms": 248684,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv"
+    },
+    {
+      "album": {
+        "name": "Soldier on - We Were Meant to Fly",
+        "url": "https://open.spotify.com/album/6N9SGfSB8N0EwMFAqatPAR"
+      },
+      "artists": [
+        {
+          "name": "Nathi Louw",
+          "url": "https://open.spotify.com/artist/1ufIRg0BOKzS3qBqoxfsVf"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Soldier On - We Were Meant to Fly",
+      "url": "https://open.spotify.com/track/4QzgN3hazSkfokzRdSfnkN"
     },
     {
       "album": {

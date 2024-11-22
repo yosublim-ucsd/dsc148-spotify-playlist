@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 9813,
+  "num_followers": 9832,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACb9NYsBwChGUrGWuTNcFq9",
+  "snapshot_id": "Zz0mgAAAAADZoD9uEWHLnUWMhiTKTOa2",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bratz",
+        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 168158,
+      "name": "Bratz",
+      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bratz",
-        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Bratz",
-      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
     },
     {
       "added_at": null,

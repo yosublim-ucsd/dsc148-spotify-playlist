@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Heart Don't Lie",
+        "url": "https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Heart Don't Lie",
+      "url": "https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },

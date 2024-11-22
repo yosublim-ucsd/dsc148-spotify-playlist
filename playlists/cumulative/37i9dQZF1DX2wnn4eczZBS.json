@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "alsof",
+        "url": "https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212091,
+      "name": "alsof",
+      "url": "https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe"
+    },
+    {
+      "album": {
         "name": "Roos Rebergen & SunSunSun Orchestra",
         "url": "https://open.spotify.com/album/2xSVjtVjhCrCuievPEMAsH"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 204221,
       "name": "liefde is lang",
       "url": "https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt"

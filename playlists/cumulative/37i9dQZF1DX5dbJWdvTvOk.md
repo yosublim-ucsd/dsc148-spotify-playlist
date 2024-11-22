@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-745 songs - 1 day 7 hr 45 min
+747 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2022-07-15 | 2024-04-06 |
 | [Calida Brisa](https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Calida Brisa](https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp) | 1:55 | 2023-06-02 | 2023-08-26 |
 | [Calisto](https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Calisto](https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI) | 2:26 | 2022-09-23 | 2023-04-22 |
+| [Calm River Drift](https://open.spotify.com/track/1J8WIFvjbCxmUWyeabvb74) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Calm River Drift](https://open.spotify.com/album/1NsuGUIXTwglEwFvWtNRjo) | 3:03 | 2024-11-20 |  |
 | [Calma](https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Calma](https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr) | 2:01 | 2024-03-29 |  |
 | [Calme et Paisible](https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Calme et Paisible](https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY) | 3:46 | 2022-07-15 | 2023-04-22 |
 | [Caminata Noctorna](https://open.spotify.com/track/7BrVO5fvmo0QC698cUj0fP) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Caminata Noctorna](https://open.spotify.com/album/4tv3b6MQn6EWVl1188BIaO) | 2:23 | 2024-02-02 |  |
@@ -169,7 +170,7 @@
 | [Dedicatoria](https://open.spotify.com/track/4kSgfg7Onjho66CRdBNIEV) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Laurine Phélut](https://open.spotify.com/artist/2oK2RQBv4xshG5I2K1YsXh) | [Dedicatoria](https://open.spotify.com/album/14UWqXiWi3thrZOh1oUEIO) | 2:03 | 2023-04-21 | 2023-05-13 |
 | [Deep End](https://open.spotify.com/track/3NHWhbuTDRO5y5lWjkZOLE) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 2:23 | 2023-04-21 | 2023-06-09 |
 | [Deep Rivers](https://open.spotify.com/track/68DrdlEmRZrV7XSrGxg4Fc) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Deep Rivers](https://open.spotify.com/album/7pEzbIpYdVpDxBUhDkcZQu) | 2:16 | 2023-04-21 | 2024-04-20 |
-| [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 |  |
+| [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 | 2024-11-22 |
 | [Demelza](https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Demelza](https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP) | 3:25 | 2023-03-10 | 2024-07-19 |
 | [Depois do adeus](https://open.spotify.com/track/3UW7pLXAXwvGc6cMnnYd0e) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [The Longest Night](https://open.spotify.com/album/4LiHFIquwspZcQoqIfrTgi) | 2:51 | 2022-07-15 | 2023-04-22 |
 | [der Elch](https://open.spotify.com/track/4O13E1iUnn7rHagANfr69q) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [colored ocean](https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX) | 3:25 | 2022-07-15 | 2023-02-25 |
@@ -271,6 +272,7 @@
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-07-15 | 2022-09-17 |
 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 | 2022-07-15 | 2024-04-06 |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2023-04-21 | 2023-08-26 |
+| [Gullunge](https://open.spotify.com/track/0IsOaDcVMdsL1EXsN3B1lt) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [Gullunge](https://open.spotify.com/album/2PIDYHxFHqUAteA9G78kdy) | 2:35 | 2024-11-20 |  |
 | [Harbor Light](https://open.spotify.com/track/4IsEpm8Krhp2eyyu7wsooI) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Harbor Light](https://open.spotify.com/album/3SuzrVzAA7XHa5oSFgMEoZ) | 2:52 | 2024-11-06 |  |
 | [Harvest](https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu) | [Esther Lopez](https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc) | [Harvest](https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc) | 2:19 | 2023-08-10 |  |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 | 2023-04-22 |
@@ -462,7 +464,7 @@
 | [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-23 |
-| [Nostalgic Memories](https://open.spotify.com/track/1NAZJrkYw51qkxkyyE9Olc) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Nostalgic Memories](https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71) | 3:23 | 2024-11-20 |  |
+| [Nostalgic Memories](https://open.spotify.com/track/1NAZJrkYw51qkxkyyE9Olc) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Nostalgic Memories](https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71) | 3:23 | 2024-11-20 | 2024-11-22 |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Nuovi inizi](https://open.spotify.com/track/0odeeMwtvPisk7GJdTrP8m) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Nuovi inizi](https://open.spotify.com/album/5bUd4Ea2GEcJudlDfMGE94) | 2:02 | 2023-04-21 | 2024-05-08 |
 | [Oak](https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nantucket](https://open.spotify.com/album/6nwzydXcRkEsvMIK2mGpfB) | 2:57 | 2023-04-21 | 2023-06-03 |

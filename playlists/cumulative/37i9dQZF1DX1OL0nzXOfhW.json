@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Joya",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: CotaBoii",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -3244,6 +3244,28 @@
       "duration_ms": 77418,
       "name": "\u6211\u554a!\u4e00\u53e5\u90fd\u807d\u5514\u660e\u767d!Freestyle",
       "url": "https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz"
+    },
+    {
+      "album": {
+        "name": "\u6211\u60f3 (feat. Cheeseekit)",
+        "url": "https://open.spotify.com/album/0dKWKuY4BQm1qO4jn2BXNW"
+      },
+      "artists": [
+        {
+          "name": "CotaBoii",
+          "url": "https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW"
+        },
+        {
+          "name": "Cheeseekit",
+          "url": "https://open.spotify.com/artist/5fcgeZ3ESW3drdOj99i288"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187682,
+      "name": "\u6211\u60f3 (feat. Cheeseekit)",
+      "url": "https://open.spotify.com/track/4GXIllyHaxbTF37wPtCu7a"
     },
     {
       "album": {

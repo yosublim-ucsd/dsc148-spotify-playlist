@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus, Katy B",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: venbee",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 233314,
       "name": "Behind The Mask",
       "url": "https://open.spotify.com/track/7t90goXJ1DMTC36oY8NyEz"
@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 211034,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/1QsYj5ILdwRstWgCP8LOH0"
@@ -3444,6 +3444,24 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
+    },
+    {
+      "album": {
+        "name": "dark place",
+        "url": "https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167347,
+      "name": "dark place",
+      "url": "https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql"
     },
     {
       "album": {
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184796,
       "name": "Energy In My Town",
       "url": "https://open.spotify.com/track/4VNOMgmLlpBEcRIJcI0bO5"
@@ -14273,6 +14291,24 @@
     },
     {
       "album": {
+        "name": "Still I Fall / Bozo Rockers",
+        "url": "https://open.spotify.com/album/4C12Aqr05fn6oikAE1Y6br"
+      },
+      "artists": [
+        {
+          "name": "The Upbeats",
+          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190628,
+      "name": "Still I Fall",
+      "url": "https://open.spotify.com/track/16UfANHXFUzjg6yJ8AmaM6"
+    },
+    {
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
       },
@@ -14592,7 +14628,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 189257,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/0LDcW1jwOpYCqdDZbS1J6Y"
@@ -14778,6 +14814,32 @@
       "duration_ms": 260000,
       "name": "Techy",
       "url": "https://open.spotify.com/track/5cli0Go9noylDpZ9laBuhK"
+    },
+    {
+      "album": {
+        "name": "Tell Dem",
+        "url": "https://open.spotify.com/album/7BS0igWc709cJbbdvF5EAW"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+        },
+        {
+          "name": "Specialist Moss",
+          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Tell Dem",
+      "url": "https://open.spotify.com/track/7i8gRw0ECr3tGZAu7kJPvF"
     },
     {
       "album": {
@@ -15224,7 +15286,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 264827,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/2DI5PnNnnscXVQSIeKR1gw"
@@ -15736,6 +15798,28 @@
       "duration_ms": 253793,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4hgX3PfsGkgYpn488zYncj"
+    },
+    {
+      "album": {
+        "name": "Underground Supply",
+        "url": "https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Molecular",
+          "url": "https://open.spotify.com/artist/69dILXHVwcYRPfoOhmd0uj"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252607,
+      "name": "Underground Supply",
+      "url": "https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM"
     },
     {
       "album": {
@@ -16928,6 +17012,32 @@
       "duration_ms": 158490,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78IA2OfQpKNHBqSfKy4kvf"
+    },
+    {
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/04CgfcGic7ucnsQ5tx2trQ"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        },
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "Shena",
+          "url": "https://open.spotify.com/artist/5FhRI8UpmCQzY1yJM4rWVL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/14ydzyswp520PKHJOWc2Ro"
     },
     {
       "album": {

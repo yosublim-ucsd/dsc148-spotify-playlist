@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 389030,
+  "num_followers": 389059,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-11-20 01:09:57",
       "album": {
+        "name": "GAME OVER",
+        "url": "https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "GAME OVER",
+      "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
+    },
+    {
+      "added_at": "2024-11-20 01:09:57",
+      "album": {
         "name": "\u66d6\u6627\u306aBEACH",
         "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
-      "added_at": "2024-11-20 01:09:57",
-      "album": {
-        "name": "GAME OVER",
-        "url": "https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "GAME OVER",
-      "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
     },
     {
       "added_at": "2024-11-20 01:09:57",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-11-20 01:09:57",
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
-    },
-    {
-      "added_at": "2024-11-20 01:09:57",
-      "album": {
         "name": "sad girl",
         "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2024-11-20 01:09:57",
       "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "added_at": "2024-11-20 01:09:57",
@@ -1635,6 +1619,38 @@
     {
       "added_at": "2024-11-20 01:09:57",
       "album": {
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2024-11-20 01:09:57",
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-11-20 01:09:57",
+      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
-    },
-    {
-      "added_at": "2024-11-20 01:09:57",
-      "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-11-20 01:09:57",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-11-20 01:09:57",
       "album": {
+        "name": "plum",
+        "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 200929,
+      "name": "plum",
+      "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
+    },
+    {
+      "added_at": "2024-11-20 01:09:57",
+      "album": {
         "name": "\u3044\u3044\u6e6f\u3060\u306a",
         "url": "https://open.spotify.com/album/51pzkf8OJNPjGHHN8uyqnW"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 131730,
       "name": "\u3044\u3044\u6e6f\u3060\u306a",
       "url": "https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG"
-    },
-    {
-      "added_at": "2024-11-20 01:09:57",
-      "album": {
-        "name": "plum",
-        "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "plum",
-      "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
     },
     {
       "added_at": "2024-11-20 01:09:57",

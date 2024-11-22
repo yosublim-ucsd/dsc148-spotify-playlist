@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 162745,
       "name": "Free For Another Day",
       "url": "https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe"
@@ -3748,6 +3748,24 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "album": {
@@ -7957,6 +7975,24 @@
     },
     {
       "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
+    },
+    {
+      "album": {
         "name": "Shatterproof",
         "url": "https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T"
       },
@@ -9242,6 +9278,28 @@
       "duration_ms": 141133,
       "name": "Taking My Love Back",
       "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
+    },
+    {
+      "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
       "album": {

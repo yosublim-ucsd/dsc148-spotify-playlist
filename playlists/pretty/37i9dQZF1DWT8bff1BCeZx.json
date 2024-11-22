@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18744,
+  "num_followers": 18757,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPPAAAAACx7G61rgVvJ+mdT4PoR/mV",
+  "snapshot_id": "Zz/JvAAAAADHo/c112RNZkdsqxfJyQzu",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -293,26 +293,6 @@
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
-      "added_at": "2024-08-23 00:01:00",
-      "album": {
-        "name": "Young & Chosen",
-        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 220545,
-      "name": "No Greater Love",
-      "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
-    },
-    {
       "added_at": "2024-01-19 00:01:00",
       "album": {
         "name": "New Generation",
@@ -331,6 +311,26 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2024-08-23 00:01:00",
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 220545,
+      "name": "No Greater Love",
+      "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
+      "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "God Is",
-        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
+        "name": "C'est DIEU qui donne",
+        "url": "https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3"
       },
       "artists": [
         {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
         }
       ],
-      "duration_ms": 185999,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
+      "duration_ms": 177000,
+      "name": "C'est DIEU qui donne",
+      "url": "https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -785,20 +785,20 @@
       "url": "https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
+      "added_at": "2024-10-25 00:01:00",
       "album": {
-        "name": "C'est DIEU qui donne",
-        "url": "https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3"
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
       },
       "artists": [
         {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 177000,
-      "name": "C'est DIEU qui donne",
-      "url": "https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW"
+      "duration_ms": 185999,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -853,6 +853,22 @@
       "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj"
+      },
+      "artists": [
+        {
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+        }
+      ],
+      "duration_ms": 378795,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
+    },
+    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "Involved",
@@ -871,22 +887,6 @@
       "duration_ms": 220714,
       "name": "Involved",
       "url": "https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj"
-      },
-      "artists": [
-        {
-          "name": "Kent Edunjobi",
-          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
-        }
-      ],
-      "duration_ms": 378795,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -961,6 +961,30 @@
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
       "added_at": "2024-10-04 00:01:00",
       "album": {
         "name": "God Ye Buddy",
@@ -999,30 +1023,6 @@
       "duration_ms": 263860,
       "name": "God Ye Buddy",
       "url": "https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     }
   ],
   "unique_name": "Higher",

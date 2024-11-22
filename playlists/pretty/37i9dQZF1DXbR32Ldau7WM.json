@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Yuma Abe",
-  "num_followers": 290179,
+  "num_followers": 290197,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-11-19 16:37:35",
       "album": {
+        "name": "\u5f3e\u304d\u3053\u3082\u308a",
+        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "\u5f3e\u304d\u3053\u3082\u308a",
+      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
+    },
+    {
+      "added_at": "2024-11-19 16:37:35",
+      "album": {
         "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
         "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 184909,
       "name": "Delusion:All",
       "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
-    },
-    {
-      "added_at": "2024-11-19 16:37:35",
-      "album": {
-        "name": "\u5f3e\u304d\u3053\u3082\u308a",
-        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "\u5f3e\u304d\u3053\u3082\u308a",
-      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
     },
     {
       "added_at": "2024-11-19 16:37:35",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-19 16:37:35",
       "album": {
-        "name": "\u521d\u590f",
-        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "\u521d\u590f",
-      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
-    },
-    {
-      "added_at": "2024-11-19 16:37:35",
-      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 250973,
       "name": "\u72c2\u4e71 Hey Kids!!",
       "url": "https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk"
+    },
+    {
+      "added_at": "2024-11-19 16:37:35",
+      "album": {
+        "name": "\u521d\u590f",
+        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "\u521d\u590f",
+      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
     },
     {
       "added_at": "2024-11-19 16:37:35",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-19 16:37:35",
       "album": {
-        "name": "\u30e9\u30e0\u30cd",
-        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 222713,
-      "name": "\u30e9\u30e0\u30cd",
-      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
-    },
-    {
-      "added_at": "2024-11-19 16:37:35",
-      "album": {
         "name": "DocumentaLy",
         "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 246759,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
+    },
+    {
+      "added_at": "2024-11-19 16:37:35",
+      "album": {
+        "name": "\u30e9\u30e0\u30cd",
+        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 222713,
+      "name": "\u30e9\u30e0\u30cd",
+      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
     },
     {
       "added_at": "2024-11-19 16:37:35",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-11-19 16:37:35",
       "album": {
-        "name": "SINGLE 2",
-        "url": "https://open.spotify.com/album/39Vo0c5IAQGV6FeM79yVPi"
-      },
-      "artists": [
-        {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/1BSPzJUlehqKGH7usVYCCE"
-    },
-    {
-      "added_at": "2024-11-19 16:37:35",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 201599,
       "name": "I",
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
+    },
+    {
+      "added_at": "2024-11-19 16:37:35",
+      "album": {
+        "name": "SINGLE 2",
+        "url": "https://open.spotify.com/album/39Vo0c5IAQGV6FeM79yVPi"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/1BSPzJUlehqKGH7usVYCCE"
     },
     {
       "added_at": "2024-11-19 16:37:35",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-11-19 16:37:35",
       "album": {
-        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
-          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
-        }
-      ],
-      "duration_ms": 89563,
-      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
-    },
-    {
-      "added_at": "2024-11-19 16:37:35",
-      "album": {
         "name": "ringo",
         "url": "https://open.spotify.com/album/5Faa5b7uTCsKjkIaOIkVv3"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 253126,
       "name": "ringo",
       "url": "https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG"
+    },
+    {
+      "added_at": "2024-11-19 16:37:35",
+      "album": {
+        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
+        }
+      ],
+      "duration_ms": 89563,
+      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
     },
     {
       "added_at": "2024-11-19 16:37:35",

@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 478957,
+  "num_followers": 479098,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 333772,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
+    },
+    {
+      "added_at": "2024-10-01 20:57:32",
+      "album": {
         "name": "RITUAL (palace)",
         "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 355488,
       "name": "RITUAL (palace)",
       "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
-    },
-    {
-      "added_at": "2024-10-01 20:57:32",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 333772,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -543,22 +543,18 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        },
-        {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+          "name": "Becky Ford",
+          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
         }
       ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+      "duration_ms": 138000,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -579,18 +575,22 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
+        "name": "Flutes of Gold",
+        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
       },
       "artists": [
         {
-          "name": "Becky Ford",
-          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Toro Moratto",
+          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
+      "duration_ms": 422278,
+      "name": "Flutes of Gold",
+      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -999,22 +999,18 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Freedom EP",
-        "url": "https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO"
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/0P6ikfieWhTpudpPjysrma"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        },
-        {
-          "name": "Bob The Egoist",
-          "url": "https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI"
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F"
         }
       ],
-      "duration_ms": 316836,
-      "name": "Expendable",
-      "url": "https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e"
+      "duration_ms": 155789,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/2o56rqsyPEuarXBSs3hHMl"
     }
   ],
   "unique_name": "Lo-Fi House",

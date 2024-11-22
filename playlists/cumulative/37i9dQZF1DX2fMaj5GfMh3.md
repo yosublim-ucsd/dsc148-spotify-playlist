@@ -2,9 +2,9 @@
 
 ### [Fresh Pop](https://open.spotify.com/playlist/37i9dQZF1DX2fMaj5GfMh3)
 
-> De nieuwste pop songs\. Cover: Wulf
+> De nieuwste pop songs\. Cover: Milow
 
-755 songs - 1 day 14 hr 19 min
+758 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Beautiful Ride](https://open.spotify.com/track/4en3INf63kkTfxu9OqusdO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:45 | 2023-04-06 | 2023-06-23 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-18 | 2024-05-03 |
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 2:59 | 2023-03-02 | 2023-06-23 |
-| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-19 |  |
+| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-19 | 2024-11-22 |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-03-20 | 2024-05-17 |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2023-02-24 | 2023-03-03 |
 | [Before You](https://open.spotify.com/track/5WqkT4vHzLRsVvKCKUd8Pv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:57 | 2023-06-22 | 2023-10-05 |
@@ -172,7 +172,7 @@
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-13 | 2023-09-30 |
 | [Do or Die](https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Do or Die](https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2) | 2:30 | 2023-08-25 | 2023-11-17 |
 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 | 2024-02-29 | 2024-03-22 |
-| [Dollar](https://open.spotify.com/track/1UkwHkHDCEoyoVLAxb6iWH) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 2:21 | 2024-09-12 |  |
+| [Dollar](https://open.spotify.com/track/1UkwHkHDCEoyoVLAxb6iWH) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 2:21 | 2024-09-12 | 2024-11-22 |
 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 | 2024-07-11 | 2024-09-20 |
 | [Don't Come Crying To Me Now](https://open.spotify.com/track/1IImRpPBhIauTOWtz5USiD) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Don't Come Crying To Me Now](https://open.spotify.com/album/3tXtFEeI2dR0HV3PmIV18v) | 3:14 | 2024-09-26 |  |
 | [don't forget about me](https://open.spotify.com/track/7zrGDodwUZ2yU0ZgzV78DF) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [don't forget about me](https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa) | 2:52 | 2024-06-06 | 2024-08-30 |
@@ -388,7 +388,7 @@
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-15 | 2024-03-09 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-11-02 | 2024-02-23 |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-08-03 | 2023-10-27 |
-| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-19 |  |
+| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-19 | 2024-11-22 |
 | [January Without You](https://open.spotify.com/track/2b0kNbiOF2GPV9xb1GJHrD) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [January Without You](https://open.spotify.com/album/37mdjd7vCu8pnBBB9lnMsQ) | 2:45 | 2023-02-24 | 2023-03-18 |
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-07-13 | 2023-09-17 |
 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-14 | 2023-10-13 |
@@ -450,6 +450,7 @@
 | [me and my big mouth](https://open.spotify.com/track/6bAMtverQa0Aryho6wGmkV) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [me and my big mouth](https://open.spotify.com/album/3GSXrqL19GsJQciZUcuy41) | 2:48 | 2023-02-24 | 2023-03-31 |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 | 2023-10-05 |
 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 | 2024-11-07 |  |
+| [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-21 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-15 | 2023-08-18 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-27 | 2023-06-18 |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-02-05 | 2024-05-03 |
@@ -505,6 +506,7 @@
 | [Oh Boy](https://open.spotify.com/track/0c40h1i6GGmEtOONFq9fKD) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Oh Boy](https://open.spotify.com/album/0ehWMob0Fa3jzbqknxBP8Z) | 4:38 | 2024-08-01 | 2024-10-25 |
 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-11-07 |  |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-09-20 | 2023-12-01 |
+| [One By One](https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [One By One](https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp) | 3:44 | 2024-11-21 |  |
 | [One Life](https://open.spotify.com/track/6bB4AiK5tH13695FcNGjDY) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:57 | 2023-02-24 | 2023-03-10 |
 | [One More Night](https://open.spotify.com/track/5EFs8BlwPJ6ceMqxYfcizM) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [One More Night](https://open.spotify.com/album/1x6c7A7bkrcHIeNyH2UPRa) | 2:47 | 2023-11-02 | 2024-02-06 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-12 | 2024-02-23 |
@@ -684,6 +686,7 @@
 | [Think Like a Man](https://open.spotify.com/track/2B8mUd56xLH7vGmKbiwnee) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Think Like a Man](https://open.spotify.com/album/4pNE931yJKwQvvJw0JJRzj) | 2:23 | 2023-02-24 | 2023-04-28 |
 | [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 | 2024-09-19 | 2024-11-05 |
 | [this is what losing someone feels like](https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what losing someone feels like](https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF) | 2:52 | 2023-03-16 | 2023-06-02 |
+| [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 | 2024-11-21 |  |
 | [Through the fire](https://open.spotify.com/track/7J7ulXojzQh43ts5D2xKhN) | [Jill Helena](https://open.spotify.com/artist/4hCMhrFWQfy1Lif1KFkm2S) | [Through the fire](https://open.spotify.com/album/0dQGqkwIfb3NZGwdw8BE9t) | 3:11 | 2024-09-24 | 2024-10-23 |
 | [Time Stops \(When You're With Me\)](https://open.spotify.com/track/1uYfpBUMhoNCcCCqCwrumX) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Time Stops \(When You're With Me\)](https://open.spotify.com/album/2Z5vf28jYpwyKpChBq1kkt) | 2:40 | 2024-09-12 | 2024-10-11 |
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2023-11-09 | 2024-03-21 |

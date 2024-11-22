@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-91 songs - 5 hr 25 min
+92 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Akidi](https://open.spotify.com/track/6O1MhxOyOStFEOeGfAKTm5) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akidi](https://open.spotify.com/album/2M7JFPjxUF8W2MmUwFZf7e) | 3:28 | 2023-03-13 | 2024-04-19 |
 | [Akrab Chakhes](https://open.spotify.com/track/6BNoktQeQbGasv1QdbLrH0) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Akrab Chakhes](https://open.spotify.com/album/3HrfuIuppioPOPh4NS9bED) | 3:29 | 2021-09-10 |  |
 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 | 2021-09-10 |  |
+| [Ana Lebnani](https://open.spotify.com/track/05yK0D4WzPDYffxjVf6FKU) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ana Lebnani](https://open.spotify.com/album/5kYUHXEtD6A1GimOcpsq9l) | 3:15 | 2024-11-21 |  |
 | [Ard El Ghajar \- Nomad's Land](https://open.spotify.com/track/7vP04ACGn0bKJ04oPmaxOj) | [Jahida Wehbé](https://open.spotify.com/artist/2U92f3cPxz8z2UCiJAipVf) | [Ard El Ghajar \(Nomad's Land\)](https://open.spotify.com/album/3f4BryZ3UKeFEPjH968Okg) | 4:49 | 2021-09-10 |  |
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2021-09-10 |  |
 | [Baddi Hada Hebbou](https://open.spotify.com/track/5x6ABIAk3xrwFSAkZeppTP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:14 | 2023-02-26 |  |
@@ -77,7 +78,7 @@
 | [Nehna Sawa](https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u) | [Adam](https://open.spotify.com/artist/4erzgk1ORABnHn0lhMf9Oo) | [Nehna Sawa](https://open.spotify.com/album/3toWTCcHZV03p4PG2aXzxr) | 3:35 | 2021-09-10 |  |
 | [Nehna Sawa](https://open.spotify.com/track/6xlLV6mQYoeTPQfJHrhLVm) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Nehna Sawa](https://open.spotify.com/album/41yq2j3UuFKSNdr9PAPQWn) | 3:35 | 2023-03-13 | 2024-04-19 |
 | [Sa Ahlomu](https://open.spotify.com/track/1HSnooSIVUi7P2x9qWIQm0) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Golden Album](https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D) | 3:16 | 2023-03-13 |  |
-| [Sabah El Kheer Ya Lebnan](https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/album/3C5WDsRahXqn1rCMj7Rm5e) | 1:31 | 2021-09-10 |  |
+| [Sabah El Kheer Ya Lebnan](https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/album/3C5WDsRahXqn1rCMj7Rm5e) | 1:31 | 2021-09-10 | 2024-11-22 |
 | [Sakat El Warak](https://open.spotify.com/track/6WVXAAOsu7Jg37jBTp1gJl) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Sakat El Warak](https://open.spotify.com/album/3pm7fVcs0XheAw7HqOik6O) | 3:59 | 2021-09-10 | 2024-10-16 |
 | [Shou Helou](https://open.spotify.com/track/0JzTRm2vmB8IawpzeKNbl2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Dance Arabia](https://open.spotify.com/album/2wjTBxg2bN0ZdVyYp1UozW) | 3:31 | 2022-08-26 | 2022-11-13 |
 | [Shou Helou](https://open.spotify.com/track/51hN3ScR3uO358mhvpYJ8F) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/20U2djwMNxfe8iQzHp2KdG) | 3:31 | 2021-09-10 |  |

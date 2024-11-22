@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Bad Dreams (Acoustic)",
+        "url": "https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176019,
+      "name": "Bad Dreams - Acoustic",
+      "url": "https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc"
+    },
+    {
+      "album": {
         "name": "Bad Habits (Acoustic Version)",
         "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 204742,
       "name": "Carry Me - Acoustic Version",
       "url": "https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic"
@@ -452,6 +470,28 @@
       "duration_ms": 185007,
       "name": "Desire (with Sam Smith) - Acoustic",
       "url": "https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile - Acoustic",
+      "url": "https://open.spotify.com/track/3sDIlJZzYNHtnSuuOxvTal"
     },
     {
       "album": {
@@ -810,6 +850,24 @@
       "duration_ms": 199384,
       "name": "Gold - Acoustic Version",
       "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
+    },
+    {
+      "album": {
+        "name": "Good To Be (Acoustic)",
+        "url": "https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "Good To Be (Acoustic)",
+      "url": "https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh"
     },
     {
       "album": {
@@ -1658,7 +1716,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 183673,
       "name": "Nothing Matters - Acoustic",
       "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
@@ -1792,7 +1850,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167520,
       "name": "Rome - Version acoustique",
       "url": "https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP"
@@ -2074,7 +2132,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184513,
       "name": "Strangers - sad acoustic version",
       "url": "https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt"
@@ -2356,7 +2414,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 162000,
       "name": "Where Are You Now - Acoustic",
       "url": "https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL"

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: egy5egy",
-  "num_followers": 13928,
+  "num_followers": 13929,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Only Mine",
-        "url": "https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        }
-      ],
-      "duration_ms": 282925,
-      "name": "Only Mine",
-      "url": "https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
         "name": "Szeptember V\u00e9g\u00e9n",
         "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 153882,
       "name": "Szeptember V\u00e9g\u00e9n",
       "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
+        "name": "Only Mine",
+        "url": "https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6rk",
+          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
+        }
+      ],
+      "duration_ms": 282925,
+      "name": "Only Mine",
+      "url": "https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -659,54 +659,6 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Orrv\u00e9rz\u00e9s",
-        "url": "https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 199305,
-      "name": "Orrv\u00e9rz\u00e9s",
-      "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
-      },
-      "artists": [
-        {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
         "name": "N\u00e1rcisz",
         "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
@@ -727,6 +679,54 @@
       "duration_ms": 179045,
       "name": "Groteszk",
       "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
+        "name": "Orrv\u00e9rz\u00e9s",
+        "url": "https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "Orrv\u00e9rz\u00e9s",
+      "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
+      },
+      "artists": [
+        {
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/71HEKq46kF8Vs99DKjw35Q"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/0Z6ebZcUPndOJcCPcvoMqE"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
-        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 127885,
-      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
-      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
         "name": "B\u00e1rcsak",
         "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "F\u00fcgg\u0151h\u00edd",
-        "url": "https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG"
+        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
       },
       "artists": [
         {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "Blaize",
-          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
         }
       ],
-      "duration_ms": 153005,
-      "name": "F\u00fcgg\u0151h\u00edd",
-      "url": "https://open.spotify.com/track/6zcsO14Ut0Dsmep5sev482"
+      "duration_ms": 127885,
+      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -887,6 +867,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
         "name": "Sehovaval\u00f3",
         "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
       },
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+        "name": "F\u00fcgg\u0151h\u00edd",
+        "url": "https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG"
       },
       "artists": [
         {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Blaize",
+          "url": "https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD"
         }
       ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+      "duration_ms": 153005,
+      "name": "F\u00fcgg\u0151h\u00edd",
+      "url": "https://open.spotify.com/track/6zcsO14Ut0Dsmep5sev482"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+      },
+      "artists": [
+        {
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+    },
+    {
+      "added_at": "2024-11-08 16:19:01",
+      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 176000,
       "name": "Napf\u00e9ny",
       "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
-    },
-    {
-      "added_at": "2024-11-08 16:19:01",
-      "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
-      },
-      "artists": [
-        {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "KEIKO",
-        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
+        "name": "Cloudy Skies",
+        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
       },
       "artists": [
         {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
         }
       ],
-      "duration_ms": 302538,
-      "name": "Bez\u00e1rul",
-      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+      "duration_ms": 253171,
+      "name": "Cloudy Skies",
+      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Cloudy Skies",
-        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+        "name": "KEIKO",
+        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
       "artists": [
         {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
-        },
-        {
-          "name": "Haquin",
-          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 253171,
-      "name": "Cloudy Skies",
-      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+      "duration_ms": 302538,
+      "name": "Bez\u00e1rul",
+      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Engem szeretni neh\u00e9z",
-        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
+        "name": "Megbolond\u00edtott\u00e1l",
+        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
       },
       "artists": [
         {
-          "name": "Wolf Kati",
-          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
-        },
-        {
-          "name": "Wolf Kati Band",
-          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 242803,
-      "name": "Engem szeretni neh\u00e9z",
-      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+      "duration_ms": 198665,
+      "name": "Megbolond\u00edtott\u00e1l",
+      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
     },
     {
       "added_at": "2024-11-08 16:19:01",
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2024-11-08 16:19:01",
       "album": {
-        "name": "Megbolond\u00edtott\u00e1l",
-        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
+        "name": "Engem szeretni neh\u00e9z",
+        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
       "artists": [
         {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+          "name": "Wolf Kati",
+          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
+        },
+        {
+          "name": "Wolf Kati Band",
+          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
         }
       ],
-      "duration_ms": 198665,
-      "name": "Megbolond\u00edtott\u00e1l",
-      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
+      "duration_ms": 242803,
+      "name": "Engem szeretni neh\u00e9z",
+      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
     }
   ],
   "unique_name": "Nemazapop",

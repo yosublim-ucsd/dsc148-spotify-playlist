@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 66620,
+  "num_followers": 66630,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABal1YAVIrwvm3nlSCTu5ed",
+  "snapshot_id": "Zz0mgAAAAAAF9v3AI2Cs742dQyGXboW3",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+        "name": "Casualidad",
+        "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 223192,
-      "name": "Nuevas Mentiras",
-      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
+      "duration_ms": 193112,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
     },
     {
       "added_at": null,
@@ -423,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casualidad",
-        "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 193112,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
+      "duration_ms": 223192,
+      "name": "Nuevas Mentiras",
+      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
+      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Alguien Me Ve",
         "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 176289,
       "name": "Si Alguien Me Ve",
       "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
-      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Tu Bien",
         "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 228280,
       "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 218665,
       "name": "Cae de Una",
       "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
     },
     {
       "added_at": null,

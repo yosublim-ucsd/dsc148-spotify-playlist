@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Abigail Chams",
+  "description": "What is your love language? Say it in Swahili.  Cover: Mbosso",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 220408,
       "name": "Away",
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
@@ -1318,6 +1318,28 @@
       "duration_ms": 199143,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6"
+      },
+      "artists": [
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190897,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs"
     },
     {
       "album": {
@@ -3398,7 +3420,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 227878,
       "name": "Number one",
       "url": "https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG"
@@ -4268,6 +4290,28 @@
       "duration_ms": 205374,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd"
+    },
+    {
+      "album": {
+        "name": "Tunapendana",
+        "url": "https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Tunapendana",
+      "url": "https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Country Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX2C6Zlz76Dq4)
 
-> Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
+> Country's legendary artists singing your favorite Christmas Classics\. Cover: Dolly Parton
 
 175 songs - 9 hr 8 min
 

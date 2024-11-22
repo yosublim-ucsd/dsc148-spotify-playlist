@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,599 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,607 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 7 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 |
 | 8 | [Ruja o Leão \- MËDNA \- Remix](https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD) | [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão \- MËDNA Remix](https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq) | 2:48 |
 | 9 | [Ninguém Explica Deus \(Preto no Branco\) \[Kennto Remix\]](https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3) | [Ninguém Explica Deus \(Preto no Branco\) \[Kennto Remix\]](https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW) | 2:53 |
-| 10 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
-| 11 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
+| 10 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
+| 11 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
 | 12 | [Você Me Mudou](https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl) | [DJ Matheus Lazaretti](https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Você Me Mudou](https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1) | 3:03 |
 | 13 | [Só o Começo \- Remix](https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN) | [Só o Começo \(Remix\)](https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt) | 4:03 |
 | 14 | [A Casa Sou Eu \- Remix](https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [A Casa Sou Eu](https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ) | 3:45 |

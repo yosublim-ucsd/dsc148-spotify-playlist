@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
-187 songs - 11 hr 30 min
+188 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-10 | 2024-04-19 |
 | [Dorp Van Hop En Van Mout](https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Dorp Van Hop En Van Mout](https://open.spotify.com/album/4ZlSQQ2ZKjcN5tQ3sU1pDm) | 4:52 | 2023-10-12 | 2023-12-14 |
 | [Eindstation](https://open.spotify.com/track/39WJTiCtjJDmKlOZZy4bYd) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV), [Kaspar](https://open.spotify.com/artist/0Fwk4xcdt4FqaYhJ7uwi5z) | [Eindstation](https://open.spotify.com/album/3KxFm1DB1FD8JRhpZia4E5) | 3:44 | 2024-05-09 |  |
-| [Elke Dag](https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [Elke Dag](https://open.spotify.com/album/4HdHIIuRPiIvRKCKtfAty5) | 2:59 | 2023-11-16 |  |
+| [Elke Dag](https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [Elke Dag](https://open.spotify.com/album/4HdHIIuRPiIvRKCKtfAty5) | 2:59 | 2023-11-16 | 2024-11-22 |
 | [Elke Seconde](https://open.spotify.com/track/41Y8FqhbSRNEqsK47Ks7xW) | [Belinda Kinnaer](https://open.spotify.com/artist/3MHjbcGUxFSEHexlD4csSF) | [Elke Seconde](https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c) | 3:43 | 2023-02-10 | 2023-03-18 |
 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 | 2024-09-26 |  |
 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 | 2023-02-10 |  |
@@ -118,6 +118,7 @@
 | [Mee](https://open.spotify.com/track/3DFmhtFDIbZLLwepdg6aC4) | [HELEEN](https://open.spotify.com/artist/2JGuxN1UnFTeBxEzu0uXMF) | [Tollen en Turen](https://open.spotify.com/album/4sJHZP585SYperxQ6ml7DJ) | 2:06 | 2023-11-09 | 2024-10-25 |
 | [Merk Je Het Niet](https://open.spotify.com/track/03ESD7EEMVNXLECAKr0wdE) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Merk Je Het Niet](https://open.spotify.com/album/5UReFwidgQkuPIsHnHRLh0) | 3:22 | 2023-02-10 | 2023-04-26 |
 | [Mientje van den Boogaard](https://open.spotify.com/track/4uPmfhVZFl4Ak4ub3dvgGj) | [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Kouwe Kermis](https://open.spotify.com/album/3GCnLU9lPyuroCE0EZzj77) | 4:22 | 2023-02-10 | 2023-04-21 |
+| [Mijn Amsterdam](https://open.spotify.com/track/0g1315hg3X5St8hBlydASA) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Mijn Amsterdam](https://open.spotify.com/album/31ky7zsR9bDcsRwqVfoIJE) | 2:12 | 2024-11-21 |  |
 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 | 2023-02-10 | 2023-09-15 |
 | [Mijn Moeder 3](https://open.spotify.com/track/7FG3v8BrTrce8u2IT2BVux) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Zonsondergangen Boven Zee](https://open.spotify.com/album/1r2AwaPM47JQeVRCTPLuq7) | 2:06 | 2023-02-10 | 2023-11-11 |
 | [Mijn moeder het water](https://open.spotify.com/track/1vH0TQxVFEG7PasQSarzSW) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Mijn moeder het water](https://open.spotify.com/album/5SwUqpxiC5u7AfzgP8pG8e) | 4:07 | 2023-02-10 | 2023-09-15 |

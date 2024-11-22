@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-955 songs - 2 day 3 hr 34 min
+956 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bhang](https://open.spotify.com/track/7indSZ78PnXjgTrdunQg4c) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Bhang](https://open.spotify.com/album/1tVG94zbcVmDDdT0QMVX55) | 2:40 | 2022-11-07 | 2022-12-16 |
 | [Bhull Gye](https://open.spotify.com/track/05qlEalMnO5RUYcoXRBWwK) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 2:37 | 2022-11-24 | 2022-11-26 |
 | [Bhull Gye](https://open.spotify.com/track/2xU9REQr8h66TAvxak5hVj) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 2:37 | 2022-11-25 | 2022-12-16 |
-| [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patander](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 | 2024-11-11 |  |
+| [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 | 2024-11-11 |  |
 | [Big Men \(Chapter 2\)](https://open.spotify.com/track/3i0uUsZFO2eJfc4uULSWLy) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Big Men \(Chapter 2\)](https://open.spotify.com/album/3KTSaC0CHlDgub38pTOuhg) | 3:44 | 2022-05-13 | 2023-02-04 |
 | [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2022-07-25 | 2023-02-02 |
 | [Billboard](https://open.spotify.com/track/0otKvucrit5zbMjN2fjU4k) | [A.Shawn](https://open.spotify.com/artist/6n79gZsJ80nwh33qIrRqbY), [Dhruv G](https://open.spotify.com/artist/0ZsEm750sSwnqKe7LDE67k) | [Billboard](https://open.spotify.com/album/1wymoXJV1i5cIRHyUxOkpz) | 2:32 | 2022-08-16 | 2022-08-18 |
@@ -274,6 +274,7 @@
 | [Gallan Ni Hundia](https://open.spotify.com/track/1BAp3kOCQ3MrgK02X6xH4J) | [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5), [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Gallan Ni Hundia](https://open.spotify.com/album/4GnGg7884OxdoyAxQRNCFW) | 3:55 | 2022-05-20 | 2022-07-06 |
 | [Gallan Pyar Di \("Ishq Haazir Hai"\)](https://open.spotify.com/track/5zWAzazKKQzfnEWNUisOag) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Gallan Pyar Di \("Ishq Haazir Hai"\)](https://open.spotify.com/album/6P1pFnyl5VBCBjWc0mzfHi) | 3:00 | 2022-08-31 | 2023-02-02 |
 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 | 2022-03-29 | 2023-08-22 |
+| [Garam Taseer](https://open.spotify.com/track/4yVKgKagOZiLmOcyk16O1b) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Garam Taseer](https://open.spotify.com/album/0kOeacJvdJGV1yFxLQo28E) | 3:04 | 2024-11-21 |  |
 | [Geet Lagdai](https://open.spotify.com/track/4iQOHCJsh7uYgq52NCpO3T) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:59 | 2023-01-16 | 2023-02-04 |
 | [Gehri Akh](https://open.spotify.com/track/0pqTSGAe2FtV7mMAg3zVFX) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 3:39 | 2022-07-18 | 2022-08-18 |
 | [God's Art](https://open.spotify.com/track/1plZ5d6vaJZJKgX1ynCAJk) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [God's Art](https://open.spotify.com/album/7CylNHjNTHdcBcOzZu8dpT) | 3:45 | 2023-04-13 | 2023-05-06 |
@@ -466,7 +467,7 @@
 | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 | 2022-08-12 | 2023-08-01 |
 | [Lemme See](https://open.spotify.com/track/1HuS5LXJT6IitmeQrNPXlc) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 3:20 | 2022-11-24 | 2022-11-26 |
 | [Lemme See](https://open.spotify.com/track/4dOUwxwiA3Bp2SQTjBPV1K) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 3:20 | 2022-11-25 | 2022-12-16 |
-| [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2023-05-05 |  |
+| [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2023-05-05 | 2024-11-22 |
 | [Let Me Be](https://open.spotify.com/track/7fKwQZvc7xCv5TmqaKp1pF) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Let Me Be](https://open.spotify.com/album/2kvP8qyJe9nzkDIVmCa0zD) | 3:17 | 2022-02-07 | 2022-02-12 |
 | [Libaas](https://open.spotify.com/track/0vqw3BCyNr3DDVBmjD21H8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Libaas](https://open.spotify.com/album/1zCJSedSGgctXkJ3HnQCfC) | 4:27 | 2021-12-02 | 2022-04-06 |
 | [Lifeline](https://open.spotify.com/track/0oKRRJUcHFBHay9B8851FB) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Lifeline](https://open.spotify.com/album/46QP5a4l9n4LREswMLJN9a) | 3:29 | 2022-05-20 | 2022-07-06 |

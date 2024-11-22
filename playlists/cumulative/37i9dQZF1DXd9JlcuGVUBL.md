@@ -4,7 +4,7 @@
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH?si=ylpuYgswRCS3ZqLcYdWSsw">Shaboozey</a>
 
-98 songs - 5 hr 33 min
+99 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Don't Cry](https://open.spotify.com/track/1YAnjTIRzOJtvduBcNUe8r) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Don't Cry](https://open.spotify.com/album/2E8IL9o71dUdFJqoZH7jfb) | 2:44 | 2024-11-16 |  |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2024-02-09 |  |
 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 | 2024-07-04 |  |
-| [First](https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [First](https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n) | 2:54 | 2024-05-02 |  |
+| [First](https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [First](https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n) | 2:54 | 2024-05-02 | 2024-11-22 |
 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 | 2024-05-02 | 2024-11-17 |
 | [Gonna Be You \(feat\. Callie Twisselman\)](https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R) | [Gonna Be You \(feat\. Callie Twisselman\)](https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj) | 3:04 | 2024-10-10 | 2024-11-11 |
 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 | 2024-08-01 | 2024-11-18 |
@@ -89,6 +89,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-05-16 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-07 | 2024-09-24 |
 | [Texas Hold 'Em](https://open.spotify.com/track/7MHaEHj7udLdE7JoEGkdWn) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Texas Hold 'Em](https://open.spotify.com/album/6zcu1kS7T5DGxKqHGiOmqD) | 3:31 | 2024-08-15 | 2024-09-13 |
+| [The Dust Will Settle](https://open.spotify.com/track/1ELHxieu0zDWQd2LY4JwVu) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [The Dust Will Settle](https://open.spotify.com/album/5Ki22ghAi2JcrYd9HzxHZB) | 3:48 | 2024-11-21 |  |
 | [This World's A Giant](https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [This World's A Giant](https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D) | 3:36 | 2024-11-08 |  |
 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 | 2024-02-15 |  |
 | [Two Blue Eyes](https://open.spotify.com/track/3c51VLAPb5blL4BjI7UoH3) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Two Blue Eyes](https://open.spotify.com/album/6VK2AbMoHYzqvsP7R6K2Ik) | 3:31 | 2024-02-09 | 2024-09-13 |

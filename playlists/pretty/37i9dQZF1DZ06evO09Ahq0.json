@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 492690,
+  "num_followers": 492796,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABDHaMy+SCmyP6ryL90EJQ5",
+  "snapshot_id": "Zz0mgAAAAABuY4oNrIkR+9ns1K+NeEz5",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 385400,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
+      "duration_ms": 295213,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 295213,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
+      "duration_ms": 385400,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
     },
     {
       "added_at": null,

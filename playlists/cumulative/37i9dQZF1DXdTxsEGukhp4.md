@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: こっちのけんと
 
-459 songs - 1 day 2 hr 21 min
+461 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-09-21 | 2023-11-11 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-22 | 2023-06-30 |
 | [Malatanghulu](https://open.spotify.com/track/7wAEsALVvqyTNZAoTuChV1) | [서이브](https://open.spotify.com/artist/3Sl8JLbi0kVTxW9Yh6AusV) | [Malatanghulu](https://open.spotify.com/album/4P75bhbZJEMUVlRW70USlf) | 2:35 | 2024-06-03 | 2024-10-04 |
-| [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-11 |  |
+| [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-11 | 2024-11-22 |
 | [Margarita](https://open.spotify.com/track/49Ea2kgsKwfTPlr1QNXflY) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [P\-Hot](https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G), [Dreamhigh](https://open.spotify.com/artist/47KvsGdH37n9amrSJHPvLe) | [Margarita](https://open.spotify.com/album/6430Ft5sjjAVr7sZqYI3iY) | 2:43 | 2023-09-01 | 2023-10-06 |
 | [Medicine](https://open.spotify.com/track/6oQd9KEbRMERESY1pftFyn) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [Medicine](https://open.spotify.com/album/3drg6tbDTAYqmpjejScu3f) | 2:00 | 2024-03-21 | 2024-04-19 |
 | [Meiteika](https://open.spotify.com/track/4Jfy4KEi4H0YX0dyvaQDk5) | [あすくーる](https://open.spotify.com/artist/4mtzJEsnw8kOF6zmxYatok), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [あらの](https://open.spotify.com/artist/1lbHbxaaPWLNcAfYaxyVZy) | [Meiteika](https://open.spotify.com/album/1Bg08HJ6DV7pyJPRk9OWXS) | 3:07 | 2023-09-07 | 2023-12-14 |
@@ -287,7 +287,7 @@
 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 | 2023-12-07 | 2024-01-05 |
 | [Yap Yap](https://open.spotify.com/track/7usqIQpFAuz2KFqI3x4CRl) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Deech Got Yukichi 2](https://open.spotify.com/album/2jZvGY1awUIDjyfv7ByDiQ) | 2:27 | 2024-05-23 | 2024-06-21 |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2023-01-26 | 2023-09-09 |
-| [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 | 2024-04-18 |  |
+| [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 | 2024-04-18 | 2024-11-22 |
 | [You](https://open.spotify.com/track/6Z0qVrfmIMId2WsJ1EIDn9) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/08cvsB41GIdh3AszsM6aPk) | 3:42 | 2024-04-11 | 2024-04-19 |
 | [you are my curse](https://open.spotify.com/track/7qALdDJNziRn0URhWKRh6P) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [you are my curse](https://open.spotify.com/album/0sXGHTRKpnvRcmnqYVsDa3) | 2:20 | 2023-07-27 | 2023-12-14 |
 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-12-07 | 2024-05-15 |
@@ -403,6 +403,7 @@
 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-06-08 | 2023-07-21 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-09 |  |
 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 | 2023-09-28 | 2024-02-09 |
+| [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 | 2024-11-21 |  |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-02-16 | 2023-07-14 |
 | [名前は片想い](https://open.spotify.com/track/1qwE94iwDll2rydJWHTm3I) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 3:36 | 2024-05-09 |  |
 | [君のそば](https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 2:50 | 2024-04-18 |  |
@@ -445,6 +446,7 @@
 | [未来図](https://open.spotify.com/track/7DbgLTaylbqko3vR6k4adw) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [未来図](https://open.spotify.com/album/6xgqi8qVneYK5zAehfnRNF) | 3:49 | 2023-10-02 | 2023-10-13 |
 | [桃源郷とタクシー](https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ロックはか゛わ゛い゛い゛](https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq) | 4:58 | 2024-09-02 | 2024-09-04 |
 | [桃源郷とタクシー](https://open.spotify.com/track/2WW3SD60gBWS12cooxmfaZ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [桃源郷とタクシー](https://open.spotify.com/album/4iybrmDfQZUvxTweCSTLVa) | 4:58 | 2024-09-02 | 2024-09-03 |
+| [歯ラ歯ラ](https://open.spotify.com/track/0xRqb4xCtQl7LT7CcCF2AN) | [しなこ](https://open.spotify.com/artist/0PUlKPu2HTROtFNmqCR5zX) | [歯ラ歯ラ](https://open.spotify.com/album/3PlEkvlcYtWiE9PDJ8I0br) | 2:04 | 2024-11-21 |  |
 | [死ぬな！](https://open.spotify.com/track/1ID5KbsGbd0QXvWPzDO7KY) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [死ぬな！](https://open.spotify.com/album/3cV5WVgvinE8Q0ubVEzQ1z) | 3:28 | 2024-11-01 |  |
 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-09-01 | 2023-09-15 |
 | [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 | 2024-09-20 |

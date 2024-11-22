@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Rhoda Scott",
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -627,6 +627,32 @@
     },
     {
       "album": {
+        "name": "Together Tomorrow",
+        "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
+      },
+      "artists": [
+        {
+          "name": "takoda",
+          "url": "https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME"
+        },
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Hubie",
+          "url": "https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137831,
+      "name": "Always Late",
+      "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
+    },
+    {
+      "album": {
         "name": "An Ode",
         "url": "https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby"
       },
@@ -1054,6 +1080,24 @@
       "duration_ms": 272733,
       "name": "Bamako Stomp",
       "url": "https://open.spotify.com/track/2J5TeUYjGB3bixMN9V804f"
+    },
+    {
+      "album": {
+        "name": "Banho De Mar",
+        "url": "https://open.spotify.com/album/2udpifaAo2eqqBbKVG5y7i"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Selva",
+          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219293,
+      "name": "Banho De Mar",
+      "url": "https://open.spotify.com/track/3gzkPFZ7Me9lP4j4qNUD2X"
     },
     {
       "album": {
@@ -2459,6 +2503,32 @@
     },
     {
       "album": {
+        "name": "Come Wander With Me ft. John Engels, Karel Boehlee & Aram Kersbergen",
+        "url": "https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj"
+      },
+      "artists": [
+        {
+          "name": "Jan van Duikeren",
+          "url": "https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL"
+        },
+        {
+          "name": "Marcel Veenendaal",
+          "url": "https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD"
+        },
+        {
+          "name": "Jan van Duikeren & Marcel Veenendaal",
+          "url": "https://open.spotify.com/artist/3pEzkqI3J0VftTSdpaQJ78"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286141,
+      "name": "Come Wander With Me",
+      "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
+    },
+    {
+      "album": {
         "name": "Comes Love",
         "url": "https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU"
       },
@@ -3820,7 +3890,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 439360,
       "name": "Fascinating Rhythm",
       "url": "https://open.spotify.com/track/0xtMVAeGMOnyuSbGALdEmp"
@@ -7258,7 +7328,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 274539,
       "name": "Love Is Like A Movie",
       "url": "https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M"
@@ -7702,6 +7772,36 @@
       "duration_ms": 225368,
       "name": "Matter",
       "url": "https://open.spotify.com/track/0u3Zx4Id7vUw1JaTOmCx9v"
+    },
+    {
+      "album": {
+        "name": "MD Blues",
+        "url": "https://open.spotify.com/album/2UzYRSbmprursaawJzafmt"
+      },
+      "artists": [
+        {
+          "name": "Rhoda Scott",
+          "url": "https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl"
+        },
+        {
+          "name": "Sophie Alour",
+          "url": "https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT"
+        },
+        {
+          "name": "Lisa Cat-Berro",
+          "url": "https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm"
+        },
+        {
+          "name": "Julie Saury",
+          "url": "https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406101,
+      "name": "MD Blues",
+      "url": "https://open.spotify.com/track/09RsN0efDAgTT4koydJvxq"
     },
     {
       "album": {
@@ -8274,7 +8374,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 275720,
       "name": "M\u01cem\u01ceh\u016bh\u016b",
       "url": "https://open.spotify.com/track/4qPOf0XDjEu4BFWECfRayK"
@@ -10360,7 +10460,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 394000,
       "name": "Sen\u00e9",
       "url": "https://open.spotify.com/track/2CkKvzu4AmiZipQGRqxWy6"

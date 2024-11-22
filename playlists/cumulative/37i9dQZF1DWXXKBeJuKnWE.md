@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: Malevolence
+> The home for heavy music\. Cover: Architects
 
-447 songs - 1 day 2 hr 45 min
+453 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Abortion](https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Abortion](https://open.spotify.com/album/1ZcgrAlvWGlYthMo5bCsJC) | 2:40 | 2024-01-26 | 2024-05-24 |
 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 | 2024-05-03 |  |
+| [Afterlove](https://open.spotify.com/track/2guRN4CqL8RzsauI3nKOqY) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Afterlove](https://open.spotify.com/album/3hUGMqXXDHKYBEMySgoHGY) | 3:20 | 2024-11-22 |  |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2023-02-10 | 2023-03-25 |
 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 | 2022-11-10 | 2023-02-18 |
 | [all i know](https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [all i know](https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V) | 3:40 | 2024-10-17 |  |
@@ -70,6 +71,7 @@
 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 | 2023-07-26 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-11-10 | 2023-03-25 |
 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 | 2024-06-07 |  |
+| [Casualty](https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:20 | 2024-11-22 |  |
 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-13 |  |
 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-11-17 | 2024-04-19 |
 | [Ceremonia](https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Ceremonia](https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE) | 2:58 | 2024-01-12 |  |
@@ -248,6 +250,8 @@
 | [Martyr Song](https://open.spotify.com/track/7j3vyFqTC6TCI9DWOBOayN) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everlasting Gaze](https://open.spotify.com/album/1ZAJRYcsaTLco5cLFMHqh9) | 4:16 | 2024-10-17 |  |
 | [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2022-11-10 | 2023-07-26 |
 | [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 | 2024-03-08 |  |
+| [Mayday](https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Mayday](https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3) | 3:23 | 2024-11-22 |  |
+| [Maze of Fools](https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Maze of Fools](https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay) | 3:18 | 2024-11-22 |  |
 | [Memento](https://open.spotify.com/track/2hXILrNult7kzQpMVduV5Y) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Memento](https://open.spotify.com/album/1pHMFUWSlIq6FVFhi1Yn2Q) | 4:11 | 2023-09-07 | 2024-05-24 |
 | [Messy Star](https://open.spotify.com/track/66fOyR2G0kf8hH9NMTbIBQ) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Messy Star](https://open.spotify.com/album/5Nvg3nWTsNopeBLNSI2t6m) | 3:21 | 2024-10-17 |  |
 | [METAL KINGDOM](https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 5:51 | 2023-03-23 | 2023-07-23 |
@@ -290,6 +294,7 @@
 | [Overthrone](https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine \(Deluxe Version\)](https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow) | 3:39 | 2023-11-11 |  |
 | [Pathetic Apathetic](https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [Pathetic Apathetic](https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX) | 3:35 | 2024-05-10 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-11-10 | 2023-07-26 |
+| [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-22 |  |
 | [Persona](https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW) | 2:12 | 2024-06-28 |  |
 | [PIN DROP](https://open.spotify.com/track/5JX5jI1UUzwxHyRapkE5CW) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 3:01 | 2024-10-04 |  |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2024-03-08 |
@@ -443,6 +448,7 @@
 | [What Remains](https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [What Remains](https://open.spotify.com/album/2NECnxiVMw84QBLNlm6x42) | 3:37 | 2024-08-09 |  |
 | [When She Told Me](https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [When She Told Me](https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt) | 4:41 | 2024-03-22 |  |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-11-10 | 2023-03-25 |
+| [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-22 |  |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-07-25 | 2024-01-12 |
 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 | 2022-11-10 | 2023-02-03 |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 | 2024-02-17 |

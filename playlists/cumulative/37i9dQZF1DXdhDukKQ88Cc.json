@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "4:44",
+        "url": "https://open.spotify.com/album/7nj291ovgMINOO9owFsM2o"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117225,
+      "name": "4:44",
+      "url": "https://open.spotify.com/track/2v28o9UzJpaFVxtJqH25XN"
+    },
+    {
+      "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3"
       },
@@ -2723,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "JACK & PEPSI",
+        "url": "https://open.spotify.com/album/7sGyaU81DDhnyRsNDE7M4S"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "JACK & PEPSI",
+      "url": "https://open.spotify.com/track/4rBFry7KERpMK0TnvWec9d"
+    },
+    {
+      "album": {
         "name": "Je Ka Jo",
         "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
       },
@@ -3150,6 +3186,24 @@
       "duration_ms": 157477,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C"
+    },
+    {
+      "album": {
+        "name": "Mentalitet",
+        "url": "https://open.spotify.com/album/313cbKPg6w2qN4KeOZpzbg"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "Mentalitet",
+      "url": "https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC"
     },
     {
       "album": {
@@ -4686,6 +4740,28 @@
       "duration_ms": 123292,
       "name": "UD\u00d8DELIG",
       "url": "https://open.spotify.com/track/0FyCLGRnLuYNSQvsMTaLNb"
+    },
+    {
+      "album": {
+        "name": "UMTI UMTI (feat. Speedy)",
+        "url": "https://open.spotify.com/album/3aTkEqwilWU2SColp81wYP"
+      },
+      "artists": [
+        {
+          "name": "Carl Knast",
+          "url": "https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug"
+        },
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158776,
+      "name": "UMTI UMTI (feat. Speedy)",
+      "url": "https://open.spotify.com/track/6viFkB6m4NEyJg45qnH6QD"
     },
     {
       "album": {

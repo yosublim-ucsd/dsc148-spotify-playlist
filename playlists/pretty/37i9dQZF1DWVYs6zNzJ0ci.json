@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Los Cafres",
-  "num_followers": 1204869,
+  "num_followers": 1204920,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Ll\u00e9vame (Cultura Remix)",
-        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 264913,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Cypher #5 (Reggae Cypher)",
         "url": "https://open.spotify.com/album/2UjzVrUNrdYfGAjH5Cyxs8"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 564000,
       "name": "Cypher #5 (Reggae Cypher)",
       "url": "https://open.spotify.com/track/3vY4PoM0YudogsXe4dSncv"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Ll\u00e9vame (Cultura Remix)",
+        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 264913,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Cumbiana II",
         "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 243864,
       "name": "Te Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 338146,
-      "name": "Verde, amarillo y rojo",
-      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Fuiste Cruel",
         "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 297738,
       "name": "Fuiste Cruel",
       "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 338146,
+      "name": "Verde, amarillo y rojo",
+      "url": "https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Esfuerzo Universal",
+        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 305813,
+      "name": "Sal a Caminar",
+      "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Esfuerzo Universal",
-        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 305813,
-      "name": "Sal a Caminar",
-      "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
       },
@@ -1035,6 +1035,26 @@
       "duration_ms": 196071,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Cali Roots Riddim 2023",
+        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1071,26 +1091,6 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Cali Roots Riddim 2023",
-        "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Saber a D\u00f3nde ir",
-        "url": "https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 259217,
-      "name": "Saber a D\u00f3nde ir",
-      "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Bonito y Cruel",
         "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 220606,
       "name": "Bonito y Cruel",
       "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Saber a D\u00f3nde ir",
+        "url": "https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 259217,
+      "name": "Saber a D\u00f3nde ir",
+      "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Mi Fortaleza",
-        "url": "https://open.spotify.com/album/4z4putTLPDht0Q6i0d87A5"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        }
-      ],
-      "duration_ms": 227515,
-      "name": "Mi Fortaleza",
-      "url": "https://open.spotify.com/track/32IImwtinyH53ah7mNAX0E"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
       },
@@ -1519,18 +1499,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+        "name": "Mi Fortaleza",
+        "url": "https://open.spotify.com/album/4z4putTLPDht0Q6i0d87A5"
       },
       "artists": [
         {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
         }
       ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+      "duration_ms": 227515,
+      "name": "Mi Fortaleza",
+      "url": "https://open.spotify.com/track/32IImwtinyH53ah7mNAX0E"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 177536,
       "name": "El Seis",
       "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
     },
     {
       "added_at": "2024-10-18 04:00:00",

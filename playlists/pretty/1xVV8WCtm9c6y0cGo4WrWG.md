@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Snoop, GloRilla, Drake and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,349 likes - 76 songs - 3 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,348 likes - 76 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 7 | [Both Ways](https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 3:17 |
 | 8 | [5BRAZY \(FEAT\. QUAVO\)](https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [5BRAZY \(FEAT\. QUAVO\)](https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS) | 2:58 |
 | 9 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 |
-| 10 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
+| 10 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
 | 11 | [Dope Boy \(with Nigo\)](https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Dope Boy](https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe) | 1:32 |
 | 12 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 |
 | 13 | [It Is What It Is \(feat\. Gunna\)](https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 3:23 |

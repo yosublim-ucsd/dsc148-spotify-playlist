@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19870,
+  "num_followers": 19869,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABMFvrstoZ9m4fvPJKbaJW9",
+  "snapshot_id": "Zz0mgAAAAADyc6s2qHt/94e8uX7Ni56g",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo O Que Sou",
+        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 270053,
+      "name": "Tudo O Que Sou",
+      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus \u00e9 o Centro (Jesus At The Center) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 346346,
       "name": "Jesus \u00e9 o Centro (Jesus At The Center) - Ao Vivo",
       "url": "https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo O Que Sou",
-        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 270053,
-      "name": "Tudo O Que Sou",
-      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fome e Sede",
-        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Fome e Sede",
-      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 499742,
+      "name": "Eu Canto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
         "url": "https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu"
       },
@@ -811,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 499742,
-      "name": "Eu Canto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz da Luz",
         "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Sou do Meu Deus: Live Session",
+        "url": "https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcelos",
+          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "Eu Sou do Meu Deus: Live Session",
+      "url": "https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet"
     },
     {
       "added_at": null,
@@ -891,26 +911,6 @@
       "duration_ms": 366814,
       "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
       "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Sou do Meu Deus: Live Session",
-        "url": "https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcelos",
-          "url": "https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "Eu Sou do Meu Deus: Live Session",
-      "url": "https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet"
     },
     {
       "added_at": null,

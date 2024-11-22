@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 715542,
+  "num_followers": 715705,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -559,18 +559,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Best Remixes",
-        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
       "artists": [
         {
           "name": "New Order",
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        },
+        {
+          "name": "Shep Pettibone",
+          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
         }
       ],
-      "duration_ms": 427480,
-      "name": "Blue Monday ('88) - 12\" Version",
-      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
+      "duration_ms": 543440,
+      "name": "True Faith - Shep Pettibone 12\" Remix",
+      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -719,22 +723,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+        "name": "Best Remixes",
+        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
       },
       "artists": [
         {
           "name": "New Order",
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        },
-        {
-          "name": "Shep Pettibone",
-          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
         }
       ],
-      "duration_ms": 543440,
-      "name": "True Faith - Shep Pettibone 12\" Remix",
-      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
+      "duration_ms": 427480,
+      "name": "Blue Monday ('88) - 12\" Version",
+      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
     },
     {
       "added_at": "2024-02-06 15:45:26",

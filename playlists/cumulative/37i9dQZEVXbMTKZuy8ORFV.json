@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 179493,
       "name": "Aqu\u00ed Hay Para Llevar",
       "url": "https://open.spotify.com/track/25VVwcwK5OKa4XMsVmsmJ0"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 222866,
       "name": "Blood Sweat & Tears - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6tHi0nD0Xx9irn5LyR1Bu1"
@@ -7880,10 +7880,28 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
+    },
+    {
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif"
     },
     {
       "album": {
@@ -9502,7 +9520,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 158644,
       "name": "MALA SUERTE",
       "url": "https://open.spotify.com/track/4gqE9uHLnRq4DPgXIuXu5j"
@@ -13781,6 +13799,24 @@
     },
     {
       "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa"
+      },
+      "artists": [
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Samba do Brasil",
+      "url": "https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD"
+    },
+    {
+      "album": {
         "name": "SAN TURRONA",
         "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
       },
@@ -17822,7 +17858,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 206170,
       "name": "Wake Up & Bake Up",
       "url": "https://open.spotify.com/track/7MBHncxZXB7fzf5cAx8C05"
@@ -19075,7 +19111,7 @@
     },
     {
       "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke (Opening Theme to DAN DA DAN)",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
       },
       "artists": [
@@ -19088,7 +19124,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: TroyBoi",
-  "num_followers": 886431,
+  "num_followers": 886415,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,18 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL"
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
       },
       "artists": [
         {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Sublab",
-          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
-        },
-        {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9"
+      "duration_ms": 152651,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1159,18 +1151,26 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL"
       },
       "artists": [
         {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
         }
       ],
-      "duration_ms": 152651,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
+      "duration_ms": 208000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9"
     },
     {
       "added_at": "2024-11-18 22:47:31",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2024-11-18 22:47:31",
       "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q"
-      },
-      "artists": [
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        },
-        {
-          "name": "Highlnd",
-          "url": "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
-        },
-        {
-          "name": "jasper",
-          "url": "https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP"
-    },
-    {
-      "added_at": "2024-11-18 22:47:31",
-      "album": {
         "name": "ORIGINAL STEPPA",
         "url": "https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc"
       },
@@ -1719,6 +1695,30 @@
       "duration_ms": 126000,
       "name": "ORIGINAL STEPPA",
       "url": "https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ"
+    },
+    {
+      "added_at": "2024-11-18 22:47:31",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Highlnd",
+          "url": "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
+        },
+        {
+          "name": "jasper",
+          "url": "https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP"
     },
     {
       "added_at": "2024-11-18 22:47:31",

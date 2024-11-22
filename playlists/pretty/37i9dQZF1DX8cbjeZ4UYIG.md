@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,540 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,614 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 46 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
 | 47 | [Ebeneezer Goode \- Beat Edit](https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Ebeneezer Goode \- EP](https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV) | 3:54 |
 | 48 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/4qAu9FbxaULlca8tvHI8Tl) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3Npjea52mXpWbrxaobH0rj) | 3:59 |
-| 49 | [Halcyon and On and On](https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1T7efw93w96udljrPyL44G) | 9:27 |
-| 50 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
+| 49 | [Keep The Fire Burning \- Original 12\-Inch Versions](https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej) | [The House Crew](https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4) | [Techno Party](https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW) | 6:31 |
+| 50 | [Halcyon and On and On](https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1T7efw93w96udljrPyL44G) | 9:27 |
 
 Snapshot ID: `ZpExBwAAAABNYCdpnArbrPe8t9i4uo7M`

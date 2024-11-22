@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Stony x Kalipsxau",
+  "description": "Les hits zouk du moment. Photo : Oswald",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/70tsN0GNXbpD2X2sQLIEQ5"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162142,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/44lAeDpvW8PH18OPxWGuY9"
+    },
+    {
+      "album": {
         "name": "Mon Ame",
         "url": "https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz"
       },
@@ -2192,6 +2210,24 @@
       "duration_ms": 161552,
       "name": "On a chang\u00e9",
       "url": "https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6"
+    },
+    {
+      "album": {
+        "name": "Eclosion",
+        "url": "https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu"
+      },
+      "artists": [
+        {
+          "name": "Bryans",
+          "url": "https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Ou f\u00e8'm mal",
+      "url": "https://open.spotify.com/track/5aFXwdIy5hkZ6WZZDHnEcq"
     },
     {
       "album": {
@@ -3636,7 +3672,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176000,
       "name": "VIR\u00c9 FEY",
       "url": "https://open.spotify.com/track/3HntoALO84z82ZIF3vJwHl"
@@ -3764,7 +3800,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 225071,
       "name": "\u00c2me soeur",
       "url": "https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1"

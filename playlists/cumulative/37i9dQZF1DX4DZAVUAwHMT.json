@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Linkin Park",
+  "description": "The UK's biggest rock playlist. Cover: Spiritbox",
   "name": "The Rock List",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 283086,
       "name": "A Fragile Thing",
       "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 202019,
       "name": "Alice of the Upper Class",
       "url": "https://open.spotify.com/track/3C34G0n3pThaxTSwsWpSOT"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 204053,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ"
@@ -1156,6 +1156,24 @@
       "duration_ms": 203294,
       "name": "ATTN.",
       "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
+    },
+    {
+      "album": {
+        "name": "Aunque duela",
+        "url": "https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Aunque duela",
+      "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
     },
     {
       "album": {
@@ -7102,7 +7120,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 158870,
       "name": "La fiesta",
       "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
@@ -7644,6 +7662,24 @@
       "duration_ms": 199814,
       "name": "LOTUS",
       "url": "https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh"
     },
     {
       "album": {
@@ -9298,7 +9334,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176000,
       "name": "One of a Kind",
       "url": "https://open.spotify.com/track/4luxPAHAX8fDU1FEO6vo98"
@@ -9742,6 +9778,42 @@
       "duration_ms": 208125,
       "name": "PARTY ON MY DEATHBED",
       "url": "https://open.spotify.com/track/6JgiByhbuHVAYvVQSColpN"
+    },
+    {
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
       "album": {
@@ -10398,7 +10470,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 311702,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB"
@@ -11934,7 +12006,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 183246,
       "name": "Suck The Cherry",
       "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
@@ -12742,6 +12814,24 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B"
+    },
+    {
+      "album": {
+        "name": "The System",
+        "url": "https://open.spotify.com/album/2W60odszcRNJrbZTuESsWs"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162306,
+      "name": "The System",
+      "url": "https://open.spotify.com/track/6rU6rWzTjHUTVaJ9DG4TVm"
     },
     {
       "album": {
@@ -14011,6 +14101,24 @@
     },
     {
       "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9"
+    },
+    {
+      "album": {
         "name": "Social Lubrication",
         "url": "https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7"
       },
@@ -14209,6 +14317,24 @@
     },
     {
       "album": {
+        "name": "Words Lost Meaning",
+        "url": "https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Words Lost Meaning",
+      "url": "https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE"
+    },
+    {
+      "album": {
         "name": "World Class Entertainment",
         "url": "https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR"
       },
@@ -14310,7 +14436,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"

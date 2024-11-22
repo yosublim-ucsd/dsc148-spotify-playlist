@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,170 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,182 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [The Wanderings of The Avener \- Continuous Mix](https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2), [Adam Cohen](https://open.spotify.com/artist/1sKo8LpXbhcTHtd9moNCMk), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [The Wanderings Of The Avener](https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP) | 54:10 |
 | 50 | [No More Doggin'](https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:44 |
 
-Snapshot ID: `ZzvVAAAAAAAzORxbbwiyGn/DanKtAIM1`
+Snapshot ID: `Zz0mgAAAAAAQbPwhX4oKM6dmsiL7wtP7`

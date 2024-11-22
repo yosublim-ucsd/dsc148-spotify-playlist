@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 105230,
       "name": "Mtg S\u00f3 uma Vez",
       "url": "https://open.spotify.com/track/4YkZAG9vYEK6M25bTXoLIW"
@@ -5910,6 +5910,24 @@
       "duration_ms": 364971,
       "name": "Sax To Me",
       "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "album": {
+        "name": "Saxofon",
+        "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
+      },
+      "artists": [
+        {
+          "name": "Gio Silva",
+          "url": "https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277565,
+      "name": "Saxofon",
+      "url": "https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL"
     },
     {
       "album": {

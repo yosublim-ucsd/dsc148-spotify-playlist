@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Alejandro Sanz en portada.",
-  "num_followers": 73605,
+  "num_followers": 73640,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Coraz\u00f3n en Coma",
         "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 172100,
       "name": "Coraz\u00f3n en Coma",
       "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "RUBEDO",
-        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
-      },
-      "artists": [
-        {
-          "name": "CARMEN MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
-        }
-      ],
-      "duration_ms": 160124,
-      "name": "TANTO PARA NADA",
-      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "RUBEDO",
+        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "duration_ms": 160124,
+      "name": "TANTO PARA NADA",
+      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "LA FALTA QUE ME HACES",
-        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LA FALTA QUE ME HACES",
-      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Hola, Me Llamo Mar\u00eda",
         "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 156000,
       "name": "Hola, Me Llamo Mar\u00eda",
       "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "LA FALTA QUE ME HACES",
+        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LA FALTA QUE ME HACES",
+      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
     },
     {
       "added_at": "2024-10-25 06:00:00",

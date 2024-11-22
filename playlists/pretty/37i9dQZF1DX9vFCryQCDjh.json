@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 12884,
+  "num_followers": 12893,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 209659,
-      "name": "\uc560\uc0c1",
-      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\uc784\uc7ac\ubc941\uc9d1",
         "url": "https://open.spotify.com/album/5bRAb4iY8eF180lWtfsd2n"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 250279,
       "name": "\uc774\ubc24\uc774\uc9c0\ub098\uba74",
       "url": "https://open.spotify.com/track/2bAMoEukdKb0Rk4u6IcUM3"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 209659,
+      "name": "\uc560\uc0c1",
+      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -639,8 +639,8 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 233966,
-      "name": "\ub09c \ub110 \uc6d0\ud574",
-      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 265116,
       "name": "\uc120\ubb3c",
       "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 233966,
+      "name": "\ub09c \ub110 \uc6d0\ud574",
+      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
+      "duration_ms": 264600,
+      "name": "Descent of Warriors",
+      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Light Camera Action!",
-        "url": "https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M"
+        "name": "LOVE - The 3rd Album",
+        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
       },
       "artists": [
         {
-          "name": "Solid",
-          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
         }
       ],
-      "duration_ms": 227630,
-      "name": "a match made in heaven",
-      "url": "https://open.spotify.com/track/2VYLSWoSgHcWTOoJIKr5t5"
+      "duration_ms": 226173,
+      "name": "Twilight Zone",
+      "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "LOVE - The 3rd Album",
-        "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
+        "name": "Light Camera Action!",
+        "url": "https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M"
       },
       "artists": [
         {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Twilight Zone",
-      "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
+      "duration_ms": 227630,
+      "name": "a match made in heaven",
+      "url": "https://open.spotify.com/track/2VYLSWoSgHcWTOoJIKr5t5"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Let Me Love",
         "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 240653,
       "name": "\ub2e4\uc9d0",
       "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 225098,
-      "name": "\uc6b4\uba85",
-      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
         "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 259775,
       "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
       "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "\uc6b4\uba85",
+      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "\ucca0\uc774\uc640 \ubbf8\uc560",
+        "url": "https://open.spotify.com/album/57FVNi03fmv2COU5hz6dnL"
+      },
+      "artists": [
+        {
+          "name": "Chuli & Miae",
+          "url": "https://open.spotify.com/artist/3UYzCPJok6VAnaufYoNNqN"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "\ub108\ub294 \uc65c",
+      "url": "https://open.spotify.com/track/1gfc6WeaZ8rabkRTIt4Hvm"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "2nd Album",
         "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 250618,
       "name": "\ud0c0\uc778",
       "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Power Bit Techno Space A",
-        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
-      },
-      "artists": [
-        {
-          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
-          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "\uc131\uc219",
-      "url": "https://open.spotify.com/track/1Mr3U7Ku6Y30EShsQtGoiS"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Power Bit Techno Space A",
+        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
+      },
+      "artists": [
+        {
+          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
+          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "\uc131\uc219",
+      "url": "https://open.spotify.com/track/1Mr3U7Ku6Y30EShsQtGoiS"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "\ub108",
         "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 202826,
       "name": "\ub108 - Bonus Track/Techno Version",
       "url": "https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Roo`ra Best Album",
-        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
     },
     {
       "added_at": "2024-08-05 17:06:13",

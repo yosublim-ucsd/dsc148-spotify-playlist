@@ -1075,6 +1075,28 @@
     },
     {
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Bad For You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
+    },
+    {
+      "album": {
         "name": "Bad n Rude (feat. WSTRN)",
         "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
       },
@@ -6040,7 +6062,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 147169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
@@ -7380,7 +7402,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 198323,
       "name": "MORE PRETTY GIRLS",
       "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
@@ -8179,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "Nyumbani",
+        "url": "https://open.spotify.com/album/2gVOyoQ48YDu35k3Zk3zpu"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Nyumbani",
+      "url": "https://open.spotify.com/track/2eQeiHxv9epzbWsUQk1vPK"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT"
       },
@@ -8366,6 +8406,32 @@
       "duration_ms": 198877,
       "name": "One Side - Remix",
       "url": "https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG"
+    },
+    {
+      "album": {
+        "name": "Confuse The Enemy (Reloaded)",
+        "url": "https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb"
     },
     {
       "album": {
@@ -12410,7 +12476,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"

@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-191 songs - 9 hr 52 min
+192 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [On My Way Home](https://open.spotify.com/track/6T3TD8dz7LWYt4WPwONmoN) | [D at Sea](https://open.spotify.com/artist/49Pev5tXSjwKtlvsBPYCSM) | [On My Way Home](https://open.spotify.com/album/1ejmOy6PomknI6jRTYLyFO) | 2:50 | 2024-03-14 | 2024-07-30 |
 | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/track/1hMQH0ZPAgfyRWRhpQYtEW) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF) | 3:46 | 2024-07-29 | 2024-10-05 |
 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-10-04 |  |
-| [One In A Million](https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 | 2024-10-04 |  |
+| [One In A Million](https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 | 2024-10-04 | 2024-11-22 |
 | [PANGEA](https://open.spotify.com/track/7tbFdacbDkkMdlaFot1hQ3) | [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo), [Sol](https://open.spotify.com/artist/64fqh0wAz2xzccpR8ZJPrh) | [The Prequel](https://open.spotify.com/album/2zqD2Xw3kT1FRLDlh2IMD9) | 4:12 | 2024-03-14 | 2024-10-05 |
 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 | 2024-07-29 |  |
 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 | 2024-10-04 |  |
@@ -136,6 +136,7 @@
 | [QUIET](https://open.spotify.com/track/1j8ObJlfbKQhXV1RXzNF5S) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [blendwise](https://open.spotify.com/artist/5UXVHfbYhVQy9TtRAEJo5W), [ENO](https://open.spotify.com/artist/43WRcxnLsTBgl73jDYDKuP) | [QUIET/NO HONEY](https://open.spotify.com/album/6ls8stXjfcl47ehVJHSzrj) | 3:40 | 2024-07-29 | 2024-10-05 |
 | [RAIN](https://open.spotify.com/track/3pKvQ3Z4o0P5uLwzA4fW7f) | [JKTS](https://open.spotify.com/artist/5xA0T46YPl40JIaxBjQJFW) | [DOES IT RAIN IN TEXAS?](https://open.spotify.com/album/5694oP6dIck114HNJb8pBP) | 1:57 | 2024-03-14 | 2024-10-05 |
 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 | 2024-07-29 | 2024-10-05 |
+| [Red Light](https://open.spotify.com/track/6uFDcKDKm2QgdgtEcDQGoU) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Red Light](https://open.spotify.com/album/08aM0wysi2NwR7phOd6zLk) | 4:07 | 2024-11-21 |  |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2024-10-04 |  |
 | [Remain The Same](https://open.spotify.com/track/18ykDJYV2RmdSpkRxf3etO) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Remain The Same](https://open.spotify.com/album/6wUlv3fppZczotLINqceBd) | 3:05 | 2024-03-14 | 2024-10-05 |
 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 | 2024-03-14 | 2024-07-30 |

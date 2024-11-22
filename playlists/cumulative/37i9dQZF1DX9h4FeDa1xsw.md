@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Tsew The Kid
+> Photo : Andéol
 
-60 songs - 2 hr 52 min
+64 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,19 +21,22 @@
 | [Comment on s'aime ?](https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Atlas](https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L) | 2:47 | 2024-07-18 |  |
 | [Corde sensible](https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB) | [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt), [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Hypersensible](https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW) | 3:15 | 2024-09-26 |  |
 | [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 | 2024-06-20 | 2024-09-13 |
+| [Cyclades](https://open.spotify.com/track/5rv3vsfFZAnY1I5yZeNxni) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bisou sur la bouche](https://open.spotify.com/album/6zrVsCTydKf6dDWEKdp1T5) | 2:14 | 2024-11-21 |  |
+| [DANS TES RUES](https://open.spotify.com/track/4vJdZc7ZbgKCH8YK8Ww7ML) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [DANS TES RUES](https://open.spotify.com/album/3hsBRFKDiYAtI7ckbRP7nH) | 2:25 | 2024-11-21 |  |
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2024-07-18 |  |
 | [DOMMAGE](https://open.spotify.com/track/5MPLvZ736HKXmY8hjycKfx) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DOMMAGE](https://open.spotify.com/album/0EsXZDwcFWcVR4cmVNobDb) | 2:33 | 2024-06-20 | 2024-07-19 |
 | [Don du Ciel](https://open.spotify.com/track/0DTUbfyHygkB6P10cvc7qO) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Prélude Nouvelle Romance](https://open.spotify.com/album/3Y4c4k6fsaXdfOrdWSaM2I) | 2:58 | 2024-06-20 |  |
 | [DON'T LET ME GO](https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DON'T LET ME GO](https://open.spotify.com/album/1JohKORtvRNUAmeSYCyCGJ) | 3:39 | 2024-06-20 |  |
-| [Désaccord](https://open.spotify.com/track/0srZ2zTRUkzbuh4HRJEZA4) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Désaccord](https://open.spotify.com/album/2Ac5lEYGIOpyqaDmUYoDGc) | 3:04 | 2024-06-20 |  |
-| [hiver](https://open.spotify.com/track/4suhOzr3Plb1PrDVyEcCm4) | [Simon Beigelman](https://open.spotify.com/artist/5mIlBjWqCN1nneC5IAqUCh) | [hiver](https://open.spotify.com/album/4wrYiykW6D8vQRyWb4Dh0j) | 2:02 | 2024-06-20 |  |
+| [Désaccord](https://open.spotify.com/track/0srZ2zTRUkzbuh4HRJEZA4) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Désaccord](https://open.spotify.com/album/2Ac5lEYGIOpyqaDmUYoDGc) | 3:04 | 2024-06-20 | 2024-11-22 |
+| [hiver](https://open.spotify.com/track/4suhOzr3Plb1PrDVyEcCm4) | [Simon Beigelman](https://open.spotify.com/artist/5mIlBjWqCN1nneC5IAqUCh) | [hiver](https://open.spotify.com/album/4wrYiykW6D8vQRyWb4Dh0j) | 2:02 | 2024-06-20 | 2024-11-22 |
 | [Honey](https://open.spotify.com/track/3WBWmLjLbdeLEWIenmGH5U) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Honey](https://open.spotify.com/album/0xvTFB0V2ILHM4H2Jdm6ng) | 2:53 | 2024-06-20 | 2024-07-19 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-06-20 |  |
 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 | 2024-06-20 | 2024-10-18 |
 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 | 2024-06-20 |  |
 | [Joue le jeu](https://open.spotify.com/track/6yXEFxfrBRGooBzNMkUSV3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Joue le jeu](https://open.spotify.com/album/4ZsLmiGSWPRBEIBNPBUvNr) | 1:49 | 2024-11-07 |  |
 | [Juvénile](https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Cinéclub](https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO) | 3:32 | 2024-06-20 | 2024-07-19 |
-| [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 |  |
+| [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 | 2024-11-22 |
+| [L'Été en Hiver](https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0) | [Whisper](https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Été en Hiver](https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY) | 2:32 | 2024-11-21 |  |
 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 | 2024-07-04 |  |
 | [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 | 2024-07-18 |  |
 | [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 | 2024-06-20 | 2024-10-04 |
@@ -41,6 +44,7 @@
 | [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-11-07 |  |
 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 | 2024-08-30 |
 | [Liverpool](https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2) | [Brav](https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Liverpool](https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW) | 3:52 | 2024-08-29 |  |
+| [Ma jolie](https://open.spotify.com/track/1KGD3DZxekZfD1CghVKbt8) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Ma jolie](https://open.spotify.com/album/29kr1BdsCiUBY2V1Cd9vlb) | 2:31 | 2024-11-21 |  |
 | [MAMIMAMI](https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MAMIMAMI](https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC) | 1:55 | 2024-10-17 |  |
 | [MAUDIT](https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [MAUDIT](https://open.spotify.com/album/4WbHWg8qFWBN7m4wYbCVHt) | 3:29 | 2024-09-26 |  |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2024-06-20 | 2024-09-27 |
@@ -62,7 +66,7 @@
 | [Sans Histoires](https://open.spotify.com/track/0yKiYhGtdEGT5hFkhJ84ys) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Sans Histoires](https://open.spotify.com/album/2yVFI5LJ49IV3UnWToc29i) | 2:45 | 2024-06-20 |  |
 | [Shuriken School](https://open.spotify.com/track/31sePGKxXCwAaOet4bcUw3) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Shuriken School](https://open.spotify.com/album/32aJg3s2WivGsYBjLkPrmp) | 3:14 | 2024-06-20 | 2024-07-05 |
 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 | 2024-06-20 |  |
-| [Topinambour](https://open.spotify.com/track/18YOJ0bEK8D68AJCnYEOVK) | [Ex\-Aequo](https://open.spotify.com/artist/7BCXsQgOn5a9AW2HlTd5xb) | [Topinambour](https://open.spotify.com/album/2biWJkwaSrUIn7OqKnk1ca) | 2:22 | 2024-06-20 |  |
+| [Topinambour](https://open.spotify.com/track/18YOJ0bEK8D68AJCnYEOVK) | [Ex\-Aequo](https://open.spotify.com/artist/7BCXsQgOn5a9AW2HlTd5xb) | [Topinambour](https://open.spotify.com/album/2biWJkwaSrUIn7OqKnk1ca) | 2:22 | 2024-06-20 | 2024-11-22 |
 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 | 2024-06-20 |  |
 | [TOUS CEUX](https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO) | [TOUS CEUX](https://open.spotify.com/album/2M3FSKhks3bHfgFOJq54T3) | 3:10 | 2024-06-20 | 2024-10-18 |
 | [Vampire](https://open.spotify.com/track/45bESNPtGOmWKI6Y5AziuI) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Vampire](https://open.spotify.com/album/3CdwmnTTqQqhbYjsR3S9UG) | 2:17 | 2024-11-07 |  |

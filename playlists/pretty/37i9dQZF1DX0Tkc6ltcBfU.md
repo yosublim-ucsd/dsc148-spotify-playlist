@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,022 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,120 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 12 | [PLUTOSKI](https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:59 |
 | 13 | [5AM](https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [5AM](https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX) | 1:42 |
 | 14 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
-| 15 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
+| 15 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
 | 16 | [7 AM in Munich \(feat\. Kodak Black\)](https://open.spotify.com/track/3t8MGSsf0IpjpIt1XyLOBP) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 3:03 |
 | 17 | [Back on the Road \(feat\. Lil Wayne\)](https://open.spotify.com/track/3MsEJbnW0SYWNzQ6D1j5Xm) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:36 |
 | 18 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 |

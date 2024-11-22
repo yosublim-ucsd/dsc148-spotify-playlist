@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=OwdlPcQqQ8qmtGr7xTH\_\-Q>Ebuka Songs</a>
 
-112 songs - 12 hr 50 min
+115 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [Awofuwo](https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Awofuwo](https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx) | 5:46 | 2024-11-01 |  |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2024-05-09 |  |
 | [Baba Yangu, Baba Yangu \- Live](https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Baba Yangu, Baba Yangu \(Live\)](https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF) | 4:49 | 2024-08-02 |  |
+| [Before Your Throne \- Live](https://open.spotify.com/track/27LcHHruNMuHCN6Fc9L6U4) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Before Your Throne \(Live\)](https://open.spotify.com/album/4u2vnwlPnxYKdIpAn3b7wo) | 12:45 | 2024-11-22 |  |
 | [Beyond Me](https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [The Love Story](https://open.spotify.com/album/55oOa9npkSisKLa3tvbibr) | 7:11 | 2024-05-09 |  |
+| [Bless The Lord God](https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Bless The Lord God](https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA) | 4:05 | 2024-11-22 |  |
 | [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/track/412oQBTiuIDTCDLuVALKXx) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Break forth \(Isaiah 54:1\-4\) \[Live From The Song Of Sons Project\]](https://open.spotify.com/album/6MFNHyKp4ABkLOfzXdpAu9) | 12:24 | 2024-09-06 | 2024-11-08 |
 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 | 2024-11-15 |  |
 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 | 2024-05-09 |  |
@@ -53,6 +55,7 @@
 | [Heart of Worship](https://open.spotify.com/track/5kqrE2peLuqeSkwjqHLoBF) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv) | [Life A Meaning](https://open.spotify.com/album/6qdsGXyw45tq32oJnbPRQQ) | 2:51 | 2024-05-09 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-05-09 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 |  |
+| [HOLY \- Live](https://open.spotify.com/track/5LIokuDAPMtNTnDWDKbGgm) | [Patience Tumba](https://open.spotify.com/artist/5rl5zLtbpyb9RQHAn2L31v) | [HOLY \(Live\)](https://open.spotify.com/album/3n2PZk98qSBlgdzyrd87eN) | 9:30 | 2024-11-22 |  |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
 | [Hungry for You](https://open.spotify.com/track/2NexQa4KeCyXqmNDdVjWA6) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hungry for You](https://open.spotify.com/album/5b80Kb9atpUSjZwa0crLAy) | 8:03 | 2024-09-20 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-05-09 |  |
@@ -84,7 +87,7 @@
 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 | 2024-05-09 |  |
 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-05-09 |  |
 | [No Weapon](https://open.spotify.com/track/5THnN0q7w8w34BMp7WGZlA) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All Things New](https://open.spotify.com/album/1S1Zy7QMIHAZAWXY5Uy55n) | 5:14 | 2024-11-15 |  |
-| [None As Great \(feat\. IBKSings\)](https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD) | 7:04 | 2024-10-05 |  |
+| [None As Great \(feat\. IBKSings\)](https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD) | 7:04 | 2024-10-05 | 2024-11-22 |
 | [Nothing Without You \- Live](https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Nothing Without You \(Live\)](https://open.spotify.com/album/1jQQP8xN0197YhIRumYCia) | 6:35 | 2024-05-31 |  |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 |  |
 | [Oghene Do](https://open.spotify.com/track/3O0Wf0GHDyV2AAZQO0KSPz) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited \- Verse 1](https://open.spotify.com/album/3cBoClyLmO7nWQAVcPigPI) | 4:52 | 2024-05-09 |  |

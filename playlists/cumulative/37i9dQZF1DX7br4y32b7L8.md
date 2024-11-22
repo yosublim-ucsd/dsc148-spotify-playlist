@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-613 songs - 1 day 7 hr 2 min
+615 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Durf Niet](https://open.spotify.com/track/04AqyNAI5Sddba51EWhqiE) | [Wesley & Lynn](https://open.spotify.com/artist/6sK2fAn86mDi6GhhWLUwk9), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Durf Niet](https://open.spotify.com/album/1mH39i9NW0c1vnsi6CO3zC) | 2:18 | 2023-11-29 | 2023-12-30 |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-06 | 2023-07-11 |
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-02-23 | 2023-03-28 |
+| [Echte Liefde](https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Echte Liefde](https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd) | 3:32 | 2024-11-21 |  |
 | [Een Aperolletje](https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM) | [De Offsiders](https://open.spotify.com/artist/5H7tPK4zehUJwM5K8czsDz), [Andy Van Der Meijde](https://open.spotify.com/artist/4HVTe60HStIQsAlofkW9Ff), [Wesley Sneijder](https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Een Aperolletje](https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB) | 4:03 | 2023-05-29 | 2023-09-07 |
 | [Een Chick Als \(Jade\)](https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Een Chick Als \(Jade\)](https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN) | 2:46 | 2023-07-24 | 2023-12-15 |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2024-01-10 | 2024-02-15 |
@@ -390,6 +391,7 @@
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-06-13 | 2024-07-04 |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-02-23 | 2023-03-02 |
 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 | 2024-03-21 | 2024-06-21 |
+| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-21 |  |
 | [Non Stop](https://open.spotify.com/track/2hKpOD0fp1q1Al6XbCkM0p) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Non Stop](https://open.spotify.com/album/7IgIudLVXxMySJRQ3P0p09) | 2:19 | 2023-02-23 | 2023-04-12 |
 | [Nostalgie](https://open.spotify.com/track/70QBnYP5lr1nhF3isSOJfj) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Nostalgie](https://open.spotify.com/album/6yzNzeMjpMasaeYtoVsmeD) | 2:42 | 2024-04-06 | 2024-07-04 |
 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 | 2023-05-24 | 2023-07-11 |

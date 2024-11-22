@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-472 songs - 1 day 0 hr 8 min
+473 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-08-05 | 2023-02-24 |
 | [Incoming](https://open.spotify.com/track/56amD1DaOooWn1RwbJiJnq) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Incoming](https://open.spotify.com/album/29IgCJBPJyr5pbhOB7MIvS) | 2:42 | 2023-10-20 | 2023-10-25 |
 | [Informate \(FYI\)](https://open.spotify.com/track/1O4QnFa5ykCLcOfebOlGUY) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Magicsticks](https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz) | [Informate \(FYI\)](https://open.spotify.com/album/0eddBpoJ9TV5Efg85aBhXQ) | 2:48 | 2024-11-08 |  |
+| [Italia](https://open.spotify.com/track/4egYs7ym9uMkHiNMCUWS8R) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV) | [Italia](https://open.spotify.com/album/66pOTRZVD3mlMdi2DojYAg) | 2:48 | 2024-11-22 |  |
 | [Iz Going](https://open.spotify.com/track/32ukfuWwtkrKObrpyvTslr) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Iz Going](https://open.spotify.com/album/5N6oiGDjkXCZYCsZGurE08) | 2:44 | 2022-07-14 | 2022-07-21 |
 | [Ja Rule & Ashanti](https://open.spotify.com/track/3Za4EqLSgoBZSK1aIUgrf1) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Ja Rule & Ashanti](https://open.spotify.com/album/4898KXBWwf8yejADeP7yxl) | 2:58 | 2022-07-22 | 2022-07-29 |
 | [Jaiye \(Ihe Geme\)](https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Jaiye \(Ihe Geme\)](https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0) | 3:54 | 2022-07-22 | 2023-03-18 |
@@ -444,7 +445,7 @@
 | [VIP](https://open.spotify.com/track/4orL9o7BToP1jrzvwMO3gV) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [VIP](https://open.spotify.com/album/5REoa2uwPL4cw58uv686cR) | 3:07 | 2021-10-15 | 2022-07-27 |
 | [WAKA WAKA](https://open.spotify.com/track/51GphBzrIolTeEEsAj8nBP) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 2:48 | 2022-07-22 | 2022-07-26 |
 | [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 | 2023-04-14 | 2023-04-21 |
-| [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 |  |
+| [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 | 2024-11-22 |
 | [wande's bop \(feat\. SPINALL\)](https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:43 | 2024-08-30 |  |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-05-09 |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-06-21 |  |

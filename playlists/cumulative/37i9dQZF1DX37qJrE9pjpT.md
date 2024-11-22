@@ -2,9 +2,9 @@
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 
-> The hottest rap anthems from Tanzania all in one playlist\. Cover: Dogo Janja
+> The hottest rap anthems from Tanzania all in one playlist\. Cover: Msodoki Young Killer
 
-216 songs - 12 hr 5 min
+218 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hatuna Kesi](https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [BELLE 9](https://open.spotify.com/artist/2QFZXITfzIsjCiKBLdzESZ) | [Hatuna Kesi](https://open.spotify.com/album/7wC7ZrdSNo34fSvgitb4o5) | 3:17 | 2023-09-21 | 2023-12-09 |
 | [Hatuna Kesi](https://open.spotify.com/track/19dPNBIshTozSYco9XvOc6) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Hatuna Kesi](https://open.spotify.com/album/4PcFiqKFwpzhAaTFI5OWRI) | 3:14 | 2022-03-28 | 2023-02-24 |
 | [Hatupo Salama](https://open.spotify.com/track/7L3EdBTilFlvWBv4FZO7xP) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Makeba Mooncycle](https://open.spotify.com/artist/5KsfBIEuyfAPKvsgCocVqu), [Mundu Wa Musyi](https://open.spotify.com/artist/2H2Vvrk8ol9Ie7fuviHltA) | [Hatupo Salama](https://open.spotify.com/album/6ZMC9PU7nmFi4DbY7Vz4tA) | 2:59 | 2023-11-16 | 2024-06-21 |
+| [Heshimu Kazi Yangu](https://open.spotify.com/track/2m18A3BYNSDD8Ip69OJzUI) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [Super Nyota II](https://open.spotify.com/album/1kKkrQrdt54Eizm8qI2FqT) | 3:45 | 2024-11-21 |  |
 | [Hii Hapa](https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [Hii Hapa](https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo) | 4:18 | 2024-05-16 |  |
 | [Hobbies](https://open.spotify.com/track/0UwT5g5Y9i0CSS70QLAZaU) | [SAN AWARD](https://open.spotify.com/artist/2XSFwx92IDcFxGBcKghxKe) | [Hobbies](https://open.spotify.com/album/4iHVXzab9cNuWRPvyhiEVE) | 3:54 | 2022-09-02 | 2023-01-14 |
 | [HUJA BALEHE](https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [HUJA BALEHE](https://open.spotify.com/album/0viy408sbHRu92XTCfDquZ) | 3:26 | 2022-09-08 | 2023-11-11 |
@@ -87,7 +88,7 @@
 | [Kesho Njoo Dar](https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h) | [FreshlikeUhhh](https://open.spotify.com/artist/6KsXeVjMePiwK5H33s3Xk1) | [Kesho Njoo Dar](https://open.spotify.com/album/3X1Zk48cfTJrrCBp4vXYCq) | 2:36 | 2023-08-28 | 2024-01-20 |
 | [Khali champlin/KASUKU](https://open.spotify.com/track/6OoNk1BMjQ8v7urbPgLdkJ) | [Ebebé Jamal](https://open.spotify.com/artist/7AzVO32lt5KYfoYAxqu0UA) | [Khali champlin/KASUKU](https://open.spotify.com/album/1zyRqHQkLh9rHJkwD3wyse) | 3:02 | 2023-08-30 | 2024-04-19 |
 | [Kick\-Off](https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe) | [Nacha](https://open.spotify.com/artist/6y4QyXMrMWdhgSFY2JMbXt) | [TOP SCORER OF ALL TIME EP](https://open.spotify.com/album/1Dh42XiejQ9Vvo6YdedWfA) | 3:20 | 2022-03-28 | 2023-04-15 |
-| [King'ang'a](https://open.spotify.com/track/7hLeYjOa3EEQ8ShzQXrneK) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [King'ang'a](https://open.spotify.com/album/66tzb74hiCdWpcKW1yBLpe) | 3:06 | 2024-04-05 |  |
+| [King'ang'a](https://open.spotify.com/track/7hLeYjOa3EEQ8ShzQXrneK) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [King'ang'a](https://open.spotify.com/album/66tzb74hiCdWpcKW1yBLpe) | 3:06 | 2024-04-05 | 2024-11-22 |
 | [Leo Ni Leo](https://open.spotify.com/track/1qSR9BFCODz6yDMKgimJqQ) | [MansuLi](https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5), [Jay Moe](https://open.spotify.com/artist/5406S7GwLPP57ul2qF8QyM) | [Leo Ni Leo](https://open.spotify.com/album/4ZdSD7eR8W62uMscMMhLZd) | 3:31 | 2024-10-24 |  |
 | [Let It Burn](https://open.spotify.com/track/60obQuxUCQdPaNEmPEw0Mk) | [TKLA](https://open.spotify.com/artist/6RVLKP28vQb5yC3s2kbmdb) | [Let It Burn](https://open.spotify.com/album/2E7xLOgHzFwPRmamiT9cnz) | 2:16 | 2024-01-19 | 2024-04-06 |
 | [Lies](https://open.spotify.com/track/1UA1t90MOXTnFZk3WwnkqU) | [Amateur Lover](https://open.spotify.com/artist/1ZE4UK7ZSltKHeiEBzxYiR), [Mikantony](https://open.spotify.com/artist/0vRvoHjOMoUkKDlq5hSjIj) | [Lies](https://open.spotify.com/album/2jQWR4nSimQI9z66Kewo36) | 2:06 | 2024-01-11 | 2024-05-17 |
@@ -133,6 +134,7 @@
 | [Mwendo](https://open.spotify.com/track/1TsAHldApQnPEgvmQvNKCe) | [Sanja Kong](https://open.spotify.com/artist/55q78Mg6CQqciS0WHDwaEs) | [Mwendo](https://open.spotify.com/album/5kitENa6Vz6cOfaMQVSwgO) | 3:23 | 2024-07-04 | 2024-11-16 |
 | [My confession](https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL) | [Innomatix](https://open.spotify.com/artist/2N6seBgLo0Ec074O3v9NZB), [Justin lico](https://open.spotify.com/artist/130wK2o4WKZ5Jad06YoYzz) | [My confession](https://open.spotify.com/album/3Ko0dCltdrkx3tEfDCzNim) | 3:31 | 2022-07-08 | 2023-11-25 |
 | [My Life](https://open.spotify.com/track/6qFBaQwUOkyPi4QeFls77X) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [My Life](https://open.spotify.com/album/3TnjNHYeqU1UyYm4MYaToM) | 3:44 | 2022-03-28 | 2023-05-20 |
+| [My People](https://open.spotify.com/track/3MGJBtC4uaZKfpuFnumkNm) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [My People](https://open.spotify.com/album/2ezduPJYpwxepTwTrnVJ9G) | 3:39 | 2024-11-21 |  |
 | [Mzee Mbuzi](https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp) | [Kitaaolojia](https://open.spotify.com/album/1UK4Xl5OjQdJZsI52ZBewB) | 3:36 | 2022-03-28 | 2023-07-14 |
 | [Nakaba Koo](https://open.spotify.com/track/4aOcwNkD3CRHHCtQ3h8D5x) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF) | [Nakaba Koo](https://open.spotify.com/album/6NwoAKwmJk3jRb80PS2Apa) | 4:26 | 2024-03-29 | 2024-10-12 |
 | [Nduki \(feat\. dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 | 2024-06-27 |  |
@@ -177,7 +179,7 @@
 | [Show Time \- Remix](https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Suka](https://open.spotify.com/artist/6Q61rk0Kdz5axpxzP5Mi0a) | [Show Time \(Remix\)](https://open.spotify.com/album/3MEYAjOsRLYIU52XT3z3uO) | 4:23 | 2023-04-14 | 2024-03-08 |
 | [Siku 462](https://open.spotify.com/track/6Ra0c5H61aJLKRpkFhkAZz) | [PROFESSOR JAY](https://open.spotify.com/artist/1Q5oCRnwsddhlxhXLSXuiK), [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Siku 462](https://open.spotify.com/album/6tJOOG9u6TLa7teKtA0ctV) | 7:32 | 2023-11-10 | 2024-06-21 |
 | [Simba](https://open.spotify.com/track/2l8wY0txk1fyzzMsO4xnpb) | [Dwin](https://open.spotify.com/artist/0HR4vVbjPz5JGvvpgCMs40) | [270](https://open.spotify.com/album/2RMCXWL2xDneIhzzDo4CbW) | 3:34 | 2024-10-11 |  |
-| [Sinaga Swagga Session 7](https://open.spotify.com/track/7cNXGV0cY5iUO3HbHFFFRt) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [Sinaga Swagga Session 7](https://open.spotify.com/album/3mstvB7L8I1xQdZj5sXQQZ) | 5:13 | 2024-07-11 |  |
+| [Sinaga Swagga Session 7](https://open.spotify.com/track/7cNXGV0cY5iUO3HbHFFFRt) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [Sinaga Swagga Session 7](https://open.spotify.com/album/3mstvB7L8I1xQdZj5sXQQZ) | 5:13 | 2024-07-11 | 2024-11-22 |
 | [Sio Kwa Ubaya](https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Sio Kwa Ubaya](https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY) | 3:33 | 2022-12-09 | 2024-01-12 |
 | [Snitch](https://open.spotify.com/track/70fQtyXgdHUsFPVMX4bp2U) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg) | [Snitch](https://open.spotify.com/album/5bWC8S9mZB4X6ednDig2sO) | 2:16 | 2024-06-13 | 2024-11-08 |
 | [So Fresh](https://open.spotify.com/track/0hEej0cXVgYS36pLiTVcXK) | [Nisher](https://open.spotify.com/artist/6j9SLhRcXp56yxOvyibQ4f) | [Nisher](https://open.spotify.com/album/5wAq8k7BBOeHtkSKTdt9vH) | 4:12 | 2024-07-11 |  |

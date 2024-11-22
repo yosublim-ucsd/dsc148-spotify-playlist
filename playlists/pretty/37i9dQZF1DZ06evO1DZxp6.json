@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 219073,
+  "num_followers": 219126,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAB6H009qO3fhxO7Do/1lRWX",
+  "snapshot_id": "Zz0mgAAAAAD1vXQ80YoB9RmTmcu751x+",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Enamorada",
-        "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 141493,
-      "name": "Mis Muertos",
-      "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218040,
       "name": "Abracadabras (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Tributo",
-        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
       "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 257933,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
+      "duration_ms": 224739,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
     },
     {
       "added_at": null,
@@ -891,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
       },
       "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 224739,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
+      "duration_ms": 257933,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
     },
     {
       "added_at": null,

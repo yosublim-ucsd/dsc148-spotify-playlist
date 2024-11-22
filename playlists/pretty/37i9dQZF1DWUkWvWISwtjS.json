@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 443579,
+  "num_followers": 443604,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Ao Vivo Em Macei\u00f3",
         "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
       },
@@ -711,6 +691,22 @@
       "duration_ms": 168380,
       "name": "C\u00ea N\u00e3o Me Superou - Ao Vivo",
       "url": "https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Cuidado Que Eu Te Supero",
+        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cuidado Que Eu Te Supero",
+      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -779,22 +775,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Cuidado Que Eu Te Supero",
-        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cuidado Que Eu Te Supero",
-      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Aqui Em Casa (ao Vivo)",
         "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
       },
@@ -815,6 +795,42 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
+        "name": "Mui\u00e9 Brava",
+        "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
+      },
+      "artists": [
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "duration_ms": 201560,
+      "name": "Mui\u00e9 brava",
+      "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
+        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
         "name": "Made In Studio",
         "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Mui\u00e9 Brava",
-        "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
-      },
-      "artists": [
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 201560,
-      "name": "Mui\u00e9 brava",
-      "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto (Ao vivo)",
-        "url": "https://open.spotify.com/album/6O0AwDKVK4lXQXr5vLGwzz"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 177129,
-      "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto - Ao vivo",
-      "url": "https://open.spotify.com/track/4hqb6iFfQOdYj7OVWAxFbs"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Quem \u00c9 Que Chora por Mim?",
         "url": "https://open.spotify.com/album/1ouVcfM2cZO9rz3xcm5OxJ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 233316,
       "name": "Quem \u00c9 Que Chora por Mim?",
       "url": "https://open.spotify.com/track/4TlOLjhHZjoVGF0qbQc996"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto (Ao vivo)",
+        "url": "https://open.spotify.com/album/6O0AwDKVK4lXQXr5vLGwzz"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 177129,
+      "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto - Ao vivo",
+      "url": "https://open.spotify.com/track/4hqb6iFfQOdYj7OVWAxFbs"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
-        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
+        "name": "Mc Len\u00e7ol e Dj Travesseiro",
+        "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
       },
       "artists": [
         {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 191161,
-      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
-      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
+      "duration_ms": 178700,
+      "name": "MC Len\u00e7ol e DJ Travesseiro",
+      "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Mc Len\u00e7ol e Dj Travesseiro",
-        "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
+        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 178700,
-      "name": "MC Len\u00e7ol e DJ Travesseiro",
-      "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
+      "duration_ms": 191161,
+      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
     },
     {
       "added_at": "2024-07-15 13:13:58",

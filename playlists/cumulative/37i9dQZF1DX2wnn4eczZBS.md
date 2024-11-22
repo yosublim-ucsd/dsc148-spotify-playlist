@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: S10
 
-122 songs - 6 hr 23 min
+123 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [alle buren moeten dood](https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A) | 3:10 | 2024-10-22 |  |
 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 | 2024-06-26 | 2024-11-08 |
 | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/track/3yKjaxF1VWjzJXJ1uL8l03) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd) | [Als Jij Zegt Dat Het Liefde Is](https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB) | 3:24 | 2024-09-12 |  |
+| [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 | 2024-11-21 |  |
 | [Amerika + Bang zullen ze leven](https://open.spotify.com/track/4EXpcNXlT7Mdakwn3F95i5) | [Roos Rebergen](https://open.spotify.com/artist/3IUUGmmR8STIAtcg7qfDkZ), [SunSunSunOrchestra](https://open.spotify.com/artist/3hthcItgH8bgHoAwlD7exZ) | [Roos Rebergen & SunSunSun Orchestra](https://open.spotify.com/album/2xSVjtVjhCrCuievPEMAsH) | 5:47 | 2024-10-22 |  |
 | [Bevrijd Me](https://open.spotify.com/track/0gahCzF8XX2DqQKJzQQWgR) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Alleen Bij Mij](https://open.spotify.com/album/169JAJ4TYcBRDSw86oGa2B) | 3:44 | 2024-06-26 | 2024-10-23 |
 | [Blijf](https://open.spotify.com/track/4ap3sNRDT70SYLiyaQUhoY) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Blijf](https://open.spotify.com/album/0IHyCLajI8fimyu9fouxos) | 3:46 | 2024-11-14 |  |
@@ -70,7 +71,7 @@
 | [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2024-10-24 |  |
 | [Koude Kermis](https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Koude Kermis](https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR) | 2:49 | 2024-07-25 | 2024-08-30 |
 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 | 2024-11-14 |  |
-| [liefde is lang](https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [liefde is lang](https://open.spotify.com/album/7IcwezgetR4kkeGAtOlzhx) | 3:24 | 2024-09-12 |  |
+| [liefde is lang](https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [liefde is lang](https://open.spotify.com/album/7IcwezgetR4kkeGAtOlzhx) | 3:24 | 2024-09-12 | 2024-11-22 |
 | [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 | 2024-11-15 |
 | [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 |  |
 | [masker](https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ik ben soms bang in het donker](https://open.spotify.com/album/2lWHBuyE13th6358dardao) | 3:09 | 2024-06-26 | 2024-09-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: IRAIDA",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 150965,
       "name": "Ador, Ador",
       "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
@@ -318,6 +318,28 @@
       "duration_ms": 133398,
       "name": "Bahebek",
       "url": "https://open.spotify.com/track/5Ks0xMrdqAQhzTEoRKrDDv"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
     },
     {
       "album": {
@@ -938,7 +960,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164895,
       "name": "eRAI",
       "url": "https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8"
@@ -960,7 +982,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 190400,
       "name": "Faruri",
       "url": "https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr"
@@ -989,6 +1011,46 @@
     },
     {
       "album": {
+        "name": "Forever 18",
+        "url": "https://open.spotify.com/album/0KfAxkfKqDiX8SKCMbcMlb"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Forever 18",
+      "url": "https://open.spotify.com/track/3klHXW9tj8nuQY0LwaiMy4"
+    },
+    {
+      "album": {
+        "name": "F\u0103-\u021bi num\u0103rul",
+        "url": "https://open.spotify.com/album/1J2POqIj515c455uR3hkyP"
+      },
+      "artists": [
+        {
+          "name": "Damian & Brothers",
+          "url": "https://open.spotify.com/artist/36ddmqY1toa8sWvyYDBqFn"
+        },
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198036,
+      "name": "F\u0103-\u021bi num\u0103rul",
+      "url": "https://open.spotify.com/track/7gdvXyK82he3mbsJ2H5dAI"
+    },
+    {
+      "album": {
         "name": "Gura ta",
         "url": "https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s"
       },
@@ -1004,6 +1066,28 @@
       "duration_ms": 165820,
       "name": "Gura ta",
       "url": "https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg"
+    },
+    {
+      "album": {
+        "name": "Hai sictir",
+        "url": "https://open.spotify.com/album/6nHXiWsDwFSJhRgmkUL4lw"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Hai sictir",
+      "url": "https://open.spotify.com/track/1dc5vfOUOPNLs8GG64cfz3"
     },
     {
       "album": {
@@ -1142,6 +1226,24 @@
       "duration_ms": 181224,
       "name": "Inca O Noapte",
       "url": "https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx"
+    },
+    {
+      "album": {
+        "name": "Inimi",
+        "url": "https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176756,
+      "name": "Inimi",
+      "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
     },
     {
       "album": {
@@ -1374,6 +1476,28 @@
       "duration_ms": 173200,
       "name": "L\u00e2ng\u0103 tine",
       "url": "https://open.spotify.com/track/0mSWgUPuFoEI0Exf6BKvzS"
+    },
+    {
+      "album": {
+        "name": "L\u00c2NG\u0102 TINE E FAIN",
+        "url": "https://open.spotify.com/album/3MD8csHCBSfPrHcwxuSikh"
+      },
+      "artists": [
+        {
+          "name": "Kamelia",
+          "url": "https://open.spotify.com/artist/5eTYZk0BrCzlQ1JiLRSwW1"
+        },
+        {
+          "name": "George Hora",
+          "url": "https://open.spotify.com/artist/4uHCVd0E4sjWhy6ipMfALw"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166799,
+      "name": "L\u00c2NG\u0102 TINE E FAIN",
+      "url": "https://open.spotify.com/track/4mNnUpzpOMqBdnew4wbB9x"
     },
     {
       "album": {
@@ -1850,7 +1974,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 139800,
       "name": "Parfum de dam\u0103",
       "url": "https://open.spotify.com/track/3UPJ2sj2n7TW3yP5MYC2G2"
@@ -2064,7 +2188,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 175901,
       "name": "Prin\u021bul din Belair",
       "url": "https://open.spotify.com/track/3UGVjCOvhsaUgxhyUW9nXZ"
@@ -2286,7 +2410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 200592,
       "name": "S\u0103 Fii Tu",
       "url": "https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A"
@@ -2460,7 +2584,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201889,
       "name": "Tu, Omule",
       "url": "https://open.spotify.com/track/7xbSg9L3XUoSR6vBCKWF3D"
@@ -2500,6 +2624,50 @@
       "duration_ms": 182110,
       "name": "Ultima Balad\u0103",
       "url": "https://open.spotify.com/track/3Y58pJSJZOCfKENlSSJfL9"
+    },
+    {
+      "album": {
+        "name": "Ultimul Dans",
+        "url": "https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Ultimul Dans",
+      "url": "https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR"
+    },
+    {
+      "album": {
+        "name": "Ultimul s\u0103rut",
+        "url": "https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Project",
+          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Ultimul s\u0103rut",
+      "url": "https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2"
     },
     {
       "album": {
@@ -2576,7 +2744,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 179505,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6ghiYBEodEMT9PMWEmk2Lv"

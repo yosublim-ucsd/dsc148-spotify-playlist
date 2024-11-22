@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Knosis \| Artwork: Nejc Prah
 
-147 songs - 8 hr 44 min
+149 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,8 @@
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-08-07 |  |
 | [Bad Behavior](https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Bad Behavior](https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B) | 3:19 | 2024-09-19 |  |
 | [Bad Motives](https://open.spotify.com/track/7vF708LVxSGzwM8lZEGrnE) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx), [Nathan Biddles](https://open.spotify.com/artist/4UajuhayMUbreIAuKQ9jsW) | [Bad Motives](https://open.spotify.com/album/4PiJXeJKNoHWAkjI4MLfmV) | 3:55 | 2024-10-25 |  |
-| [Bandwagoning](https://open.spotify.com/track/52I0p8mYztsUhXiOw7NL1n) | [Coilguns](https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH) | [Bandwagoning](https://open.spotify.com/album/1APnMqioUqVr7gGhj6a9aH) | 4:41 | 2024-10-25 |  |
-| [Baptism of Fire](https://open.spotify.com/track/3Uibazaf5GqFgyhGYGgq5Z) | [Punitive Damage](https://open.spotify.com/artist/32puPZDhSygVTfmi1hQUlQ) | [Baptism of Fire](https://open.spotify.com/album/5TleQ7jv24XhAyvmtqpFuE) | 1:28 | 2024-10-09 |  |
+| [Bandwagoning](https://open.spotify.com/track/52I0p8mYztsUhXiOw7NL1n) | [Coilguns](https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH) | [Bandwagoning](https://open.spotify.com/album/1APnMqioUqVr7gGhj6a9aH) | 4:41 | 2024-10-25 | 2024-11-22 |
+| [Baptism of Fire](https://open.spotify.com/track/3Uibazaf5GqFgyhGYGgq5Z) | [Punitive Damage](https://open.spotify.com/artist/32puPZDhSygVTfmi1hQUlQ) | [Baptism of Fire](https://open.spotify.com/album/5TleQ7jv24XhAyvmtqpFuE) | 1:28 | 2024-10-09 | 2024-11-22 |
 | [Bazooka](https://open.spotify.com/track/01VdiTMVpkFzzegz9VpDIh) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Bazooka](https://open.spotify.com/album/6CYsi2RE2ThxH068VqqeYg) | 2:49 | 2024-08-07 |  |
 | [Bind](https://open.spotify.com/track/10u2Moizl0LxgYdqE40Qbv) | [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Bind](https://open.spotify.com/album/59thVU5JwLgrsMlcdObFob) | 2:35 | 2024-08-07 | 2024-10-03 |
 | [Blind](https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:59 | 2024-08-21 | 2024-09-26 |
@@ -105,6 +105,7 @@
 | [PLAY2WIN](https://open.spotify.com/track/0P6qL69O0oXgHOsrMxvQTf) | [Winnerz Circle](https://open.spotify.com/artist/2JZ4Q1qLVtmQbDavWG90Vm), [J.O.Y](https://open.spotify.com/artist/0opBBQ9Ixf0alXuV7fuUuQ) | [PLAY2WIN / IMITATION NOT FLATTERY](https://open.spotify.com/album/4rUw2Htt0M4g7XyFqFM3mu) | 2:47 | 2024-08-21 | 2024-10-03 |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-08-07 | 2024-10-10 |
 | [Pray](https://open.spotify.com/track/51vgMochoqsIX5SZEhhXDi) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Pray](https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu) | 4:07 | 2024-10-25 |  |
+| [Primitive](https://open.spotify.com/track/0TdYGyJIBeP03IzYbY62U4) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Primitive](https://open.spotify.com/album/2UM5crfGgcP091UDXfZHsN) | 3:30 | 2024-11-21 |  |
 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-09-25 |  |
 | [Radiant](https://open.spotify.com/track/1WsNQUIHDgya2psMeRVoG5) | [OBEYER](https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q) | [Second Sun](https://open.spotify.com/album/1OQwuRnYVMlHwZQVDomb8f) | 4:19 | 2024-09-19 |  |
 | [Repetition](https://open.spotify.com/track/3ptxyqSBfqRJEYG7tVIPGt) | [Kill Her First](https://open.spotify.com/artist/43WLjICoMA2ntPmFRHXuww) | [Repetition](https://open.spotify.com/album/4pOPejffwz2v70LuFBfRRl) | 3:21 | 2024-10-25 | 2024-11-14 |
@@ -129,6 +130,7 @@
 | [Suffer Eternally](https://open.spotify.com/track/5AHgyKx5cyzo7gXL8FZz3B) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [Suffer Eternally](https://open.spotify.com/album/4108Dqy1reh2T90Y3MkJhJ) | 4:12 | 2024-08-07 |  |
 | [Séance](https://open.spotify.com/track/6xQ8uphGxXzJDUziFapHZZ) | [Speed of Light](https://open.spotify.com/artist/3cNtvAs3DPIj46Z5BOU4fD) | [Séance](https://open.spotify.com/album/0JwzG7MVtzubfIOf0L445q) | 3:55 | 2024-11-08 |  |
 | [TAKE A STEP AWAY](https://open.spotify.com/track/6j9CkpIGMPCpi9NMTVQojT) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:04 | 2024-08-21 | 2024-09-26 |
+| [Talk Real](https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Talk Real](https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o) | 2:55 | 2024-11-21 |  |
 | [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 | 2024-08-21 | 2024-10-03 |
 | [Tear The Sky Apart](https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Into A Sea Of Gloom](https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4) | 2:07 | 2024-08-07 | 2024-10-17 |
 | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/album/2yaFrFB0fmseL2s5maXwBO) | 2:47 | 2024-10-02 |  |

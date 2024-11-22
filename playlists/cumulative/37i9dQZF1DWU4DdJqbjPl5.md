@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  Odeal
 
-412 songs - 21 hr 57 min
+413 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Reason](https://open.spotify.com/track/59Dr6KNsWhcygOZ8yr8zLO) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [LOVRBOY](https://open.spotify.com/album/4b6RqYu2RjfGqrcB9NH3Rf) | 3:33 | 2024-02-09 |  |
 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 | 2022-03-17 | 2022-04-29 |
 | [Remember](https://open.spotify.com/track/26YdVfiTU42rvEG9oDOvQA) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 5:57 | 2022-04-28 | 2022-07-23 |
-| [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 | 2023-12-01 |  |
+| [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 | 2023-12-01 | 2024-11-22 |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2021-05-21 | 2023-06-09 |
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 |  |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-22 |  |
@@ -358,6 +358,7 @@
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 |  |
 | [TAKE IT SLOW](https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3) | 2:58 | 2023-06-30 | 2023-08-19 |
 | [Take Me](https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Take Me](https://open.spotify.com/album/59JZYS1uK0A5znLlD8XQfQ) | 2:26 | 2024-08-02 |  |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2023-10-27 | 2023-10-30 |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 | 2023-09-22 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-09-24 | 2023-04-17 |

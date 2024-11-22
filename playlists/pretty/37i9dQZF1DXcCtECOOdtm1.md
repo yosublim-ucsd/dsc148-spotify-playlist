@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,054 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,072 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 39 | [Sweet Rhapsody](https://open.spotify.com/track/2ws62XcfeV7PCT2exLmBEN) | [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ささやかれた夢の話](https://open.spotify.com/album/4vvaXPl77ekeetmDhltVOr) | 4:14 |
 | 40 | [It's a Beautiful Day](https://open.spotify.com/track/62bLC5IoSiLW7T33u5h4Yw) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [a Beautiful Day](https://open.spotify.com/album/47rfXgKpkpIEcNLBWHdsnR) | 6:36 |
 | 41 | [PERFECT RAINBOW](https://open.spotify.com/track/2lDjU7CavwuSkwiQUs9Jwl) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 4:22 |
-| 42 | [あじさい](https://open.spotify.com/track/0yvb3jHGLbEo1MZ6cF1YE2) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [東京 \(Remastered\)](https://open.spotify.com/album/7hrYhSbjMtj30znHza9iLh) | 4:19 |
+| 42 | [あじさい](https://open.spotify.com/track/0yvb3jHGLbEo1MZ6cF1YE2) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [東京 \(Remastered）](https://open.spotify.com/album/7hrYhSbjMtj30znHza9iLh) | 4:19 |
 | 43 | [WATERMELON](https://open.spotify.com/track/1d50tLud20gqKmw5eb6mah) | [東京スカパラダイスオーケストラ featuring 高橋 幸宏](https://open.spotify.com/artist/4NqUoQh0v3j74orTCFvWUw), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/4Lm4iHEuF9cJN5JKQqVaCu) | 5:36 |
 | 44 | [Winter's Tale～冬物語～](https://open.spotify.com/track/5AT7qJJDxEkiUndaVSJEv2) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [EXTRA EDITION](https://open.spotify.com/album/0r3z686Jr4dfGNKuRwNh1V) | 5:17 |
 | 45 | [淡い季節のサングラス](https://open.spotify.com/track/2LVc1ovrUpZiB7Q2SY7BvV) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/710F6Uqw8f953NxyS3V4iK) | 4:47 |

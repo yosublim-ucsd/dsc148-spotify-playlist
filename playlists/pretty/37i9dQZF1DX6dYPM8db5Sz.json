@@ -1,13 +1,257 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=6utSTSAfRUauXA8Qe3OqUg\">Tyler Page</a>",
-  "num_followers": 12261,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB?si=jOS7pCKISI2vBaD-nb_P_Q\">an00k</a>",
+  "num_followers": 12266,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzZy4AAAAADr3/ngf8t8k9fs9HMcaluc",
+  "snapshot_id": "Zz+tYAAAAADZso2R3+sI9FmHG5DCmWzZ",
   "tracks": [
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "sunset & roses",
+        "url": "https://open.spotify.com/album/10Oa7cFcgtdBaeTjEnthsr"
+      },
+      "artists": [
+        {
+          "name": "an00k",
+          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
+        },
+        {
+          "name": "Yxng Davi",
+          "url": "https://open.spotify.com/artist/1ADCOPx0ZFZiVU03ooLSLI"
+        }
+      ],
+      "duration_ms": 140326,
+      "name": "sunset & roses",
+      "url": "https://open.spotify.com/track/3m7KdxvTm2ywnQJlv1LhVo"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "gods last chance",
+        "url": "https://open.spotify.com/album/1tslCSJOQI9uIFLgG91BLJ"
+      },
+      "artists": [
+        {
+          "name": "Jaycov",
+          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
+        }
+      ],
+      "duration_ms": 124180,
+      "name": "gods last chance",
+      "url": "https://open.spotify.com/track/3pUPww70x2A3mYl9Tvbra9"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "I Won't Come to Your Opening",
+        "url": "https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Won't Come to Your Opening",
+      "url": "https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 142286,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Beautiful Soul",
+        "url": "https://open.spotify.com/album/38uhWlkhtJc5PiLeJObr1r"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/5kvisLh0xQePh6bl9zpsw0"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "BEST DAYS",
+        "url": "https://open.spotify.com/album/76r0NTq2JUfD1SdxZL2rxs"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 182159,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/4oDvB9ewZTsXxj7aM9TJME"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Broken Heart Ache",
+        "url": "https://open.spotify.com/album/4arNBVVlfwRs09hwFLGiOK"
+      },
+      "artists": [
+        {
+          "name": "Emma Hearne",
+          "url": "https://open.spotify.com/artist/0haG9bnYlkguLdKQkcxECf"
+        }
+      ],
+      "duration_ms": 228995,
+      "name": "Broken Heart Ache",
+      "url": "https://open.spotify.com/track/04cXAacAi5zESJa4IqaW4r"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Mudglimmer",
+        "url": "https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3"
+      },
+      "artists": [
+        {
+          "name": "The Slaps",
+          "url": "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
+        }
+      ],
+      "duration_ms": 209748,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "The Coffee Song",
+        "url": "https://open.spotify.com/album/1gV7rqhbljFN4mo6UNWM90"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 163055,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/3MHWrzXokOmEw7ffYYyVB2"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "honey,",
+        "url": "https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "not far from home",
+      "url": "https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6"
+    },
     {
       "added_at": "2024-11-14 22:00:00",
       "album": {

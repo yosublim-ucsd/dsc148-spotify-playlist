@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-305 songs - 11 hr 49 min
+306 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [December](https://open.spotify.com/track/0JzcRVJEZIgbxSKhQxxUXd) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Lofi Christmas](https://open.spotify.com/album/5uC1btcQmcIyTZaAfoPlnZ) | 2:08 | 2021-12-20 | 2022-11-12 |
 | [December](https://open.spotify.com/track/17xn1pufA0IlyxxdDZ6cSu) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [December](https://open.spotify.com/album/5VfRCAnMEbgyvxWc3RuDnI) | 3:00 | 2021-12-20 |  |
 | [December Dreams](https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [December Dreams](https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX) | 2:25 | 2022-12-09 |  |
-| [Deck the halls](https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Deck the halls](https://open.spotify.com/album/0EQvJ7JspgRjDVzwnD1P5j) | 1:31 | 2022-11-11 |  |
+| [Deck the Halls](https://open.spotify.com/track/5adz821oMgN7c2UQtRFZci) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Deck the Halls](https://open.spotify.com/album/76x5R74QcMi5HErYZk9kU8) | 2:11 | 2024-11-21 |  |
+| [Deck the halls](https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Deck the halls](https://open.spotify.com/album/0EQvJ7JspgRjDVzwnD1P5j) | 1:31 | 2022-11-11 | 2024-11-22 |
 | [Deck the Halls \- Lo\-Fi](https://open.spotify.com/track/03cWzdHw0bWbHEv8wYgAzg) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [A Merry Lo\-Fi Christmas](https://open.spotify.com/album/2EHasP4Jvp7sbqgAN2wcF0) | 2:40 | 2022-09-30 | 2023-10-20 |
 | [Deck the Lofi Halls](https://open.spotify.com/track/1X5Y2ONMvGzfkhHEyeJ4ZU) | [Chillchief](https://open.spotify.com/artist/6rzaAMP3jPVJjfuRUdlpIw) | [A Short Album With Christmas Songs but Lofi](https://open.spotify.com/album/1PQSTaySOgGqHgTHPEeUL8) | 3:03 | 2021-12-20 | 2022-11-12 |
 | [Deck the Lofi Halls](https://open.spotify.com/track/3470cOkNqWN4bWaf4fwvfU) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Deck the Lofi Halls](https://open.spotify.com/album/6EkPnBiwR03KZWMAC9fJ1o) | 2:49 | 2022-12-16 | 2023-10-20 |

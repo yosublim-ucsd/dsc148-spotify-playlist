@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-505 songs - 1 day 14 hr 11 min
+506 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Foi O Mar](https://open.spotify.com/track/5fgialP0VoYUFWxNZiTCcz) | [Trem Azul](https://open.spotify.com/artist/5KVFylsVrjfG4kbtps5KPL) | [Trem Azul](https://open.spotify.com/album/1YAQNCP8AFjF5Udt3cx1Of) | 5:02 | 2022-08-31 | 2022-10-01 |
 | [Follia D'Amore](https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte) | [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA) | [Reality And Fantasy \(Special Edition\)](https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ) | 3:34 | 2024-03-28 |  |
 | [For a Film](https://open.spotify.com/track/3bExIkI6AUuWrlvdJnuo4G) | [Mirko Signorile](https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq) | [Soundtrack Cinema \(Music for Movie\)](https://open.spotify.com/album/307CWhGmG2NeFRVTrcBl5d) | 3:57 | 2023-06-04 | 2023-09-18 |
-| [Frevo](https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv) | [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1), [Nando Di Modugno](https://open.spotify.com/artist/5CULFq6PQEgNcdiOygxmg3) | [Tabacco e Caffè](https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH) | 4:51 | 2023-01-30 |  |
+| [Frevo](https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv) | [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1), [Nando Di Modugno](https://open.spotify.com/artist/5CULFq6PQEgNcdiOygxmg3) | [Tabacco e Caffè](https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH) | 4:51 | 2023-01-30 | 2024-11-22 |
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2023-12-05 | 2024-03-29 |
 | [Fun](https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE) | [Oona Rea](https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb) | [First Name: Oona](https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ) | 2:18 | 2024-06-28 | 2024-08-27 |
 | [G\. Continuo](https://open.spotify.com/track/3AysbOjtY3rcDSnLEjHv6e) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Koine'](https://open.spotify.com/album/4PfDpofG0M3YtpFjpmXg1t) | 6:25 | 2023-06-04 | 2023-09-18 |
@@ -273,6 +273,7 @@
 | [Le Solite Cose](https://open.spotify.com/track/0EPjgMUOhFoWDYp5Kau4Fw) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy) | [Rava Plays Rava](https://open.spotify.com/album/4zNq65EwCEDfs2mTih9bNs) | 3:22 | 2022-09-30 | 2022-11-03 |
 | [Le Tue Mani](https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V) | [Alice Ricciardi](https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl) | [Comes Love](https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS) | 4:52 | 2022-09-30 |  |
 | [Le tue mani](https://open.spotify.com/track/3EQBxBOsXav9kwK0C9JMYL) | [David Linx](https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Diederik Wissels](https://open.spotify.com/artist/6SWdCdXOByDrKuxMlKp6Bv), [Cristophe Wallemme](https://open.spotify.com/artist/4Ul6vA6PQhUTiqMyBS6yq8), [Helge Andreas Norbakken](https://open.spotify.com/artist/5oa2iDJMbJVVspUSq2IiAb) | [The Whistleblowers \(Heartland\)](https://open.spotify.com/album/6c0hQ1Dx9rXx00BeWlZGQ1) | 5:49 | 2023-12-05 | 2024-03-29 |
+| [Leaving](https://open.spotify.com/track/6aT0JSqcYOtGuLIf9Q1G6K) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1), [Alex Hitchcock](https://open.spotify.com/artist/4MrFF8cBU4dYrJsCeBdNrZ) | [Leaving](https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI) | 3:55 | 2024-11-21 |  |
 | [Leggenda di Natale](https://open.spotify.com/track/3phNu679aziBfazRXI9Bvs) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Tutti Morimmo A Stento](https://open.spotify.com/album/4dbMr1mMSVcgIYO3AWPzdv) | 3:14 | 2022-12-05 | 2024-03-29 |
 | [Legno madre](https://open.spotify.com/track/6xNKdsKUXGKCKUaEWfSImr) | [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Orchestra da Camera di Perugia](https://open.spotify.com/artist/4wdRVs254wZzDiIBCt8Q0w) | [Legnomadre](https://open.spotify.com/album/1xTKPmFBkxblN9ixReOu2z) | 3:56 | 2023-09-17 | 2023-12-06 |
 | [Lei balla sola](https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf) | [Simona Molinari](https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq) | [Petali](https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp) | 3:37 | 2024-03-28 |  |

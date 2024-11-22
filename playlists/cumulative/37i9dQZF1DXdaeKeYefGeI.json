@@ -954,7 +954,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 179990,
       "name": "Elke Dag",
       "url": "https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf"
@@ -2074,6 +2074,24 @@
       "duration_ms": 262588,
       "name": "Mientje van den Boogaard",
       "url": "https://open.spotify.com/track/4uPmfhVZFl4Ak4ub3dvgGj"
+    },
+    {
+      "album": {
+        "name": "Mijn Amsterdam",
+        "url": "https://open.spotify.com/album/31ky7zsR9bDcsRwqVfoIJE"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Mijn Amsterdam",
+      "url": "https://open.spotify.com/track/0g1315hg3X5St8hBlydASA"
     },
     {
       "album": {

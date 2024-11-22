@@ -2,14 +2,15 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Alex Wyse
+> ✨giovane✨pop✨z✨ Cover: SETTEMBRE
 
-553 songs - 1 day 1 hr 39 min
+559 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17](https://open.spotify.com/track/7J1wott2v8q4kbP5UjjQuk) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [17](https://open.spotify.com/album/00nTDbMzKSFKnUAB4j8Mp9) | 1:42 | 2023-12-21 | 2024-02-02 |
 | [17 anni \(PANICO\)](https://open.spotify.com/track/5nlJwV1jDu4hhQdY3YsG8W) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [17 anni \(PANICO\)](https://open.spotify.com/album/06CnNoCSq9iwCseD2KDGcK) | 3:01 | 2023-06-22 | 2023-09-22 |
+| [2 DI NOTTE](https://open.spotify.com/track/3A6cNspp2smTRIRqlZwhk1) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [2 DI NOTTE](https://open.spotify.com/album/7cKDdcCQOppoElo1DzF0b0) | 3:00 | 2024-11-21 |  |
 | [20 Dicembre \(Noemi\)](https://open.spotify.com/track/6NgsEjP5Wn8qc04cvyAuii) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [20 Dicembre \(Noemi\)](https://open.spotify.com/album/3zjsmCOak7GKV3qPASmS8n) | 3:00 | 2023-12-21 | 2024-01-05 |
 | [24h di te](https://open.spotify.com/track/2arD8XpkIC8KQo5zZGcHUG) | [Sho](https://open.spotify.com/artist/74ET2yJNDxhCknVeZeid1w), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [24h di te](https://open.spotify.com/album/4rJizY7pS72c6s9gny5kaB) | 2:40 | 2024-07-04 | 2024-08-23 |
 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 | 2023-03-23 | 2023-06-23 |
@@ -347,6 +348,7 @@
 | [Notte Fonda](https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Notte Fonda](https://open.spotify.com/album/5yaW6sXoUdLpL9VBOdvjs2) | 2:50 | 2024-04-11 | 2024-07-05 |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-03-14 | 2024-05-17 |
 | [NULLA \(feat\. chiello\)](https://open.spotify.com/track/2cUgStjffnjioamiHZV96J) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:00 | 2023-09-21 | 2023-10-20 |
+| [Nuvola](https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Nuvola](https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1) | 3:00 | 2024-11-21 |  |
 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 | 2023-12-12 | 2024-06-21 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2023-03-23 | 2023-05-05 |
 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 | 2024-10-17 |  |
@@ -381,10 +383,12 @@
 | [PER UN ATTIMO CON TE](https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [illumina](https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa) | 2:36 | 2024-10-03 |  |
 | [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 |  |
 | [PERDONIAMOCI LO STESSO](https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [PERDONIAMOCI LO STESSO](https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08) | 3:11 | 2024-08-01 | 2024-10-08 |
+| [PERICOLOSA](https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [PERICOLOSA](https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG) | 2:40 | 2024-11-21 |  |
 | [PERLE](https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [PERLE](https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf) | 3:10 | 2023-12-07 | 2024-02-07 |
 | [Persi per niente](https://open.spotify.com/track/7Cb4kwCTNKG0myTbARa6if) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Persi per niente](https://open.spotify.com/album/0XK1pERvepV7TQCT2e9UBy) | 2:54 | 2024-09-26 |  |
 | [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-12 | 2023-10-27 |
 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 | 2023-07-20 | 2024-02-02 |
+| [PIAZZALE MICHELANGELO](https://open.spotify.com/track/4qWPde1KTA5SgkZzcLrLHK) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [PIAZZALE MICHELANGELO](https://open.spotify.com/album/7BDts23lmlCtOadFH8yOyV) | 2:18 | 2024-11-21 |  |
 | [piccola](https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [piccola](https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL) | 2:15 | 2024-10-17 |  |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
 | [Piccoli ricordi](https://open.spotify.com/track/1RVmeUoqYnxutbrNAGB4cB) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Piccoli ricordi](https://open.spotify.com/album/6EfIFS3aHzUkIgyLN8zmlg) | 2:07 | 2023-03-23 | 2023-04-14 |
@@ -545,6 +549,8 @@
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-11-20 |  |
 | [Via da me](https://open.spotify.com/track/2SFFxjmuvx91Yt4gCnLTO2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [Via da me](https://open.spotify.com/album/7KWbI2xW8wVSwWQUyKcXFQ) | 3:03 | 2023-10-05 | 2023-11-10 |
 | [Viole e Violini](https://open.spotify.com/track/60ir328nxqnjOLXxvsqmHm) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Viole e Violini](https://open.spotify.com/album/6FPMkD4uAvcGVYxLQ0bm7Y) | 2:50 | 2023-12-12 | 2024-03-15 |
+| [violenza](https://open.spotify.com/track/1yVLQv8SOjFIbV2IKCdy4s) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [violenza](https://open.spotify.com/album/0NMw6VlB1DUFMyoOX5v8Os) | 3:03 | 2024-11-21 |  |
+| [Virtù dei fragili](https://open.spotify.com/track/2zQorQicWbyz2piMgK0U3b) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Virtù dei fragili](https://open.spotify.com/album/6gAyQzb1vrS1epJLXxNhxF) | 3:02 | 2024-11-21 |  |
 | [Vita morte e miracoli](https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 2:40 | 2023-05-18 | 2023-06-09 |
 | [VITA TERREMOTO](https://open.spotify.com/track/0xHJK91SKPQ2jeR2RTJdP2) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [IL SOLE DENTRO](https://open.spotify.com/album/50LwyAhGEJXyf8EZW3dIAa) | 2:02 | 2024-05-16 | 2024-07-12 |
 | [VITAMINE](https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [VITAMINE](https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9) | 2:17 | 2024-08-01 | 2024-10-18 |

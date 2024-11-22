@@ -711,6 +711,22 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
+        "name": "Bien Bonito",
+        "url": "https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR"
+      },
+      "artists": [
+        {
+          "name": "Calacas Jazz Band",
+          "url": "https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr"
+        }
+      ],
+      "duration_ms": 169040,
+      "name": "Cantina Band",
+      "url": "https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
         "name": "Electric Sunset",
         "url": "https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 213680,
       "name": "Raska Yu (feat. Ara Malikian)",
       "url": "https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
-        "name": "Bien Bonito",
-        "url": "https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR"
-      },
-      "artists": [
-        {
-          "name": "Calacas Jazz Band",
-          "url": "https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Cantina Band",
-      "url": "https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc"
     },
     {
       "added_at": "2023-07-07 06:00:00",

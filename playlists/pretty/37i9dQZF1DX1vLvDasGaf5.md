@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,292 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,328 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 20 | [ヤッターマンの歌](https://open.spotify.com/track/4ruBZ38vNUGI1tvv35sh4A) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:20 |
 | 21 | [TOUGH BOY](https://open.spotify.com/track/4CdGjLwGO2BUNsHfFeiFjv) | [Tomcat](https://open.spotify.com/artist/2ZJY5tulC0ChXVlR8KxPyJ) | [アニメ北斗の拳 オリジナルE.P.](https://open.spotify.com/album/3TXGqlSWEfrRPFZT1ccukx) | 3:50 |
 | 22 | [ひょっこりひょうたん島](https://open.spotify.com/track/0OtLgyGzmLV82nXpgJel4M) | [ひばり児童合唱団](https://open.spotify.com/artist/2uTsoHGIkGX1Yz0VKOSD4l), [前川陽子](https://open.spotify.com/artist/6jthsP9pciBAA9JhNuUUzC) | [昭和の童謡のあゆみ～キングレコード90周年を彩る100曲](https://open.spotify.com/album/0SxDabDf6VyAO5wJE9vbth) | 1:05 |
-| 23 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
-| 24 | [鏡の中のアクトレス](https://open.spotify.com/track/5Aqe880HNpsQAkjWqWGqdu) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:35 |
+| 23 | [鏡の中のアクトレス](https://open.spotify.com/track/5Aqe880HNpsQAkjWqWGqdu) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:35 |
+| 24 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
 | 25 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 |
 | 26 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
 | 27 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 |

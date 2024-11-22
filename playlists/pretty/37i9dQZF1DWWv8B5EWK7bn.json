@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 193205,
+  "num_followers": 193270,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -417,6 +417,22 @@
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
+      "added_at": "2024-08-19 21:05:23",
+      "album": {
+        "name": "Rocky Top Ballads",
+        "url": "https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 219811,
+      "name": "Days Incomplete",
+      "url": "https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9"
+    },
+    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "a.s.o.",
@@ -435,22 +451,6 @@
       "duration_ms": 174893,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
-    },
-    {
-      "added_at": "2024-08-19 21:05:23",
-      "album": {
-        "name": "Rocky Top Ballads",
-        "url": "https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 219811,
-      "name": "Days Incomplete",
-      "url": "https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
-      "added_at": "2024-02-23 00:16:26",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
       "added_at": "2023-10-22 04:22:10",
       "album": {
         "name": "Suono Assente",
@@ -591,6 +575,22 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
+    },
+    {
+      "added_at": "2024-02-23 00:16:26",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
       "added_at": "2024-01-04 01:06:11",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
+      "added_at": "2024-04-15 18:24:59",
+      "album": {
+        "name": "Love in Constant Spectacle",
+        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Love in Constant Spectacle",
+      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Inner Song",
@@ -749,36 +765,24 @@
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
     },
     {
-      "added_at": "2024-04-15 18:24:59",
+      "added_at": "2023-08-15 18:36:31",
       "album": {
-        "name": "Love in Constant Spectacle",
-        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+        "name": "Sus Dog",
+        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
       },
       "artists": [
         {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Love in Constant Spectacle",
-      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        },
         {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+      "duration_ms": 276045,
+      "name": "Sus Dog",
+      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -801,24 +805,20 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2023-08-15 18:36:31",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Sus Dog",
-        "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
         }
       ],
-      "duration_ms": 276045,
-      "name": "Sus Dog",
-      "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2024-08-19 20:57:31",
@@ -969,6 +969,22 @@
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
     },
     {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
       "added_at": "2024-07-18 21:58:08",
       "album": {
         "name": "Taste The Air (Julia Holter Mix)",
@@ -989,38 +1005,6 @@
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
-      "added_at": "2024-09-01 14:54:22",
-      "album": {
-        "name": "Always a Stranger",
-        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
-      },
-      "artists": [
-        {
-          "name": "Tindersticks",
-          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
-        }
-      ],
-      "duration_ms": 227704,
-      "name": "New World - Edit",
-      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
-    },
-    {
-      "added_at": "2023-06-02 00:41:12",
-      "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
-    },
-    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -1039,6 +1023,22 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
+      "added_at": "2024-09-01 14:54:22",
+      "album": {
+        "name": "Always a Stranger",
+        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+      },
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+        }
+      ],
+      "duration_ms": 227704,
+      "name": "New World - Edit",
+      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
     },
     {
       "added_at": "2022-10-05 14:12:30",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW"
     },
     {
-      "added_at": "2024-07-09 04:26:27",
-      "album": {
-        "name": "Bang (Peanut Butter Wolf Remix)",
-        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 248312,
-      "name": "Bang - Peanut Butter Wolf Remix",
-      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
-    },
-    {
       "added_at": "2024-03-21 23:27:59",
       "album": {
         "name": "Eno (Original Motion Picture Soundtrack)",
@@ -1119,6 +1103,22 @@
       "duration_ms": 232093,
       "name": "All I Remember",
       "url": "https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi"
+    },
+    {
+      "added_at": "2024-07-09 04:26:27",
+      "album": {
+        "name": "Bang (Peanut Butter Wolf Remix)",
+        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 248312,
+      "name": "Bang - Peanut Butter Wolf Remix",
+      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
     },
     {
       "added_at": "2024-01-03 18:45:56",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2024-09-05 18:07:55",
-      "album": {
-        "name": "Estar\u00e1n aparcando",
-        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
-      },
-      "artists": [
-        {
-          "name": "Espanto",
-          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
-        }
-      ],
-      "duration_ms": 140727,
-      "name": "Estar\u00e1n aparcando",
-      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
-    },
-    {
       "added_at": "2022-03-30 04:28:53",
       "album": {
         "name": "Sans oublier",
@@ -1335,6 +1319,22 @@
       "duration_ms": 170737,
       "name": "La Roseraie",
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
+      "added_at": "2024-09-05 18:07:55",
+      "album": {
+        "name": "Estar\u00e1n aparcando",
+        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
+      },
+      "artists": [
+        {
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+        }
+      ],
+      "duration_ms": 140727,
+      "name": "Estar\u00e1n aparcando",
+      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1353,20 +1353,24 @@
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
-      "added_at": "2024-07-05 06:00:00",
+      "added_at": "2022-08-19 01:53:48",
       "album": {
-        "name": "Para los P\u00e1jaros / Carlos",
-        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
+        "name": "artclubdiscotheque",
+        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
       },
       "artists": [
         {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
-      "duration_ms": 268640,
-      "name": "Para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
+      "duration_ms": 335433,
+      "name": "artclubdiscotheque",
+      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1401,24 +1405,20 @@
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
-      "added_at": "2022-08-19 01:53:48",
+      "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "artclubdiscotheque",
-        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
+        "name": "Para los P\u00e1jaros / Carlos",
+        "url": "https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v"
       },
       "artists": [
         {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
         }
       ],
-      "duration_ms": 335433,
-      "name": "artclubdiscotheque",
-      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+      "duration_ms": 268640,
+      "name": "Para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1535,6 +1519,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
     },
     {
-      "added_at": "2024-06-27 18:33:54",
-      "album": {
-        "name": "ECRP (Bonus Track)",
-        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "ECRP - Bonus Track",
-      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
-    },
-    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -1627,6 +1611,22 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
+    },
+    {
+      "added_at": "2024-06-27 18:33:54",
+      "album": {
+        "name": "ECRP (Bonus Track)",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "ECRP - Bonus Track",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -1681,6 +1681,26 @@
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
+        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
+      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
+    },
+    {
       "added_at": "2024-04-22 20:13:36",
       "album": {
         "name": "Get Real - Sounds Right Mix (feat. NATURE)",
@@ -1703,26 +1723,6 @@
       "duration_ms": 257273,
       "name": "Get Real - Sounds Right Mix (feat. NATURE)",
       "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
       "added_at": "2024-01-03 18:37:44",

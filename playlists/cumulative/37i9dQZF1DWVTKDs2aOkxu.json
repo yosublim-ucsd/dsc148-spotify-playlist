@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. The return of Sam Fender: music to run wild and free to \ud83e\udd0d\ud83d\udda4",
+  "description": "The best indie music of the moment. Introducing jasmine.4.t \ud83d\udc18",
   "name": "The Indie List",
   "tracks": [
     {
@@ -658,6 +658,24 @@
       "duration_ms": 283404,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
+    },
+    {
+      "album": {
+        "name": "Blood On The Hospital Floor",
+        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Blood On The Hospital Floor",
+      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
     },
     {
       "album": {
@@ -1707,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Ginkgo",
+        "url": "https://open.spotify.com/album/7jnqB6h2Ctvm2dpT91oyRR"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157394,
+      "name": "Ginkgo",
+      "url": "https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP"
+    },
+    {
+      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
       },
@@ -1830,6 +1866,24 @@
       "duration_ms": 142560,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6RxkHlSHlJAWQth05E8hIK"
+    },
+    {
+      "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg"
     },
     {
       "album": {
@@ -2360,7 +2414,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176897,
       "name": "kickin",
       "url": "https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts"
@@ -2400,6 +2454,24 @@
       "duration_ms": 175852,
       "name": "Kiss Me Again",
       "url": "https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt"
+    },
+    {
+      "album": {
+        "name": "Kiss My Apocalypse",
+        "url": "https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228699,
+      "name": "Kiss My Apocalypse",
+      "url": "https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8"
     },
     {
       "album": {
@@ -3038,6 +3110,24 @@
       "duration_ms": 170603,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4MDw775ERuTHWo1ndIfOLg"
+    },
+    {
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "album": {
@@ -3780,7 +3870,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 199760,
       "name": "Sorry I'm Late, I Didn't Want To Come",
       "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
@@ -3874,7 +3964,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 215143,
       "name": "Summer Of Hate",
       "url": "https://open.spotify.com/track/3s3fD692V8r3UCT7nqcoZe"

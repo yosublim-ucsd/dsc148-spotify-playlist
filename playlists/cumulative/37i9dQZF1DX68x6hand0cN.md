@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-212 songs - 10 hr 40 min
+213 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2022-07-28 | 2023-02-03 |
 | [Low](https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ) | [Kidda](https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj) | [Low](https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id) | 3:14 | 2023-02-02 |  |
 | [Luna](https://open.spotify.com/track/4zNQMKy3jLlWvAah2s1WGl) | [Ladron](https://open.spotify.com/artist/4ukBIpYtjftGdlgAnc1E5V), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Moeman](https://open.spotify.com/artist/0wCD0zZxxhHU91kYZolMnu) | [Luna](https://open.spotify.com/album/6UBnhnwPBXn96Nc7B58csV) | 3:22 | 2022-07-28 | 2023-07-08 |
-| [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2022-07-28 |  |
+| [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2022-07-28 | 2024-11-22 |
 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-28 | 2023-03-28 |
 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 | 2024-06-14 |  |
 | [Mango \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/2xFfjs4zBBmwX9nsZPkcat) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Mango \(Extrait de la BO de « En Passant Pécho »\)](https://open.spotify.com/album/0qod7rru7wX4DgxE0oZoN1) | 3:04 | 2022-07-28 | 2022-11-29 |
@@ -176,6 +176,7 @@
 | [Shikidim](https://open.spotify.com/track/3FP6Q4fQWU6nyXVwX5DgMa) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC) | [Shikidim](https://open.spotify.com/album/4nckwHAozyiuAPeiQdaBzC) | 2:08 | 2023-03-16 |  |
 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-07-28 | 2024-04-11 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2022-07-28 |  |
+| [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-11-21 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-07-07 | 2024-04-19 |
 | [soso](https://open.spotify.com/track/6rTC6IsG0y0TYoGggKpccz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:03 | 2024-03-28 |  |
 | [Souhila](https://open.spotify.com/track/6RdwpQ01MVtJ10tyJDaxkE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Souhila](https://open.spotify.com/album/6cS3kHSrmFMJFcisWs2lHR) | 2:44 | 2022-07-28 | 2022-11-29 |

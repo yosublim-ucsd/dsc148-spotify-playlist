@@ -1,6 +1,6 @@
 {
   "description": "brutality and technicality collide. fresh metalcore awaits. Cover: Kublai Khan TX",
-  "num_followers": 936230,
+  "num_followers": 936259,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "they\u2019re all around us",
-        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 204540,
-      "name": "they\u2019re all around us",
-      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "Vol. 3",
         "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217830,
       "name": "Spare Me",
       "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "they\u2019re all around us",
+        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "they\u2019re all around us",
+      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
+        "name": "Below The Belt (feat. Set It Off)",
+        "url": "https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 192054,
+      "name": "Below The Belt (feat. Set It Off)",
+      "url": "https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -487,30 +507,6 @@
       "duration_ms": 198521,
       "name": "I Was Alive",
       "url": "https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
-        "name": "Barely Breathing (feat. Against The Current)",
-        "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Barely Breathing (feat. Against The Current)",
-      "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -547,22 +543,26 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Below The Belt (feat. Set It Off)",
-        "url": "https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj"
+        "name": "Barely Breathing (feat. Against The Current)",
+        "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         },
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
         }
       ],
-      "duration_ms": 192054,
-      "name": "Below The Belt (feat. Set It Off)",
-      "url": "https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM"
+      "duration_ms": 190200,
+      "name": "Barely Breathing (feat. Against The Current)",
+      "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Exhumed",
-        "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 234854,
-      "name": "Exhumed",
-      "url": "https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 189000,
       "name": "Skin & Bones",
       "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "Exhumed",
+        "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 234854,
+      "name": "Exhumed",
+      "url": "https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Infection",
-        "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 167867,
-      "name": "Infection",
-      "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "Infection",
+        "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 167867,
+      "name": "Infection",
+      "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
         "name": "Continuum (Feat. Niklas Karlsson)",
         "url": "https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 257405,
       "name": "Continuum - Feat. Niklas Karlsson",
       "url": "https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Reincarnate: 10 Year Anniversary",
-        "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Reincarnate: Reincarnated",
-      "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "SELF HELL",
         "url": "https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 262537,
       "name": "RAINBOWS",
       "url": "https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "Reincarnate: 10 Year Anniversary",
+        "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 216661,
+      "name": "Reincarnate: Reincarnated",
+      "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "a piece of me i never let you find.",
-        "url": "https://open.spotify.com/album/1yh863utXtpMuPlIbzM2Uh"
-      },
-      "artists": [
-        {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 211224,
-      "name": "Drowning Therapy",
-      "url": "https://open.spotify.com/track/60QCZRnLWQVvFBCzLY2dvR"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "TOMBSTONE",
         "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2xNcN7hzWIHZliCDIa4lHx"
+        "name": "a piece of me i never let you find.",
+        "url": "https://open.spotify.com/album/1yh863utXtpMuPlIbzM2Uh"
       },
       "artists": [
         {
-          "name": "Dead Eyes",
-          "url": "https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2"
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1BgqoOYdf6eQfznp9o4tmE"
+      "duration_ms": 211224,
+      "name": "Drowning Therapy",
+      "url": "https://open.spotify.com/track/60QCZRnLWQVvFBCzLY2dvR"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1023,6 +1007,22 @@
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2xNcN7hzWIHZliCDIa4lHx"
+      },
+      "artists": [
+        {
+          "name": "Dead Eyes",
+          "url": "https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1BgqoOYdf6eQfznp9o4tmE"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "What I'll Leave Behind",
         "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 165500,
       "name": "Blood For Blood",
       "url": "https://open.spotify.com/track/6Eswy1mOFIbBOsFrmDoxVE"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/1PGYKp7eI6CflkDMpc8Gse"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
+        "name": "Maybe Death Is All I Need",
+        "url": "https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg"
       },
       "artists": [
         {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
         }
       ],
-      "duration_ms": 244254,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
+      "duration_ms": 113414,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1563,22 +1579,6 @@
       "duration_ms": 209240,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4fXGTlfKRv5v4QBr3ynAFP"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
-        "name": "Maybe Death Is All I Need",
-        "url": "https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
-        }
-      ],
-      "duration_ms": 113414,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "In My Restless Dreams",
-        "url": "https://open.spotify.com/album/7pWzD45IVsafPTJ29l1zV1"
-      },
-      "artists": [
-        {
-          "name": "Advents",
-          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
-        },
-        {
-          "name": "FKA Rayne",
-          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
-        }
-      ],
-      "duration_ms": 217910,
-      "name": "In My Restless Dreams",
-      "url": "https://open.spotify.com/track/7tIc67JrRCNochXI1fH22l"
-    },
-    {
-      "added_at": "2024-11-08 18:23:26",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN"
       },
@@ -1659,18 +1639,22 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Nefarious",
-        "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
+        "name": "In My Restless Dreams",
+        "url": "https://open.spotify.com/album/7pWzD45IVsafPTJ29l1zV1"
       },
       "artists": [
         {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+          "name": "Advents",
+          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
+        },
+        {
+          "name": "FKA Rayne",
+          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
         }
       ],
-      "duration_ms": 251722,
-      "name": "Nefarious",
-      "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
+      "duration_ms": 217910,
+      "name": "In My Restless Dreams",
+      "url": "https://open.spotify.com/track/7tIc67JrRCNochXI1fH22l"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1691,22 +1675,18 @@
     {
       "added_at": "2024-11-08 18:23:26",
       "album": {
-        "name": "Forgive and Forget (feat. Fit For A King)",
-        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
+        "name": "Nefarious",
+        "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Forgive And Forget (feat. Fit For A King)",
-      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
+      "duration_ms": 251722,
+      "name": "Nefarious",
+      "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
     },
     {
       "added_at": "2024-11-08 18:23:26",
@@ -1727,6 +1707,26 @@
       "duration_ms": 139826,
       "name": "New Devil",
       "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
+    },
+    {
+      "added_at": "2024-11-08 18:23:26",
+      "album": {
+        "name": "Forgive and Forget (feat. Fit For A King)",
+        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Forgive And Forget (feat. Fit For A King)",
+      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-11-08 18:23:26",

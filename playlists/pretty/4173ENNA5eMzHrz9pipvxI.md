@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Bassjackers
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Thierry van der Warth
 
 [Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,384 likes - 26 songs - 1 hr 13 min
 
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 25 | [Fade Till Sunrise, Pt\. II](https://open.spotify.com/track/4OetBYftRQNNjy3coOYxS0) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Fade Till Sunrise, Pt\. II](https://open.spotify.com/album/0gqRGw4p2zrFsau8fASai1) | 2:53 |
 | 26 | [The Big Fake](https://open.spotify.com/track/10BpmIujqYT8HvsnNzrstN) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [The Big Fake](https://open.spotify.com/album/0Svzzm1IUI9RjzP5a08ikg) | 2:33 |
 
-Snapshot ID: `AAAeYeI0jhX0vb50eN0zp0jeewndm2bt`
+Snapshot ID: `AAAeYsPUfmH7NTXIQrmrHSkJ7bTkwJCm`

@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: Milledenials\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: RENE\)
 
-141 songs - 9 hr 48 min
+142 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [Beauty Little Eyes](https://open.spotify.com/track/08eCVhr2ka4SPw79tXPC4h) | [vievv](https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn) | [Beauty Little Eyes](https://open.spotify.com/album/5up5XKBnZLcCQoGoKLUys0) | 3:56 | 2024-06-27 | 2024-08-31 |
 | [Bitterness](https://open.spotify.com/track/0QnAfmv5CwrotxI8W1ZsGQ) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [Bitterness](https://open.spotify.com/album/4vU22oFOy1LjDvipzgwim7) | 3:53 | 2024-06-27 | 2024-10-18 |
 | [Blind](https://open.spotify.com/track/2vl6muvMqOel3VCmfVkS7R) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Blind](https://open.spotify.com/album/6nblYc0KDe1v0KsfOtNIEn) | 4:21 | 2024-10-31 |  |
-| [BLUE WINE](https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci) | [EÄZZ.](https://open.spotify.com/artist/1ybobnnnwcuBzeWoae5LEY) | [Soft,Frail and Blue](https://open.spotify.com/album/1bM9Qt42jRnIlZIIMqkxdb) | 4:13 | 2024-06-27 |  |
-| [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-06-27 |  |
+| [BLUE WINE](https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci) | [EÄZZ.](https://open.spotify.com/artist/1ybobnnnwcuBzeWoae5LEY) | [Soft,Frail and Blue](https://open.spotify.com/album/1bM9Qt42jRnIlZIIMqkxdb) | 4:13 | 2024-06-27 | 2024-11-22 |
+| [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-06-27 | 2024-11-22 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 |  |
 | [Burning \- English ver.](https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning \(English ver.\)](https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer) | 3:54 | 2024-08-08 | 2024-11-08 |
 | [Butterfly Effect](https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Pink](https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz) | 4:26 | 2024-11-07 |  |
@@ -35,8 +35,8 @@
 | [Don't Get Yourself Dry](https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Don't Get Yourself Dry](https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6) | 4:20 | 2024-06-27 | 2024-08-09 |
 | [Dreaming Alone or Together \- Bonus Track](https://open.spotify.com/track/7LXVCqcHEXUKze1GuyHjeO) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [Dreaming Alone or Together \(Bonus Track\)](https://open.spotify.com/album/32jDcy43AE0wow0QmAS7zO) | 3:52 | 2024-06-27 | 2024-08-31 |
 | [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-19 |  |
-| [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 |  |
-| [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 |  |
+| [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 | 2024-11-22 |
+| [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 | 2024-11-22 |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 | 2024-08-31 |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 |  |
 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 | 2024-06-27 |  |
@@ -66,7 +66,7 @@
 | [jitensha](https://open.spotify.com/track/6v4169idGWlzblAiw2dB67) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [jitensha](https://open.spotify.com/album/6pFZUsvreZ5qcY8ksvOlHH) | 6:26 | 2024-06-27 |  |
 | [Just.](https://open.spotify.com/track/3Yaajfj3UQmyjzqwKm8uge) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [18PERSONAL](https://open.spotify.com/album/6oICItoCzy52AKxGR0Kw9i) | 1:05 | 2024-10-10 | 2024-11-08 |
 | [Kerat Timur 1](https://open.spotify.com/track/0vPTDcCeINEM6ziGmSavFI) | [Cigarettes Wedding](https://open.spotify.com/artist/4QGjxmeTxzV2mp5hfvCk5P), [Cholil Mahmud](https://open.spotify.com/artist/0xuJCV7Ce4Pp6eU4k5TAxQ) | [Kerat Timur 1](https://open.spotify.com/album/3YoWCTVGUOiOcqXTa4oaGd) | 3:52 | 2024-06-27 |  |
-| [Ketika Tenggelam \(Dan Kisah Kekalahan Lainnya\)](https://open.spotify.com/track/0OTpMmO1nqhNWSMDGo7Hx8) | [Nearcrush](https://open.spotify.com/artist/49gTNnP0nBneo2YuCOpcAT), [En Sunbath](https://open.spotify.com/artist/2Xm0wRbjkkvqBKCSby8GuT) | [Saturasi \- EP](https://open.spotify.com/album/2cwHtiakXpGZX90W1bizHi) | 4:14 | 2024-06-27 |  |
+| [Ketika Tenggelam \(Dan Kisah Kekalahan Lainnya\)](https://open.spotify.com/track/0OTpMmO1nqhNWSMDGo7Hx8) | [Nearcrush](https://open.spotify.com/artist/49gTNnP0nBneo2YuCOpcAT), [En Sunbath](https://open.spotify.com/artist/2Xm0wRbjkkvqBKCSby8GuT) | [Saturasi \- EP](https://open.spotify.com/album/2cwHtiakXpGZX90W1bizHi) | 4:14 | 2024-06-27 | 2024-11-22 |
 | [Kota Lelah](https://open.spotify.com/track/4N4nalAYeIlr70eSbJDKvs) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Sonic Archives](https://open.spotify.com/album/4aJJcG9I4Cj4Q8KTCMzd9K) | 3:14 | 2024-06-27 | 2024-11-08 |
 | [Lambda \(λ\)](https://open.spotify.com/track/1kUVmT99zwgXFAtnoLSbk9) | [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [Commit Death](https://open.spotify.com/album/1WcDZaLkfS0dJGN5r9PRec) | 7:40 | 2024-09-05 |  |
 | [Leave](https://open.spotify.com/track/6YENNctHxnfa4U2AXD8h8Q) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fade](https://open.spotify.com/album/3tBmyjfGvGRPPZV32BeGF7) | 4:01 | 2024-06-27 |  |
@@ -87,8 +87,8 @@
 | [Nanjung](https://open.spotify.com/track/4cpFpsTAoS1EgV5ztYtVTu) | [Ingar](https://open.spotify.com/artist/4GFcXWDJ60btiDRJ332luR) | [Nanjung](https://open.spotify.com/album/4qGR6mTKJqZ0oqUkDqVSTC) | 4:18 | 2024-06-27 |  |
 | [Never Forget](https://open.spotify.com/track/60OeY7NzwVLBaQm8sGnad9) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Never Forget](https://open.spotify.com/album/56ZEqUHU1HvBoN3oOxF4Sq) | 4:07 | 2024-09-26 |  |
 | [no\_thing](https://open.spotify.com/track/7Fh3k7xOMQoy2t1d30CowT) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [no\_thing](https://open.spotify.com/album/2IOiijnNO407GV2j6tlyWn) | 3:08 | 2024-06-27 |  |
-| [North](https://open.spotify.com/track/7t0gATi7yocV67rRNEXcDp) | [모즈다이브](https://open.spotify.com/artist/0ntQ7sGnJMIHCjp63GbQ2e) | [THE STASIS OF HUMANITY](https://open.spotify.com/album/1elGHd8JIVzG7r92vCPW1n) | 5:03 | 2024-06-27 |  |
-| [Nostalgia](https://open.spotify.com/track/78ar3KjOd7cJIZJqk67mnw) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 3:52 | 2024-06-27 |  |
+| [North](https://open.spotify.com/track/7t0gATi7yocV67rRNEXcDp) | [모즈다이브](https://open.spotify.com/artist/0ntQ7sGnJMIHCjp63GbQ2e) | [THE STASIS OF HUMANITY](https://open.spotify.com/album/1elGHd8JIVzG7r92vCPW1n) | 5:03 | 2024-06-27 | 2024-11-22 |
+| [Nostalgia](https://open.spotify.com/track/78ar3KjOd7cJIZJqk67mnw) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 3:52 | 2024-06-27 | 2024-11-22 |
 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 | 2024-08-30 |  |
 | [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 | 2024-06-27 |  |
 | [Nothing And Everything](https://open.spotify.com/track/0Wg3WsiL8g0mfbmrysUo2w) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/47gPq3W3W8PD0namaGWmtC) | 5:45 | 2024-06-27 |  |
@@ -96,6 +96,7 @@
 | [Ocean Song](https://open.spotify.com/track/5BdN7AYSSSsAZvob5jA1wZ) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Catflap](https://open.spotify.com/album/5BdtL5nKzSEgRrdXqOFTqa) | 3:04 | 2024-11-07 |  |
 | [One day, the sky that I stood still and looked at while walking on the crosswalk in front of Dunchon\-dong Station](https://open.spotify.com/track/6b97W8MSTHi58KAqZPUi4V) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 6:32 | 2024-06-27 |  |
 | [Our Summer Days](https://open.spotify.com/track/7sOOqL5a968IFjVAwgsMCl) | [Belinda May](https://open.spotify.com/artist/0n8J6ZvqzlHjbJTAXvfmnr) | [Our Summer Days / Dreams](https://open.spotify.com/album/4KHJ9jDWNyI8B03KPcnldl) | 3:28 | 2024-06-27 |  |
+| [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2024-11-21 |  |
 | [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-17 |  |
 | [p.m.5:00](https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx) | [the slow films](https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk) | [p.m.5:00 / 夢の中で](https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO) | 3:19 | 2024-08-08 |  |
 | [Painless](https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Painless](https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk) | 5:15 | 2024-07-14 |  |
@@ -128,7 +129,7 @@
 | [Summer](https://open.spotify.com/track/6KfBtlxnO1lwrvySAoynQD) | [feelslikeyou](https://open.spotify.com/artist/7lemqCn2A256qHn0D4YX0A) | [Haze / Summer](https://open.spotify.com/album/7bK4irNUSn6AwdmuVsPMkd) | 2:46 | 2024-06-27 | 2024-10-11 |
 | [Summertime Has Come](https://open.spotify.com/track/5mUmvuw7jUcSYwa7NiGcxT) | [Lucys Meet Dopamine](https://open.spotify.com/artist/5MLCXwFSeVrl4A1aE1Z9F5) | [25​\-​35​°​C](https://open.spotify.com/album/1jo7RgR3mTETN56hjaFW9B) | 6:15 | 2024-06-27 | 2024-10-11 |
 | [Tawdry Clip](https://open.spotify.com/track/2JV2ut3HQ7y03WKSZQpqnN) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI) | [Morning Fragment](https://open.spotify.com/album/5kojgQgmj165AIeqoJb1ow) | 3:13 | 2024-06-27 | 2024-08-31 |
-| [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 |  |
+| [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 | 2024-11-22 |
 | [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 |  |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 | 2024-08-09 |
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 |  |

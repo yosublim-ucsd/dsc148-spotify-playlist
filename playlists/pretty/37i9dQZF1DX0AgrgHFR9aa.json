@@ -1,35 +1,35 @@
 {
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Limsa d'Aulnay x Soprano",
-  "num_followers": 167718,
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Costa",
+  "num_followers": 167742,
   "original_name": "Lyricistes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaA8AAAAACTDYt5hN688eivwantjv+e",
+  "snapshot_id": "Zz+7cAAAAACIzg4IPOflE4Iu6Sw3AkP2",
   "tracks": [
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Si tu savais",
-        "url": "https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt"
+        "name": "Violence Culture Sport & Fashion",
+        "url": "https://open.spotify.com/album/0NlQ2thSbdlRKgiNmHYVQr"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
         },
         {
-          "name": "Limsa d'Aulnay",
-          "url": "https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5"
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
         }
       ],
-      "duration_ms": 169346,
-      "name": "Si tu savais",
-      "url": "https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1"
+      "duration_ms": 209946,
+      "name": "FABRICS (feat. Jungle Jack)",
+      "url": "https://open.spotify.com/track/3fwjyWXsDiTFnyNpbheCf8"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "Quatri\u00e8me mur",
         "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
@@ -53,23 +53,7 @@
       "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "Pyramide 2",
         "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
@@ -85,7 +69,43 @@
       "url": "https://open.spotify.com/track/2raEeGwUcTICrIdX6tXdru"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Si tu savais",
+        "url": "https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Limsa d'Aulnay",
+          "url": "https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "Si tu savais",
+      "url": "https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "Chambre 140 (Part.3)",
         "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/0jn1yQPQRWWjnxpoTfUr4g"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "LA HAINE",
         "url": "https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT"
@@ -121,7 +141,23 @@
       "url": "https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "N\u00e9vrose",
+        "url": "https://open.spotify.com/album/5BxvGGsp97gBZraoI5PWA4"
+      },
+      "artists": [
+        {
+          "name": "Ormaz",
+          "url": "https://open.spotify.com/artist/1p7DzCCPD24P5IUVosY850"
+        }
+      ],
+      "duration_ms": 185836,
+      "name": "N\u00e9vrose",
+      "url": "https://open.spotify.com/track/4ZMxmaHhsZh7SoAbXj3KDF"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "H21",
         "url": "https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v"
@@ -137,7 +173,87 @@
       "url": "https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "V (freestyle)",
+        "url": "https://open.spotify.com/album/0FUhUUGdljHsSjDRe5x3bP"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        }
+      ],
+      "duration_ms": 172282,
+      "name": "V (freestyle)",
+      "url": "https://open.spotify.com/track/5iJfXfTbeOB7aOvHazG76n"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "La boh\u00e8me.",
+        "url": "https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "duration_ms": 113170,
+      "name": "La boh\u00e8me.",
+      "url": "https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "\u00c7a parle de",
+        "url": "https://open.spotify.com/album/1MJBxB6MS3Rv8pLpgKXlHI"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        }
+      ],
+      "duration_ms": 206862,
+      "name": "\u00c7a parle de",
+      "url": "https://open.spotify.com/track/7cI4ZRhQKSvtDj4cgJytRC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Plus fort que l'orage",
+        "url": "https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "duration_ms": 150399,
+      "name": "Plus fort",
+      "url": "https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Matin de juin",
+        "url": "https://open.spotify.com/album/1255z6t7PBSwnxsmAeaIkv"
+      },
+      "artists": [
+        {
+          "name": "Cielbleu",
+          "url": "https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Matin de juin",
+      "url": "https://open.spotify.com/track/3l0fM43Npl57Mbf0IGagHI"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "Merci la vie pour les douleurs",
         "url": "https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW"
@@ -153,7 +269,7 @@
       "url": "https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "10h du mat'",
         "url": "https://open.spotify.com/album/0sp22JJLnrGFIPILQtBxzG"
@@ -177,71 +293,31 @@
       "url": "https://open.spotify.com/track/1haWmfk43cAfj6M4O3t7NY"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "\u00c7a parle de",
-        "url": "https://open.spotify.com/album/1MJBxB6MS3Rv8pLpgKXlHI"
+        "name": "Poussez vous 5",
+        "url": "https://open.spotify.com/album/1iDVIDiFOJv4sZhbuiSKOO"
       },
       "artists": [
         {
-          "name": "Demi Portion",
-          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
-        }
-      ],
-      "duration_ms": 206862,
-      "name": "\u00c7a parle de",
-      "url": "https://open.spotify.com/track/7cI4ZRhQKSvtDj4cgJytRC"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "La boh\u00e8me.",
-        "url": "https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J"
-      },
-      "artists": [
+          "name": "Lacraps",
+          "url": "https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u"
+        },
         {
-          "name": "Sa\u00eff",
-          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
-        }
-      ],
-      "duration_ms": 113170,
-      "name": "La boh\u00e8me.",
-      "url": "https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "LES ENFANTS MENTENT",
-        "url": "https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ"
-      },
-      "artists": [
+          "name": "Limsa d'Aulnay",
+          "url": "https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5"
+        },
         {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+          "name": "Souffrance",
+          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
         }
       ],
-      "duration_ms": 264295,
-      "name": "LES ENFANTS MENTENT",
-      "url": "https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg"
+      "duration_ms": 266153,
+      "name": "Poussez vous 5",
+      "url": "https://open.spotify.com/track/2kHX4FsWy0dDitXd7bO9L4"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "50 piges",
-        "url": "https://open.spotify.com/album/1Kk6V6yamt9KDmLJDMuF3U"
-      },
-      "artists": [
-        {
-          "name": "Zoxea",
-          "url": "https://open.spotify.com/artist/2uuaoYjn1Pk0Y3NOyMR0KR"
-        }
-      ],
-      "duration_ms": 149354,
-      "name": "50 piges",
-      "url": "https://open.spotify.com/track/4qK7AT3mb1J5oLyALf5i8j"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "Cesium",
         "url": "https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm"
@@ -261,7 +337,107 @@
       "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "La Cour des Miracles",
+      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Quand le ciel pleure",
+        "url": "https://open.spotify.com/album/6JSZjNFVq6uyTEt3XjPV7X"
+      },
+      "artists": [
+        {
+          "name": "Civil",
+          "url": "https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quand le ciel pleure",
+      "url": "https://open.spotify.com/track/7eLkES6hbPilpzuepSxtRb"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "LES ENFANTS MENTENT",
+        "url": "https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        }
+      ],
+      "duration_ms": 264295,
+      "name": "LES ENFANTS MENTENT",
+      "url": "https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j"
+      },
+      "artists": [
+        {
+          "name": "IZAID",
+          "url": "https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Le Cr\u00e8ve-c\u0153ur",
+        "url": "https://open.spotify.com/album/7aDHFOxhG8Wi1L2vK71wZ9"
+      },
+      "artists": [
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/4kz8Ax2USW4Xae9WSQHVec"
+        }
+      ],
+      "duration_ms": 184732,
+      "name": "Chateaubriand",
+      "url": "https://open.spotify.com/track/6BKVou9qldPNdkn9t0MmxD"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "merci",
+        "url": "https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b"
+      },
+      "artists": [
+        {
+          "name": "Wallace Cleaver",
+          "url": "https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "pardon",
+      "url": "https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -285,39 +461,23 @@
       "url": "https://open.spotify.com/track/3Ird3tXm20WmN24qZPxNpZ"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "A la bien, avec la haine",
-        "url": "https://open.spotify.com/album/0elHVySe9X5VZCc7jTQ5AS"
+        "name": "E-TRAP",
+        "url": "https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c"
       },
       "artists": [
         {
-          "name": "Double Zulu",
-          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
+          "name": "TH",
+          "url": "https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC"
         }
       ],
-      "duration_ms": 146341,
-      "name": "A la bien, avec la haine",
-      "url": "https://open.spotify.com/track/1VXm7U859FXJI9eRUMKlNN"
+      "duration_ms": 224626,
+      "name": "PILULE",
+      "url": "https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "DEMAIN EST ANNUL\u00c9",
-        "url": "https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR"
-      },
-      "artists": [
-        {
-          "name": "Jeune Mort",
-          "url": "https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU"
-        }
-      ],
-      "duration_ms": 160075,
-      "name": "PHOBOS",
-      "url": "https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "Dire je t'aime",
         "url": "https://open.spotify.com/album/0UmPcapIPeSln1hGyKL3jb"
@@ -337,183 +497,7 @@
       "url": "https://open.spotify.com/track/4rIuseQQZbyvOzkTOJL4Ul"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "LA CHUTE",
-        "url": "https://open.spotify.com/album/2fdig9S3CKRYHkYJ25THdD"
-      },
-      "artists": [
-        {
-          "name": "Lasco",
-          "url": "https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "LA CHUTE",
-      "url": "https://open.spotify.com/track/7tV20ulK6Ms7pmo5OegLdi"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j"
-      },
-      "artists": [
-        {
-          "name": "IZAID",
-          "url": "https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Hypersensible",
-        "url": "https://open.spotify.com/album/4htuLPF4SwG7olgdCEzqLQ"
-      },
-      "artists": [
-        {
-          "name": "Gringe",
-          "url": "https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt"
-        },
-        {
-          "name": "Georgio",
-          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/6U3Kjh33x2xsSih30teQtw"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "le bus - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c"
-      },
-      "artists": [
-        {
-          "name": "Wallace Cleaver",
-          "url": "https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "le bus - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "4-2-4",
-        "url": "https://open.spotify.com/album/2pChfQir8eASqTDlxkkAgZ"
-      },
-      "artists": [
-        {
-          "name": "Costa",
-          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
-        }
-      ],
-      "duration_ms": 141116,
-      "name": "4-2-4",
-      "url": "https://open.spotify.com/track/6VZaXraEcYTDOB3hdTBJKV"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
-      },
-      "artists": [
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
-          "name": "Nekfeu",
-          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "La Cour des Miracles",
-      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "E-TRAP",
-        "url": "https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c"
-      },
-      "artists": [
-        {
-          "name": "TH",
-          "url": "https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "PILULE",
-      "url": "https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Particule \u00e9l\u00e9mentaire",
-        "url": "https://open.spotify.com/album/7regmM3e5xX9iggFNBT7Zb"
-      },
-      "artists": [
-        {
-          "name": "Heykel",
-          "url": "https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "L'empreinte de ma plume",
-      "url": "https://open.spotify.com/track/5CNQCPvV0OX3QEu9Wly9NN"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "SOIZETTE",
-        "url": "https://open.spotify.com/album/2fG6WJKoJrQmjE6Suojppw"
-      },
-      "artists": [
-        {
-          "name": "SKRIZ",
-          "url": "https://open.spotify.com/artist/59OVD8Vap8QSm5daZ0uw0d"
-        },
-        {
-          "name": "Youssef Swatt's",
-          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "L'Amour",
-      "url": "https://open.spotify.com/track/64CEYM2rKpmeNYNKHg3bfC"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Avec des mots",
-        "url": "https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu"
-      },
-      "artists": [
-        {
-          "name": "Davodka",
-          "url": "https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn"
-        },
-        {
-          "name": "Sinik",
-          "url": "https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg"
-        }
-      ],
-      "duration_ms": 192847,
-      "name": "Avec des mots",
-      "url": "https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
@@ -533,55 +517,59 @@
       "url": "https://open.spotify.com/track/01EyucDcdBiixZdeGkmXmz"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Mode Op\u00e9ratoire, vol. 1",
-        "url": "https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq"
+        "name": "Avec des mots",
+        "url": "https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu"
       },
       "artists": [
         {
-          "name": "Zkr",
-          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+          "name": "Davodka",
+          "url": "https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn"
+        },
+        {
+          "name": "Sinik",
+          "url": "https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Kayano",
-      "url": "https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t"
+      "duration_ms": 192847,
+      "name": "Avec des mots",
+      "url": "https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Plus fort que l'orage",
-        "url": "https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy"
+        "name": "Particule \u00e9l\u00e9mentaire",
+        "url": "https://open.spotify.com/album/7regmM3e5xX9iggFNBT7Zb"
       },
       "artists": [
         {
-          "name": "Bekar",
-          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+          "name": "Heykel",
+          "url": "https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL"
         }
       ],
-      "duration_ms": 150399,
-      "name": "Plus fort",
-      "url": "https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E"
+      "duration_ms": 210279,
+      "name": "L'empreinte de ma plume",
+      "url": "https://open.spotify.com/track/5CNQCPvV0OX3QEu9Wly9NN"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "L'homme qui frappe \u00e0 la porte II",
-        "url": "https://open.spotify.com/album/5s9Dt655kOqg5q9CIErGtn"
+        "name": "DEMAIN EST ANNUL\u00c9",
+        "url": "https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR"
       },
       "artists": [
         {
-          "name": "HMZ",
-          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+          "name": "Jeune Mort",
+          "url": "https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU"
         }
       ],
-      "duration_ms": 214468,
-      "name": "L'homme qui frappe \u00e0 la porte II",
-      "url": "https://open.spotify.com/track/3jTh2xYdKDrYsONmgLcbf6"
+      "duration_ms": 160075,
+      "name": "PHOBOS",
+      "url": "https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "BLACKBIRD",
         "url": "https://open.spotify.com/album/2DMye4603xl0LkWDikn4IQ"
@@ -597,7 +585,75 @@
       "url": "https://open.spotify.com/track/7MtjsERZRUGFXQxn6SE2fs"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "le bus - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c"
+      },
+      "artists": [
+        {
+          "name": "Wallace Cleaver",
+          "url": "https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "le bus - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Hypersensible",
+        "url": "https://open.spotify.com/album/4htuLPF4SwG7olgdCEzqLQ"
+      },
+      "artists": [
+        {
+          "name": "Gringe",
+          "url": "https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt"
+        },
+        {
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/6U3Kjh33x2xsSih30teQtw"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Les anges pleurent plus qu'avant",
+        "url": "https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "Les anges pleurent plus qu'avant",
+      "url": "https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "4-2-4",
+        "url": "https://open.spotify.com/album/2pChfQir8eASqTDlxkkAgZ"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
+        }
+      ],
+      "duration_ms": 141116,
+      "name": "4-2-4",
+      "url": "https://open.spotify.com/track/6VZaXraEcYTDOB3hdTBJKV"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
       "album": {
         "name": "LA HAINE",
         "url": "https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT"
@@ -617,104 +673,52 @@
       "url": "https://open.spotify.com/track/5hw2tWIicbY7Kd737HZBZk"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Apn\u00e9e (feat. Sheldon)",
-        "url": "https://open.spotify.com/album/0lsmvSGUHUhbtPxkG6vnGe"
+        "name": "LA CHUTE",
+        "url": "https://open.spotify.com/album/2fdig9S3CKRYHkYJ25THdD"
       },
       "artists": [
         {
-          "name": "Maydo",
-          "url": "https://open.spotify.com/artist/1JGcG0hGyvwIobPI8kvEAr"
-        },
-        {
-          "name": "Sheldon",
-          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+          "name": "Lasco",
+          "url": "https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra"
         }
       ],
-      "duration_ms": 186583,
-      "name": "Apn\u00e9e (feat. Sheldon)",
-      "url": "https://open.spotify.com/track/4HBElMde9FrnY8AOlr1m4t"
+      "duration_ms": 176000,
+      "name": "LA CHUTE",
+      "url": "https://open.spotify.com/track/7tV20ulK6Ms7pmo5OegLdi"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Croisades Puissance2frappe",
-        "url": "https://open.spotify.com/album/4qmbyhKttYaIpJB5rm0IR1"
+        "name": "50 piges",
+        "url": "https://open.spotify.com/album/1Kk6V6yamt9KDmLJDMuF3U"
       },
       "artists": [
         {
-          "name": "Dibson",
-          "url": "https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk"
+          "name": "Zoxea",
+          "url": "https://open.spotify.com/artist/2uuaoYjn1Pk0Y3NOyMR0KR"
         }
       ],
-      "duration_ms": 182265,
-      "name": "Croisades Puissance2frappe",
-      "url": "https://open.spotify.com/track/5T5NkRAUTc2YS5l2mRwRrk"
+      "duration_ms": 149354,
+      "name": "50 piges",
+      "url": "https://open.spotify.com/track/4qK7AT3mb1J5oLyALf5i8j"
     },
     {
-      "added_at": "2024-11-14 23:00:00",
+      "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Tous ces ongles rong\u00e9s",
-        "url": "https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV"
+        "name": "A la bien, avec la haine",
+        "url": "https://open.spotify.com/album/0elHVySe9X5VZCc7jTQ5AS"
       },
       "artists": [
         {
-          "name": "JeanJass",
-          "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
         }
       ],
-      "duration_ms": 107933,
-      "name": "Olympien",
-      "url": "https://open.spotify.com/track/62aBHWpAqVlvXsmKDwVXfp"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "merci",
-        "url": "https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b"
-      },
-      "artists": [
-        {
-          "name": "Wallace Cleaver",
-          "url": "https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "pardon",
-      "url": "https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "H\u00f4tel",
-        "url": "https://open.spotify.com/album/3ooBULlHTXEEoQfXylxpKT"
-      },
-      "artists": [
-        {
-          "name": "Felhur x Andro",
-          "url": "https://open.spotify.com/artist/7pM6sUyReIMJOA88s1WqYT"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "H\u00f4tel",
-      "url": "https://open.spotify.com/track/7D8a360I1Z1sOr714l59B3"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
-        "name": "Les anges pleurent plus qu'avant",
-        "url": "https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "Les anges pleurent plus qu'avant",
-      "url": "https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty"
+      "duration_ms": 146341,
+      "name": "A la bien, avec la haine",
+      "url": "https://open.spotify.com/track/1VXm7U859FXJI9eRUMKlNN"
     }
   ],
   "unique_name": "Lyricistes",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Dr. Yaro",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack x SDM",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -630,6 +630,28 @@
       "duration_ms": 217998,
       "name": "Appelement Jeter",
       "url": "https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Apr\u00e8s Minuit (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
     },
     {
       "album": {
@@ -1912,6 +1934,28 @@
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/22Z9WhtCQhQ3ksjIi6Ps4I"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148186,
+      "name": "Boulot",
+      "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
     },
     {
       "album": {
@@ -5703,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Hendek",
+        "url": "https://open.spotify.com/album/7uA3u6LM79UdcjTIAP2VHf"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Hendek",
+      "url": "https://open.spotify.com/track/55HAQNklLPxmHNFaaUu2f7"
+    },
+    {
+      "album": {
         "name": "Hi hi hi",
         "url": "https://open.spotify.com/album/4rvfzZglf3wk2JCt3swsnM"
       },
@@ -6020,6 +6082,28 @@
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+    },
+    {
+      "album": {
+        "name": "I WISH",
+        "url": "https://open.spotify.com/album/6KFbw9bYz7yNEsqZFwELR4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "I WISH",
+      "url": "https://open.spotify.com/track/6bKaXEeXVuoR3anv7BKc7B"
     },
     {
       "album": {
@@ -6502,7 +6586,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 171272,
       "name": "Je la connais (Na Y\u00e9bi Yo)",
       "url": "https://open.spotify.com/track/0dN5SWsBHb4rGV7yDCuh2t"
@@ -6564,7 +6648,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 131428,
       "name": "Jeu De Jambes",
       "url": "https://open.spotify.com/track/4eC7Y0t6l6TyQnQAD3aNL6"
@@ -7284,7 +7368,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 149677,
       "name": "Last Heartbreak Song (feat. Giveon)",
       "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
@@ -8336,6 +8420,28 @@
       "duration_ms": 157148,
       "name": "Metti (feat. Emma'a)",
       "url": "https://open.spotify.com/track/71XmYb0EzVXYANode3rbPc"
+    },
+    {
+      "album": {
+        "name": "MIMI",
+        "url": "https://open.spotify.com/album/08XMCq1m9XS3Arnss6PwRD"
+      },
+      "artists": [
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/37nQnHxzCpr0i7emp25goc"
     },
     {
       "album": {
@@ -10130,7 +10236,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 197913,
       "name": "Pas Comme \u00c7a",
       "url": "https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Stavento, LILA ",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Klavdia",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 172577,
       "name": "9ARI",
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 180000,
       "name": "Aeroplano",
       "url": "https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 189738,
       "name": "An Ikseres",
       "url": "https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW"
@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Astamatiti Kardia",
+        "url": "https://open.spotify.com/album/5FAF5fmwsMTDdZnYW1uIkn"
+      },
+      "artists": [
+        {
+          "name": "Rena Morfi",
+          "url": "https://open.spotify.com/artist/35QNo6nfps7vs25jpz5jl1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Astamatiti Kardia",
+      "url": "https://open.spotify.com/track/7mBj9L5DvwU6o2UiGOANDM"
+    },
+    {
+      "album": {
         "name": "AUTOS",
         "url": "https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs"
       },
@@ -408,6 +426,28 @@
       "duration_ms": 146000,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt"
+    },
+    {
+      "album": {
+        "name": "Bournazi",
+        "url": "https://open.spotify.com/album/0I9Dcc5tobZ3fxIYJnS3PZ"
+      },
+      "artists": [
+        {
+          "name": "dPans",
+          "url": "https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189122,
+      "name": "Bournazi",
+      "url": "https://open.spotify.com/track/5IRAu9axePDXXKWsDiDm1K"
     },
     {
       "album": {
@@ -514,6 +554,24 @@
       "duration_ms": 162777,
       "name": "Eimai Gunaika",
       "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
+    },
+    {
+      "album": {
+        "name": "Einai Xristougenna",
+        "url": "https://open.spotify.com/album/7HdKvSEBkRfiYnalxp43j0"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175043,
+      "name": "Einai Xristougenna",
+      "url": "https://open.spotify.com/track/0YyfBNnNimq3ounL4W0zdc"
     },
     {
       "album": {
@@ -1054,7 +1112,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 157945,
       "name": "Mavra Gialia",
       "url": "https://open.spotify.com/track/61zId67ppahNpBdcf2cVzH"
@@ -1319,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "Nyxta Mou Megali",
+        "url": "https://open.spotify.com/album/1PIFOqbw2AfsOsrZi2sKtL"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Nyxta Mou Megali",
+      "url": "https://open.spotify.com/track/7yJbjncqS0bjrUQdRafkr8"
+    },
+    {
+      "album": {
         "name": "Ousia",
         "url": "https://open.spotify.com/album/0RYLaTL1YzdDKtda4nX6Fc"
       },
@@ -1392,7 +1476,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 171538,
       "name": "Panselinos",
       "url": "https://open.spotify.com/track/230Aews21zrVVeaebAndZG"
@@ -1531,6 +1615,32 @@
     },
     {
       "album": {
+        "name": "Protagonistes",
+        "url": "https://open.spotify.com/album/4jjCaQ5iLFYCpzZWrmCyKf"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Dionisis Shinas",
+          "url": "https://open.spotify.com/artist/6FffkdwR4hVKiG143YFJPb"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219707,
+      "name": "Protagonistes",
+      "url": "https://open.spotify.com/track/7eU0GAZD508EQ2JLHyyYRv"
+    },
+    {
+      "album": {
         "name": "PSEMATA",
         "url": "https://open.spotify.com/album/3dji683GDv39BHlufBg38p"
       },
@@ -1658,7 +1768,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 155586,
       "name": "Siga To Prama",
       "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
@@ -1842,6 +1952,24 @@
       "duration_ms": 197447,
       "name": "Tsifteteli",
       "url": "https://open.spotify.com/track/5eMsUupeySNvfuC2eIuomA"
+    },
+    {
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/3sRSh3kVIcOfHPUA4Ysscu"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/4tUdB9Jbu5B5vmiof3evJY"
     },
     {
       "album": {

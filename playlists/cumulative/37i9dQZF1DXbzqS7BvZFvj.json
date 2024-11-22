@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 141951,
       "name": "Business",
       "url": "https://open.spotify.com/track/20EF6W7Egi1d1rUEboe5MB"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174837,
       "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
       "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 231739,
       "name": "Certified (feat. 5lack)",
       "url": "https://open.spotify.com/track/0FvwGZ15JAhiQ6lqjzrxDW"
@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 115914,
       "name": "Cracc Era",
       "url": "https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66"
@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 92133,
       "name": "Dope Boy (with Nigo)",
       "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
@@ -7141,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "Heart Don't Lie",
+        "url": "https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Heart Don't Lie",
+      "url": "https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV"
+    },
+    {
+      "album": {
         "name": "2 Faced, Pt. 2",
         "url": "https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p"
       },
@@ -7214,6 +7232,24 @@
       "duration_ms": 139003,
       "name": "Hello B*tch",
       "url": "https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4"
+    },
+    {
+      "album": {
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
       "album": {
@@ -7312,6 +7348,28 @@
       "duration_ms": 207501,
       "name": "Hide It (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
+    },
+    {
+      "album": {
+        "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
+        "url": "https://open.spotify.com/album/40vIutKw2lpTnF5V7oLLlV"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319912,
+      "name": "HIGH & HOLY - WARRYN\u2019S GROOVE",
+      "url": "https://open.spotify.com/track/5tSAiGJ7in3P3S0LiYwHsv"
     },
     {
       "album": {
@@ -8755,6 +8813,24 @@
     },
     {
       "album": {
+        "name": "Jason's Plan",
+        "url": "https://open.spotify.com/album/1Euhw5xCTnG74dCxdNyWWj"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Jason's Plan",
+      "url": "https://open.spotify.com/track/7smYD8LZk6bdMw0ShtLaEG"
+    },
+    {
+      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -9476,6 +9552,24 @@
       "duration_ms": 165765,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
+    },
+    {
+      "album": {
+        "name": "Let It Go Baby",
+        "url": "https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205505,
+      "name": "Let It Go Baby",
+      "url": "https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY"
     },
     {
       "album": {
@@ -10672,7 +10766,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 205393,
       "name": "Mayday (Feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
@@ -10750,7 +10844,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178000,
       "name": "Me & My Musik (feat. JJJ)",
       "url": "https://open.spotify.com/track/0jYU5Tq5KWFriOG1kYX2Ui"
@@ -11677,6 +11771,24 @@
     },
     {
       "album": {
+        "name": "need dat boy",
+        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "need dat boy",
+      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
+    },
+    {
+      "album": {
         "name": "Need I Say More",
         "url": "https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp"
       },
@@ -12101,6 +12213,24 @@
     },
     {
       "album": {
+        "name": "Mr. Enjoy Da Melody",
+        "url": "https://open.spotify.com/album/52ixE6g5IJMLX275XGQO5s"
+      },
+      "artists": [
+        {
+          "name": "KnowKnow",
+          "url": "https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220423,
+      "name": "No Halo",
+      "url": "https://open.spotify.com/track/0kqNednnjSFDOKCFpVfgGT"
+    },
+    {
+      "album": {
         "name": "No Hook 2",
         "url": "https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5"
       },
@@ -12522,7 +12652,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 139726,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/3Birk9MkODdRNyxuLCxRXv"
@@ -12942,7 +13072,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 150763,
       "name": "On Up",
       "url": "https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw"
@@ -13059,6 +13189,24 @@
     },
     {
       "album": {
+        "name": "One More Chance",
+        "url": "https://open.spotify.com/album/0ldvO4ahdgUdaLIfqZBmBM"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145654,
+      "name": "One More Chance",
+      "url": "https://open.spotify.com/track/21uSNJ4eu3ou54g7D4cGTY"
+    },
+    {
+      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -13074,6 +13222,32 @@
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
+    },
+    {
+      "album": {
+        "name": "Confuse The Enemy (Reloaded)",
+        "url": "https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb"
     },
     {
       "album": {
@@ -13121,6 +13295,32 @@
     },
     {
       "album": {
+        "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+        "url": "https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Alus",
+          "url": "https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
+      "url": "https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl"
+    },
+    {
+      "album": {
         "name": "OVERSEAS",
         "url": "https://open.spotify.com/album/1x1fHM8SRSO8Fd6YfWVurS"
       },
@@ -13157,7 +13357,7 @@
         },
         {
           "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw"
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
       "date_added": "2024-11-14",
@@ -13692,7 +13892,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 179222,
       "name": "Pleads (feat. Chief Keef & Nardo Wick)",
       "url": "https://open.spotify.com/track/72nY8ePnCkQfWJEVzQNkT1"
@@ -15237,6 +15437,24 @@
     },
     {
       "album": {
+        "name": ".mp3s",
+        "url": "https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167154,
+      "name": "s2wik",
+      "url": "https://open.spotify.com/track/3yHAuc8vnarMkEVXZPxDjs"
+    },
+    {
+      "album": {
         "name": "Sad & Alone",
         "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
@@ -15838,6 +16056,24 @@
       "duration_ms": 155544,
       "name": "She Know",
       "url": "https://open.spotify.com/track/3iIXhhRB1zP1SIiu45zYV4"
+    },
+    {
+      "album": {
+        "name": "SHEITE",
+        "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131489,
+      "name": "SHEITE",
+      "url": "https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC"
     },
     {
       "album": {
@@ -16488,7 +16724,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 208240,
       "name": "SORNERO",
       "url": "https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk"
@@ -16576,7 +16812,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 161353,
       "name": "SPINNIN",
       "url": "https://open.spotify.com/track/6V6RQJ85Xx7ebMGamKv4X3"
@@ -16982,7 +17218,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
@@ -17642,7 +17878,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184258,
       "name": "THE MOON MAN SURVIVES",
       "url": "https://open.spotify.com/track/6EPxBjeF1BuYjo8djjuDJ5"

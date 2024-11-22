@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,227 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,237 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 17 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
 | 18 | [Pica](https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Pica](https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG) | 3:19 |
 | 19 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 |
-| 20 | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8) | 2:45 |
-| 21 | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf) | 4:37 |
+| 20 | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf) | 4:37 |
+| 21 | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8) | 2:45 |
 | 22 | [Keep It Goin'](https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Keep It Goin'](https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8) | 2:55 |
 | 23 | [Si Tú No Estás Aquí \(feat\. LÚA\)](https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 4:03 |
 | 24 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
 | 50 | [Knockout](https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Knockout](https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2) | 2:23 |
 
-Snapshot ID: `ZzvVAAAAAADLvzgNdH3+XhGv+Oq6+qKf`
+Snapshot ID: `Zz0mgAAAAABqXa7gOprAidGHbeCIYfT2`

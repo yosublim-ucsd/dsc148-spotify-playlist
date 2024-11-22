@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-253 songs - 13 hr 46 min
+254 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Drowning](https://open.spotify.com/track/0K4VO0YFQjz846cR1PwawT) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:03 | 2022-05-03 | 2022-07-11 |
 | [Dust](https://open.spotify.com/track/75mdXrYqhqmf5XFJSnMxI5) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:05 | 2022-05-03 | 2022-07-29 |
 | [DWGU](https://open.spotify.com/track/5WZl00wiXEQ1ZfOwpicbj6) | [Nvll](https://open.spotify.com/artist/3Wt11uU3dWk7lBxTmBKMBD) | [Nvllish](https://open.spotify.com/album/1pJuT5wt6bowBqdTtdiBCq) | 2:27 | 2022-06-20 | 2022-07-27 |
-| [Easily\(feat.MELOH\)](https://open.spotify.com/track/5tB6uXVvuviruwye8meGGj) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:08 | 2022-05-03 |  |
+| [Easily\(feat.MELOH\)](https://open.spotify.com/track/5tB6uXVvuviruwye8meGGj) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:08 | 2022-05-03 | 2024-11-22 |
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2023-03-10 |
 | [En'dorphin](https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [En'dorphin](https://open.spotify.com/album/4V2dqsCsbT3Ikfn3uEjj7k) | 2:38 | 2022-05-03 | 2022-07-28 |
 | [Essential](https://open.spotify.com/track/3H0nxyYFpzMPXGu8JdOS39) | [doe.cent](https://open.spotify.com/artist/2ieO2aPGMErvmiNGBHsQqG) | [Essential](https://open.spotify.com/album/7fRY3ap1PANqSM1bhbfCQI) | 2:56 | 2022-05-03 | 2022-07-14 |
@@ -201,6 +201,7 @@
 | [Show me up \(Prod\. TII\)](https://open.spotify.com/track/6ldGBHz01zDpodf7f310Rb) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Show me up](https://open.spotify.com/album/7jekot5UJwV1GL7YQu2J1l) | 3:05 | 2022-05-03 | 2022-07-26 |
 | [Sinking Islands](https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2) | [Sinso](https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr) | [Sinking Islands](https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED) | 3:20 | 2022-12-13 | 2023-01-07 |
 | [Siren](https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:47 | 2023-02-14 | 2023-03-11 |
+| [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 | 2024-11-21 |  |
 | [Smile](https://open.spotify.com/track/4l40k5B6eSdICiFtc5b8CR) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Sobrightttttttt](https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9) | 1:47 | 2022-05-03 | 2022-06-03 |
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-08 | 2022-07-11 |
 | [So Fast](https://open.spotify.com/track/1Phh7MO0sxhlyXdzhrib2s) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Sobrightttttttt](https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9) | 2:33 | 2022-05-03 | 2022-07-17 |

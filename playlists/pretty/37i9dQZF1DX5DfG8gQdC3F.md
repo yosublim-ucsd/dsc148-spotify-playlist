@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Shawn Mendes, Tate McRae, Linkin Park, Shaboozey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,262 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,272 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 51 | [My Bedroom](https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb), [Laila](https://open.spotify.com/artist/4EXZpEXNEw9idyyLvmdjhb) | [My Bedroom](https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z) | 2:47 |
 | 52 | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/24BsZ8lMbzHz1C2QjuP6Pd) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Whispering Pines](https://open.spotify.com/album/5BlyT55fQ4Vj6ju1hSjRhb) | 2:56 |
 | 53 | [Mystery Man](https://open.spotify.com/track/1b2woR8r4kTe02dowqYHrT) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Mystery Man](https://open.spotify.com/album/7I9hLML1HF5BJNJC2cATVX) | 2:48 |
-| 54 | [The Way It Was Before \(End Credits Version\) \- From the Skydance Animation Film “Spellbound”](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 |
+| 54 | [The Way It Was Before \(End Credits Version\)](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 |
 | 55 | [Gold](https://open.spotify.com/track/4ETdkgVhgDqmhNtEgwUSpT) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Gold](https://open.spotify.com/album/7b4OXYvqJhqS2insyXyUn9) | 2:19 |
-| 56 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patander](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
+| 56 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
 | 57 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 |
 | 58 | [GOT ME GEEKED](https://open.spotify.com/track/65xcchkTcVBAWiIR6f9mMU) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 2:32 |
 | 59 | [Scars](https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:16 |

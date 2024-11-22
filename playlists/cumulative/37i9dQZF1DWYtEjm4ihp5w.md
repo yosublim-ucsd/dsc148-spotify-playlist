@@ -4,7 +4,7 @@
 
 > Pause f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-323 songs - 17 hr 20 min
+325 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Chabiba](https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [Chabiba](https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn) | 2:28 | 2023-10-26 | 2023-11-16 |
 | [CHAINSOMNIA](https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [CHAINSOMNIA](https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9) | 2:48 | 2023-12-16 | 2024-05-26 |
 | [Chanel](https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Chanel](https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2) | 2:02 | 2024-02-23 | 2024-04-08 |
+| [Charchabil](https://open.spotify.com/track/6HZA0fBNDUYJRsgZ0te54C) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [AOKIGAHARA](https://open.spotify.com/album/62ez9OSwKvmA4DPSMobZVw) | 3:46 | 2024-11-21 |  |
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-11-14 | 2023-04-09 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2022-11-14 | 2022-12-13 |
 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-06-14 |  |
@@ -75,6 +76,7 @@
 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 | 2024-09-02 |
 | [COUNT ON ME](https://open.spotify.com/track/1kHEexeZFetNsQ2fIJbFKL) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [COUNT ON ME](https://open.spotify.com/album/5hhvWbwoZc4k3S4V8K54ig) | 2:47 | 2024-01-13 | 2024-02-14 |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-14 | 2022-11-26 |
+| [Crocodile](https://open.spotify.com/track/7qNjrURi3blSkQT5e8G76d) | [Lee Browz](https://open.spotify.com/artist/2sfOdRW5RsJPXuko7qJcjS) | [Crocodile](https://open.spotify.com/album/6rVdRe3s9TEmut5H04wstl) | 2:27 | 2024-11-21 |  |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 | 2024-01-05 |
 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-11-14 | 2024-01-07 |
 | [Denbi Ana](https://open.spotify.com/track/7nPSqRB6nc9sf5cqSTJKzx) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Denbi Ana](https://open.spotify.com/album/6aQ0rQWbW94FLbCui79SfB) | 2:09 | 2023-08-19 | 2024-07-23 |
@@ -82,7 +84,7 @@
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-10 | 2023-05-21 |
 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-10-23 |  |
 | [Dmess](https://open.spotify.com/track/2aEsMXEDpyKWdZ3JJspbai) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Dmess](https://open.spotify.com/album/7bybuogra71XLFPeOLRVhe) | 2:51 | 2024-10-09 | 2024-10-31 |
-| [Dmou3 L'Croco](https://open.spotify.com/track/07sFckxlPXEYKgTjR8ZdEw) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Dmou3 L'Croco](https://open.spotify.com/album/6c3o3VCnDA2wKfoJbnnKgu) | 3:11 | 2024-11-02 |  |
+| [Dmou3 L'Croco](https://open.spotify.com/track/07sFckxlPXEYKgTjR8ZdEw) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Dmou3 L'Croco](https://open.spotify.com/album/6c3o3VCnDA2wKfoJbnnKgu) | 3:11 | 2024-11-02 | 2024-11-22 |
 | [Do It Again](https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:44 | 2023-06-22 | 2023-12-08 |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 |  |
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
@@ -140,7 +142,7 @@
 | [KADAWINI](https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [FOCUS](https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx) | 2:36 | 2023-01-17 | 2023-08-24 |
 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 | 2024-06-14 |  |
 | [KALIMATE](https://open.spotify.com/track/5OUUHEiGme4cC9O5X1Sowe) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [CoBrA](https://open.spotify.com/album/1TYlN09LJ6bYts6HlgVGa5) | 1:58 | 2024-01-26 | 2024-02-10 |
-| [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 | 2024-10-30 |  |
+| [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 | 2024-10-30 | 2024-11-22 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-11-14 | 2022-11-26 |
 | [KECHMARRA](https://open.spotify.com/track/3zKWIsLZr1dwmFCM1LKxX5) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [KECHMARRA](https://open.spotify.com/album/4vuvSz8uiirwhkwnAufXtS) | 3:19 | 2024-09-13 | 2024-10-14 |
 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 | 2022-11-25 | 2023-01-27 |

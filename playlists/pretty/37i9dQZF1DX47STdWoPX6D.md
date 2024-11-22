@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: DKG KIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,403 likes - 116 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,416 likes - 116 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

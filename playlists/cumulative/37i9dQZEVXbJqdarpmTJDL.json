@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 241846,
       "name": "AURIO",
       "url": "https://open.spotify.com/track/35UDMEmFmwJRnSByL4PTYV"
@@ -5614,7 +5614,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 158117,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/4Mt52gHMDFcLKplLU4NKaW"
@@ -27646,7 +27646,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
@@ -27924,6 +27924,28 @@
       "duration_ms": 189656,
       "name": "Party",
       "url": "https://open.spotify.com/track/4pDfbeAinmAjEoxwIpaNho"
+    },
+    {
+      "album": {
+        "name": "PASARELA",
+        "url": "https://open.spotify.com/album/5uHQoNwkyfCqndwYuX37WB"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "PASARELA",
+      "url": "https://open.spotify.com/track/19zZ6CFn39KaEgwlnxEtEa"
     },
     {
       "album": {
@@ -33848,7 +33870,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"

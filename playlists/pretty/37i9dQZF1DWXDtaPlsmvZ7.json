@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 112379,
+  "num_followers": 112403,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Te Robar\u00e9",
+        "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
+      },
+      "artists": [
+        {
+          "name": "CantoParaBailar",
+          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
+        },
+        {
+          "name": "Mozthaza",
+          "url": "https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP"
+        },
+        {
+          "name": "Megablock",
+          "url": "https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Te Robare",
+      "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Fuiste Tu",
         "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
       },
@@ -695,30 +719,6 @@
       "duration_ms": 193736,
       "name": "Corazon, Perro Fiel, Echame La Culpa,",
       "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Te Robar\u00e9",
-        "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
-      },
-      "artists": [
-        {
-          "name": "CantoParaBailar",
-          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
-        },
-        {
-          "name": "Mozthaza",
-          "url": "https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP"
-        },
-        {
-          "name": "Megablock",
-          "url": "https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw"
-        }
-      ],
-      "duration_ms": 210050,
-      "name": "Te Robare",
-      "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Version Cumbia la Plata 2017",
-        "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
+        "name": "El P\u00e1jaro Vio El Cielo y Se Vol\u00f3",
+        "url": "https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr"
       },
       "artists": [
         {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
         }
       ],
-      "duration_ms": 180401,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
+      "duration_ms": 188000,
+      "name": "El P\u00e1jaro Vio El Cielo y Se Vol\u00f3",
+      "url": "https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -803,18 +803,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El P\u00e1jaro Vio El Cielo y Se Vol\u00f3",
-        "url": "https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr"
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+          "name": "CantoParaBailar",
+          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
+        },
+        {
+          "name": "Max Fernandez",
+          "url": "https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51"
         }
       ],
-      "duration_ms": 188000,
-      "name": "El P\u00e1jaro Vio El Cielo y Se Vol\u00f3",
-      "url": "https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5"
+      "duration_ms": 103284,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -851,22 +855,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
+        "name": "Version Cumbia la Plata 2017",
+        "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
       },
       "artists": [
         {
-          "name": "CantoParaBailar",
-          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
-        },
-        {
-          "name": "Max Fernandez",
-          "url": "https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51"
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
         }
       ],
-      "duration_ms": 103284,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
+      "duration_ms": 180401,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 225333,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
     },
     {
       "added_at": "2022-05-06 18:26:25",

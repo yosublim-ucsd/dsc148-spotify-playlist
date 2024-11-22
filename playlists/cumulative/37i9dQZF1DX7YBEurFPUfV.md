@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-100 songs - 5 hr 44 min
+101 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Afyoun](https://open.spotify.com/track/66tu0r6bkZtGx6INuZTNG2) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Afyoun](https://open.spotify.com/album/7z1mJ0SuGHJOvdu7A280me) | 3:11 | 2024-05-29 |  |
 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 | 2024-05-03 | 2024-07-23 |
 | [AIRMAX](https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [AIRMAX](https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7) | 2:57 | 2024-09-18 |  |
+| [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 | 2024-11-21 |  |
 | [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 | 2024-05-02 | 2024-08-02 |
 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 | 2024-02-24 |  |
 | [Automatique \(Mc Artisan\)](https://open.spotify.com/track/0CgYatpXXpOWh6dGlYGCzZ) | [Le Sa](https://open.spotify.com/artist/1fdwt0BjCekrhXeRX8Ouq9) | [Automatique \(Mc Artisan\)](https://open.spotify.com/album/337pw8AGafu2kM3Un5ctr8) | 4:37 | 2024-11-14 |  |
@@ -63,7 +64,7 @@
 | [Lezem Lezem](https://open.spotify.com/track/3JAV7VqOYEQDT7tFFfLSqY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Lezem Lezem](https://open.spotify.com/album/46VkK0IxKyKGBCJGt2BgGI) | 2:28 | 2024-02-24 | 2024-07-05 |
 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 |  |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 |  |
-| [MALADIE](https://open.spotify.com/track/1H9LBYPwEAR0du08prGBGA) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [MALADIE](https://open.spotify.com/album/0i19bbIr56jXJpFiThxq9D) | 3:46 | 2024-05-03 |  |
+| [MALADIE](https://open.spotify.com/track/1H9LBYPwEAR0du08prGBGA) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [MALADIE](https://open.spotify.com/album/0i19bbIr56jXJpFiThxq9D) | 3:46 | 2024-05-03 | 2024-11-22 |
 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 | 2024-02-24 |  |
 | [Mata7kich](https://open.spotify.com/track/4vSMMlTaIk53HeRtn1Yhg5) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Mata7kich](https://open.spotify.com/album/1J2UZknu6mll6gHAD3YtpP) | 3:15 | 2024-02-24 | 2024-08-02 |
 | [Mel Galb](https://open.spotify.com/track/1RjZ14m5vJCa47WDmM2RHD) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mel Galb](https://open.spotify.com/album/1V4kGcJm7sh4iX3r5hAF0O) | 3:45 | 2024-02-24 |  |

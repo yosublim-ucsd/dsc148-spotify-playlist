@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,182 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,186 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 38 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 39 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
 | 40 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 |
-| 41 | [Love me Again](https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Love me Again \(This is a Campus Romance Series X KEN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv) | 3:07 |
-| 42 | [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 |
+| 41 | [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 |
+| 42 | [Love me Again](https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Love me Again \(This is a Campus Romance Series X KEN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv) | 3:07 |
 | 43 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 | 44 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 45 | [Traffic Accident](https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf) | [Dann](https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT), [MUJIN](https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH) | [Unintentional Love Story Original Televion Soundtrack Pt\. 3](https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS) | 3:21 |

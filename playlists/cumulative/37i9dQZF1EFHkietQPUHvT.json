@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "CLASSICO",
+        "url": "https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "CLASSICO",
+      "url": "https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u"
+    },
+    {
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t"
       },
@@ -486,6 +504,24 @@
       "duration_ms": 131485,
       "name": "Double Vision",
       "url": "https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/68c8XhtNLFN9SPm9O4M9vW"
+      },
+      "artists": [
+        {
+          "name": "Lala Sadii",
+          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5THILFqD2wJquN3U4la6PS"
     },
     {
       "album": {
@@ -742,6 +778,24 @@
       "duration_ms": 241055,
       "name": "Hurt When You Hurt Me",
       "url": "https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr"
+    },
+    {
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/37kFKx2MjofX4qkGxe8ua6"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122583,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/5HOZ5PCSIrgPY6QMvJpzsC"
     },
     {
       "album": {

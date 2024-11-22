@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30d6\u30e9\u30f3\u30c7\u30fc\u6226\u8a18",
-  "num_followers": 16086,
+  "num_followers": 16109,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "NOISE",
-        "url": "https://open.spotify.com/album/6D7onfgcykBliyAvMcMx5Q"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 198521,
-      "name": "NOISE",
-      "url": "https://open.spotify.com/track/50xBF1EsWrOpQsMV5F8NVJ"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/6D7onfgcykBliyAvMcMx5Q"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 198521,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/50xBF1EsWrOpQsMV5F8NVJ"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "BORDER",
-        "url": "https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9"
+        "name": "\u5148\u8f29",
+        "url": "https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 175500,
-      "name": "BORDER",
-      "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
+      "duration_ms": 201710,
+      "name": "\u5148\u8f29",
+      "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u5148\u8f29",
-        "url": "https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 201710,
-      "name": "\u5148\u8f29",
-      "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
         "name": "\u307c\u304f\u3089\u306e\u6d99\u306a\u3089\u7a7a\u306b\u57cb\u3081\u3088\u3046",
         "url": "https://open.spotify.com/album/3X53glEtwCpJcpTw4TVSrv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 214979,
       "name": "poole",
       "url": "https://open.spotify.com/track/7qWNXlAaH8NSn0oa1w3Wor"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
+        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
-        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
+        "name": "BORDER",
+        "url": "https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9"
       },
       "artists": [
         {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 234566,
-      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
-      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
+      "duration_ms": 175500,
+      "name": "BORDER",
+      "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
+        "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
+        "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
+      "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
         "name": "TRIANGLE",
         "url": "https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
-        "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
-      "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
         "name": "\u3059\u304d\u3002",
         "url": "https://open.spotify.com/album/1D3eDRDjd8nnhyS5LLGiUK"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 188733,
       "name": "\u3059\u304d\u3002",
       "url": "https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
         "name": "\u60b2\u3057\u307f\u306f\u30d0\u30b9\u306b\u4e57\u3063\u3066",
         "url": "https://open.spotify.com/album/4x7fCYXopnEfgQIkp9vNpq"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u611b\u306e\u8f4d",
-        "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 192430,
-      "name": "\u611b\u306e\u8f4d",
-      "url": "https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
         "name": "midori",
         "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 209120,
       "name": "\u611b\u3059\u308b\u4eba",
       "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
+        "name": "\u611b\u306e\u8f4d",
+        "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 192430,
+      "name": "\u611b\u306e\u8f4d",
+      "url": "https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u590f\u306b\u9858\u3044\u3092",
-        "url": "https://open.spotify.com/album/6skgWhfs8YhK8mPhLosuQe"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 181618,
-      "name": "\u590f\u306b\u9858\u3044\u3092",
-      "url": "https://open.spotify.com/track/4pb8LEHZGvygnrq1fmFoNn"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
         "name": "\u30e6\u30fc\u30b9\u30ec\u30b9\u30de\u30b7\u30f3",
         "url": "https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 179026,
       "name": "SUMMER PLANNING",
       "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
+        "name": "\u590f\u306b\u9858\u3044\u3092",
+        "url": "https://open.spotify.com/album/6skgWhfs8YhK8mPhLosuQe"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 181618,
+      "name": "\u590f\u306b\u9858\u3044\u3092",
+      "url": "https://open.spotify.com/track/4pb8LEHZGvygnrq1fmFoNn"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
-      },
-      "artists": [
-        {
-          "name": "NEE",
-          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
-        }
-      ],
-      "duration_ms": 181170,
-      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
-    },
-    {
-      "added_at": "2024-11-19 16:40:37",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
         "url": "https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2024-11-19 16:40:37",
       "album": {
-        "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
-        "url": "https://open.spotify.com/album/2PGNDSl1PFdTECL3AJn9VD"
+        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
       },
       "artists": [
         {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
         }
       ],
-      "duration_ms": 234133,
-      "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
-      "url": "https://open.spotify.com/track/4LB2LhjrQf7OXzO4MSSpeJ"
+      "duration_ms": 181170,
+      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
     },
     {
       "added_at": "2024-11-19 16:40:37",
@@ -1611,6 +1595,22 @@
       "duration_ms": 233442,
       "name": "\u30b7\u30ca\u30e2\u30f3",
       "url": "https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg"
+    },
+    {
+      "added_at": "2024-11-19 16:40:37",
+      "album": {
+        "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
+        "url": "https://open.spotify.com/album/2PGNDSl1PFdTECL3AJn9VD"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
+      "url": "https://open.spotify.com/track/4LB2LhjrQf7OXzO4MSSpeJ"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

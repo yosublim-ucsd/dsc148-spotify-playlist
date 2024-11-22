@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Fat Freddy's Drop
 
-200 songs - 11 hr 25 min
+201 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Ghost](https://open.spotify.com/track/5kHdsgUGfFEQRgxSHybWss) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Ghost](https://open.spotify.com/album/02ZquFod2IdjAxRJRIk3Sv) | 2:49 | 2024-05-20 | 2024-08-16 |
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-05-20 |  |
 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-08-15 |  |
-| [GOLDTOPS](https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD) | [Avantdale Bowling Club](https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw), [DUSTY & GHOS](https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww) | [TREES: The Remix EP](https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK) | 2:54 | 2024-05-20 |  |
+| [GOLDTOPS](https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD) | [Avantdale Bowling Club](https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw), [DUSTY & GHOS](https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww) | [TREES: The Remix EP](https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK) | 2:54 | 2024-05-20 | 2024-11-22 |
 | [Gravitate \- Single Edit](https://open.spotify.com/track/7FvSf3Cx6faUnuZc5BKxIn) | [Sweet Mix Kids](https://open.spotify.com/artist/7D0Hb0WdjO98UZf8Uh1DX7), [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Gravitate](https://open.spotify.com/album/3UclHmm7VRyhZW8QHNOpJS) | 3:07 | 2024-05-20 | 2024-11-08 |
 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 | 2024-08-15 |  |
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-08-15 |  |
@@ -192,6 +192,7 @@
 | [Time Of My Life](https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Time Of My Life](https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw) | 2:29 | 2024-08-15 | 2024-11-08 |
 | [Timezones](https://open.spotify.com/track/0MWNEeM8S6PnP13xuJet12) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Timezones](https://open.spotify.com/album/5V126SDuq0XEspGTPTA50q) | 4:02 | 2024-05-20 | 2024-11-08 |
 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 | 2024-11-08 |
+| [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 | 2024-11-07 |  |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |
 | [Unchained](https://open.spotify.com/track/2JI6dU3fpanCwPMDDzX79K) | [Erny Belle](https://open.spotify.com/artist/0CdfEh26WETJwbJ0a7Gs08) | [Not Your Cupid](https://open.spotify.com/album/48Ccju0seSWWB3ybbrVn6I) | 3:58 | 2024-05-20 | 2024-11-08 |
 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 |  |

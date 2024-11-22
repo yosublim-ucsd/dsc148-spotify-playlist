@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-514 songs - 1 day 0 hr 33 min
+515 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [One of One](https://open.spotify.com/track/7HA6dcnMqMt9Th55jeo8EA) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 3:12 | 2024-05-09 |  |
 | [Pagg \(From "Apne Ghar Begane"\)](https://open.spotify.com/track/7h8Ml9o4YKVYCEktTh74Pi) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gurjeet Khosa](https://open.spotify.com/artist/1XcpWM2VMeXK8PqsUBkhCp) | [Pagg \(From The Movie "Apne Ghar Begane"\)](https://open.spotify.com/album/5ZeOet9rqkSwMaHOKm11Bn) | 2:41 | 2024-10-16 | 2024-11-15 |
 | [Paggan Tedian](https://open.spotify.com/track/0cXqks1tHUuyKNixfXUT8T) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Paggan Tedian](https://open.spotify.com/album/2sgi0bfdSTCC9A1vbsr45D) | 3:02 | 2024-08-19 |  |
-| [Pakke Yaar](https://open.spotify.com/track/1Ia9jiEAJcdAqTXBnCyeB3) | [Sukh Sidhu](https://open.spotify.com/artist/3g4GfgwWnsUUutc7vcHG6H), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Pakke Yaar](https://open.spotify.com/album/75jpMbSEXL84IfGYBNTJ9e) | 2:15 | 2024-08-13 |  |
+| [Pakke Yaar](https://open.spotify.com/track/1Ia9jiEAJcdAqTXBnCyeB3) | [Sukh Sidhu](https://open.spotify.com/artist/3g4GfgwWnsUUutc7vcHG6H), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Pakke Yaar](https://open.spotify.com/album/75jpMbSEXL84IfGYBNTJ9e) | 2:15 | 2024-08-13 | 2024-11-22 |
 | [Panj Satt](https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Panj Satt](https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau) | 3:09 | 2023-09-26 | 2024-08-15 |
 | [Parlour Te \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/track/5duOS2aldMXIdxxPF660KF) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Parlour Te \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/album/56cYJVho9lTXVjgrXOlEWh) | 3:11 | 2024-10-03 |  |
 | [Parshawan Naar Da \(From "Sucha Soorma"\)](https://open.spotify.com/track/34FbOiAkJr9R9cbKaQW2do) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Alamgir Khan](https://open.spotify.com/artist/0cczE6c7kfFCBQt96AV4Nt) | [Parshawan Naar Da \(From "Sucha Soorma"\)](https://open.spotify.com/album/4aJXFeb1uBpjiM3SS5GUD1) | 3:06 | 2024-09-06 | 2024-10-05 |
@@ -473,6 +473,7 @@
 | [Tu Te Sharaab](https://open.spotify.com/track/0oUfa6l7wLkVAdXpuZv1Es) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Tu Te Sharab](https://open.spotify.com/album/2WkHsdB7xX7Iogc6V3mMCc) | 3:15 | 2023-03-29 | 2023-05-28 |
 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 | 2023-05-26 | 2024-04-19 |
 | [Tu Te Sharab](https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tu Te Sharab](https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48) | 3:15 | 2024-04-19 | 2024-09-06 |
+| [TYPE SHII](https://open.spotify.com/track/0nYq0xnkv00EZMylciD3XY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 2:46 | 2024-11-21 |  |
 | [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 | 2024-06-28 | 2024-07-09 |
 | [Uddda Punjab](https://open.spotify.com/track/5i5JOVTr0il2Hki4ItgMMV) | [Gurlluv](https://open.spotify.com/artist/2iMoPGUtShi83odOZ7Eirj), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz), [Nav Garhiwala](https://open.spotify.com/artist/2ZP4fYUwJqNeeAWlYuYzDH) | [Uddda Punjab](https://open.spotify.com/album/399GRdy23FNh6LAxlgSmyz) | 2:48 | 2024-11-07 |  |
 | [Unanswerable](https://open.spotify.com/track/0nestoDLiYS47RsEiET5fC) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Unanswerable](https://open.spotify.com/album/3liOTxNCO9JIZnVB50hFUV) | 2:54 | 2024-01-02 | 2024-01-18 |

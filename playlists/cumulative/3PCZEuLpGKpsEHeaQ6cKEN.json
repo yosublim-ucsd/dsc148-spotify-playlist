@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Ship Wrek",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Steve Aoki , Sam Feldt,  Xandra, Nile Rodgers, Zak Abel",
   "name": "Armada Today",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -979,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/03OwRUUY0aRLZOC3Ad8RZI"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/43tqB1PqZ7WbaUiVZog1mI"
+    },
+    {
+      "album": {
         "name": "Another Dimension",
         "url": "https://open.spotify.com/album/5F8ZSBIcPgssjylamnByil"
       },
@@ -1414,6 +1436,28 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/4VI4ooW0RGfpXLCaIODcXP"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Tom Westy",
+          "url": "https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/49gSNB9go1HdREQ9X2tAs4"
     },
     {
       "album": {
@@ -6039,6 +6083,28 @@
     },
     {
       "album": {
+        "name": "Extreme Ways",
+        "url": "https://open.spotify.com/album/4A7kuAkbAMPlz96TbXfrxu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197157,
+      "name": "Extreme Ways",
+      "url": "https://open.spotify.com/track/2qigRZvq9yAwT2VDwnUkIT"
+    },
+    {
+      "album": {
         "name": "Eyes Off You",
         "url": "https://open.spotify.com/album/3mU4KOiDmbxXcQK3NL0lNx"
       },
@@ -6778,7 +6844,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
@@ -7064,7 +7130,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 192890,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ"
@@ -10338,7 +10404,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 122008,
       "name": "I WANT YOUR LOVE",
       "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
@@ -10476,6 +10542,40 @@
       "duration_ms": 178125,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/5F9rZa65ePNd3HZFkavre7"
+    },
+    {
+      "album": {
+        "name": "I'm Going Out",
+        "url": "https://open.spotify.com/album/6uNEGUjeTz61yt3IsXkbOH"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149237,
+      "name": "I'm Going Out",
+      "url": "https://open.spotify.com/track/3FtePlEjMR59KrxqDnNTQ6"
     },
     {
       "album": {
@@ -11980,6 +12080,28 @@
       "duration_ms": 180821,
       "name": "Konje",
       "url": "https://open.spotify.com/track/6k1S6jARx5BYb0uAH7Fn6m"
+    },
+    {
+      "album": {
+        "name": "Kumbuka",
+        "url": "https://open.spotify.com/album/7pW7fIb6K86bSaJLDX1dT2"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "IDQ",
+          "url": "https://open.spotify.com/artist/7hnjjhKjLH0brVHm5Bi3gc"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206557,
+      "name": "Kumbuka",
+      "url": "https://open.spotify.com/track/3pBXGBdrpugqgqPQc7dzKi"
     },
     {
       "album": {
@@ -14930,7 +15052,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -20652,7 +20774,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
@@ -26244,7 +26366,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"

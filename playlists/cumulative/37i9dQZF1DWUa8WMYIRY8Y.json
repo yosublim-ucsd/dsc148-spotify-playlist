@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Sam Fender",
+  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Astral Bakers",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 224849,
       "name": "Ahead of Myself",
       "url": "https://open.spotify.com/track/0iSppEday3KI8mmLSM5IUo"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 203692,
       "name": "Audacious",
       "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
@@ -648,6 +648,24 @@
       "duration_ms": 217022,
       "name": "Blame",
       "url": "https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m"
+    },
+    {
+      "album": {
+        "name": "Blood On The Hospital Floor",
+        "url": "https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Blood On The Hospital Floor",
+      "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
     },
     {
       "album": {
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195061,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/6n7fuSHQnmovWMY7zlW1Jv"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 194997,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7"
@@ -1976,6 +1994,24 @@
       "duration_ms": 263011,
       "name": "Go Down Easy",
       "url": "https://open.spotify.com/track/1BieFVIxChUHgt9JF11h5x"
+    },
+    {
+      "album": {
+        "name": "Golden Wolf",
+        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219196,
+      "name": "Golden Wolf",
+      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
     },
     {
       "album": {
@@ -2397,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Moon",
+        "url": "https://open.spotify.com/album/4wKRrC9FONCHBMgzX5NM3x"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9"
+    },
+    {
+      "album": {
         "name": "I Want To Be Your Only Pet",
         "url": "https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW"
       },
@@ -2776,7 +2830,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134117,
       "name": "Kinky",
       "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
@@ -3511,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
+    {
+      "album": {
         "name": "Unaired",
         "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
       },
@@ -3803,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "album": {
         "name": "Loss Of Life",
         "url": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa"
       },
@@ -3868,7 +3958,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168160,
       "name": "Persuasion",
       "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
@@ -4570,7 +4660,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 199760,
       "name": "Sorry I'm Late, I Didn't Want To Come",
       "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
@@ -5381,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Time To Time",
+        "url": "https://open.spotify.com/album/6ynT2dykpp0FEQdb57RIBs"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Time To Time",
+      "url": "https://open.spotify.com/track/6WaTwb7yXQ28GY8jN1xnmS"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
@@ -5742,7 +5850,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 251767,
       "name": "Wither",
       "url": "https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d"
@@ -5764,6 +5872,42 @@
       "duration_ms": 221991,
       "name": "Within a Heartbeat",
       "url": "https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4"
+    },
+    {
+      "album": {
+        "name": "WOLFMAN",
+        "url": "https://open.spotify.com/album/2a8NOG3o9Q7b0Fm2TFROEr"
+      },
+      "artists": [
+        {
+          "name": "Jan Verstraeten",
+          "url": "https://open.spotify.com/artist/7upKfBWNUqe6pSUDxNQa2v"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "WOLFMAN",
+      "url": "https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb"
+    },
+    {
+      "album": {
+        "name": "Words Lost Meaning",
+        "url": "https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Words Lost Meaning",
+      "url": "https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE"
     },
     {
       "album": {

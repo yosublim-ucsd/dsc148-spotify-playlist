@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : aupinard
+> 🍯🍯🍯\. Photo : Enchantée Julia
 
-235 songs - 11 hr 35 min
+238 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Histoire Imaginaire](https://open.spotify.com/track/1aPbVPrl8bGv59FAcv0WtX) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:18 | 2024-06-27 | 2024-10-25 |
 | [HIVER SOLEIL](https://open.spotify.com/track/4NsoWOlbqgiV6D32n4vzvR) | [Willem](https://open.spotify.com/artist/5C2rvqVmZ93SCkWpSKBVnb) | [HIVER SOLEIL](https://open.spotify.com/album/3fU28aRCX93j1EWFU7qPwq) | 3:08 | 2024-04-25 | 2024-05-24 |
 | [Hold Up](https://open.spotify.com/track/5yE3ty0HBNcoS5tGZ4KqIO) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [Hold Up](https://open.spotify.com/album/4aidsLbtFDGdo570tdH5jn) | 3:15 | 2024-05-30 | 2024-08-09 |
+| [Hold Up](https://open.spotify.com/track/7hw1C0mBei28gbmjUbrQhw) | [Soless](https://open.spotify.com/artist/5B0bNvzDNblvSEp9T0s20L), [Glodi West](https://open.spotify.com/artist/0J3zBtOK7EXBP97dKyQpYT), [SaMajesté](https://open.spotify.com/artist/3VrZN0xunY3wOmsK4nzBB4) | [Rencontres](https://open.spotify.com/album/0vPQ2B9kOr8EB3EpKQehJu) | 1:36 | 2024-11-21 |  |
 | [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 | 2023-11-23 | 2024-01-05 |
 | [Honey Glazed](https://open.spotify.com/track/2BQ9kr7iW8M3GY5GKn19jv) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [Chick & Dips](https://open.spotify.com/album/7wr1oxPx5FU5c7ll4Ca6FO) | 3:12 | 2024-02-15 | 2024-04-12 |
 | [Honeymoon](https://open.spotify.com/track/5TkJeNwPnc46axqIAmjI5k) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [rad cartier](https://open.spotify.com/artist/37060l8iXQAWuFo1g3RCQ6) | [Honeymoon](https://open.spotify.com/album/1A01LPGJusfzxrhuJ3JhC2) | 2:22 | 2024-02-01 | 2024-02-23 |
@@ -152,7 +153,9 @@
 | [Nous Deux](https://open.spotify.com/track/1Vr26bojJG8VZzg7JYql03) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Idéal](https://open.spotify.com/album/4cyrwuyOwNd6YHf3Gi2cI4) | 3:23 | 2023-09-28 | 2024-02-02 |
 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 | 2024-04-04 |  |
 | [Novline 5 \- Ella](https://open.spotify.com/track/3La8BcVk0mKP641D68DHWY) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Novline 5 \- Ella](https://open.spotify.com/album/23LI78h9V83LINboG8hmfV) | 3:10 | 2023-09-28 | 2023-10-13 |
+| [Nymphonie](https://open.spotify.com/track/64XVDdlZIx89lMDZSVoILc) | [Äzy](https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF) | [Nymphonie](https://open.spotify.com/album/3aZtRyaMulrww5u9yiKfkM) | 2:29 | 2024-11-21 |  |
 | [OK.](https://open.spotify.com/track/1vE9QlPY6du7P63UNVsge5) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [OK.](https://open.spotify.com/album/1CGNBNbj4RIfBW2Lbi7PHK) | 3:09 | 2024-06-13 | 2024-09-13 |
+| [Onze](https://open.spotify.com/track/0GTtsPEsu9Mr2X125jHKRj) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy) | [ONZE](https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K) | 2:46 | 2024-11-21 |  |
 | [Oublie\-moi](https://open.spotify.com/track/638DO6YrucQZj3VLt0KH4W) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [era 24](https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL) | 2:53 | 2023-11-16 | 2024-03-15 |
 | [Oublie\-moi](https://open.spotify.com/track/6fLxzXS6PRXglMvu3eNpQJ) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Oublie\-moi](https://open.spotify.com/album/6aArlolikfU8Wd7bOmB4Z6) | 2:35 | 2024-01-25 | 2024-04-19 |
 | [P.U.O.](https://open.spotify.com/track/4MzVaIZs5751w1XQdhmfPJ) | [Baeredith](https://open.spotify.com/artist/11gmga2kStANeq9nBa2TMa) | [RESET](https://open.spotify.com/album/7Fe3FMaXNzFVcUm9DZuq3e) | 2:30 | 2023-09-28 | 2023-11-17 |
@@ -188,12 +191,12 @@
 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 | 2023-12-08 |
 | [Rouge satin](https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Rouge satin](https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT) | 3:45 | 2024-02-22 | 2024-04-05 |
 | [RUN OUTRO](https://open.spotify.com/track/7hlxoJXexx3IgQUQI7HmH8) | [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG) | [8991](https://open.spotify.com/album/0aK1d3sxwKMDGD7PA3tm7u) | 3:31 | 2024-07-25 | 2024-11-08 |
-| [Règles du Game](https://open.spotify.com/track/0mitC7wQ4uDagan8O6seV2) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Règles du Game](https://open.spotify.com/album/3eq1n37bzBnGEnkh4kBOQb) | 2:56 | 2024-09-26 |  |
+| [Règles du Game](https://open.spotify.com/track/0mitC7wQ4uDagan8O6seV2) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Règles du Game](https://open.spotify.com/album/3eq1n37bzBnGEnkh4kBOQb) | 2:56 | 2024-09-26 | 2024-11-22 |
 | [S.O.S](https://open.spotify.com/track/3ZQ2XyZDDcE8zyaQQTiw6t) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [S.O.S](https://open.spotify.com/album/2H8xyJFKbtT8Zp5tvDqmfE) | 2:58 | 2024-11-14 |  |
 | [Sacrifices](https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Sacrifices](https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l) | 3:13 | 2023-09-28 | 2023-11-17 |
 | [Saison](https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 2:56 | 2023-09-28 | 2023-11-10 |
 | [Sans dire au revoir](https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Sans dire au revoir](https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS) | 3:43 | 2023-11-16 | 2023-12-30 |
-| [Sans Moi](https://open.spotify.com/track/4ndGsIoBmYWMaZw70NlsQr) | [itsyaboykp](https://open.spotify.com/artist/00KdrZ7F9o2e00QRE6efQu), [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Sans Moi](https://open.spotify.com/album/2FxhnXkJhjfrNx2y6hj5bA) | 2:40 | 2024-09-19 |  |
+| [Sans Moi](https://open.spotify.com/track/4ndGsIoBmYWMaZw70NlsQr) | [itsyaboykp](https://open.spotify.com/artist/00KdrZ7F9o2e00QRE6efQu), [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [Sans Moi](https://open.spotify.com/album/2FxhnXkJhjfrNx2y6hj5bA) | 2:40 | 2024-09-19 | 2024-11-22 |
 | [Sans réponse](https://open.spotify.com/track/6MgTIxyaLffsfYrGeqloib) | [Brooxy](https://open.spotify.com/artist/3Y9j4vjfKyjLdloNBW1S6S) | [Sans réponse](https://open.spotify.com/album/5abv7rk1YXCAbjC6dD45rO) | 3:27 | 2024-04-18 | 2024-05-24 |
 | [Saudade](https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ) | [AFFA](https://open.spotify.com/artist/6OYuMeXCCMPFWo9816vuu9) | [Saudade](https://open.spotify.com/album/2uU4hrAmslLUYUtKOevSZW) | 4:39 | 2024-04-18 | 2024-05-03 |
 | [Save Me](https://open.spotify.com/track/1RvreQuZ1kRpuAGkUIZ2V7) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Save Me](https://open.spotify.com/album/41erfshyFUBUuPPYxOzt3A) | 2:34 | 2024-11-07 |  |
@@ -212,7 +215,7 @@
 | [Sweet & Sour](https://open.spotify.com/track/5T7CniQD3QkuW4dYYnXgWN) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1), [Gee](https://open.spotify.com/artist/0f6GblrD0ZFUiFJob9f2kx) | [Chick & Dips 2 : The Draft](https://open.spotify.com/album/3QxixShx2IuHif11uiim9y) | 3:46 | 2024-09-19 |  |
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 | 2024-02-02 |
 | [tant que tu](https://open.spotify.com/track/6YTcI8Q9Jd6gp3y2mag1PQ) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [tant que tu](https://open.spotify.com/album/2JAvBvIm2jodW3QPM5NNc0) | 3:20 | 2024-11-07 |  |
-| [Tapage nocturne](https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Tapage nocturne](https://open.spotify.com/album/34zQPFYqL55xpkWxudrAo9) | 2:46 | 2024-06-27 |  |
+| [Tapage nocturne](https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Tapage nocturne](https://open.spotify.com/album/34zQPFYqL55xpkWxudrAo9) | 2:46 | 2024-06-27 | 2024-11-22 |
 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 | 2023-11-30 | 2024-01-19 |
 | [TOMBER](https://open.spotify.com/track/2dd9zGIh8vPvki0zVaNkaV) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [TOMBER](https://open.spotify.com/album/2ihjIrroACvpyiGkrXiZBN) | 1:51 | 2023-09-28 | 2023-11-10 |
 | [Ton masque est tombé](https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Ton masque est tombé](https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ) | 3:23 | 2024-01-11 | 2024-02-23 |

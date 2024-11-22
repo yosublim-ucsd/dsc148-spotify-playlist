@@ -1,13 +1,37 @@
 {
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Davido & YG Marley",
-  "num_followers": 16302,
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=PFD8hpVuRZeJhtgZU_IkRQ\">Cyfred, <a href=\"https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=6WTguHhMSl2Ei8AeFqN3Sg\">Young Jonn  & <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=b792QK9aQu6YawSMhuiOjg\">Scotts Maphuma",
+  "num_followers": 16354,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1VWAAAAABS+xmevrpMcElgV8YxLBzN",
+  "snapshot_id": "Zz+tYAAAAADRfWMjy00jhYMx4lwto1Wy",
   "tracks": [
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Phuthuma (feat. Young Jonn) [Remix]",
+        "url": "https://open.spotify.com/album/3a48Fmv8bwVvp9ov8f4sO0"
+      },
+      "artists": [
+        {
+          "name": "Cyfred",
+          "url": "https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 323113,
+      "name": "Phuthuma (feat. Young Jonn) - Remix",
+      "url": "https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1"
+    },
     {
       "added_at": "2024-11-08 00:03:36",
       "album": {
@@ -679,22 +703,6 @@
       "duration_ms": 255072,
       "name": "Off My Mind (feat. Bien and Moliy)",
       "url": "https://open.spotify.com/track/7guMnTaBWCDcOWONIYZTGp"
-    },
-    {
-      "added_at": "2024-11-08 00:03:36",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch"
-      },
-      "artists": [
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 358938,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/64uHIutDM1LeKX12mONusv"
     },
     {
       "added_at": "2024-11-08 00:03:36",

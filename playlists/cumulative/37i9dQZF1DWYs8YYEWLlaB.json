@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler. Kapak: Emir Can \u0130\u011frek",
+  "description": "viral, trend ve y\u00fckselenler. Kapak: Burak Bulut",
   "name": "trend 2024",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 110000,
       "name": "Ait Hissetmiyorum",
       "url": "https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn"
+    },
+    {
+      "album": {
+        "name": "Ama Yine Sen",
+        "url": "https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134946,
+      "name": "Ama Yine Sen",
+      "url": "https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ"
     },
     {
       "album": {
@@ -56,7 +74,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -99,6 +117,24 @@
     },
     {
       "album": {
+        "name": "G\u00fcliz Ayla",
+        "url": "https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcliz Ayla",
+          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198665,
+      "name": "Bahsetmem Laz\u0131m",
+      "url": "https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX"
+    },
+    {
+      "album": {
         "name": "Bir Bakm\u0131\u015fs\u0131n",
         "url": "https://open.spotify.com/album/4lefgXP8RY8zV7QLQ7DJvS"
       },
@@ -135,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Benden Uzak Dur",
+        "url": "https://open.spotify.com/album/7lfzD9WCAmBrLxIkSKu8xm"
+      },
+      "artists": [
+        {
+          "name": "Bedo",
+          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
+        },
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "Benden Uzak Dur",
+      "url": "https://open.spotify.com/track/2IAPQ0akP6TSqPUguuVkfn"
+    },
+    {
+      "album": {
         "name": "SIR",
         "url": "https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk"
       },
@@ -154,7 +212,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 154298,
       "name": "Bertaraf",
       "url": "https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny"
@@ -408,7 +466,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
@@ -678,7 +736,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 170613,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
@@ -748,7 +806,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181874,
       "name": "ILTIMAS X SUBMARINER",
       "url": "https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M"
@@ -880,7 +938,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 147136,
       "name": "Kapak Olsun",
       "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
@@ -942,7 +1000,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 110459,
       "name": "KASA ORIJINAL",
       "url": "https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft"
@@ -1040,7 +1098,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 212062,
       "name": "Laf\u0131 m\u0131 Olur",
       "url": "https://open.spotify.com/track/6UX8nGE5sT7FsUAgQILD6X"
@@ -1152,7 +1210,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 256777,
       "name": "Numarac\u0131",
       "url": "https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL"
@@ -1242,7 +1300,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 129923,
       "name": "PRENSES",
       "url": "https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m"
@@ -1285,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "\u0130kinci Hal",
+        "url": "https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc",
+          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Sahici",
+      "url": "https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl"
+    },
+    {
+      "album": {
         "name": "Sana El Pen\u00e7e Durmam",
         "url": "https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j"
       },
@@ -1296,7 +1372,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 211682,
       "name": "Sana El Pen\u00e7e Durmam",
       "url": "https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ"
@@ -1336,7 +1412,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 258105,
       "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
       "url": "https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0"
@@ -1354,7 +1430,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 173307,
       "name": "Sen Bilmezsin",
       "url": "https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9"
@@ -1488,7 +1564,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "Yak\u0131\u015f\u0131kl\u0131",
       "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"

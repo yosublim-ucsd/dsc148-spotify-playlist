@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s nuevo de la M\u00fasica Mexicana. Cover: Codiciado, Grupo Firme",
-  "num_followers": 676485,
+  "num_followers": 676611,
   "original_name": "Nueva M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -52,12 +52,12 @@
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
           "name": "Jorsshh",
           "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
       "duration_ms": 178079,

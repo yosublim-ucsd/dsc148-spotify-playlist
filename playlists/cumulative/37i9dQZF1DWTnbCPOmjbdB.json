@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Ka\u015bka Sochacka",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Sylwia Grzeszczak",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 161000,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/0X4jYl5ckZ7BR8243WUBL0"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 161194,
       "name": "Beze mnie",
       "url": "https://open.spotify.com/track/3Et7ioYSx63lA5mzLqeo4R"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184400,
       "name": "Gada\u0107 albo milcze\u0107",
       "url": "https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J"
@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Kochaj mnie zn\u00f3w",
+        "url": "https://open.spotify.com/album/2nheS04LhjDGCKImcoaQ7o"
+      },
+      "artists": [
+        {
+          "name": "Beata Kozidrak",
+          "url": "https://open.spotify.com/artist/0GF5CJ7nKXsMTiWHK4ZQJN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224528,
+      "name": "Kochaj mnie zn\u00f3w",
+      "url": "https://open.spotify.com/track/1CuMmyGktUVQPgiIidI0i3"
+    },
+    {
+      "album": {
         "name": "kochaj na serio",
         "url": "https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 154687,
       "name": "KONFETTI",
       "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
@@ -1890,6 +1908,24 @@
       "duration_ms": 163783,
       "name": "Las",
       "url": "https://open.spotify.com/track/5F1XV0JtbhmFz8JdeyKZQP"
+    },
+    {
+      "album": {
+        "name": "Latawce",
+        "url": "https://open.spotify.com/album/7c8U6QYolAJGd58eCMd0k3"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Latawce",
+      "url": "https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J"
     },
     {
       "album": {
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 180480,
       "name": "Mieszanka",
       "url": "https://open.spotify.com/track/1dodRKfuSIIioJ3csq9nUt"
@@ -2709,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Nie czekam",
+        "url": "https://open.spotify.com/album/0PybGLoAyN2P22ib9YpMF3"
+      },
+      "artists": [
+        {
+          "name": "Marta Bijan",
+          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Nie czekam",
+      "url": "https://open.spotify.com/track/2Swn0CvKnW1VrcJnVfvy4N"
+    },
+    {
+      "album": {
         "name": "Nie ma Ci\u0119 tu",
         "url": "https://open.spotify.com/album/2DXY3yPf7YoSEglJBJ6xO1"
       },
@@ -2836,7 +2890,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 188181,
       "name": "Nie znam tego miejsca",
       "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
@@ -3221,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Ostatni Dzie\u0144",
+        "url": "https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196594,
+      "name": "Ostatni Dzie\u0144",
+      "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
+    },
+    {
+      "album": {
         "name": "Ostatni raz",
         "url": "https://open.spotify.com/album/75cG0ZzLY6XjQamYYHyq18"
       },
@@ -3236,6 +3308,36 @@
       "duration_ms": 253374,
       "name": "Ostatni raz",
       "url": "https://open.spotify.com/track/1VYn5dKMp7iPNB3gwyWZbq"
+    },
+    {
+      "album": {
+        "name": "Pada deszcz",
+        "url": "https://open.spotify.com/album/6gWSwkia6qcHywoDYvMFXD"
+      },
+      "artists": [
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        },
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Sarius",
+          "url": "https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S"
+        },
+        {
+          "name": "Jano Polska Wersja",
+          "url": "https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209171,
+      "name": "Pada deszcz",
+      "url": "https://open.spotify.com/track/4I5vcOq58yehX0CXsJ0KuZ"
     },
     {
       "album": {
@@ -3559,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "Przy Tobie",
+        "url": "https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "Przy Tobie",
+      "url": "https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL"
+    },
+    {
+      "album": {
         "name": "MINT",
         "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
       },
@@ -3578,6 +3698,24 @@
       "duration_ms": 164788,
       "name": "Przy Tobie to...",
       "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
+    },
+    {
+      "album": {
+        "name": "Puch",
+        "url": "https://open.spotify.com/album/5x9Df8HWz68ApKZuqa7VU4"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Puch",
+      "url": "https://open.spotify.com/track/6AizyAFaymmBhE1oSilknl"
     },
     {
       "album": {
@@ -3782,6 +3920,24 @@
       "duration_ms": 160000,
       "name": "Sob\u0105 Tak",
       "url": "https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq"
+    },
+    {
+      "album": {
+        "name": "Stacja Hel",
+        "url": "https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3"
+      },
+      "artists": [
+        {
+          "name": "Stan Zapalny",
+          "url": "https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154986,
+      "name": "Stacja Hel",
+      "url": "https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA"
     },
     {
       "album": {
@@ -4031,6 +4187,28 @@
     },
     {
       "album": {
+        "name": "taki nawyk",
+        "url": "https://open.spotify.com/album/3Kq5ViGpn1ATJzFjmyzT3k"
+      },
+      "artists": [
+        {
+          "name": "PK sisters",
+          "url": "https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P"
+        },
+        {
+          "name": "Jakub Laszuk",
+          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "taki nawyk",
+      "url": "https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY"
+    },
+    {
+      "album": {
         "name": "Na Dwoje Lampa \u015awieci\u0142a",
         "url": "https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn"
       },
@@ -4042,7 +4220,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 182000,
       "name": "Taki plan",
       "url": "https://open.spotify.com/track/11bS9b18NOz23W3Vwj6B9M"
@@ -4082,6 +4260,28 @@
       "duration_ms": 195093,
       "name": "Tam s\u0142o\u0144ce, gdzie my",
       "url": "https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8"
+    },
+    {
+      "album": {
+        "name": "Klasycznie",
+        "url": "https://open.spotify.com/album/5IkOtMOKmRE7HjF0vH0UDQ"
+      },
+      "artists": [
+        {
+          "name": "Ochman",
+          "url": "https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc"
+        },
+        {
+          "name": "Ma\u0142gorzata Ostrowska",
+          "url": "https://open.spotify.com/artist/2dsPS2b35AIzajDCQWJrYA"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200187,
+      "name": "Taniec pingwina na szkle",
+      "url": "https://open.spotify.com/track/2BrlATApqB2DQimTGXCVzn"
     },
     {
       "album": {
@@ -4234,6 +4434,28 @@
       "duration_ms": 149323,
       "name": "Troch\u0119 Za Blisko",
       "url": "https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz"
+    },
+    {
+      "album": {
+        "name": "piosenki z 3 s\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/52A5HXySV66AA6eiiBP9wX"
+      },
+      "artists": [
+        {
+          "name": "Magda Bereda",
+          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+        },
+        {
+          "name": "Anka",
+          "url": "https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186083,
+      "name": "Tulipany",
+      "url": "https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6"
     },
     {
       "album": {
@@ -4422,7 +4644,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168333,
       "name": "Wiatr",
       "url": "https://open.spotify.com/track/3KWWFT878MW91P22IealNu"
@@ -4698,7 +4920,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176842,
       "name": "Za r\u0119k\u0119",
       "url": "https://open.spotify.com/track/7cPSgtVt4rwYK634SirtSp"
@@ -4930,7 +5152,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 204579,
       "name": "Zostan\u0119 tu z Tob\u0105",
       "url": "https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu"
@@ -5086,7 +5308,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134794,
       "name": "\u0141adny Ch\u0142opiec",
       "url": "https://open.spotify.com/track/2RD7lUyks4JK8ZtRW3ZBJA"

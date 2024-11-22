@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: BADBADNOTGOOD",
+  "description": "These are the eclectic sounds of now. Cover: Tinariwen",
   "name": "Alt Here",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 292786,
       "name": "Dawn [ft. esperanza spalding]",
       "url": "https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 135529,
       "name": "Give and Take",
       "url": "https://open.spotify.com/track/79KR3ToqEY0FpB2Ld1JcPi"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
@@ -2279,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Hypnagogic",
+        "url": "https://open.spotify.com/album/3ELHI8IOc8XpEkjAdPVAN9"
+      },
+      "artists": [
+        {
+          "name": "Intermood",
+          "url": "https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520078,
+      "name": "Hypnagogic",
+      "url": "https://open.spotify.com/track/19YzjlwTGVCoeCp4l38aXA"
+    },
+    {
+      "album": {
         "name": "When you wake up",
         "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
       },
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 266236,
       "name": "I am your house",
       "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
@@ -2366,6 +2384,24 @@
       "duration_ms": 207778,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1ly4D2mzZoTsac7VfjpBxe"
+      },
+      "artists": [
+        {
+          "name": "Sweet Boy",
+          "url": "https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "i tore out my heart",
+      "url": "https://open.spotify.com/track/4ZqKMjhcHl3XrfRBMjd0hP"
     },
     {
       "album": {
@@ -2661,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312326,
+      "name": "Josh Tillman and the Accidental Dose",
+      "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
+    },
+    {
+      "album": {
         "name": "Just A Western",
         "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
       },
@@ -2698,6 +2752,24 @@
       "duration_ms": 241379,
       "name": "Just A Western - Boy Harsher Remix",
       "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
+    },
+    {
+      "album": {
+        "name": "Keep On Swimming",
+        "url": "https://open.spotify.com/album/6D18xnGrryXPJ9QUuTOnzl"
+      },
+      "artists": [
+        {
+          "name": "Hachiku",
+          "url": "https://open.spotify.com/artist/5HfeTpsKxVyfweIfKsSvIT"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "Keep On Swimming",
+      "url": "https://open.spotify.com/track/5GcO8t2A4ekvUJcA7CZrbM"
     },
     {
       "album": {
@@ -2922,7 +2994,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
@@ -3827,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "album": {
         "name": "One More Step",
         "url": "https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG"
       },
@@ -3878,7 +3968,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
@@ -4106,7 +4196,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 407710,
       "name": "Punish",
       "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
@@ -4194,6 +4284,24 @@
       "duration_ms": 207333,
       "name": "Rebel Soul",
       "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
+    },
+    {
+      "album": {
+        "name": "Marry Me Tonight",
+        "url": "https://open.spotify.com/album/0UdPmSFMw6cnXxlBEr3mN6"
+      },
+      "artists": [
+        {
+          "name": "HTRK",
+          "url": "https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Rent Boy",
+      "url": "https://open.spotify.com/track/4J8458lcLZQoAKo9WLSkaS"
     },
     {
       "album": {
@@ -4555,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Idrache (Traces Of The Past)",
+        "url": "https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313626,
+      "name": "Soixante Trois",
+      "url": "https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M"
+    },
+    {
+      "album": {
         "name": "Some Kind of Angel / Split Lip",
         "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
       },
@@ -4656,7 +4782,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 340511,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6qJhutjFcSkcLXGZWLJ8EI"
@@ -5144,7 +5270,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
@@ -5220,6 +5346,24 @@
       "duration_ms": 194106,
       "name": "The Groke",
       "url": "https://open.spotify.com/track/6aDXwAUnEqMFzBx2i7wgpc"
+    },
+    {
+      "album": {
+        "name": "The High",
+        "url": "https://open.spotify.com/album/0NGiSoVy69K6jLqidcgli5"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295125,
+      "name": "The High",
+      "url": "https://open.spotify.com/track/0ECkSquRuDEjn0fbmo7y5I"
     },
     {
       "album": {
@@ -5310,7 +5454,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 203410,
       "name": "The Taste",
       "url": "https://open.spotify.com/track/1RrnKCghemvwal9nJHinhn"
@@ -5368,6 +5512,42 @@
       "duration_ms": 212608,
       "name": "The World Above",
       "url": "https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1"
+    },
+    {
+      "album": {
+        "name": "THEN THERE'S ONE",
+        "url": "https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84478,
+      "name": "THEN THERE'S ONE",
+      "url": "https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg"
+    },
+    {
+      "album": {
+        "name": "Ripple On The Wing",
+        "url": "https://open.spotify.com/album/1tdv6dpcgqA9eZP8MHzEhS"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223245,
+      "name": "There's A Fire, Yet To Burn",
+      "url": "https://open.spotify.com/track/38tSQAvgOBe77xcXsujBy1"
     },
     {
       "album": {
@@ -5645,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Unplanned",
+        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Unplanned",
+      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
+    },
+    {
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL"
       },
@@ -5808,7 +6006,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134765,
       "name": "Waiting by the Phone",
       "url": "https://open.spotify.com/track/166qPsm4hCjDRzuhNUacjZ"

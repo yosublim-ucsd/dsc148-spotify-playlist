@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 7644,
+  "num_followers": 7650,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACCzk43V4zLTuKxoHS8LFis",
+  "snapshot_id": "Zz0mgAAAAAAZKFPMw2pk378R+IsdY86i",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 141026,
-      "name": "Para Qu\u00e9 Volviste",
-      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
+      "duration_ms": 248057,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 248057,
-      "name": "Que Le Vaya Bien",
-      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
+      "duration_ms": 141026,
+      "name": "Para Qu\u00e9 Volviste",
+      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Y Todav\u00eda Hay Amor",
-      "url": "https://open.spotify.com/track/06lla8LEMeZ7zV4YILOpA2"
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 137493,
-      "name": "De Que Me Sirve",
-      "url": "https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP"
+      "duration_ms": 157600,
+      "name": "Y Todav\u00eda Hay Amor",
+      "url": "https://open.spotify.com/track/06lla8LEMeZ7zV4YILOpA2"
     },
     {
       "added_at": null,

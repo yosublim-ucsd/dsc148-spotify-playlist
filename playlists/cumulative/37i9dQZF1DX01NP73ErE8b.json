@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Elodie e Tiziano Ferro ",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Lazza",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 184250,
       "name": "Black Nirvana",
       "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 191133,
       "name": "Marziani",
       "url": "https://open.spotify.com/track/333snPErLohYVTHPI5BT3k"
@@ -1406,6 +1406,24 @@
       "duration_ms": 175953,
       "name": "Molto amore",
       "url": "https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI"
+    },
+    {
+      "album": {
+        "name": "Montecristo",
+        "url": "https://open.spotify.com/album/0FhHrmeDZA5RpNtxBP15hM"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236465,
+      "name": "Montecristo",
+      "url": "https://open.spotify.com/track/5Mug8werT9EigkfO7dr5ld"
     },
     {
       "album": {
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 148571,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
@@ -1732,6 +1750,24 @@
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"
+    },
+    {
+      "album": {
+        "name": "PERICOLOSA",
+        "url": "https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "PERICOLOSA",
+      "url": "https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt"
     },
     {
       "album": {
@@ -2216,6 +2252,28 @@
       "duration_ms": 163333,
       "name": "SOLO GUAI",
       "url": "https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3"
+    },
+    {
+      "album": {
+        "name": "FREE LOVE",
+        "url": "https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        },
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234173,
+      "name": "Solo se sbagli (feat. Tiziano Ferro)",
+      "url": "https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92"
     },
     {
       "album": {

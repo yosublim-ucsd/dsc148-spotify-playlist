@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Dusty Future / Struggle",
+        "url": "https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221066,
+      "name": "Dusty Future",
+      "url": "https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D"
+    },
+    {
+      "album": {
         "name": "Dynamics",
         "url": "https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX"
       },
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 382224,
       "name": "moon",
       "url": "https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ"
@@ -2755,6 +2773,32 @@
     },
     {
       "album": {
+        "name": "Shedding",
+        "url": "https://open.spotify.com/album/3EoTwixFrvPz9t4ILcZo4t"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Milan Ring",
+          "url": "https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Shedding",
+      "url": "https://open.spotify.com/track/6BtCXB1U52fzKc8oWTvfwm"
+    },
+    {
+      "album": {
         "name": "ECHOES OF PRAYER",
         "url": "https://open.spotify.com/album/37gmVglfhCEkWwiefTKuC6"
       },
@@ -3192,7 +3236,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 241960,
       "name": "Vibes, Mood, Tension, Motivation (feat. crime6)",
       "url": "https://open.spotify.com/track/1ZpDXYpUm9TICUTJf7SYmw"
@@ -3262,6 +3306,28 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "album": {
+        "name": "Water Suite (Thirst) [Kassa Overall Remix]",
+        "url": "https://open.spotify.com/album/5vMhg9CcYR1k8BHLkhUCHZ"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252187,
+      "name": "Water Suite (Thirst) - Kassa Overall Remix",
+      "url": "https://open.spotify.com/track/2FWVrnCVA1oX8f6jHGaTRq"
     },
     {
       "album": {
@@ -3456,7 +3522,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 300330,
       "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b...",
       "url": "https://open.spotify.com/track/0CD7ka9q4HOvyWFfdfBqF8"

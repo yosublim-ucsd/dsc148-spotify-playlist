@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-462 songs - 1 day 6 hr 20 min
+463 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [如果現在就是一輩子Demo \- Bonus track](https://open.spotify.com/track/6dyyuyyxt9CyyWUrueKWA7) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [潘嘉麗Kelly同名專輯](https://open.spotify.com/album/0QW25Iew4wU60kn06up4Bm) | 3:08 | 2023-01-05 | 2023-01-20 |
 | [媽媽的乖小孩](https://open.spotify.com/track/4o1K1SplVBinrivQ28z7xa) | [徐鳳儀](https://open.spotify.com/artist/7FWjJt3edwELsTBsfLMYmY) | [媽媽的乖小孩](https://open.spotify.com/album/1dCWuioDngyxtVlixsKQxs) | 4:55 | 2024-10-31 | 2024-11-08 |
 | [孤島](https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [孤島](https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P) | 3:14 | 2022-10-31 | 2022-12-13 |
+| [孩子啊](https://open.spotify.com/track/5erYGH4LUAbHNBBE9iL46E) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [孩子啊](https://open.spotify.com/album/1MvX3vqtHhXP7C6YGQMmvu) | 4:13 | 2024-11-21 |  |
 | [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 | 2024-05-02 |  |
 | [安靜的小時候](https://open.spotify.com/track/39k3htEr4otpjsLcGnBVhV) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [安靜的小時候](https://open.spotify.com/album/778AJZLI67muSDyPDbkw7P) | 5:22 | 2024-04-18 | 2024-04-29 |
 | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/album/1VVAlZiFxfPpaod1qG8nUh) | 4:06 | 2022-06-02 | 2022-07-29 |
@@ -221,7 +222,7 @@
 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 | 2024-08-22 |  |
 | [已離去](https://open.spotify.com/track/24bpoYjvE079hOuAKs0KRN) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [已離去](https://open.spotify.com/album/4MgkLUntMapq37XIAYIDei) | 4:08 | 2023-06-22 | 2023-07-11 |
 | [已離去 \(2023\)](https://open.spotify.com/track/1H06LCOWBtL0rBKFyjscig) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [已離去 \(2023\)](https://open.spotify.com/album/7sqAYjV5i3oiu5QAVKAEMz) | 4:27 | 2023-11-30 | 2023-12-12 |
-| [希望有一天](https://open.spotify.com/track/7bqPWDqqyvGIps8igQ1CWK) | [徐鳳儀](https://open.spotify.com/artist/7FWjJt3edwELsTBsfLMYmY) | [希望,有一天](https://open.spotify.com/album/5dZ43s7lF9X9yljwRjJekR) | 3:21 | 2024-11-14 |  |
+| [希望有一天](https://open.spotify.com/track/7bqPWDqqyvGIps8igQ1CWK) | [徐鳳儀](https://open.spotify.com/artist/7FWjJt3edwELsTBsfLMYmY) | [希望,有一天](https://open.spotify.com/album/5dZ43s7lF9X9yljwRjJekR) | 3:21 | 2024-11-14 | 2024-11-22 |
 | [席地而坐](https://open.spotify.com/track/27qSPXGaBmXNhBAss1P7aI) | [leafyeh](https://open.spotify.com/artist/3lN5TnoCbzUqwIMFQrGkx8) | [生滅](https://open.spotify.com/album/4cwzJiqUbBAUjnmU16XbeW) | 4:13 | 2022-06-30 | 2022-07-06 |
 | [常綠 \(feat\. 大竹研\)](https://open.spotify.com/track/5DZPoruh0dtxfpng6RwyeH) | [張淦勛 Giyu Tjuljaviya](https://open.spotify.com/artist/6164qyIB1Wgt5q2TeZsNp4), [大竹研](https://open.spotify.com/artist/6vnrD4pSsbclrLjDhulGxz) | [常綠 \(feat\. 大竹研\)](https://open.spotify.com/album/2iyqaxd83FPert0vUkf4bi) | 4:32 | 2024-07-25 | 2024-08-02 |
 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 | 2022-06-02 |  |

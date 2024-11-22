@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 陶喆 \(David Tao\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,207 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,262 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 22 | [遺失的美好](https://open.spotify.com/track/3kcnCi8MfkMqFKeznqEEOE) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Over The Rainbow](https://open.spotify.com/album/5pIMneTJoyhQMS9nVPsmcT) | 4:21 |
 | 23 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 |
 | 24 | [逆光](https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:54 |
-| 25 | [遺憾](https://open.spotify.com/track/5nQCxF5H1f0XcEWeaRVUED) | [Abin Fang](https://open.spotify.com/artist/3sHU5vwszRfnJNhvcYNZdS) | [壞人情歌:遺憾](https://open.spotify.com/album/5wZfz7wvQAgQqjQBBPJc7W) | 3:50 |
+| 25 | [遺憾](https://open.spotify.com/track/5nQCxF5H1f0XcEWeaRVUED) | [Abin Fang](https://open.spotify.com/artist/3sHU5vwszRfnJNhvcYNZdS) | [壞人情歌：遺憾](https://open.spotify.com/album/5wZfz7wvQAgQqjQBBPJc7W) | 3:50 |
 | 26 | [我可以](https://open.spotify.com/track/6ufjxyxCJeYKw82FoaLjfd) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [蔡旻佑首張創作專輯 19](https://open.spotify.com/album/3cyDc8JHTIUizviL48vrbf) | 4:26 |
 | 27 | [愛多少 早知道](https://open.spotify.com/track/2YPzFxQ7iIYPEuIV37yRWI) | [殷悅](https://open.spotify.com/artist/2frQ74368SuSVnXGJCCgqU) | [愛的Melody](https://open.spotify.com/album/0ANEyTelHpfeA0JjmeWeH3) | 4:30 |
 | 28 | [不得不愛](https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [高手](https://open.spotify.com/album/2BH0E9RymXvSKzFr0mgXE7) | 4:41 |

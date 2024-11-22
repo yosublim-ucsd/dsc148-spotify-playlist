@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Anji, Fiersa Besari",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Budi Doremi, Anggi Marito",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -212,6 +212,28 @@
       "duration_ms": 245086,
       "name": "Aku Takdirmu",
       "url": "https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K"
+    },
+    {
+      "album": {
+        "name": "Aku Tanpa Kamu Tanpa Aku",
+        "url": "https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        },
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267392,
+      "name": "Aku Tanpa Kamu Tanpa Aku",
+      "url": "https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0"
     },
     {
       "album": {
@@ -1008,6 +1030,24 @@
       "duration_ms": 171951,
       "name": "Criminal (Over You)",
       "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6MtNCqErxlSmfuGiEuTwpj"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176712,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/1zMB9Lc5euKQWMUjPHghcv"
     },
     {
       "album": {
@@ -1878,6 +1918,28 @@
       "duration_ms": 270800,
       "name": "Jatuh Rapuh",
       "url": "https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS"
+    },
+    {
+      "album": {
+        "name": "Jauh Di Sana",
+        "url": "https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Jauh Di Sana - Bahasa Indonesia Single Version",
+      "url": "https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s"
     },
     {
       "album": {

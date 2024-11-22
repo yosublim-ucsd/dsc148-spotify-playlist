@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Ghali in cover della più grande playlist in Italia! 🏆
+> Pinguini Tattici Nucleari in cover della più grande playlist in Italia! 🏆
 
-111 songs - 5 hr 39 min
+113 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,13 +28,14 @@
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-06-28 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-28 | 2024-09-28 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-28 |  |
-| [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 | 2024-06-28 |  |
+| [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 | 2024-06-28 | 2024-11-22 |
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-10-17 |  |
 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 | 2024-09-26 |  |
 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 | 2024-08-29 | 2024-09-06 |
-| [CHIARA](https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CHIARA](https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm) | 2:29 | 2024-09-26 |  |
+| [CHIARA](https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CHIARA](https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm) | 2:29 | 2024-09-26 | 2024-11-22 |
 | [CLICK BOOM!](https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [CLICK BOOM!](https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l) | 3:45 | 2024-06-28 | 2024-08-02 |
 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 | 2024-06-28 | 2024-11-08 |
+| [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 | 2024-11-21 |  |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-06-28 | 2024-11-08 |
 | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa) | 2:28 | 2024-09-16 | 2024-10-26 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-22 |  |
@@ -70,6 +71,7 @@
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-06-28 | 2024-09-06 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-07-12 |
 | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-06-28 | 2024-09-14 |
+| [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-21 |  |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-28 |  |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 | 2024-09-21 |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-06-28 | 2024-10-18 |

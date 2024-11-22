@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Olamide
 
-316 songs - 16 hr 32 min
+317 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 | 2021-12-21 | 2024-07-27 |
 | [On My Own](https://open.spotify.com/track/4zcfiDFbvmL9ci2QaFmUcL) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c), [Suffix](https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s), [Meek](https://open.spotify.com/artist/5byyBDHX1qHmRwHldi9pRp) | [On My Own](https://open.spotify.com/album/2mNVGKIBlzM8gDwj7BMR9c) | 2:33 | 2023-12-08 | 2024-05-10 |
 | [ONE TIME](https://open.spotify.com/track/7uloC7Sgo5KNFKrgRepyhJ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [P2 : THE BIG HEARTED BAD GUY](https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1) | 3:04 | 2023-11-10 | 2024-05-09 |
+| [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 | 2024-11-22 |  |
 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-08 |  |
 | [Ox](https://open.spotify.com/track/4ZudOHw5GMiugumo4VgCQv) | [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW) | [Ox](https://open.spotify.com/album/7fRda1dXtIniKmUYXbuTOJ) | 2:38 | 2021-10-14 | 2022-03-17 |
 | [Pardon My Arrogance](https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [K1NG](https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9) | [Pardon My Arrogance](https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW) | 1:58 | 2022-09-23 | 2022-10-29 |
@@ -305,7 +306,7 @@
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-10-14 | 2024-07-27 |
 | [WAR MACHINE](https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:37 | 2024-07-11 |  |
 | [War Paint](https://open.spotify.com/track/086H865L3KSS8bGlUImH90) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Green](https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG) | 2:36 | 2022-03-17 | 2022-07-22 |
-| [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 | 2024-05-17 |  |
+| [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 | 2024-05-17 | 2024-11-22 |
 | [Wavy \(feat\. Sarkodie\)](https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Wavy \(feat\. Sarkodie\)](https://open.spotify.com/album/2zeHV57xWREaaxS5S3hhoB) | 4:11 | 2021-10-14 | 2023-04-21 |
 | [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-17 | 2024-11-16 |
 | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 | 2023-08-19 |

@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 396273,
+  "num_followers": 396324,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1551,30 +1551,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
-        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 145032,
-      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
-      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
       },
@@ -1595,6 +1571,30 @@
       "duration_ms": 123669,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
+        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 145032,
+      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
+      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "LA DI DA",
+        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "DJane HouseKat",
+          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+        }
+      ],
+      "duration_ms": 179824,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 189257,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "LA DI DA",
-        "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "DJane HouseKat",
-          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "LA DI DA",
-      "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/4w9ZyBnfyr7HBF3VDZhByA"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 122424,
       "name": "Melody",
       "url": "https://open.spotify.com/track/59lfG5dM0s7uyX3JbJoPsz"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Bel Mercy (Techno)",
+        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
+      },
+      "artists": [
+        {
+          "name": "Paayne",
+          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Bel Mercy - Techno",
+      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
       },
@@ -2067,26 +2083,6 @@
       "duration_ms": 165018,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     }
   ],
   "unique_name": "Bass Explosion",

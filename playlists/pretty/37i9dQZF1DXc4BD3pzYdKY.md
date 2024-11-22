@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:7r3HxO330lmabOprT2MMFK">Aklesso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,332 likes - 89 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,388 likes - 89 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

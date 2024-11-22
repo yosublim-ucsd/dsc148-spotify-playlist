@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 270747,
       "name": "Cold Summer",
       "url": "https://open.spotify.com/track/1pzU73UQLA3PhwwBQLQZPC"
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 216094,
       "name": "Forever Ayayay",
       "url": "https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU"
@@ -2954,6 +2954,24 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "album": {
@@ -4529,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312326,
+      "name": "Josh Tillman and the Accidental Dose",
+      "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
+    },
+    {
+      "album": {
         "name": "JUMP!",
         "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
       },
@@ -5221,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "the side-effects of living in a fantasy",
+        "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "matter",
+      "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
+    },
+    {
+      "album": {
         "name": "Mayhem (feat. Naaz)",
         "url": "https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96"
       },
@@ -5778,7 +5832,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 237213,
       "name": "Nobody's Soldier",
       "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
@@ -6124,7 +6178,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 234237,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
@@ -6290,10 +6344,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "album": {
+        "name": "People Watching (Edit)",
+        "url": "https://open.spotify.com/album/7B55XuKBJVtYjKzOF6R4CB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "People Watching - Edit",
+      "url": "https://open.spotify.com/track/6KUypF1l9fVmXoU7MdtYPg"
     },
     {
       "album": {
@@ -9546,6 +9618,24 @@
       "duration_ms": 181346,
       "name": "WHEN IT HURTS",
       "url": "https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk"
+    },
+    {
+      "album": {
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189927,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7"
     },
     {
       "album": {

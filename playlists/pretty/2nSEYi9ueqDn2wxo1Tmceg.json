@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQOr4mVKNcTLwbLmaWnibxlVhSnzbZ",
+  "snapshot_id": "AAAQPArGDU0Ia750wrPbuo6d76yLu25M",
   "tracks": [
+    {
+      "added_at": "2024-11-21 10:20:48",
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
     {
       "added_at": "2024-11-20 15:11:50",
       "album": {

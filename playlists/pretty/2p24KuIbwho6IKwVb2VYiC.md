@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Felix Cartal, Tegan &amp; Sara
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,840 likes - 140 songs - 7 hr 22 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,843 likes - 140 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

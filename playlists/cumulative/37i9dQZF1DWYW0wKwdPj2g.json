@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Mercy Chinwo",
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: I-fee Sound and Chinemerem",
   "name": "Come Alive",
   "tracks": [
     {
@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Before Your Throne (Live)",
+        "url": "https://open.spotify.com/album/4u2vnwlPnxYKdIpAn3b7wo"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 765957,
+      "name": "Before Your Throne - Live",
+      "url": "https://open.spotify.com/track/27LcHHruNMuHCN6Fc9L6U4"
+    },
+    {
+      "album": {
         "name": "Beyond me - Live at Yalic, Abuja",
         "url": "https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9"
       },
@@ -264,6 +286,28 @@
       "duration_ms": 598230,
       "name": "Beyond me - Live at Yalic, Abuja",
       "url": "https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG"
+    },
+    {
+      "album": {
+        "name": "Bless The Lord God",
+        "url": "https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA"
+      },
+      "artists": [
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        },
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245358,
+      "name": "Bless The Lord God",
+      "url": "https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed"
     },
     {
       "album": {
@@ -1149,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Khona Manje (Live)",
+        "url": "https://open.spotify.com/album/65da7LjChvizDlebOaZnvw"
+      },
+      "artists": [
+        {
+          "name": "Busi Sibiya",
+          "url": "https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273097,
+      "name": "Khona Manje - Live",
+      "url": "https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk"
+    },
+    {
+      "album": {
         "name": "Come to Jesus (Live in Bryanston, 2022)",
         "url": "https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499"
       },
@@ -1600,7 +1662,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 513913,
       "name": "Ngithol\u2019 uMhlobo (Live)",
       "url": "https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn"
@@ -1891,6 +1953,28 @@
     },
     {
       "album": {
+        "name": "Osivwi (My Redeemer)",
+        "url": "https://open.spotify.com/album/0S6zkrcx4YFxAWAGYrTqqW"
+      },
+      "artists": [
+        {
+          "name": "Onome Ovwori",
+          "url": "https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy"
+        },
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579000,
+      "name": "Osivwi (My Redeemer)",
+      "url": "https://open.spotify.com/track/1W9mDCe9Gum4XlBtKMux0r"
+    },
+    {
+      "album": {
         "name": "Spirit Of Praise 10 (Live)",
         "url": "https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv"
       },
@@ -2164,7 +2248,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 560282,
       "name": "That's Why We Worship - Live",
       "url": "https://open.spotify.com/track/2DawLOye9o0ts6hO3q84Mp"
@@ -2230,7 +2314,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 650760,
       "name": "The Promise - Live",
       "url": "https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd"
@@ -2256,7 +2340,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 254328,
       "name": "The River of God (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/6Su3RQXSE6EM0Y7yjP2ZdB"
@@ -2472,7 +2556,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
@@ -2622,6 +2706,24 @@
       "duration_ms": 988500,
       "name": "Yahweh - Live",
       "url": "https://open.spotify.com/track/17JCFTaxVL74FTHZQhTvtj"
+    },
+    {
+      "album": {
+        "name": "Yahweh Yahweh Live",
+        "url": "https://open.spotify.com/album/6YAUYIwp6jBtIf16Nfr2Zx"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "Yahweh Yahweh Live",
+      "url": "https://open.spotify.com/track/00R0TlcmrzdHKClAM1xW13"
     },
     {
       "album": {

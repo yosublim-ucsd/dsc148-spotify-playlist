@@ -1,13 +1,29 @@
 {
   "description": "Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom",
-  "num_followers": 67580,
+  "num_followers": 67614,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvOdWwAAAACiyo+gp9TdpOdzei2zzlHF",
+  "snapshot_id": "Zz+moQAAAACKafStEdHaDm9in5rw2jLB",
   "tracks": [
+    {
+      "added_at": "2024-11-21 21:31:13",
+      "album": {
+        "name": "The Way It Was Before (End Credits Version) [From the Netflix film by Skydance Animation \"Spellbound\"]",
+        "url": "https://open.spotify.com/album/60hiESggNyRXv4japokeyn"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 226277,
+      "name": "The Way It Was Before (End Credits Version)",
+      "url": "https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {

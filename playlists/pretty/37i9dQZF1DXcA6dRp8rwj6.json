@@ -1,13 +1,121 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Cordae)",
-  "num_followers": 445785,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Jack Harlow)",
+  "num_followers": 445804,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzYQcAAAAAAslxTKJw6/4ZsIiinaYdXm",
+  "snapshot_id": "Zz9nEAAAAAAPWBhKhrwMfkH3dUyYwSy7",
   "tracks": [
+    {
+      "added_at": "2024-11-21 17:00:00",
+      "album": {
+        "name": "AGATS2 (Insecure) [with Nicki Minaj]",
+        "url": "https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199073,
+      "name": "AGATS2 (Insecure) [with Nicki Minaj]",
+      "url": "https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm"
+    },
+    {
+      "added_at": "2024-11-21 17:00:00",
+      "album": {
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+    },
+    {
+      "added_at": "2024-11-21 17:00:00",
+      "album": {
+        "name": "One More Chance",
+        "url": "https://open.spotify.com/album/0ldvO4ahdgUdaLIfqZBmBM"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 145654,
+      "name": "One More Chance",
+      "url": "https://open.spotify.com/track/21uSNJ4eu3ou54g7D4cGTY"
+    },
+    {
+      "added_at": "2024-11-21 17:00:00",
+      "album": {
+        "name": "I Love My Life",
+        "url": "https://open.spotify.com/album/2zwfLXppN9Yc2FW53LIQfX"
+      },
+      "artists": [
+        {
+          "name": "BAER",
+          "url": "https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "I Love My Life",
+      "url": "https://open.spotify.com/track/1zVwPx2pMgTOjlEKx3xK9q"
+    },
+    {
+      "added_at": "2024-11-21 17:00:00",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/26poS8KRHcz750XJNahV6P"
+      },
+      "artists": [
+        {
+          "name": "Diverseddie",
+          "url": "https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq"
+        },
+        {
+          "name": "Yoanko Futura",
+          "url": "https://open.spotify.com/artist/6kTCSmBx0sWMVGhVsNvCat"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/02FNEPzq6bTUOXoYc8nmso"
+    },
+    {
+      "added_at": "2024-11-21 17:00:00",
+      "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/2oUKDqojhgfDu1Vfo5r5yw"
+      },
+      "artists": [
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "duration_ms": 147168,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/4Fnd3gIheWMWXSbdxjcuOJ"
+    },
     {
       "added_at": "2024-11-14 15:00:00",
       "album": {
@@ -177,7 +285,7 @@
         },
         {
           "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw"
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
       "duration_ms": 242428,
@@ -1771,22 +1879,6 @@
     {
       "added_at": "2024-11-14 15:00:00",
       "album": {
-        "name": "STORY TO BE TOLD",
-        "url": "https://open.spotify.com/album/1tHrA5f17EVSpA7ZKsNQzs"
-      },
-      "artists": [
-        {
-          "name": "Yaung",
-          "url": "https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "POP IT",
-      "url": "https://open.spotify.com/track/1oQxB04uhKjbbWUgr8kMKE"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
         "name": "Who let The D out?",
         "url": "https://open.spotify.com/album/6KuivjAPbzFDdhu8SuI1RT"
       },
@@ -1799,170 +1891,6 @@
       "duration_ms": 181303,
       "name": "Who let The D out?",
       "url": "https://open.spotify.com/track/0WJij6VmkgDSDHWs2axFjw"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Feeling You",
-        "url": "https://open.spotify.com/album/6nX4uZAT5av8ht6fYpGQkp"
-      },
-      "artists": [
-        {
-          "name": "Oak Soe Khant",
-          "url": "https://open.spotify.com/artist/4gSpAieRN9BpFi3TRkkIQx"
-        },
-        {
-          "name": "ZENTYARB",
-          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Feeling You",
-      "url": "https://open.spotify.com/track/5KODjRsChz2z8tavifkPmP"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "BRIGHT TIMES feat. Kohjiya",
-        "url": "https://open.spotify.com/album/4dXOQXVAyabOjpANPgg2TL"
-      },
-      "artists": [
-        {
-          "name": "SALU",
-          "url": "https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3"
-        },
-        {
-          "name": "Kohjiya",
-          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "BRIGHT TIMES feat. Kohjiya",
-      "url": "https://open.spotify.com/track/29sChyERg3I2cwGqCyHhEd"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Higher Quality",
-        "url": "https://open.spotify.com/album/2UyRN2SvgJjb8zWX91dJbI"
-      },
-      "artists": [
-        {
-          "name": "Sambal Snake",
-          "url": "https://open.spotify.com/artist/2sfACHVFHsnFIdNEvqphji"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Higher Quality",
-      "url": "https://open.spotify.com/track/5AGHgVIGMXGGpcP9yy3Cwt"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Allure (feat. Future & Mike WiLL Made-It)",
-        "url": "https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 190904,
-      "name": "Allure (feat. Future & Mike WiLL Made-It)",
-      "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Monitoring Me",
-        "url": "https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Monitoring Me",
-      "url": "https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Tough (Channel Tres Remix)",
-        "url": "https://open.spotify.com/album/2vJu4551iNpu7oXJ6ymLi0"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 188766,
-      "name": "Tough - Channel Tres Remix",
-      "url": "https://open.spotify.com/track/3oBkOHVnI63U8e1ZiLnJ7r"
-    },
-    {
-      "added_at": "2024-11-14 15:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9"
-      },
-      "artists": [
-        {
-          "name": "sanjay.",
-          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
-        },
-        {
-          "name": "Eric Sisco",
-          "url": "https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA"
-        },
-        {
-          "name": "Lushroom",
-          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP"
     }
   ],
   "unique_name": "Beats & Rhymes",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,215 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,241 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 31 | [I think I like you \- Instrumental](https://open.spotify.com/track/2jG9RJE8nqUGBAociaCTT6) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [A Poem a Day \(tvN DRAMA\) OST Part.10](https://open.spotify.com/album/38evbF1rf3tenVNgOi6Sb9) | 3:48 |
 | 32 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 | 33 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
-| 34 | [Did \- Thirty\-nine Instrumental Version](https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
-| 35 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
+| 34 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
+| 35 | [Did \- Thirty\-nine Instrumental Version](https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
 | 36 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
-| 37 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
-| 38 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
+| 37 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
+| 38 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
 | 39 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
 | 40 | [Your world \(Inst.\)](https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 |
 | 41 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\) \(Inst.\)](https://open.spotify.com/track/749UBIskacge8qFMxeoZOn) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |

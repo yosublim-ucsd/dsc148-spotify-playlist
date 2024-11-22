@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Afgan, thủy
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Putri Ariani
 
-214 songs - 12 hr 37 min
+219 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [cool enough for you](https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [cool enough for you](https://open.spotify.com/album/7vA18NCulyMLrOtAZaA3AF) | 3:21 | 2024-08-01 |  |
 | [Cosmos](https://open.spotify.com/track/1VtO0KNA5dhSp3Tp4ufQq9) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Cosmos](https://open.spotify.com/album/3TyrEQXO4XM1K7mwTq2Vjw) | 4:28 | 2024-09-26 |  |
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-11-15 |  |
+| [Crown](https://open.spotify.com/track/1zMB9Lc5euKQWMUjPHghcv) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Evolve](https://open.spotify.com/album/6MtNCqErxlSmfuGiEuTwpj) | 2:56 | 2024-11-21 |  |
 | [Dancing On The Edge](https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx) | [JUNJI](https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET) | [Daydreams](https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK) | 4:05 | 2024-10-10 |  |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-06-27 | 2024-11-16 |
 | [Do I Care Too Much](https://open.spotify.com/track/7eSo5rcuv7zeoBkbJ4lJRL) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do I Care Too Much](https://open.spotify.com/album/0prwA9DdZkDMec5T5aLcEk) | 4:04 | 2024-06-27 |  |
@@ -108,6 +109,7 @@
 | [In A Month Or So](https://open.spotify.com/track/301TKfBwT7rYA0v8C5t3vF) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [In A Month Or So](https://open.spotify.com/album/4xHYIwF3oF2p9d3GBEvWAl) | 3:39 | 2024-06-27 |  |
 | [into you](https://open.spotify.com/track/2WLrBGcIPLt15oD5U5ZrqK) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5), [Popsickle](https://open.spotify.com/artist/3cR3YTiVngJTX0z7zXFeid) | [into you](https://open.spotify.com/album/3kAOFoLBAE5F6z5rRhPddF) | 3:06 | 2024-06-27 | 2024-10-11 |
 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 | 2024-06-27 | 2024-10-11 |
+| [I’LL BE YOUR PAIN](https://open.spotify.com/track/4muyJ5JfkGoc7CPjuYf8y1) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [I’LL BE YOUR PAIN](https://open.spotify.com/album/4dQ6dOXgZjN4B0YaclfOOf) | 3:52 | 2024-11-21 |  |
 | [Just A Matter Of Time](https://open.spotify.com/track/6lKxwOcrkrj5qzWFBdytwt) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [Just A Matter Of Time](https://open.spotify.com/album/7zBav3UT0TUO4ewfDTcey4) | 3:42 | 2024-07-11 | 2024-09-27 |
 | [Last Call](https://open.spotify.com/track/4hmwFUEmlQnAykPXRHDDKf) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Last Call](https://open.spotify.com/album/0RQR6FybUkNj0Pb7T3qsKH) | 4:07 | 2024-06-27 | 2024-07-27 |
 | [Last Right One](https://open.spotify.com/track/6vSBmOCdVhD8gN94ggTDMK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Last Right One](https://open.spotify.com/album/4pIZut1MFibakG5NQLSewa) | 3:47 | 2024-06-27 | 2024-10-11 |
@@ -146,6 +148,7 @@
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-09 |  |
 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 | 2024-10-03 | 2024-11-16 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 |  |
+| [Nothing New Under the Sun](https://open.spotify.com/track/5EhteC58v74MrdsLgqPPKn) | [LEDI](https://open.spotify.com/artist/4A3zCF4CoRXNowGGwWMUID) | [She's 24 EP](https://open.spotify.com/album/0KfGDsUieX8pctbzvbw2up) | 3:32 | 2024-11-21 |  |
 | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/album/63IkYy3t5JcO919xtJ04De) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-06-27 | 2024-09-27 |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-27 | 2024-10-11 |
@@ -174,6 +177,7 @@
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 |  |
 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [DEEP7](https://open.spotify.com/artist/1WfDQhaTHaVTGzVi6SiJfJ), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 | 2024-10-31 |  |
 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-17 |  |
+| [Shell Of A Man](https://open.spotify.com/track/6V2FEvybZVpO9Q6GoHnF5O) | [Audi Kirana](https://open.spotify.com/artist/4oYiHw3MUvsD71zQuqx84C) | [Shell Of A Man](https://open.spotify.com/album/6K5a00me4cDHnuCUpi3tTv) | 4:09 | 2024-11-21 |  |
 | [So Far Down](https://open.spotify.com/track/3U1iy1sISCWmLAA8OtyUHa) | [ALFRED](https://open.spotify.com/artist/2zsYdYIawqVd6sFYuwR9RE) | [So Far Down](https://open.spotify.com/album/6XRDtDollKiMmYgGtOghnn) | 4:44 | 2024-11-15 |  |
 | [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 | 2024-10-10 |  |
 | [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-09-19 |  |
@@ -209,6 +213,7 @@
 | [Twisted Neurons](https://open.spotify.com/track/5BZT0JzMP5Otk3tw6jFYcB) | [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Twisted Neurons](https://open.spotify.com/album/6Moma0qD8i4QElK4qubH3C) | 3:45 | 2024-08-09 | 2024-09-27 |
 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-06-27 | 2024-07-24 |
 | [Visions \(from under the rubble\)](https://open.spotify.com/track/1VQbvX2gQXcElkgAMrIgUE) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Pendulum](https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam) | 4:11 | 2024-10-10 |  |
+| [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2024-11-21 |  |
 | [Want Me Back](https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Want Me Back](https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx) | 2:55 | 2024-09-12 |  |
 | [Wasted Love](https://open.spotify.com/track/4jLR1GRsmUmvfAUO1wCGIr) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Wasted Love](https://open.spotify.com/album/36vdskrDeCy3mUbPFzNVI6) | 4:28 | 2024-09-26 |  |
 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-12 |  |

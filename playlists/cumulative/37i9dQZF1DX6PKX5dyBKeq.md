@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Blanco
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: AJ Tracey, Pozer
 
-1,978 songs - 4 day 3 hr 20 min
+1,980 songs - 4 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [Drowning](https://open.spotify.com/track/20njDAI1yLHP59ptmOZc7S) | [Horrid1](https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ), [Sav'o](https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp) | [Drowning](https://open.spotify.com/album/4GkZh3F3nb7e3DfysKnMxP) | 3:25 | 2021-10-22 | 2021-11-26 |
 | [Drug Dummy](https://open.spotify.com/track/53VExkopf7PhZdF0pwkzgp) | [DGold](https://open.spotify.com/artist/3uXjImnUYjxOm8vLigOAAs), [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ) | [The Legacy Of Le Goldmane II](https://open.spotify.com/album/40QVP6IDWu8aVZ7Kldw0jj) | 2:59 | 2021-06-05 | 2021-06-19 |
 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 | 2021-10-01 | 2021-10-30 |
+| [Dsavv x Fumez The Engineer \- Plugged In](https://open.spotify.com/track/4aPg5s8bWt8YNLUAuNACQC) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Dsavv](https://open.spotify.com/artist/6uOC3l6i36bi8AZuqGFI8O) | [Dsavv x Fumez The Engineer \- Plugged In](https://open.spotify.com/album/38ljjCecI5UNqYk8zRwqSX) | 2:22 | 2024-11-22 |  |
 | [DTB](https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [DTB](https://open.spotify.com/album/7icXXSu17oor9WIvME1txz) | 2:16 | 2023-06-16 | 2023-12-09 |
 | [DTF](https://open.spotify.com/track/0Xa8ZPnc0vRA7fr2QcicoH) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DTF](https://open.spotify.com/album/6RfZYwwdJPvonHEpXKH6ga) | 2:18 | 2023-06-16 | 2023-09-02 |
 | [Dumb Flex \(feat\. Abra Cadabra\)](https://open.spotify.com/track/2EC9V3zNRWmhVc5P0l22Bt) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dumb Flex](https://open.spotify.com/album/5JFJXpVl5LKtaY6PqnXYdO) | 2:58 | 2021-02-09 | 2023-03-09 |
@@ -785,10 +786,11 @@
 | [Heartless](https://open.spotify.com/track/5KZmFRbhyEmIJTlvYOnAYP) | [Diana Drill](https://open.spotify.com/artist/17hpfdY0Rhsv0burPPxOls), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Privately Public](https://open.spotify.com/album/03mDDSKBd8Ktng0efNy6wn) | 3:03 | 2023-03-08 | 2023-03-09 |
 | [Heartless](https://open.spotify.com/track/1RVPdiIKmczBNn1j2NqR3U) | [Diana Drill](https://open.spotify.com/artist/17hpfdY0Rhsv0burPPxOls), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Heartless](https://open.spotify.com/album/6kgrRBZmqGylIIRSm4s08j) | 3:04 | 2022-06-24 | 2023-03-09 |
 | [Heated Seats](https://open.spotify.com/track/3xApyPa8glGfkmBZGyPYyB) | [BGody](https://open.spotify.com/artist/4CjlwinQyT99elEHV73zZf) | [Heated Seats](https://open.spotify.com/album/6CkXHdBRzCNT2F57O5zxRo) | 3:32 | 2020-11-28 | 2021-01-29 |
+| [Heaterz](https://open.spotify.com/track/2xq0T6R1a1cFBYCn7HPKtt) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Heaterz](https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU) | 2:40 | 2024-11-22 |  |
 | [Heaven or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 | 2024-02-09 | 2024-04-26 |
 | [Heavy Duty](https://open.spotify.com/track/6HOZEXfwd5gLHtfatXVatf) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Heavy Duty](https://open.spotify.com/album/63DvH6X2Qhs2SAFRbCcyBn) | 2:19 | 2021-07-04 | 2021-08-06 |
 | [Heist](https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Lost Files](https://open.spotify.com/album/01qB0DsD06IlN8dm8x8eLQ) | 3:34 | 2023-11-17 | 2024-02-02 |
-| [Hell Yeah](https://open.spotify.com/track/6lgHAE8erQYMAc8YRg6IP6) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Hell Yeah](https://open.spotify.com/album/24YWHQhdVIgSRIWepE7vXl) | 2:33 | 2024-08-22 |  |
+| [Hell Yeah](https://open.spotify.com/track/6lgHAE8erQYMAc8YRg6IP6) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Hell Yeah](https://open.spotify.com/album/24YWHQhdVIgSRIWepE7vXl) | 2:33 | 2024-08-22 | 2024-11-22 |
 | [Hello](https://open.spotify.com/track/4hq3RmohHEgRnzM2SEUVKH) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Hello](https://open.spotify.com/album/0p8jb1eEbkZX3QHX6JgigQ) | 2:58 | 2020-08-30 | 2020-09-26 |
 | [Henthai](https://open.spotify.com/track/2nZnnQqUXMvw9kH5PlDEY6) | [Ddark](https://open.spotify.com/artist/57kgxuYPX6hANUyqNj6UZ4), [Sensei D](https://open.spotify.com/artist/11tNhDgqKxVfmUfJxrOdco) | [Henthai](https://open.spotify.com/album/6oIxEkaZjuWOETzR1QdG9j) | 1:41 | 2021-07-23 | 2021-08-06 |
 | [Hi Hats](https://open.spotify.com/track/2a6NJhgUD05hG4ooRQIG4J) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Hi Hats](https://open.spotify.com/album/2RxHxGljkXF4sj69X0F3Rs) | 2:56 | 2020-05-22\* | 2020-06-19 |
@@ -1848,7 +1850,7 @@
 | [Uptown](https://open.spotify.com/track/22PC5q1uB3WutWJSfVsoWm) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Uptown](https://open.spotify.com/album/2VxCRcqsTMe8IqWJm9Y7ql) | 2:50 | 2021-11-26 | 2022-01-21 |
 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 | 2023-01-20 | 2023-02-17 |
 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 | 2023-02-17 | 2023-08-18 |
-| [V](https://open.spotify.com/track/7wAjtBkX51fpSnAZ8H9514) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [V](https://open.spotify.com/album/2Xj3O3MpWoFpakC5qbqUsD) | 3:13 | 2024-08-30 |  |
+| [V](https://open.spotify.com/track/7wAjtBkX51fpSnAZ8H9514) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [V](https://open.spotify.com/album/2Xj3O3MpWoFpakC5qbqUsD) | 3:13 | 2024-08-30 | 2024-11-22 |
 | [V9 X Fumez the Engineer \- Plugged In](https://open.spotify.com/track/3EjvvUxuKYQGN5ZvagDqme) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [V9 X Fumez the Engineer \- Plugged In](https://open.spotify.com/album/4k8b8xiV24HWh4z0z42dTF) | 2:35 | 2021-09-25 | 2021-10-16 |
 | [Variation](https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Variation](https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM) | 3:28 | 2021-03-26 | 2021-04-17 |
 | [Vartry Road](https://open.spotify.com/track/6fCB3MxVEWjaQwASpBliNb) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Chapter 16](https://open.spotify.com/album/5RGiv2z7Xw3BFZNUBVEc5T) | 3:16 | 2024-05-17 | 2024-08-30 |

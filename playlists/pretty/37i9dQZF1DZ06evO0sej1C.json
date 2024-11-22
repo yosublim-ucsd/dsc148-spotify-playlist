@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 41754,
+  "num_followers": 41773,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAAk9M7EBoPy7e3/GAPFiSrt",
+  "snapshot_id": "Zz0mgAAAAABlNIIBPF0uUBHIb+Nf1nXm",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
     },
     {
       "added_at": null,
@@ -1115,42 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/29wsl8ngOmYWkD6yRuMgSs"
-      },
-      "artists": [
-        {
-          "name": "Lio Avila",
-          "url": "https://open.spotify.com/artist/18epaQFwoHjRcvwnk3kWXj"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Animales",
-      "url": "https://open.spotify.com/track/4syVpbPa9RjMxcB8GPCMrG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Levant\u00e9",
-        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Me Levant\u00e9",
-      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inigualable",
         "url": "https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj"
       },
@@ -1171,6 +1135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 182844,
       "name": "LIKE A BULL",
       "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/29wsl8ngOmYWkD6yRuMgSs"
+      },
+      "artists": [
+        {
+          "name": "Lio Avila",
+          "url": "https://open.spotify.com/artist/18epaQFwoHjRcvwnk3kWXj"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Animales",
+      "url": "https://open.spotify.com/track/4syVpbPa9RjMxcB8GPCMrG"
     }
   ],
   "unique_name": "This Is Yoss Bones",

@@ -2,9 +2,9 @@
 
 ### [mint Japan](https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco)
 
-> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Alok, Anitta
+> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Martin Garrix, Jex
 
-501 songs - 1 day 1 hr 27 min
+502 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-22 | 2023-08-18 |
 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 | 2023-07-13 | 2023-09-29 |
 | [Good Morning \(feat\. YOU\)](https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Good Morning \(feat\. YOU\)](https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0) | 2:55 | 2023-06-22 | 2023-08-18 |
-| [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-11-15 |  |
+| [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-11-15 | 2024-11-22 |
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-30 | 2023-07-29 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-03-16 | 2023-04-07 |
 | [Habaytak \- R3HAB Remix](https://open.spotify.com/track/4YsUfCgWG0xYgjGcsk4SPG) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [GHIZLANE MELIH](https://open.spotify.com/artist/1uYBVm9FAaZlqfz00biCt7), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Habaytak \(R3HAB Remix\)](https://open.spotify.com/album/3qpkbDjRygBqmgrowMGPtq) | 2:26 | 2023-11-16 | 2023-11-24 |
@@ -454,6 +454,7 @@
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-16 | 2023-09-15 |
 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2024-08-01 | 2024-08-23 |
 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-23 | 2024-06-01 |
+| [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-21 |  |
 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 | 2024-01-11 | 2024-01-26 |
 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 | 2024-06-28 | 2024-07-05 |
 | [Tras](https://open.spotify.com/track/1wZyqX4f7VGwEHCxnoGi9I) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [REXY=DEXY](https://open.spotify.com/artist/2dDxUopU3lpeumfdSzsICh) | [Tras EP](https://open.spotify.com/album/7kxbaKkHmFrp3JWCV3y6MK) | 3:28 | 2024-10-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 55379,
+  "num_followers": 55405,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPPAAAAACHPp1F1b3xeqemQ5oJiCWN",
+  "snapshot_id": "Zz/JvAAAAAAOxxRjwQeyCZCbR5/a6Ztx",
   "tracks": [
     {
       "added_at": "2024-08-19 13:31:59",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "COAT OF MANY COLORS",
-        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "MIRACLE CHILD",
-      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
-    },
-    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "Up + Up",
@@ -579,6 +563,22 @@
       "duration_ms": 163169,
       "name": "Up + Up",
       "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "MIRACLE CHILD",
+      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -953,24 +953,28 @@
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Spirit of Praise, Vol. 8 (Live)",
-        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
       },
       "artists": [
         {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
         },
         {
-          "name": "Mpumi Mtsweni",
-          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        },
+        {
+          "name": "Anderson",
+          "url": "https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi"
         }
       ],
-      "duration_ms": 475664,
-      "name": "Thath'Indawo (Live)",
-      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+      "duration_ms": 657912,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
     }
   ],
   "unique_name": "Gospel Greatness",

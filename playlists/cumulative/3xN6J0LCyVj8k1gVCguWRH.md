@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,195 songs - 9 day 19 hr 23 min
+4,196 songs - 9 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1903,6 +1903,7 @@
 | [Jazzberry Jam](https://open.spotify.com/track/2TvQGlO5frG3XOOXf3WxRj) | [Woz Neptune](https://open.spotify.com/artist/6roTcWmRbLPGM7plVqNAIQ) | [Jazzberry Jam](https://open.spotify.com/album/4bakcRj1v0lARWIyqkVZWu) | 7:20 | 2023-08-18 | 2023-09-26 |
 | [Jealous](https://open.spotify.com/track/0TxFoC0nmk01L9DTYYfRtX) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w), [JOEY DJIA](https://open.spotify.com/artist/1AnMnH9dLWFjuQ1DU4gOGb) | [Jealous](https://open.spotify.com/album/3Cm0tyTWOMnQ0uVVa4fSSm) | 3:15 | 2021-02-06 | 2021-02-20 |
 | [Jealous Sun](https://open.spotify.com/track/3WZJyhSsYXDLGFkHQlef7U) | [Lost Leaders](https://open.spotify.com/artist/6AYs5B12k1aePGAUpkaZnv) | [Jealous Sun](https://open.spotify.com/album/3ZPNoBy9iccgiqLDITJrKb) | 3:08 | 2024-05-10 | 2024-05-22 |
+| [JEJE](https://open.spotify.com/track/0pVmlTT52FFqgJB1cu5b7J) | [Nella](https://open.spotify.com/artist/1srgbcQlCI56byuqb1FphT) | [JEJE](https://open.spotify.com/album/39kbJk0XkZPt1itquPZvd1) | 2:50 | 2024-11-21 |  |
 | [jet\-lagged](https://open.spotify.com/track/3CnLYj4On1pXmdxORg3UFP) | [Logan Joyce](https://open.spotify.com/artist/5UxzIvlviWHoxDz5GlNSJb) | [jet\-lagged](https://open.spotify.com/album/3NbsWUWQC3mYqPhvi7bKHB) | 3:25 | 2023-08-31 | 2023-09-26 |
 | [Jim Joheimer](https://open.spotify.com/track/30EY7RSbTgppaQTd2ktH6c) | [dIIP](https://open.spotify.com/artist/74u1nzo8UdAnPrtka1zWN0) | [Jim Joheimer](https://open.spotify.com/album/1O38iLpsM0K7aXAlm1y1EA) | 5:20 | 2023-12-12 | 2023-12-21 |
 | [Jingle Bells \(Vive le vent\)](https://open.spotify.com/track/2bQAdZGmgrFeCjytUOjzuF) | [Tatiana Eva\-Marie](https://open.spotify.com/artist/36zkHNg8rJdJmCZp6XmQoS), [Avalon Jazz Band](https://open.spotify.com/artist/3Nmm3IacxsC92dEP0kWL3z) | [Wintertime Dreams: A Parisian Christmas](https://open.spotify.com/album/0pu8FqHPyPcrIM7nVFvMMg) | 3:38 | 2019-11-24 | 2019-12-04 |

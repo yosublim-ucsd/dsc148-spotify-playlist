@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACN4Hi0vssft0R+8CYOWaZ3",
+  "snapshot_id": "Zz0mgAAAAADEXo8iT8JlxeLomiqDvuAT",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Seal The Deal",
-        "url": "https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Mr. Seal The Deal",
-      "url": "https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Pilas (En Vivo)",
         "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Seal The Deal",
+        "url": "https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Mr. Seal The Deal",
+      "url": "https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camioneta Alterada",
-        "url": "https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 209898,
-      "name": "Camioneta Alterada",
-      "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uno Nueve",
         "url": "https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 216830,
       "name": "Uno Nueve",
       "url": "https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camioneta Alterada",
+        "url": "https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 209898,
+      "name": "Camioneta Alterada",
+      "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tengo Viendo",
+        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 234410,
+      "name": "Los Tengo Viendo",
+      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 168960,
       "name": "Equipo Cannabis",
       "url": "https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tengo Viendo",
-        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Los Tengo Viendo",
-      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Terminator",
-        "url": "https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3"
-      },
-      "artists": [
-        {
-          "name": "Christian Nava",
-          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 175326,
-      "name": "El Terminator",
-      "url": "https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agradecido Estoy",
         "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
       },
@@ -595,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Terminator",
+        "url": "https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 175326,
+      "name": "El Terminator",
+      "url": "https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -604,13 +604,13 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "Los Juniors de California",
-          "url": "https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1"
+          "name": "Grupo Los Del Area",
+          "url": "https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf"
         }
       ],
-      "duration_ms": 194783,
-      "name": "Hay Les Voy De Nuevo",
-      "url": "https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m"
+      "duration_ms": 206856,
+      "name": "Me Dicen E",
+      "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
     },
     {
       "added_at": null,
@@ -676,13 +676,13 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "Grupo Los Del Area",
-          "url": "https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf"
+          "name": "Los Juniors de California",
+          "url": "https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1"
         }
       ],
-      "duration_ms": 206856,
-      "name": "Me Dicen E",
-      "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
+      "duration_ms": 194783,
+      "name": "Hay Les Voy De Nuevo",
+      "url": "https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
-        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 155991,
-      "name": "EL TERMINATOR",
-      "url": "https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
         "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 109344,
       "name": "Humilde y Sencillo (En Vivo)",
       "url": "https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS UNDERGROUND (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 155991,
+      "name": "EL TERMINATOR",
+      "url": "https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg"
     },
     {
       "added_at": null,

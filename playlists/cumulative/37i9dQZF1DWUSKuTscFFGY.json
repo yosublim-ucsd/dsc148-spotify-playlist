@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Tate McRae",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Shaboozey",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
     {
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 216588,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
@@ -4180,7 +4180,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
@@ -4762,7 +4762,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 235677,
       "name": "Keep On Dreaming",
       "url": "https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO"
@@ -4874,6 +4874,24 @@
       "duration_ms": 180813,
       "name": "Lava Lamp",
       "url": "https://open.spotify.com/track/1MQvmrKpUj7mARu12pkbSV"
+    },
+    {
+      "album": {
+        "name": "Left In Your Love",
+        "url": "https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Left In Your Love",
+      "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
     },
     {
       "album": {
@@ -5102,6 +5120,28 @@
       "duration_ms": 194900,
       "name": "Losing a Friend",
       "url": "https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy"
+    },
+    {
+      "album": {
+        "name": "Louder (R\u00eave un peu plus haut)",
+        "url": "https://open.spotify.com/album/6CEJ9ZZ8S9rwbi2R3B8Kky"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        },
+        {
+          "name": "Alia",
+          "url": "https://open.spotify.com/artist/3HOSz6ocktWB0LkZIMzEzp"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229920,
+      "name": "Louder (feat. Alia) - R\u00eave un peu plus haut",
+      "url": "https://open.spotify.com/track/0bR6aNxbpAhbBG339KvXo4"
     },
     {
       "album": {
@@ -5516,6 +5556,24 @@
       "duration_ms": 122000,
       "name": "Maybe I",
       "url": "https://open.spotify.com/track/3vbuPaWDmP71FMVYbj1kRZ"
+    },
+    {
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
     },
     {
       "album": {
@@ -7848,7 +7906,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185352,
       "name": "Take Me to the Beach (feat. Baker Boy)",
       "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"

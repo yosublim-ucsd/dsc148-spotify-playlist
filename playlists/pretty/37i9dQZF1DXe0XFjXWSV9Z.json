@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 45125,
+  "num_followers": 45133,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
-      },
-      "artists": [
-        {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
-        }
-      ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
-    },
-    {
       "added_at": "2023-03-23 22:10:50",
       "album": {
         "name": "Agujas en el pecho",
@@ -571,6 +555,22 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
-    },
-    {
       "added_at": "2022-01-14 04:25:25",
       "album": {
         "name": "Mamita Santa",
@@ -783,18 +767,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
       },
       "artists": [
         {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
         }
       ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2023-12-12 18:56:56",
@@ -811,6 +795,22 @@
       "duration_ms": 170895,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Mujer Luna",
+        "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Mujer Luna",
+      "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
+    },
+    {
       "added_at": "2022-02-25 02:13:50",
       "album": {
         "name": "Para todo mal",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Mujer Luna",
-        "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
       },
       "artists": [
         {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Mujer Luna",
-      "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1131,22 +1147,6 @@
       "duration_ms": 202293,
       "name": "Churro Vs. Crow",
       "url": "https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
-      "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
-      },
-      "artists": [
-        {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
-        }
-      ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "La Era del GigaHertz",
@@ -1259,6 +1243,22 @@
       "duration_ms": 306689,
       "name": "La Era del GigaHertz",
       "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
+    },
+    {
+      "added_at": "2023-02-28 04:34:35",
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "El Nuevo Bugalu",
-        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
-      },
-      "artists": [
-        {
-          "name": "Bacalao Men",
-          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Bicicleta Intergalactica",
-      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 160680,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "El Nuevo Bugalu",
+        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
+      },
+      "artists": [
+        {
+          "name": "Bacalao Men",
+          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Bicicleta Intergalactica",
+      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
-      "added_at": "2022-03-11 03:32:16",
-      "album": {
-        "name": "Levante la Mano",
-        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 188817,
-      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
-      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
@@ -1511,6 +1495,22 @@
       "duration_ms": 216826,
       "name": "Lamento en la Selva - Remix",
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
+    },
+    {
+      "added_at": "2022-03-11 03:32:16",
+      "album": {
+        "name": "Levante la Mano",
+        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 188817,
+      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
+      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
+    },
+    {
       "added_at": "2022-01-11 02:45:58",
       "album": {
         "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 198469,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Porrov\u00eda",
+        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Porrov\u00eda",
+      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1627,22 +1643,6 @@
       "duration_ms": 234231,
       "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
       "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Porrov\u00eda",
-        "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Porrov\u00eda",
-      "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -1709,20 +1709,20 @@
       "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
     },
     {
-      "added_at": "2024-01-26 16:12:23",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
       },
       "artists": [
         {
-          "name": "CHIFLIDO",
-          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
         }
       ],
-      "duration_ms": 140552,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     }
   ],
   "unique_name": "TROPILOCO",

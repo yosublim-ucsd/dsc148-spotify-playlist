@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Casualidad",
+        "url": "https://open.spotify.com/album/3S8HmRKRx80YYPt11hIjjV"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1grimas De Sangre",
+          "url": "https://open.spotify.com/artist/5Qvyfq1Nfeju9R8prt8M7a"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285670,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/7E59kEbDTN7kEqiU93zJ1I"
+    },
+    {
+      "album": {
         "name": "Causas Pendientes",
         "url": "https://open.spotify.com/album/7rZIOdnQ1TxcJSSmkpjK8x"
       },
@@ -2098,6 +2116,28 @@
       "duration_ms": 234000,
       "name": "Ciego Por el Club",
       "url": "https://open.spotify.com/track/2k5Chk6O0ugyRdHL6OOFav"
+    },
+    {
+      "album": {
+        "name": "Colgando en tus manos",
+        "url": "https://open.spotify.com/album/5tdOKgHDzYJZhqRWcE9an6"
+      },
+      "artists": [
+        {
+          "name": "Shoda Monkas",
+          "url": "https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe"
+        },
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196105,
+      "name": "Colgando en tus manos",
+      "url": "https://open.spotify.com/track/6jb3lPU86ysOAtaNDuKILd"
     },
     {
       "album": {
@@ -3135,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "El Retorno del Doc",
+        "url": "https://open.spotify.com/album/4ju4tDyo5xn5dZPZudRiGU"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Johnny Doc",
+          "url": "https://open.spotify.com/artist/53JZBAhOTTOIKUA80HOUdG"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169907,
+      "name": "El Retorno del Doc",
+      "url": "https://open.spotify.com/track/61cit0bKCjmCDtwlM3T3bm"
+    },
+    {
+      "album": {
         "name": "El Single EUROSLiME \u2695\ufe0f",
         "url": "https://open.spotify.com/album/1K1clMVQFf6GjWucZ1CWp5"
       },
@@ -3943,6 +4005,28 @@
     },
     {
       "album": {
+        "name": "Hablo con Dios y no responde",
+        "url": "https://open.spotify.com/album/1Jt9Gs00hHQ8H5k5QVbXY2"
+      },
+      "artists": [
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Hablo con Dios y no responde",
+      "url": "https://open.spotify.com/track/4oI31MvMqbAkFlOkrSdZfy"
+    },
+    {
+      "album": {
         "name": "Madrid V",
         "url": "https://open.spotify.com/album/63TOo644jy6PwbPeEb3Bsa"
       },
@@ -4100,7 +4184,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 109265,
       "name": "Hidetoshi Nakata",
       "url": "https://open.spotify.com/track/1acPhlnq9elw4NgBQjYprc"
@@ -4670,7 +4754,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 182117,
       "name": "La G\u00f3ndola",
       "url": "https://open.spotify.com/track/7lly9m8Wwi6crkqGLlvEz2"
@@ -5674,7 +5758,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174000,
       "name": "ME ESTOY MURIENDO",
       "url": "https://open.spotify.com/track/4IJXhfJwv4VAdmJNFmsFYt"
@@ -6260,6 +6344,10 @@
         {
           "name": "DistrictBeats",
           "url": "https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe"
+        },
+        {
+          "name": "Dawiz",
+          "url": "https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs"
         }
       ],
       "date_added": "2024-11-07",
@@ -7833,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Saltos de Fe",
+        "url": "https://open.spotify.com/album/3a3G4rBYGGNheWG0lHx1YY"
+      },
+      "artists": [
+        {
+          "name": "Sosad.97",
+          "url": "https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141979,
+      "name": "Saltos de Fe",
+      "url": "https://open.spotify.com/track/4EPt0yv2tZjYs2ekkoaHaE"
+    },
+    {
+      "album": {
         "name": "Salud y Libertad (Con Foyone & Sceno)",
         "url": "https://open.spotify.com/album/3v4tDInGa9kz3roi9rydCj"
       },
@@ -8396,7 +8502,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 163359,
       "name": "Sin presi\u00f3n (Freestyle #15)",
       "url": "https://open.spotify.com/track/5dDAyRWs5OpTqg37YJF3Xf"
@@ -8786,7 +8892,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 202319,
       "name": "TANTO POR HACER",
       "url": "https://open.spotify.com/track/7013pu5Eiovg2QLxpdliQY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Hollie Kenniff
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,161 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,227 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 53 | [Bassin Bleu](https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Bassin Bleu](https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB) | 5:59 |
 | 54 | [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 |
 | 55 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
-| 56 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
-| 57 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
+| 56 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
+| 57 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
 | 58 | [Composition Of Flowers \(Excerpt\)](https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works Preview](https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ) | 6:21 |
 | 59 | [Walking in a spiral towards the house: Side C](https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 8:37 |
 | 60 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 74 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
 | 75 | [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 |
 | 76 | [Canopies](https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 7:11 |
-| 77 | [Les Chemins De L'Inconnu](https://open.spotify.com/track/7wos99ooWSkBQgttbzugp9) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Les Chemins De L'inconnu](https://open.spotify.com/album/28KgvYdtsvymP5ZrmisOWp) | 4:35 |
+| 77 | [fountainhead](https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 6:45 |
 | 78 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
-| 79 | [fountainhead](https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 6:45 |
+| 79 | [Les Chemins De L'Inconnu](https://open.spotify.com/track/7wos99ooWSkBQgttbzugp9) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Les Chemins De L'inconnu](https://open.spotify.com/album/28KgvYdtsvymP5ZrmisOWp) | 4:35 |
 | 80 | [Fur & Feather](https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Fur & Feather](https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr) | 3:04 |
 | 81 | [Night Changes Many Thoughts](https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 3:51 |
 | 82 | [Pipe Inversions](https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 14:28 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 94 | [As We Record the Disappearing Ice](https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Desert Ballads](https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG) | 2:54 |
 | 95 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
 | 96 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
-| 97 | [SOTRS](https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 9:30 |
-| 98 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 |
-| 99 | [How to Build an Automaton](https://open.spotify.com/track/3PcZITm7RiD01NIAPJcSza) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Practice](https://open.spotify.com/album/3p2YnEe3fq3KIldwwvh7J8) | 3:51 |
-| 100 | [The Trembling of Glass](https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 3:28 |
+| 97 | [Blue Shit](https://open.spotify.com/track/5MQPW3rjoZ2VuIFePdWE5d) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/3fLvBgK02fzdFAJ1aB8cKv) | 4:41 |
+| 98 | [SOTRS](https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 9:30 |
+| 99 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 |
+| 100 | [How to Build an Automaton](https://open.spotify.com/track/3PcZITm7RiD01NIAPJcSza) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Practice](https://open.spotify.com/album/3p2YnEe3fq3KIldwwvh7J8) | 3:51 |
 
 Snapshot ID: `ZxeHEwAAAAD0DFY2jSYvJytuwul1MjSc`

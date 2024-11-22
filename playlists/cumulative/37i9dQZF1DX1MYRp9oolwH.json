@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Saripodhaa Sanivaaram",
+  "description": "Bringing out the best of latest love tracks\nCover : Thandel",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -521,6 +521,32 @@
     },
     {
       "album": {
+        "name": "Bujji Thalli (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248825,
+      "name": "Bujji Thalli (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
+    },
+    {
+      "album": {
         "name": "Bulbul Tarang (From \"Ramarao On Duty\")",
         "url": "https://open.spotify.com/album/4t7QhuTqMr8wwbNl3hLAG8"
       },
@@ -1028,7 +1054,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176912,
       "name": "Ennennenno (From \"Veekshanam\")",
       "url": "https://open.spotify.com/track/23aZ6C4joJbz4FR1RX5h1d"
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 228000,
       "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
       "url": "https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW"
@@ -3240,7 +3266,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176250,
       "name": "Nee Sneham",
       "url": "https://open.spotify.com/track/4xrQZq9vmrKDf17QyN2niZ"

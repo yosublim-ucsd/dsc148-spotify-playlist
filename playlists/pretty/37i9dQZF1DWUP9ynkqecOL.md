@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,413 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,416 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 32 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 |
 | 33 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 |
 | 34 | [Lupuna](https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Claudio Reche](https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ) | [Lupuna](https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F) | 7:13 |
-| 35 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
-| 36 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 |
+| 35 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 |
+| 36 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
 | 37 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
 | 38 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 |
 | 39 | [Cuchi Leguizamón yo te amo para siempre](https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Xanducero](https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW), [Silvio Astier](https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW), [Remiseria Temperley](https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo) | [Sencilla es mi canoa como mis afectos](https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO) | 6:23 |

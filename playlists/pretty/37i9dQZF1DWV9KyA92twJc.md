@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אודיה
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,564 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,566 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 81 | [38 וחוץ מכדורגל](https://open.spotify.com/track/3X0WwsNHfSqpd85A9Iggr2) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [38 וחוץ מכדורגל](https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya) | 4:26 |
 | 82 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
 | 83 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 |
-| 84 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 |
+| 84 | [פרובוקטיבית](https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [פרובוקטיבית](https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx) | 2:34 |
 | 85 | [נאדי באדי](https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [היי, זה שחר](https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi) | 2:30 |
 | 86 | [צונאמי](https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 2:47 |
 | 87 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 89 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
 | 90 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 |
 | 91 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
-| 92 | [פרובוקטיבית](https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [פרובוקטיבית](https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx) | 2:34 |
+| 92 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 |
 | 93 | [פינוקיו](https://open.spotify.com/track/0SH0QjZhzbsrgEHNmuO0wy) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [רוקדת בשקיעה](https://open.spotify.com/album/3ofLyqRcjIOtU2oLGzz9Wo) | 3:12 |
 | 94 | [⁠הכל עליי](https://open.spotify.com/track/07avaGrhcpGlhr47OrYJPj) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הכל עליי](https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8) | 3:14 |
 | 95 | [נתק אותי](https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [נתק אותי](https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY) | 3:20 |
 | 96 | [אל תפחד](https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 4:11 |
 | 97 | [במקום בו אני גר](https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [אורית טשומה](https://open.spotify.com/artist/0X36xboo0vsPER5eeULxle), [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [אה וואו](https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs) | 4:16 |
 | 98 | [הכל לטובה](https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [תשובה?](https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN) | 2:41 |
-| 99 | [Doing So Much Better](https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Doing So Much Better](https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W) | 3:07 |
+| 99 | [שמלה](https://open.spotify.com/track/5fa8pf8RcgYabA8GIwCKzc) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [ילד.](https://open.spotify.com/album/3pXBVP6C43OfcXzIvBGUKG) | 3:37 |
 | 100 | [אני](https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אני](https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn) | 2:45 |
 
 Snapshot ID: `Zy04YAAAAABks/q4C4/60nt6lmeShVSF`

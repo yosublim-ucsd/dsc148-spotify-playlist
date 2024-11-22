@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 73474,
+  "num_followers": 73490,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABmWNwN5TeJN5Q+91V4qHoM",
+  "snapshot_id": "Zz0mgAAAAABO/CdYsPXNMDHMC445T2N6",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gin & Juice (HARDY\u2019s Version)",
-        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 240452,
-      "name": "Gin & Juice - HARDY\u2019s Version",
-      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
+      "duration_ms": 208809,
+      "name": "Hillbilly Deluxe (with HARDY)",
+      "url": "https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC"
     },
     {
       "added_at": null,
@@ -619,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gin & Juice (HARDY\u2019s Version)",
+        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 240452,
+      "name": "Gin & Juice - HARDY\u2019s Version",
+      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 208478,
       "name": "SIGNED, SOBER YOU",
       "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 208809,
-      "name": "Hillbilly Deluxe (with HARDY)",
-      "url": "https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC"
     },
     {
       "added_at": null,
@@ -719,30 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
-        "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 267341,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": null,
@@ -775,6 +767,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
+        "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 267341,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whiskey On Whiskey",
         "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 168525,
       "name": "Colorado (feat. HARDY)",
       "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": null,

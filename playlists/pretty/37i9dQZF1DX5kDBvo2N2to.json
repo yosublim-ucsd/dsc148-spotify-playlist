@@ -195,6 +195,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Someone Was Listening (from Life is Strange)",
-        "url": "https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Someone Was Listening (from Life is Strange)",
-      "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 205146,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Someone Was Listening (from Life is Strange)",
+        "url": "https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Someone Was Listening (from Life is Strange)",
+      "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "8 Days",
-        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 130391,
-      "name": "8 Days",
-      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Headache",
         "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 240826,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Zoey",
         "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 183054,
       "name": "Zoey",
       "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Louise",
-        "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
-      },
-      "artists": [
-        {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Stj\u00e4rnorna inatt",
         "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207160,
       "name": "Stj\u00e4rnorna inatt",
       "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Louise",
+        "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Goat",
-        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 328582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 203339,
       "name": "REAL",
       "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 328582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 166043,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Hils Din Mor (feat. Anne Linnet)",
         "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 172998,
       "name": "Hils Din Mor (feat. Anne Linnet)",
       "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 166043,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Ditt safeword ikv\u00e4ll?",
-        "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
-      },
-      "artists": [
-        {
-          "name": "ANJI",
-          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
-        }
-      ],
-      "duration_ms": 132199,
-      "name": "Ditt safeword ikv\u00e4ll?",
-      "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 184666,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Ditt safeword ikv\u00e4ll?",
+        "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "duration_ms": 132199,
+      "name": "Ditt safeword ikv\u00e4ll?",
+      "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Scenic Route",
+        "url": "https://open.spotify.com/album/5pY9QTvDI1YZ7NORuL6qqS"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 223202,
+      "name": "Scenic Route",
+      "url": "https://open.spotify.com/track/4QgU8OOYkBIgCtL7b2PWCT"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "P\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 189599,
       "name": "P\u00e5 v\u00e4g",
       "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 224401,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Scenic Route",
-        "url": "https://open.spotify.com/album/5pY9QTvDI1YZ7NORuL6qqS"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
       },
       "artists": [
         {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
         }
       ],
-      "duration_ms": 223202,
-      "name": "Scenic Route",
-      "url": "https://open.spotify.com/track/4QgU8OOYkBIgCtL7b2PWCT"
+      "duration_ms": 224401,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Right?",
-        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 176396,
-      "name": "Right?",
-      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -1519,6 +1503,26 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Innerst Inne",
+        "url": "https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        },
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "Innerst Inne",
+      "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
     }
   ],
   "unique_name": "p\u00e5 repeat",

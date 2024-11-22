@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Elastinen.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 155612,
       "name": "BOSSMAN",
       "url": "https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 165000,
       "name": "Duunarit (feat. Aleksanteri Hakaniemi)",
       "url": "https://open.spotify.com/track/4rMlws9mxGg0qZm6Jogryy"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 177830,
       "name": "Huuto",
       "url": "https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT"
@@ -4348,6 +4348,24 @@
       "duration_ms": 153000,
       "name": "JORMA",
       "url": "https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV"
+    },
+    {
+      "album": {
+        "name": "Goat Talk",
+        "url": "https://open.spotify.com/album/7m9ZYGQdXMX1mZbaO3vg4T"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170937,
+      "name": "Jos M\u00e4 Oisin B\u00e4m\u00e4",
+      "url": "https://open.spotify.com/track/338Se8AykwAEuu4wawaaDB"
     },
     {
       "album": {
@@ -6241,6 +6259,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4nkk\u00e4r\u00e4nkk\u00e4",
+        "url": "https://open.spotify.com/album/7LmKWomeDBes9VV4LtKWKF"
+      },
+      "artists": [
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141098,
+      "name": "K\u00e4nkk\u00e4r\u00e4nkk\u00e4",
+      "url": "https://open.spotify.com/track/5oOhcHGjpvtdrQfeLcVEe7"
+    },
+    {
+      "album": {
         "name": "k\u00e4py",
         "url": "https://open.spotify.com/album/4dfL55wygzB20eJrboY838"
       },
@@ -7993,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "EK2",
+        "url": "https://open.spotify.com/album/6vKEXHMM0rHkasYJUt4nos"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Milt Se Tuntuu",
+      "url": "https://open.spotify.com/track/2SbK2yP4FlKvl4s2WTBZni"
+    },
+    {
+      "album": {
         "name": "Minimi (feat. Purplape)",
         "url": "https://open.spotify.com/album/65xRptwAW4alJtexDzKfci"
       },
@@ -8724,7 +8778,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 153259,
       "name": "Neliapila",
       "url": "https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr"
@@ -8848,6 +8902,24 @@
       "duration_ms": 200000,
       "name": "NIIN ETT\u00c4 TUNTUU",
       "url": "https://open.spotify.com/track/0GnveAUohzsJaX6XxwyeVA"
+    },
+    {
+      "album": {
+        "name": "Niin kuin s\u00e4",
+        "url": "https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165845,
+      "name": "Niin kuin s\u00e4",
+      "url": "https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW"
     },
     {
       "album": {
@@ -10351,6 +10423,24 @@
     },
     {
       "album": {
+        "name": "P\u00e4\u00e4henkil\u00f6",
+        "url": "https://open.spotify.com/album/34LxRQtewXdydBT7d8wa0S"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "P\u00e4\u00e4henkil\u00f6",
+      "url": "https://open.spotify.com/track/0GAhnbTVdovWR7jeYtmrba"
+    },
+    {
+      "album": {
         "name": "P\u00e4\u00e4s Kii",
         "url": "https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh"
       },
@@ -11602,7 +11692,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 172347,
       "name": "Sirkus",
       "url": "https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY"
@@ -11848,6 +11938,24 @@
       "duration_ms": 173234,
       "name": "Spottivalo (feat. Obikeys)",
       "url": "https://open.spotify.com/track/3AmytSAgErcs3OUU9s3xYq"
+    },
+    {
+      "album": {
+        "name": "SRR",
+        "url": "https://open.spotify.com/album/3GW5a1LAFUscAFWiMov8Fj"
+      },
+      "artists": [
+        {
+          "name": "NOTO",
+          "url": "https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130182,
+      "name": "SRR",
+      "url": "https://open.spotify.com/track/4vDIYUPebV425O9fXMmikx"
     },
     {
       "album": {
@@ -12108,7 +12216,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 182159,
       "name": "Suomalainen Superstara",
       "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
@@ -14843,6 +14951,28 @@
     },
     {
       "album": {
+        "name": "Ympyr\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj"
+      },
+      "artists": [
+        {
+          "name": "Isaac Sene",
+          "url": "https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Ympyr\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo"
+    },
+    {
+      "album": {
         "name": "Ysikuudest Ikuisuuteen",
         "url": "https://open.spotify.com/album/0AMIYyldCicCs2PAPoYZJw"
       },
@@ -15010,7 +15140,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 144000,
       "name": "\u2060Kaunotar ja Kulkuri (feat. KIKI)",
       "url": "https://open.spotify.com/track/1wgxN8TeKxMHx9MCCIVDbA"

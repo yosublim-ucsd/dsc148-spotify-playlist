@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,446 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,558 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 89 | [For every man saved a victim will be found](https://open.spotify.com/track/23GeR1VGo3QHeS5UWQ5riO) | [Tarun Balani](https://open.spotify.com/artist/4jwaDujIANigjvMCLBG4XW) | [In Song](https://open.spotify.com/album/5mqKifgMH0rmB37d1ty7vh) | 4:51 |
 | 90 | [Somewhere in October](https://open.spotify.com/track/0Oajka6trs5YNuLY2t1qib) | [Tom Day](https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG) | [Somewhere in October](https://open.spotify.com/album/2jWENpFhAIS8cTXHy5ee79) | 4:07 |
 | 91 | [Origin Myth](https://open.spotify.com/track/1fFylTl5SVntCpGX6LMS9l) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Defeat](https://open.spotify.com/album/1wQlfIPrPVURn2gpi3rvBf) | 4:43 |
-| 92 | [I Know That](https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD) | [Brilliantes Del Vuelo](https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:20 |
+| 92 | [I Know That](https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD) | [Brilliantes Del Vuelo](https://open.spotify.com/artist/1Qo8nw3OipdEHSbj4JLLMb) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:20 |
 | 93 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 |
 | 94 | [Free Fall](https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Twisty](https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX) | 6:56 |
 | 95 | [Particle Emission](https://open.spotify.com/track/7Gkse5oUgdsjBeVQn980ce) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf) | 2:43 |

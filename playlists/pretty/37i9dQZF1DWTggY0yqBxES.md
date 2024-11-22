@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,125 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,200 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 2 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:55 |
 | 3 | [GRITS](https://open.spotify.com/track/7EsR9vqG1bYGb3njB5BPvy) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [I've Never Been Here Before: The Director's Cut](https://open.spotify.com/album/320INXF22WAKVVzxycyLA6) | 2:14 |
 | 4 | [Misery in Waking Hours](https://open.spotify.com/track/2eZbaxXxKdzY8u3ZMZVFiP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 3:39 |
-| 5 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/3cERUrT0BE1QPgs8VXJlOw) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
+| 5 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
 | 6 | [HYPE ME UP](https://open.spotify.com/track/2fMgGrKk8IFglMGn5CTXN5) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [HYPE ME UP](https://open.spotify.com/album/2Mpaeojxd7u1vnjqjT1PY6) | 1:49 |
 | 7 | [YOU CRY LOVE.](https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [YOU CRY LOVE.](https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR) | 2:38 |
 | 8 | [Beach Sounds & Oceans](https://open.spotify.com/track/7tgx6rXT338Kb4QMc6QMoj) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Beach Sounds & Oceans](https://open.spotify.com/album/3RQMYUXMn8n0BrHLWAyDg8) | 2:46 |

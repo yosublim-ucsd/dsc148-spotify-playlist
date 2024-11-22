@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Monet192
 
-148 songs - 6 hr 42 min
+149 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2024-06-28 |  |
 | [6 Minuten](https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [6 Minuten](https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0) | 2:54 | 2024-06-28 |  |
 | [7 LEERE ZIMMER \(feat\. Henning May\)](https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [7 LEERE ZIMMER \(feat\. Henning May\)](https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc) | 2:30 | 2024-10-24 |  |
+| [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2024-11-18 |  |
 | [Akhirah](https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS) | [NAVACHA](https://open.spotify.com/artist/3CzTaj0KPnnjizkzxRNJym), [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Akhirah](https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c) | 2:52 | 2024-10-24 |  |
 | [AMA DOREN](https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [AMA DOREN](https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO) | 2:41 | 2024-09-02 | 2024-10-25 |
 | [Anderer Mann](https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Anderer Mann](https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg) | 2:15 | 2024-06-28 |  |
@@ -140,7 +141,7 @@
 | [Unzertrennlich](https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Unzertrennlich](https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ) | 2:58 | 2024-11-18 |  |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-06-28 |  |
-| [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 |  |
+| [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [War das schon alles](https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [War das schon alles](https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14) | 2:58 | 2024-06-28 | 2024-09-30 |
 | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8) | 2:31 | 2024-06-28 |  |
 | [Was Es Braucht](https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Was Es Braucht](https://open.spotify.com/album/0iRjf9T50CSIzm4yLrOfCk) | 2:47 | 2024-11-11 |  |

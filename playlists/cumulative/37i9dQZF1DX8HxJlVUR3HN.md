@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Last Train
+> Les meilleures nouveautés de la scène rock française\. Photo : Marcel et son Orchestre
 
-299 songs - 18 hr 13 min
+303 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,16 +140,18 @@
 | [Keep My Head](https://open.spotify.com/track/4XlAOyhVWgOgelpqScS1YE) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [Keep My Head](https://open.spotify.com/album/5qu5GSOs0LLXQOSmUT8iZo) | 5:00 | 2024-06-27 | 2024-11-15 |
 | [Kiss Of Death](https://open.spotify.com/track/3OYp1OJFwgv3gNzqG2Dq7X) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Kiss Of Death](https://open.spotify.com/album/2rkxdVv17cqa3IvfhdrbBd) | 2:55 | 2024-08-29 | 2024-11-15 |
 | [Knife Edge](https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV) | [Doorshan](https://open.spotify.com/artist/4b0rw6riYNCnFzZ2vYFjTk) | [Knife Edge](https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5) | 3:42 | 2023-09-28 | 2023-10-20 |
+| [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 | 2024-11-21 |  |
 | [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-14 |  |
 | [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-28 | 2024-10-04 |
 | [La vie est belle](https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [La vie est belle](https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh) | 2:58 | 2024-03-21 | 2024-06-14 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-13 | 2024-11-08 |
 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 | 2024-03-07 | 2024-06-28 |
 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 | 2024-08-29 |  |
+| [Leave It All Behind](https://open.spotify.com/track/1j2fSD4pmkITLie8Jn7beX) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Leave It All Behind](https://open.spotify.com/album/62rHOKAdNBe3svzY0JPr25) | 3:23 | 2024-11-21 |  |
 | [Les gamins](https://open.spotify.com/track/7zD8Y0vrXkI52xdOxTdFcX) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Superspectives](https://open.spotify.com/album/6OFWJChBYs4oF6f8V2V5Ow) | 3:37 | 2024-02-29 | 2024-04-19 |
 | [Les magazines](https://open.spotify.com/track/1OoRHpcCl1afYCqDaBpa85) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [Les magazines](https://open.spotify.com/album/5m3D7pJBWUh8ybUjGQn9FQ) | 3:34 | 2023-10-05 | 2024-02-16 |
 | [Les Sirènes](https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6) | [JOUJOU](https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8) | [Les Sirènes](https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT) | 2:45 | 2024-03-14 | 2024-09-06 |
-| [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-14 |  |
+| [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-14 | 2024-11-22 |
 | [Limousine](https://open.spotify.com/track/5Iatj6CbK0AjL90wZZMCY0) | [The Late Speakers...!](https://open.spotify.com/artist/524hQV3Jv9I3Ozep6dBR0r) | [Limousine](https://open.spotify.com/album/61FOACCkZkHVZdOLPFlhSf) | 3:15 | 2024-09-05 | 2024-09-20 |
 | [Lona](https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [Lona](https://open.spotify.com/album/2K3PORwKw6TTEh3zQBkQRZ) | 4:16 | 2024-08-29 | 2024-10-12 |
 | [Lust](https://open.spotify.com/track/38zSIQWnXU6dvJhaJShWoL) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Chamber Songs](https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2) | 3:01 | 2024-09-19 |  |
@@ -179,10 +181,10 @@
 | [No Way Back](https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ) | [Your New Favorite Tape](https://open.spotify.com/artist/4ENnggxXjjdhEKsUwiH2JP) | [No Way Back](https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi) | 2:12 | 2023-09-28 | 2023-11-10 |
 | [Notes To Myself](https://open.spotify.com/track/36U21Uj9lz9WYO5jMuls9u) | [OUTNUMBERED](https://open.spotify.com/artist/6YTNnNlp6gE3D7BYrKIXjz) | [Notes To Myself](https://open.spotify.com/album/0rrl3gVFwJeOaVxOYMsKsO) | 2:25 | 2024-08-01 |  |
 | [Okay](https://open.spotify.com/track/6hGIEiT7X4ppUL3SQw76G6) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 2:51 | 2024-02-29 | 2024-03-15 |
-| [Olive Tree](https://open.spotify.com/track/66md9bWrwCOEQHMfQGjlgH) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Olive Tree](https://open.spotify.com/album/6zdYNAdcYalksSJRq8p6ti) | 3:52 | 2024-09-19 |  |
+| [Olive Tree](https://open.spotify.com/track/66md9bWrwCOEQHMfQGjlgH) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Olive Tree](https://open.spotify.com/album/6zdYNAdcYalksSJRq8p6ti) | 3:52 | 2024-09-19 | 2024-11-22 |
 | [Om Namah Shivaya](https://open.spotify.com/track/1xhdb1IUjxtRTUm5f2TPLk) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/7cZuHS2e1grx3o3DgDlYau) | 4:40 | 2024-04-25 | 2024-05-03 |
 | [On My Mind](https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8) | [HEY LIFE](https://open.spotify.com/artist/1MnMtr6vo41XzjwgRvD5wf) | [On My Mind](https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me) | 2:54 | 2023-09-28 | 2023-12-15 |
-| [On The Run](https://open.spotify.com/track/7iCvPzM4RuJPOyLvQVQJMu) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [On The Run](https://open.spotify.com/album/4EkgeceK40dnTFPjD6h5M7) | 3:48 | 2024-09-19 |  |
+| [On The Run](https://open.spotify.com/track/7iCvPzM4RuJPOyLvQVQJMu) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [On The Run](https://open.spotify.com/album/4EkgeceK40dnTFPjD6h5M7) | 3:48 | 2024-09-19 | 2024-11-22 |
 | [One Face And A Hundred Souls](https://open.spotify.com/track/393hKvpbS4ZFJyXX1JKdcy) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [The Great Listener](https://open.spotify.com/album/6QvP6aqsSCCbdYTo6gBikb) | 3:42 | 2024-05-30 | 2024-10-04 |
 | [Oublie\-Moi](https://open.spotify.com/track/0WGptJ1qOflBWrp4xO5vhX) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Oublie\-Moi](https://open.spotify.com/album/1MX8g82qAIy1CxxYI2L6O4) | 3:24 | 2024-07-18 | 2024-08-30 |
 | [OWL IN OWL](https://open.spotify.com/track/6YkjlCD3MOYl6YBdBohKdC) | [Duckblockers](https://open.spotify.com/artist/32ddgCA0JOyQIpq42h4tYP) | [OWL IN OWL](https://open.spotify.com/album/1CpujWPVAXNKIrkDFyd4R7) | 3:16 | 2023-11-16 | 2023-12-22 |
@@ -204,7 +206,7 @@
 | [Rebounds](https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Spiritual Sickness](https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO) | 4:20 | 2024-02-29 | 2024-06-28 |
 | [Regenerated](https://open.spotify.com/track/1syfjH2Wx6MclvB7YFkUbB) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Regenerated](https://open.spotify.com/album/1j3UI9RfjPrA0lAfNFTdqo) | 3:22 | 2023-09-28 | 2023-11-17 |
 | [Resign](https://open.spotify.com/track/5PNyY0cSYmRednV5H3wROh) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Shaka Ponk](https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad) | 3:42 | 2024-07-18 | 2024-07-27 |
-| [Resign \- 2024](https://open.spotify.com/track/5cEs1Gf7xQaV6IzPbLhMaz) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Resign \(2024\)](https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS) | 3:42 | 2024-07-25 |  |
+| [Resign \- 2024](https://open.spotify.com/track/5cEs1Gf7xQaV6IzPbLhMaz) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Resign \(2024\)](https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS) | 3:42 | 2024-07-25 | 2024-11-22 |
 | [Riga](https://open.spotify.com/track/3zPqSivFOYX7O8CW42P7vN) | [Robot Orchestra](https://open.spotify.com/artist/5inApTkXoUrypCCPgEXrnp) | [Riga](https://open.spotify.com/album/0x0QW5gmu3dzSKnfFmkEkq) | 3:28 | 2024-01-11 | 2024-01-26 |
 | [Rival in the stadium](https://open.spotify.com/track/5hCiwFcVHx9LIge3QpFVIL) | [Uncut](https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs) | [Rival in the stadium](https://open.spotify.com/album/7KL7RcebDGEH7F7IUv8mvf) | 3:55 | 2024-11-07 |  |
 | [Rosie](https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Rosie](https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD) | 2:58 | 2024-04-18 | 2024-06-01 |
@@ -238,8 +240,10 @@
 | [Splendore Evolution](https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Splendore Evolution](https://open.spotify.com/album/1MZeEPvgvGW86AIvg6F46u) | 3:07 | 2023-10-26 | 2023-12-01 |
 | [Stalker](https://open.spotify.com/track/3DqRN9Vy5GqDKOWjXNSbLU) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Stalker](https://open.spotify.com/album/3e1O57LkVDlrw6jnynFy48) | 3:42 | 2024-10-17 | 2024-11-15 |
 | [State of Alert](https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk) | [Frustration](https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4) | [State of Alert](https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso) | 2:19 | 2024-01-26 | 2024-03-15 |
+| [Stigmatisez\-moi !](https://open.spotify.com/track/1FKOeshL0gBRmhwc50XdsN) | [Marcel et son Orchestre](https://open.spotify.com/artist/5YdOZp94WgelKxaAlQ2j7y) | [Stigmatisez\-moi !](https://open.spotify.com/album/1S3NUWIOWt80xvhGvdOw6B) | 3:17 | 2024-11-21 |  |
 | [Still The Same](https://open.spotify.com/track/49CZ9ovDlZniGnEHybxJmz) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Still The Same](https://open.spotify.com/album/5wyQcppvnY3Xr8cvrRGIb7) | 2:37 | 2024-06-27 | 2024-08-30 |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-28 | 2024-01-19 |
+| [Stone Spit](https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Stone Spit](https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho) | 3:11 | 2024-11-21 |  |
 | [Story of the Man](https://open.spotify.com/track/5E8eLCnKtNAKnRQZJJyrw1) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Story of the Man](https://open.spotify.com/album/6WyKpiRJld1QLZ8p0AI3XT) | 2:37 | 2024-09-19 |  |
 | [Strange Desire II](https://open.spotify.com/track/3SnmkxTuAY2XuRimbloqiG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Strange Desire](https://open.spotify.com/album/3juU6WucGVJ0ccA0XQyoDE) | 3:38 | 2023-09-28 | 2023-11-25 |
 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-09-28 | 2023-11-17 |

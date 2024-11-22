@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-769 songs - 2 day 12 hr 41 min
+770 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [I'm A Fool To Want You \- Remastered 2006](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 | 2022-10-27 |  |
 | [I'm Beginning To See The Light \- Mono Version](https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [The Complete Clef & Verve Fifties Studio Recordings](https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT) | 3:08 | 2023-08-10 | 2023-08-21 |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:37 | 2022-10-27 |  |
-| [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 | 2024-03-20 |  |
+| [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 | 2024-03-20 | 2024-11-22 |
 | [I'm In The Mood For Love](https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Complete Savoy Master Takes](https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0) | 2:55 | 2022-10-27 |  |
 | [I've Got a Crush On You](https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 2:32 | 2022-10-27 |  |
 | [I've Got It Bad And That Ain't Good](https://open.spotify.com/track/5ixYtWDtAaaj89KFMWbgEj) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:35 | 2022-10-27 | 2024-09-01 |
@@ -748,6 +748,7 @@
 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 | 2022-10-27 |  |
 | [Where Do You Start](https://open.spotify.com/track/0gPxAMKPYhnFSAKkBcy3UN) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 4:06 | 2022-10-27 |  |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2022-10-27 | 2024-04-19 |
+| [Where We Used To Live](https://open.spotify.com/track/0Y6WjYBWld3reWsTMT8FTd) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [E.S:T\. Tuesday Wonderland](https://open.spotify.com/album/5TMOqpo8tmDcsBuvFMCZWJ) | 4:25 | 2024-07-17 |  |
 | [While We're Young](https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [So Much Guitar!](https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD) | 2:15 | 2022-10-27 |  |
 | [Whiplash](https://open.spotify.com/track/0v0oL77zDnGTdRwB2q6OIm) | [Hank Levy](https://open.spotify.com/artist/542qEE4zFUrLQjWNMaOrbc) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 1:55 | 2022-10-27 |  |
 | [Whisper Not](https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 2:56 | 2022-10-27 | 2024-08-15 |

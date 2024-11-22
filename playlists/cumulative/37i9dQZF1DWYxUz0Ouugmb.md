@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Rizwan Fadilah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Putu Maydea
 
-231 songs - 14 hr 53 min
+232 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 | 2022-04-28 | 2023-04-14 |
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2024-03-29 |  |
+| [Sewajarnya](https://open.spotify.com/track/3Z69H2TPlcIQnPS77HQNRP) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Sewajarnya](https://open.spotify.com/album/55VKhwlEM22hG76WIQy7qL) | 4:36 | 2024-11-21 |  |
 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 | 2024-03-29 |  |
 | [Sia Sia Merindu \- \(Live Ska Reggae\)](https://open.spotify.com/track/1A2f3LAchcQ1ayhAt3yx3z) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Sia Sia Merindu \(Live Ska Reggae\)](https://open.spotify.com/album/0udbI2HzOdI6RLliHbnHhk) | 5:03 | 2023-09-14 | 2024-03-29 |
 | [Soal Kita](https://open.spotify.com/track/14rpraFulfsWytcg4kMtLz) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Soal Kita](https://open.spotify.com/album/6jgYTIvlTMtNH1XBmVu3FA) | 3:51 | 2021-11-25 | 2022-03-25 |

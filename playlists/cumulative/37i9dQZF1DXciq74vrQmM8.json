@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Poppy",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. emily jeffri",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 101500,
       "name": "2BADGYALZ",
       "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/4Z4rhz7JguH07EMCycMtsu"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156385,
+      "name": "BURN IT ALL DOWN",
+      "url": "https://open.spotify.com/track/5TUUbvbahnHSIGJvC0MI2a"
+    },
+    {
+      "album": {
         "name": "Burn The Witch",
         "url": "https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0"
       },
@@ -4071,6 +4089,28 @@
     },
     {
       "album": {
+        "name": "DEAD! (feat. CVLTE)",
+        "url": "https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        },
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202607,
+      "name": "DEAD! (feat. CVLTE)",
+      "url": "https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol"
+    },
+    {
+      "album": {
         "name": "DEADGIRL",
         "url": "https://open.spotify.com/album/03VMKQT0OKB5m2xhDJVeWc"
       },
@@ -5076,6 +5116,24 @@
       "duration_ms": 137500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
+    },
+    {
+      "album": {
+        "name": "YOURS, SYDNEY",
+        "url": "https://open.spotify.com/album/21maSiKw90JiP0sDaE64Ch"
+      },
+      "artists": [
+        {
+          "name": "emily jeffri",
+          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245749,
+      "name": "ECHOES",
+      "url": "https://open.spotify.com/track/4pW3ItzYcSxoBFhwEJQnuD"
     },
     {
       "album": {
@@ -7798,7 +7856,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201179,
       "name": "HEADCASE",
       "url": "https://open.spotify.com/track/4zaaH9aJmN4TRntzWuUWee"
@@ -9157,6 +9215,28 @@
     },
     {
       "album": {
+        "name": "Cypress Hill Mixtape",
+        "url": "https://open.spotify.com/album/6vViDUE5CWCL88MMVR8sSj"
+      },
+      "artists": [
+        {
+          "name": "BLACKGOLD",
+          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/5Lbu0d5dXJfwUbf9BTVkdm"
+    },
+    {
+      "album": {
         "name": "Happiness is an Inside Job",
         "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
       },
@@ -9486,7 +9566,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 189410,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/7iNy3yiaStLnXuXqQbYoxJ"
@@ -9796,7 +9876,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 269825,
       "name": "Just A Number",
       "url": "https://open.spotify.com/track/3xc0mpwNvcp1rU2Y77Ff1T"
@@ -9944,7 +10024,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181968,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/1bBThfzpHomaiU1ppk3khJ"
@@ -11616,7 +11696,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 149327,
       "name": "MESSY",
       "url": "https://open.spotify.com/track/6ujEaQeBN7pbSJenUQ6KaD"
@@ -15638,6 +15718,24 @@
       "duration_ms": 163282,
       "name": "snakelike (the stars collide)",
       "url": "https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU"
+    },
+    {
+      "album": {
+        "name": "snow queen",
+        "url": "https://open.spotify.com/album/0hrWSRs4Qyf313T5sMc8SL"
+      },
+      "artists": [
+        {
+          "name": "Laurel Smith",
+          "url": "https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150006,
+      "name": "snow queen",
+      "url": "https://open.spotify.com/track/46zPKknII8irWI3RFs2dJz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115, Bedoes 2115",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Tymek",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134068,
       "name": "7 DAM",
       "url": "https://open.spotify.com/track/0u4LafmewDz5L2FNqqWGud"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 216296,
       "name": "AK47",
       "url": "https://open.spotify.com/track/3PyuAlvHJbv1qFl9LzStFl"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 137379,
       "name": "BOGOTA",
       "url": "https://open.spotify.com/track/6tw7eMHRCjgKUsHs3mtqDq"
@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "DLA CIEBIE FREESTYLE",
+        "url": "https://open.spotify.com/album/2DPWTL5WQGoDTEZl7MVhvG"
+      },
+      "artists": [
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        },
+        {
+          "name": "Marianne.",
+          "url": "https://open.spotify.com/artist/4bl8oIRcJPreFL1s7P8Pt0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98241,
+      "name": "DLA CIEBIE FREESTYLE",
+      "url": "https://open.spotify.com/track/7umf5ey02bJ1N9GMauS002"
+    },
+    {
+      "album": {
         "name": "DM",
         "url": "https://open.spotify.com/album/1CEieYFtzbLrCmb3Os825e"
       },
@@ -3493,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Futurama 3 (fanserwis)",
+        "url": "https://open.spotify.com/album/3SO1Pzy8RRa66qGR5yAhBt"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276240,
+      "name": "Futurama 3 (fanserwis)",
+      "url": "https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN"
+    },
+    {
+      "album": {
         "name": "CERBER EP",
         "url": "https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU"
       },
@@ -3548,7 +3588,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178623,
       "name": "gdy za oknem",
       "url": "https://open.spotify.com/track/3HxvqQG9jkAxBJLXurpZW0"
@@ -3610,7 +3650,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 113333,
       "name": "GENERACJA CUZI",
       "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
@@ -3890,6 +3930,24 @@
       "duration_ms": 151578,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/2WQ3sWVxEYNLaBfeZBZi8Z"
+    },
+    {
+      "album": {
+        "name": "hellstar",
+        "url": "https://open.spotify.com/album/5v6HNBzISkweTBWw6nHdvz"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "hellstar",
+      "url": "https://open.spotify.com/track/7HDeP774T5HQlHISFg4v5O"
     },
     {
       "album": {
@@ -5138,6 +5196,40 @@
       "duration_ms": 169014,
       "name": "Kr\u00f3tkie story",
       "url": "https://open.spotify.com/track/037alnjowyjtJBDQ0JOM5U"
+    },
+    {
+      "album": {
+        "name": "KSZTA\u0141T MI\u0141O\u015aCI",
+        "url": "https://open.spotify.com/album/5iet9mbnvRhfnaWRGiRTN7"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194651,
+      "name": "KSZTA\u0141T MI\u0141O\u015aCI",
+      "url": "https://open.spotify.com/track/4QGnaYACkePKzWGbatWBeJ"
     },
     {
       "album": {
@@ -6859,6 +6951,28 @@
     },
     {
       "album": {
+        "name": "NARA",
+        "url": "https://open.spotify.com/album/4Mv16lVEzElY86wC8qJ8bP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154772,
+      "name": "NARA",
+      "url": "https://open.spotify.com/track/70lt8OJMEZO3NPjYwZIKmt"
+    },
+    {
+      "album": {
         "name": "Nawiedzony dom",
         "url": "https://open.spotify.com/album/1R7RAEaC6WflG7Yr32Jb7U"
       },
@@ -7602,7 +7716,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 187317,
       "name": "OG (Osiedlowy Geniusz)",
       "url": "https://open.spotify.com/track/5wTHoWNRlE8WFwvyv8dGyF"
@@ -9657,6 +9771,28 @@
     },
     {
       "album": {
+        "name": "Popularne",
+        "url": "https://open.spotify.com/album/4hkZ8El8qVHPQzbgMy8J26"
+      },
+      "artists": [
+        {
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        },
+        {
+          "name": "Urbanski",
+          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169939,
+      "name": "Sophia Loren",
+      "url": "https://open.spotify.com/track/493ORSeExHylEYu7tolox9"
+    },
+    {
+      "album": {
         "name": "SOSA",
         "url": "https://open.spotify.com/album/2Ja8P6lNVI1XgGMH8diUg8"
       },
@@ -9922,6 +10058,28 @@
       "duration_ms": 157974,
       "name": "SZA\u0141",
       "url": "https://open.spotify.com/track/0HAjbuIEDbqhg70zbCcsHn"
+    },
+    {
+      "album": {
+        "name": "Szlug prawdy",
+        "url": "https://open.spotify.com/album/0mrVAViSyHdTIaFJUoMT6V"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156792,
+      "name": "Szlug prawdy",
+      "url": "https://open.spotify.com/track/3Rzf2Tzo5ihHCdowGQGkDl"
     },
     {
       "album": {
@@ -10316,6 +10474,32 @@
       "duration_ms": 177346,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/0tx39lzX83KjrWqEfHTxew"
+    },
+    {
+      "album": {
+        "name": "TRENINGOWY DRES",
+        "url": "https://open.spotify.com/album/3zJtUhEpHXjxwB3ktjHZDY"
+      },
+      "artists": [
+        {
+          "name": "Francuz Mordo",
+          "url": "https://open.spotify.com/artist/2HbB4FfGWI8U5NsLgUZ5ao"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Sebz Beats",
+          "url": "https://open.spotify.com/artist/1jGM687jFlYVxRV4xZivTO"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "TRENINGOWY DRES",
+      "url": "https://open.spotify.com/track/0hgQqD7YLqyZigMuuri08J"
     },
     {
       "album": {
@@ -11148,7 +11332,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164446,
       "name": "YALLA ARA BABA",
       "url": "https://open.spotify.com/track/0j9OYj0JOrZUIgYk6SKX9v"
@@ -11474,7 +11658,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164691,
       "name": "zosta\u0144, prosz\u0119",
       "url": "https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS"

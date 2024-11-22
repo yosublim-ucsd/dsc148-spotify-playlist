@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071,522 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071,458 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 15 | [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 |
 | 16 | [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 |
 | 17 | [Turkey Leg](https://open.spotify.com/track/4iX8WFt1kAKkMOLpr8PVm6) | [Certainly So](https://open.spotify.com/artist/0VmYiMeoVRP5bSkfBs0PSR) | [Probably Not](https://open.spotify.com/album/0obB40xCXKfuJW2c7YHJoo) | 5:11 |
-| 18 | [Give My Heart](https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star](https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe) | 3:27 |
+| 18 | [Give My Heart](https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [My Star](https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe) | 3:26 |
 | 19 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
 | 20 | [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 |
 | 21 | [x\-ray eyes](https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [x\-ray eyes](https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt) | 4:51 |

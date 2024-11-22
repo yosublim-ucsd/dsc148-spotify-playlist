@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 43 | [Gotcha Now Doc](https://open.spotify.com/track/5Zo2dogaQhNGoabGLHr4rG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:47 |
 | 44 | [Heart at Midnight](https://open.spotify.com/track/69BZZFF0H84XW4rA5EKzdW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:59 |
 | 45 | [What I Want](https://open.spotify.com/track/6F3XmjeZAABXispoA3Qumm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:58 |
-| 46 | [Miss Purty](https://open.spotify.com/track/3leGXxXO1gVejwDfW8G6uJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:24 |
-| 47 | [Christmas With You](https://open.spotify.com/track/2xUSSPsbyqVoTpLqsahVPF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:08 |
+| 46 | [Christmas With You](https://open.spotify.com/track/2xUSSPsbyqVoTpLqsahVPF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:08 |
+| 47 | [Miss Purty](https://open.spotify.com/track/3leGXxXO1gVejwDfW8G6uJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:24 |
 | 48 | [Anything 4 U](https://open.spotify.com/track/6FWR1UWLMp8mPtl2tHEFHr) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:48 |
 | 49 | [Icarus](https://open.spotify.com/track/3kfLQDTR7QwX9LVTAMzMrl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 5:28 |
 | 50 | [Good Nature](https://open.spotify.com/track/2KYxuRu5NJfNlXiXVhFdtB) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Pher](https://open.spotify.com/artist/0nSqvdQSOrHHliAxtRrz7N), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:22 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 95 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 96 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbiCvgAAAACI27bgvZKe5KWxFUgvK87W`
+Snapshot ID: `AbiIVAAAAACy06CSXc8NzwQqxXJP5RRB`

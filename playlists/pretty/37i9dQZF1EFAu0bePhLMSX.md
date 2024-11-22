@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 61 | [Closer To Me](https://open.spotify.com/track/4yMw8K8oF4eO4LvUmFoACW) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:28 |
 | 62 | [Light Years](https://open.spotify.com/track/23I7SxHu8fHBA6CVQ7Z0w8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/3vH4V069uawep9By3y6EP7) | 4:47 |
 | 63 | [Rock The Party \- Single Remix](https://open.spotify.com/track/3yyCRuWQPxENTKhGZbBFmq) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 2:48 |
-| 64 | [Freedom Of The Night](https://open.spotify.com/track/2xrLUgh8qtlYfibZQ7V6M5) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder In The Night](https://open.spotify.com/album/3cVD020aOEwFazH5OvoJ3L) | 3:12 |
+| 64 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 |
 | 65 | [Tell Me What You Dream](https://open.spotify.com/track/1lSSqcVfpoFAHyhSb8odzR) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 4:02 |
 | 66 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 |
 | 67 | [Voodoo](https://open.spotify.com/track/6rYVBkMNqLBH5kw7AcBz77) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Greatest Hits](https://open.spotify.com/album/2XLpqfYjGTecYQJQU9wFxG) | 3:11 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 158 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
 | 159 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AbiCtAAAAACpNFdF5Se/NeRCSIbyyWFk`
+Snapshot ID: `AbiIVAAAAADWEWV9XAm71RQGRe6PQi8u`

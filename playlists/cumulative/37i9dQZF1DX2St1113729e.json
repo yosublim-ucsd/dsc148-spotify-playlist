@@ -631,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+    },
+    {
+      "album": {
         "name": "arroz",
         "url": "https://open.spotify.com/album/0jjEpl7QHid5llB360u7rE"
       },
@@ -872,7 +894,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 161495,
       "name": "Beckham",
       "url": "https://open.spotify.com/track/78k5PbDtptlMchCGHcNSsz"
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 220169,
       "name": "Clavao en visto",
       "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 131870,
       "name": "COMETA Z",
       "url": "https://open.spotify.com/track/6hp5gK4FXmlLpr4msZvSTJ"
@@ -1603,7 +1625,7 @@
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 101917,
+      "duration_ms": 102047,
       "name": "coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/2iGlLyQBdzt319UImwEmm7"
     },
@@ -2190,7 +2212,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 127384,
       "name": "digital",
       "url": "https://open.spotify.com/track/0UYqOY6AXRxYHOIkL3TIbs"
@@ -3829,6 +3851,28 @@
     },
     {
       "album": {
+        "name": "Indoor",
+        "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
+      },
+      "artists": [
+        {
+          "name": "Di\u00e1cono",
+          "url": "https://open.spotify.com/artist/6tsYWyXqbe8TXwVrj4qKWR"
+        },
+        {
+          "name": "Tony Cobb",
+          "url": "https://open.spotify.com/artist/1h1ZJo2XR9jcThf9Z1CdOJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136634,
+      "name": "Indoor",
+      "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
+    },
+    {
+      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
       },
@@ -4552,6 +4596,28 @@
       "duration_ms": 120000,
       "name": "LUN\u00c1TICO",
       "url": "https://open.spotify.com/track/0NEPa7pOruKTGKY5d34spg"
+    },
+    {
+      "album": {
+        "name": "LYL",
+        "url": "https://open.spotify.com/album/14G2OHSuj8QfVKlOejMxP6"
+      },
+      "artists": [
+        {
+          "name": "Paranoid Realm",
+          "url": "https://open.spotify.com/artist/5V1sFxTbkXaeYL19GsSm4q"
+        },
+        {
+          "name": "shay b",
+          "url": "https://open.spotify.com/artist/6rSQoQCqFrbrFCUxZXKEWF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LYL",
+      "url": "https://open.spotify.com/track/1u2xllM9lxeHhRAetkNlcn"
     },
     {
       "album": {
@@ -7095,6 +7161,24 @@
     },
     {
       "album": {
+        "name": "Quiero estar solo",
+        "url": "https://open.spotify.com/album/3WMarwEftG8gpMUK0HTlgy"
+      },
+      "artists": [
+        {
+          "name": "NOFEEL",
+          "url": "https://open.spotify.com/artist/0n0Ed4g26prWqvyF0nQApK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Quiero estar solo",
+      "url": "https://open.spotify.com/track/2yXbVJUwrpfQ3vZbNqHk3n"
+    },
+    {
+      "album": {
         "name": "Quiz\u00e1 No Es para Mi",
         "url": "https://open.spotify.com/album/5RXQ2ykCmUsQnSQJWvMhjy"
       },
@@ -7172,7 +7256,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 151724,
       "name": "RADIKKHAL",
       "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"
@@ -9260,6 +9344,32 @@
       "duration_ms": 144000,
       "name": "YNKHM (feat. Martin Ma\u00f1as & lichi)",
       "url": "https://open.spotify.com/track/5x3Dw81qHc2qADmwkrbWPc"
+    },
+    {
+      "album": {
+        "name": "PADAWVN",
+        "url": "https://open.spotify.com/album/1uK2hPf4xJJJGrGE0KC3As"
+      },
+      "artists": [
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        },
+        {
+          "name": "guayaba",
+          "url": "https://open.spotify.com/artist/0xQdyXL9KWwUlPWlIqGZQO"
+        },
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177513,
+      "name": "YONOSOYAS\u00cd",
+      "url": "https://open.spotify.com/track/50zqzpEoENdoS7BvTBR9m2"
     },
     {
       "album": {

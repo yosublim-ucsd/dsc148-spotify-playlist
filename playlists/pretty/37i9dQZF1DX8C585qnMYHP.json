@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 179151,
+  "num_followers": 179294,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Rhythm-O-Green",
+      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
+    },
+    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "forever isn't true",
@@ -771,22 +787,6 @@
       "duration_ms": 92727,
       "name": "forever isn't true",
       "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Rhythm-O-Green",
-      "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
       "added_at": "2024-10-23 05:18:13",
@@ -1157,20 +1157,24 @@
       "url": "https://open.spotify.com/track/2EwhzgutwSHK8xOkFvzrxx"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+        "name": "Your Soul is Perfect (Supreme Uniter)",
+        "url": "https://open.spotify.com/album/1xKeSOTEX8kGf30wsvYmqO"
       },
       "artists": [
         {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+          "name": "Surya Botofasina",
+          "url": "https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj"
+        },
+        {
+          "name": "Radha Botofasina",
+          "url": "https://open.spotify.com/artist/41IrUS6ePL3SJhvRXmDHc3"
         }
       ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
+      "duration_ms": 468996,
+      "name": "Your Soul is Perfect (Supreme Uniter)",
+      "url": "https://open.spotify.com/track/5DwBwggCg6RfMkrqh7rQsY"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1209,24 +1213,20 @@
       "url": "https://open.spotify.com/track/3PyI7m3K7HY5XjMqjPw4XF"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
+      "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Your Soul is Perfect (Supreme Uniter)",
-        "url": "https://open.spotify.com/album/1xKeSOTEX8kGf30wsvYmqO"
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
       },
       "artists": [
         {
-          "name": "Surya Botofasina",
-          "url": "https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj"
-        },
-        {
-          "name": "Radha Botofasina",
-          "url": "https://open.spotify.com/artist/41IrUS6ePL3SJhvRXmDHc3"
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
         }
       ],
-      "duration_ms": 468996,
-      "name": "Your Soul is Perfect (Supreme Uniter)",
-      "url": "https://open.spotify.com/track/5DwBwggCg6RfMkrqh7rQsY"
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-09-18 04:00:00",
@@ -1243,6 +1243,22 @@
       "duration_ms": 153128,
       "name": "Sincerity",
       "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Should I Be Worried",
+        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
+      },
+      "artists": [
+        {
+          "name": "Theredone",
+          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Earth to Moon",
+      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1277,22 +1293,6 @@
       "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Should I Be Worried",
-        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
-      },
-      "artists": [
-        {
-          "name": "Theredone",
-          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Earth to Moon",
-      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Palloon EP",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Meta",
-        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        }
-      ],
-      "duration_ms": 352314,
-      "name": "Meta VI",
-      "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "CT-2",
@@ -1359,6 +1343,22 @@
       "duration_ms": 172453,
       "name": "Detach",
       "url": "https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        }
+      ],
+      "duration_ms": 352314,
+      "name": "Meta VI",
+      "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
+        "name": "\u8308",
+        "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
+      },
+      "artists": [
+        {
+          "name": "WOZNIAK",
+          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "\u8308",
+      "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
         "name": "(The Circle) of Compassion",
         "url": "https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 498000,
       "name": "(The Circle) of Compassion",
       "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "\u8308",
-        "url": "https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP"
-      },
-      "artists": [
-        {
-          "name": "WOZNIAK",
-          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "\u8308",
-      "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
-      },
-      "artists": [
-        {
-          "name": "FURIO",
-          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
-        }
-      ],
-      "duration_ms": 115764,
-      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
-      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
-    },
-    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Within",
@@ -1539,26 +1523,6 @@
       "duration_ms": 161840,
       "name": "Air",
       "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Framework 1 (Vladislav Delay Remix)",
-        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        },
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Framework 1 (Vladislav Delay Remix)",
-      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1583,22 +1547,38 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Between Waves",
-        "url": "https://open.spotify.com/album/2hvtxkK37YEuRkWhbyq1Cf"
+        "name": "Framework 1 (Vladislav Delay Remix)",
+        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
       },
       "artists": [
         {
-          "name": "Archipelago",
-          "url": "https://open.spotify.com/artist/2GUdtpvpIOFIyt8EQ19XcX"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
         },
         {
-          "name": "Rosie Frater-Taylor",
-          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 389784,
-      "name": "Picture This",
-      "url": "https://open.spotify.com/track/134DrSkUPyqcN2gHkjPop8"
+      "duration_ms": 266573,
+      "name": "Framework 1 (Vladislav Delay Remix)",
+      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+      },
+      "artists": [
+        {
+          "name": "FURIO",
+          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
+      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1615,6 +1595,26 @@
       "duration_ms": 264000,
       "name": "Trying To Get That Sound",
       "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Between Waves",
+        "url": "https://open.spotify.com/album/2hvtxkK37YEuRkWhbyq1Cf"
+      },
+      "artists": [
+        {
+          "name": "Archipelago",
+          "url": "https://open.spotify.com/artist/2GUdtpvpIOFIyt8EQ19XcX"
+        },
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        }
+      ],
+      "duration_ms": 389784,
+      "name": "Picture This",
+      "url": "https://open.spotify.com/track/134DrSkUPyqcN2gHkjPop8"
     },
     {
       "added_at": "2024-10-09 01:34:34",

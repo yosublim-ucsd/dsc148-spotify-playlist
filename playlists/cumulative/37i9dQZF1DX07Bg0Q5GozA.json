@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Sofie Royer",
+  "description": "New music off the beaten track. Cover: Jadu Heart",
   "name": "OFF POP",
   "tracks": [
     {
@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5IF3idPe0dKoz59MWiN3TL"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "FENGSEL",
+          "url": "https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/3KaPpnlVjZ51OJNf5z269a"
+    },
+    {
+      "album": {
         "name": "Another Time Like Now",
         "url": "https://open.spotify.com/album/7hWez4eExbBF3sR11kjy3Q"
       },
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 219537,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
@@ -1866,6 +1888,24 @@
       "duration_ms": 187826,
       "name": "Boxing In Slow Motion - Mixed",
       "url": "https://open.spotify.com/track/60wdi829jDtJ0bLfL35fut"
+    },
+    {
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153246,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF"
     },
     {
       "album": {
@@ -3064,6 +3104,28 @@
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "album": {
+        "name": "Dance on the World",
+        "url": "https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "North Downs",
+          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214187,
+      "name": "Dance on the World",
+      "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
     },
     {
       "album": {
@@ -5680,7 +5742,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 188000,
       "name": "For You",
       "url": "https://open.spotify.com/track/5Ts6qXmwsHYrWrqnGrvzzf"
@@ -5990,7 +6052,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 230253,
       "name": "Gem Lingo (ovr now)",
       "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
@@ -6226,7 +6288,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 276011,
       "name": "Going Through the Motions",
       "url": "https://open.spotify.com/track/5YJdW5AhHeLHfVvggZdb1m"
@@ -6426,6 +6488,28 @@
       "duration_ms": 612525,
       "name": "Hafi Deo - Nick The Record & Dan Tyler Re-Edit Dub",
       "url": "https://open.spotify.com/track/43XLoBEHXE9hNo13g5zBRr"
+    },
+    {
+      "album": {
+        "name": "Hard (feat. Hanni El Khatib)",
+        "url": "https://open.spotify.com/album/4EZjQSyZOGk0SLt2JqVOae"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        },
+        {
+          "name": "Hanni El Khatib",
+          "url": "https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166586,
+      "name": "Hard (feat. Hanni El Khatib)",
+      "url": "https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr"
     },
     {
       "album": {
@@ -6754,6 +6838,28 @@
       "duration_ms": 168423,
       "name": "Hiatus",
       "url": "https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK"
+    },
+    {
+      "album": {
+        "name": "Hiatus - David Bay",
+        "url": "https://open.spotify.com/album/1ccMHEajn9FBfBWiDHiJ7c"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        },
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178454,
+      "name": "Hiatus - David Bay - Remix",
+      "url": "https://open.spotify.com/track/5KWedn4caEvgNdxa5Avxjr"
     },
     {
       "album": {
@@ -7537,6 +7643,28 @@
     },
     {
       "album": {
+        "name": "i cant tell (love my money)",
+        "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163062,
+      "name": "i cant tell (love my money)",
+      "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
+    },
+    {
+      "album": {
         "name": "I Don't Need a Reason To",
         "url": "https://open.spotify.com/album/0hHVDDxmL6AuHqmfqFaEn0"
       },
@@ -8296,7 +8424,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 187010,
       "name": "Indoor Sport",
       "url": "https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk"
@@ -9977,6 +10105,24 @@
     },
     {
       "album": {
+        "name": "Love is so Unreal",
+        "url": "https://open.spotify.com/album/2Ky4TmcA2p4q1bJVaRL6Wa"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245636,
+      "name": "Love is so Unreal",
+      "url": "https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl"
+    },
+    {
+      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -10548,7 +10694,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 226705,
       "name": "Mean girls featuring julian casablancas",
       "url": "https://open.spotify.com/track/3G88sK9DtRDOUeH3xPFWYA"
@@ -13098,7 +13244,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 279346,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
@@ -14274,7 +14420,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 219080,
       "name": "Shadow Of Love",
       "url": "https://open.spotify.com/track/5vpWgoN0ekCvFitRUw9cZO"
@@ -16116,7 +16262,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 235059,
       "name": "That Girl Is Rollercoaster",
       "url": "https://open.spotify.com/track/1XS9BH8bASVM1Vnr8XbSzG"
@@ -16262,7 +16408,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 210852,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA"
@@ -16837,6 +16983,24 @@
     },
     {
       "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/1RYKlpXlpCOtF2d8pUuUX6"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Too Late Now",
+      "url": "https://open.spotify.com/track/4K9eOKTYeSCrh4TdWiWgG5"
+    },
+    {
+      "album": {
         "name": "Too Much Too Little",
         "url": "https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl"
       },
@@ -17217,6 +17381,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218740,
+      "name": "U",
+      "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
+    },
+    {
+      "album": {
         "name": "U Make Me Feel",
         "url": "https://open.spotify.com/album/1jcZh4UgnBjF5nXsdlsqQ5"
       },
@@ -17472,6 +17654,24 @@
       "duration_ms": 200613,
       "name": "upside down",
       "url": "https://open.spotify.com/track/0wdD6gKfjarthX7J6jFUKj"
+    },
+    {
+      "album": {
+        "name": "UPWARDS",
+        "url": "https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195802,
+      "name": "UPWARDS",
+      "url": "https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O"
     },
     {
       "album": {
@@ -18412,7 +18612,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 187348,
       "name": "Who Said",
       "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
@@ -18962,6 +19162,24 @@
       "duration_ms": 410410,
       "name": "Your Love - Agents of Time Remix",
       "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
+    },
+    {
+      "album": {
+        "name": "your touch",
+        "url": "https://open.spotify.com/album/2Kzha1mmYtrsmCUcFqbFA4"
+      },
+      "artists": [
+        {
+          "name": "cornelius",
+          "url": "https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101960,
+      "name": "your touch",
+      "url": "https://open.spotify.com/track/7cPZshG4jWR6pTvhZVL6JG"
     },
     {
       "album": {

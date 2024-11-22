@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,081 songs - 11 day 4 hr 27 min
+7,082 songs - 11 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5123,7 +5123,7 @@
 | [Rolling Papers](https://open.spotify.com/track/7bIXxtS6oLDBNzrQpqHS62) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/3yQBuwe2PIdUpapH2NeFkC) | 2:00 | 2019-07-13 | 2019-09-08 |
 | [Romance](https://open.spotify.com/track/250kKNENGupd95mJdQPXsT) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Romance](https://open.spotify.com/album/5ncVOLh0fFUbauXrt2EHt2) | 1:27 | 2022-11-11 | 2023-02-14 |
 | [Romance](https://open.spotify.com/track/34KTQOmh4sANyx6QCpYaJg) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Romance](https://open.spotify.com/album/1JAaWsmBJkPF7pDS7nsUkt) | 1:59 | 2022-11-25 | 2024-01-19 |
-| [Romantic Space Journey](https://open.spotify.com/track/4bpEZfy23Etf6bDnlhEoSk) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Romantic Space Journey](https://open.spotify.com/album/6eaqYFShUU0shvIqX6NAwB) | 2:00 | 2023-11-17 |  |
+| [Romantic Space Journey](https://open.spotify.com/track/4bpEZfy23Etf6bDnlhEoSk) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Romantic Space Journey](https://open.spotify.com/album/6eaqYFShUU0shvIqX6NAwB) | 2:00 | 2023-11-17 | 2024-11-22 |
 | [Rooftop](https://open.spotify.com/track/2JhncXnFhxMCgV1jFcBvc8) | [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Buttons](https://open.spotify.com/album/7akwT2YvzudPPvLEVuDyW8) | 1:52 | 2022-07-08 | 2022-10-21 |
 | [Rooftop Garden](https://open.spotify.com/track/7asPDliO5rKQsWmzUqAjNx) | [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u) | [Rooftop Garden](https://open.spotify.com/album/1YhYOhJaJi4gSlEywxvMH9) | 3:14 | 2023-02-13 | 2024-01-05 |
 | [rooftop garden](https://open.spotify.com/track/3FUDpRdEB2nOwKR9lf6oPZ) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [rooftop garden](https://open.spotify.com/album/5jjSsCQhaTNVF6I8JgMmwz) | 1:43 | 2020-01-03 | 2021-08-22 |
@@ -5320,6 +5320,7 @@
 | [serenity \(I\)](https://open.spotify.com/track/0MJnCQigS9d0kaP5ATMVKR) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [serenity \(I\)](https://open.spotify.com/album/1wGgXVO8zhOmUD3UTf8g1W) | 2:03 | 2023-04-12 | 2023-10-06 |
 | [Seseh Spirit](https://open.spotify.com/track/6eRP8s0naeeB2GWQKlRcBN) | [slow luna](https://open.spotify.com/artist/3MW5fdqmiIb1rKXccPjEID), [Clark Can](https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Seseh Spirit](https://open.spotify.com/album/1tR1FQ87DZDcA7qvoRaPx8) | 2:06 | 2022-09-23 | 2023-01-13 |
 | [Set It](https://open.spotify.com/track/40LwCzKswQAYsxvRfotmnq) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Out of Sight, Out of Mind](https://open.spotify.com/album/6NqSw0jGSnRuZ3vXIJ8nkI) | 2:09 | 2019-06-22 | 2020-01-04 |
+| [Set Sail](https://open.spotify.com/track/7y4oWwx7FCSMDvPsBM1jsG) | [deneb glow](https://open.spotify.com/artist/0vE06GEOhx9qwsvLNgaJ3l) | [Set Sail](https://open.spotify.com/album/64aPed7zvuombvWOkQW9E4) | 2:32 | 2024-11-15 |  |
 | [Settle Down](https://open.spotify.com/track/4OnqLSwIMOYWQS7InVl3Nj) | [Ivylake](https://open.spotify.com/artist/0UaXCEXCTPbdBBs0w8ae2Y) | [Moonfern](https://open.spotify.com/album/2pVjq2UfWue9udjrJoZvLp) | 2:09 | 2022-03-11 | 2022-08-12 |
 | [Seven Eleven Day](https://open.spotify.com/track/6ZGjzFbyoujuPdBpGLYKuC) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Seven Eleven Day](https://open.spotify.com/album/0vUaag6ZRy4I2kBxoUnO6f) | 2:24 | 2021-01-28 | 2022-01-14 |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 | 2022-12-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: Dual Damage",
+  "description": "Updated weekly | Hardstyle | Cover: KELTEK",
   "name": "Hardstyle Adrenaline! 2024",
   "tracks": [
     {
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 157500,
       "name": "Break It Loose",
       "url": "https://open.spotify.com/track/21sqMiNvl7VA7hnhAPvmFS"
@@ -2826,6 +2826,24 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0lJOU2MZbFEmOJJan6lcBy"
+      },
+      "artists": [
+        {
+          "name": "MJU",
+          "url": "https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222003,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/0iuvd4zwdYSmGhMABYELLB"
     },
     {
       "album": {
@@ -3616,6 +3634,32 @@
       "duration_ms": 110807,
       "name": "Chaos Complete - 2022 EDIT",
       "url": "https://open.spotify.com/track/1oS16UPstPAd5O9US2waU6"
+    },
+    {
+      "album": {
+        "name": "Chaos Prophecy (Official Shockerz 2024 Anthem)",
+        "url": "https://open.spotify.com/album/4ngknNRH2ZcHB5BzkwScYJ"
+      },
+      "artists": [
+        {
+          "name": "Deluzion",
+          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        },
+        {
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270187,
+      "name": "Chaos Prophecy - Official Shockerz 2024 Anthem",
+      "url": "https://open.spotify.com/track/2sI3qhyU9UiksLUS19877S"
     },
     {
       "album": {
@@ -7414,7 +7458,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 180774,
       "name": "For The Ladies",
       "url": "https://open.spotify.com/track/1W9bXuqPb6anRx1wjoCKN0"
@@ -9074,7 +9118,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 172500,
       "name": "High",
       "url": "https://open.spotify.com/track/6qtlHmS5i5J2MIFZqZ27cT"
@@ -11032,7 +11076,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 127500,
       "name": "KEEP CLAPPIN' - Collusion Remix",
       "url": "https://open.spotify.com/track/0vofcVsWtm4mheaA9UyAzx"
@@ -11204,6 +11248,36 @@
       "duration_ms": 159898,
       "name": "Kicks, Melos & Beers",
       "url": "https://open.spotify.com/track/5IVWVm11WeGzP6mUAPrJkb"
+    },
+    {
+      "album": {
+        "name": "Kickuhh!!",
+        "url": "https://open.spotify.com/album/0BcLt1ciYWZanb6Gn7jfjS"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "Deepack",
+          "url": "https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2LpNxLq1O4FAMBagy5t582"
+        },
+        {
+          "name": "Lindyvlinder",
+          "url": "https://open.spotify.com/artist/09Aq8ZTavbWPJwx8j3UDi2"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161894,
+      "name": "Kickuhh!!",
+      "url": "https://open.spotify.com/track/0r1N8yWFFouzXIVCegwDQe"
     },
     {
       "album": {
@@ -12172,7 +12246,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181500,
       "name": "Lion's Heart",
       "url": "https://open.spotify.com/track/4OZS6ycKjwYlkAqnqr6yvX"
@@ -13408,7 +13482,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 248129,
       "name": "Melody Of Life - Melodic Madness OST",
       "url": "https://open.spotify.com/track/7vCP7ay5TexpNQv7tZSiBc"
@@ -14317,6 +14391,32 @@
     },
     {
       "album": {
+        "name": "Music Is Magic",
+        "url": "https://open.spotify.com/album/3tLstTvWjitOjCjEir1iRE"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246328,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/1jqZDmJFalhek6Jjwug3yf"
+    },
+    {
+      "album": {
         "name": "Never Coming Down (feat. Amanda Collis)",
         "url": "https://open.spotify.com/album/0cDAuF8MquZiG58tvWb6UK"
       },
@@ -14544,7 +14644,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 152399,
       "name": "New Perspective",
       "url": "https://open.spotify.com/track/5EO871vyXKMVLTRTCYmjtK"
@@ -15144,7 +15244,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 130875,
       "name": "Nuclear",
       "url": "https://open.spotify.com/track/67tO9ueRmrXrU787RfLRyi"
@@ -15310,7 +15410,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167225,
       "name": "Off My Face",
       "url": "https://open.spotify.com/track/5QlIuFcyEU52OGWpSjVfdv"
@@ -15621,6 +15721,32 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/6tLw3flX1kK1gEXauXP78P"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "French Sisters",
+          "url": "https://open.spotify.com/artist/1I4EE5ur08rtlTb3v0gbtc"
+        },
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172830,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0hwco83JIvUMsbCiDBFtuX"
+    },
+    {
+      "album": {
         "name": "Op Een Dag (Gaan We Allemaal Naar De Hemel)",
         "url": "https://open.spotify.com/album/2xtUO7oONmvTzPvsOF9s2T"
       },
@@ -15728,7 +15854,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164129,
       "name": "Open Your Wings",
       "url": "https://open.spotify.com/track/4dievnmGwqc0g1Xwm6qmeW"
@@ -19019,6 +19145,32 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/2PGdaZfYSztI0S9UVmo2LN"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        },
+        {
+          "name": "RAYZEN",
+          "url": "https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId"
+        },
+        {
+          "name": "TNYA",
+          "url": "https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129167,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/2sP39DGddYwHWivKOAVSEh"
+    },
+    {
+      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -19280,6 +19432,28 @@
       "duration_ms": 256500,
       "name": "Sleep Awake",
       "url": "https://open.spotify.com/track/2DESaurOqFnR7RXjWnygKW"
+    },
+    {
+      "album": {
+        "name": "Snow Globe",
+        "url": "https://open.spotify.com/album/7sqss1wsrKOjCeABJe7kjl"
+      },
+      "artists": [
+        {
+          "name": "Unsenses",
+          "url": "https://open.spotify.com/artist/5ezp2WTBB8rewVCdTKGO1F"
+        },
+        {
+          "name": "Anna-Sophia Henry",
+          "url": "https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227166,
+      "name": "Snow Globe",
+      "url": "https://open.spotify.com/track/7t9rxyyb9cX98sWVCvzCXE"
     },
     {
       "album": {
@@ -25128,6 +25302,28 @@
     {
       "album": {
         "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/7e66Ii9t4hQ2rihzujW3zX"
+      },
+      "artists": [
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        },
+        {
+          "name": "Caelum",
+          "url": "https://open.spotify.com/artist/4rurguPt7zC7a60LfcPDUM"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/78MFmBtei8H7BKJzUlKthA"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
       },
       "artists": [
@@ -25905,6 +26101,24 @@
     },
     {
       "album": {
+        "name": "YoU\u2019rE nOt OriGiNaL",
+        "url": "https://open.spotify.com/album/1U6j3bliChTlMotvosXz1b"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146988,
+      "name": "YoU'rE nOt OriGiNaL",
+      "url": "https://open.spotify.com/track/5k3c4cgSFZRzd26UxHfvMC"
+    },
+    {
+      "album": {
         "name": "You're So Nice (I Kick You Twice)",
         "url": "https://open.spotify.com/album/2zzBzZ0xo5lsFmoPl8yzXp"
       },
@@ -25942,6 +26156,28 @@
       "duration_ms": 178554,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/7vTKkc9WLUFgaFRcOn02J2"
+    },
+    {
+      "album": {
+        "name": "ZAAG IN PARIS",
+        "url": "https://open.spotify.com/album/4J5hA8mjqxoFfblZWmHzs1"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163875,
+      "name": "ZAAG IN PARIS",
+      "url": "https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI"
     },
     {
       "album": {

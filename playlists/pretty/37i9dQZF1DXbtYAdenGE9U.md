@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,882 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,226 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 23 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
 | 24 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
 | 25 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
-| 26 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
-| 27 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
+| 26 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
+| 27 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
 | 28 | [Time to Burn \- Radio Edit](https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC) | [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0) | [Time To Burn 2010](https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku) | 2:55 |
 | 29 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
 | 30 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |

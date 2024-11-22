@@ -2,9 +2,9 @@
 
 ### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
-> La playlist au\-delà des genres\. Photo : grentperez
+> La playlist au\-delà des genres\. Photo : spill tab
 
-213 songs - 12 hr 7 min
+214 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Me Myself and I](https://open.spotify.com/track/2SOzoXrQ0r8RXzaSXAnxx5) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Me Myself and I](https://open.spotify.com/album/1yUFwiHCSBCNuoa21PltAI) | 2:33 | 2023-12-07 | 2024-05-24 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-07-04 |  |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-04 | 2024-05-03 |
-| [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-13 |  |
+| [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-13 | 2024-11-22 |
 | [Moments Die](https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Moments Die](https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1) | 4:06 | 2024-04-22 | 2024-07-05 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-09 | 2024-03-23 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-08-09 |
@@ -148,6 +148,7 @@
 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 | 2023-12-07 | 2024-04-05 |
 | [Ottolenghi](https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 3:17 | 2024-06-14 |  |
 | [Paradisio](https://open.spotify.com/track/3EO5VAVMkKCDHW31QHd1P9) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Ataheva](https://open.spotify.com/album/7361gJ17DZkovNEBrUGUM6) | 4:17 | 2023-12-07 | 2024-03-23 |
+| [PINK LEMONADE](https://open.spotify.com/track/0RKIMdppII9toNNpqY8tWF) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PINK LEMONADE](https://open.spotify.com/album/6nNpkdAwMNLXq5k8kbqxLJ) | 2:22 | 2024-11-21 |  |
 | [Pinky Ring](https://open.spotify.com/track/68bBAvoVBD0EBfXnFDJvbl) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Music EP](https://open.spotify.com/album/5reQ8q59h0HDkcVa2v8FmA) | 2:49 | 2024-04-11 | 2024-06-15 |
 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 | 2023-12-07 | 2024-10-26 |
 | [plongereuse](https://open.spotify.com/track/5CxyocTOjwHedHdarG0sLF) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [plongereuse](https://open.spotify.com/album/2DcQQrutkeb4pdjo1XGh9j) | 5:00 | 2024-01-12 | 2024-04-05 |

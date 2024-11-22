@@ -6276,7 +6276,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 205287,
       "name": "I was young once",
       "url": "https://open.spotify.com/track/3Imvyp4ZL0a72YBahaBp4q"
@@ -9124,6 +9124,24 @@
       "duration_ms": 129414,
       "name": "Midnight Fairytale",
       "url": "https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd"
+    },
+    {
+      "album": {
+        "name": "Midnight Fog",
+        "url": "https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209904,
+      "name": "Midnight Fog",
+      "url": "https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH"
     },
     {
       "album": {

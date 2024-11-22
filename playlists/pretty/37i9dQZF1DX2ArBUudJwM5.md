@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con La Valenti en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,465 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 35 | [INFLEXIÓN](https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [INFLEXIÓN](https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo) | 3:37 |
 | 36 | [Luna Llena](https://open.spotify.com/track/2LrslpUNiCTiY0fQNN2XLz) | [Kiefa](https://open.spotify.com/artist/1pdGBLkz1FE6kFpgjXtMfX), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ) | [Puente](https://open.spotify.com/album/4pZuETz9Bpb1C6UIDmG4H2) | 3:06 |
 | 37 | [NIN](https://open.spotify.com/track/37Unqns2P5SqF1wbIqFBsJ) | [GATITAS VEGANAS](https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Chipi Chipi](https://open.spotify.com/artist/08r9ZpucGE4jjArjLmbjfc) | [NIN](https://open.spotify.com/album/6vraibd368ICpLQ0x88Wsu) | 2:40 |
-| 38 | [Alquiler](https://open.spotify.com/track/1HZX3eFozWLoYwOMLVIjx1) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [CIUDAD FRENESÍ](https://open.spotify.com/album/1JLruKm7iOA1lZAL3ffZ1V) | 2:35 |
-| 39 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
+| 38 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
+| 39 | [Alquiler](https://open.spotify.com/track/1HZX3eFozWLoYwOMLVIjx1) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [CIUDAD FRENESÍ](https://open.spotify.com/album/1JLruKm7iOA1lZAL3ffZ1V) | 2:35 |
 | 40 | [Conocerte más](https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [A veces está bien](https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR) | 2:50 |
 | 41 | [Volcán](https://open.spotify.com/track/2QkaRrAMx0akBN4gSMo7na) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 3:56 |
-| 42 | [GUSTAS DE MÍ](https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [GUSTAS DE MÍ](https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I) | 3:01 |
-| 43 | [Soy un volcán](https://open.spotify.com/track/4V6olQFw9EAJtJbadBm2XG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Soy un volcán](https://open.spotify.com/album/7bPKFYp3OnYlIX6NdYsx9A) | 2:49 |
+| 42 | [Soy un volcán](https://open.spotify.com/track/4V6olQFw9EAJtJbadBm2XG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Soy un volcán](https://open.spotify.com/album/7bPKFYp3OnYlIX6NdYsx9A) | 2:49 |
+| 43 | [GUSTAS DE MÍ](https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [GUSTAS DE MÍ](https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I) | 3:01 |
 | 44 | [No Llores](https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:58 |
-| 45 | [Tu Piel](https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs) | [Agus Martino](https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [Tu Piel](https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar) | 2:35 |
-| 46 | [OTRA VEZ](https://open.spotify.com/track/2txXEci8u7GYq4NfxveM82) | [Martuca](https://open.spotify.com/artist/5ie22c1WT4imB3IUfgbjEZ) | [CONTRADICTORIA](https://open.spotify.com/album/3lmOKuDHwREFVZV2cSNBYM) | 2:46 |
+| 45 | [OTRA VEZ](https://open.spotify.com/track/2txXEci8u7GYq4NfxveM82) | [Martuca](https://open.spotify.com/artist/5ie22c1WT4imB3IUfgbjEZ) | [CONTRADICTORIA](https://open.spotify.com/album/3lmOKuDHwREFVZV2cSNBYM) | 2:46 |
+| 46 | [Tu Piel](https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs) | [Agus Martino](https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [Tu Piel](https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar) | 2:35 |
 | 47 | [YA WEY](https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl) | [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW), [Paz Faga](https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3) | [YA WEY](https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5) | 4:11 |
 | 48 | [What is Art?](https://open.spotify.com/track/4BUU51Mnbm8J4Fsr51pfvk) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [What is Art?](https://open.spotify.com/album/3U1kz43G0YoKYsYA3xwpCX) | 3:55 |
 | 49 | [Mi Opening](https://open.spotify.com/track/71HdE42Cx5v3EivRmkiRtZ) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Ya me hicieron efecto los antidepresivos](https://open.spotify.com/album/3J5yvKmEjJ6yuXWmYWD0Uh) | 2:57 |

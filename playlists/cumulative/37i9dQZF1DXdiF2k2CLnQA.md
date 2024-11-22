@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-187 songs - 12 hr 7 min
+191 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 | 2024-08-01 |  |
 | [Hung Up](https://open.spotify.com/track/1PoqLEEiVsxYvWICbtcP2Y) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Hung Up](https://open.spotify.com/album/2Wr2NYshHbYFGGEuhnlqKN) | 2:30 | 2024-06-27 | 2024-11-08 |
 | [Hungry Waters](https://open.spotify.com/track/1FHdnwhNpWbLXVNU5P4oDc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hungry Waters](https://open.spotify.com/album/1GJDu1mFe6vMERKPHTzUmF) | 5:22 | 2024-09-06 | 2024-10-18 |
-| [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 |  |
+| [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 | 2024-11-22 |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-06 | 2024-09-27 |
 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 | 2024-06-27 | 2024-08-02 |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2024-06-27 |  |
@@ -101,7 +101,7 @@
 | [Leave A Mark](https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Leave A Mark](https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr) | 5:21 | 2024-11-14 |  |
 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 | 2024-10-17 |  |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-01 | 2024-09-20 |
-| [Little Miss Dangerous](https://open.spotify.com/track/71FijrrTwmdbIHAF88Niix) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Little Miss Dangerous](https://open.spotify.com/album/3i40uiEs3OnLkQqIYQEBI3) | 6:09 | 2024-10-17 |  |
+| [Little Miss Dangerous](https://open.spotify.com/track/71FijrrTwmdbIHAF88Niix) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Little Miss Dangerous](https://open.spotify.com/album/3i40uiEs3OnLkQqIYQEBI3) | 6:09 | 2024-10-17 | 2024-11-22 |
 | [Living in America](https://open.spotify.com/track/5l45WdO4SdHXfM5ZBGoeUn) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Living in America](https://open.spotify.com/album/4DE0dJUkpXqDHHhA9SvLIn) | 2:37 | 2024-06-27 | 2024-11-08 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-06-27 | 2024-11-08 |
 | [Loneliness](https://open.spotify.com/track/20nsiZn8teC5v8V5j2g8Bz) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Christopher Kristensen](https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu) | [Destroy The Art](https://open.spotify.com/album/3BW1HCaGQ9QM5d5P5VqWnq) | 2:59 | 2024-10-24 |  |
@@ -111,8 +111,10 @@
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 | 2024-08-02 |
 | [Masquerade](https://open.spotify.com/track/3f90dK4nMplILHk6x8N0ln) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [Masquerade](https://open.spotify.com/album/6w90gfyharUnFixdrtpWll) | 3:03 | 2024-06-27 | 2024-09-20 |
 | [MAYHEM](https://open.spotify.com/track/5k7ZBC0OtY7WezS1ZnY1O3) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw), [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [MAYHEM](https://open.spotify.com/album/6tsPVTCmhiyDS5YOr4nQWM) | 3:03 | 2024-09-19 |  |
+| [Maze of Fools](https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Maze of Fools](https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay) | 3:18 | 2024-11-21 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-29 |  |
 | [Metal Gods](https://open.spotify.com/track/5HvXKqvNY52gHBHDSw4O2r) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Metal Gods](https://open.spotify.com/album/2hrqCYReiJDEU3Q6T5oMNR) | 3:30 | 2024-06-27 | 2024-08-02 |
+| [Midnight Rebels](https://open.spotify.com/track/6RGx7EartalFdiV15QqMuu) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Midnight Rebels](https://open.spotify.com/album/3kDJa1RM5Vye2F5UpEc8uT) | 3:56 | 2024-11-21 |  |
 | [Mind Of The Swarm](https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy) | [Dreamcall](https://open.spotify.com/artist/3a62EzBK7sjGhVtPOIs4r4) | [Mind Of The Swarm](https://open.spotify.com/album/2urmmNd2LEEpgurt7VfWYS) | 3:58 | 2024-08-22 | 2024-09-20 |
 | [Murder in Red](https://open.spotify.com/track/6mIJJBuErDdVgyezVWcbFO) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Murder in Red](https://open.spotify.com/album/3CCweTlV8Hq7uqMiVjMHRn) | 4:49 | 2024-10-03 |  |
 | [Northern Lights](https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Northern Lights](https://open.spotify.com/album/1kBVmJtBPe2mSmrLHzyx4C) | 2:42 | 2024-06-27 | 2024-11-08 |
@@ -125,6 +127,7 @@
 | [Pain In Every Way](https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Pain In Every Way](https://open.spotify.com/album/2V5tlQoEflZEopXoFYLGnH) | 3:32 | 2024-06-27 | 2024-08-02 |
 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 | 2024-06-27 |  |
 | [Parasite](https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [THE DAY WE LEFT EARTH](https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL), [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Parasite](https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu) | 3:16 | 2024-06-27 | 2024-09-20 |
+| [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 |  |
 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-27 |  |
 | [Pink Fang](https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Pink Fang](https://open.spotify.com/album/48xvECMQfRGH7se6T7fXB1) | 4:03 | 2024-08-22 | 2024-09-20 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-06-27 | 2024-10-18 |
@@ -193,7 +196,8 @@
 | [You Know My Name \- From "Casino Royale" Soundtrack](https://open.spotify.com/track/3acBQxxlyb0jC2xqndDzSf) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP) | 4:00 | 2024-11-07 |  |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2024-11-07 |  |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2024-11-07 |  |
-| [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 | 2024-08-01 |  |
+| [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 | 2024-08-01 | 2024-11-22 |
 | [§3](https://open.spotify.com/track/72U6mVliG329C2zGWxDNte) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§3](https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt) | 5:10 | 2024-09-06 | 2024-09-20 |
+| [§4](https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [The Last Will And Testament](https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6) | 7:00 | 2024-11-21 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第66回グラミー賞</a>\(2024年\)を受賞した注目作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,027 likes - 29 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,026 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 16 | [I Remember Everything](https://open.spotify.com/track/6kLsVIxuMxAV4kizoDfqZ1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pop Internacional 2024](https://open.spotify.com/album/6Y0uiaYFWth4EDpfo9ihI4) | 3:47 |
 | 17 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 18 | [Rumble](https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:26 |
-| 19 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:10 |
+| 19 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/1i0N9NMN6kuG3IBw6VenC9) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:10 |
 | 20 | [It Never Entered My Mind](https://open.spotify.com/track/55C4kway5euJFyKBafRgrP) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [Acceptance](https://open.spotify.com/album/3dtXMJBjEBZ5qvV6HmVMzB) | 5:12 |
 | 21 | [Tight](https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Tight](https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X) | 1:55 |
 | 22 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 |

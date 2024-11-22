@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 187855,
+  "num_followers": 187877,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABpyM62Fi4nWRcuwY8zDAD2",
+  "snapshot_id": "Zz0mgAAAAABOQiVCCwIoHpoKa9OkM7j+",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 185231,
-      "name": "Lost in the Woods - Weezer Version",
-      "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+      "duration_ms": 185231,
+      "name": "Lost in the Woods - Weezer Version",
+      "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
+      "duration_ms": 154560,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
+      "duration_ms": 179533,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muppets: The Green Album",
-        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 240506,
-      "name": "Rainbow Connection",
-      "url": "https://open.spotify.com/track/2i17YXd93A17BSsut23gEa"
+      "duration_ms": 235746,
+      "name": "Pacific Coast Highway In The Movies",
+      "url": "https://open.spotify.com/track/1CA0a2dcfsJfiUEH6qVomI"
     }
   ],
   "unique_name": "This Is Weezer",

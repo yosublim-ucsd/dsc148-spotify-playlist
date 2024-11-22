@@ -4,11 +4,12 @@
 
 > håll det 100.
 
-1,677 songs - 3 day 0 hr 52 min
+1,683 songs - 3 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(D\)u ska \(IN\)te tr\(O\) \- Mellan Broarna 2019 Bonusspår](https://open.spotify.com/track/11JjOKITId5awV1yR8rmxJ) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Över Broarna](https://open.spotify.com/album/2y8RsbPzpHh6ImIeUAg3C7) | 3:20 | 2023-11-16 | 2024-03-15 |
+| [+212 \(feat\. 23\)](https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [+212 \(feat\. 23\)](https://open.spotify.com/album/3usbLTSVr2lALbFaMvBHMq) | 2:51 | 2024-11-21 |  |
 | [007](https://open.spotify.com/track/0WWYoV3hnGOpSnmc8BL5ZQ) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [007](https://open.spotify.com/album/0ZgI6oOlIQ76n6mW8Nm5VY) | 2:15 | 2024-03-21 | 2024-04-26 |
 | [03:30](https://open.spotify.com/track/0JDnYc55QAbgBH9FMDvksn) | [Solo](https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh) | [03:30](https://open.spotify.com/album/5r7vOF3pjDZrz29Ek0V4zn) | 2:00 | 2023-05-24 | 2023-08-04 |
 | [08 ZOO](https://open.spotify.com/track/59cIFyq3hJRRbEX4yl7QVt) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 2:04 | 2021-12-16 | 2022-01-28 |
@@ -61,6 +62,7 @@
 | [7 lr 8](https://open.spotify.com/track/1ragSzAriJPNuVcNBaW4V8) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg), [MISS MAMI](https://open.spotify.com/artist/7KDFaJDNWg5wGEMksLwlAE) | [7 lr 8](https://open.spotify.com/album/5DXE7WWg5tY4ICVJutmZfV) | 4:09 | 2022-06-09 | 2022-06-17 |
 | [762](https://open.spotify.com/track/5adSoGd38JxynGiqELTozu) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ), [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ) | [762](https://open.spotify.com/album/5GPzf64JqLLkG5XiY9IfPU) | 2:30 | 2024-02-01 | 2024-05-03 |
 | [7am](https://open.spotify.com/track/2M7z9VN7YxUeXQsqZp7IyP) | [FAH1DO](https://open.spotify.com/artist/01bjIiVhFb4SIlhhEa1gLn) | [Mixed Feelings](https://open.spotify.com/album/4zpQ0ShIdaCY7Rwehn4jJj) | 2:25 | 2022-02-17 | 2022-03-11 |
+| [90s Kid](https://open.spotify.com/track/5qnqFEWouMj8wumbZwIKOJ) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [90s Kid](https://open.spotify.com/album/0fpRDKKORedZYIXLCfQpxh) | 3:09 | 2024-11-21 |  |
 | [95](https://open.spotify.com/track/3n3hEYCg8grGCoRZA4yjWE) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [95](https://open.spotify.com/album/2HwbbWJj2m6fsr3vjwyzCm) | 2:37 | 2024-08-01 | 2024-10-25 |
 | [A.P.T.A](https://open.spotify.com/track/1FxCzkOYYoILkg3QDqQnwM) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [A.P.T.A](https://open.spotify.com/album/05fMUIt5I3brgdau91tMR3) | 1:50 | 2022-07-14 | 2022-09-23 |
 | [ABOW](https://open.spotify.com/track/4OfCmsod9UEhsWUHEidOvD) | [Florendt](https://open.spotify.com/artist/0wjTxkMlB15RDYeo1wk1cY) | [DIAGNOS 1](https://open.spotify.com/album/4fvOTGyBIjZXpavzSazO9D) | 2:33 | 2022-04-14 | 2022-05-06 |
@@ -438,6 +440,7 @@
 | [Du måste veta](https://open.spotify.com/track/17Tszh9t40UEgHXAf8V2VI) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt), [AIVA](https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb) | [Du måste veta](https://open.spotify.com/album/7LsEOHQrPXwQfFAyBOrFQT) | 3:01 | 2022-12-31 | 2023-02-24 |
 | [DUBAII](https://open.spotify.com/track/7dGv7x86XhEmsfY10C3B7R) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J), [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [DUBAII](https://open.spotify.com/album/583YC9TnqTfIYOtRvwDStf) | 2:14 | 2023-07-27 | 2023-11-03 |
 | [DUBBELT](https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DUBBELT](https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk) | 2:38 | 2022-10-06 | 2022-12-09 |
+| [DUBBELTRUMMA](https://open.spotify.com/track/4rg68e1WxuAy8Cp04QnbQz) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [DUBBELTRUMMA](https://open.spotify.com/album/1u2tByXnPMeJdg4UvnDzZl) | 2:09 | 2024-11-21 |  |
 | [DUBBLA LURAR](https://open.spotify.com/track/0lxMCVsbocOHIrOWjXlgrq) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [DUBBLA LURAR](https://open.spotify.com/album/1JaOj74W08xLMmoHfPW72q) | 2:08 | 2024-01-11 | 2024-05-03 |
 | [Dubbla Skift](https://open.spotify.com/track/2HDawpoqiyFWzIHxw0hWNQ) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Dubbla Skift](https://open.spotify.com/album/0DjFmrjVMGhr6ujxp9VqSB) | 2:30 | 2022-02-17 | 2022-05-06 |
 | [DUKTIG TJEJ](https://open.spotify.com/track/7JTQDqXxHVD56q9pCtouqQ) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [DUKTIG TJEJ](https://open.spotify.com/album/3foZda2qtFVPqe1Uc4Oanz) | 2:04 | 2024-03-14 | 2024-07-27 |
@@ -697,6 +700,7 @@
 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-02-08 | 2023-04-28 |
 | [HOTGIRLSUMMER](https://open.spotify.com/track/3kTrBNQRUCs5J4AZGkvVnk) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [HOTGIRLSUMMER](https://open.spotify.com/album/3iEymNVHjJbYhOPJYhvh3B) | 2:15 | 2022-06-23 | 2022-08-20 |
 | [How I feel](https://open.spotify.com/track/2dmQ9121BRJqzo6p4CLiMx) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [How I feel](https://open.spotify.com/album/7y5frPcYiD6RQcPYoN8WBi) | 3:13 | 2022-05-26 | 2022-06-17 |
+| [HUNDRA](https://open.spotify.com/track/2vYI5MCN2pk3rAHOJiIp0O) | [Arvid Lundquist](https://open.spotify.com/artist/1QIoedC1hO9QOSfQfFuLeI), [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [HUNDRA](https://open.spotify.com/album/4odC6DihSvKOYlOxIjKbfm) | 3:04 | 2024-11-21 |  |
 | [Hunger Games](https://open.spotify.com/track/0SIiyWC3DWdR31j4M7CTdF) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD) | [Hunger Games](https://open.spotify.com/album/2B0ltzTamLtlmV44v3r5Sl) | 2:07 | 2022-02-25 | 2022-03-25 |
 | [Hur många gånger?](https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz) | [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Hur många gånger?](https://open.spotify.com/album/098qyzOjXRvIQAY3sz3a4g) | 2:37 | 2023-05-11 | 2023-05-26 |
 | [Hur Som Helst](https://open.spotify.com/track/37nd3wVSymBnw7F75b5zYM) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hur Som Helst](https://open.spotify.com/album/7s7eQKeG8tRxmJFfseNrYR) | 3:02 | 2024-02-29 | 2024-07-27 |
@@ -1297,6 +1301,7 @@
 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 | 2022-03-04 | 2022-04-22 |
 | [Sedan start](https://open.spotify.com/track/4rpdNg2kSv8bMXmC5mUxiw) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Sedan start](https://open.spotify.com/album/5EMQu4MkRNeljsQ6UtacqX) | 2:49 | 2022-07-25 | 2022-08-19 |
 | [Selfmade](https://open.spotify.com/track/4Hf6kEGsZmIdTzar565Gn1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:11 | 2022-06-23 | 2022-09-09 |
+| [Selfmade](https://open.spotify.com/track/1plBNrR291enGSR1lkWvzQ) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [TNT](https://open.spotify.com/album/7ceOE9A4DZ5wQ5TwDqJqMR) | 2:21 | 2024-11-21 |  |
 | [SESSION III](https://open.spotify.com/track/0jURfhxnPn0Ro5xaxpM8gq) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [OC SESSIONS](https://open.spotify.com/album/5hsJZcK1bPqDmB6jnucnlj) | 2:32 | 2023-02-23 | 2023-03-10 |
 | [SEVILLA](https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN) | 2:55 | 2022-10-07 | 2022-11-25 |
 | [SEVILLA](https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/24EnvnJxCORX2zeI9s72NJ) | 2:55 | 2022-08-12 | 2022-10-13 |
@@ -1573,6 +1578,7 @@
 | [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 | 2022-09-08 | 2022-09-15 |
 | [Vanilj](https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Vanilj](https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW) | 2:19 | 2024-09-12 |  |
 | [Vant Mig](https://open.spotify.com/track/3cJA0GAQorbqIIZcOU5iNi) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO](https://open.spotify.com/album/6dmKNqyiMgp26yJ3EIyuvq) | 2:33 | 2022-01-20 | 2022-03-05 |
+| [VAR](https://open.spotify.com/track/5fINnwta8wHwNv4ZpRnId9) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [VAR](https://open.spotify.com/album/7JjYj23wEi32gJqEtVAgHb) | 2:20 | 2024-11-21 |  |
 | [Var Är Du](https://open.spotify.com/track/2Ohk1b9JT1AbtNOUqMfNSl) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [En Unge](https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P) | 2:25 | 2022-11-24 | 2022-12-09 |
 | [Var Är Du](https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Var Är Du](https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4) | 2:25 | 2022-11-04 | 2022-11-26 |
 | [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 | 2022-08-05 | 2022-09-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Danny Ocean, Kapo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Rauw Alejandro",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -122,6 +122,28 @@
       "duration_ms": 187605,
       "name": "23",
       "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
     },
     {
       "album": {
@@ -2023,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3f9adgFbEoT4p73iJTP41t"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159311,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5Txf0ApheFvyRr1s4DxMb5"
+    },
+    {
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -2205,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
+    },
+    {
+      "album": {
         "name": "COSAS QUE NO TE DIJE",
         "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
       },
@@ -2292,7 +2350,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168292,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
@@ -2790,7 +2848,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 198947,
       "name": "Dios Te Cuide",
       "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
@@ -4096,7 +4154,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 193228,
       "name": "FICHAJE DEL A\u00d1O",
       "url": "https://open.spotify.com/track/4zOvp2BysciDInodYHUtOJ"
@@ -4418,6 +4476,28 @@
       "duration_ms": 164765,
       "name": "GOOD DAY (feat. Camidoh)",
       "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213528,
+      "name": "GRAN V\u00cdA",
+      "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
     },
     {
       "album": {
@@ -7806,7 +7886,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
@@ -8260,7 +8340,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 192167,
       "name": "Pa\u2019 Qu\u00e9 Volviste?",
       "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
@@ -8903,6 +8983,24 @@
     },
     {
       "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186813,
+      "name": "Que Nadie Nos Entienda",
+      "url": "https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb"
+    },
+    {
+      "album": {
         "name": "Que se caiga el cielo",
         "url": "https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t"
       },
@@ -8954,6 +9052,28 @@
       "duration_ms": 173275,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO"
+    },
+    {
+      "album": {
+        "name": "QUEBRANTO",
+        "url": "https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "QUEBRANTO",
+      "url": "https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1"
     },
     {
       "album": {
@@ -9150,7 +9270,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 149426,
       "name": "Recorrerte",
       "url": "https://open.spotify.com/track/6wd1evlNUcukPO1Hip1A95"
@@ -9827,6 +9947,24 @@
     },
     {
       "album": {
+        "name": "Sigueme Besando Asi",
+        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Sigueme Besando Asi",
+      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
+    },
+    {
+      "album": {
         "name": "Sin Antifaz (feat. Rayden)",
         "url": "https://open.spotify.com/album/0yOUsQ3o0jq2UwGe6EDw52"
       },
@@ -10388,6 +10526,24 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
+        "name": "Te Confieso",
+        "url": "https://open.spotify.com/album/4g7t1tyIk6JqSrZtg6Yo47"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179679,
+      "name": "Te Confieso",
+      "url": "https://open.spotify.com/track/65hdAblzcILvqLPER3jjoM"
     },
     {
       "album": {
@@ -11292,7 +11448,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 164733,
       "name": "UNA VIDA A TU LADO",
       "url": "https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3"
@@ -11354,7 +11510,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

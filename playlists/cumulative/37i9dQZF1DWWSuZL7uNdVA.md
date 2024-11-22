@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Shaka Ponk au top des meilleurs morceaux rock du moment.
+> Linkin Park au top des meilleurs morceaux rock du moment.
 
-283 songs - 15 hr 59 min
+286 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-09-28 | 2024-03-22 |
 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 | 2023-09-28 | 2024-02-09 |
 | [Blow Up the Spot](https://open.spotify.com/track/2ZdqMML5cHLInZe5TgScPR) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Blow Up the Spot](https://open.spotify.com/album/1LWOjhtKbzzdC83agk1z76) | 2:26 | 2024-11-07 |  |
-| [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-18 |  |
+| [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-18 | 2024-11-22 |
 | [Bogus Operandi](https://open.spotify.com/track/74vF2AJsJr4Bz5gJivquDS) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 3:43 | 2023-09-28 | 2024-01-26 |
 | [Break The Rules](https://open.spotify.com/track/65uA9t4W1khgUaCYg7Y018) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [What A Time To Be Alive](https://open.spotify.com/album/2z8GnZChsFh5azAx1Rpbpl) | 3:19 | 2023-09-28 | 2023-10-20 |
 | [Breathing](https://open.spotify.com/track/1VVeFLlYZRLwNPCelUUJyM) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [MoonEater](https://open.spotify.com/album/77lFAgPHlv1lzlgVpUevVK) | 3:03 | 2023-09-28 | 2023-10-13 |
@@ -52,6 +52,7 @@
 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 | 2023-09-28 | 2023-10-27 |
 | [Call Me](https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Call Me](https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW) | 3:21 | 2023-09-28 | 2024-02-23 |
 | [Calling Anybody](https://open.spotify.com/track/7aumNl1d0tmZBIEThfaldQ) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Calling Anybody](https://open.spotify.com/album/5kckhaBcrWNivJSFm7xKzd) | 3:23 | 2024-09-19 | 2024-11-08 |
+| [Can You Hear Me ?](https://open.spotify.com/track/71s7H5ny1NXXsOhpfRNhpI) | [Lowland Brothers](https://open.spotify.com/artist/2tykhoGTmI8NsNKKyAq8Ga) | [Over The Fence](https://open.spotify.com/album/6H0jdjpgWJT8exAQXOBqOv) | 3:55 | 2024-11-21 |  |
 | [Chicago](https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K) | 3:58 | 2024-07-25 | 2024-08-09 |
 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 | 2024-02-08 | 2024-04-04 |
 | [Come On Outside](https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Come On Outside](https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1) | 2:58 | 2024-10-10 |  |
@@ -135,7 +136,7 @@
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-26 | 2024-04-01 |
 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 | 2024-03-28 | 2024-04-19 |
 | [Last Amour](https://open.spotify.com/track/2eHn2iYwPwXCAVVmGep6Hu) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [I Feel It All At Once](https://open.spotify.com/album/4qAF52zLREmgy3D2IrCzlG) | 3:55 | 2024-10-03 |  |
-| [Lazerlove](https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Lazerlove](https://open.spotify.com/album/68JPnjiLgcObumeXhtlZ9W) | 4:18 | 2024-03-21 |  |
+| [Lazerlove](https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Lazerlove](https://open.spotify.com/album/68JPnjiLgcObumeXhtlZ9W) | 4:18 | 2024-03-21 | 2024-11-22 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-13 |  |
 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 | 2024-04-29 | 2024-08-30 |
 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 | 2024-08-29 | 2024-11-08 |
@@ -178,7 +179,7 @@
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-28 | 2024-08-09 |
 | [Organized Chaos](https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Organized Chaos](https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa) | 2:55 | 2024-05-14 | 2024-07-27 |
 | [Out Of My Head](https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX) | 2:44 | 2024-04-18 | 2024-06-01 |
-| [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 |  |
+| [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 | 2024-11-22 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-30 | 2024-11-08 |
 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 | 2023-12-15 | 2024-03-22 |
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-02-29 | 2024-06-07 |
@@ -186,6 +187,7 @@
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-30 | 2024-10-04 |
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-16 | 2023-12-01 |
 | [Plastic Boxes](https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [As Above, So Below](https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ) | 4:07 | 2024-07-25 | 2024-08-16 |
+| [Plasticine](https://open.spotify.com/track/6OKWc4dJQ4qBNSdMf0Yzbm) | [Jekyll](https://open.spotify.com/artist/19Ak4FmJt4Re3V91wATVKK) | [Plasticine](https://open.spotify.com/album/7eE7nV62AkWNOtWBHnxeCM) | 3:22 | 2024-11-21 |  |
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-19 | 2023-12-08 |
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-23 | 2024-07-27 |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-26 | 2024-02-09 |
@@ -268,6 +270,7 @@
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-09-28 | 2023-12-16 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-06-28 |
 | [Tortuga](https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Tortuga](https://open.spotify.com/album/11dazu57AoABvNCgktwEoP) | 2:45 | 2024-07-18 | 2024-08-02 |
+| [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-21 |  |
 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-09-28 | 2023-11-24 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-09-28 | 2023-10-13 |
 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-09-20 | 2024-11-15 |

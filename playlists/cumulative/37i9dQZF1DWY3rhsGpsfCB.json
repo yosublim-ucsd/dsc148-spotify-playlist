@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Ain't Shit",
+        "url": "https://open.spotify.com/album/44Qy2nUgkwik1iRaNAaSOd"
+      },
+      "artists": [
+        {
+          "name": "Niambi",
+          "url": "https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193063,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/4XObjc7nQCCMarEjTrrnxL"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -610,6 +628,24 @@
       "duration_ms": 172966,
       "name": "alone",
       "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
+    },
+    {
+      "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
       "album": {
@@ -1002,6 +1038,28 @@
       "duration_ms": 173923,
       "name": "Bad Bad",
       "url": "https://open.spotify.com/track/0LZTxc87IDRNYPF1PafR7D"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Bad For You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
     },
     {
       "album": {
@@ -1532,6 +1590,32 @@
       "duration_ms": 157060,
       "name": "BODY TOUCHING BODY (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP"
+    },
+    {
+      "album": {
+        "name": "WELCOME TO WONDAH:LAND",
+        "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
+      },
+      "artists": [
+        {
+          "name": "Wondah",
+          "url": "https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Bomaye",
+      "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
     },
     {
       "album": {
@@ -3602,7 +3686,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 163186,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3Akc9S8a03H1BVxIx5YXtU"
@@ -6220,7 +6304,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134260,
       "name": "Lego",
       "url": "https://open.spotify.com/track/0gW1onAnSs7pf9LHIhlGNp"
@@ -6870,7 +6954,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 199862,
       "name": "LOVE POTION",
       "url": "https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP"
@@ -7952,7 +8036,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 251790,
       "name": "Nefertiti Complex",
       "url": "https://open.spotify.com/track/4ltzHo6YcHUz1kicimK4NK"
@@ -8622,6 +8706,32 @@
       "duration_ms": 176000,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ"
+    },
+    {
+      "album": {
+        "name": "Get Lifted (20th Anniversary)",
+        "url": "https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Eugene \"Man-Man\" Roberts",
+          "url": "https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289094,
+      "name": "Ordinary People (feat. Tems) - Man-Man Remix",
+      "url": "https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr"
     },
     {
       "album": {
@@ -9346,7 +9456,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 182769,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF"
@@ -9714,7 +9824,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 162816,
       "name": "Reason",
       "url": "https://open.spotify.com/track/38saQwfh1lvAvmSNgBogyG"
@@ -10086,7 +10196,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 159360,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8"
@@ -10770,6 +10880,24 @@
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/3cn5nIvrNELVlQNGuGevlv"
+      },
+      "artists": [
+        {
+          "name": "Wapo",
+          "url": "https://open.spotify.com/artist/7bsdZxG79PZ5aFeubDD13H"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/30nZk02B1AIpJrWQIvECqk"
     },
     {
       "album": {
@@ -11866,6 +11994,24 @@
       "duration_ms": 168409,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/1beeAahAa0EaiCWk8np8Yh"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "album": {

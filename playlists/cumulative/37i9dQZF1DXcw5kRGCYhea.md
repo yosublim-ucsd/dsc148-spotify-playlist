@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-171 songs - 8 hr 44 min
+172 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Chaos](https://open.spotify.com/track/1tGPnfGbtkaQdLORVehNYI) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Chaos](https://open.spotify.com/album/2uCtJ4tCg3I3NKHFCkFqAX) | 2:53 | 2024-08-23 | 2024-09-10 |
 | [Chemin d'or](https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:32 | 2024-03-26 | 2024-04-19 |
 | [Chemin d'or](https://open.spotify.com/track/6g9JKWPybsqrZaqqgjCTx2) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:32 | 2024-04-18 | 2024-05-28 |
+| [CHICA BUENA](https://open.spotify.com/track/1I84KvSqQ4R1e80AV8qLGw) | [Ohl Boga](https://open.spotify.com/artist/43Pu5SXw5ttytggsrWaA1x) | [CHICA BUENA](https://open.spotify.com/album/16S3aQ7fWdkJdbLpQopqRy) | 3:00 | 2024-11-21 |  |
 | [CHIRON](https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 2:29 | 2024-07-04 |  |
 | [Chouchou](https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:52 | 2024-03-26 | 2024-04-19 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-23 | 2024-10-12 |

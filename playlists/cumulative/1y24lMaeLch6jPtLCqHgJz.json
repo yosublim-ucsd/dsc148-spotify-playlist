@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/0WVxAgwZvPhEOPQBBhJGlV"
+      },
+      "artists": [
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/4z17eiO9pIQxgtu6X0YKgq"
+    },
+    {
+      "album": {
         "name": "MICK (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc"
       },
@@ -6294,6 +6312,28 @@
       "duration_ms": 161802,
       "name": "Save Me - HAVOQ Remix",
       "url": "https://open.spotify.com/track/106NUdEpeKc6viVKe4Dejr"
+    },
+    {
+      "album": {
+        "name": "Saw",
+        "url": "https://open.spotify.com/album/13gLr1KcBhMLpcU8jlzrTQ"
+      },
+      "artists": [
+        {
+          "name": "Wouji",
+          "url": "https://open.spotify.com/artist/5MjRV8FTofqa3tKEqpKQtA"
+        },
+        {
+          "name": "Freaky DJs",
+          "url": "https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "Saw",
+      "url": "https://open.spotify.com/track/7Eb346v5rcNyxhmIZ6GbrG"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAAtsDvQK93RrXG9XATBbQPz",
+  "snapshot_id": "Zz0mgAAAAAD2jiac5j7KDMuNYsNGkqC9",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 274656,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 261333,
       "name": "Island Inside Me",
       "url": "https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 274656,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easier (Jr Blender RMX)",
-        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
+        "name": "Red, Gold & Green",
+        "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Kimi\u00e9 Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
         }
       ],
-      "duration_ms": 198779,
-      "name": "Easier - Jr Blender RMX",
-      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
+      "duration_ms": 229900,
+      "name": "Red, Gold & Green",
+      "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
     },
     {
       "added_at": null,
@@ -683,22 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Gold & Green",
-        "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
+        "name": "Easier (Jr Blender RMX)",
+        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
       "artists": [
         {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
         },
         {
-          "name": "Kimi\u00e9 Miner",
-          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 229900,
-      "name": "Red, Gold & Green",
-      "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
+      "duration_ms": 198779,
+      "name": "Easier - Jr Blender RMX",
+      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-373 songs - 22 hr 3 min
+375 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [借你的肩膀躺一下](https://open.spotify.com/track/3kco33fBIV5l0OLAOzfUXT) | [Jestinna Kuan](https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2), [Danny Lee](https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6) | [借你的肩膀躺一下](https://open.spotify.com/album/4VvEvvuu0FCPWwyljSkIne) | 3:08 | 2023-08-21 | 2024-05-09 |
 | [借我一輩子](https://open.spotify.com/track/5VyoSXa2XCEWzD445lxDVL) | [O.J](https://open.spotify.com/artist/4xxiCcnghNjM9G8Ust7Wqx) | [完美的一刻](https://open.spotify.com/album/2JJFAj0E3MAaUuPwdfpUzh) | 3:55 | 2022-06-13 | 2022-07-04 |
 | [做我的Baby](https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x) | [吉娜](https://open.spotify.com/artist/37aJa5RefuVWG1pzIIlrT0), [娜娜](https://open.spotify.com/artist/7q7sSta579PAYXxIBXjU89) | [做我的Baby](https://open.spotify.com/album/4m6VzZgyiPpZiGoxzrdQR8) | 3:06 | 2023-04-17 | 2023-05-14 |
+| [做我的貓](https://open.spotify.com/track/51XbIeW3UFnpXuJu8gMwK5) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [做我的貓](https://open.spotify.com/album/0KjE00V0E6lIsqCbsr7Ukv) | 3:54 | 2024-11-21 |  |
 | [偷偷喜歡你](https://open.spotify.com/track/15zmD6lAuAXhT3OsehC8PP) | [王宇彤](https://open.spotify.com/artist/2k3lWdz2zL38YgXlxY3GJO) | [偷偷喜歡你](https://open.spotify.com/album/15yMOiTpsvhzObXjrOIh8V) | 3:13 | 2023-07-03 | 2023-07-18 |
 | [傻瓜](https://open.spotify.com/track/2lQNNJ3KsiIGaLAF7hYNzn) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [我可以](https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD) | 4:05 | 2022-07-11 | 2022-07-19 |
 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 | 2024-03-04 |  |
@@ -296,7 +297,8 @@
 | [热爱105°C的你](https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB) | 3:15 | 2022-07-25 | 2024-04-19 |
 | [热爱105°C的你](https://open.spotify.com/track/2tjM7VFWtUzW5udmoGftM1) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/4XktKsPVpaOckY0CenAJRZ) | 3:15 | 2022-06-13 | 2022-07-27 |
 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 | 2022-07-25 | 2024-04-19 |
-| [爱你不是两三天](https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [爱你不是两三天](https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF) | 4:10 | 2022-06-06 |  |
+| [爱你不是两三天](https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [爱你不是两三天](https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF) | 4:10 | 2022-06-06 | 2024-11-22 |
+| [爱你爱你](https://open.spotify.com/track/4X7IcvRn9cpbzTjsaxYlCF) | [TE3N](https://open.spotify.com/artist/6yGVKVuEqIkuiYQ6Gq75GK) | [爱你爱你](https://open.spotify.com/album/3Jaq92pcOgskZtR8NWNgle) | 3:18 | 2024-11-21 |  |
 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 | 2022-06-27 |  |
 | [牽妳的手像妳牽著我\(信義房屋母親節合作主題曲\)](https://open.spotify.com/track/3Uz0ZMWL9iWY6HTrJZwkoJ) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI) | [牽妳的手像妳牽著我\(信義房屋母親節合作主題曲\)](https://open.spotify.com/album/2yHyMPwLu8OuQW68iJ80I0) | 2:48 | 2022-07-18 | 2022-07-29 |
 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 | 2024-04-15 |  |
@@ -348,7 +350,7 @@
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 | 2023-04-11 |
-| [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 |  |
+| [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 | 2024-11-22 |
 | [講個笑話](https://open.spotify.com/track/5I6VyJobdFa1GwoLHdPzzk) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [大娛樂家](https://open.spotify.com/album/5dRF4mFewpdRZbcudweNaT) | 3:21 | 2022-06-06 | 2022-07-21 |
 | [講個笑話](https://open.spotify.com/track/7ringJx9YyKtHwK8LpVVKG) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [講個笑話](https://open.spotify.com/album/73UTBcovvvyW23kfzixJJA) | 3:21 | 2022-06-06 | 2022-07-10 |
 | [謝謝你做我的另一半](https://open.spotify.com/track/74SFVoc6H869Cu9YcfAmbF) | [謝衣沛](https://open.spotify.com/artist/6rMEJJkOukOLJYkcBGnRIZ) | [謝謝你做我的另一半](https://open.spotify.com/album/6b5L93ZLrWBKy8JBcuKPiC) | 3:20 | 2022-06-13 | 2022-07-22 |

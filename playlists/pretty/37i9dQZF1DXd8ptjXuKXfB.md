@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,220 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,225 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 17 | [Krisz x Jaki\-Prikezsia](https://open.spotify.com/track/2rIK6WWOpGJY2uqXd0ejIa) | [Romano Bengz Studio](https://open.spotify.com/artist/14HGIirVHTtZwmQpofG27w) | [Krisz x Jaki\-Prikezsia](https://open.spotify.com/album/2jT7xQHCWIU6exoxOt10nO) | 2:37 |
 | 18 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 19 | [Huncut menyecskék](https://open.spotify.com/track/0zFBtxhLtKsQJEaLJz0nNv) | [Péterfy Bori & Love Band](https://open.spotify.com/artist/1rRAJF3FBwQsGx4twrUqiC), [Sisi](https://open.spotify.com/artist/36u9Dv4YhMto70ODgOT8mD) | [Medúza](https://open.spotify.com/album/32QM8xH4rYWLe0817ZhMju) | 2:16 |
-| 20 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
+| 20 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 21 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
-| 22 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 22 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 23 | [Itt Hagytál \(Zöld Erdőben Jártam\)](https://open.spotify.com/track/3KZYIgl7STYUIKpDxdlbTU) | [Monika Pike](https://open.spotify.com/artist/2dDCcbowXATVRPEK3PwAbo) | [Itt Hagytál \(Zöld Erdőben Jártam\)](https://open.spotify.com/album/78NBl56fUYrHnjYmlXfHBi) | 3:10 |
 | 24 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 25 | [OROSZ RULETT](https://open.spotify.com/track/1VMJQ30pkOz4yTXNC32kJB) | [Mihályfi Luca](https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot) | [OROSZ RULETT](https://open.spotify.com/album/3dLteT4gjkycY5Xe55dfdE) | 2:26 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [Ali Ali](https://open.spotify.com/track/2lW57y7U7Pce21wRiMe6EA) | [Diorange](https://open.spotify.com/artist/1BKMGwVQOhbkZ1xEiPH2k3), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Ali Ali](https://open.spotify.com/album/0YOzjLEm1PqHp70POGMo02) | 2:04 |
 | 78 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 |
 | 79 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 |
-| 80 | [bangkok](https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [zekő](https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag) | 2:37 |
+| 80 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 |
 
 Snapshot ID: `ZzxFXgAAAAB5aBjclaHhMP+dAMnZ6FDC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Sech.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,702 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,909 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 74 | [Lo Caro y Lo Bueno](https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Lo Caro y Lo Bueno](https://open.spotify.com/album/0OfQaUoTd5zBiB7J9KdjbX) | 3:16 |
 | 75 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 |
 | 76 | [CELOSA](https://open.spotify.com/track/54SxKnMV1na7LvI5xVoA5e) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [CELOSA](https://open.spotify.com/album/3hxPoGmqQO9iVxthYnIhY0) | 3:15 |
-| 77 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/6BHtDxFFPp7S1fjg5P1W3a) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
+| 77 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 | 78 | [OVERTHINKING](https://open.spotify.com/track/0KyDHcSdBtnbOlnfGbGvj1) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Álvaro Díaz](https://open.spotify.com/artist/0cn182v9T2NPfhnpKnOYq9) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 2:35 |
 | 79 | [AFRO](https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [AFRO](https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH) | 3:04 |
 | 80 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 |

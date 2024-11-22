@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,041,096 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,041,546 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 55 | [Forward Ever Backward Never](https://open.spotify.com/track/37UsDnU8CMBbZ1bV1WZAkz) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:05 |
 | 56 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
 | 57 | [La La Bam\-Bam](https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:47 |
-| 58 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 |
-| 59 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 |
+| 58 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 |
+| 59 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 |
 | 60 | [Dr\. Dekker](https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:55 |
 | 61 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
 | 62 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 92 | [Travelling Man \- Version 1](https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:32 |
 | 93 | [Sweet Sensation](https://open.spotify.com/track/5uxBt9ZluGjgdVGj8oXkiX) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:52 |
 | 94 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
-| 95 | [Girlie Girlie](https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:03 |
-| 96 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
-| 97 | [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 |
+| 95 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
+| 96 | [Girlie Girlie](https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:03 |
+| 97 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
 | 98 | [Help Me Make It Through the Night](https://open.spotify.com/track/4GUCioRTxUL5ooTurwWd73) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:05 |
-| 99 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 |
-| 100 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
+| 99 | [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 |
+| 100 | [Fu Man Chu](https://open.spotify.com/track/4mSa4FTQnnlrSMkbHUdo7B) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [The Aces](https://open.spotify.com/artist/2H8MMsm0WIs0WAO0HUlOX8) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 3:19 |
 
 Snapshot ID: `ZpD3ewAAAAAVK0kxRQwFp7eeP3yBWsqK`

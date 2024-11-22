@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Lily of the Valley",
+        "url": "https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq"
+      },
+      "artists": [
+        {
+          "name": "22\u00ba Halo",
+          "url": "https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266021,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/0lZz50Je4AoRsUSy7BrzAh"
+    },
+    {
+      "album": {
         "name": "Mesmerized By The Sirens",
         "url": "https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg"
       },
@@ -5468,6 +5486,24 @@
       "duration_ms": 106880,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av"
+    },
+    {
+      "album": {
+        "name": "Lily of the Valley",
+        "url": "https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq"
+      },
+      "artists": [
+        {
+          "name": "22\u00ba Halo",
+          "url": "https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Swallows Wings",
+      "url": "https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH"
     },
     {
       "album": {

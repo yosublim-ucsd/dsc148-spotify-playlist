@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65730,
+  "num_followers": 65731,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/3tU6PqwpJqYsV7fL12KkfI"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/4Ot9gTaARnRqJT1TYwM4pQ"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Waterloo",
         "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 180816,
       "name": "She Got Me",
       "url": "https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
-      },
-      "artists": [
-        {
-          "name": "Anna Sahlene",
-          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Runaway - Bonus Track",
-      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
     }
   ],
   "unique_name": "Eurovision Party",

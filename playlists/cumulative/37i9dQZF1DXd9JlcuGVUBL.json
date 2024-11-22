@@ -666,7 +666,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174412,
       "name": "First",
       "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
@@ -1548,6 +1548,24 @@
       "duration_ms": 211282,
       "name": "Texas Hold 'Em",
       "url": "https://open.spotify.com/track/7MHaEHj7udLdE7JoEGkdWn"
+    },
+    {
+      "album": {
+        "name": "The Dust Will Settle",
+        "url": "https://open.spotify.com/album/5Ki22ghAi2JcrYd9HzxHZB"
+      },
+      "artists": [
+        {
+          "name": "Valeska Muller",
+          "url": "https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "The Dust Will Settle",
+      "url": "https://open.spotify.com/track/1ELHxieu0zDWQd2LY4JwVu"
     },
     {
       "album": {

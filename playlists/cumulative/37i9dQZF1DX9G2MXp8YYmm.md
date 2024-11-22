@@ -2,14 +2,15 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Popun sevilen isimleri\. Kapak: Ceren Gündoğdu
+> Popun sevilen isimleri\. Kapak: Siyam
 
-163 songs - 8 hr 7 min
+165 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2017](https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [2017](https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv) | 2:07 | 2024-07-18 |  |
 | [ABART](https://open.spotify.com/track/1aA9W1c1Qg0lSOyqtZ1x9T) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [ABART](https://open.spotify.com/album/2SpENtaNk0UcS2MGrENQYP) | 2:38 | 2024-08-22 | 2024-09-06 |
+| [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 |  |
 | [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 |  |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
 | [Aferin Bana](https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Aferin Bana](https://open.spotify.com/album/0LBF46qGy65WEcrtbxetHP) | 3:40 | 2024-07-25 | 2024-09-06 |
@@ -47,7 +48,7 @@
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-10-25 |
 | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw) | 2:43 | 2024-06-27 | 2024-11-18 |
 | [Buram Buram](https://open.spotify.com/track/0WTby8MYJzT0osKRcdgFxY) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Buram Buram](https://open.spotify.com/album/37zxh7uSMiLQS5beWmMo47) | 4:33 | 2024-06-27 | 2024-07-19 |
-| [Burdayım Ben](https://open.spotify.com/track/7fYHc8dskuoqIUrIZQfVYi) | [Ceren Gündoğdu](https://open.spotify.com/artist/2t6i0lQOkrmuIInzYZFM90) | [Burdayım Ben](https://open.spotify.com/album/400FxIvITtqY0XSLeU2Ycm) | 2:33 | 2024-11-14 |  |
+| [Burdayım Ben](https://open.spotify.com/track/7fYHc8dskuoqIUrIZQfVYi) | [Ceren Gündoğdu](https://open.spotify.com/artist/2t6i0lQOkrmuIInzYZFM90) | [Burdayım Ben](https://open.spotify.com/album/400FxIvITtqY0XSLeU2Ycm) | 2:33 | 2024-11-14 | 2024-11-22 |
 | [böyle sevmek olmaz ki](https://open.spotify.com/track/5hbAlTCuLy02BYEOi4PP9w) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [böyle sevmek olmaz ki](https://open.spotify.com/album/5c9lfqu6XoFErv8HmlZRze) | 2:49 | 2024-06-27 |  |
 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 | 2024-09-26 |  |
 | [Casanova \- Sefo Remix](https://open.spotify.com/track/4kEk9tPt6fUxroVxT3V2ka) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Casanova \- Sefo Remix](https://open.spotify.com/album/5ZlDiqJEaX5r95hnAwwq9g) | 3:09 | 2024-09-05 | 2024-10-09 |
@@ -102,6 +103,7 @@
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 |  |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 | 2024-09-06 |
 | [Mağlup](https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Mağlup](https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI) | 2:40 | 2024-11-07 |  |
+| [Mecnun](https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Mecnun](https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET) | 2:28 | 2024-11-21 |  |
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
 | [MESELA](https://open.spotify.com/track/2K2jYYM9W8ndtP6PUxy2pc) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [MESELA](https://open.spotify.com/album/1BryKb39CgLCKiXkw7z5Iu) | 3:00 | 2024-06-27 |  |
 | [Mevzu Derin](https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Mevzu Derin](https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV) | 2:55 | 2024-10-24 |  |

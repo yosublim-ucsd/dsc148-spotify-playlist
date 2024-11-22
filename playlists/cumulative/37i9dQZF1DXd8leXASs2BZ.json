@@ -1741,6 +1741,48 @@
     },
     {
       "album": {
+        "name": "Block Party (feat. BARCO, Flight-A, Swag-A, Crazy-K & ACHA)",
+        "url": "https://open.spotify.com/album/0XCPFYUvWedIENA9s1Eub7"
+      },
+      "artists": [
+        {
+          "name": "GREEN KIDS",
+          "url": "https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE"
+        },
+        {
+          "name": "dubby bunny",
+          "url": "https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF"
+        },
+        {
+          "name": "BARCO",
+          "url": "https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR"
+        },
+        {
+          "name": "Flight-A",
+          "url": "https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh"
+        },
+        {
+          "name": "Swag-A",
+          "url": "https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm"
+        },
+        {
+          "name": "CRAZY-K",
+          "url": "https://open.spotify.com/artist/3iU3MjOPvtqLWhNjZbFUaK"
+        },
+        {
+          "name": "acha",
+          "url": "https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237223,
+      "name": "Block Party (feat. BARCO, Flight-A, Swag-A, Crazy-K & ACHA)",
+      "url": "https://open.spotify.com/track/1V1yAscHoAwHL5ZbKIR1RS"
+    },
+    {
+      "album": {
         "name": "blue money",
         "url": "https://open.spotify.com/album/0cc770cLcUN7gCKWTNMU1O"
       },
@@ -6010,7 +6052,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 191031,
       "name": "I Need",
       "url": "https://open.spotify.com/track/6lKQNarXqmhzlHQIFrpgTO"
@@ -9031,6 +9073,24 @@
     },
     {
       "album": {
+        "name": "OHAYO\uff01",
+        "url": "https://open.spotify.com/album/5lf9hU5ZVsZyqsaxD0RxjS"
+      },
+      "artists": [
+        {
+          "name": "Hezron",
+          "url": "https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118428,
+      "name": "OHAYO\uff01",
+      "url": "https://open.spotify.com/track/7ID2XLVhNrz1jxCqG9vcfO"
+    },
+    {
+      "album": {
         "name": "Okinawa",
         "url": "https://open.spotify.com/album/3jEtZeVegDHJDls2wlTOjG"
       },
@@ -10228,7 +10288,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 161643,
       "name": "REALITY and HOPE",
       "url": "https://open.spotify.com/track/7yfFEs3leWYerKCD7QVLDS"
@@ -10436,6 +10496,28 @@
       "duration_ms": 200750,
       "name": "Rewrite Language",
       "url": "https://open.spotify.com/track/5qvM107yDoPiqhq9FbOA2N"
+    },
+    {
+      "album": {
+        "name": "Nerima Dreams",
+        "url": "https://open.spotify.com/album/5mPvGtSIW4UdYsxYI3mgQv"
+      },
+      "artists": [
+        {
+          "name": "Bene Baby",
+          "url": "https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g"
+        },
+        {
+          "name": "Choppa Capone",
+          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212197,
+      "name": "Ride (feat. Choppa Capone)",
+      "url": "https://open.spotify.com/track/0K3CmHr5f4oIecZ0ax3OKJ"
     },
     {
       "album": {
@@ -13286,7 +13368,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 212168,
       "name": "World is Ours (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv"

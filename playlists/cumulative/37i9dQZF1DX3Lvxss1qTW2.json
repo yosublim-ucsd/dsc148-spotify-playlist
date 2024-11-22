@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Ladipoe & Adekunle Gold ",
+  "description": "The future hits of today. \nCover: Kemuel",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 154578,
       "name": "alone - Remix",
       "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
@@ -563,6 +563,50 @@
     },
     {
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/0cMy1oQXPtmqHb3OiwshNF"
+      },
+      "artists": [
+        {
+          "name": "Tavo DJ",
+          "url": "https://open.spotify.com/artist/3KfHJDhPpaDijE7svYGMzB"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/0bTbT8qD155mXVj8p7HZDl"
+    },
+    {
+      "album": {
         "name": "Be There",
         "url": "https://open.spotify.com/album/0loewuIMEtSl5gKPzQmfpM"
       },
@@ -596,6 +640,32 @@
       "duration_ms": 172500,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/7ArATzlf3OKlgfVl3RMlQQ"
+    },
+    {
+      "album": {
+        "name": "WELCOME TO WONDAH:LAND",
+        "url": "https://open.spotify.com/album/1EIgGqaJ83cI4FcMFtkANh"
+      },
+      "artists": [
+        {
+          "name": "Wondah",
+          "url": "https://open.spotify.com/artist/50wjYs46G3Shz0PmVlcrLX"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Bomaye",
+      "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
     },
     {
       "album": {
@@ -1792,7 +1862,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 145195,
       "name": "Haibo Freestyle",
       "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
@@ -1958,7 +2028,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 169411,
       "name": "If I Dey Lie (with Crayon)",
       "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
@@ -2067,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Italia",
+        "url": "https://open.spotify.com/album/66pOTRZVD3mlMdi2DojYAg"
+      },
+      "artists": [
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        },
+        {
+          "name": "JoulesDaKid",
+          "url": "https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Italia",
+      "url": "https://open.spotify.com/track/4egYs7ym9uMkHiNMCUWS8R"
+    },
+    {
+      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -2104,7 +2196,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 187611,
       "name": "Jah Love",
       "url": "https://open.spotify.com/track/215MhQ9rQyT6eeswIDTgKU"
@@ -2480,6 +2572,28 @@
       "duration_ms": 147169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0mKDwXFe8arzlBmhURf6Oh"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        },
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152968,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/6hNyXtjP9mvPh3BR1Q17SE"
     },
     {
       "album": {
@@ -2920,7 +3034,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 208699,
       "name": "Mohobbat - Love",
       "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
@@ -2942,7 +3056,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167767,
       "name": "Money Long",
       "url": "https://open.spotify.com/track/62XYvzEYmhxet6HpkaV35Q"
@@ -3338,6 +3452,32 @@
       "duration_ms": 186146,
       "name": "ON MY MIND - OMM",
       "url": "https://open.spotify.com/track/6TqQQ3h7HPmg7piQ7D6rbM"
+    },
+    {
+      "album": {
+        "name": "Confuse The Enemy (Reloaded)",
+        "url": "https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb"
     },
     {
       "album": {
@@ -4066,7 +4206,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 166974,
       "name": "Time Traveler",
       "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"

@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 281573,
       "name": "Bandwagoning",
       "url": "https://open.spotify.com/track/52I0p8mYztsUhXiOw7NL1n"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 88920,
       "name": "Baptism of Fire",
       "url": "https://open.spotify.com/track/3Uibazaf5GqFgyhGYGgq5Z"
@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Primitive",
+        "url": "https://open.spotify.com/album/2UM5crfGgcP091UDXfZHsN"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210417,
+      "name": "Primitive",
+      "url": "https://open.spotify.com/track/0TdYGyJIBeP03IzYbY62U4"
+    },
+    {
+      "album": {
         "name": "PROCESS",
         "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
       },
@@ -2252,6 +2270,24 @@
       "duration_ms": 64489,
       "name": "TAKE A STEP AWAY",
       "url": "https://open.spotify.com/track/6j9CkpIGMPCpi9NMTVQojT"
+    },
+    {
+      "album": {
+        "name": "Talk Real",
+        "url": "https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o"
+      },
+      "artists": [
+        {
+          "name": "Gridiron",
+          "url": "https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Talk Real",
+      "url": "https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND"
     },
     {
       "album": {

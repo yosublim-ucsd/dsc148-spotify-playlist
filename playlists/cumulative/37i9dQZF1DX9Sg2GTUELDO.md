@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: iii
+> 感受超級女聲力量。Cover: 方皓玟
 
-415 songs - 1 day 0 hr 50 min
+419 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Feel You](https://open.spotify.com/track/7mDTBkgCx2TljaxYgiltbm) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Feel You](https://open.spotify.com/album/78AYWzkoCZArQ8HtlQqsQh) | 2:30 | 2024-06-27 |  |
 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 | 2024-06-27 |  |
 | [Girls Talk](https://open.spotify.com/track/1YSMKti9APTruhAFfzMf83) | [施匡翹](https://open.spotify.com/artist/7mvlTsqZNPZNN7i25IlgKF), [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Girls Talk](https://open.spotify.com/album/5RCg2LNJkk4RvdqYGpNrds) | 3:00 | 2024-06-27 |  |
+| [grwm](https://open.spotify.com/track/5o1LqNdBoKJC0EoSU5sFKP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [Marf 邱彥筒](https://open.spotify.com/artist/7BHqouffSZsWJH8EfFuehR) | [grwm](https://open.spotify.com/album/1IYb9s4jqaFHULTZzgikEE) | 2:42 | 2024-11-21 |  |
 | [Hallucinate](https://open.spotify.com/track/6oQgnzgchqKYcuRbSoVfIW) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [Hallucinate](https://open.spotify.com/album/3nCFfkMcJDOvNwIOUDOf8f) | 3:07 | 2024-06-27 |  |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2024-06-27 |  |
 | [heng fa chuen.](https://open.spotify.com/track/5QuTmL5jwXsWmQ1EspO2rN) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [heng fa chuen.](https://open.spotify.com/album/1nBxVB6eQbJv7KxUTXoIgI) | 3:21 | 2024-06-27 |  |
@@ -119,6 +120,7 @@
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2024-06-27 |  |
 | [Sexy Dangerous](https://open.spotify.com/track/1WSJkeHNwlhRrG1qAO0aCk) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [Sexy Dangerous](https://open.spotify.com/album/3XwX6rgsOzRWPADfuKsyO2) | 3:04 | 2024-06-27 |  |
 | [Shattered](https://open.spotify.com/track/0Jzfsn3VpuF1VbwCtla7Xw) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Shattered](https://open.spotify.com/album/2X2UpyyPSNVj6Qveao987x) | 5:45 | 2024-06-27 |  |
+| [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/track/6OeqBgXjRapq5I9TwtN8ub) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08), [Sheena 陳書昕](https://open.spotify.com/artist/31l0gLWOmac7pl45vzXmvR) | [Something About You（電影《寄了一整個春天》插曲）](https://open.spotify.com/album/35NNLFfB3ic305HsTe55h4) | 2:40 | 2024-11-21 |  |
 | [Speak Love](https://open.spotify.com/track/0BQaaSfzHe9Grd7DID3An9) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Speak Love](https://open.spotify.com/album/6ABfEqC4ZRjjQcVBeBgeUl) | 3:09 | 2024-06-27 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2024-06-27 |  |
 | [sshhh…](https://open.spotify.com/track/1ntwBeaEUMmFzR6SJq3iup) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [DAUGHTER](https://open.spotify.com/album/4zOICyB23JoocOuCVcTlXr) | 4:07 | 2024-06-27 |  |
@@ -294,6 +296,7 @@
 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 | 2024-06-27 |  |
 | [拔刺](https://open.spotify.com/track/1icuPSnNj9wTgJ0yOc07Mt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [拔刺](https://open.spotify.com/album/2MuztZ0L43RNeeIUp6OqMu) | 3:32 | 2024-06-27 |  |
 | [拯救我自己](https://open.spotify.com/track/4cAiQJTsXtFeuprgYtEWfz) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [拯救我自己](https://open.spotify.com/album/7Lc3darGqlfHrzAKp9vSmv) | 3:50 | 2024-06-27 |  |
+| [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 | 2024-11-21 |  |
 | [撇sss](https://open.spotify.com/track/4sbXE6h9tCqeqc7VUveMA2) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [撇sss](https://open.spotify.com/album/36ar1jx7PBW7ytUHSFzRwa) | 3:33 | 2024-10-17 |  |
 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 | 2024-06-27 |  |
 | [收聲多謝](https://open.spotify.com/track/6UBbSrmg2XMWFTe9rImahv) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [收聲多謝](https://open.spotify.com/album/41LEXHiUDcHlhXpdPvmKf2) | 3:17 | 2024-06-27 |  |
@@ -369,6 +372,7 @@
 | [細間始終你好](https://open.spotify.com/track/688wipwWNbVMPE9ACylRo5) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [細間始終你好](https://open.spotify.com/album/5Lg3spWSfuQ1O1DvlnBVHa) | 3:48 | 2024-08-22 |  |
 | [經痛不及我心痛](https://open.spotify.com/track/0IAFA8XugTtMuRibXAFMnG) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [經痛不及我心痛](https://open.spotify.com/album/1B1Z8wDPacZLqC3uILeV9q) | 3:13 | 2024-06-27 |  |
 | [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2024-06-27 |  |
+| [維納斯的誕生](https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [維納斯的誕生](https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky) | 4:20 | 2024-11-21 |  |
 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 | 2024-06-27 |  |
 | [美男子與香煙](https://open.spotify.com/track/28sJE8yhRUr1SSHR7utdnK) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [美男子與香煙](https://open.spotify.com/album/38QLzHHL798PIKIYWOG8bG) | 4:27 | 2024-06-27 |  |
 | [翅膀](https://open.spotify.com/track/3T1fExpXW8lklebKd2Zec7) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA), [周吉佩](https://open.spotify.com/artist/3u0ZiCEVJbNoeMF1yvhp2a), [蕭凱恩](https://open.spotify.com/artist/5H5nVOdKXhQAD5QZL1D55K) | [翅膀](https://open.spotify.com/album/1gg7BI1wdSxL9jBdtA6Czh) | 3:09 | 2024-07-25 |  |

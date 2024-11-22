@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,894 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,900 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 12 | [Re:Birth II \-閃\- 必殺の一撃\~死闘の果てに メドレー](https://open.spotify.com/track/688XPw0omGnAlvG9ZL1a8r) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:58 |
 | 13 | [Re:Birth II \-連\- 燃える血潮～Save the world メドレー](https://open.spotify.com/track/4A5jFjRUU105tAtJ98u3N7) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 5:09 |
 | 14 | [神戦](https://open.spotify.com/track/4uAR50I5tjxFI27W3NyAC1) | [笹井 隆司](https://open.spotify.com/artist/1ncrL5eM7MU0xKs9uM7w6o) | [時空の覇者 Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/2dEGn5FB0lWWjHeHUjaKKe) | 1:06 |
-| 15 | [オーバーチュア\~オープニングタイトル](https://open.spotify.com/track/3P38l1qNhCb947jbKTRW28) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga Original Soundtrack](https://open.spotify.com/album/1hQQJ2TlVjoMIfWmkGAM16) | 3:28 |
+| 15 | [オーバーチュア～オープニングタイトル](https://open.spotify.com/track/3P38l1qNhCb947jbKTRW28) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa･Ga Original Soundtrack](https://open.spotify.com/album/1hQQJ2TlVjoMIfWmkGAM16) | 3:28 |
 | 16 | [Re:Birth Ⅱ \-閃\- 下水道](https://open.spotify.com/track/1IPdmqu9ukYRLcFoOA91D0) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:08 |
-| 17 | [試練](https://open.spotify.com/track/7yt9uEpIdCjWriQKEwMtWG) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga Original Soundtrack](https://open.spotify.com/album/1hQQJ2TlVjoMIfWmkGAM16) | 1:41 |
+| 17 | [試練](https://open.spotify.com/track/7yt9uEpIdCjWriQKEwMtWG) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa･Ga Original Soundtrack](https://open.spotify.com/album/1hQQJ2TlVjoMIfWmkGAM16) | 1:41 |
 | 18 | [決戦!サルーイン](https://open.spotify.com/track/11zD7UxS95GYVoKsCi9nOT) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 3:02 |
 | 19 | [プロローグ\-七英雄の伝説\-](https://open.spotify.com/track/3JfBTAO27FeS5sbDxrDQZl) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 2 Original Soundtrack](https://open.spotify.com/album/7lyklaqScNQE2AMuOpCj55) | 6:38 |
 | 20 | [七英雄バトル](https://open.spotify.com/track/5SN2zEYE0ODEQmfgFkvt0V) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 2:54 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 22 | [オープニングタイトル](https://open.spotify.com/track/10YXqFh8Ul2zpA2QYImBW9) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/7g4ImJ4CM7zDJlftyKrebV) | 2:10 |
 | 23 | [ポドールイ](https://open.spotify.com/track/4DK6TrmlHiGS33M1op9LTE) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/7g4ImJ4CM7zDJlftyKrebV) | 2:30 |
 | 24 | [グレートアーチ](https://open.spotify.com/track/0fm8CuSonYoNxP6UpkCbij) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/7g4ImJ4CM7zDJlftyKrebV) | 1:45 |
-| 25 | [真・神戦](https://open.spotify.com/track/32s98HWBypWF2wHevexSx4) | [笹井隆司](https://open.spotify.com/artist/0PplMA4PXl7B4CZ6gLDlI0) | [サガ3時空の覇者 Shadow or Light Original Soundtrack](https://open.spotify.com/album/3eQtphHzw3o9mXxW0odUO6) | 3:52 |
+| 25 | [真･神戦](https://open.spotify.com/track/32s98HWBypWF2wHevexSx4) | [笹井隆司](https://open.spotify.com/artist/0PplMA4PXl7B4CZ6gLDlI0) | [サガ3時空の覇者 Shadow or Light Original Soundtrack](https://open.spotify.com/album/3eQtphHzw3o9mXxW0odUO6) | 3:52 |
 | 26 | [決意の狭間](https://open.spotify.com/track/3wWI34FAINEV6zfwzR0HZd) | [笹井隆司](https://open.spotify.com/artist/0PplMA4PXl7B4CZ6gLDlI0) | [サガ3時空の覇者 Shadow or Light Original Soundtrack](https://open.spotify.com/album/3eQtphHzw3o9mXxW0odUO6) | 4:41 |
 | 27 | [四魔貴族バトル1](https://open.spotify.com/track/1XzKdXZx125kHVpIT6uVLD) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 2:31 |
 | 28 | [いざ戦場へ…](https://open.spotify.com/track/3mwV4N2EsYgrk8VvBcgtYp) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/7g4ImJ4CM7zDJlftyKrebV) | 2:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 43 | [Feldschlacht IV](https://open.spotify.com/track/2JDxf5xgw140hhodoqoBnR) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル・サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 3:28 |
 | 44 | [Misgestalt](https://open.spotify.com/track/6npTHGbLFc0U7HnXRKoSp1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル・サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:31 |
 | 45 | [Postludium](https://open.spotify.com/track/5JeOpKFHvq62djJrZPIPGs) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル・サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 1:25 |
-| 46 | [バトルテーマ Ⅰ](https://open.spotify.com/track/27UF1mqdNGo2BGpSjwURIv) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル・サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 2:07 |
-| 47 | [ローラのテーマ](https://open.spotify.com/track/4jLDwGcrJRcc9uwPldj1W1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル・サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 1:52 |
-| 48 | [天翔ける翼](https://open.spotify.com/track/1uRjc7fy1R5K7AUWD2dBjw) | [柏原 美緒](https://open.spotify.com/artist/5B4pmjcmERLSHSTNXtxaOx) | [【再発盤】アンリミテッド:サガ オリジナル・サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 4:58 |
-| 49 | [全軍突撃!](https://open.spotify.com/track/35BolCNlK1hWAmcHalOkwA) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [インペリアル サガ オリジナル・サウンドトラック](https://open.spotify.com/album/3S0mCwgHzdQVEooAFc73CC) | 3:50 |
+| 46 | [バトルテーマ Ⅰ](https://open.spotify.com/track/27UF1mqdNGo2BGpSjwURIv) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 2:07 |
+| 47 | [ローラのテーマ](https://open.spotify.com/track/4jLDwGcrJRcc9uwPldj1W1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 1:52 |
+| 48 | [天翔ける翼](https://open.spotify.com/track/1uRjc7fy1R5K7AUWD2dBjw) | [柏原 美緒](https://open.spotify.com/artist/5B4pmjcmERLSHSTNXtxaOx) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 4:58 |
+| 49 | [全軍突撃!](https://open.spotify.com/track/35BolCNlK1hWAmcHalOkwA) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [インペリアル サガ オリジナル･サウンドトラック](https://open.spotify.com/album/3S0mCwgHzdQVEooAFc73CC) | 3:50 |
 | 50 | [スカーレットグレイス序曲](https://open.spotify.com/track/2rZQbElu4E1B6RiSqxv4Vy) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 1:55 |
 | 51 | [冥魔・堕されしものども](https://open.spotify.com/track/1xXcYbrjWXUQ91e2nyrtcG) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:30 |
 | 52 | [精霊・そこに在る力](https://open.spotify.com/track/557mlnuEZv2cNCEYIwFqXX) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ スカーレット グレイス オリジナル・サウンドトラック](https://open.spotify.com/album/7yzZfAo5Fisme4h5g2gGif) | 3:20 |

@@ -4,12 +4,12 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-142 songs - 7 hr 37 min
+144 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [031.](https://open.spotify.com/track/2peizBkvIiDK4BuJpbGhys) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Tid & Tro](https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic) | 1:58 | 2024-06-27 | 2024-08-19 |
-| [1 in 1.000.000](https://open.spotify.com/track/5SFjSREpouDPJx6NbzB9NR) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 0:27 | 2024-10-24 |  |
+| [1 in 1.000.000](https://open.spotify.com/track/5SFjSREpouDPJx6NbzB9NR) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 0:27 | 2024-10-24 | 2024-11-22 |
 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 | 2024-06-27 | 2024-09-07 |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2024-06-27 |  |
 | [80's](https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [80's](https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV) | 3:30 | 2024-06-27 |  |
@@ -17,6 +17,7 @@
 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 | 2024-06-27 |  |
 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 | 2024-08-08 | 2024-11-01 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-06-27 | 2024-09-02 |
+| [AIR FORCE TWO](https://open.spotify.com/track/1g6sgy0wgjMlYdeeQdBdPz) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 1:39 | 2024-11-21 |  |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2024-06-27 |  |
 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 | 2024-06-27 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
@@ -103,7 +104,7 @@
 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 | 2024-06-27 | 2024-07-05 |
 | [logical](https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:51 | 2024-06-27 | 2024-11-10 |
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
-| [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 | 2024-10-24 |  |
+| [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 | 2024-10-24 | 2024-11-22 |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2024-06-27 |  |
 | [Mellanrum](https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Mellanrum](https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw) | 2:18 | 2024-06-27 | 2024-09-20 |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-06-27 |  |
@@ -117,6 +118,7 @@
 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 | 2024-10-24 |  |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-09 |
 | [Penny \(Akustisk\) \[feat\. Penny\]](https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Penny](https://open.spotify.com/artist/5XwPvOVGPUg76AOnVfqwQU) | [Penny \(Akustisk\)](https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE) | 3:10 | 2024-06-27 |  |
+| [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 | 2024-11-21 |  |
 | [Psykos](https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [ALLTING DÄREMELLAN](https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON) | 2:56 | 2024-06-27 |  |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 |  |
 | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW) | 3:13 | 2024-08-08 |  |

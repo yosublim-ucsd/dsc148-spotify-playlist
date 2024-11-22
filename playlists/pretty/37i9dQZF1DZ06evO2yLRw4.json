@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36419,
+  "num_followers": 36423,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAAmumzCcgu3z6U0VreNEIu7",
+  "snapshot_id": "Zz0mgAAAAADBw6UdRvKvbA6Zit7NlI1M",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 213480,
-      "name": "Guilty Filthy Soul",
-      "url": "https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk"
+      "duration_ms": 202031,
+      "name": "Handyman",
+      "url": "https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 202031,
-      "name": "Handyman",
-      "url": "https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0"
+      "duration_ms": 213480,
+      "name": "Guilty Filthy Soul",
+      "url": "https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk"
     },
     {
       "added_at": null,
@@ -410,11 +410,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 241693,
-      "name": "A Letter To No One",
-      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
+      "duration_ms": 182893,
+      "name": "I Am Happy",
+      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
     },
     {
       "added_at": null,
@@ -471,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -491,22 +511,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
     },
     {
       "added_at": null,
@@ -639,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
       },
       "artists": [
         {
@@ -648,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 217205,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
     },
     {
       "added_at": null,
@@ -671,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are All Insane",
-        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
       "artists": [
         {
@@ -680,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 211400,
-      "name": "We Are All Insane",
-      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
+      "duration_ms": 217205,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
     },
     {
       "added_at": null,
@@ -727,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "MF",
-      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -755,6 +743,22 @@
       "duration_ms": 189861,
       "name": "Jealous Buffoon",
       "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "MF",
+      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
     },
     {
       "added_at": null,
@@ -803,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -831,6 +819,22 @@
       "duration_ms": 199307,
       "name": "Here Come the Runts",
       "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
     },
     {
       "added_at": null,
@@ -871,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 292439,
-      "name": "Some Kind of Joke",
-      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Come the Runts",
         "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
@@ -899,6 +887,22 @@
       "duration_ms": 203835,
       "name": "Miracle Man",
       "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 292439,
+      "name": "Some Kind of Joke",
+      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
     }
   ],
   "unique_name": "This Is AWOLNATION",

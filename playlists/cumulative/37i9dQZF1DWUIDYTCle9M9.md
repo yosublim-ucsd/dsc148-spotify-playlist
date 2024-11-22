@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-174 songs - 10 hr 45 min
+175 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2021-07-02 |  |
 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 | 2021-07-02 | 2024-02-22 |
 | [Marry You](https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:50 | 2024-04-16 |  |
+| [Me Encontra](https://open.spotify.com/track/5yEais1zgeW1MjLrx7tsie) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:31 | 2024-11-21 |  |
 | [Mensagem de Amor \- Ao Vivo](https://open.spotify.com/track/7oslptGlQaO6QQDutI7t7h) | [Toni Platao](https://open.spotify.com/artist/7drMo8O4JHwK9n9mTfpkoM), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Mensagem de Amor \(Ao Vivo\)](https://open.spotify.com/album/6If6NctPizDNAcgrnVG5gN) | 3:58 | 2024-01-12 | 2024-04-17 |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2021-07-02 | 2022-07-29 |
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:21 | 2024-04-16 |  |
@@ -142,7 +143,7 @@
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2021-07-02 |  |
 | [Saideira \- Ao Vivo](https://open.spotify.com/track/6JXOcssLcLq4STrYTfLa3I) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:48 | 2023-11-10 | 2024-01-12 |
 | [Seus Recados](https://open.spotify.com/track/68yGrDGiJh6T38dbiLQIzL) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Seus Recados](https://open.spotify.com/album/3lJQzGb25hAAZsxcmA5wAJ) | 3:35 | 2024-09-20 | 2024-09-25 |
-| [Seus Recados \- Ao Vivo](https://open.spotify.com/track/2kcTEMUI3TVvak0OgG4nwi) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Seus Recados \(Ao Vivo\)](https://open.spotify.com/album/5L6mWS7aEOkwccUOmR8PnE) | 3:33 | 2024-09-24 |  |
+| [Seus Recados \- Ao Vivo](https://open.spotify.com/track/2kcTEMUI3TVvak0OgG4nwi) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Seus Recados \(Ao Vivo\)](https://open.spotify.com/album/5L6mWS7aEOkwccUOmR8PnE) | 3:33 | 2024-09-24 | 2024-11-22 |
 | [Sexy Iemanjá](https://open.spotify.com/track/0PvYd9bLZoIMbVd1TJpeju) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Meu Coração](https://open.spotify.com/album/0pV48P4dUt5ajWGZpAnvpy) | 3:41 | 2021-07-02 | 2022-07-29 |
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2024-04-16 |  |
 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2021-07-02 | 2023-11-08 |

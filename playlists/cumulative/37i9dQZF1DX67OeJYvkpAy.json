@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-14",
-  "description": "the best of the deep end. cover: Stacy N.K.R.",
+  "description": "the best of the deep end. cover: JBEE",
   "name": "lofi rap",
   "tracks": [
     {
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
+    },
+    {
+      "album": {
         "name": "Derby To Moston",
         "url": "https://open.spotify.com/album/6VbS0hkXojM88s13kX6ZnV"
       },
@@ -1151,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "DPMO",
+        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
+      },
+      "artists": [
+        {
+          "name": "Equation Billionz",
+          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "DPMO",
+      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
       },
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
@@ -1394,7 +1430,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 203046,
       "name": "Everyone Keeps Asking",
       "url": "https://open.spotify.com/track/4wMeSeTadv1UZ6HE7d5wdE"
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
@@ -2034,6 +2070,28 @@
       "duration_ms": 157664,
       "name": "If I knew how to save us",
       "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
+    },
+    {
+      "album": {
+        "name": "In The Function",
+        "url": "https://open.spotify.com/album/5RjOhkZh1bZeHSqyDn3kqN"
+      },
+      "artists": [
+        {
+          "name": "020whitton",
+          "url": "https://open.spotify.com/artist/2VJrhcbkgaDz3iOvY6fNHP"
+        },
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "In The Function",
+      "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
     },
     {
       "album": {
@@ -2554,7 +2612,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 207249,
       "name": "Meaning Of Love",
       "url": "https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3"
@@ -2818,6 +2876,24 @@
       "duration_ms": 153912,
       "name": "No Games",
       "url": "https://open.spotify.com/track/7IkTZBm0sT1MMW261mU7O7"
+    },
+    {
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
     },
     {
       "album": {
@@ -3729,6 +3805,28 @@
     },
     {
       "album": {
+        "name": "The Jam",
+        "url": "https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F"
+      },
+      "artists": [
+        {
+          "name": "Stylistic Murder",
+          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
+        },
+        {
+          "name": "Cam One",
+          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "The Jam",
+      "url": "https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0"
+    },
+    {
+      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
       },
@@ -3830,7 +3928,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181047,
       "name": "Too Cold 4 You Here (Sweater Weather)",
       "url": "https://open.spotify.com/track/30PeGDJkVBr9hQpWqceGCa"

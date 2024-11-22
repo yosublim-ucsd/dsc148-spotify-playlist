@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "beneath the boardwalk",
+        "url": "https://open.spotify.com/album/7gEt8SMstTxp4RK425vjhY"
+      },
+      "artists": [
+        {
+          "name": "beneath the boardwalk",
+          "url": "https://open.spotify.com/show/7gEt8SMstTxp4RK425vjhY"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166997,
+      "name": "space invaders",
+      "url": "https://open.spotify.com/episode/3Ff28l3iZg5zUFmiGaUAjs"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },

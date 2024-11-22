@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Elh Kmer
+> Le meilleur du rap français version cloud\. Photo : GS
 
-451 songs - 22 hr 3 min
+454 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [2 Sistas](https://open.spotify.com/track/6o3FclgTyuqsxE2z64AVAN) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [2 Sistas](https://open.spotify.com/album/0evJCpJxMHBN6IArIcrHaR) | 3:18 | 2024-11-14 |  |
 | [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-22 | 2024-11-15 |
 | [2ECOND](https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW) | [Rodrigo](https://open.spotify.com/artist/2kyVYRUwlrrJobeoqGoVvy), [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [ÉTERNEL SECOND](https://open.spotify.com/album/72qSwqyIdk7ZNtksWQvowj) | 4:16 | 2024-04-11 | 2024-06-01 |
-| [2NIGHT](https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [2NIGHT](https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O) | 2:00 | 2024-10-03 |  |
+| [2NIGHT](https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [2NIGHT](https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O) | 2:00 | 2024-10-03 | 2024-11-22 |
+| [404, Pt\. 2](https://open.spotify.com/track/1VFmdgGYXGBEfJEXEUHszX) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [404, Pt\. 2](https://open.spotify.com/album/5dwWQbLbauuiF3anELjguk) | 3:14 | 2024-11-21 |  |
 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 | 2023-06-15 | 2023-10-27 |
 | [5AM](https://open.spotify.com/track/5IpJosdaXZeUKcAx6dE8NS) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:31 | 2024-06-27 | 2024-10-11 |
 | [7](https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [7](https://open.spotify.com/album/2o9EiJ3C397bqvknB0oQqw) | 2:41 | 2024-02-01 | 2024-06-01 |
@@ -172,10 +173,11 @@
 | [Gris](https://open.spotify.com/track/3g7084K6EoChR796wdRo0i) | [Efef](https://open.spotify.com/artist/0WkzVE8cmwZsoX60nRJfVc) | [Gris](https://open.spotify.com/album/2NTfLcNxztzpilWFqdTqFh) | 3:03 | 2022-11-17 | 2023-01-13 |
 | [Gros mega](https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 2](https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1) | 2:34 | 2022-07-14 | 2022-12-02 |
 | [GUCCI \(feat\. F430\) \[jet\]](https://open.spotify.com/track/3K88jIpeWTdAQYRyqfitHD) | [S\-Pion](https://open.spotify.com/artist/3lcaxkgcJetq348VioG0s6), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Solide](https://open.spotify.com/album/0yoNKisaw3XF1u6iDZig6S) | 2:18 | 2022-11-17 | 2023-01-27 |
+| [Guérison](https://open.spotify.com/track/5IJP4obxYP0Kv1JuZjTsiy) | [Poupy](https://open.spotify.com/artist/1UThCAGhASPNKsKwcbsdlY) | [Guérison](https://open.spotify.com/album/2e5Ll1KBhvJstCLwLOk99H) | 2:27 | 2024-11-21 |  |
 | [Gé le plan \(Noxious x Genezio\) \- COOTB vol.2](https://open.spotify.com/track/15hAA35V7YgpNd5xEyQxbU) | [Label Blue Sky](https://open.spotify.com/artist/5pHKAKcCCKQowFAR4EQyCC), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Gé le plan \(Noxious x Genezio\) \- COOTB vol.2](https://open.spotify.com/album/6bqr1Jn5Nad0Auup71EJ8m) | 3:05 | 2023-02-16 | 2023-04-14 |
 | [Habitué](https://open.spotify.com/track/3Bxvm3fviWQdqPToOpng6n) | [Good Bana](https://open.spotify.com/artist/2dIWl0tmExUMJc3AjTOLCH) | [Habitué](https://open.spotify.com/album/1ncDcndrK5NcNfdMOeoCqH) | 2:48 | 2024-05-16 | 2024-09-13 |
 | [HABITUÉ](https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [HABITUÉ](https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01) | 3:00 | 2023-05-11 | 2024-04-26 |
-| [Hades](https://open.spotify.com/track/1bbZpuuo4xHr8uvsv0ZONl) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Hades](https://open.spotify.com/album/6UyP5B5pMp9SL4azvp8JLL) | 2:33 | 2024-09-12 |  |
+| [Hades](https://open.spotify.com/track/1bbZpuuo4xHr8uvsv0ZONl) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Hades](https://open.spotify.com/album/6UyP5B5pMp9SL4azvp8JLL) | 2:33 | 2024-09-12 | 2024-11-22 |
 | [HARMONIE](https://open.spotify.com/track/6nCjnp6Y2XMfwnK8EiT1ee) | [SLØW](https://open.spotify.com/artist/6jPpTPMBhULm8sukMmyrTW) | [HARMONIE](https://open.spotify.com/album/61Y7Va9YVIgzniecyIXVVp) | 2:49 | 2023-10-19 | 2023-12-01 |
 | [HEKLA](https://open.spotify.com/track/0Tr0TQ1Jca4eEXMwON5XMt) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y) | [HEKLA](https://open.spotify.com/album/5yeEwZ9b8zPXWrFoA3jw6R) | 2:27 | 2023-01-12 | 2023-04-07 |
 | [HENNESSY \- feat\. So La Lune](https://open.spotify.com/track/1oxV0rnPtUwKJUWooSIdFv) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [JUAN COCA](https://open.spotify.com/album/21PfuyzRJkPwHiv9UL4Ev1) | 3:26 | 2022-07-14 | 2022-10-07 |
@@ -238,7 +240,7 @@
 | [La vérité](https://open.spotify.com/track/4HgrXhFMT1CED72ea1WPWN) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [La vérité](https://open.spotify.com/album/17zdMc6qzoHxgxoRjPMeNc) | 2:20 | 2024-09-26 |  |
 | [LADY GAGA](https://open.spotify.com/track/3WVegsSwuVkiO0SAg9S87V) | [LUMJR](https://open.spotify.com/artist/3c5EoD3rQqbkXYSL22CRJh) | [LADY GAGA](https://open.spotify.com/album/4ncCuaNlrgUfGQHrOceMgB) | 2:30 | 2024-10-17 | 2024-11-15 |
 | [LAISSE](https://open.spotify.com/track/71ZFzJ4Hc1OSnIZZ2tsX50) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [LAISSE](https://open.spotify.com/album/0Y0vM2ITnQXTjWzfY9Z9oA) | 2:44 | 2023-05-25 | 2023-09-08 |
-| [Laisse tomber](https://open.spotify.com/track/2nHl8cd6sfEAAm0tV7jqAP) | [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw) | [Personne n'est spécial](https://open.spotify.com/album/4K2wpaeIVxcc9bGWHu7zmh) | 3:29 | 2024-10-10 |  |
+| [Laisse tomber](https://open.spotify.com/track/2nHl8cd6sfEAAm0tV7jqAP) | [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw) | [Personne n'est spécial](https://open.spotify.com/album/4K2wpaeIVxcc9bGWHu7zmh) | 3:29 | 2024-10-10 | 2024-11-22 |
 | [Larmes](https://open.spotify.com/track/278IRNfCKsIEDlXgZCLWZ6) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Larmes](https://open.spotify.com/album/1YGUXrZ9U4pLtke6ZQPVW1) | 3:42 | 2023-04-20 | 2023-05-16 |
 | [LE GO](https://open.spotify.com/track/1NQa6P3uWrx9LySoktgFPP) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [LE GO](https://open.spotify.com/album/3zZcih5osXWdKD3leqfsZy) | 2:41 | 2023-09-28 | 2023-11-17 |
 | [Le jour se lève](https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [Le jour se lève](https://open.spotify.com/album/3k3Os3Ekj0WGCcIVY10Xxd) | 2:36 | 2023-06-15 | 2023-10-13 |
@@ -421,6 +423,7 @@
 | [Suspects](https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/1rRzBrjF3ecUSEEeq9EhNU) | 3:29 | 2023-12-08 | 2024-11-08 |
 | [Suspects](https://open.spotify.com/track/6jOhtafCN3YPTJ1vL4HyLO) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [L'enfant de la pluie](https://open.spotify.com/album/7ppBSJ1F7MBfqRdHoPUipx) | 3:29 | 2024-03-07 | 2024-04-19 |
 | [Synopsis](https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Synopsis](https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1) | 2:22 | 2023-04-13 | 2023-06-16 |
+| [Tango](https://open.spotify.com/track/71xuD6Nx78TyDf4bBaDUiz) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [L'auteur de mes contes](https://open.spotify.com/album/7jLSBq7t4mtQFdrcEidfws) | 3:00 | 2024-11-21 |  |
 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-26 | 2023-11-24 |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-07-14 | 2022-10-21 |
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 | 2023-01-27 |

@@ -4,7 +4,7 @@
 
 > Your new favorite pop star ⭐ cover: Kenzie Cait
 
-2,247 songs - 4 day 17 hr 4 min
+2,248 songs - 4 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-04-23 |
 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 | 2024-03-08 | 2024-05-18 |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-17 |  |
+| [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:35 | 2024-11-15 |  |
 | [Cuts Deep](https://open.spotify.com/track/7yDBlgy1yGXDnhJWOZuLe3) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Cuts Deep](https://open.spotify.com/album/6LTBLtbhmyAsKi2L59l7Vo) | 3:00 | 2024-10-18 | 2024-11-09 |
 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 | 2023-12-14 |
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 | 2023-12-16 |
@@ -1239,7 +1240,7 @@
 | [Lovesick](https://open.spotify.com/track/3IFfNzlMMMSzMBiEA1TCs5) | [Little Warrior](https://open.spotify.com/artist/2XvMoKTRonUpyjczi7UQ9Z), [Goldini Bagwell](https://open.spotify.com/artist/2NdjvADLAY6NFfh6tvJEVu) | [Lovesick](https://open.spotify.com/album/6nKXxyvhwqfSoSwxL7xjmK) | 3:49 | 2019-05-26\* | 2020-04-09 |
 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2021-01-23 | 2022-01-05 |
 | [Loving Love](https://open.spotify.com/track/2Mblfptq6Hy8iqsKxRZKRM) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Loving Love](https://open.spotify.com/album/08pc1RDrKkeB9fJQNWonqh) | 2:39 | 2019-05-26\* | 2019-08-13 |
-| [Lucky](https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Lucky](https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2) | 2:02 | 2024-11-15 |  |
+| [lucky](https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [lucky](https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2) | 2:02 | 2024-11-15 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-09-14 |
 | [Lunch](https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lunch](https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe) | 2:52 | 2023-03-24 | 2023-04-23 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-14 |

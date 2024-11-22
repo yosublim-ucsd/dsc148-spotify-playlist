@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d\u300c\u3042\u3093\u30b9\u30bf\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2014-2019 Happy Elements K.K",
-  "num_followers": 57285,
+  "num_followers": 57301,
   "original_name": "ENSEMBLE STARS!! \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-09 04:30:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
-        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
-      },
-      "artists": [
-        {
-          "name": "\u4e94\u5947\u4eba/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u658e\u5bae\u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u6df1\u6d77\u594f\u6c70(CV.\u897f\u5c71\u5b8f\u592a\u6717)\u3001\u65e5\u3005\u6a39\u6e09(CV.\u6c5f\u53e3\u62d3\u4e5f)\u3001\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)",
-          "url": "https://open.spotify.com/artist/2i7G4TgWipSjW01CIfapWE"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Eccentric Party Night!!",
-      "url": "https://open.spotify.com/track/2QTW9QCezADudK7HLwok3Z"
-    },
-    {
-      "added_at": "2024-11-09 04:30:00",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
         "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 211026,
       "name": "Twilight Pentagram",
       "url": "https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr"
+    },
+    {
+      "added_at": "2024-11-09 04:30:00",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
+        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5947\u4eba/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u658e\u5bae\u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u6df1\u6d77\u594f\u6c70(CV.\u897f\u5c71\u5b8f\u592a\u6717)\u3001\u65e5\u3005\u6a39\u6e09(CV.\u6c5f\u53e3\u62d3\u4e5f)\u3001\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/2i7G4TgWipSjW01CIfapWE"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "Eccentric Party Night!!",
+      "url": "https://open.spotify.com/track/2QTW9QCezADudK7HLwok3Z"
     },
     {
       "added_at": "2024-11-09 04:30:00",
@@ -732,13 +732,13 @@
       },
       "artists": [
         {
-          "name": "\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)",
-          "url": "https://open.spotify.com/artist/7ir1mefb6IQNMPZ5Co21Np"
+          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
+          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
         }
       ],
-      "duration_ms": 247000,
-      "name": "My Sunshine, You\u2019re Moonlight",
-      "url": "https://open.spotify.com/track/5qfvCRrYR5tXbas6BmgPsH"
+      "duration_ms": 223866,
+      "name": "Mystic Fragrance",
+      "url": "https://open.spotify.com/track/3u6HywP3wR5eObLRReV6w6"
     },
     {
       "added_at": "2024-11-09 04:30:00",
@@ -748,13 +748,13 @@
       },
       "artists": [
         {
-          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
+          "name": "\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/7ir1mefb6IQNMPZ5Co21Np"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Mystic Fragrance",
-      "url": "https://open.spotify.com/track/3u6HywP3wR5eObLRReV6w6"
+      "duration_ms": 247000,
+      "name": "My Sunshine, You\u2019re Moonlight",
+      "url": "https://open.spotify.com/track/5qfvCRrYR5tXbas6BmgPsH"
     },
     {
       "added_at": "2024-11-09 04:30:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-11-09 04:30:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
-        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
-      },
-      "artists": [
-        {
-          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Little Romance",
-      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
-    },
-    {
-      "added_at": "2024-11-09 04:30:00",
-      "album": {
         "name": "fine \uff06 Knights\u300c\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30d1\u30ec\u30fc\u30c9\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 06",
         "url": "https://open.spotify.com/album/7KfEKUFVBAxnw9koc1C9fH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 262120,
       "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c",
       "url": "https://open.spotify.com/track/2tU9EY1nufIeoOcbMWxBIN"
+    },
+    {
+      "added_at": "2024-11-09 04:30:00",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
+        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
+          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Little Romance",
+      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
     },
     {
       "added_at": "2024-11-09 04:30:00",
@@ -903,8 +903,8 @@
     {
       "added_at": "2024-11-09 04:30:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
-        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
+        "name": "Switch\u300cBrilliant Smile\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
         }
       ],
-      "duration_ms": 231293,
-      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30d7\u30e9\u30cd\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/1JfvP6CDhv0exkrjzZOBpj"
+      "duration_ms": 238893,
+      "name": "Brilliant Smile",
+      "url": "https://open.spotify.com/track/4UlLjDmCm3aa152WM02lKI"
     },
     {
       "added_at": "2024-11-09 04:30:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-11-09 04:30:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
-        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30a4\u30c8\u30ad\u30e9\u30fc\u30ba/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd\u5149)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u4ec1\u514e\u306a\u305a\u306a(CV.\u7c73\u5185\u4f51\u5e0c)",
-          "url": "https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Crush of Judgment",
-      "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
-    },
-    {
-      "added_at": "2024-11-09 04:30:00",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Crazy:B",
         "url": "https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 248226,
       "name": "Honeycomb Summer",
       "url": "https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi"
+    },
+    {
+      "added_at": "2024-11-09 04:30:00",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30a4\u30c8\u30ad\u30e9\u30fc\u30ba/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd\u5149)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u4ec1\u514e\u306a\u305a\u306a(CV.\u7c73\u5185\u4f51\u5e0c)",
+          "url": "https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Crush of Judgment",
+      "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
     },
     {
       "added_at": "2024-11-09 04:30:00",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2024-11-09 04:30:00",
       "album": {
-        "name": "Switch\u300cBrilliant Smile\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Switch",
+        "url": "https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Brilliant Smile",
-      "url": "https://open.spotify.com/track/4UlLjDmCm3aa152WM02lKI"
+      "duration_ms": 231293,
+      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30d7\u30e9\u30cd\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/1JfvP6CDhv0exkrjzZOBpj"
     },
     {
       "added_at": "2024-11-09 04:30:00",

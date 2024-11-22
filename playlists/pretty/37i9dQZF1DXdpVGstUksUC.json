@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542888,
+  "num_followers": 542892,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "There is Nothing New Under the Sun",
-        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
-      },
-      "artists": [
-        {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
-        }
-      ],
-      "duration_ms": 237424,
-      "name": "There is Nothing New Under the Sun",
-      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "A Drug Problem That Never Existed",
         "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+        "name": "There is Nothing New Under the Sun",
+        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
       "artists": [
         {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
         }
       ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+      "duration_ms": 237424,
+      "name": "There is Nothing New Under the Sun",
+      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 251253,
       "name": "Are You Dead",
       "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Thornwyck Hymn",
+        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
+      },
+      "artists": [
+        {
+          "name": "My Dying Bride",
+          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+        }
+      ],
+      "duration_ms": 407783,
+      "name": "Thornwyck Hymn",
+      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ode To IO",
-        "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
-      },
-      "artists": [
-        {
-          "name": "Lowrider",
-          "url": "https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Riding Shotgun",
-      "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Unemployment Office",
         "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 204181,
       "name": "Unemployment Office",
       "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ode To IO",
+        "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
+      },
+      "artists": [
+        {
+          "name": "Lowrider",
+          "url": "https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Riding Shotgun",
+      "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Beneath the Rose",
-        "url": "https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL"
-      },
-      "artists": [
-        {
-          "name": "Baroness",
-          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
-        }
-      ],
-      "duration_ms": 334306,
-      "name": "Beneath the Rose",
-      "url": "https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Ilion",
         "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
+        "name": "Beneath the Rose",
+        "url": "https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Old Growth",
+        "url": "https://open.spotify.com/album/5PQ1YxpW1DyHIRDLQYRlf6"
+      },
+      "artists": [
+        {
+          "name": "Dead Meadow",
+          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "What Needs Must Be",
+      "url": "https://open.spotify.com/track/0xy3tLHmsJKEKpAsPsdglm"
     }
   ],
   "unique_name": "Stoner Rock",

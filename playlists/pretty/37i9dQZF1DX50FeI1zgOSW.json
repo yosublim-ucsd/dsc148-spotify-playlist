@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
-  "num_followers": 13628,
+  "num_followers": 13635,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz1yRAAAAAArUEgRR4uEM2pyexIhUxss",
+  "snapshot_id": "Zz8yiAAAAADFWqY0JD0CSKpozQvJTdPt",
   "tracks": [
     {
       "added_at": "2024-10-18 04:57:06",
@@ -81,6 +81,26 @@
       "url": "https://open.spotify.com/track/72z1bSQAp7NASNF3MEKBlO"
     },
     {
+      "added_at": "2024-11-21 13:13:13",
+      "album": {
+        "name": "Aasamy",
+        "url": "https://open.spotify.com/album/4XxRdPoYGfhWCoTW3sOgiF"
+      },
+      "artists": [
+        {
+          "name": "Aasamy",
+          "url": "https://open.spotify.com/artist/3cU465o0Drs2JeNOm9Ljio"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Aasamy",
+      "url": "https://open.spotify.com/track/589Vk4dm6doD6czjby9eYT"
+    },
+    {
       "added_at": "2024-11-11 07:42:51",
       "album": {
         "name": "Yawanaa",
@@ -105,6 +125,34 @@
       "url": "https://open.spotify.com/track/7gHhbgeEtaYtpOCov2cV3B"
     },
     {
+      "added_at": "2024-11-21 13:15:52",
+      "album": {
+        "name": "Alaadhi",
+        "url": "https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E"
+      },
+      "artists": [
+        {
+          "name": "Shriram Sachi",
+          "url": "https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd"
+        },
+        {
+          "name": "Varuon Thushyanthan",
+          "url": "https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ"
+        },
+        {
+          "name": "Megan Dhakshini",
+          "url": "https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp"
+        },
+        {
+          "name": "Sagishna Xavier",
+          "url": "https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex"
+        }
+      ],
+      "duration_ms": 265183,
+      "name": "Alaadhi",
+      "url": "https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5"
+    },
+    {
       "added_at": "2024-11-20 05:23:16",
       "album": {
         "name": "Olti Vudu",
@@ -123,6 +171,30 @@
       "duration_ms": 160874,
       "name": "Olti Vudu",
       "url": "https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh"
+    },
+    {
+      "added_at": "2024-11-21 13:13:01",
+      "album": {
+        "name": "Kannaadi Boogambam",
+        "url": "https://open.spotify.com/album/5v3h2u30TxNKcuWXlkGkK3"
+      },
+      "artists": [
+        {
+          "name": "Umashankar Kannaiyan",
+          "url": "https://open.spotify.com/artist/72pRNBy0ISQbOnjR5SX80T"
+        },
+        {
+          "name": "Krithika Nelson",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        },
+        {
+          "name": "Shashank",
+          "url": "https://open.spotify.com/artist/0oabT3DBQYwKSwfche8F4b"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Kannaadi Boogambam",
+      "url": "https://open.spotify.com/track/0HnKrdG93aeemec5ctWYPJ"
     },
     {
       "added_at": "2024-11-19 05:32:11",
@@ -1411,22 +1483,6 @@
       "duration_ms": 232000,
       "name": "Avalindri Naan",
       "url": "https://open.spotify.com/track/1SupxIioLGCNhveAj5akUJ"
-    },
-    {
-      "added_at": "2024-04-01 04:58:48",
-      "album": {
-        "name": "My Dear Maname",
-        "url": "https://open.spotify.com/album/1CRFQ9is8dZEsyRW5yF5M1"
-      },
-      "artists": [
-        {
-          "name": "Shahithya",
-          "url": "https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "My Dear Maname",
-      "url": "https://open.spotify.com/track/48qw6aOZx9tOQbVjlyOqLo"
     },
     {
       "added_at": "2024-05-03 06:13:25",

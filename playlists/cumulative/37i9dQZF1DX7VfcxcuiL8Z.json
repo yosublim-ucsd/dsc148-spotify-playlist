@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 283086,
       "name": "A Fragile Thing",
       "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 168794,
       "name": "Alive",
       "url": "https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ"
@@ -214,10 +214,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 253106,
       "name": "arghHhh!",
       "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
+    },
+    {
+      "album": {
+        "name": "Aunque duela",
+        "url": "https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Aunque duela",
+      "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
     },
     {
       "album": {
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201907,
       "name": "Harpoon To The Heart",
       "url": "https://open.spotify.com/track/2yqqdUqEExDHW3aCFDOdBb"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 245609,
       "name": "Houndstooth Dress",
       "url": "https://open.spotify.com/track/2QoPtfqbeBzJIpqSJv3QvQ"
@@ -1917,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2omalIN0hJYm2oC8PcqL43"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169451,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/7tCXixP04LDsacfpKJCBUE"
+    },
+    {
+      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -2004,7 +2040,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 162066,
       "name": "Motoroller",
       "url": "https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM"
@@ -2044,6 +2080,24 @@
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
     },
     {
       "album": {
@@ -2134,7 +2188,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 273520,
       "name": "Oh Well (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U"
@@ -2318,7 +2372,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195790,
       "name": "Ottoway",
       "url": "https://open.spotify.com/track/4tRkdz8e9M32RSK82CveHH"
@@ -2509,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
+    },
+    {
+      "album": {
         "name": "Triple Seven",
         "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
       },
@@ -2578,7 +2650,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 95092,
       "name": "Please Me (feat. The Linda Lindas)",
       "url": "https://open.spotify.com/track/6HXPYn5p3zhGSW3mNyLNOk"

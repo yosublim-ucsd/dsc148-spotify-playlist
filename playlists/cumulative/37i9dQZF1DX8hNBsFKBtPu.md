@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop 💜 Thor Farlov
+> Det bedste nye pop 💛 Mina Okabe💛
 
-274 songs - 13 hr 58 min
+279 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 | 2024-08-29 |  |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-06-27 | 2024-07-30 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 |  |
+| [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 |  |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 |  |
@@ -166,6 +167,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-11-08 |
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-06-27 | 2024-11-08 |
 | [Magisk](https://open.spotify.com/track/0aRTkC4GVnVIMZTVPNKY3P) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Magisk](https://open.spotify.com/album/6aPaIBSuXwELHFaODQM8eN) | 2:28 | 2024-06-27 | 2024-11-08 |
+| [Making Plans](https://open.spotify.com/track/2nls6cWh0dHGIzwzZ1ArrC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Making Plans](https://open.spotify.com/album/6FllofMmZ3DnrkBxxVBzo4) | 3:18 | 2024-11-21 |  |
 | [Man kan græde oceaner](https://open.spotify.com/track/7sf7eJY2kzvdkra6XqvdLw) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Man kan græde oceaner](https://open.spotify.com/album/41XR2YsKMSDunNrGaiOs9Y) | 2:30 | 2024-06-27 | 2024-10-04 |
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 |  |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-27 | 2024-11-08 |
@@ -173,6 +175,7 @@
 | [MERA SURAJ](https://open.spotify.com/track/4NHxgzS2KSrnPAZhIyAoBX) | [Amna Naseer](https://open.spotify.com/artist/1SgTaDWOR4enMcVASjuBcV) | [MERA SURAJ](https://open.spotify.com/album/124wTmodqp3BwS5QJc61q5) | 2:26 | 2024-10-03 |  |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-27 | 2024-10-04 |
 | [midnatsbarn](https://open.spotify.com/track/5rgBuOJqDuwi1uGJF8lDEh) | [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [midnatsbarn](https://open.spotify.com/album/4qTxRR3wbiJNyVXcyb8we1) | 2:42 | 2024-10-24 |  |
+| [Mig Og Min Veninde](https://open.spotify.com/track/03WDn7FfygjcXVzPNrZHlt) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Mig Og Min Veninde](https://open.spotify.com/album/1I5mvadv2kjJeoodBPHHg1) | 2:52 | 2024-11-21 |  |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Min Bror](https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror](https://open.spotify.com/album/4SwKgXPEaCTUF1eHHDF91h) | 2:54 | 2024-10-10 |  |
 | [Min Ven](https://open.spotify.com/track/0xsFwrEpSw4D6NzSCP0D6U) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Min Ven](https://open.spotify.com/album/5qX1iW4bIxYjb9bwhcv3xe) | 3:15 | 2024-08-22 |  |
@@ -202,6 +205,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 | 2024-08-23 |
 | [Point Out The Crime](https://open.spotify.com/track/3eMQWAvCNS5ZUMrkTFdsv1) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Point Out The Crime](https://open.spotify.com/album/1WiSFvWNaHNTd1AmYu3ES1) | 2:40 | 2024-09-05 | 2024-09-20 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-27 | 2024-10-04 |
+| [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 | 2024-11-21 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-10 |  |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2024-07-30 |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2024-10-04 |
@@ -240,6 +244,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-27 | 2024-11-08 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-13 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 |  |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 |  |
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-11 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-06-27 | 2024-08-30 |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-08-08 |  |

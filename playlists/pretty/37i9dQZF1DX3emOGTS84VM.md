@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,775 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,777 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 13 | [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 |
 | 14 | [Here I Am](https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 2:53 |
 | 15 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 |
-| 16 | [Miracle Mantra](https://open.spotify.com/track/6HQBP9FCI9PtzNpV0ttAoJ) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [ビラル](https://open.spotify.com/artist/4YWGp2MeO7LQihs0cKDM0v) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 2:29 |
+| 16 | [Miracle Mantra](https://open.spotify.com/track/6HQBP9FCI9PtzNpV0ttAoJ) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 2:29 |
 | 17 | [Say I Won't](https://open.spotify.com/track/5kvaCJ63DdSrHtrUyRplCG) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Pettyboy](https://open.spotify.com/album/7g5u6wTlIB8y0hMbQxagbP) | 2:11 |
 | 18 | [Love Language](https://open.spotify.com/track/5GuIzlOWMBTUQGaJqi1dXk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p) | [Love Language](https://open.spotify.com/album/7qqd9wvj6AOHQXBdn4jmSn) | 3:28 |
 | 19 | [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 |

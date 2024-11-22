@@ -3127,6 +3127,32 @@
     },
     {
       "album": {
+        "name": "Get Lifted (20th Anniversary)",
+        "url": "https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Eugene \"Man-Man\" Roberts",
+          "url": "https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289094,
+      "name": "Ordinary People (feat. Tems) - Man-Man Remix",
+      "url": "https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr"
+    },
+    {
+      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },

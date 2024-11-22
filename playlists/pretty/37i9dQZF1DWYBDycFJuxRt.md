@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/333374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,836 likes - 86 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,855 likes - 86 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 21 | [Kirabune](https://open.spotify.com/track/1vIQ4j4tQ6jAKQ75sI1922) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [CITRUS CURIO CITY](https://open.spotify.com/album/243GjQxP8eSbAH16qcueQt) | 3:59 |
 | 22 | [Wannabe](https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Wannabe](https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn) | 4:25 |
 | 23 | [大人 \- feat\. 谷絹茉優 from Chevon](https://open.spotify.com/track/3EVjJDQEhuiosoSsNBhQqT) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [谷絹茉優](https://open.spotify.com/artist/5b3OVca8XpkUbAmD0mFDra) | [interchange](https://open.spotify.com/album/69OYpgaZN4DmNbTVajIIBC) | 4:09 |
-| 24 | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/track/4qku92xXACrwWVfh4JQXFW) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [中森明菜](https://open.spotify.com/artist/0xwmJiLnrCdBQgLz5vOcy2) | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/album/41tUgk0AuMOt5JbjLAClco) | 3:49 |
+| 24 | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/track/4qku92xXACrwWVfh4JQXFW) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/album/41tUgk0AuMOt5JbjLAClco) | 3:49 |
 | 25 | [MAYBE](https://open.spotify.com/track/7k3UFhBKsTNvKC19jIRfw7) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [MAYBE](https://open.spotify.com/album/6mliXhaSyiRqbanqhybbC5) | 4:21 |
 | 26 | [Tomorrow](https://open.spotify.com/track/0kbLm2sZjZlQWHuvxvNLBv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Tomorrow](https://open.spotify.com/album/2XfrP5N3VPcaCUeJT4qzhk) | 2:58 |
 | 27 | [NALLINA](https://open.spotify.com/track/2vgppmFop52JSbIr7N07SM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [NALLINA](https://open.spotify.com/album/1qrqShmhuHKGgm17rKNOA0) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Arthur Hanlon &amp; Ana Barbara",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Manuel Turizo",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -3318,6 +3318,24 @@
       "duration_ms": 164143,
       "name": "Cosas De La Vida",
       "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
+    },
+    {
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
     },
     {
       "album": {
@@ -7334,7 +7352,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/0Rerqpf0rXnz6ndP7ytQ6O"
@@ -13927,6 +13945,24 @@
     },
     {
       "album": {
+        "name": "SHEITE",
+        "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131489,
+      "name": "SHEITE",
+      "url": "https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC"
+    },
+    {
+      "album": {
         "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
         "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
       },
@@ -14148,6 +14184,24 @@
       "duration_ms": 184988,
       "name": "Sicario",
       "url": "https://open.spotify.com/track/7D5Pu2c1LG23hXfXN8hmvc"
+    },
+    {
+      "album": {
+        "name": "Sigueme Besando Asi",
+        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Sigueme Besando Asi",
+      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
     },
     {
       "album": {

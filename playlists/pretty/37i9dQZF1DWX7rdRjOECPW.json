@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1533153,
+  "num_followers": 1533023,
   "original_name": "Sommerhits 2024",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
         "name": "Fire (Official UEFA EURO 2024 Song)",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 168928,
       "name": "Fire - Official UEFA EURO 2024 Song",
       "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c"
     },
     {
       "added_at": "2024-08-29 14:50:12",

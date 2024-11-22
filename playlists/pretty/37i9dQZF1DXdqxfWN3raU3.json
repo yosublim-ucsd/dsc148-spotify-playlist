@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256337,
+  "num_followers": 256372,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "LA NOCHE ENTERA",
-        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "COSMIC KID",
-          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "LA NOCHE ENTERA",
-      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "EN EL GHETTO #3 (Par de cosas)",
         "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "LA NOCHE ENTERA",
+        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "LA NOCHE ENTERA",
+      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "YELIANA",
         "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 129106,
       "name": "Tal vez",
       "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Hablas",
         "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 156013,
       "name": "Hablas",
       "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Makin Money",
+        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Makin Money",
+      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Dime Si Tu",
         "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 196823,
       "name": "Dime Si Tu",
       "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Makin Money",
-        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 181463,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
       "artists": [
         {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+      "duration_ms": 181463,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Helado De Vainilla",
         "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
       },
@@ -1583,6 +1583,54 @@
       "duration_ms": 209100,
       "name": "Helado De Vainilla",
       "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1607,34 +1655,34 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
         }
       ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+        "name": "Le hac\u00e9s falta vos",
+        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
         }
       ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+      "duration_ms": 167668,
+      "name": "Le hac\u00e9s falta vos",
+      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1655,22 +1703,6 @@
       "duration_ms": 190736,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1703,22 +1735,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Le hac\u00e9s falta vos",
-        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
-      },
-      "artists": [
-        {
-          "name": "BROKIX",
-          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
-        }
-      ],
-      "duration_ms": 167668,
-      "name": "Le hac\u00e9s falta vos",
-      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Joyas Del Barrio",
         "url": "https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 175914,
       "name": "VALLADO 3",
       "url": "https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
-      },
-      "artists": [
-        {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2024-11-15 06:00:00",

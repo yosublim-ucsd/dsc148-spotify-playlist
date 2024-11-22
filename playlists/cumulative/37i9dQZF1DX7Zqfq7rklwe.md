@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa Linkin Park.
+> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa AC/DC.
 
-133 songs - 8 hr 52 min
+135 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-09-11 |  |
 | [Pahempi toistaan](https://open.spotify.com/track/5373WQjhIPPJ8XGTCZLDfJ) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Kiila](https://open.spotify.com/album/6XVLqIhFe5hbWso0IN5eVA) | 5:09 | 2024-09-11 | 2024-11-08 |
 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2024-09-11 | 2024-09-20 |
+| [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-21 |  |
 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 | 2024-09-11 |  |
 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 | 2024-09-11 | 2024-11-08 |
 | [Pulssi](https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Pulssi](https://open.spotify.com/album/5uECxuk1klwIvhrVVTYbE7) | 3:39 | 2024-10-03 | 2024-10-25 |
@@ -128,6 +129,7 @@
 | [Tokyo Love](https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Neon Inferno](https://open.spotify.com/album/75k7eiWA8rEGhmViParevn) | 3:33 | 2024-10-24 |  |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2024-11-07 |  |
+| [Vaatteet ja iho](https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Oire jostakin](https://open.spotify.com/album/51uB52lJNWlW8kevWUPDiA) | 4:00 | 2024-11-21 |  |
 | [Valtameri ovella](https://open.spotify.com/track/5clSY5NS1CVxfGMIvgKDut) | [Sara](https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr) | [Valtameri ovella](https://open.spotify.com/album/6fUuBKTNjqvdh92VSiyxcZ) | 3:29 | 2024-09-11 | 2024-09-27 |
 | [Vanha Mies](https://open.spotify.com/track/7HdduaMNFQ9CAbM7v36w1z) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Vanha mies](https://open.spotify.com/album/7l74mQRebtkSoPll5gUFig) | 3:50 | 2024-09-11 | 2024-09-27 |
 | [Viivakoodit](https://open.spotify.com/track/2Q5CaAXCk9vL8F6CPgrlYN) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Heinola 10](https://open.spotify.com/album/2m52QGNLyXHPOFNe92S33E) | 3:54 | 2024-11-07 |  |

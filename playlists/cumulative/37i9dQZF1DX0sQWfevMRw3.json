@@ -941,6 +941,28 @@
     },
     {
       "album": {
+        "name": "ALLTING BLIR NOG BRA",
+        "url": "https://open.spotify.com/album/7LlaxLT8gRlpE4sEQ4qKeF"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "YWB",
+          "url": "https://open.spotify.com/artist/5lBsK5xIl9HCUgSYtgUuBi"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "ALLTING BLIR NOG BRA",
+      "url": "https://open.spotify.com/track/1KycrYHlXiTwW4g5Xeuxt6"
+    },
+    {
+      "album": {
         "name": "ALLTING L\u00d6SER SIG",
         "url": "https://open.spotify.com/album/3UlzHsFbYJTkJITMDNRLwT"
       },
@@ -1080,7 +1102,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 124285,
       "name": "Ayia Napa 2024",
       "url": "https://open.spotify.com/track/58vENLCxezWIAANBgyjEsG"
@@ -1168,6 +1190,28 @@
       "duration_ms": 144000,
       "name": "Back to the Oldskool",
       "url": "https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP"
+    },
+    {
+      "album": {
+        "name": "BAD GIRL",
+        "url": "https://open.spotify.com/album/4S35rt66m0gBtGJWx6tpXo"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134187,
+      "name": "BAD GIRL",
+      "url": "https://open.spotify.com/track/50iEpixZ6Ca1kZBYC9Z2UA"
     },
     {
       "album": {
@@ -3401,6 +3445,24 @@
     },
     {
       "album": {
+        "name": "Dam Di Dam",
+        "url": "https://open.spotify.com/album/4Wo5P7Xsxu8TnmRotqYpOa"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Dam Di Dam",
+      "url": "https://open.spotify.com/track/3GGzjp1QUQKK5TbLT55iom"
+    },
+    {
+      "album": {
         "name": "Dance Tonight",
         "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
       },
@@ -3718,7 +3780,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 128000,
       "name": "DE VA DU",
       "url": "https://open.spotify.com/track/7upSJM0AUsa05BSneQXtik"
@@ -8406,7 +8468,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 136551,
       "name": "F\u00d6R FULL",
       "url": "https://open.spotify.com/track/10K0ziLUpMBX8u5zvV2RDL"
@@ -8676,7 +8738,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 150391,
       "name": "GE DOM VAD DOM T\u00c5L",
       "url": "https://open.spotify.com/track/0gMpxKNQo8tCIcWcx9ihYi"
@@ -10001,6 +10063,28 @@
     },
     {
       "album": {
+        "name": "HEJSAN ALLA RAGGARE",
+        "url": "https://open.spotify.com/album/70ZZWNS84TvmDDBbFV5ii6"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133269,
+      "name": "HEJSAN ALLA RAGGARE",
+      "url": "https://open.spotify.com/track/6Z342am9acbO3hNyol8FtV"
+    },
+    {
+      "album": {
         "name": "HEJSAN HOPPSAN",
         "url": "https://open.spotify.com/album/2vhz8FpzSlZaIJhGEgCZx4"
       },
@@ -11180,7 +11264,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 141884,
       "name": "I DON'T GIVE A FUCK",
       "url": "https://open.spotify.com/track/4woyNAxnzQdaZFvB8BZUpm"
@@ -12494,7 +12578,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 126967,
       "name": "Kalle Teodor",
       "url": "https://open.spotify.com/track/2gHJ9W1tnqD6W9KvqSGJg8"
@@ -14805,6 +14889,24 @@
     },
     {
       "album": {
+        "name": "MER JUL MER DUNK",
+        "url": "https://open.spotify.com/album/2XddLEL6w7bftT8qyf6Mk3"
+      },
+      "artists": [
+        {
+          "name": "Mr DUNK",
+          "url": "https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138705,
+      "name": "MER JUL (EPA REMIX)",
+      "url": "https://open.spotify.com/track/4jRo8j6SYDknn4CyUBjwQ9"
+    },
+    {
+      "album": {
         "name": "Mera br\u00e4nnvin (EPA Remix)",
         "url": "https://open.spotify.com/album/0cTkAQyENznnac2bQCAlf2"
       },
@@ -15606,6 +15708,32 @@
       "duration_ms": 153913,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/1WMnD5AZEBrKzFc5IGEr0T"
+    },
+    {
+      "album": {
+        "name": "NIV\u00c5N",
+        "url": "https://open.spotify.com/album/5ZsM6SzchEFBbffM8G8Hyg"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "aNtik",
+          "url": "https://open.spotify.com/artist/1Af5IgNiNuENt7pcNLmaUP"
+        },
+        {
+          "name": "JeppsoN",
+          "url": "https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157892,
+      "name": "NIV\u00c5N",
+      "url": "https://open.spotify.com/track/6YUa35apEggPytNwsTNwzM"
     },
     {
       "album": {
@@ -16654,7 +16782,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 149560,
       "name": "PARTNER IN CRIME",
       "url": "https://open.spotify.com/track/2J6Uy8vlBhgr3NPrM52P5m"
@@ -18980,7 +19108,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 136216,
       "name": "RULLAR IN",
       "url": "https://open.spotify.com/track/0ktEsvvcUdZoupi1EUS9KL"
@@ -21740,7 +21868,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 132800,
       "name": "STUDENTEN (Hardstyle)",
       "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
@@ -23540,6 +23668,28 @@
       "duration_ms": 141645,
       "name": "Tomten Betalar (Ho Ho Ho)",
       "url": "https://open.spotify.com/track/3i8LLSsIbd0jN0tzusWq0J"
+    },
+    {
+      "album": {
+        "name": "Tomten jag vill ha en riktig jul (MEGAFJORTISTRANCE 2000 MiX)",
+        "url": "https://open.spotify.com/album/5Q1TwGWVLmuVC95YyV8F8X"
+      },
+      "artists": [
+        {
+          "name": "nanobii",
+          "url": "https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3"
+        },
+        {
+          "name": "M\u00e5lbrottet",
+          "url": "https://open.spotify.com/artist/2na3kX3dxagN7riWLfStdI"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Tomten jag vill ha en riktig jul - MEGAFJORTISTRANCE 2000 MiX",
+      "url": "https://open.spotify.com/track/5GurCTMNTNSVuHDRyQKBlg"
     },
     {
       "album": {
@@ -26140,7 +26290,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 148037,
       "name": "xINGEN VANLIG TJEJx",
       "url": "https://open.spotify.com/track/4scwxMjLyqqxRylWgotXHA"

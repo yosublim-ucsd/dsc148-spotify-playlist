@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0?si=2m1OIjRLRFa0tE28uktFTw">Letta Mbulu</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx">Kyle Shepherd Trio</a>
 
-236 songs - 1 day 1 hr 8 min
+237 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Sunset \(in California\)](https://open.spotify.com/track/0y95rXE4TENI9ib8tSpCG3) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1rAdOOiYLU1OX01OsPnmpy) | 5:51 | 2023-10-27 | 2023-11-20 |
 | [Sunset \(in California\)](https://open.spotify.com/track/18imU79HqM0KmVm7bc1Z9H) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1fwsX07wjOpKqx3yWpjIMN) | 5:51 | 2024-04-11 | 2024-06-01 |
 | [Sunset \(in California\)](https://open.spotify.com/track/4TtGgEvZmvelHF4hvUStfi) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 5:51 | 2023-11-16 | 2024-04-19 |
+| [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 | 2024-11-21 |  |
 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 | 2023-11-23 |  |
 | [The Balance](https://open.spotify.com/track/5RGk7OKbDQEjSwtTYZxtxJ) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 3:04 | 2022-04-28 | 2023-07-07 |
 | [The Ben\-Dhlamini Stomp](https://open.spotify.com/track/1l4HECJVkUC6SPyGXp9mJP) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [The Ben\-Dhlamini Stomp](https://open.spotify.com/album/2X9oJX8nIdhwKoCHPZ6n1W) | 5:18 | 2023-05-12 | 2023-08-26 |

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 119832,
+  "num_followers": 119891,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Good Luck Babe",
-        "url": "https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 193868,
-      "name": "Good Luck Babe",
-      "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
         "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 233400,
       "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Good Luck Babe",
+        "url": "https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 193868,
+      "name": "Good Luck Babe",
+      "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        },
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 233414,
-      "name": "Girl from the North Country - (Hot Country Artists to Watch) - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Take Me Home (feat. Sugarland)",
         "url": "https://open.spotify.com/album/5ok0rVro7SFihfF73FPdm8"
       },
@@ -1343,18 +1323,38 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        },
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+      "duration_ms": 233414,
+      "name": "Girl from the North Country - (Hot Country Artists to Watch) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1375,18 +1375,34 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
       },
       "artists": [
         {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 204760,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Just to See You Smile",
-        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 269525,
-      "name": "Just to See You Smile",
-      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 276116,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Just to See You Smile",
+        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "Just to See You Smile",
+      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Feathered Indians",
-        "url": "https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL"
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV"
+      "duration_ms": 171320,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Feathered Indians",
+        "url": "https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV"
     },
     {
       "added_at": "2024-11-15 05:00:00",

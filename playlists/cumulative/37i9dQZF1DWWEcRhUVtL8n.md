@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: mxmtoon
 
-2,001 songs - 4 day 9 hr 49 min
+2,003 songs - 4 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [cheap flowers](https://open.spotify.com/track/6NsU8OFGg51u3nMKmb7Old) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [a teenage diary](https://open.spotify.com/album/1e8SCLzmt8yJUi831rSfha) | 3:26 | 2021-10-13 | 2021-10-14 |
 | [Check In](https://open.spotify.com/track/2NrFcgdrWRptgX8Ai9BciK) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Check In](https://open.spotify.com/album/5TcPDctDTpfHF9URMoISKd) | 3:45 | 2020-10-13\* | 2020-11-13 |
 | [Cheer Captain](https://open.spotify.com/track/1rW9uae4EZuui4vARG2IyI) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Cheer Captain](https://open.spotify.com/album/1o7tDvg8UBCf4Fzu1G6egP) | 3:00 | 2021-05-06 | 2021-11-11 |
-| [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 |  |
+| [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 | 2024-11-22 |
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2020-12-12 | 2021-05-30 |
 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 | 2021-06-03 | 2021-10-16 |
 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-05 | 2024-11-19 |
@@ -1089,6 +1089,7 @@
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-04 |  |
 | [Love / Lover / Friend](https://open.spotify.com/track/3GU9knCMGMb7ZaylfVBdKi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Love / Lover / Friend](https://open.spotify.com/album/3okMe9vhlmt1YLKDVybYGg) | 4:01 | 2023-03-25 | 2023-04-01 |
 | [Love Affair](https://open.spotify.com/track/7hwtROpIHwUU6Y3xMbjIpo) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Love Affair](https://open.spotify.com/album/07Ul3QShP5GIbti5SMxYgQ) | 3:02 | 2024-10-18 | 2024-11-14 |
+| [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-15 |  |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-03 | 2024-07-17 |
 | [Love In Reverse \(with Empress Of\)](https://open.spotify.com/track/0QTTMcQe6gw0rE6r23uswv) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Love In Reverse \(with Empress Of\)](https://open.spotify.com/album/6jo3oLswJYFRmDhYZ4dr9H) | 3:29 | 2021-05-05 | 2021-05-27 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2020-10-13\* | 2021-02-26 |
@@ -1288,6 +1289,7 @@
 | [Number 1](https://open.spotify.com/track/7A6K76Ep7yjHtNmRnOQcHj) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Number 1](https://open.spotify.com/album/5g0eWYTDlGrdX3lyyIETlG) | 3:46 | 2021-02-22 | 2021-03-18 |
 | [Obsessed \(Demo\)](https://open.spotify.com/track/6Hzp6CZ47onhS27yUepksV) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Obsessed \(Demo\)](https://open.spotify.com/album/585FbTBKq8HAaW7MmOQou0) | 2:25 | 2022-09-09 | 2022-09-24 |
 | [Obvious Guy](https://open.spotify.com/track/17Ro4GWa40Llz2VOEG5EtR) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Things I Thought Were Mine](https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq) | 3:21 | 2021-02-23 | 2021-03-23 |
+| [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 | 2024-11-15 |  |
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-13 | 2021-02-28 |
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-06-03 | 2021-09-02 |
 | [Oceansize](https://open.spotify.com/track/3F3F2UtIm9wDUq6uPt42Jx) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/1bb0l92MxpV8hzI1xSomcS) | 3:43 | 2020-10-20 | 2021-06-03 |
@@ -1783,7 +1785,7 @@
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-06-07 | 2022-07-23 |
 | [the lifeboat's empty!](https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [the lifeboat's empty!](https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF) | 2:54 | 2022-01-28 | 2022-08-06 |
 | [The Love I Need](https://open.spotify.com/track/06vtJ5s10B4WxAVxbRZ6M7) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [The Love I Need](https://open.spotify.com/album/7wACpLyV6EOhy8go1jDSg3) | 3:23 | 2021-03-07 | 2021-05-26 |
-| [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 |  |
+| [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 | 2024-11-22 |
 | [The Magician](https://open.spotify.com/track/1MA0Brb5DfaovmyTVNP7Jt) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [The Magician](https://open.spotify.com/album/54YSU1rpwZiIopfoW054zN) | 3:38 | 2020-10-20 | 2020-10-21 |
 | [The Middle of Nowhere](https://open.spotify.com/track/6j9cbCHQgQeQMlSngzaggO) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Middle of Nowhere](https://open.spotify.com/album/0C1xbHunjBjfnBZIo9N54b) | 2:48 | 2022-02-25 | 2022-04-19 |
 | [the movies](https://open.spotify.com/track/4RR9tI04ScTvVBCVTyTzhy) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [the movies](https://open.spotify.com/album/5lMbbv5F6eayTK3Fw1x4lZ) | 2:58 | 2020-10-20 | 2020-10-21 |

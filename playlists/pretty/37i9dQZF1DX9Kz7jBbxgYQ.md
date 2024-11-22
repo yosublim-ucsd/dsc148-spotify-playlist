@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,964 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,073 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 98 | [Zaroori Hai](https://open.spotify.com/track/5jFwxhVtOnEU4U6aUM1JnR) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR), [Mohsin Raza Shah](https://open.spotify.com/artist/21iESpk5OYSSJiuH3e7Z2Z) | [Zaroori Hai](https://open.spotify.com/album/4QaDYp8zCslfKI0ljs3oND) | 4:18 |
 | 99 | [okay](https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [okay](https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ) | 2:41 |
 
-Snapshot ID: `Zy35EAAAAAD8v7op4Y5d/Bt31QRlZQnw`
+Snapshot ID: `Zz6+dwAAAACyn74CEU97c80iXk0hOSbs`

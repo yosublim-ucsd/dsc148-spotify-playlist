@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 28319,
+  "num_followers": 28322,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAABWjT6/QAwIdyi23DtBjQ5o",
+  "snapshot_id": "Zz0mgAAAAADN4c+lbbcClRQV4zC29M2y",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Ain't Seen Love Like That - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actual Size",
         "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 222933,
       "name": "Arrow",
       "url": "https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Ain't Seen Love Like That - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Strike Like Lightning - Remastered",
-      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 253266,
       "name": "CDFF-Lucky This Time - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning - Remastered",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 252520,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
+      "duration_ms": 175840,
+      "name": "Damn I'm In Love Again",
+      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 175840,
-      "name": "Damn I'm In Love Again",
-      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+      "duration_ms": 252520,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "My Kinda Woman - 2021 Remastered",
-      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big [Expanded]",
         "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 247093,
-      "name": "Voodoo Kiss - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+      "duration_ms": 252533,
+      "name": "My Kinda Woman - 2021 Remastered",
+      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 318093,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/52izQkzBnqAIL0TnJ4ygEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Voodoo Kiss - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "As Far As I Can See",
+      "url": "https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 198470,
       "name": "What Were You Thinking",
       "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "As Far As I Can See",
-      "url": "https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf"
     }
   ],
   "unique_name": "This Is Mr. Big",

@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Anji, Fiersa Besari
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Budi Doremi, Anggi Marito
 
-271 songs - 17 hr 53 min
+274 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 | 2024-01-26 | 2024-05-03 |
 | [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 | 2024-06-27 | 2024-08-16 |
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-05-16 | 2024-09-06 |
+| [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 | 2024-11-21 |  |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-07-18 |  |
 | [Apalah \(Arti Menunggu\) \- Live At Stadion Utama Gelora Bung Karno](https://open.spotify.com/track/4VyT9CN8QoUULVxblagl0T) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Live At Stadion Utama Gelora Bung Karno](https://open.spotify.com/album/2Sl6A2Vvjcz1KilzejllBq) | 5:19 | 2024-10-03 | 2024-11-15 |
 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2024-01-26 | 2024-03-22 |
@@ -61,6 +62,7 @@
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2024-01-26 | 2024-03-22 |
 | [Cinta Aku Bisa Apa](https://open.spotify.com/track/4nJoJe7PspYQMpqYch5ADK) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Cinta Aku Bisa Apa](https://open.spotify.com/album/3AY29eYIsUotH4rFjzds3R) | 4:03 | 2024-01-26 | 2024-02-09 |
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-11-15 |  |
+| [Crown](https://open.spotify.com/track/1zMB9Lc5euKQWMUjPHghcv) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Evolve](https://open.spotify.com/album/6MtNCqErxlSmfuGiEuTwpj) | 2:56 | 2024-11-21 |  |
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-01-26 | 2024-03-22 |
 | [Dari planet lain](https://open.spotify.com/track/70tp7UndgN0dLcAklTIrPJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Dari planet lain](https://open.spotify.com/album/6hsolRPGQKyTBCRTT30zSn) | 2:49 | 2024-03-07 |  |
 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 | 2024-06-13 |  |
@@ -108,6 +110,7 @@
 | [Jangan Lupa Pulang \- Live at Aquarius Studio](https://open.spotify.com/track/25UXwOFQbSagKZfFEq6tlt) | [POTRET](https://open.spotify.com/artist/5E0ZEllVLvhodbjpK5k9s1) | [Jangan Lupa Pulang \(Live at Aquarius Studio\)](https://open.spotify.com/album/4sitdgmK4736e8SGpmdJfX) | 3:17 | 2024-10-03 |  |
 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 | 2024-06-20 |  |
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2024-06-27 |  |
+| [Jauh Di Sana \- Bahasa Indonesia Single Version](https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Jauh Di Sana](https://open.spotify.com/album/08m4YF54Szt1txE3yOJ5bw) | 3:16 | 2024-11-21 |  |
 | [Jika Nanti](https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Jika Nanti](https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt) | 3:42 | 2024-05-23 | 2024-07-05 |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2024-01-26 | 2024-03-22 |
 | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/album/4RKTztO3kvduH6VYaUlT2p) | 4:30 | 2024-04-11 | 2024-06-07 |

@@ -1,13 +1,41 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=tONXoEx0QYmhyBszhMMhvw\">Zee Nxumalo</a>",
-  "num_followers": 903062,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq?si=_S6151ZwQC6uCN003oYmtw\">Sam Deep</a>",
+  "num_followers": 903936,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzsLVQAAAAB3CQGmT+Nygf3+vn4fpgYm",
+  "snapshot_id": "Zz+tYAAAAAC2QuL9S4S1fzolQXSPBWQl",
   "tracks": [
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Hit Factory",
+        "url": "https://open.spotify.com/album/02xqlv14S1HkKwfVcyVKwA"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Zuma",
+          "url": "https://open.spotify.com/artist/5oEGngZTsEKSaImCUNERCR"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "The Bless",
+          "url": "https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5"
+        }
+      ],
+      "duration_ms": 406117,
+      "name": "Walala Wasala",
+      "url": "https://open.spotify.com/track/3onnz3CntBG38zD7OulQ92"
+    },
     {
       "added_at": "2024-11-15 07:46:03",
       "album": {
@@ -251,6 +279,42 @@
       "duration_ms": 445714,
       "name": "Amakhehla",
       "url": "https://open.spotify.com/track/6EWRZhhROT1oWZXgZHmEoK"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "As'jike",
+        "url": "https://open.spotify.com/album/7lnjo6qLObGXrvj9BuC0Bm"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Buddy Kay",
+          "url": "https://open.spotify.com/artist/3nS7nq6efjZOqMPpo6Kg1m"
+        },
+        {
+          "name": "W4DE",
+          "url": "https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi"
+        },
+        {
+          "name": "Danny Shades",
+          "url": "https://open.spotify.com/artist/7sKc0q7WqIutlWtQQhr6mO"
+        }
+      ],
+      "duration_ms": 298124,
+      "name": "As'jike",
+      "url": "https://open.spotify.com/track/6eiCESHGZODg0zfMpA1BuO"
     },
     {
       "added_at": "2024-11-15 07:46:03",
@@ -1899,38 +1963,6 @@
       "duration_ms": 345597,
       "name": "Cishe Nga Posta",
       "url": "https://open.spotify.com/track/32BO8PBNFVDWh2Fwzs4izZ"
-    },
-    {
-      "added_at": "2024-11-15 07:46:03",
-      "album": {
-        "name": "Shawara (feat. Exclusive Baddies & Sly)",
-        "url": "https://open.spotify.com/album/6LheuBb3UxPfyQyt3y7j9L"
-      },
-      "artists": [
-        {
-          "name": "Masterpiece YVK",
-          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Tsitso",
-          "url": "https://open.spotify.com/artist/4MZhnfnkOfPS0orwLqyP2L"
-        },
-        {
-          "name": "Exclusive Baddies",
-          "url": "https://open.spotify.com/artist/1JjD4bRpOPspuwhYrg7GfU"
-        },
-        {
-          "name": "Sly",
-          "url": "https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi"
-        }
-      ],
-      "duration_ms": 307964,
-      "name": "Shawara (feat. Exclusive Baddies & Sly)",
-      "url": "https://open.spotify.com/track/4ObkC5ynTjoqdNvBYnUjso"
     },
     {
       "added_at": "2024-11-15 07:46:03",

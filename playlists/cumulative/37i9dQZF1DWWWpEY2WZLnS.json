@@ -801,6 +801,32 @@
     },
     {
       "album": {
+        "name": "Bombon",
+        "url": "https://open.spotify.com/album/6ozhw89PnfdkAI1dIMkemr"
+      },
+      "artists": [
+        {
+          "name": "Karina y Marina",
+          "url": "https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe"
+        },
+        {
+          "name": "Hugo23",
+          "url": "https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ"
+        },
+        {
+          "name": "Sennior",
+          "url": "https://open.spotify.com/artist/7CJhPRV8canYfr5Ua9EqbQ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167520,
+      "name": "Bombon",
+      "url": "https://open.spotify.com/track/5mevdrlo64Lm6RGRa5VCFq"
+    },
+    {
+      "album": {
         "name": "Boy Boy",
         "url": "https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX"
       },
@@ -7142,7 +7168,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 145344,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,402 likes - 51 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,412 likes - 51 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 26 | [Lion and the Lamb \(Live\)](https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 4:40 |
 | 27 | [Ever Be](https://open.spotify.com/track/1qmvkIBa44LfKKLAoHbKI3) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 5:22 |
 | 28 | [Egypt \(Live\)](https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:22 |
-| 29 | [You Make Me Brave \(Live\)](https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 6:06 |
-| 30 | [Tend](https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 4:53 |
+| 29 | [Tend](https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 4:53 |
+| 30 | [You Make Me Brave \(Live\)](https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 6:06 |
 | 31 | [No One Like The Lord \(Live\)](https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [No One Like The Lord \(Live\)](https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0) | 8:20 |
 | 32 | [Reign Above It All \(Live\)](https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 5:47 |
 | 33 | [Made For More \- Live](https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Made For More](https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV) | 6:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 50 | [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 |
 | 51 | [This Is Amazing Grace](https://open.spotify.com/track/6ypvZnpX4w9B1VdgmjlhjS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 7:32 |
 
-Snapshot ID: `ZzvVAAAAAABHDJ5bxtnbiw+Yk5TNrzMZ`
+Snapshot ID: `Zz0mgAAAAACJiPh2YZ/PfuJtaoaeY4tg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con PARDOPARDO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,811 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,806 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 24 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 |
 | 25 | [\(sola\)](https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(sola\)](https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4) | 2:28 |
 | 26 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 |
-| 27 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 |
-| 28 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
+| 27 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
+| 28 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 |
 | 29 | [Destrucción \- Remix](https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Destrucción \(Remix\)](https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM) | 3:20 |
 | 30 | [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 |
-| 31 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
-| 32 | [Hablas](https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Hablas](https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm) | 2:36 |
+| 31 | [Hablas](https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Hablas](https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm) | 2:36 |
+| 32 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
 | 33 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 |
 | 34 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 |
 | 35 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 55 | [something bout u](https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [something bout u](https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2) | 2:51 |
 | 56 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 | 57 | [Asuntillo](https://open.spotify.com/track/3S6R6gGy81gwNrxxZNFtu0) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE) | [Asuntillo](https://open.spotify.com/album/75vsYMloY3bdhjUOMxBEfU) | 2:31 |
-| 58 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 |
+| 58 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
 | 59 | [Caster y Roxy](https://open.spotify.com/track/5pNvENxRsxYLYXS23JL6xt) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Caster y Roxy](https://open.spotify.com/album/0J2rAAqOV88hnIPBda79m7) | 4:10 |
-| 60 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
+| 60 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 |
 | 61 | [HAT TRICK](https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [YASS](https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy) | 3:05 |
 | 62 | [Opciones](https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Opciones](https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB) | 3:33 |
 | 63 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 70 | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [KIKI](https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp) | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz) | 2:21 |
 | 71 | [La Piscina](https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Piscina](https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD) | 3:23 |
 | 72 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
-| 73 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
-| 74 | [SINSE](https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [SINSE](https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4) | 4:00 |
+| 73 | [SINSE](https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [SINSE](https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4) | 4:00 |
+| 74 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
 | 75 | [UN PORRITO](https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [UN PORRITO](https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v) | 3:24 |
 
 Snapshot ID: `ZzbVUAAAAACePmbqnHWPVw5z7mqVYlLL`

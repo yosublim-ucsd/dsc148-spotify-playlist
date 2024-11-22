@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,127 likes - 69 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,202 likes - 69 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 65 | [IiMuRoYa\-$.feat 3rd\-Mov.：HEiW@→KiZUN@](https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 4:12 |
 | 66 | [Kakusei Shinn Asuka](https://open.spotify.com/track/1WNJIa7BzKD6G9v3UR9JJZ) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu) | 1:49 |
 | 67 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
-| 68 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
+| 68 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK２](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 | 69 | [Battle! \(Gym Leader Drayden\)](https://open.spotify.com/track/1c1MxMmlEx79C2q2hx5II0) | [Kunning Fox](https://open.spotify.com/artist/3RghLagVWsyJ69agzOVeDn) | [Back To Unova 2, Vol\. IV \(Music From "Pokémon Black 2 & White 2"\)](https://open.spotify.com/album/7d4AsqdnFBHShIwfMuMNUR) | 2:55 |
 
 Snapshot ID: `Zzc/oQAAAAB2OhNRemBWYBtKHcSikDV/`

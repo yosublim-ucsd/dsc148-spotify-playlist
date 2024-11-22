@@ -2069,6 +2069,36 @@
     },
     {
       "album": {
+        "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Pandit",
+          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
+        },
+        {
+          "name": "Swaroop Khan",
+          "url": "https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC"
+        },
+        {
+          "name": "Poorvi Koutish",
+          "url": "https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217273,
+      "name": "Hichki 2.0",
+      "url": "https://open.spotify.com/track/6PDO72KzSXuiVZAZSOdSng"
+    },
+    {
+      "album": {
         "name": "Hone Do Jo Hota Hai (From \"Kho Gaye Hum Kahan\")",
         "url": "https://open.spotify.com/album/3Z3wKPbR3e1CAeriMuMpzF"
       },
@@ -2126,7 +2156,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 183080,
       "name": "Honey Bunny (From \"Citadel Honey Bunny\")",
       "url": "https://open.spotify.com/track/18eU5q03aArHVGLTVECP8M"

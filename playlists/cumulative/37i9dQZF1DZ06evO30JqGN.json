@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Heart Of A Woman (Quiet Storm)",
+        "url": "https://open.spotify.com/album/7rgxMRroUARAglXoawJZUW"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178076,
+      "name": "Heart Of A Woman - but you\u2019re drinking wine by the fire",
+      "url": "https://open.spotify.com/track/5tgcQo41EP1ra2XLT89QKv"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 340492,
+  "num_followers": 340677,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAAGxgWJcLJ9WsVPnZWN7+L+",
+  "snapshot_id": "Zz0mgAAAAACxAa9ADpZFpFhKa30ts3lZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 299381,
       "name": "Un Scar",
       "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Apodan El Fresa",
+        "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Le Apodan El Fresa",
+      "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
     },
     {
       "added_at": null,

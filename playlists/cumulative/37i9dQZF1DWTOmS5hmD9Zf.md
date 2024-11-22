@@ -136,7 +136,7 @@
 | [X's Always Win](https://open.spotify.com/track/03hxaUAf83scNaIqaGcsVo) | [Carry On](https://open.spotify.com/artist/1FRCx5AbEsSUFl0TZUwo3D) | [A Life Less Plagued](https://open.spotify.com/album/20Rl6ee4nFMj4P1TkdXTuY) | 0:53 | 2021-07-09 |  |
 | [You're the Only One](https://open.spotify.com/track/3scPnSveVzJhaK84HhMPgH) | [Chokehold](https://open.spotify.com/artist/10ZSIiveIdI41LlO6HVZS1) | [Content with Dying](https://open.spotify.com/album/7C185CPyHoTAGEJp6fLw7m) | 2:20 | 2021-07-09 |  |
 | [You're X'd](https://open.spotify.com/track/1BKVFem2XrUGBnpaoI0ITj) | [Faith](https://open.spotify.com/artist/2YnmJvwVrjYrjCs6v3BUr2) | [Side A](https://open.spotify.com/album/0q6dcjVgbQ3lTPsZY3gKjU) | 1:05 | 2021-07-09 | 2024-04-19 |
-| [You're X'd](https://open.spotify.com/track/4cOYHZ1zFViyDSY8R9hvxg) | [The Faith](https://open.spotify.com/artist/3su2IgaxD1B1RqaK5a6GFw) | [Side A](https://open.spotify.com/album/7q5KsjzwLinFkYJ6u06vPR) | 1:05 | 2021-07-09 |  |
+| [You're X'd](https://open.spotify.com/track/4cOYHZ1zFViyDSY8R9hvxg) | [Faith](https://open.spotify.com/artist/0iD89lpIY7iTrlwzhTnEvL) | [Side A](https://open.spotify.com/album/7q5KsjzwLinFkYJ6u06vPR) | 1:05 | 2021-07-09 |  |
 | [You've Lost It](https://open.spotify.com/track/3zSpXUfLr0UBMwPYtLlSLB) | [Slapshot](https://open.spotify.com/artist/6sBw8Lm18Aj4Zd4dVzM9WU) | [Step On It](https://open.spotify.com/album/5JTpdzYJd9QJbzWCZu78uE) | 1:55 | 2021-07-09 |  |
 | [Youth Crew](https://open.spotify.com/track/3pU0zhuy1zrJKSZSCMxpaS) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Can't Close My Eyes](https://open.spotify.com/album/1jIewpVSOM4Z0WNk3fnfie) | 2:33 | 2021-07-09 |  |
 

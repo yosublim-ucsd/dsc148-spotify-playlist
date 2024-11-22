@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 170461,
+  "num_followers": 170478,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAB+pu6dpZMCf+ILJgY10v6X",
+  "snapshot_id": "Zz0mgAAAAABHn43EvtAxN/dE0fgrqI3n",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELYTE",
-        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+        "name": "MySpace (feat. Wisin & Yandel)",
+        "url": "https://open.spotify.com/album/4vvNbAjriwU8VLfLx2rqos"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         },
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 175523,
-      "name": "REGGAETON MALANDRO",
-      "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
+      "duration_ms": 221179,
+      "name": "MySpace (feat. Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/6uoOKr3dxk9GVIhmJyQPMh"
     },
     {
       "added_at": null,
@@ -411,26 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MySpace (feat. Wisin & Yandel)",
-        "url": "https://open.spotify.com/album/4vvNbAjriwU8VLfLx2rqos"
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 221179,
-      "name": "MySpace (feat. Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/6uoOKr3dxk9GVIhmJyQPMh"
+      "duration_ms": 175523,
+      "name": "REGGAETON MALANDRO",
+      "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 185326,
-      "name": "P\u00d3LVORA",
-      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 185326,
+      "name": "P\u00d3LVORA",
+      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ELYTE",
         "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 184490,
       "name": "OLD SCHOOL",
       "url": "https://open.spotify.com/track/0Co6ZxLNjZIRGZecT0elyH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "De Negro",
-      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
       "duration_ms": 270760,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/436EpHvGoKO3DgaSeD9lW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "De Negro",
+      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GANGSTER (PQFNEDG)",
         "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 215470,
       "name": "GANGSTER (PQFNEDG)",
       "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Te Suelto el Pelo",
-      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRO",
-        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "AFRO",
-      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desperte Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti - Remix",
       "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRO",
+        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "AFRO",
+      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
     },
     {
       "added_at": null,
@@ -1139,8 +1139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
       "artists": [
         {
@@ -1148,13 +1148,13 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Cuando Te Toca",
-      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     }
   ],
   "unique_name": "This Is Yandel",

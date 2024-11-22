@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "CHICA BUENA",
+        "url": "https://open.spotify.com/album/16S3aQ7fWdkJdbLpQopqRy"
+      },
+      "artists": [
+        {
+          "name": "Ohl Boga",
+          "url": "https://open.spotify.com/artist/43Pu5SXw5ttytggsrWaA1x"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CHICA BUENA",
+      "url": "https://open.spotify.com/track/1I84KvSqQ4R1e80AV8qLGw"
+    },
+    {
+      "album": {
         "name": "DIARY OF A DEAD MAN",
         "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
       },

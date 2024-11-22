@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,662 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,681 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let You Go](https://open.spotify.com/track/7oyX4JZ9uLbopRhD7NR1fi) | [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl), [BLVCK VIØLET](https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b) | [Let You Go](https://open.spotify.com/album/3qTg1vpgbcb9tsNIEr0LsC) | 2:20 |
-| 2 | [A Part of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 |
-| 3 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
-| 4 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
-| 5 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 |
-| 6 | [Greedy](https://open.spotify.com/track/7lxjMD40JXRFRjMSSVHKDU) | [Bleu Azur](https://open.spotify.com/artist/69SHFHJTBiVIDW8h6ATrnk), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [Greedy](https://open.spotify.com/album/6Iwl9nMLzHxvCMcCaSbje5) | 2:22 |
+| 1 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
+| 2 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
+| 3 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 |
+| 4 | [Greedy](https://open.spotify.com/track/7lxjMD40JXRFRjMSSVHKDU) | [Bleu Azur](https://open.spotify.com/artist/69SHFHJTBiVIDW8h6ATrnk), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [Greedy](https://open.spotify.com/album/6Iwl9nMLzHxvCMcCaSbje5) | 2:22 |
+| 5 | [A Part of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 |
+| 6 | [Let You Go](https://open.spotify.com/track/7oyX4JZ9uLbopRhD7NR1fi) | [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl), [BLVCK VIØLET](https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b) | [Let You Go](https://open.spotify.com/album/3qTg1vpgbcb9tsNIEr0LsC) | 2:20 |
 | 7 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 8 | [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:50 |
 | 9 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
@@ -66,8 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 56 | [Better Days](https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Better Days](https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd) | 3:03 |
 | 57 | [Wicked Games \- Radio Edit](https://open.spotify.com/track/3AchVMlCSZhA3hMKkG7Kpe) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Wicked Games](https://open.spotify.com/album/6uzOfYRbgUn91q4aRRAH1u) | 3:15 |
 | 58 | [Show Me](https://open.spotify.com/track/1esdfUNTx48Knns9wG9aDl) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [KOSE](https://open.spotify.com/artist/1HSGRJxw8jvT82cfO1ye0q) | [Show Me](https://open.spotify.com/album/7EhmVD2B6kOvTQ2xOl7SJP) | 2:54 |
-| 59 | [Wish You Well](https://open.spotify.com/track/007grkEd7bTnPSQILkslCZ) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [doVicente](https://open.spotify.com/artist/3LZegs6tK4WeVei1K0WaNU) | [Wish You Well](https://open.spotify.com/album/3cSoAAG3sON0XcwTV3gAIn) | 2:35 |
-| 60 | [hello](https://open.spotify.com/track/2TWUe5nUlFPlpAz1wa2xgC) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [hello](https://open.spotify.com/album/5W3f79N5K3AXzCOOlfdoCa) | 2:22 |
-| 61 | [Better Off Now](https://open.spotify.com/track/7HOOFer1UZu24NIDGFGO6Y) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Better Off Now](https://open.spotify.com/album/6a7VO8U5x4Gjya0hoDiBCa) | 2:41 |
+| 59 | [hello](https://open.spotify.com/track/2TWUe5nUlFPlpAz1wa2xgC) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [hello](https://open.spotify.com/album/5W3f79N5K3AXzCOOlfdoCa) | 2:22 |
+| 60 | [Better Off Now](https://open.spotify.com/track/7HOOFer1UZu24NIDGFGO6Y) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Better Off Now](https://open.spotify.com/album/6a7VO8U5x4Gjya0hoDiBCa) | 2:41 |
 
-Snapshot ID: `ZxvbpgAAAADi9J2amNfbIdkNAw1OzYhs`
+Snapshot ID: `Zz+7cAAAAAAfyr5uGwfwUc0rPwAe2pEv`

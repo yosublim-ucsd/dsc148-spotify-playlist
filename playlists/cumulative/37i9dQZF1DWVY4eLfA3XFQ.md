@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Catz 'n Dogz 🐈‍⬛ 🐩 50% techno, 50% house
 
-1,840 songs - 4 day 6 hr 24 min
+1,841 songs - 4 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Connected](https://open.spotify.com/track/56ChzyUJ7FrIsToNQaJi7i) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Connected](https://open.spotify.com/album/5ybyy1avjgzWjCg8oaMGG3) | 4:00 | 2023-10-27 | 2024-01-27 |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2023-01-03 | 2023-01-06 |
 | [Control](https://open.spotify.com/track/5XpTjQLyd94CPDk7RiLCKx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Stimulate](https://open.spotify.com/album/6HXJjUKTpltXMGgVidh1bB) | 5:54 | 2022-05-13 | 2022-06-04 |
+| [Control It](https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Control It](https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca) | 3:16 | 2024-06-07 |  |
 | [COPY ME](https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2), [Anne Futagami](https://open.spotify.com/artist/30o8SxkhhVXJbqfuz8stn7) | [COPY ME](https://open.spotify.com/album/05vj36c9zDX5pDwmEn7DPe) | 4:27 | 2024-09-20 | 2024-10-12 |
 | [Coquetilla](https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Coquetilla](https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc) | 2:09 | 2024-04-19 | 2024-04-27 |
 | [Corazon](https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Corazon](https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99) | 2:47 | 2024-03-15 | 2024-03-30 |
@@ -739,7 +740,7 @@
 | [HYPNOTIC DATA 2.0](https://open.spotify.com/track/2s6buObPT1xq2YezWxGupD) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [HYPNOTIC DATA 2.0](https://open.spotify.com/album/0FcmlZCpJVAYjPvngD36mN) | 3:09 | 2024-02-16 | 2024-06-08 |
 | [Háblame](https://open.spotify.com/track/6BStdQiI7I5uZcnw68Y4y1) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Háblame](https://open.spotify.com/album/5ofQwqKX6QCaESLffYW7FT) | 3:27 | 2022-10-14 | 2023-01-28 |
 | [I Am The One](https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [I Am The One](https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9) | 3:20 | 2024-03-22 | 2024-10-05 |
-| [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2023-12-08 |  |
+| [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2023-12-08 | 2024-11-22 |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-05-20 | 2022-08-27 |
 | [I Don't Care](https://open.spotify.com/track/7BXqCv3Y940NFSFJv19ywn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Don't Care](https://open.spotify.com/album/6zoxovlr2YLSPz6wFYQixI) | 2:59 | 2021-11-26 | 2022-01-06 |
 | [I Don't Remember](https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [I Don't Remember](https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8) | 3:15 | 2024-01-19 | 2024-07-27 |

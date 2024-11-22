@@ -1,6 +1,6 @@
 {
   "description": "This is Raveena. The essential tracks, all in one playlist.",
-  "num_followers": 6061,
+  "num_followers": 6069,
   "original_name": "This Is Raveena",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way That Lovers Do (Deluxe)",
-        "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
+        "name": "I Won't Mind",
+        "url": "https://open.spotify.com/album/76dsmfCx3V5tZDhwVJlqPe"
       },
       "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        },
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 221005,
-      "name": "Bloom (feat. Raveena)",
-      "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
+      "duration_ms": 216000,
+      "name": "I Won't Mind",
+      "url": "https://open.spotify.com/track/0lKwPr2j62cLlhvoLA2VHd"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Mind",
-        "url": "https://open.spotify.com/album/76dsmfCx3V5tZDhwVJlqPe"
+        "name": "The Way That Lovers Do (Deluxe)",
+        "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
       },
       "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 216000,
-      "name": "I Won't Mind",
-      "url": "https://open.spotify.com/track/0lKwPr2j62cLlhvoLA2VHd"
+      "duration_ms": 221005,
+      "name": "Bloom (feat. Raveena)",
+      "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 147640,
-      "name": "Kathy Left 4 Kathmandu",
-      "url": "https://open.spotify.com/track/3yOaX3XEVAnTIyUHagBJvj"
+      "duration_ms": 167320,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3oSsklj0Q1zDzJbV8iXtDL"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3oSsklj0Q1zDzJbV8iXtDL"
+      "duration_ms": 147640,
+      "name": "Kathy Left 4 Kathmandu",
+      "url": "https://open.spotify.com/track/3yOaX3XEVAnTIyUHagBJvj"
     },
     {
       "added_at": null,

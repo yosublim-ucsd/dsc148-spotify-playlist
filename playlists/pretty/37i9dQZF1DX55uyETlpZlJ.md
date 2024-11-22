@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde,  Sonu Nigam
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,810 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,821 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 5 | [Manasaagide](https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2), [Abhishek Bangera](https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D) | [Manasaagide](https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO) | 2:38 |
 | 6 | [Preethiya Geleyane](https://open.spotify.com/track/0yU8PWvIvn7jo01WpyzB7x) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ) | [Preethiya Geleyane](https://open.spotify.com/album/6476ZX7SPEpEG7cIOFQCRi) | 3:57 |
 | 7 | [Paycheck](https://open.spotify.com/track/3OsgYlV2mZgIdx5dka54gw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Paycheck](https://open.spotify.com/album/2xZCXw6siAqGPVc5JyJawy) | 2:55 |
-| 8 | [OAT Tintira](https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T) | [Dhaivat](https://open.spotify.com/artist/6VkfEYqTuG9pAAbwhEi9Pi) | [OAT Tintira](https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3) | 3:27 |
+| 8 | [OAT Tintira](https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T) | [Dhaivat](https://open.spotify.com/artist/5g10TzJGCNyh2pcaeaQolx) | [OAT Tintira](https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3) | 3:27 |
 | 9 | [Badalayitu Nana Jeevana](https://open.spotify.com/track/0nboNl2iACFwUTM1H5HVIU) | [Fayaz Kushtagi](https://open.spotify.com/artist/5uoUEYCRBbVh8eCyvjYbMK) | [Kanmareyadalu](https://open.spotify.com/album/1u1h6Q8EN5LKjMtpre0jQt) | 4:32 |
 | 10 | [Baadal](https://open.spotify.com/track/5Qp2Ke3Khb0sEnbCHCOjfa) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Sunjuice](https://open.spotify.com/album/3PDKQGvu0U5ibKqVGIQmQq) | 4:14 |
 | 11 | [Nanna Tumba Neene](https://open.spotify.com/track/6kOL7AlmbPX1uGI6jG2QqL) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL) | [Nanna Tumba Neene](https://open.spotify.com/album/192TmSQNJFZ4lUn3ekOb9w) | 3:28 |

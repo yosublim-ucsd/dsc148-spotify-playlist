@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -3983,6 +3983,40 @@
     },
     {
       "album": {
+        "name": "Defying Gravity: Songs from Wicked",
+        "url": "https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353920,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/1fsBDvL77kDOixZ8Lw9cjZ"
+    },
+    {
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
       },
@@ -4010,7 +4044,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
@@ -5271,6 +5305,40 @@
     },
     {
       "album": {
+        "name": "Defying Gravity: Songs from Wicked",
+        "url": "https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306893,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/0Mjasw7CGUJT6ByJa6pkbx"
+    },
+    {
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
       },
@@ -5298,7 +5366,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 306893,
       "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/46UIRyvRZx9TW5Y5jz13Y8"
@@ -8592,10 +8660,28 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
+    },
+    {
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif"
     },
     {
       "album": {
@@ -8668,7 +8754,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
@@ -8686,7 +8772,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3rZwj7e7m61R5e9Tn3YTFa"
@@ -9146,7 +9232,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
@@ -12893,6 +12979,36 @@
     },
     {
       "album": {
+        "name": "Defying Gravity: Songs from Wicked",
+        "url": "https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/5NBpDX62vXcqn9qPphrdWh"
+    },
+    {
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
       },
@@ -12916,7 +13032,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 224386,
       "name": "Popular - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/5z46NBsndcpz5sdywfdqul"
@@ -13854,6 +13970,24 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/0NOoxng1ibMGJQmSqr0uT3"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307325,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/7h7dOssdchfLK9GQ2NQBOT"
     },
     {
       "album": {
@@ -15760,7 +15894,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -18031,6 +18165,40 @@
     },
     {
       "album": {
+        "name": "Defying Gravity: Songs from Wicked",
+        "url": "https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "What Is This Feeling?",
+      "url": "https://open.spotify.com/track/44ZonTtw6QLy6MqIRxVT21"
+    },
+    {
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
       },
@@ -18058,7 +18226,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 212226,
       "name": "What Is This Feeling? - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/1WitAaRV8SMreQaNLcBjdQ"
@@ -19025,7 +19193,7 @@
     },
     {
       "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke (Opening Theme to DAN DA DAN)",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
       },
       "artists": [
@@ -19038,7 +19206,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     }
   ],

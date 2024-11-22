@@ -10885,6 +10885,28 @@
     },
     {
       "album": {
+        "name": "Diana (with Hamza)",
+        "url": "https://open.spotify.com/album/3A3EDLMrcdMWWsv2AcGgEf"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249115,
+      "name": "Diana (with Hamza)",
+      "url": "https://open.spotify.com/track/2c3MBL8fpnhzBGHFJWQ8yU"
+    },
+    {
+      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -12052,10 +12074,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 248000,
       "name": "EL GEMANO",
       "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
+    },
+    {
+      "album": {
+        "name": "BOUNCE MUSIC : SAISON 2",
+        "url": "https://open.spotify.com/album/6zkrs0rjrDKIUbs05RrQoG"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "EL GEMANO",
+      "url": "https://open.spotify.com/track/5PYjKcfxLccf3aHwUv0XcY"
     },
     {
       "album": {
@@ -16008,7 +16052,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
@@ -20186,10 +20230,32 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 109090,
       "name": "LA MELO EST DANS LA BOUNCE",
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
+    },
+    {
+      "album": {
+        "name": "BOUNCE MUSIC : SAISON 2",
+        "url": "https://open.spotify.com/album/6zkrs0rjrDKIUbs05RrQoG"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109783,
+      "name": "LA MELO EST DANS LA BOUNCE",
+      "url": "https://open.spotify.com/track/2nisza1c4n20GU0HaZ9qmH"
     },
     {
       "album": {
@@ -20404,7 +20470,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 166333,
       "name": "La rue est morte.",
       "url": "https://open.spotify.com/track/4Y6lqLofTkNlkdkw0IAzJR"
@@ -24267,6 +24333,24 @@
     },
     {
       "album": {
+        "name": "Mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162706,
+      "name": "Mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+    },
+    {
+      "album": {
         "name": "Le classico organis\u00e9",
         "url": "https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y"
       },
@@ -28002,7 +28086,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/33ee2rByDAPDqYwPeXvhYY"
@@ -28020,7 +28104,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"

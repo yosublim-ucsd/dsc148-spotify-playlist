@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAAAwYfo/i4pLgunKot/Eyi0I",
+  "snapshot_id": "Zz0mgAAAAABcjowtJzHdueeiBsJ0UkNW",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 46040,
-      "name": "\u00a1Hola Casita!",
-      "url": "https://open.spotify.com/track/5X1kTi7KqUrAbQBohSV68x"
+      "duration_ms": 87200,
+      "name": "El R\u00edo",
+      "url": "https://open.spotify.com/track/6NU17xd9hC8JZCcYc2cTE8"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 87200,
-      "name": "El R\u00edo",
-      "url": "https://open.spotify.com/track/6NU17xd9hC8JZCcYc2cTE8"
+      "duration_ms": 46040,
+      "name": "\u00a1Hola Casita!",
+      "url": "https://open.spotify.com/track/5X1kTi7KqUrAbQBohSV68x"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 91546,
-      "name": "I Can't Risk It",
-      "url": "https://open.spotify.com/track/6zmfEoBznpFaNjvbaioBmj"
+      "duration_ms": 78480,
+      "name": "Whatever The Question",
+      "url": "https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 78480,
-      "name": "Whatever The Question",
-      "url": "https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd"
+      "duration_ms": 91546,
+      "name": "I Can't Risk It",
+      "url": "https://open.spotify.com/track/6zmfEoBznpFaNjvbaioBmj"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 81320,
-      "name": "Zoe's Snow Globes",
-      "url": "https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk"
+      "duration_ms": 99986,
+      "name": "Adrian's Zone",
+      "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83480,
-      "name": "Cowboy Frank",
-      "url": "https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65"
+      "duration_ms": 88053,
+      "name": "A Storm Approaches",
+      "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 107680,
-      "name": "Weather's Coming In",
-      "url": "https://open.spotify.com/track/2OqWXV1kcS7rfPSH7FkEME"
+      "duration_ms": 81320,
+      "name": "Zoe's Snow Globes",
+      "url": "https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk"
     },
     {
       "added_at": null,
@@ -443,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 121346,
-      "name": "Summer Passes Into Autumn",
-      "url": "https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 88053,
-      "name": "A Storm Approaches",
-      "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tag (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
       },
@@ -491,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -500,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 71879,
-      "name": "Jordan's Glasses",
-      "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
+      "duration_ms": 84650,
+      "name": "Arriving to Ginny's Farm",
+      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
     },
     {
       "added_at": null,
@@ -523,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
       },
       "artists": [
         {
@@ -532,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 84650,
-      "name": "Arriving to Ginny's Farm",
-      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
+      "duration_ms": 71879,
+      "name": "Jordan's Glasses",
+      "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
     },
     {
       "added_at": null,
@@ -559,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -568,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 70600,
-      "name": "Royal Barge Disaster",
-      "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"
+      "duration_ms": 83480,
+      "name": "Cowboy Frank",
+      "url": "https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65"
     },
     {
       "added_at": null,
@@ -584,15 +552,15 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 124306,
-      "name": "Winter Passes Into Spring",
-      "url": "https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ"
+      "duration_ms": 121346,
+      "name": "Summer Passes Into Autumn",
+      "url": "https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
       "artists": [
         {
@@ -600,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 129973,
-      "name": "Ginny's Home",
-      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
+      "duration_ms": 70600,
+      "name": "Royal Barge Disaster",
+      "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"
     },
     {
       "added_at": null,
@@ -627,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Stampede",
+      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Margarita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 124306,
+      "name": "Winter Passes Into Spring",
+      "url": "https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 71400,
       "name": "George And Doris",
       "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Spring Passes Into Summer",
-      "url": "https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4"
     },
     {
       "added_at": null,
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 92773,
-      "name": "Ted And Felipe Arrive",
-      "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
         "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
       },
@@ -740,25 +708,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 123480,
-      "name": "The Legend Of The Phoenix",
-      "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 73853,
-      "name": "Three Days Left in May",
-      "url": "https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla"
+      "duration_ms": 124973,
+      "name": "Spring Passes Into Summer",
+      "url": "https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4"
     },
     {
       "added_at": null,
@@ -779,6 +731,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 73853,
+      "name": "Three Days Left in May",
+      "url": "https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 123480,
+      "name": "The Legend Of The Phoenix",
+      "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -788,9 +772,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83933,
-      "name": "Bathtime For George",
-      "url": "https://open.spotify.com/track/5gC6iFS2NwrnVDL5L6rToz"
+      "duration_ms": 66040,
+      "name": "Royal Jet",
+      "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 61066,
+      "name": "Meatball Monkey",
+      "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
     }
   ],
   "unique_name": "This Is Germaine Franco",

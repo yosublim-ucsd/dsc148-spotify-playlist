@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "introducing sofie royer",
+  "description": "sam austins its your time",
   "name": "Lorem",
   "tracks": [
     {
@@ -9590,6 +9590,24 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168551,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
     },
     {
       "album": {
@@ -30648,7 +30666,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 178352,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ"
@@ -31248,7 +31266,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 177539,
       "name": "magic 8 ball",
       "url": "https://open.spotify.com/track/0c2p1YJtbjydKF2dbGAuyk"
@@ -36858,6 +36876,24 @@
       "duration_ms": 170902,
       "name": "Only One I Know",
       "url": "https://open.spotify.com/track/1gxAuze1sWPszKLIE4qm8T"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/5UUl2XKczVeGQE15nVPY3X"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318786,
+      "name": "Ooh Yeah",
+      "url": "https://open.spotify.com/track/3TwfAgMEfaerj8XmrMZZRb"
     },
     {
       "album": {

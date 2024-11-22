@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824,727 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,824,699 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 17 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 |
 | 18 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 |
 | 19 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
-| 20 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [Chill Sebs](https://open.spotify.com/artist/5OFwbKLjzMBNVRFnck0fKK) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 20 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/6ob3DmfoxKr8WRuEMP2Wm8), [Chill Sebs](https://open.spotify.com/artist/5OFwbKLjzMBNVRFnck0fKK) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 21 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 22 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 |
 | 23 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 |

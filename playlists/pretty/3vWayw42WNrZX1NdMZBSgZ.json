@@ -1,32 +1,44 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Arthur Hanlon &amp; Ana Barbara",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Manuel Turizo",
   "num_followers": 53585,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAS8buFUWZmX4KhNFVfTpPBorQ4DFeg",
+  "snapshot_id": "AAAS+0wKT1EKcO1LhjSGEjw+Toypnqu1",
   "tracks": [
     {
-      "added_at": "2024-11-08 15:16:52",
+      "added_at": "2024-11-22 01:32:47",
       "album": {
-        "name": "EGO\u00cdSTA",
-        "url": "https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R"
+        "name": "Sigueme Besando Asi",
+        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 179000,
-      "name": "EGO\u00cdSTA",
-      "url": "https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4"
+      "duration_ms": 185440,
+      "name": "Sigueme Besando Asi",
+      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
+    },
+    {
+      "added_at": "2024-11-22 01:26:24",
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
     },
     {
       "added_at": "2024-11-01 15:27:58",
@@ -193,24 +205,20 @@
       "url": "https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs"
     },
     {
-      "added_at": "2024-11-20 17:26:18",
+      "added_at": "2024-11-22 01:11:35",
       "album": {
-        "name": "Kh\u00e9?",
-        "url": "https://open.spotify.com/album/6Wwr1AUMP6bWzPHOi6S7Tg"
+        "name": "SHEITE",
+        "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Kh\u00e9?",
-      "url": "https://open.spotify.com/track/0Rerqpf0rXnz6ndP7ytQ6O"
+      "duration_ms": 131489,
+      "name": "SHEITE",
+      "url": "https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC"
     },
     {
       "added_at": "2024-10-25 06:32:41",
@@ -247,6 +255,26 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "added_at": "2024-11-08 15:16:52",
+      "album": {
+        "name": "EGO\u00cdSTA",
+        "url": "https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "EGO\u00cdSTA",
+      "url": "https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4"
     },
     {
       "added_at": "2024-10-25 06:32:41",

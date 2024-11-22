@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Joe James",
+  "description": "No tags, no labels - just free form. Cover: Negro Impacto",
   "name": "Free Form",
   "tracks": [
     {
@@ -82,6 +82,42 @@
       "duration_ms": 201904,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/1jV8Q2fHcTEjmRR070XH9u"
+    },
+    {
+      "album": {
+        "name": "1800",
+        "url": "https://open.spotify.com/album/6AcQiR5QfPKuurwS9Ev2yO"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202371,
+      "name": "1800",
+      "url": "https://open.spotify.com/track/5BAI4QVp8p0yh0SiOEeVcU"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK"
+      },
+      "artists": [
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205827,
+      "name": "19",
+      "url": "https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY"
     },
     {
       "album": {
@@ -2613,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Fit ID",
+        "url": "https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Fit ID",
+      "url": "https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD"
+    },
+    {
+      "album": {
         "name": "Five Fruit",
         "url": "https://open.spotify.com/album/7iR8sBbkaBUDM1PQyh3aDU"
       },
@@ -2846,7 +2900,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 167684,
       "name": "Get Me",
       "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
@@ -3618,7 +3672,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 116756,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/2ZKigFND4unNopll76YEp4"
@@ -4044,7 +4098,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 151384,
       "name": "LEECHES",
       "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
@@ -4323,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "Mafone",
+        "url": "https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164526,
+      "name": "Mafone",
+      "url": "https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH"
+    },
+    {
+      "album": {
         "name": "The Last One",
         "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
       },
@@ -4466,7 +4538,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 137126,
       "name": "MASHUP",
       "url": "https://open.spotify.com/track/3n1rNdl7nDbZVJ8JkmA2Xo"
@@ -4898,6 +4970,32 @@
       "duration_ms": 176367,
       "name": "Mob Ties",
       "url": "https://open.spotify.com/track/5U5isNSylokILAW2uvHNKV"
+    },
+    {
+      "album": {
+        "name": "Mohobbat (Love)",
+        "url": "https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208699,
+      "name": "Mohobbat - Love",
+      "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
     },
     {
       "album": {
@@ -5752,7 +5850,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 171609,
       "name": "outsid4 (feat. ayrtn & with Bawo)",
       "url": "https://open.spotify.com/track/5DATxyg7U54Fkyqp9LcZsL"
@@ -6449,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "album": {
         "name": "Rom-Com",
         "url": "https://open.spotify.com/album/7yrnSU32uhLvoi6benHTYF"
       },
@@ -6912,7 +7028,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 253012,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj"
@@ -7124,10 +7240,36 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 225168,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
+    },
+    {
+      "album": {
+        "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
+        "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252452,
+      "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
+      "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
     },
     {
       "album": {

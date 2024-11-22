@@ -4,12 +4,12 @@
 
 > Grandes hits do BR e do 🌎 / Foto: Alok, Anitta
 
-341 songs - 16 hr 38 min
+342 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 0:00 | 2023-02-16 | 2023-05-13 |
-| [\(Não\) Quero Me Apaixonar](https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:49 | 2024-09-02 |  |
+| [\(Não\) Quero Me Apaixonar](https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:49 | 2024-09-02 | 2024-11-22 |
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-26 | 2023-07-27 |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-29 |
 | [2step \(feat\. Chefin\)](https://open.spotify.com/track/72DbvEOeqtJbKAX9GLzRER) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [2step \(feat\. Chefin\)](https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW) | 2:44 | 2022-05-20 | 2023-01-28 |
@@ -55,6 +55,7 @@
 | [Balinha de Coração](https://open.spotify.com/track/7yOhvjSSprZokknEdhkcFX) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:16 | 2023-02-09 | 2023-02-14 |
 | [Ballena](https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:20 | 2023-07-26 | 2024-02-21 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-05-20 | 2022-06-23 |
+| [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 | 2024-11-21 |  |
 | [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 | 2023-09-28 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-22 | 2024-08-17 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-05-20 | 2023-01-19 |

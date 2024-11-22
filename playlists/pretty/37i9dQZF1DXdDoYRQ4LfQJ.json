@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Natanael Cano, Gabito Ballesteros, Luis R Conriquez, Neton Vega & the hottest corridos in the U.S.",
-  "num_followers": 279484,
+  "num_followers": 279624,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Poco A Poco",
-        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "Me Acostumbre A Lo Bueno II",
         "url": "https://open.spotify.com/album/2aPfDcYuz5bJQbVGSYgFkT"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 126922,
       "name": "Me Acostumbre A Lo Bueno II",
       "url": "https://open.spotify.com/track/0UXfmA5wYIE1uBvFzOdlCR"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas - En Vivo",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "La Chapiza",
         "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
       },
@@ -1335,6 +1311,22 @@
       "duration_ms": 152750,
       "name": "La Chapiza",
       "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -1355,18 +1347,26 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
       "artists": [
         {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
+      "duration_ms": 260285,
+      "name": "Malas Rachas - En Vivo",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Mente Activa",
-        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 169216,
-      "name": "Mente Activa",
-      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "Como Esta Carnal",
         "url": "https://open.spotify.com/album/3jPvYnxQhTg658G7r634Km"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 205853,
       "name": "Como Esta Carnal",
       "url": "https://open.spotify.com/track/2TbRrrT3NFqrQohxZcKg7h"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "Mente Activa",
+        "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 169216,
+      "name": "Mente Activa",
+      "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "duration_ms": 225416,
+      "name": "ALFOMBRA ROJA",
+      "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 225416,
-      "name": "ALFOMBRA ROJA",
-      "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2343,30 +2343,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Dicen Y Dicen",
-        "url": "https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 173105,
-      "name": "Dicen Y Dicen",
-      "url": "https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "La Mera Vena (El 7)",
         "url": "https://open.spotify.com/album/2putW0ANe1COoMzhr7MKWJ"
       },
@@ -2399,22 +2375,26 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/5VkepErVQUGrabLNsUPQZz"
+        "name": "Dicen Y Dicen",
+        "url": "https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49"
       },
       "artists": [
         {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         },
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Gente de Trabajo",
-      "url": "https://open.spotify.com/track/2mEKAonomU58PwavJwYSlc"
+      "duration_ms": 173105,
+      "name": "Dicen Y Dicen",
+      "url": "https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2447,6 +2427,26 @@
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5VkepErVQUGrabLNsUPQZz"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Gente de Trabajo",
+      "url": "https://open.spotify.com/track/2mEKAonomU58PwavJwYSlc"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "Bravo 57",
         "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 172800,
       "name": "Bravo 57",
       "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-11-20 18:53:04",

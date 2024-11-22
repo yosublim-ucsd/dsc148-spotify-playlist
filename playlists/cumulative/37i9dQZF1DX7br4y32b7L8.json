@@ -2855,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Echte Liefde",
+        "url": "https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k"
+    },
+    {
+      "album": {
         "name": "Een Aperolletje",
         "url": "https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB"
       },
@@ -7682,6 +7700,24 @@
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "album": {

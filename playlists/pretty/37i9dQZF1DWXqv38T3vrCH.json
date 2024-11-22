@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 344033,
+  "num_followers": 343980,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Bark At The Moon (Expanded Edition)",
         "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+        "name": "The Silver Scream",
+        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
       },
       "artists": [
         {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+      "duration_ms": 249746,
+      "name": "The American Nightmare",
+      "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -575,6 +575,22 @@
       "duration_ms": 210559,
       "name": "Meat & Greet",
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "The Silver Scream",
-        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "The American Nightmare",
-      "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 313453,
-      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Baby You're a Haunted House",
         "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 166361,
       "name": "Baby You're a Haunted House",
       "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Happy Happy Halloween",
-        "url": "https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm"
+        "name": "How Did We Get So Dark?",
+        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
       },
       "artists": [
         {
-          "name": "Surfbort",
-          "url": "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 137770,
-      "name": "Happy Happy Halloween",
-      "url": "https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2"
+      "duration_ms": 203906,
+      "name": "She's Creeping",
+      "url": "https://open.spotify.com/track/01VXGDL8Ox3SWmvM8ZyvSB"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "How Did We Get So Dark?",
-        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+        "name": "Happy Happy Halloween",
+        "url": "https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Surfbort",
+          "url": "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
         }
       ],
-      "duration_ms": 203906,
-      "name": "She's Creeping",
-      "url": "https://open.spotify.com/track/01VXGDL8Ox3SWmvM8ZyvSB"
+      "duration_ms": 137770,
+      "name": "Happy Happy Halloween",
+      "url": "https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT"
     },
     {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "Nightmares",
-        "url": "https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS"
-      },
-      "artists": [
-        {
-          "name": "Huxlxy",
-          "url": "https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS"
-        }
-      ],
-      "duration_ms": 236689,
-      "name": "Nightmares",
-      "url": "https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu"
-    },
-    {
       "added_at": "2024-10-14 17:11:38",
       "album": {
         "name": "This Heathen Land",
@@ -1207,6 +1191,22 @@
       "duration_ms": 198877,
       "name": "Maxine (Witch Queen)",
       "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS"
+      },
+      "artists": [
+        {
+          "name": "Huxlxy",
+          "url": "https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS"
+        }
+      ],
+      "duration_ms": 236689,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Every Day Is Halloween",
-        "url": "https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 384733,
-      "name": "Every Day Is Halloween",
-      "url": "https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 274853,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Every Day Is Halloween",
+        "url": "https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "Every Day Is Halloween",
+      "url": "https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO"
     },
     {
       "added_at": "2024-10-11 19:37:59",

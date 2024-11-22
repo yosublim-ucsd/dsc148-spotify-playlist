@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Ceren G\u00fcndo\u011fdu",
+  "description": "Popun sevilen isimleri. Kapak: Siyam",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 158490,
       "name": "ABART",
       "url": "https://open.spotify.com/track/1aA9W1c1Qg0lSOyqtZ1x9T"
+    },
+    {
+      "album": {
+        "name": "Ac\u0131n\u0131n Seyir Defteri",
+        "url": "https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc"
+      },
+      "artists": [
+        {
+          "name": "A\u015fk\u0131n Nur Yengi",
+          "url": "https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171097,
+      "name": "Ac\u0131n\u0131n Seyir Defteri",
+      "url": "https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y"
     },
     {
       "album": {
@@ -750,7 +768,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 153000,
       "name": "Burday\u0131m Ben",
       "url": "https://open.spotify.com/track/7fYHc8dskuoqIUrIZQfVYi"
@@ -1774,6 +1792,24 @@
       "duration_ms": 160970,
       "name": "Ma\u011flup",
       "url": "https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC"
+    },
+    {
+      "album": {
+        "name": "Mecnun",
+        "url": "https://open.spotify.com/album/2zwLL93kAc8TwamDzSocET"
+      },
+      "artists": [
+        {
+          "name": "Siyam",
+          "url": "https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148852,
+      "name": "Mecnun",
+      "url": "https://open.spotify.com/track/7pvJS491DvAF634AxRGUZG"
     },
     {
       "album": {

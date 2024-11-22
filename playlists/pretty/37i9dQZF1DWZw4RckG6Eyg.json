@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 18777,
+  "num_followers": 18782,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "The Secret To Life",
         "url": "https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 172101,
       "name": "The Secret To Life",
       "url": "https://open.spotify.com/track/0xOxOAuTy6KCEp8Ov82Y9Z"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "GIZMO",
-        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Corner Of My Eye",
         "url": "https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 199360,
       "name": "Corner Of My Eye",
       "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Top Fan",
+        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
+      },
+      "artists": [
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "duration_ms": 190648,
+      "name": "Top Fan",
+      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "baby, I do / IKWYDLS",
         "url": "https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 151875,
       "name": "IKWYDLS",
       "url": "https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Top Fan",
-        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 190648,
-      "name": "Top Fan",
-      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Jurassic",
-        "url": "https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs"
-      },
-      "artists": [
-        {
-          "name": "NIKO NIKO TAN TAN",
-          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Jurassic",
-      "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Jelsy",
         "url": "https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 228898,
       "name": "Jelsy",
       "url": "https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Jurassic",
+        "url": "https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Jurassic",
+      "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
     },
     {
       "added_at": "2023-11-29 16:17:10",

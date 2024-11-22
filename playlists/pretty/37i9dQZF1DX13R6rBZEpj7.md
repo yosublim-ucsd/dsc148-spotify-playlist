@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,807 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,958 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 4 | [Front to Back](https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Front to Back](https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3) | 2:27 |
 | 5 | [Gunshot!](https://open.spotify.com/track/1jP8GU1OKlwU1XUuIK2Vvm) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Gunshot!](https://open.spotify.com/album/3tI804XAYNNUOq8mxXdSpu) | 2:55 |
 | 6 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 |
-| 7 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
-| 8 | [STEADY](https://open.spotify.com/track/6fJDthpIu7wC4B117UWic5) | [Skelecta](https://open.spotify.com/artist/6GBkUEt5ZsqktX5MfnfLzg), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [STEADY](https://open.spotify.com/album/6Xf8Y0RJ9OliIsCJA3NCHG) | 2:21 |
+| 7 | [STEADY](https://open.spotify.com/track/6fJDthpIu7wC4B117UWic5) | [Skelecta](https://open.spotify.com/artist/6GBkUEt5ZsqktX5MfnfLzg), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [STEADY](https://open.spotify.com/album/6Xf8Y0RJ9OliIsCJA3NCHG) | 2:21 |
+| 8 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
 | 9 | [Watch The Skank](https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Watch The Skank](https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ) | 3:01 |
 | 10 | [No Other Man \(One Man\)](https://open.spotify.com/track/15NJ4BGMClGSBXbZ96XwLy) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Vanessa Bling](https://open.spotify.com/artist/1PiEUwpwwtIostNXewLUG1), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [No Other Man \(One Man\)](https://open.spotify.com/album/77nnpZro8WHHrEX0nscxJH) | 2:20 |
 | 11 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 64 | [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 |
 | 65 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
 | 66 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 |
-| 67 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
-| 68 | [Nobody Else](https://open.spotify.com/track/7vvGZeQdluLLmUdaVouD1A) | [Zeppho](https://open.spotify.com/artist/4cuiNQP7g81jSGKSBSWHEY) | [Nobody Else](https://open.spotify.com/album/42t9AM6HaETYWXCvs7kNGI) | 3:51 |
+| 67 | [Nobody Else](https://open.spotify.com/track/7vvGZeQdluLLmUdaVouD1A) | [Zeppho](https://open.spotify.com/artist/4cuiNQP7g81jSGKSBSWHEY) | [Nobody Else](https://open.spotify.com/album/42t9AM6HaETYWXCvs7kNGI) | 3:51 |
+| 68 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 69 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
 | 70 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
 

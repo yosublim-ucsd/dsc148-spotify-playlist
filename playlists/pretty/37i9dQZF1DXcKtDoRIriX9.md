@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,859 likes - 56 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 56 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Apparition](https://open.spotify.com/track/6PjBjTB3pSCULP2dDxHGMm) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Apparition](https://open.spotify.com/album/0FBg66CgqctmRa2so2sBMk) | 3:33 |
 | 2 | [Luv & Dub \- San Soda Bass Remix](https://open.spotify.com/track/2TS8vQ6tgbmhx1ipGWvJ1R) | [Red D](https://open.spotify.com/artist/0uE84b7whLKhUbXT1jmMqY), [San Soda](https://open.spotify.com/artist/2ZA2y23qlBaOIKOrZa2umN) | [Re\-Fantasized & Realized](https://open.spotify.com/album/10bCwiHURngHC7jGtpnCsR) | 5:43 |
 | 3 | [I Always Want To Be Beautiful \- Dub Mix](https://open.spotify.com/track/2kbsR82uMuAqt3JEYsKggW) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [I Always Want To Be Beautiful \(Dub Mix\)](https://open.spotify.com/album/55g8XEKIOVW7VmGHf8PhS5) | 6:24 |
-| 4 | [BROKEN ARP \- rRoxymore Remix](https://open.spotify.com/track/23boM25NZ1o1jvzWSAaQgW) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b), [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [BROKEN ARP \(rRoxymore Remix\)](https://open.spotify.com/album/4aq6omPUpnNLWjfjCHdneQ) | 4:46 |
+| 4 | [BROKEN ARP \- RROXYMORE REMIX](https://open.spotify.com/track/23boM25NZ1o1jvzWSAaQgW) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b), [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [BROKEN ARP \(RROXYMORE REMIX\)](https://open.spotify.com/album/4aq6omPUpnNLWjfjCHdneQ) | 4:46 |
 | 5 | [Mayan Machine](https://open.spotify.com/track/1ndHrQuQeqwWMTup6e4pV0) | [Deardrums](https://open.spotify.com/artist/0W8vSL0F5T2UmdY6Hz3f6l) | [Deardrums](https://open.spotify.com/album/6bnEf5r6AlhhgcmEYMaxUg) | 5:17 |
 | 6 | [Cravings](https://open.spotify.com/track/7wiDg2Fw5oe2bwIcH9eIXj) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm), [Love Letters](https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD) | [Cravings / Concourse](https://open.spotify.com/album/3kdnNpkl08fmc3IGfqbzaY) | 6:19 |
 | 7 | [Futurism](https://open.spotify.com/track/5buOzpYQoRrBlvTyATU6fg) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Futurism](https://open.spotify.com/album/3UwcBryGKjUvuocL0NpARX) | 4:02 |

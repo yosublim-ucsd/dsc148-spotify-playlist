@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,542 likes - 80 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,705 likes - 80 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 32 | [Cruel Summer \- Extended Version](https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 4:55 |
 | 33 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
 | 34 | [The Great Commandment](https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Westside 25th Anniversary](https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2) | 5:28 |
-| 35 | [Blue Monday \('88\) \- 12" Version](https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Best Remixes](https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2) | 7:07 |
+| 35 | [True Faith \- Shep Pettibone 12" Remix](https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 9:03 |
 | 36 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |
 | 37 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 |
 | 38 | [The Sun Always Shines on T.V\. \- Extended Version](https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low \(Deluxe Edition\)](https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj) | 8:25 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 42 | [\(I Wanna Give You\) Devotion \- Original Club Mix](https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A) | [Nomad](https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM) | [\(I Wanna Give You\) Devotion](https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC) | 6:49 |
 | 43 | [Tell It to My Heart \- Club Mix](https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 6:45 |
 | 44 | [True Blue \- The Color Mix](https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 6:36 |
-| 45 | [True Faith \- Shep Pettibone 12" Remix](https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 9:03 |
+| 45 | [Blue Monday \('88\) \- 12" Version](https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Best Remixes](https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2) | 7:07 |
 | 46 | [I Can't Stand the Rain \- Extended 12" Remix; 2015 Remaster](https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 5:41 |
 | 47 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 | 48 | [Shout \- U.S\. Remix](https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Steve Thompson](https://open.spotify.com/artist/072BKskZiAjsLMHqZkX9bo), [Michael Barbiero](https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:00 |

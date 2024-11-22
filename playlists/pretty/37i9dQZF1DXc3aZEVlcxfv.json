@@ -1,13 +1,33 @@
 {
   "description": "I am blessed!",
-  "num_followers": 1864,
+  "num_followers": 1871,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzaPPAAAAACsYQZfp9WCcTbp0vNFoIuy",
+  "snapshot_id": "Zz/JvAAAAADHeGfnU52vkqGBTszKYJ4B",
   "tracks": [
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
+    },
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
@@ -57,20 +77,32 @@
       "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/5ZaxQJ7kgKLFNa1yJevU9K"
+        "name": "In The Room (feat. Tasha Cobbs Leonard)",
+        "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
       },
       "artists": [
         {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/1W6noWaC1Z5inYUi9pqYdP"
+      "duration_ms": 597481,
+      "name": "In The Room (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -91,30 +123,6 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Fearless Community",
-          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
-        },
-        {
-          "name": "Anderson",
-          "url": "https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi"
-        }
-      ],
-      "duration_ms": 657912,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -187,6 +195,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
@@ -201,20 +225,28 @@
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -251,6 +283,34 @@
       "duration_ms": 175630,
       "name": "I'm So Blessed",
       "url": "https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -299,38 +359,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "He Is Enough",
-        "url": "https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 127824,
-      "name": "He Is Enough",
-      "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "E Dey Flow",
         "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
       },
@@ -367,6 +395,54 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "He Is Enough",
+        "url": "https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 127824,
+      "name": "He Is Enough",
+      "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
         "name": "Calling My Name (I'm A Soldier) [Live]",
         "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
@@ -399,30 +475,18 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -459,22 +523,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
@@ -487,6 +535,30 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -531,18 +603,26 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        },
+        {
+          "name": "Anderson",
+          "url": "https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi"
         }
       ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+      "duration_ms": 657912,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -663,30 +743,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 507306,
-      "name": "The Blessing (Live)",
-      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "Aileyipada",
         "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
       },
@@ -771,18 +827,18 @@
     {
       "added_at": "2024-11-15 00:01:00",
       "album": {
-        "name": "Holy Spirit",
-        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 351666,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -841,22 +897,6 @@
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
-    },
-    {
       "added_at": "2024-10-11 00:01:00",
       "album": {
         "name": "Malaika x Fridayy",
@@ -875,6 +915,22 @@
       "duration_ms": 248490,
       "name": "Malaika x Fridayy",
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -897,30 +953,6 @@
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "In Jesus Name",
-        "url": "https://open.spotify.com/album/7ATUEasgN6Dz49VbawvZPX"
-      },
-      "artists": [
-        {
-          "name": "Anthem Worship",
-          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
-        },
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        },
-        {
-          "name": "Mass Anthem",
-          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
-        }
-      ],
-      "duration_ms": 191614,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/3W4na5Pss67rsLTGN9gU9R"
-    },
-    {
       "added_at": "2024-09-27 00:01:00",
       "album": {
         "name": "Consecrated",
@@ -939,30 +971,6 @@
       "duration_ms": 282000,
       "name": "Game Changer",
       "url": "https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS"
-    },
-    {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "REDEEMED",
-        "url": "https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S"
-      },
-      "artists": [
-        {
-          "name": "EJ Newton",
-          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
-        },
-        {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
-        },
-        {
-          "name": "Julia McMillan",
-          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft"
     }
   ],
   "unique_name": "Blessed",

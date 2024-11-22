@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 110803,
+  "num_followers": 110826,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACwXwKKTAvpY9JbU7QbrkUz",
+  "snapshot_id": "Zz0mgAAAAADmEASFOLHsaSnEtH+i0oTj",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 175673,
       "name": "El Chapio",
       "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 162047,
-      "name": "El Mochomo (En vivo)",
-      "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 186000,
       "name": "En La Cima (En vivo)",
       "url": "https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 162047,
+      "name": "El Mochomo (En vivo)",
+      "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60891,
+  "num_followers": 60896,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-11-18 02:31:32",
       "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2024-11-18 02:31:32",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-11-18 02:31:32",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
     },
     {
       "added_at": "2024-11-18 02:31:32",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-18 02:31:32",
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
-    },
-    {
-      "added_at": "2024-11-18 02:31:32",
-      "album": {
         "name": "Born Without a Heart",
         "url": "https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 198896,
       "name": "Born Without a Heart",
       "url": "https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj"
+    },
+    {
+      "added_at": "2024-11-18 02:31:32",
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": "2024-11-18 02:31:32",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-11-18 02:31:32",
       "album": {
-        "name": "Nice To Meet Ya",
-        "url": "https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 158805,
-      "name": "Nice To Meet Ya",
-      "url": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
-    },
-    {
-      "added_at": "2024-11-18 02:31:32",
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": "2024-11-18 02:31:32",
+      "album": {
+        "name": "Nice To Meet Ya",
+        "url": "https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 158805,
+      "name": "Nice To Meet Ya",
+      "url": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
     },
     {
       "added_at": "2024-11-18 02:31:32",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-11-18 02:31:32",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 191963,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
-    },
-    {
-      "added_at": "2024-11-18 02:31:32",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2024-11-18 02:31:32",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 191963,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
     },
     {
       "added_at": "2024-11-18 02:31:32",

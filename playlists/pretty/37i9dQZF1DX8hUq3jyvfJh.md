@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Tássia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tássia Reis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,953 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,939 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

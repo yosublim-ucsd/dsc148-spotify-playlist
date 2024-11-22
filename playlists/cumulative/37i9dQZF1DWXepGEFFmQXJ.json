@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Shaboozey",
+  "description": "The cream of today's Country crop. Cover: Lane Pittman",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -788,6 +788,24 @@
       "duration_ms": 235002,
       "name": "Am I Okay?",
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "album": {
+        "name": "Amen For The Weekend",
+        "url": "https://open.spotify.com/album/1L1XwefPhYYJ9c8cYlfREb"
+      },
+      "artists": [
+        {
+          "name": "Lane Pittman",
+          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179091,
+      "name": "Amen For The Weekend",
+      "url": "https://open.spotify.com/track/6n95Js3BFd0ZRtggQTxS00"
     },
     {
       "album": {
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 206053,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c"
@@ -3648,6 +3666,24 @@
       "duration_ms": 202754,
       "name": "Down In Boots",
       "url": "https://open.spotify.com/track/2L2U4LFR1cYUQbckzdlnO4"
+    },
+    {
+      "album": {
+        "name": "WILD THING",
+        "url": "https://open.spotify.com/album/4uHYSDUkXJmgsodaGV8hCb"
+      },
+      "artists": [
+        {
+          "name": "Bella Mackenzie",
+          "url": "https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216972,
+      "name": "DOWN SOUTH",
+      "url": "https://open.spotify.com/track/6dEGsCMZxCL4KYOLjxnrOR"
     },
     {
       "album": {
@@ -4482,6 +4518,24 @@
       "duration_ms": 145059,
       "name": "Forget About It",
       "url": "https://open.spotify.com/track/2LAd01AkxYyB3GBYQdY8Jz"
+    },
+    {
+      "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/3oYLnRbyaukgCed4Mf0Dkb"
+      },
+      "artists": [
+        {
+          "name": "The Wet Whistles",
+          "url": "https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/7dFiLc904b3L8LBElrZxZG"
     },
     {
       "album": {
@@ -7429,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "Learned That Way",
+        "url": "https://open.spotify.com/album/5wpnejpAovKCNdYFWyJr7S"
+      },
+      "artists": [
+        {
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Learned That Way",
+      "url": "https://open.spotify.com/track/2a4e8opv2zBUM0nNqzESML"
+    },
+    {
+      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
@@ -7620,7 +7692,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
@@ -8739,6 +8811,24 @@
     },
     {
       "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178141,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa"
+    },
+    {
+      "album": {
         "name": "Mr I Don't Care",
         "url": "https://open.spotify.com/album/3YGsyzak046vwihQx3zThq"
       },
@@ -8790,7 +8880,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
@@ -9050,7 +9140,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 177123,
       "name": "New To Country",
       "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
@@ -10697,6 +10787,24 @@
     },
     {
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159208,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
+    },
+    {
+      "album": {
         "name": "Run Out Of Road",
         "url": "https://open.spotify.com/album/1CQ4RFvGLGvfFs1HyD4Is5"
       },
@@ -10882,7 +10990,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
@@ -10904,7 +11012,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"

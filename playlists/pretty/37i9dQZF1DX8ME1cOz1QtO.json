@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 99198,
+  "num_followers": 99249,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Rubycon (Deluxe Version)",
         "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 1037451,
       "name": "Rubycon - Pt. 1 / Remastered 2018",
       "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -715,18 +715,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Phaedra (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/34507GICqU2YpiJEbBOKph"
       },
       "artists": [
         {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
         }
       ],
-      "duration_ms": 477322,
-      "name": "Movements Of A Visionary - Remastered 2018",
-      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
+      "duration_ms": 289666,
+      "name": "Peer Gynt, Suite No. 2: Solveig's Song",
+      "url": "https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -747,6 +751,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 477322,
+      "name": "Movements Of A Visionary - Remastered 2018",
+      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Keys To Imagination",
         "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 399066,
       "name": "Looking Glass",
       "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/34507GICqU2YpiJEbBOKph"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Peer Gynt, Suite No. 2: Solveig's Song",
-      "url": "https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Out Of Silence",
-        "url": "https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "The Mermaid",
-      "url": "https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "In A Wild Sanctuary/Gardharva",
         "url": "https://open.spotify.com/album/1B7FI5QL7KDDSR4mxIXdvJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 314093,
       "name": "By Your Grace",
       "url": "https://open.spotify.com/track/579p22QFJ8bkdQLXp0VBy7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Out Of Silence",
+        "url": "https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "The Mermaid",
+      "url": "https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Fresh Aire I",
-        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
-      },
-      "artists": [
-        {
-          "name": "Mannheim Steamroller",
-          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Interlude II",
-      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Missa Gaia - Earth Mass",
         "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 149626,
       "name": "For The Beauty Of The Earth - Instrumental",
       "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Fresh Aire I",
+        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
+      },
+      "artists": [
+        {
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Interlude II",
+      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Pathless Path",
-        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 226826,
-      "name": "Koto",
-      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
+      "duration_ms": 348880,
+      "name": "Arrival - Remastered",
+      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+        "name": "Pathless Path",
+        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 348880,
-      "name": "Arrival - Remastered",
-      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+      "duration_ms": 226826,
+      "name": "Koto",
+      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Boreale - Remastered",
+      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite 45th Anniversary Collector's Edition",
         "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 1049000,
       "name": "Meditation: I. Part I",
       "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Boreale - Remastered",
-      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1504,9 +1504,25 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
+      "duration_ms": 152426,
+      "name": "Offener Himmel II",
+      "url": "https://open.spotify.com/track/40rNG0wBj5qXRLQLfAcqRy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1041569,
+      "name": "Pagnifico - Remastered",
+      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1041569,
-      "name": "Pagnifico - Remastered",
-      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Collected Ambient & Textural Works 1977-1987",
         "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 308360,
       "name": "Flowers of Our Childhood",
       "url": "https://open.spotify.com/track/44h87Qd0wLUpgppfopuEDB"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Oxygene, Pt. 1",
+      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Oxygene, Pt. 1",
-      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Hear and Be Yonder",
         "url": "https://open.spotify.com/album/2TFKmCGsv6B2El9ZwB5CPJ"
       },
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf"
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
       },
       "artists": [
         {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
-        },
-        {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
         }
       ],
-      "duration_ms": 316000,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz"
+      "duration_ms": 196733,
+      "name": "Oxygene, Pt. 3",
+      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
     }
   ],
   "unique_name": "New Age: The Dawning",

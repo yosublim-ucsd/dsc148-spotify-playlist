@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Saripodhaa Sanivaaram",
-  "num_followers": 136240,
+  "description": "Bringing out the best of latest love tracks\nCover : Thandel",
+  "num_followers": 136274,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxEFjQAAAABROlngHz0oC8uhw+bynMxr",
+  "snapshot_id": "Zz8tNgAAAADk1gAigRGdcZjnGuxGIkG/",
   "tracks": [
+    {
+      "added_at": "2024-11-21 12:53:10",
+      "album": {
+        "name": "Bujji Thalli (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
+        }
+      ],
+      "duration_ms": 248825,
+      "name": "Bujji Thalli (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
+    },
     {
       "added_at": "2024-07-14 04:20:52",
       "album": {
@@ -31,30 +55,6 @@
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
-    },
-    {
-      "added_at": "2024-10-17 12:39:41",
-      "album": {
-        "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
-        "url": "https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Nithyashree Venkataramanan",
-          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
-        },
-        {
-          "name": "Krishna Chaitanya",
-          "url": "https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
-      "url": "https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW"
     },
     {
       "added_at": "2024-08-05 12:07:16",
@@ -125,30 +125,6 @@
       "url": "https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV"
     },
     {
-      "added_at": "2024-09-18 10:35:57",
-      "album": {
-        "name": "Ennennenno (From \"Veekshanam\")",
-        "url": "https://open.spotify.com/album/13WHRkfGl1WbQ4JgrFvgTN"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Samarth Gollapudi",
-          "url": "https://open.spotify.com/artist/4vd0WBVBtB6I9LmFPMOHbg"
-        },
-        {
-          "name": "Rehman",
-          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
-        }
-      ],
-      "duration_ms": 176912,
-      "name": "Ennennenno (From \"Veekshanam\")",
-      "url": "https://open.spotify.com/track/23aZ6C4joJbz4FR1RX5h1d"
-    },
-    {
       "added_at": "2024-05-29 05:44:55",
       "album": {
         "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
@@ -171,22 +147,6 @@
       "duration_ms": 260177,
       "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
       "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
-    },
-    {
-      "added_at": "2024-06-07 09:27:06",
-      "album": {
-        "name": "Manamey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2aj78D2jBeddhoWMm73HFZ"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Nee Sneham",
-      "url": "https://open.spotify.com/track/4xrQZq9vmrKDf17QyN2niZ"
     },
     {
       "added_at": "2024-04-18 09:34:11",

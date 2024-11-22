@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-640 songs - 1 day 7 hr 30 min
+642 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bridge](https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Bridge](https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h) | 2:55 | 2024-08-16 |  |
 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 | 2023-10-20 | 2024-03-21 |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2023-10-20 | 2024-02-28 |
+| [Buoyed](https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Buoyed](https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW) | 2:30 | 2024-11-21 |  |
 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 | 2023-10-20 | 2024-02-09 |
 | [Cairns Fossils](https://open.spotify.com/track/7HeCLMhcYHRG5nfrd26v6C) | [Cloud Waves](https://open.spotify.com/artist/3awsbRupCUGnE0dw6U049n) | [Planetary Funnel](https://open.spotify.com/album/0oFdp4vvnuv17yLJAEz8M4) | 3:06 | 2023-10-20 | 2024-02-28 |
 | [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2023-10-20 | 2024-02-09 |
@@ -258,7 +259,7 @@
 | [Gruis Silentium](https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T) | [Lukasti](https://open.spotify.com/artist/44iToUPW0yX9V7edv2ZgWd) | [Gruis Silentium](https://open.spotify.com/album/2ZzhFG4xH98UysJqdfuUUz) | 2:38 | 2024-01-17 | 2024-11-06 |
 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 | 2023-10-20 | 2024-02-28 |
 | [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 | 2023-10-20 | 2024-04-06 |
-| [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-01-17 |  |
+| [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-01-17 | 2024-11-22 |
 | [Harmonic Clouds](https://open.spotify.com/track/5umtWFlo2kVPO8kxt0XhBI) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Harmonic Clouds](https://open.spotify.com/album/3XfKO4bOiGszE5U4nByU2Q) | 2:41 | 2024-01-17 | 2024-08-17 |
 | [Harmony](https://open.spotify.com/track/1BDeMV08uNUpETmWGTfQFw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Harmony](https://open.spotify.com/album/03jsme3lLmwGjMm6fbSpzb) | 3:00 | 2023-10-20 | 2024-05-05 |
 | [Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Harvest Moon](https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd) | 3:08 | 2024-08-02 |  |
@@ -339,6 +340,7 @@
 | [Magical Calmness](https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs) | [Bedtime Muse](https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO) | [Magical Calmness](https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz) | 2:37 | 2024-07-15 |  |
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-02-27 |  |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 | 2024-07-16 |
+| [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 | 2024-11-21 |  |
 | [Melantonia](https://open.spotify.com/track/4QRKoVrx2OIfEOUamco5Uz) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Melantonia](https://open.spotify.com/album/0AY0gNMt9YcZ9F6YVfDJSy) | 3:43 | 2023-10-20 | 2024-02-09 |
 | [Meliora](https://open.spotify.com/track/4UUTtDXBx9GiedPVzTNL5F) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Meliora](https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp) | 3:17 | 2023-10-20 | 2024-03-21 |
 | [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 | 2023-10-20 | 2024-03-21 |
@@ -553,7 +555,7 @@
 | [Stardust Memories](https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4) | [Celestelle](https://open.spotify.com/artist/4ddXdxD2ZJ1bgPdoKPsvaX) | [Stardust Memories](https://open.spotify.com/album/5U0l3I3b2h0nOiZrphlNRv) | 2:58 | 2024-07-15 |  |
 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 | 2023-10-20 | 2024-02-09 |
 | [Stay](https://open.spotify.com/track/2g3tsiZNrb7j5R9EiaiHBn) | [Aniaras](https://open.spotify.com/artist/6giPu3LI4VQbyWGGHHVpfj) | [Stay](https://open.spotify.com/album/5NOYz1xsOLUZOHqrorxyt1) | 3:04 | 2024-01-17 | 2024-07-16 |
-| [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 | 2024-08-30 |  |
+| [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 | 2024-08-30 | 2024-11-22 |
 | [Still And Calm](https://open.spotify.com/track/01LxVoyk6e42ifx6gFZB0C) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Still And Calm](https://open.spotify.com/album/62BOhkDJRSeyiwnrWf1QGB) | 3:06 | 2024-02-08 | 2024-03-21 |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2023-10-20 | 2024-02-09 |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2023-10-20 | 2024-02-09 |

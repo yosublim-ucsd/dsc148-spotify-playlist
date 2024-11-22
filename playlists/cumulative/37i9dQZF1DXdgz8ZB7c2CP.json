@@ -5263,6 +5263,24 @@
     },
     {
       "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162210,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
+    },
+    {
+      "album": {
         "name": "Falling (with Njomza & Daniel Allan)",
         "url": "https://open.spotify.com/album/5VmLZMnN4Vivwnj8shv4ud"
       },
@@ -7962,7 +7980,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 246315,
       "name": "I Love You.",
       "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
@@ -8758,7 +8776,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
@@ -14326,7 +14344,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 162500,
       "name": "SKYLINE**",
       "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
@@ -16224,7 +16242,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 149817,
       "name": "The Touch",
       "url": "https://open.spotify.com/track/4xZ4pJxvrNuI9vJumLDUNu"
@@ -16938,6 +16956,24 @@
       "duration_ms": 172305,
       "name": "TURN YOUR HEART AROUND",
       "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218740,
+      "name": "U",
+      "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
     },
     {
       "album": {
@@ -17913,6 +17949,28 @@
     },
     {
       "album": {
+        "name": "when all is quiet",
+        "url": "https://open.spotify.com/album/0hs9TdbzGdT4vamvRZmohr"
+      },
+      "artists": [
+        {
+          "name": "IAMSAM",
+          "url": "https://open.spotify.com/artist/6RsUpx0KNqH6at7oNsRkXD"
+        },
+        {
+          "name": "Lucian",
+          "url": "https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170334,
+      "name": "when all is quiet",
+      "url": "https://open.spotify.com/track/5fBREB5TUBbG51hmbws8Pw"
+    },
+    {
+      "album": {
         "name": "When I Fall",
         "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
       },
@@ -18188,6 +18246,28 @@
       "duration_ms": 187480,
       "name": "Wise Heart",
       "url": "https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5"
+    },
+    {
+      "album": {
+        "name": "Wish Upon A Star",
+        "url": "https://open.spotify.com/album/0zFCVyASDsjWv9XH1SmPpR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Wish Upon A Star",
+      "url": "https://open.spotify.com/track/6t0uyRlV4KBul0rVqo2Q5o"
     },
     {
       "album": {

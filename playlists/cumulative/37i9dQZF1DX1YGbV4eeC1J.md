@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Abigail Chams
+> What is your love language? Say it in Swahili\.  Cover: Mbosso
 
-244 songs - 13 hr 55 min
+246 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-04-28 |
 | [Asante](https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Asante](https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi) | 3:24 | 2024-01-25 | 2024-06-01 |
 | [Away](https://open.spotify.com/track/1PvrHffqvkyxuLHko1VJQd) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Away](https://open.spotify.com/album/3CZAw4GNWnCBF8oCuc7495) | 3:40 | 2024-03-21 | 2024-04-19 |
-| [Away](https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Away](https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW) | 3:40 | 2024-01-18 |  |
+| [Away](https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Away](https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW) | 3:40 | 2024-01-18 | 2024-11-22 |
 | [Bado](https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Bado](https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV) | 3:34 | 2024-02-01 | 2024-05-17 |
 | [BamBam](https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-11 |  |
@@ -74,6 +74,7 @@
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 | 2024-02-23 |
 | [I Do](https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 3:01 | 2024-07-04 | 2024-07-06 |
 | [I Do](https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [I Do](https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo) | 3:19 | 2024-09-26 |  |
+| [I Love You](https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Love You](https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6) | 3:10 | 2024-11-22 |  |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-05-26 | 2024-02-02 |
 | [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 | 2023-08-31 | 2024-02-16 |
 | [I Need You](https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Need You](https://open.spotify.com/album/3uRFdty1rcadmo53p0ydVZ) | 3:06 | 2022-08-04 | 2023-03-11 |
@@ -179,7 +180,7 @@
 | [Nitaubeba](https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Nitaubeba](https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI) | 4:10 | 2022-10-27 | 2024-10-18 |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2022-05-26 | 2023-04-21 |
 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 | 2023-03-30 |  |
-| [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-02-22 |  |
+| [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-02-22 | 2024-11-22 |
 | [Number One \(feat\. Zuchu\)](https://open.spotify.com/track/3E3aGiIEpAtuVD0wPjDSsi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One \(feat\. Zuchu\)](https://open.spotify.com/album/3uSWtkSEGvuCeafCDL47eu) | 3:33 | 2024-03-14 | 2024-03-22 |
 | [Ololo](https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ololo](https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg) | 4:01 | 2024-08-15 |  |
 | [Only You](https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Only You](https://open.spotify.com/album/18tAdLw8uME5BDHtEtipBd) | 3:21 | 2024-07-25 |  |
@@ -223,6 +224,7 @@
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 |  |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
+| [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 | 2024-11-22 |  |
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-09-22 |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 | 2023-01-27 |
 | [Umechelewa](https://open.spotify.com/track/58K662tAMuRzVnceOHqosF) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Umechelewa](https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe) | 3:28 | 2024-03-14 | 2024-03-22 |

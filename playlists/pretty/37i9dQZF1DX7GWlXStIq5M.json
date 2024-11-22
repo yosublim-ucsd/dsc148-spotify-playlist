@@ -211,6 +211,26 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173193,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -291,26 +311,6 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173193,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
         "name": "Hotel Caro",
         "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
       },
@@ -355,26 +355,6 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
-        "name": "Sagrado Profano",
-        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 196601,
-      "name": "Sagrado Profano",
-      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -463,18 +443,22 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Futuro namorado",
-        "url": "https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB"
+        "name": "Sagrado Profano",
+        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
       },
       "artists": [
         {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         }
       ],
-      "duration_ms": 164017,
-      "name": "Futuro namorado",
-      "url": "https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp"
+      "duration_ms": 196601,
+      "name": "Sagrado Profano",
+      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -503,38 +487,18 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+        "name": "Futuro namorado",
+        "url": "https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 169845,
-      "name": "(N\u00e3o) Quero Me Apaixonar",
-      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+      "duration_ms": 164017,
+      "name": "Futuro namorado",
+      "url": "https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -551,6 +515,22 @@
       "duration_ms": 175086,
       "name": "Me Lambe",
       "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -607,8 +587,8 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
       "artists": [
         {
@@ -616,13 +596,29 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 188791,
-      "name": "Romance Em Cena",
-      "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 122169,
+      "name": "Low Profile",
+      "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -667,22 +663,6 @@
       "duration_ms": 231628,
       "name": "Double Team",
       "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 122169,
-      "name": "Low Profile",
-      "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -743,22 +723,6 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Curva da Ladeira",
-        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Curva da Ladeira",
-      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -779,22 +743,54 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+        "name": "Curva da Ladeira",
+        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 144175,
-      "name": "Ai Que Calor",
-      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
+      "duration_ms": 180000,
+      "name": "Curva da Ladeira",
+      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 188791,
+      "name": "Romance Em Cena",
+      "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "Amor Traumatizado",
+        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "Amor Traumatizado",
+      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -819,18 +815,22 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 216612,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
+      "duration_ms": 144175,
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Amor Traumatizado",
-        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 190858,
-      "name": "Amor Traumatizado",
-      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
+      "duration_ms": 216612,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
         "name": "Te Ver Superar",
         "url": "https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 215660,
       "name": "absurdo",
       "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "HOSTIL",
-        "url": "https://open.spotify.com/album/3RD9Pfjgaa7bTIZyHKhZu3"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        }
-      ],
-      "duration_ms": 138457,
-      "name": "EGOISTA",
-      "url": "https://open.spotify.com/track/1snag2t9jUxPBrMuVGvQWo"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 151389,
       "name": "Veste a Camisa",
       "url": "https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "HOSTIL",
+        "url": "https://open.spotify.com/album/3RD9Pfjgaa7bTIZyHKhZu3"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        }
+      ],
+      "duration_ms": 138457,
+      "name": "EGOISTA",
+      "url": "https://open.spotify.com/track/1snag2t9jUxPBrMuVGvQWo"
     },
     {
       "added_at": "2024-11-18 14:03:22",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-11-18 14:03:22",
       "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
-    },
-    {
-      "added_at": "2024-11-18 14:03:22",
-      "album": {
         "name": "TEORIA DO CAOS",
         "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 205714,
       "name": "A GENTE SE FERRA JUNTO",
       "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
+    },
+    {
+      "added_at": "2024-11-18 14:03:22",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
     },
     {
       "added_at": "2024-11-18 14:03:22",

@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 360071,
       "name": "Afrobeat Soul",
       "url": "https://open.spotify.com/track/70zP3dZqVVDLmUYUMXCGBn"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 216375,
       "name": "ARABAMBI - Acoustic",
       "url": "https://open.spotify.com/track/3IWrciCBCWopk57MBY9lgL"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195200,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/1nnOecYV4M4EXbZqa1UazG"
@@ -784,6 +784,24 @@
       "duration_ms": 165600,
       "name": "Call (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
+    },
+    {
+      "album": {
+        "name": "Live from Paris (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2qChmTFMg5D2Ingc7Mjy4J"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Catch the Wind - Acoustic Version",
+      "url": "https://open.spotify.com/track/514lgnRIexfb9nr89KHYxX"
     },
     {
       "album": {
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 155454,
       "name": "Folake",
       "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
@@ -3642,7 +3660,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 227448,
       "name": "Mukulu",
       "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185806,
       "name": "No Time",
       "url": "https://open.spotify.com/track/0L2WB5mMXqMwKRG4cIkvU4"
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
@@ -4412,7 +4430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 191658,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP"
@@ -4767,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/3cn5nIvrNELVlQNGuGevlv"
+      },
+      "artists": [
+        {
+          "name": "Wapo",
+          "url": "https://open.spotify.com/artist/7bsdZxG79PZ5aFeubDD13H"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/30nZk02B1AIpJrWQIvECqk"
+    },
+    {
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -4978,7 +5014,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 151014,
       "name": "Something sweet",
       "url": "https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL"
@@ -5138,7 +5174,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174000,
       "name": "sundays",
       "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
@@ -5348,6 +5384,28 @@
       "duration_ms": 172800,
       "name": "There, There, Woman",
       "url": "https://open.spotify.com/track/7huX4BF0SJRvf8mJmUyzFW"
+    },
+    {
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163604,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/71NRY0QzNjfk4slnJ5Q1lh"
     },
     {
       "album": {
@@ -5668,7 +5726,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
@@ -5690,7 +5748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 235151,
       "name": "WAHALA (Stressed)",
       "url": "https://open.spotify.com/track/14JmQapOfMzE13SP7OeAfP"
@@ -5903,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "What Is Finished Has Began",
+        "url": "https://open.spotify.com/album/0sSV7TcVOkYRXEkp0CeRB5"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "What Is Finished Has Began",
+      "url": "https://open.spotify.com/track/057FOdCftxO0VRBKVbzso0"
+    },
+    {
+      "album": {
         "name": "What To Expect When Expecting",
         "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
       },
@@ -6030,7 +6106,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 180000,
       "name": "With Open Arms",
       "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"

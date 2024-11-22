@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,072 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 47 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 |
 | 48 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
 | 49 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
-| 50 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 |
+| 50 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 
 Snapshot ID: `ZzZy4AAAAABIq+VoMWSHXXdWpqDUN6Q3`

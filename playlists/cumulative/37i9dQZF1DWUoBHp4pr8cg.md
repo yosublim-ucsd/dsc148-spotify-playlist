@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Brotherkupa, DJ Slique, Tyler, The Creator, and more...
 
-338 songs - 18 hr 16 min
+339 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 | 2023-06-23 | 2024-02-09 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-10 | 2024-02-09 |
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-04 | 2024-07-19 |
+| [Kele Hampe](https://open.spotify.com/track/5TonGmNvzkRDCDOc0S49ZO) | [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0) | [Kele Hampe](https://open.spotify.com/album/7wR0kz0ZVvo4nlw3sP6oCg) | 2:36 | 2024-11-21 |  |
 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 | 2022-05-26 | 2022-11-04 |
 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 | 2023-02-23 | 2023-03-07 |
 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 | 2023-01-23 | 2023-03-07 |
@@ -162,7 +163,7 @@
 | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/1bl7mvR2BaoqA7ak6xJ3yj) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/73H0tpFPJup6pjsqXYyXWU) | 3:53 | 2024-05-09 |  |
 | [Letter to Takeoff](https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Letter to Takeoff](https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX) | 3:37 | 2022-11-17 | 2023-03-07 |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-06 | 2022-11-15 |
-| [Life Isn't Fair](https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Life Isn't Fair](https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1) | 3:12 | 2024-06-06 |  |
+| [Life Isn't Fair](https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Life Isn't Fair](https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1) | 3:12 | 2024-06-06 | 2024-11-22 |
 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 | 2022-09-29 | 2022-11-04 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-04 |  |
 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 | 2022-09-01 | 2022-10-14 |

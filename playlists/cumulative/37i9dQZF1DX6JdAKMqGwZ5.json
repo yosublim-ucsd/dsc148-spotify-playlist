@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Yarea.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 221959,
       "name": "Buckingham",
       "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 202429,
       "name": "Drama en el Sonorama",
       "url": "https://open.spotify.com/track/4tDilCqVje9Wdx9a9USlPS"
@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Flow deskiciada",
+        "url": "https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Flow deskiciada",
+      "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
+    },
+    {
+      "album": {
         "name": "FOR\u00c7A",
         "url": "https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe"
       },
@@ -1844,6 +1862,24 @@
       "duration_ms": 172699,
       "name": "Full Gas",
       "url": "https://open.spotify.com/track/4ee1OX2Vo9NYJRgCtmdcwA"
+    },
+    {
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157653,
+      "name": "Gatos De Gasolinera",
+      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
     },
     {
       "album": {
@@ -2032,7 +2068,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Imparables",
       "url": "https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn"
@@ -2980,7 +3016,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 177237,
       "name": "Nada Nuevo",
       "url": "https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX"
@@ -3042,7 +3078,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 211567,
       "name": "Ni una sola palabra",
       "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 205694,
       "name": "No est\u00e1s",
       "url": "https://open.spotify.com/track/3TrrxU0SjBUju6w0afOiBS"
@@ -3176,7 +3212,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
@@ -3632,7 +3668,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 134649,
       "name": "Quiero Que Perdamos La Cabeza (Otra Vez)",
       "url": "https://open.spotify.com/track/3DpbwEMDa3P5rzWJZOzWfj"
@@ -3740,7 +3776,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 176654,
       "name": "Ressaca a sa platja",
       "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
@@ -3776,7 +3812,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 235200,
       "name": "Sal a pasear",
       "url": "https://open.spotify.com/track/4Gy2K1tivOt7hOMFmA9i6n"
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 159925,
       "name": "Sin Morir Espero",
       "url": "https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv"
@@ -4496,6 +4532,24 @@
       "duration_ms": 181002,
       "name": "Vida Quemada",
       "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
+    },
+    {
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130694,
+      "name": "Vis a Vis",
+      "url": "https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA"
     },
     {
       "album": {

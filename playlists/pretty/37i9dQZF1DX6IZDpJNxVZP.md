@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,782 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,794 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 49 | [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 1:53 |
 | 50 | [Monster Party](https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Monster Party](https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV) | 1:43 |
 | 51 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 |
-| 52 | [Dracula Spectacular](https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [John Bayne](https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE) | [Dracula Spectacular](https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc) | 2:29 |
-| 53 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
+| 52 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
+| 53 | [Dracula Spectacular](https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [John Bayne](https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE) | [Dracula Spectacular](https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc) | 2:29 |
 | 54 | [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 |
 | 55 | [Halloween Train](https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Halloween Train](https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU) | 2:43 |
 | 56 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 65 | [The Witch with the Candy Shop](https://open.spotify.com/track/3eUQj8Drc7lWpzmizwbpXB) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [The Witch with the Candy Shop](https://open.spotify.com/album/1anOxP9vHeD9m0xhAGgsE3) | 2:36 |
 | 66 | [Halloween Parade \(Spooky Version\)](https://open.spotify.com/track/18BPmfsyok7hkZNIjLYybt) | [SteveSongs](https://open.spotify.com/artist/1M85r8fn8TM2VSXv3YGJRJ) | [Halloween Parade \(Spooky Version\)](https://open.spotify.com/album/7yCAgqhdiajCiPqulbHWnm) | 3:06 |
 | 67 | [5 Little Monsters](https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol\. 1](https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au) | 1:37 |
-| 68 | [Trick Or Treat 2](https://open.spotify.com/track/0bWXTLZqfTwHOjCdKWduJn) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Trick Or Treat 2](https://open.spotify.com/album/2kFL7J6yhmYXod4j1tRdqt) | 3:15 |
+| 68 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
 | 69 | [Skeleton Shake](https://open.spotify.com/track/3dAqvO0MKcWsOYK6K6kShH) | [Bari Koral](https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ) | [Skeleton Shake](https://open.spotify.com/album/2XSPmhwlCOWP77RNQHPomh) | 3:19 |
-| 70 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
+| 70 | [Trick Or Treat 2](https://open.spotify.com/track/0bWXTLZqfTwHOjCdKWduJn) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Trick Or Treat 2](https://open.spotify.com/album/2kFL7J6yhmYXod4j1tRdqt) | 3:15 |
 | 71 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 |
 | 72 | [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 |
 | 73 | [Boo Ya!](https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Boo Ya!](https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu) | 2:36 |
 | 74 | [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 |
-| 75 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 |
+| 75 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 |
 
-Snapshot ID: `ZxsXwAAAAACsLmmdxIhC4as1fM3w9Ams`
+Snapshot ID: `Zz9daAAAAAAGszWTflL+cWW2xJdMJjbA`

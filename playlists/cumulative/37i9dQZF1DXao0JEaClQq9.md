@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Becky and the Birds
 
-666 songs - 1 day 17 hr 44 min
+667 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [girl of my dreams](https://open.spotify.com/track/1yf64DXlkiJ8oMSoUxZzLr) | [Dxvid](https://open.spotify.com/artist/5jSt4R2f03LpayhdOZrC7r) | [girl of my dreams](https://open.spotify.com/album/1HZ8JNnJYVHUoUUJpM6ldD) | 3:42 | 2022-04-22 | 2022-08-03 |
 | [Girl of My Dreams](https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Girl of My Dreams](https://open.spotify.com/album/11rLG3oF7eWzP079JDQUg3) | 3:42 | 2022-04-22 | 2022-09-10 |
 | [Girl of My Dreams](https://open.spotify.com/track/5RdTT9trEnmVML9PlBqNKr) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Late Nights and Heartbreak](https://open.spotify.com/album/2QKh9vmbvNmBwsAzptNHfF) | 3:42 | 2022-04-22 | 2022-06-01 |
-| [Girls just wanna have fun](https://open.spotify.com/track/2BbY1U7zipIeqwd9m2WyC0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Girls just wanna have fun](https://open.spotify.com/album/0Q1LTnqlF8Dfx4B3VPd2q5) | 3:14 | 2024-10-25 |  |
+| [Girls just wanna have fun](https://open.spotify.com/track/2BbY1U7zipIeqwd9m2WyC0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Girls just wanna have fun](https://open.spotify.com/album/0Q1LTnqlF8Dfx4B3VPd2q5) | 3:14 | 2024-10-25 | 2024-11-22 |
 | [Give it Back](https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Give it Back](https://open.spotify.com/album/3qkkYie1eINh4qk4XJUzEW) | 6:41 | 2024-10-25 | 2024-11-16 |
 | [Glass](https://open.spotify.com/track/0QMaNirJT0S10i9MXJFWbQ) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/0cafqSXPiqB0jf1hiTAOI0) | 2:55 | 2021-06-03 | 2022-06-01 |
 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/3LEvqWwkTAZD29xXRNjWSk) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Glider \(from "Sable" Original Video Game Soundtrack\)](https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO) | 2:51 | 2021-09-10 | 2022-07-29 |
@@ -666,6 +666,7 @@
 | [Woe \(I See It From Your Side\) \- Björk Remix](https://open.spotify.com/track/1cfLiIKKcBE2ReK1YW3Zu4) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Woe \(I See It From Your Side\) \[Björk Remix\]](https://open.spotify.com/album/385JXSHV11PUnppjIvepfb) | 3:44 | 2023-03-31 | 2023-04-15 |
 | [Wood](https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Meeting with a Judas Tree](https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg) | 3:32 | 2022-12-16 | 2023-01-18 |
 | [WURMPLE](https://open.spotify.com/track/0sHuguNKahnmkpHZxksHAU) | [Buddy Ross](https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn) | [WURMPLE](https://open.spotify.com/album/5Q1XT0rKsit4ONJJ0FSdWS) | 2:47 | 2024-11-01 |  |
+| [ydoifeel?](https://open.spotify.com/track/3a3xthyDmu7smxTi9xbxBV) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [ydoifeel?](https://open.spotify.com/album/2wzzqMqhXc4p5eK4LrTlp2) | 3:10 | 2024-11-22 |  |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2021-06-03 | 2024-08-16 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-13 |  |
 | [You Don't Get Me High Anymore](https://open.spotify.com/track/7EK3dE4L4eV6kfiQxDDQTh) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [You Don't Get Me High Anymore](https://open.spotify.com/album/74USk7JkeC5AkbPZg3Eg7o) | 4:05 | 2022-01-28 | 2022-04-20 |

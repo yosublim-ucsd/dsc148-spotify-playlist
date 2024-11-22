@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745,742 likes - 175 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,745,735 likes - 175 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

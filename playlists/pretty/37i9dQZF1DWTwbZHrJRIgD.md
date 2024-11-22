@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,096 likes - 67 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,351 likes - 67 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 9 | [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Tere Pyaar Mein \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO) | 4:26 |
 | 10 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 |
 | 11 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 |
-| 12 | [Honey Bunny \(From "Citadel Honey Bunny"\)](https://open.spotify.com/track/18eU5q03aArHVGLTVECP8M) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Honey Bunny \(From "Citadel Honey Bunny"\)](https://open.spotify.com/album/6JPNKeKh3drCsWOWDBZXhd) | 3:03 |
+| 12 | [Hichki 2.0](https://open.spotify.com/track/6PDO72KzSXuiVZAZSOdSng) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Swaroop Khan](https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC), [Poorvi Koutish](https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 3:37 |
 | 13 | [Sunn Husna Di Pariye](https://open.spotify.com/track/49Fasm6ujDTptKlCibF3qz) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu) | [Azaad Collab](https://open.spotify.com/album/1p3mGK6FO2Mcs4NSqqlPRK) | 3:30 |
 | 14 | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi) | 2:56 |
 | 15 | [Matak Matak](https://open.spotify.com/track/6OJFI21TFUEsqCtyIRTmVG) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [TimiBOI](https://open.spotify.com/artist/7JOx03sIOirdg2PFnna2U2) | [Matak Matak](https://open.spotify.com/album/7e6zLnFAsvGVF7YHH6Gnqs) | 2:46 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 66 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 67 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `ZzGthgAAAAD8U1oZrMYJyRsneMqBvLmE`
+Snapshot ID: `Zz8IkAAAAADAqMiWs/qeO1xCaQ7xPDmZ`

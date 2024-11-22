@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Max Styler.",
-  "num_followers": 1950714,
+  "num_followers": 1950734,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
         "url": "https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 150923,
       "name": "I've Arrived (with Tomike)",
       "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Receipts (feat. Gunna)",
         "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Find The Way",
-        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Find The Way",
-      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Locomotiva Ibiza 2099 II",
-        "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "No Boys Allowed - OG House Mix",
-      "url": "https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Shake & Pop (John Summit Remix)",
         "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 217694,
       "name": "Shake & Pop - John Summit Remix",
       "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Locomotiva Ibiza 2099 II",
+        "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "No Boys Allowed - OG House Mix",
+      "url": "https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 186997,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Closer (feat. Bantu)",
         "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
       },
@@ -1735,26 +1755,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Body Type",
-        "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 132378,
-      "name": "Body Type",
-      "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Bus Stop Please",
         "url": "https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94"
       },
@@ -1771,6 +1771,26 @@
       "duration_ms": 215300,
       "name": "Bus Stop Please",
       "url": "https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Body Type",
+        "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 132378,
+      "name": "Body Type",
+      "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1819,22 +1839,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX"
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
       "artists": [
         {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 186997,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1859,26 +1875,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "See You Sweat",
-        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "See You Sweat",
-      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
       },
@@ -1899,18 +1895,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
+        "name": "See You Sweat",
+        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+      "duration_ms": 209280,
+      "name": "See You Sweat",
+      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2027,6 +2027,26 @@
       "duration_ms": 240000,
       "name": "So Good - Heat Mix",
       "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2151,26 +2171,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Can't Let You Go",
-        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Can't Let You Go",
-      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Disco Boy",
         "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
       },
@@ -2183,26 +2183,6 @@
       "duration_ms": 221370,
       "name": "Disco Boy",
       "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Break The House Down",
-        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 208730,
-      "name": "Break The House Down",
-      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2227,6 +2207,42 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Break The House Down",
+        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 208730,
+      "name": "Break The House Down",
+      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Son of a Gun",
         "url": "https://open.spotify.com/album/6SQvgcyrmrG1u5wSgQjljP"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 169105,
       "name": "Son of a Gun",
       "url": "https://open.spotify.com/track/5qkiiTb3a3dIApyaxaAPEE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -2407,26 +2407,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Shake Body",
-        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Shake Body",
-      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Shake Body",
+        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
     },
     {
       "added_at": "2024-11-15 05:00:00",

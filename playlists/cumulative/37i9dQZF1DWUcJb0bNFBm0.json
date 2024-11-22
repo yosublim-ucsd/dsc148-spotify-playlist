@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  (Cover: Milledenials)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  (Cover: RENE)",
   "name": "Haze ",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 253520,
       "name": "BLUE WINE",
       "url": "https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 288466,
       "name": "Boring Train",
       "url": "https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 262910,
       "name": "Dua Angsa - Remastered 2023",
       "url": "https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 223764,
       "name": "Edges",
       "url": "https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 254000,
       "name": "Ketika Tenggelam (Dan Kisah Kekalahan Lainnya)",
       "url": "https://open.spotify.com/track/0OTpMmO1nqhNWSMDGo7Hx8"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 303859,
       "name": "North",
       "url": "https://open.spotify.com/track/7t0gATi7yocV67rRNEXcDp"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 232294,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/78ar3KjOd7cJIZJqk67mnw"
@@ -1618,6 +1618,24 @@
       "duration_ms": 208421,
       "name": "Our Summer Days",
       "url": "https://open.spotify.com/track/7sOOqL5a968IFjVAwgsMCl"
+    },
+    {
+      "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ"
+      },
+      "artists": [
+        {
+          "name": "RENE",
+          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180674,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
     },
     {
       "album": {
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 256450,
       "name": "The End (Reprise)",
       "url": "https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze"

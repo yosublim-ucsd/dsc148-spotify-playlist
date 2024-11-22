@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,455 likes - 80 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,555 likes - 80 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 17 | [Manhãs](https://open.spotify.com/track/17r278VUtXd0jcjD7tqp8P) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq), [Julia Weber](https://open.spotify.com/artist/2R1F930UQcZvfatMtQMNOJ) | [Manhãs](https://open.spotify.com/album/6Y4133hR1mTBs2eLU1xOBy) | 2:40 |
 | 18 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
 | 19 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
-| 20 | [Segure Minhas Mãos \- Acústico](https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Segure Minhas Mãos \(Acústico\)](https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY) | 7:17 |
-| 21 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 |
+| 20 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 |
+| 21 | [Segure Minhas Mãos \- Acústico](https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Segure Minhas Mãos \(Acústico\)](https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY) | 7:17 |
 | 22 | [Teus Sonhos \- Acústico](https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q) | 4:25 |
 | 23 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
 | 24 | [De Dentro Pra Fora \- Acústico](https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora \(Acústico\)](https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70) | 4:17 |

@@ -1,13 +1,29 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 73949,
+  "num_followers": 74006,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzvVAAAAAACzYmlLffsJPogymlaXXwth",
+  "snapshot_id": "Zz0mgAAAAABKMzRPlKSTsWfseh6gEmxB",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9"
+    },
     {
       "added_at": null,
       "album": {

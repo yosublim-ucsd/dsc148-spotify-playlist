@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MABELZ PiXXiE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MXFRUIT",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -616,7 +616,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 174600,
       "name": "Choose Me",
       "url": "https://open.spotify.com/track/4BoZEcYmmCgANjVTCCyY76"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 195195,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0kO4mdnP7JOXSmgjrZafac"
@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "THI-O 1st Mini Album",
+        "url": "https://open.spotify.com/album/4JayThE37cKd5m1fbVwZii"
+      },
+      "artists": [
+        {
+          "name": "THI-O",
+          "url": "https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198321,
+      "name": "ROS\u00c8E",
+      "url": "https://open.spotify.com/track/4yYbrzNN5vVuTUXWuVK9wm"
+    },
+    {
+      "album": {
         "name": "Sad Movie",
         "url": "https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7"
       },
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 197500,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8"
@@ -3146,6 +3164,28 @@
       "duration_ms": 190162,
       "name": "\u0e01\u0e25\u0e49\u0e27\u0e22\u0e2b\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e23\u0e31\u0e01\u0e40\u0e17\u0e48\u0e32\u0e19\u0e35\u0e49 (Hold My Hand) - Single",
+        "url": "https://open.spotify.com/album/6j7oZMBlpqLLmyOCUa9rwR"
+      },
+      "artists": [
+        {
+          "name": "Boun Noppanut",
+          "url": "https://open.spotify.com/artist/1TDYpPetZx12xYBtiwNyH7"
+        },
+        {
+          "name": "Prem Warut",
+          "url": "https://open.spotify.com/artist/1MPwo0q3ffSWWQs6tzDl0R"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194727,
+      "name": "\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e23\u0e31\u0e01\u0e40\u0e17\u0e48\u0e32\u0e19\u0e35\u0e49 (Hold My Hand)",
+      "url": "https://open.spotify.com/track/2Xt77nQ29YR1X5YtfNvVcX"
     },
     {
       "album": {
@@ -6208,7 +6248,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-22",
       "duration_ms": 229218,
       "name": "\u0e1d\u0e19\u0e14\u0e32\u0e27\u0e15\u0e01",
       "url": "https://open.spotify.com/track/4cwPcUeVHICTN9PN8EvNoa"
@@ -7373,6 +7413,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e49\u0e2d\u0e22\u0e27\u0e34\u0e18\u0e35",
+        "url": "https://open.spotify.com/album/2KpmMUUIvS38LEciOhWnQK"
+      },
+      "artists": [
+        {
+          "name": "War Wanarat",
+          "url": "https://open.spotify.com/artist/3jDWLrSLvyA7MpfA4DshiJ"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239104,
+      "name": "\u0e23\u0e49\u0e2d\u0e22\u0e27\u0e34\u0e18\u0e35",
+      "url": "https://open.spotify.com/track/0jgfu4m7Cy0lCsTB9G1kFw"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e49\u0e32\u0e22\u0e01\u0e32\u0e08 Lifeguard",
         "url": "https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz"
       },
@@ -7734,6 +7792,24 @@
       "duration_ms": 234736,
       "name": "\u0e27\u0e32\u0e22\u0e42\u0e2d\u0e22\u0e39 (Y.O.U)",
       "url": "https://open.spotify.com/track/3MZ6pw9dt75zdCZCv79FKf"
+    },
+    {
+      "album": {
+        "name": "CHERRY",
+        "url": "https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251538,
+      "name": "\u0e27\u0e34\u0e07\u0e27\u0e2d\u0e19 (ex-change)",
+      "url": "https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH"
     },
     {
       "album": {

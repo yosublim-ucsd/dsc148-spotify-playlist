@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Lambrini Girls, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,850 likes - 244 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,945 likes - 244 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 38 | [Big Picture](https://open.spotify.com/track/5KTbAv7H6sbnGcZAImIzBx) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt), [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Big Picture](https://open.spotify.com/album/6pmwjBpzXxoL6LYbwnLTYO) | 3:38 |
 | 39 | [10/10](https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [10/10](https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX) | 2:52 |
 | 40 | [Scrooge](https://open.spotify.com/track/1StdMBW0isj2kHc7ENiORC) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Scrooge](https://open.spotify.com/album/0nBzqzBYWxfcwMf6TPlEj7) | 3:24 |
-| 41 | [Bad Dreams](https://open.spotify.com/track/2iYloG141GZNKVGXdfYBvS) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [I'll Be Fine...](https://open.spotify.com/album/66QiRk8mEl9fcHpApBCaU5) | 2:14 |
+| 41 | [Bad Dreams](https://open.spotify.com/track/2iYloG141GZNKVGXdfYBvS) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [I'll be fine...](https://open.spotify.com/album/66QiRk8mEl9fcHpApBCaU5) | 2:14 |
 | 42 | [SPY](https://open.spotify.com/track/3J6OqU2s8FMERRkNieyjiJ) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SPY](https://open.spotify.com/album/2KtxjHs3j3W1s1hDBjkcMu) | 2:07 |
 | 43 | [Don't Know What](https://open.spotify.com/track/5kmNZLo9iHj7wfJsCCW4BR) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Need 4 Speed](https://open.spotify.com/album/7HaN6resQ87eey8nbhD811) | 4:37 |
 | 44 | [stevie wonder](https://open.spotify.com/track/2WlRzgzj2gBsocVUwh2xhJ) | [Keoni Usi](https://open.spotify.com/artist/3cIPGzTCvyVMFhvsn550Wn) | [stevie wonder](https://open.spotify.com/album/07bc8zJLyPToXtWHzlmzYz) | 3:50 |

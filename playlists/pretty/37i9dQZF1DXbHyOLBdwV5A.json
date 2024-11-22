@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 124599,
+  "num_followers": 124607,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2024-08-30 03:01:00",

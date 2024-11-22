@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Russell Westbrook
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Anthony Davis, LeBron James and Dalton Knecht
 
 755 songs - 1 day 15 hr 5 min
 

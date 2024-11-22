@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Echo Sax",
+        "url": "https://open.spotify.com/album/5OBLrcdkIRn8sLEmUxb5Du"
+      },
+      "artists": [
+        {
+          "name": "Caleb Arredondo",
+          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101034,
+      "name": "Echo Sax No.4",
+      "url": "https://open.spotify.com/track/42nLBZfnd6asM3gkD2FDxH"
+    },
+    {
+      "album": {
         "name": "Lifeglow",
         "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
       },
@@ -1280,6 +1298,24 @@
       "duration_ms": 181175,
       "name": "Hide - CS01 Version",
       "url": "https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X"
+    },
+    {
+      "album": {
+        "name": "Hide (Slow)",
+        "url": "https://open.spotify.com/album/3Ap3vkIrszjbJPlgXllh02"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Hide - Slow",
+      "url": "https://open.spotify.com/track/4CEK8L459CVr9wqc4ib2ZD"
     },
     {
       "album": {
@@ -3224,6 +3260,24 @@
       "duration_ms": 67500,
       "name": "The Lobotomy",
       "url": "https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf"
+    },
+    {
+      "album": {
+        "name": "What We Do For Others",
+        "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119865,
+      "name": "The Other",
+      "url": "https://open.spotify.com/track/2SRwPT8GNjoaoEwoZvcD7W"
     },
     {
       "album": {
